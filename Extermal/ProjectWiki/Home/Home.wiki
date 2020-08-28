@@ -1,0 +1,24 @@
+
+***>
+
+# Welcome to the seanpm2001 wiki!
+
+# MediaWiki test
+
+<param></param>
+
+== Level 2 ==
+
+=== Level 3 ===
+
+==== Level 4 ====
+
+===== Level 5 =====
+
+====== Level 6 ======
+
+Text before
+----
+Text after
+
+***>
