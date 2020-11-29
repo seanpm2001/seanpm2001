@@ -1,4 +1,7 @@
-## Welcome 👋
+
+***
+
+## Welcome to my GitHub profile <!--👋!-->
 
 <!--
 **seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+!-->
 
 I joined GitHub on May 25th 2020 to get my many projects out there. I am skilled in computer programming, and I have many interests. [Learn more about me here](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
+
+***
 
 ### What I'm currently working on
 
@@ -30,6 +35,8 @@ My major projects include:
 [Meadows](https://github.com/seanpm2001/Meadows/) - My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing/
 
 [Journaling](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: May 15th 2040) an audio collection, a set of personal projects, and a set of image repostories. A listing is unavailable as of September 17th 2020.
+
+# Search my profile easier with [this helpful Gist](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe/)
 
 ***
 
@@ -103,7 +110,35 @@ I will do free technical support for you, or programming related work in my scop
 
 I charge money for technical support ($5.00 per hour) if I have to do these steps more than 3 times in a year for 1 person.
 
+**Some limitations**
+
+I cannot do projects unless the scripts are on GitHub or SourceForge already.
+
+I also can't work on projects that are related to your school work. Please do not ask me to do your school work for you. We could both get in trouble for this.
+
+I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3, Java, C, C++, or JavaScript. I won't be able to help as well with projects written in other languages.
+
+No other limitations listed at the moment.
+
 ***
+
+### Feature requests for GitHub
+
+There are some features that would be nice for GitHub. They include:
+
+**Entries marked with `⭐` are highest priority**
+
+> * The ability to follow organizations ⭐
+
+> * An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
+
+> * A built-in dark mode, along with other modes (if needed)
+
+> * Adding back the ability to hover over and see commit percentages ⭐
+
+> * Support for Go! (2004 language by Francis McCabe) (to distinguish from Go (2009 Google language))
+
+> * No other requests at the moment
 
 ### Ask me about
 
@@ -127,15 +162,16 @@ There currently aren't any other ways of messaging me
 
 You can find more info on my personal Gist. [Click/tap here to learn more about me](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
+<!--
 ***
 
 ### File info
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Thursday, September 17th 2020 at 7:20 pm)`
+File version: `3 (Sunday, November 29th 2020 at 3:50 pm)`
 
-Line count (including blank lines and compiler line): `215`
+Line count (including blank lines and compiler line): `281`
 
 ***
 
@@ -185,11 +221,23 @@ Version 2 (Thursday, September 17th 2020 at 7:20 pm)
 
 > * No other changes in version 2
 
-Version 3 (Coming soon)
+Version 3 (Sunday, November 29th 2020 at 3:50 pm)
 
 > Changes:
 
-> * Coming soon
+> * Commented out the version history section and the file info section for better profile navigation
+
+> * Updated the version history section
+
+> * Added new info for technical support
+
+> * Added a link to a search tool for my projects
+
+> * Some bug fixes
+
+> * Updated the title section
+
+> * Added the `feature requests for GitHub` section
 
 > * No other changes in version 3
 
@@ -200,6 +248,24 @@ Version 4 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 4
+
+Version 5 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+Version 6 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
+
+!-->
 
 ***
 
