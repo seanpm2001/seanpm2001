@@ -154,7 +154,7 @@ I have multiple methods of being reached. Currently, I can't answer to phone cal
 
 * Through Discord (server link: [Click here](https://discord.gg/CcFpEDQ))
 
-* Through Reddit (subreddit link: [Click here r/seanpm2001](https://www.reddit.com/r/seanpm2001/) or through direct message [Click here to view my profile](https://www.reddit.com/user/seanwallawalla/)
+* Through Reddit (subreddit link: [Click here r/seanpm2001](https://www.reddit.com/r/seanpm2001/) or through direct message [Click here to view my profile](https://www.reddit.com/user/seanwallawalla/) - currently inactive on the subreddit, but I will likely respond to a reply or DM within 48 hours
 
 There currently aren't any other ways of messaging me
 
@@ -162,20 +162,41 @@ There currently aren't any other ways of messaging me
 
 You can find more info on my personal Gist. [Click/tap here to learn more about me](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
-<!--
+***
+
+### Projects on other platforms
+
+I have been using GitHub for software development since May 25th 2020, but I have been programming since early 2016.
+
+On December 21st 2020, I created accounts on SourceForge, GitLab, and BitBucket. I currently don't maintain any projects there at the moment, GitHub still is the powerhouse.
+
+[SourceForge link](https://sourceforge.net/u/seanpm2001/profile/)
+
+[GitLab link](https://gitlab.com/seanpm2001)
+
+[BitBucket link](https://bitbucket.org/seanpm2001/)
+
+When I joined GitHub, I also intended to use other platforms as well, as something could always go wrong with my account or GitHub itself, and it isn't smart to rely on a single source for everything.
+
+Now, if GitHub is having problems or if you have problems with GitHub, my projects are viewable on 3 other platforms. Unfortunately, they are still only on GitHub, as I don't have enough developers to manage 4 platforms at once, I will eventually mirror my projects over.
+
 ***
 
 ### File info
 
 File type: `Markdown (*.md)`
 
-File version: `3 (Sunday, November 29th 2020 at 3:50 pm)`
+File version: `4 (Tuesday, December 22nd 2020 at 9:26 pm)`
 
-Line count (including blank lines and compiler line): `281`
+Line count (including blank lines and compiler line): `326`
 
 ***
 
 ### File version history
+
+This section is commented out to enable better scrolling. Fork/download the project to view the source code, or "view raw" to see the file history
+
+<!--
 
 Version 1 (Friday, August 21st 2020 at 4:39 pm)
 
@@ -241,11 +262,19 @@ Version 3 (Sunday, November 29th 2020 at 3:50 pm)
 
 > * No other changes in version 3
 
-Version 4 (Coming soon)
+Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added the `projects on other platforms` section
+
+> * Uncommented out the `file info` section
+
+> * Updated the `file info` section
+
+> * Updated the `file history` section
+
+> * Updated the `how to reach me` section
 
 > * No other changes in version 4
 
@@ -264,6 +293,22 @@ Version 6 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 6
+
+Version 7 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 7
+
+Version 8 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 8
 
 !-->
 
