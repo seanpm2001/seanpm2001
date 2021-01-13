@@ -40,6 +40,50 @@ My major projects include:
 
 ***
 
+## Free software isn't free to develop
+
+Remember that free software and open source software is not always free to develop. Make sure to donate to software organizations you like, so that they can keep producing contributions to society.
+
+My list of supported organizations include:
+
+* Wikimedia (creators of Wikipedia, Wiktionary, and more)
+
+* VideoLan (creators of VLC Media Player and other prominent video tools)
+
+* GNU
+
+* The Free Software Foundation
+
+* The Open Document foundation
+
+* Khan Academy
+
+* The Linux foundation
+
+* FFMPEG
+
+* The Internet Archive (also the creators of the wayback machine)
+
+* Open Street Map
+
+* Inkscape
+
+* Mozilla (moz://a)
+
+**More to be listed**
+
+***
+
+## Software status
+
+All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+
+![DRM-free_label.en.svg](DRM-free_label.en.svg)
+
+This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
+
+***
+
 ### What I'm currently learning
 
 It isn't exact, I have many interests. What I am always learning include:
@@ -186,9 +230,9 @@ Now, if GitHub is having problems or if you have problems with GitHub, my projec
 
 File type: `Markdown (*.md)`
 
-File version: `4 (Tuesday, December 22nd 2020 at 9:26 pm)`
+File version: `5 (Wednesday, January 13th 2021 at 2:56 pm)`
 
-Line count (including blank lines and compiler line): `326`
+Line count (including blank lines and compiler line): `392`
 
 ***
 
@@ -278,11 +322,17 @@ Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)
 
 > * No other changes in version 4
 
-Version 5 (Coming soon)
+Version 5 (Wednesday, January 13th 2021 at 2:56 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the `file info` section
+
+> * Updated the `file history` section
+
+> * Added the `support free software` section
+
+> * Added the `software status` section
 
 > * No other changes in version 5
 
@@ -309,6 +359,22 @@ Version 8 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 8
+
+Version 9 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 9
+
+Version 10 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 10
 
 !-->
 
