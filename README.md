@@ -1,6 +1,10 @@
 
 ***
 
+![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
+
+Current profile picture as of March 4th 2021 [Click here to download in full quality (JPEG)](SeniorPhotoFullQuality.jpeg) [Click here to see past profile pictures](#Profile-picture-history)
+
 ## Welcome to my GitHub profile <!--👋!-->
 
 <!--
@@ -22,23 +26,81 @@ I joined GitHub on May 25th 2020 to get my many projects out there. I am skilled
 
 ***
 
+## Index
+
+[00.0 - Title](#Welcome-to-my-GitHub-profile)
+
+[00.5 - Index](#Index)
+
+[01.0 - What I'm currently working on](#What-I'm-currently-working-on)
+
+[02.0 - Free software isn't free to develop](#Free-software-isn't-free-to-develop)
+
+[03.0 - Software status](#Software-status)
+
+[04.0 - What I'm currently learning](#What-I'm-currently-learning)
+
+[05.0 - What I'm looking to collaborate on](#What-I'm-looking-to-collaborate-on)
+
+[06.0 - What I'm looking to help with](#What-I'm-looking-to-help-with)
+
+[07.0 - Feature requests for GitHub](#Feature-requests-for-GitHub)
+
+[08.0 - Ask me about](#Ask-me-about)
+
+[09.0 - How to reach me](#How-to-reach-me)
+
+[10.0 - Projects on other platforms](#Projects-on-other-platforms)
+
+[11.0 - Identity theft](#Identity-theft)
+
+[12.0 - Personal](#Personal)
+
+[13.0 - Profile picture history](#Profile-picture-history)
+
+[14.0 - Linux](#Linux)
+
+[15.0 - File info](#File-info)
+
+[16.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+
+[17.0 - Footer](#Footer)
+
+[18.0 - End of file](#End-of-file)
+
+***
+
 ### What I'm currently working on
 
 I have many repositories. The majority of them are sub-projects to a main project (SNU)
 
 My major projects include:
 
+![Original SNU profile picture failed to load. Click/tap here to attempt to view it](/Media/71748421.png)
+
 [SNU](https://github.com/seanpm2001/SNU/) - An advanced website hosting platform, aiming to be the Linux of web development, and an alternate to many sites, including YouTube, Twitter, FaceBook, GitHub, Instagram, Reddit, Discord, and hundreds of thousands more.
+
+![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/MEDOS4_Logo.bmp)
 
 [MEDOS](https://github.com/seanpm2001/MEDOS/) - An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed.
 
+![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/QMDS.png)
+
 [Meadows](https://github.com/seanpm2001/Meadows/) - My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing/
 
+![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/Artikel.png)
+
 [Journaling](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: May 15th 2040) an audio collection, a set of personal projects, and a set of image repostories. A listing is unavailable as of September 17th 2020.
+
+**Other projects:**
+
+( [Health projects](https://github.com/Seanwallawalla-health) | [CompuSmell project](https://github.com/CompuSmell) | [Degoogle campaign](https://github.com/Degoogle-your-life) | [Myrick family archive](https://github.com/Myrick-family-archive) | [Nostalgia Project](https://github.com/Nostalgia-project) | [Other operating system projects](https://github.com/seanwallawalla-operating-systems) | [Bot projects](https://github.com/seanwallawalla-bots) | [Software security projects](https://github.com/seanwallawalla-security) | [Audio projects](https://github.com/seanwallawalla-audio) | [Open Source Video games](https://github.com/seanwallawalla-gaming) | [Malware projects (ONLY FOR USE IN VIRTUAL MACHINES)](https://github.com/seanwallawalla-malware) | **Other projects (100+) aren't listed yet** )
 
 # Search my profile easier with [this helpful Gist](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe/)
 
 ***
+
+![PythonLogo.png](/Media/PythonLogo.png)
 
 ## Free software isn't free to develop
 
@@ -226,13 +288,111 @@ Now, if GitHub is having problems or if you have problems with GitHub, my projec
 
 ***
 
+### Identity theft
+
+To avoid possible identity theft, I will link to all the services I use here.
+
+I am on the following platforms
+
+[Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
+
+[Discord](#How-to-reach-me) - Note: as of February 2021, I no longer use Discord
+
+[GitHub](https://github.com/seanpm2001) - Obviously
+
+[YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
+
+* [YouTube second channel](#Identity-theft)
+
+* Other
+
+[Mozilla](#Identity-theft)
+
+[Twitter](https://www.twitter.com/@seanwallawalla) - No longer use as of 2018, slightly cringy, but not too bad
+
+[Scratch](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
+
+* [Scratch attempted main account](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
+
+* Other?
+
+[Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
+
+[Yelp](#Identit-theft) - Link is incomplete
+
+[Tumblr](https://tumblr.com) - Link is incomplete
+
+[Bandcamp](https://seanwallawalla.bandcamp.com/releases) - My only way of earning money online at the moment
+
+[Quora](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here
+
+[Go90](https://www.example.com) - Created an account, barely attempted to use, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+
+[Ditty.it](https://www.example.com) - Created and exported all videos, used daily for a while, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+
+**List is incomplete. Try bugging me to fix it. I will eventually when I have time, but I might not get to it soon enough.**
+
+However, I am not on other platforms. If you see someone posing on me on other platforms, don't take their word, as they are commiting identity theft. _Identity theft is not a joke Jim. Millions of families suffer every year_ in all seriousness, Identity theft is an actual problem.
+
+Popular platforms I am not on:
+
+[TikTok](https://tiktok.com) - I am not on TikTok for multiple reasons. The 2 main reasons why I never use TikTok are:
+
+1. It has a plethora of privacy issues and is fully owned by a Chinese company
+
+2. I don't have an interest in this type of video platform
+
+Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Total times I viewed TikTok content from another platform (reuploads, but not links, as that would be visiting TikTok directly): `85+`
+
+***
+
+### Personal
+
+I have some personal opinions on GitHub. I am working on keeping them contained inside 2 repositories:
+
+[Opinions](https://github.com/seanpm2001/Opinions) - Opinions are documented here
+
+[Politics](https://github.com/seanpm2001/Politics) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
+
+On GitHub, I have a lot of other personal projects, under the category of a life archive project, which I have been working on extra hard since 2016.
+
+***
+
+### Profile picture history
+
+Here is a history of my GitHub profile picture:
+
+![Original profile picture failed to load. Click/tap here to attempt to view it](/Media/65933340.png)
+
+Original (May 25th 2020 to ? 2020)
+
+![Original modified profile picture failed to load. Click/tap here to attempt to view it](/Media/773af859eafc403a8ce6bb3051bd2618 (copy).png)
+
+Original (Windows Explorer transparency glitched version)
+
+![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
+
+Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
+
+***
+
+### Linux
+
+I was a fan of Windows up until Windows 10. I began to try to switch to Linux from 2018 to 2020. On July 9th 2020, I finally switched to Linux, getting my first Dell laptop with Linux pre-installed.
+
+![20200709_124359.jpg](/Media/20200709_124359.jpg)
+
+My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
+
+***
+
 ### File info
 
 File type: `Markdown (*.md)`
 
-File version: `5 (Wednesday, January 13th 2021 at 2:56 pm)`
+File version: `6 (Thursday, March 4th 2021 at 3:30 pm)`
 
-Line count (including blank lines and compiler line): `392`
+Line count (including blank lines and compiler line): `586`
 
 ***
 
@@ -336,11 +496,29 @@ Version 5 (Wednesday, January 13th 2021 at 2:56 pm)
 
 > * No other changes in version 5
 
-Version 6 (Coming soon)
+Version 6 (Thursday, March 4th 2021 at 3:30 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added several new images
+
+> * Updated the `file info` section
+
+> * Updated the `file history` section
+
+> * Added the Linux section
+
+> * Added the identity theft section
+
+> * Added the index
+
+> * Updated the `What I'm currently working on` section
+
+> * Added the profile picture version history section
+
+> * Added data to the header
+
+> * Added the personal section
 
 > * No other changes in version 6
 
@@ -375,6 +553,22 @@ Version 10 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 10
+
+Version 11 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 11
+
+Version 12 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 12
 
 !-->
 
