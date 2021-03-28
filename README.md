@@ -1,11 +1,93 @@
 
 ***
 
+##### Top
+
+⬆️ Above [(seanpm2001/seanpm2001)](https://github.com/seanpm2001/seanpm2001) - The repository hosting this profile README file
+
+🗄️ Explore this repo:
+
+### GitHub:seanpm2001/seanpm2001
+
+===
+
+📂 [ .github](/.github/.github_README.md) - The GitHub configuration folder.
+
+📂 [DailyStatus](/DailyStatus/README.md) - An archive of my daily status posts.
+
+📂 [External](/Extermal/) - Stores external data (ProjectWiki, other)
+
+📂 [FFTechSupport](/FFTechSupport/) - Stores emergency tech support data, originally for Firefox.
+
+📂 [Fun stuff](/FunStuff/) - A collection of fun extras.
+
+📂 [GitHub Commits](/GitHub_Commits/) - Original location of [daily GitHub images](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub).
+
+📂 [Jumping Text](/JumpingText/) - Jumping text like the Minecraft title screen, only available if moddable through GitHub.
+
+📂 [Kiosk](/Kiosk/) - Various CSV Kiosk data for personal use.
+
+📂 [Media](/Media/) - Miscellaneous images used for the README file you are currently reading.
+
+📂 [Notes](/Notes/) - The original location of [daily GitHub notes](https://github.com/seanpm2001/Git-Templates/).
+
+📂 [OldVersions](/OldVersions/) - Old versions of the README file you are currently reading.
+
+📂 [Sandbox](/Sandbox/) - A test sandbox for testing out certain GitHub functionality.
+
+📂 [Schedule](/Schedule/) - A collection of my schedules.
+
+---
+
+📜 [.gitignore](.gitignore) - A random .gitignore file.
+
+📜 [CONTRIBUTING.md](CONTRIBUTING.md) - The `CONTRIBUTING.md` file for this project, containing info on how you can contribute.
+
+📜 [DRM-free_label.en.svg](DRM-free_label.en.svg) - The image file telling you that this project does not contain DRM.
+
+📜 [LANG1.py](LANG1.py) - The first project language file for this project.
+
+📜 [LANG1_V1.py](LANG1_V1.py) - An archive of the first version of the first project language file for this project.
+
+📜 [LANG2.html](LANG2.html) - The second project language file for this project.
+
+📜 [LANG2_V1.html](LANG2_V1.html) - An archive of the first version of the second project language file for this project.
+
+📜 [LICENSE.txt](LICENSE.txt) - The license for this project (GNU General Public License v3.0)
+
+📜 [README.md](README.md) - The README file you are currently reading. (clicking this link will likely reload the page)
+
+📜 [SECRET.md](SECRET.md) - Original text of the GitHub profile secret.
+
+📜 [SeniorPhotoFullQuality.jpeg](SeniorPhotoFullQuality.jpeg) - The full version of my senior photo, used as my profile picture.
+
+📜 [SponsorButton.png](SponsorButton.png) - A graphical copy of the sponsor button for this project.
+
+===
+
+## README Usage
+
+**This README file is now being aimed to be a portal to everything I offer online. It is a work-in-progress, and is not yet fully complete. It is also something that will always be gradually updated every once in a while.**
+
 ![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
 
 Current profile picture as of March 4th 2021 [Click here to download in full quality (JPEG)](SeniorPhotoFullQuality.jpeg) [Click here to see past profile pictures](#Profile-picture-history)
 
+If you have been sent here through a link through SMS (text messaging) congratulations! You are a close friend, and one of 73 people/bots who have access to my phone number and have been approved by me. If you would like, you can take a quick look at my [texting guidelines](https://github.com/seanpm2001/SMS-Messaging-with-Sean), or to put it simply: don't spam, don't share my number, and feel free to message me and send me anything at any time (even midnight, or 3:22 am) I likely won't respond immediately, but I will get to you when I am awake.
+
 ## Welcome to my GitHub profile <!--👋!-->
+
+Read this description in a different language:
+
+[ar عربى](README_AR.md) [bg български](README_BG.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [nl Nederlands](README_NL.md) [EO Esperanto](README_EO.md) [ka ქართველი](README_KA) [fr français](README_FR.md) [el Ελληνικά](README_EL.md) [de Deutsch](README_DE.md) [hi हिन्दी](README_HI.md) [he עִברִית](README_HE.md) [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [no norsk](README_NO.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md) [sw Kiswahili](README_SW.md) [sv Svenska](README_SV.md) [te తెలుగు](README_TE.md) [tr Türk](README_TR.md) [ur اردو](README_UR.md) [uk Український](README_UK.md) [vi Tiếng Việt](README_VI.md) [cy Cymraeg](README_CY.md) [xh isiXhosa](README_XH.md) [yi יידיש](README_YI.md) [zu Zulu](README_ZU.md)
+
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/seanpm2001/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+
+Note: due to limitations with markdown, clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
+
+Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
+
+[GitHub profile secret info](SECRET.md)
 
 <!--
 **seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,45 +110,139 @@ I joined GitHub on May 25th 2020 to get my many projects out there. I am skilled
 
 ## Index
 
-[00.0 - Title](#Welcome-to-my-GitHub-profile)
+[00.0 - Top](#Top)
 
-[00.5 - Index](#Index)
+> [00.1 - GitHub:seanpm2001/seanpm2001](#GitHub:seanpm2001/seanpm2001)
+
+> [00.2 - README Usage](#README-Usage)
+
+> [00.3 - Title](#Welcome-to-my-GitHub-profile)
+
+> [00.4 - Index](#Index)
 
 [01.0 - What I'm currently working on](#What-I'm-currently-working-on)
 
+> [01.0.1 - Key projects by megaproject category](#Key-projects-by-megaproject-category)
+
+> > [01.0.1.1 - Degoogle your life project](#Degoogle-your-life-project)
+
+> > [01.0.1.2 - Image projects](#Image-projects)
+
+> > [01.0.1.3 - Life archive projects](#Life-archive-projects)
+
+> > [01.0.1.4 - Joke projects](#Joke-projects)
+
+> > [01.0.1.5 - Game projects](#Game-projects)
+
+> > [01.0.1.6 - Research projects](#Research-projects)
+
+> > [01.0.1.7 - Operating system projects](#Operating-system-projects)
+
+> > [01.0.1.8 - SNU projects](#SNU-projects)
+
+> > [01.0.1.9 - Other projects](#Other-projects)
+
 [02.0 - Free software isn't free to develop](#Free-software-isn't-free-to-develop)
 
-[03.0 - Software status](#Software-status)
+[03.0 - Frequently-Asked-Questions-(FAQ)](#Frequently-Asked-Questions-(FAQ))
 
-[04.0 - What I'm currently learning](#What-I'm-currently-learning)
+> [03.0.1 - Why is Python your favorite programming language?](#Why-is-Python-your-favorite-programming-language)
 
-[05.0 - What I'm looking to collaborate on](#What-I'm-looking-to-collaborate-on)
+> [03.0.2 - What got you into programming?](#What-got-you-into-programming)
 
-[06.0 - What I'm looking to help with](#What-I'm-looking-to-help-with)
+> [03.0.3 - How well can you program in Java?](#How-well-can-you-program-in-Java)
 
-[07.0 - Feature requests for GitHub](#Feature-requests-for-GitHub)
+> [03.0.4 - Why do you use so many different programming languages?](#Why-do-you-use-so-many-different-programming-languages)
 
-[08.0 - Ask me about](#Ask-me-about)
+> [03.0.5 - Do you actually know all those languages?](#Do-you-actually-know-all-those-languages)
 
-[09.0 - How to reach me](#How-to-reach-me)
+> [03.0.6 - Why do you put so much info out?](#Why-do-you-put-so-much-info-out)
 
-[10.0 - Projects on other platforms](#Projects-on-other-platforms)
+> [03.0.7 - Why do you have image projects? Doesn't that defeat the point of GitHub?](#Why-do-you-have-image-projects?-Doesn't-that-defeat-the-point-of-GitHub)
 
-[11.0 - Identity theft](#Identity-theft)
+> [03.0.8 - How are you profitable?](#How-are-you-profitable)
 
-[12.0 - Personal](#Personal)
+> [03.0.9 - Why did you switch to Linux?](#Why-did-you-switch-to-Linux)
 
-[13.0 - Profile picture history](#Profile-picture-history)
+> [03.1.0 - What is the purpose of the life archive project?](#What-is-the-purpose-of-the-life-archive-project)
 
-[14.0 - Linux](#Linux)
+> [03.1.1 - Why did you follow over 1000 users one night?](#Why-did-you-follow-over-1000-users-one-night)
 
-[15.0 - File info](#File-info)
+> [03.1.2 - Why do you have so many tabs open?](#Why-do-you-have-so-many-tabs-open)
 
-[16.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+> [03.1.3 - Why do you use Wikipedia so much?](#Why-do-you-use-Wikipedia-so-much)
 
-[17.0 - Footer](#Footer)
+> [03.1.4 - Why do you play so many different games?](#Why-do-you-play-so-many-different-games)
 
-[18.0 - End of file](#End-of-file)
+> [03.1.5 - Why do you play kids games?](#Why-do-you-play-kids-games)
+
+> [03.1.6 - Why do you hate Google so much?](#Why-do-you-hate-Google-so-much)
+
+> [03.1.7 - Why do some of your projects use Go, Dart, or Flutter when you hate Google?](#Why-do-some-of-your-projects-use-Go,-Dart,-or-Flutter-when-you-hate-Google)
+
+[04.0 - My current setup](#My-current-setup)
+
+> [04.1 - Current hardware](#Current-hardware)
+
+> [04.2 - Current software](#Current-software)
+
+[05.0 - Software status](#Software-status)
+
+[06.0 - What I'm currently learning](#What-I'm-currently-learning)
+
+[07.0 - What I'm looking to collaborate on](#What-I'm-looking-to-collaborate-on)
+
+[08.0 - What I'm looking to help with](#What-I'm-looking-to-help-with)
+
+[09.0 - Feature requests for GitHub](#Feature-requests-for-GitHub)
+
+[10.0 - Ask me about](#Ask-me-about)
+
+[11.0 - How to reach me](#How-to-reach-me)
+
+[12.0 - Projects on other platforms](#Projects-on-other-platforms)
+
+[13.0 - Identity theft](#Identity-theft)
+
+[14.0 - Personal](#Personal)
+
+[15.0 - Profile picture history](#Profile-picture-history)
+
+[16.0 - Linux](#Linux)
+
+[17.0 - Sponsor info](#Sponsor-info)
+
+[18.0 - Submissions](#Submissions)
+
+[19.0 - Other hobbies](#Other-hobbies)
+
+> [19.0.1 - Photography](#Photography)
+
+> [19.0.2 - Swimming](#Swimming)
+
+> [19.0.3 - Gaming](#Gaming)
+
+> [19.0.4 - Graphic design](#Graphic-design)
+
+> [19.0.5 - Linguist](#Linguist)
+
+> [10.0.6 - History buff](#History-buff)
+
+> [10.0.7 - Marine biology](#Marine-biology)
+
+> [10.0.8 - Journaling](#Journaling)
+
+[20.0 - Teams: blue](#Blue-team)
+
+[21.0 - Teams: green](#Green-team)
+
+[22.0 - File info](#File-info)
+
+[23.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+
+[24.0 - Footer](#Footer)
+
+> [24.5 - End of file](#End-of-file)
 
 ***
 
@@ -96,7 +272,181 @@ My major projects include:
 
 ( [Health projects](https://github.com/Seanwallawalla-health) | [CompuSmell project](https://github.com/CompuSmell) | [Degoogle campaign](https://github.com/Degoogle-your-life) | [Myrick family archive](https://github.com/Myrick-family-archive) | [Nostalgia Project](https://github.com/Nostalgia-project) | [Other operating system projects](https://github.com/seanwallawalla-operating-systems) | [Bot projects](https://github.com/seanwallawalla-bots) | [Software security projects](https://github.com/seanwallawalla-security) | [Audio projects](https://github.com/seanwallawalla-audio) | [Open Source Video games](https://github.com/seanwallawalla-gaming) | [Malware projects (ONLY FOR USE IN VIRTUAL MACHINES)](https://github.com/seanwallawalla-malware) | **Other projects (100+) aren't listed yet** )
 
+**Key projects:**
+
+[SeansAudioDB](https://github.com/seanpm2001/SeansAudioDB) - A place where I store a copy of my personal music collection. Due to file size and copyright reasons, the majority of songs and files cannot be uploaded here. I work on adding 3 new playlists on a daily basis.
+
+[SNU 2D Programming tools](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - The most developed programming module for the SNU Website. Want to see all the modules separately? [This organization has all of them as separate repositories](https://github.com/SNU-Programming-Tools)
+
+## Key projects by megaproject category
+
+This is a sorted list of key projects by mega project categories.
+
+### Degoogle-your-life project
+
+[Degoogle your life](https://github.com/seanpm2001/Degoogle-your-life) - The main repository in my series of anti-Google campaign article projects. This project ties them all together, and gives general info.
+
+[Why you should stop using Google Chrome](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) - The first article in my series of degoogle articles, aimed at pointing out problems with Chrome and giving good privacy-respecting alternatives.
+
+[Stop using Chromebooks](https://github.com/seanpm2001/Stop-using-Chromebooks) - The second article in my series of degoogle articles, aimed at pointing out additional problems with Google Chrome, this time with ChromeOS and the dominant privacy-invasive computer devices and peripherols aimed to gather more user data and increasing the Google monopoly. Alternatives are given as well, all articles give alternatives.
+
+[Alternating from YouTube](https://github.com/seanpm2001/Alternating-from-YouTube) - Another article in my series of degoogle articles, aimed at showing the hypocrasy and large bounty of problems (and many deaths + 1 shooting) caused by Google-owned YouTube. Since it is so hard to get away from YouTube due to no viable alternatives, this article lists some alternatives, but mainly lists how you can defend your privacy while still using YouTube, although it also serves as a criticism boatload.
+
+[Degoogled Android phone Virtual Machine research](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research) - Unofficially part of my degoogle campaign, this is a project for personal research on creating a fully functional degoogled Android virtual machine.
+
+[Stop Googling - Why you should stop using Google Search](https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search) - Another core article in my degoogle campaign, targeting the Google search engine, and showing its flawed history, plus listing alternatives (such as DuckDuckGo, Ecosia, etc.)
+
+### Image projects
+
+[Daily desktop screenshots](https://github.com/seanpm2001/Daily-desktop-screenshots) - My repository for daily desktop screenshots, similar to that of early YouTube videos where people take a picture of themselves every day for x years and make a time lapse. This is similar, but instead of pictures of myself, it is computer desktop screenshots. This repository also hosts my wallpapers that I use.
+
+[LifeArchive Images:GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub) - My repository for my life archive project that hosts GitHub images and screenshots.
+
+[LifeArchive Images:GNOME System Monitor](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_System_Monitor) - My repository for my life archive project that hosts my through-out the day and end-of-day GNOME System Monitor screenshots
+
+[LifeArchive Images:Tiny Tower](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower) - My repository for my life archive project that hosts my daily Tiny Tower gameplay progress screenshots.
+
+[LifeArchive Images:Jewels (Android game by MHGames)](https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game-) - My repository for my life archive project that hosts my daily Jewels (2009 Android game by MHGames) gameplay progress screenshots from September 2020 to January 2021 (where I stopped playing due to my phones power button getting nearly completely destroyed, and the game not working on Android 9 and above)
+
+[LifeArchive project:Khan Academy data](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial) - My repository that hosts my Khan Academy data, but mostly images and documentation of daily Khan Academy progress since 2016.
+
+### Life archive projects
+
+[LifeArchive project:Daily articles](https://github.com/seanpm2001/SeansLifeArchive_Daily-articles) - A repository that hosts my daily articles for my journaling. For now, until May 2040, only certain data is included, and most of the journaling is not due to privacy and readiness reasons.
+
+[LifeArchive project:My Linux Setup](https://github.com/seanpm2001/My-Linux-setup) - A project that hosts my Linux setup information.
+
+[LifeArchive project:SPM FOod index](https://github.com/seanpm2001/SPM_FoodIndex) - A web application (which is also fully functional offline) that contains info on my views of food and drinks, along with a categorized list of all the food and drinks that I eat (I am a very picky eater, so there are less than 160 total entries. It isn't too hard to recreate this)
+
+### Joke projects
+
+[Code distancing](https://github.com/seanpm2001/Code-distancing) - A heavily developed joke project I made that aims to add humor to computer programming by making computer programs code distance. This project is also used to raise awareness for the COVID-19 pandemic and how to stay safe.
+
+### Game projects
+
+[BGemJam](https://github.com/seanpm2001/BGemJam) - An open source alternative to the Bejeweled game series, and other gem matching games.
+
+[iBlast](https://github.com/seanpm2001/iBlast) - An open source fan recreation of the 2 Godzilab games iBlast Moki and iBlast Moki 2, as Android 7/iOS 11 and up no longer support the games
+
+[Tetris128](https://github.com/seanpm2001/Tetris128) - An open source advanced 64x128 (128 bit application, with 64 bit support) Tetris implementation with support for up to 10 block pieces (Decominoes) softbody physics, and other gameplay styles and modes.
+
+[NimbleBook](https://github.com/seanpm2001/NimbleBook) - An open source NimbleBit fan game to let you control the infamous BitBook social media platform and its variations across NimbleBit games
+
+[MCPYE](https://github.com/seanpm2001/MCPYE) - Codename: Minecraft Python Edition (not the official name) an open source Minecraft, Growtopia, and Sims recreation with support for thousands of blocks and entities.
+
+### Research projects
+
+[Marine Biology](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology) - For research related to my marine biology phases
+
+[Anime](https://github.com/seanpm2001/Anime) - For research and discussion of Anime and Manga, plus Japan in general.
+
+[The Walla Walla Anime](https://github.com/seanpm2001/the-walla-walla-anime) - An embarrassing old project of trying to design an Anime with Microsoft Paint 3D. Needs a complete rewrite.
+
+### Operating system projects
+
+[WacOS](https://github.com/seanpm2001/WacOS) - An old operating system project that aims to be a Linux-based MacOS/iOS alternative for Linux users going through their Apple phase, or who just prefer the MacOS/iOS interface over GNOME, KDE, Cinnamon, etc. Planned support for native IPA (iPhone OS/iOS/iPadOS) and DMG (MacOS X, OS X, MacOS) file support.
+
+### SNU projects
+
+[SNU](https://github.com/seanpm2001/SNU) - The main SNU repository, where all other SNU repositories are embedded as you need.
+
+[Learn more about configuring SNU with this helpful (currently outdated) Gist](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
+
+### Other projects
+
+[Perl Harbor](https://github.com/seanpm2001/Perl_Harbor) - A special memorial project for remembering and honoring the lives lost in the Japanese attack on Pearl Harbor in Hawaii in 1941, which caused the United States entry into World War 2. Project is written in Perl due to its 1 letter difference with Pearl. Never forget!
+
+[BluPhone](https://github.com/seanpm2001/BluPhone) - BluPhone is a powerful Bluetooth device client for Linux, MacOS, Android, iOS, Windows, FreeBSD, and more. It gives you tons of control over any bluetooth headphone set you connect.
+
+[LinkLax](https://github.com/seanpm2001/LinkLax) - LinkLax is a very colorful and beautiful URL (hyperlink) styler program that can make your web browsing experience much more colorful.
+
+**All organizations** _(As of March 27th 2021)_
+
+[Seanwallawalla-software](https://github.com/seanwallawalla-software)
+
+[SNU-Development](https://github.com/snu-development)
+
+[Seanpm2001-software](https://github.com/seanpm2001-software)
+
+[Seanpm2001-lifearchive](https://github.com/seanpm2001-lifearchive)
+
+[QMeadows-development](https://github.com/QMeadows-development)
+
+[Seanwallawalla-trm](https://github.com/Seanwallawalla-trm)
+
+[Seanwallawalla-gaming](https://github.com/seanwallawalla-gaming)
+
+[Seanpm2001-all](https://github.com/seanpm2001-all)
+
+[Seanwallawalla-forks](https://github.com/seanwallawalla-forks)
+
+[Seanwallawalla-testing](https://github.com/seanwallawalla-testing)
+
+[Seanwallawalla-malware](https://github.com/seanwallawalla-malware)
+
+[Seanwallawalla-browserextensions](https://github.com/seanwallawalla-browserextensions)
+
+[Seanwallawalla-tools](https://github.com/seanwallawalla-tools)
+
+[Seanwallawalla-security](https://github.com/seanwallawalla-security)
+
+[Seanwallawalla-operating-systems](https://github.com/seanwallawalla-operating-systems)
+
+[Seanwallawalla-bots](https://github.com/seanwallawalla-bots)
+
+[Seanwallawalla-images](https://github.com/seanwallawalla-images)
+
+[Seanwallawalla-audio](https://github.com/seanwallawalla-audio)
+
+[Seanwallawalla-social](https://github.com/seanwallawalla-social)
+
+[Seanwallawalla-jokeprograms](https://github.com/seanwallawalla-jokeprograms)
+
+[Degoogle-your-life](https://github.com/Degoogle-your-life)
+
+[CompuSmell](https://github.com/CompuSmell)
+
+[Nostalgia-project](https://github.com/Nostalgia-project)
+
+[Myrick-family-archive](https://github.com/Myrick-family-archive)
+
+[SNU-Programming-Tools](https://github.com/SNU-Programming-Tools)
+
+[Seanwallawalla-health](https://github.com/Seanwallawalla-health)
+
+[Seanpm2001-articles](https://github.com/Seanpm2001-articles)
+
+[GuineaMyrickILifeArchiveProject](https://github.com/GuineaMyrickILifeArchiveProject)
+
+[Seanpm2001-libraries](https://github.com/seanpm2001-libraries)
+
+[Seanpm2001-discussions](https://github.com/Seanpm2001-discussions)
+
+[iBlast-game](https://github.com/iBlast-Game)
+
+[UnitedAutismRights](https://github.com/UnitedAutismRights)
+
+[Seanpm2001-web](https://github.com/Seanpm2001-web)
+
+[Seanpm2001-templates](https://github.com/Seanpm2001-templates)
+
+[BGemJam-Game](https://github.com/BGemJam-game)
+
+[NimbleBit-Games](https://github.com/NimbleBit-Games)
+
+[Tetris128](https://github.com/Tetris128)
+
+[Seanpm2001-datapacks](https://github.com/seanpm2001-datapacks)
+
 # Search my profile easier with [this helpful Gist](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe/)
+
+This Gist helps with:
+
+* Sorting by language
+
+* Finding projects through filters
+
+* Finding additional projects that pass through filters
 
 ***
 
@@ -133,6 +483,158 @@ My list of supported organizations include:
 * Mozilla (moz://a)
 
 **More to be listed**
+
+***
+
+## Frequently Asked Questions (FAQ)
+
+Since nobody has asked any questions yet, I will list some common ones here:
+
+### Why is Python your favorite programming language
+
+See below for the full store. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
+
+### What got you into programming
+
+In 2015, I was switched from an incorrect class to a class I was supposed to be in, which changed my life completely: my 2015 Middle School computer programming class.
+
+Although the class mainly just used Scratch, this is where my interest skyrocketed. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
+
+### How well can you program in Java
+
+I took an AP Java class, but I was missing too many stepping stones to fully get it. I did get several concepts of it, and this class familiarized me with Java quite a bit, along with using IDEs (Eclipse) I am not too good at Java, but I can do some basic stuff, not just Hello World programs. I can't write an entire program in Java though, I feel like my knowledge of Java basics and intermediate is 2.8%
+
+### Why do you use so many different programming languages
+
+I have always been a linguist. I like the looks of all the different programming languages and their syntax. Also, some projects are dependant on some languages. When I create an IDE out of a language, I prefer to use that language to emulate that language.
+
+### Do you actually know all those languages
+
+I know a few, but can't do more than the very basics in most. Languages I am good at include Python, BASH, HTML5, and Java.
+
+### Why do you put so much info out
+
+I have had years of decisions on what info I put out and what I don't put out. All data put out is thought out for 30 minutes to 5 years beforehand.
+
+### Why do you have image projects? Doesn't that defeat the point of GitHub
+
+It does in a way, but I don't have any good image platforms. Since GitHub is a version control site, and I add in content besides images, it fits pretty well, other than proper image viewing without downloading the repository.
+
+### Why are so many projects of yours so underdeveloped
+
+I joined GitHub with the goal of collaboration. I am still building a following, and hope to have developers contributing to these projects based on their interest level in the project. There are so many of them, as I have been going through and adding new ideas as they come up.
+
+### How are you profitable
+
+I am not profitable yet, but I am working on it. Since I work in the FOSS industry, I rely on donations and sponsors. I will try to limit my usage of ads (and I will not make sketchy, crappy ads like Playrix's homescape, gardenscape, etc. ads, or ads like about 99.998% of the ads on Google Play)
+
+### Why did you switch to Linux
+
+Linux is great. I have had a really, really horrible experience with Windows 10, there is too much to get into. I intended to start with Fedora Linux, but I had to go with Ubuntu 20.04, as I feared that I might void my laptops warranty (which I don't want to do, since this laptop costs over $1.4K)
+
+### What is the purpose of the life archive project
+
+My life archive project is a full-time hobby project where I archive my entire life.
+
+### Why did you follow over 1000 users one night
+
+I have been trying to gain followers on GitHub so that I eventually get someone to help interact with me on my projects. It has been a very slow process.
+
+I got my account suspended 3 days later, and along with other reasons, I decided not to do this again. All I had to do to unsuspend my account was re-verify my email address.
+
+### Why do you have so many tabs open
+
+I have a lot of different projects. I have to manage lots of different projects. I have over 70 different Firefox profiles, each one containing their own set of tabs, however I only keep 1-3 profiles open at once. I close out of these when I finish with them for now.
+
+### Why do you use Wikipedia so much
+
+Wikipedia is one of my most used sites, GitHub is second. I find Wikipedia to be a great resource, and good for researching programming, chemistry, history, and more. I intend to start donating money to Wikipedia monthly some day. 
+
+### Why do you play so many different games
+
+I like to have balance in my life, and have periods to relax from programming. I come up with new ideas during this time period as well, and do other things, such as chores around the house.
+
+### Why do you play kids games
+
+I play games that have a general target of kids, but are also just past-time games. Examples include Restaurant/Bakery/Pet Shop/Fashion/Farm/City story, and Merge Plane. These games can be for both kids and adults. I played these games in my childhood, and have nostalgic ties to them. Some of them are just genuinely fun to begin with.
+
+### Why do you hate Google so much
+
+Google has a long history of privacy invasion, hypocrasy, being a monopoly, killing off parts of the Internet, and more. I turned against Google in 2018.
+
+### Why do some of your projects use Go, Dart, or Flutter when you hate Google
+
+I don't write the entire project in this language, and in the cases I do, it is required for archiving the data and making an IDE (SNU_2D_Programming_Tools) or just a general pun. The 1 project that uses it but is using a degoogled version [(Candroid)](https://github.com/seanpm2001/Candroid)
+
+Also, a few projects are written in Go! (a language that came out over 4 years before Go) its creator got steamrolled and no-one ever really looks at his language due to Googles claim that Go! won't be confused with Go, and that "lots of other projects and languages have the same name" which is not true, Google. You steamrolled him.
+
+Since Go! (2004) and Go (2008/2009) both use the .go file extension, GitHub's lingust feature identifies it as Go instead of Go! Both languages vary significantly in Syntax.
+
+***
+
+## My current setup
+
+This section is for information regarding my current work setup (as of March 26th 2021)
+
+### Current hardware
+
+[Laptop: Dell XPS 13 Developer Edition 9300 with Ubuntu 20.04](https://www.dell.com/en-us/work/shop/cty/pdp/spd/xps-13-9300-laptop)
+
+[Headphones: Bluetooth Letscom wireless headphones, 100 hour battery, 1200 MaH](https://www.amazon.com/Bluetooth-Headphones-LETSCOM-Wireless-Cellphone/dp/B07TQM2FTD)
+
+### Current software
+
+VLC Media Player 3.0.11
+
+Konsole
+
+GNOME System Monitor
+
+Gedit
+
+GNOME Clocks
+
+Mozilla Firefox 84.0.1 (a bit outdated)
+
+GNOME Files/Nautilus
+
+GNOME Calculator
+
+GNOME Extensions
+
+GNOME Settings
+
+LibreOffice 6.4 {
+
+	LibreOffice Writer 6.4 (complete open-source alternative to Microsoft Word)
+	
+	LibreOffice Calc 6.4 (complete open-source alternative to Microsoft Excel)
+	
+	LibreOffice Impress 6.4 (complete open-source alternative to Microsoft PowerPoint)
+	
+	LibreOffice Base 6.4 (complete open-source alternative to Microsoft Access)
+
+}
+
+VirtualBox 6.1.10 (a bit outdated)
+
+Inkscape
+
+GIMP 2.10
+
+Mari0 (possibly proprietary)
+
+Okular
+
+Typora (proprietary)
+
+Audacity 2.10
+
+Notepad++ (running on WINE)
+
+Ubuntu 20.04 LTS
+
+Other/unknown
 
 ***
 
@@ -332,7 +834,7 @@ I am on the following platforms
 
 **List is incomplete. Try bugging me to fix it. I will eventually when I have time, but I might not get to it soon enough.**
 
-However, I am not on other platforms. If you see someone posing on me on other platforms, don't take their word, as they are commiting identity theft. _Identity theft is not a joke Jim. Millions of families suffer every year_ in all seriousness, Identity theft is an actual problem.
+However, I am not on other platforms. If you see someone posing on me on other platforms, don't take their word, as they are commiting identity theft. _Identity theft is not a joke Jim. Millions of families suffer every year_ - Dwight Shrute (The Office, US version) [YouTube link is you prefer](https://www.youtube.com/watch?v=5f5ni0zpl5E) [Vimeo link, but without the official video, just audio and text](https://vimeo.com/464892816) in all seriousness, Identity theft is an actual problem.
 
 Popular platforms I am not on:
 
@@ -386,13 +888,92 @@ My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04
 
 ***
 
+## Sponsor info
+
+![SponsorButton.png](SponsorButton.png) <-- Don't click this button, it doesn't work
+
+You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+
+You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+
+Try it out! The sponsor button is right up next to the watch/unwatch button.
+
+***
+
+## Submissions
+
+I am open for accepting submissions for project artwork. I would like to receive skeumorphism and 3D designs for program graphics before I accept flat design and solid color works. I want to give people the option for both skeumorphism, 3D, 2D, Flat, solid color, or whatever the user prefers. I want to start with Skeumorphism, as it is the best (totally not an unbiased opinion)
+
+My recommended formats are SVG (60% recommended) and PNG (40% recommended) for images. Non-graphical submissions can be in any format, as long as it is an open format and is not proprietary (for example: Jade programs are proprietary and currently can't be accepted)
+
+***
+
+## Other hobbies
+
+This is a list of my other hobbies
+
+
+### Photography
+
+I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
+
+### Swimming
+
+I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
+
+### Gaming
+
+I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
+
+### Graphic design
+
+I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design glasses and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
+
+### Linguist
+
+I have been a linguist since my early childhood. I jokingly changed my middle name to `language` in my early childhood, but I think it would fit as a 2nd middle name.
+
+I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't write completely in a language other than English, Python, HTML, or markdown.
+
+### History buff
+
+I am a history buff, with knowledge of history spanning back over 13.8 billion years ago (Big Bang) to the current day. I like to learn about history, and I have knowledge of a large assortment of eras and events, including extensive knowledge of things other than World War I or World War II (but I also still know a lot about the 2 world wars) for Earth history, my knowledge goes back to 8000 BCE in extensive detail, down to 27000 BCE in less detail, and mostly geological events before 27000 BCE. I like to learn all types of history, and not just the history of warfare.
+
+I owe my interest in history to my first High School history teacher, who was really enthusiastic about what he was teaching, and was just a general awesome and nice history teacher. I would no doubt make him teacher of the year for that year of High School. Past history classes never got me too into the subject of history, but this one really opened my mind to history.
+
+### Marine biology
+
+I recently got back into Marine Biology on March 23rd 2021, and have been learning the subject part-time again. I find it really calming and nostalgic.
+
+### Journaling
+
+I keep a daily journal. I have been on and off with this for most of my childhood, until sticking with it every day since September 26th 2016.
+
+***
+
+## Blue team
+
+I have 2 teams for my organization system. Blue team is for technical work (digital, analog, hardware, software) and green team is for environmental, and biology work. I am part of the blue team, but I am also part of the green team.
+
+---
+
+## Green team
+
+I have 2 teams for my organization system. Blue team is for technical work (digital, analog, hardware, software) and green team is for environmental, and biology work. I am part of the green team, but I am also part of the blue team.
+
+***
+
+Learn even more about me [here](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3).
+
+***
+
 ### File info
 
 File type: `Markdown (*.md)`
 
-File version: `6 (Thursday, March 4th 2021 at 3:30 pm)`
+File version: `7 (Saturday, March 27th 2021 at 8:38 pm)`
 
-Line count (including blank lines and compiler line): `586`
+Line count (including blank lines and compiler line): `1,221`
 
 ***
 
@@ -522,11 +1103,49 @@ Version 6 (Thursday, March 4th 2021 at 3:30 pm)
 
 > * No other changes in version 6
 
-Version 7 (Coming soon)
+Version 7 (Saturday, March 27th 2021 at 8:38 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added a repository preview at the top of the README
+
+> * Added a FAQ (Frequently Asked Questions) section with 18 starter entries
+
+> * Added support for reading this article in another language
+
+> * Updated the index
+
+> * Commented out the version history section for smoother scrolling
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the identity theft section with YouTube and Vimeo links
+
+> * Added the my personal setup section
+
+> > * Added the hardware subsection
+
+> > * Added the software subsection
+
+> * Added the sponsor info section
+
+> * Added the key projects in megaprojects section, with many subsections
+
+> * Added the organization list section
+
+> * Added the submissions section
+
+> * Added the Other hobbies section
+
+> * Added the blue team section
+
+> * Added the green team section
+
+This update was designed for a family member who has never used GitHub before. This update is dedicated to them. I am working on making this README a portal to everything I offer.
+
+This update has taken 3 days to make, along with a long procrastination period
 
 > * No other changes in version 7
 
@@ -569,6 +1188,22 @@ Version 12 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 12
+
+Version 13 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 13
+
+Version 14 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 14
 
 !-->
 
