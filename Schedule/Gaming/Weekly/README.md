@@ -7,23 +7,27 @@ This directory archives my gaming schedule that I started on October 24th 2020 (
 
 The gaming schedule was created to save time so that I didn't waste the entire day playing games and fall behind in work.
 
-## Old versions (October 24th 2020 to March 23rd 2021)
+[View the Gist](https://gist.github.com/seanpm2001/8b7ad1620116b6a54844e25eeab3c6a1)
 
-[Version 1 (Saturday, October 24th 2020 at 8:48 pm)](Schedule/Gaming/Weekly/V1/GamingScheduleV1.md)
+## Old versions (October 24th 2020 to March 24th 2021)
+
+[Version 1 (Saturday, October 24th 2020 at 8:48 pm)](Schedule/Gaming/Weekly/V1/GamingSchedule.md)
 
 [Version 2 (Thursday, November 5th 2020 at 9:12 pm)](Schedule/Gaming/Weekly/V2/GamingScheduleV2.md)
 
 [Version 3 (Thursday, November 19th 2020 at 6:53 pm)](Schedule/Gaming/Weekly/V3/GamingScheduleV3.md)
 
-[Version 4 (Friday, November 20th 2020 at 6:18 pm)](Schedule/Gaming/Weekly/V4/GamingScheduleV4.md)
+[Version 4 (Friday, November 20th 2020 at 6:18 pm)](Schedule/Gaming/Weekly/V4/WeeklyGamingScheduleV4.md)
 
 [Version 5 (Sunday, January 3rd 2021 at 9:29 pm)](Schedule/Gaming/Weekly/V5/GamingScheduleV5.md)
 
 [Version 6 (Wednesday, February 17th 2021 at 9:11 pm)](Schedule/Gaming/Weekly/V6/GamingScheduleV6.md)
 
-## Current version (as of March 24th 2021)
+[Version 7 (Wednesday, March 24th 2021 at 9:18 pm)](/Schedule/Gaming/Weekly/V7/GamingScheduleV7.md)
 
-[ Version 7 (Wednesday, March 24th 2021 at 9:18 pm)](/Schedule/Gaming/Weekly/V7/GamingScheduleV7.md)
+## Current version (as of March 29th 2021)
+
+[Version 8 (Monday, March 29th 2021 at 3:00 pm)](/Schedule/Gaming/Weekly/V8/WeeklyGamingSchedule.md)
 
 ***
 
@@ -31,9 +35,9 @@ The gaming schedule was created to save time so that I didn't waste the entire d
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `1 (Wednesday, March 24th 2021 at 9:34 pm)`
+**File version:** `2 (Monday, March 29th 2021 at 3:06 pm)`
 
-**Line count (including blank lines and compiler line):** `83`
+**Line count (including blank lines and compiler line):** `113`
 
 ***
 
@@ -61,13 +65,39 @@ The gaming schedule was created to save time so that I didn't waste the entire d
 
 > * _No other changes in version 1._
 
-**Version 2 (Coming soon)**
+**Version 2 (Monday, March 29th 2021 at 3:06 pm)**
+
+> Changes:
+
+> * Added a link to the new Gist
+
+> * Added the V8 gaming schedule
+
+> * Updated the old gaming schedules list
+
+> * Updated the new gaming schedules list
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * _No other changes in version 2._
+
+**Version 3 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-> * _No other changes in version 2._
+> * _No other changes in version 3._
+
+**Version 4 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * _No other changes in version 4._
 
 ***
 
