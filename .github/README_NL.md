@@ -78,11 +78,9 @@ Als je via een link via sms (sms) hierheen bent gestuurd, gefeliciteerd! Je bent
 
 Lees deze beschrijving in een andere taal:
 
-[ar عربى] (README_AR.md) [bg български] (README_BG.md) [zh-t 中國 傳統 的 的] (README_ZH-T.md) [** en-us **] (README.md) [nl Nederlands] (README_NL.md) [EO Esperanto] (README_EO.md) [ka ქართველი] (README_KA) [fr français] (README_FR.md) [el Ελληνικά] (README_EL.md) [de Deutsch] (README_DE.md) [hi हिन्दी] (README_HI.md) [he עִברִית] (README_HE.md) [ja 日本語] (README_JA.md) [ko-south 韓國 語] (README_KO_SOUTH.md) [no norsk] (README_NO.md) [ pl polski] (README_PL.md) [ru русский] (README_RU.md) [es en español] (README_ES.md) [sw Kiswahili] (README_SW.md) [sv Svenska] (README_SV.md) [te తెలుగు] ( README_TE.md) [tr Türk] (README_TR.md) [ur اردو] (README_UR.md) [uk Український] (README_UK.md) [vi Tiếng Việt] (README_VI.md) [cy Cymraeg] (README )_CY [xh isiXhosa] (README_XH.md) [yi יידיש] (README_YI.md) [zu Zulu] (README_ZU.md)
+[ar عربى] (/. github / README_AR.md) [bg български] (/. github / README_BG.md) [zh-t 中國 傳統 的）] (/. github / README_ZH-T.md) [** nl -us **] (/. github / README.md) [nl Nederlands] (/. github / README_NL.md) [EO Esperanto] (/. github / README_EO.md) [ka ქართველი] (/. github / README_KA ) [fr français] (/. github / README_FR.md) [el Ελληνικά] (/. github / README_EL.md) [de Deutsch] (/. github / README_DE.md) [hi हिन्दी] (/. github / README_HI .md) [hij עִברִית] (/. github / README_HE.md) [ja 日本語] (/. github / README_JA.md) [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) [geen norsk] (/.github/README_NO.md) [pl polski] (/. github / README_PL.md) [ru русский] (/. github / README_RU.md) [es en español] (/. github / README_ES.md) [ sw Kiswahili] (/. github / README_SW.md) [sv Svenska] (/. github / README_SV.md) [te తెలుగు] (/. github / README_TE.md) [tr Türk] (/. github / README_TR.md ) [ur اردو] (/. github / README_UR.md) [uk Український] (/. github / README_UK.md) [vi Tiếng Việt] (/. github / README_VI.md) [cy Cymraeg] (/. github / README_CY.md) [xh isiXhosa] (/. Github / README_XH.md) [yi יידיש] (/. Github / README_YI.md) [zu Zulu] (/. Github / README_ZU.md)
 
-Vertalingen in andere talen dan het Engels zijn automatisch vertaald en zijn nog niet nauwkeurig. Vanaf 5 februari 2021 zijn er nog geen fouten opgelost. Rapporteer vertaalfouten [hier] (https://github.com/seanpm2001/seanpm2001/issues/). Maak een back-up van uw correctie met bronnen en begeleid mij, aangezien ik dat niet doe ik ken geen andere talen dan het Engels (ik ben van plan om uiteindelijk een vertaler te krijgen), noem alstublieft [
-
-wiktionary] (https://en.wiktionary.org) en andere bronnen in uw rapport. Als u dit niet doet, wordt de publicatie van de correctie afgewezen.
+Vertalingen in andere talen dan het Engels zijn automatisch vertaald en zijn nog niet nauwkeurig. Met ingang van 5 februari 2021 zijn er nog geen fouten verholpen.Rapporteer vertaalfouten [hier] (https://github.com/seanpm2001/seanpm2001/issues/). om uiteindelijk een vertaler te krijgen) citeer [wiktionary] (https://en.wiktionary.org) en andere bronnen in je rapport. Als u dit niet doet, wordt de publicatie van de correctie afgewezen.
 
 Opmerking: vanwege beperkingen met markdown, zal het klikken op deze links u doorverwijzen naar een apart bestand op een aparte pagina die niet mijn GitHub-profielpagina is. U wordt doorgestuurd naar de [seanpm2001 / seanpm2001 repository] (https://github.com/seanpm2001/seanpm2001), waar de README wordt gehost.
 
@@ -193,59 +191,65 @@ Ik ben op 25 mei 2020 lid geworden van GitHub om mijn vele projecten naar buiten
 
 [07.0 - Waar ik aan wil samenwerken] (# Waar-ik-wil-samenwerken-aan)
 
-[08.0 - Waar ik mee wil helpen] (# Waar-ik-wil-helpen-mee)
+> [07.0.1 - Waar heb ik aan meegewerkt] (# Wat-ik-heb-meegewerkt-aan)
 
-[09.0 - Functieverzoeken voor GitHub] (# Feature-requests-for-GitHub)
+[08.0 - Wat ik zieoking om te helpen met] (# Waar-ik-zoek-mee-mee-wil-helpen)
 
-[10.0 - Vraag me over] (# Ask-me-about)
+[09.0 - GitHub-contacten] (# GitHub-contacten)
 
-[11.0 - Hoe mij te bereiken] (# Hoe-mij-te-bereiken)
+> [09.0.1 - Familie] (# Familie)
 
-[12.0 - Projecten op andere platforms] (# Projecten-op-andere-platforms)
+> [09.0.2 - Abonnementen] (# abonnementen)
 
-[13.0 - Identiteitsdiefstal] (# Identiteitsdiefstal)
+[10.0 - Functieverzoeken voor GitHub] (# Feature-requests-for-GitHub)
 
-[14.0 - Persoonlijk] (# P
+[11.0 - Vraag me over] (# Ask-me-about)
 
-persoonlijk)
+[12.0 - Hoe mij te bereiken] (# Hoe-mij-te-bereiken)
 
-[15.0 - Geschiedenis van profielfoto's] (# Geschiedenis van profielfoto's)
+[13.0 - Projecten op andere platforms] (# Projecten-op-andere-platforms)
 
-[16.0 - Linux] (# Linux)
+[14.0 - Identiteitsdiefstal] (# Identiteitsdiefstal)
 
-[17.0 - Sponsor info] (# Sponsor-info)
+[15.0 - Persoonlijk] (# Persoonlijk)
 
-[18.0 - Inzendingen] (# inzendingen)
+[16.0 - Geschiedenis van profielfoto's] (# Geschiedenis van profielfoto's)
 
-[19.0 - Andere hobby's] (# Andere-hobby's)
+[17.0 - Linux] (# Linux)
 
-> [19.0.1 - Fotografie] (# Fotografie)
+[18.0 - Sponsor info] (# Sponsor-info)
 
-> [19.0.2 - Zwemmen] (# Zwemmen)
+[19.0 - Inzendingen] (# Inzendingen)
 
-> [19.0.3 - Gaming] (# Gaming)
+[20.0 - Andere hobby's] (# Andere-hobby's)
 
-> [19.0.4 - Grafisch ontwerp] (# Grafisch ontwerp)
+> [20.0.1 - Fotografie] (# Fotografie)
 
-> [19.0.5 - Linguist] (# Linguist)
+> [20.0.2 - Zwemmen] (# Zwemmen)
 
-> [10.0.6 - Geschiedenisfanaat] (# Geschiedenis-buff)
+> [20.0.3 - Gaming] (# Gaming)
 
-> [10.0.7 - Mariene biologie] (# Mariene biologie)
+> [20.0.4 - Grafisch ontwerp] (# Grafisch ontwerp)
 
-> [10.0.8 - Journaling] (# Journaling)
+> [20.0.5 - Linguist] (# Linguist)
 
-[20.0 - Teams: blauw] (# Blauw-team)
+> [20.0.6 - Geschiedenisfanaat] (# Geschiedenis-buff)
 
-[21.0 - Teams: groen] (# Groen-team)
+> [20.0.7 - Mariene biologie] (# Mariene biologie)
 
-[22.0 - Bestandsinfo] (# Bestandsinfo)
+> [20.0.8 - Journaling] (# Journaling)
 
-[23.0 - Bestandsversiegeschiedenis (standaard verborgen, bekijk broncode om te bekijken)] (# Bestandsversiegeschiedenis)
+[21.0 - Teams: blauw] (# Blauw-team)
 
-[24.0 - Voettekst] (# Voettekst)
+[22.0 - Teams: groen] (# Groen-team)
 
-> [24.5 - Einde bestand] (# Einde bestand)
+[23.0 - Bestandsinfo] (# Bestandsinfo)
+
+[24.0 - Bestandsversiegeschiedenis (standaard verborgen, bekijk broncode om te bekijken)] (# Bestandsversiegeschiedenis)
+
+[25.0 - Voettekst] (# Voettekst)
+
+> [25.9 - Einde bestand] (# Einde bestand)
 
 ​
 
@@ -279,7 +283,7 @@ Mijn belangrijkste projecten zijn:
 
 [SeansAudioDB] (https://github.com/seanpm2001/SeansAudioDB) - Een plaats waar ik een kopie van mijn persoonlijke muziekcollectie bewaar. Vanwege de bestandsgrootte en auteursrechtelijke redenen kunnen de meeste nummers en bestanden hier niet worden geüpload. Ik werk dagelijks aan het toevoegen van 3 nieuwe afspeellijsten.
 
-[SNU 2D Programming tools] (https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - De meest ontwikkelde programmeermodule voor de SNU-website. Wilt u alle modules afzonderlijk zien? [Deze organisatie heeft ze allemaal als aparte opslagplaatsen] (https://github.com/SNU-Programming-Tools)
+[SNU 2D Programming tools] (https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - De meest ontwikkelde programmeermodule voor de SNU-website. Alle modules afzonderlijk zien? [Deze organisatie heeft ze allemaal als aparte opslagplaatsen] (https://github.com/SNU-Programming-Tools)
 
 ## Sleutelprojecten per megaprojectcategorie
 
@@ -287,13 +291,13 @@ Dit is een gesorteerde lijst met belangrijke projecten op megaprojectcategorieë
 
 ### Degoogle-your-life-project
 
-[Degoogle your life] (https://github.com/seanpm2001/Degoogle-your-life) - De belangrijkste opslagplaats in mijn reeks anti-Google-campagne-artikelprojecten. Dit project verbindt ze allemaal met elkaar en geeft algemene info.
+[Degoogle your life] (https://github.com/seanpm2001/Degoogle-your-life) - De belangrijkste opslagplaats in mijn reeks anti-Google-campagne-artikelprojecten. Dit project verbindt ze allemaal met elkaar en geeft algemene informatie.
 
-[Waarom u Google Chrome zou moeten stoppen] (https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) - Het eerste artikel in mijn reeks degoogle-artikelen, gericht op het wijzen op problemen met Chrome en goede alternatieven bieden die de privacy respecteren.
+[Waarom u Google Chrome moet stoppen] (https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) - Het eerste artikel in mijn serie degoogle-artikelen, gericht op het wijzen op problemen met Chrome en goede alternatieven bieden die de privacy respecteren.
 
-[Stop met het gebruik van Chromebooks] (https://github.com/seanpm2001/Stop-using-Chromebooks) - Het tweede artikel in mijn serie degoogle-artikelen, bedoeld om te wijzen op aanvullende problemen met Google Chrome, dit keer met ChromeOS en de dominante privacy-invasieve computerapparatuur en randapparatuur bedoeld om meer gebruikersgegevens te verzamelen en het monopolie van Google te vergroten. Ook worden alternatieven gegeven, alle artikelen geven alternatieven.
+[Stop met het gebruik van Chromebooks] (https://github.com/seanpm2001/Stop-using-Chromebooks) - Het tweede artikel in mijn serie degoogle-artikelen, bedoeld om te wijzen op aanvullende problemen met Google Chrome, dit keer metChromeOS en de dominante privacy-invasieve computerapparatuur en randapparatuur waren bedoeld om meer gebruikersgegevens te verzamelen en het monopolie van Google te vergroten. Ook worden alternatieven gegeven, alle artikelen geven alternatieven.
 
-[Alternating from YouTube] (https://github.com/seanpm2001/Alternating-from-YouTube) - Nog een artikel in mijn serie degoogle-artikelen, gericht op het tonen van de hypocrasie en de grote overvloed aan problemen (en veel doden + 1 schietpartij) veroorzaakt door GooYouTube in eigendom van gle. Omdat het zo moeilijk is om weg te komen van YouTube omdat er geen haalbare alternatieven zijn, somt dit artikel een aantal alternatieven op, maar geeft het vooral een overzicht van hoe je je privacy kunt verdedigen terwijl je YouTube nog steeds gebruikt, hoewel het ook dient als een bootlading met kritiek.
+[Alternating from YouTube] (https://github.com/seanpm2001/Alternating-from-YouTube) - Nog een artikel in mijn serie degoogle-artikelen, gericht op het tonen van de hypocrasie en de grote overvloed aan problemen (en veel doden + 1 schietpartij) veroorzaakt door YouTube, eigendom van Google. Omdat het zo moeilijk is om weg te komen van YouTube omdat er geen haalbare alternatieven zijn, somt dit artikel een aantal alternatieven op, maar geeft het vooral een overzicht van hoe je je privacy kunt verdedigen terwijl je YouTube nog steeds gebruikt, hoewel het ook dient als een bootlading met kritiek.
 
 [Gedegooglede Android-telefoon Virtual Machine-onderzoek] (https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research) - Dit is een onofficieel onderdeel van mijn degoogle-campagne. Dit is een project voor persoonlijk onderzoek naar het maken van een volledig functionele gedegooglede virtuele Android-machine.
 
@@ -335,15 +339,13 @@ Dit is een gesorteerde lijst met belangrijke projecten op megaprojectcategorieë
 
 [NimbleBook] (https://github.com/seanpm2001/NimbleBook) - Een open source NimbleBit-fanspel waarmee je het beruchte BitBook-socialemediaplatform en zijn variaties in NimbleBit-games kunt besturen
 
-[MCPYE] (https://github.com/seanpm2001/MCPYE) - Codenaam: Minecraft Python Edition (niet de officiële naam) een open source Minecraft-, Growtopia- en Sims-recreatie met ondersteuning voor duizenden blokken en entiteiten.
+[MCPYE] (https://github.com/seanpm2001 / MCPYE) - Codenaam: Minecraft Python Edition (niet de officiële naam) een open source Minecraft-, Growtopia- en Sims-recreatie met ondersteuning voor duizenden blokken en entiteiten.
 
 ### Onderzoeksproject
 
 [Marine Biology] (https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology) - Voor onderzoek met betrekking tot mijn fasen in de mariene biologie
 
-[Anime] (https://github.com/seanpm2001/Anime) - Voor onderzoek naar en discussie over anime en manga, plus Japan in g
-
-algemeen.
+[Anime] (https://github.com/seanpm2001/Anime) - Voor onderzoek naar en discussie over anime en manga, plus Japan in het algemeen.
 
 [The Walla Walla Anime] (https://github.com/seanpm2001/the-walla-walla-anime) - Een beschamend oud project om een ​​anime te ontwerpen met Microsoft Paint 3D. Moet volledig worden herschreven.
 
@@ -459,7 +461,7 @@ Deze Gist helpt bij:
 
 ## Gratis software is niet gratis om te ontwikkelen
 
-Onthoud dat gratis software en open source software niet altijd gratis te ontwikkelen is. Zorg ervoor dat u doneert aan softwareorganisaties die u leuk vindt, zodat zij bijdragen aan de samenleving kunnen blijven leveren.
+Onthoud dat gratis software en open source softwareis niet altijd vrij om te ontwikkelen. Zorg ervoor dat u doneert aan softwareorganisaties die u leuk vindt, zodat zij bijdragen aan de samenleving kunnen blijven leveren.
 
 Mijn lijst met ondersteunde organisaties omvat:
 
@@ -479,7 +481,7 @@ Mijn lijst met ondersteunde organisaties omvat:
 
 * FFMPEG
 
-* The Internet Archive (ook de makers van de wayback-machine)
+* Het internetarchief (ook de makers van de wayback-machine)
 
 * Open stratenplan
 
@@ -551,15 +553,13 @@ Ik heb mijn account drie dagen later opgeschort en samen met andere redenen heb 
 
 Ik heb veel verschillende projecten. Ik moet veel verschillende projecten beheren. Ik heb meer dan 70 verschillende Firefox-profielen, elk met hun eigen set tabbladen, maar ik houd slechts 1-3 profielen tegelijk open. Ik sluit deze af als ik er voorlopig mee klaar ben.
 
-### Waarom gebruik je Wikipedia zo vaak?
+### Why gebruikt u Wikipedia zo vaak
 
 Wikipedia is een van mijn meest gebruikte sites, GitHub is de tweede. Ik vind Wikipedia een geweldige bron en goed voor onderzoek naar programmeren, scheikunde, geschiedenis en meer. Ik ben van plan op een dag geld te doneren aan Wikipedia.
 
 ### Waarom speel je zoveel verschillende spellen?
 
-Ik hou van evenwicht in mijn leven en heb periodes om te ontspannen van het programmeren. Ik kom in deze periode ook met nieuwe ideeën, en
-
-andere dingen doen, zoals klusjes in huis.
+Ik hou van evenwicht in mijn leven en heb periodes om te ontspannen van het programmeren. Ik bedenk in deze periode ook nieuwe ideeën en doe andere dingen, zoals klusjes in huis.
 
 ### Waarom speel je spelletjes voor kinderen?
 
@@ -701,25 +701,31 @@ Bedrijven die ik momenteel overweeg zijn onder meer:
 
 > Microsoft [::] - Ik heb een gezin dat hier werkt, en ik heb een lang verleden met Microsoft gehad (helemaal terug tot 2005), ook al vind ik sommige dingen die Microsoft als onethisch doet, ik zou het niet erg vinden om hier te werken (Ik heb een zeer sterke persoonlijke ervaring met Microsoft-producten, met name Windows XP) Als er hier banen zijn die Python gebruiken, kan ik ze doen.
 
-> VideoLan / - \ - Ik zou graag willen proberen documentatie te schrijven voor VideoLan, ik ben erg goed in het schrijven van documentatie, aangezien ik het graag doe, en ik doe het het grootste deel van de dag, elke dag. Momenteel kan VideoLan geen documentatieschrijvers hebben vanwege het lage aantal vrijwilligers. Indien toegestaan, zal ik documentatie schrijven voor elke versie van VLC die deze niet heeft (alleen in het Engels, ik kan geen andere talen gebruiken)
+> VideoLan / - \ - Ik zou graag willen proberen documentatie te schrijven voor VideoLan, ik ben erg goed in het schrijven van documentatie, aangezien ik het graag doe, en ik doe het het grootste deel van de dag, elke dag. Momenteel kan VideoLan geen documentatieschrijvers hebben vanwege het lage aantal vrijwilligers. Indien toegestaan, zal ik documentatie schrijven voor elke versie van VLC die deze niet heeft (alleen in English, ik kan geen andere talen doen)
 
-> Canonical (&) - Ik zou graag willen proberen bij te dragen aan Linux op elke mogelijke manier. Werken bij Canonical is momenteel een optie, ik weet niet precies wat ik hier zou doen, maar hopelijk zou ik iets kunnen doen.
+> Canonical (&) - Ik zou willen proberen bij te dragen aan Linux op elke mogelijke manier. Werken bij Canonical is momenteel een optie, ik weet niet precies wat ik hier zou doen, maar hopelijk zou ik iets kunnen doen.
 
-> De KDE Foundation (K) - KDE zou een mooie basis zijn om voor te werken. Ik hou echt van hun superlichte open source-projecten en ik zou kunnen helpen om nog meer bloat te verminderen. Als er een baan beschikbaar is in een taal, ha
+> De KDE Foundation (K) - KDE zou een mooie basis zijn om voor te werken. Ik hou echt van hun superlichte open source-projecten en ik zou kunnen helpen om nog meer bloat te verminderen. Als er een baan beschikbaar is in een taal waar ik voor ten minste 40% kennis van heb, zou ik hier kunnen werken.
 
-Als er tenminste 40% kennis in heeft, zou ik hier kunnen werken.
-
-> Khan Academy (^) - Ik zou graag willen bijdragen aan Khan Academy, ik gebruik de site al bijna 4 jaar lang dagelijks. Als het mogelijk zou zijn om video's en artikelen voor hen te maken, heb ik altijd overwogen om een ​​cursus virtualisatie te starten.
+> Khan Academy (^) - Ik zou graag willen bijdragen aan Khan Academy, ik gebruik de site bijna 4 jaar lang dagelijks. Als het mogelijk zou zijn om video's en artikelen voor hen te maken, heb ik altijd overwogen om een ​​cursus virtualisatie te starten.
 
 > De GNOME-organisatie (G) - indien mogelijk zou ik kunnen proberen enkele wijzigingen aan te brengen om het enorme geheugengebruik van GNOME te verminderen, dat altijd naar voren is gekomen als iets dat voor mij moet worden opgelost. Het is nog steeds een stuk beter dan het geheugengebruik van Windows 10, inactief op Windows 10 zou de helft van mijn RAM gebruiken, hoeveel ik ook had (4, 8, 16 GB) op mijn eerste Linux-laptop, het is altijd onder de 1,8 gigabyte gebleven wanneer inactief (ook de systeemmonitor meegerekend)
 
 > Er zijn momenteel geen andere bedrijven genoteerd
 
+#### Waar ik aan heb meegewerkt
+
+Ik heb meegewerkt aan een paar projecten op GitHub, waaronder
+
+! [/. github / projects / external / 1 / LinCity_NG.png] (/. github / projects / external / 1 / LinCity_NG.png) - [LinCity NG] (https://github.com/lincity-ng/lincity -ng /) - 100% problemen (2020) - [1] (https://github.com/lincity-ng/lincity-ng/issues/46)
+
+! [/. github / projects / external / 1 / Ruffle_vector_logo.svg] (/. github / projects / external / 1 / Ruffle_vector_logo.svg) [Ruffle-rs] (https://github.com/ruffle-rs/ruffle ) - 100% codebeoordeling (2021) [1] (https://github.com/ruffle-rs/ruffle/pull/3004) [2] (https://github.com/ruffle-rs/ruffle/pull / 3117) [3] (https://github.com/ruffle-rs/ruffle/pull/3194) [4] (https://github.com/ruffle-rs/ruffle/pull/3163) [5] (https://github.com/ruffle-rs/ruffle/pull/3176) [6] (https://github.com/ruffle-rs/ruffle/pull/3177)
+
 ​
 
 ### Waar ik mee wil helpen
 
-Ik zal gratis technische ondersteuning voor je doen, of aan het programmeren gerelateerd werk binnen mijn kennis. Ik doe dit in mijn eigen tijd, dus ik kan maar een bepaald aantal mensen per dag helpen. Voordat u probeert om mijn technische ondersteuning te vragen, probeert u het volgende om het probleem op te lossen:
+Ik zal gratis technische ondersteuning voor je doen, of aan het programmeren gerelateerd werk binnen mijn kennis. Ik doe dit in mijn eigen tijd, dus ik kan maar een bepaald aantal mensen per dag helpen. Voordat u probeert mijn technische ondersteuning te vragen, probeert u het volgende om het probleem op te lossen:
 
 > `CTRL` +` Z` - Maakt uw laatste fout ongedaan
 
@@ -736,6 +742,38 @@ Ik kan ook niet werken aan projecten die verband houden met je schoolwerk. Vraag
 Ik zou het liefst helpen met projecten die zijn geschreven in Python 3, Markdown, HTML5, CSS3, Java, C, C ++ of JavaScript. Ik kan niet zo goed helpen met projecten die in andere talen zijn geschreven.
 
 Er zijn momenteel geen andere beperkingen vermeld.
+
+​
+
+### GitHub-contacten
+
+#### Familie
+
+@Microsoft
+
+[Channa-My] (https://github.com/channa-my)
+
+[Lindsay-My] (https://github.com/lindsmy)
+
+@Dichtbij
+
+[Chrism2282] (https://github.com/chrism2282)
+
+[Inverno4] (https://github.com/inverno4)
+
+[Memewallawalla] (https://github.com/memewallawalla)
+
+@alt_accounts
+
+[Seanwallawalla] (https://github.com/seanwallawalla)
+
+@schaatsennl
+
+[Linus Torvalds] (https://github.com/torvalds)
+
+#### Abonnementen
+
+[Linux-kernel] (https://github.com/torvalds/linux)
 
 ​
 
@@ -777,7 +815,7 @@ Er zijn momenteel geen andere manieren om mij berichten te sturen
 
 ​
 
-Meer info vind je op mijn persoonlijke Gist. [Klik / tik hier voor meer informatie over mij] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
+YU kunt meer informatie vinden op mijn persoonlijke Gist. [Klik / tik hier voor meer informatie over mij] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
 ​
 
@@ -819,9 +857,7 @@ Ik ben op de volgende platforms
 
 [Mozilla] (# Identiteitsdiefstal)
 
-[Twitter] (https://www.twitter.com/@seanwallawalla) - Niet langer gebruiken vanaf 2018, enigszins huiverig, maar
-
-niet slecht
+[Twitter] (https://www.twitter.com/@seanwallawalla) - Niet langer gebruiken vanaf 2018, enigszins huiverig, maar niet al te slecht
 
 [Scratch] (https://scratch.mit.edu/users/seanspokane2015) - Niet meer gebruikt vanaf 2017
 
@@ -881,7 +917,7 @@ Origineel (25 mei 2020 tot? 2020)
 
 ! [Originele gewijzigde profielfoto kan niet worden geladen. Klik / tik hier om te proberen het te bekijken] (/ Media / 773af859eafc403a8ce6bb3051bd2618 (kopie) .png)
 
-Origineel (versie met glitched door transparantie van Windows Verkenner)
+Origineel (Windows Verkenner-transparantie glitched version)
 
 ! [GitHub Profielfoto kan niet worden geladen. Klik hier om te proberen het te bekijken] (SeniorPhotoFullQuality.jpeg)
 
@@ -895,7 +931,7 @@ Ik was een fan van Windows tot Windows 10. Ik begon te proberen over te schakele
 
 ! [20200709_124359.jpg] (/ Media / 20200709_124359.jpg)
 
-Mijn eerste volledige Linux-besturingssysteem (anders dan Android 1.6) is Ubuntu 20.04. Ik ben een erg trotse Linux-gebruiker, aangezien ik niet langer gebonden ben aan mijn gedwongen updates, propriëtaire software en licenties, gebrek aan controle en maatwerk, de angst voor instabiliteit en andere problemen die ik had met Windows 10. Vanaf 4 maart 2021 heb ik gebruik Linux nog steeds dagelijks, maar mijn angst voor Blue Screens is niet verdwenen, soms zelfs bang dat ik een blauw scherm krijg terwijl ik weet dat dat technisch niet eens mogelijk is op Ubuntu (tenzij je software had die het nabootst) I Ik ging oorspronkelijk Fedora 32 op mijn laptop installeren toen ik het kreeg, maar ik besloot om Ubuntu eerst eens te proberen. Tot nu toe vond ik het leuk, behalve 2 dingen: Snaps zijn eigendom en de lelijkheid van GNOME 3.x (vergeleken met eerdere versies en andere desktopomgevingen, zoals degene die ik wilde maar nog niet geïnstalleerd heb; KDE)
+Mijn eerste volledige Linux-besturingssysteem (anders dan Android 1.6) is Ubuntu 20.04. Ik ben een erg trotse Linux-gebruiker, aangezien ik niet langer gebonden ben aan mijn gedwongen updates, propriëtaire software en licenties, gebrek aan controle en maatwerk, de angst voor instabiliteit en andere problemen die ik had met Windows 10. Vanaf 4 maart 2021 heb ik gebruik Linux nog steeds dagelijks, maar mijn angst voor Blue Screens is niet verdwenen, soms zelfs bang dat ik een blauw scherm krijg terwijl ik weet dat dat technisch niet eens mogelijk is op Ubuntu (tenzij je software had die het nabootst) I wilde oorspronkelijk Fedora 32 op mijn laptop installeren toen ik het kreeg, maar ik besloot om Ubuntu eerst eens te proberen. Tot nu toe vond ik het leuk, behalve 2 dingen: Snaps zijn eigendom en de lelijkheid van GNOME 3.x (vergeleken met eerdere versies en andere desktopomgevingen, zoals degene die ik wilde maar nog niet geïnstalleerd heb; KDE)
 
 ​
 
@@ -905,9 +941,7 @@ Mijn eerste volledige Linux-besturingssysteem (anders dan Android 1.6) is Ubuntu
 
 U kunt dit project sponsoren als u dat wilt, maar geef aan waaraan u wilt doneren. [Bekijk hier het geld dat u kunt doneren] (https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
-U kunt andere sponsorinformatie [hier] bekijken (https://github.com
-
-/ seanpm2001 / Sponsor-info /)
+U kunt [hier] andere sponsorinformatie bekijken (https://github.com/seanpm2001/Sponsor-info/)
 
 Probeer het! De sponsorknop bevindt zich direct naast de watch / unwatch-knop.
 
@@ -952,7 +986,7 @@ Ik hou van het uiterlijk en de klank van verschillende talen, of het nu gaat om 
 
 Ik ben een geschiedenisfanaat, met kennis van de geschiedenis die meer dan 13,8 miljard jaar geleden (oerknal) tot op de dag van vandaag reikt. Ik leer graag over geschiedenis, en ik heb kennis van een groot assortiment aan tijdperken en gebeurtenissen, inclusief uitgebreide kennis van andere zaken dan de Eerste of Tweede Wereldoorlog (maar ik weet ook nog steeds veel over de 2 wereldoorlogen) voor de aarde geschiedenis gaat mijn kennis terug tot 8000 v.Chr. in uitgebreide details, tot 27.000 v.Chr. in minder detail, en meestal geologische gebeurtenissen vóór 27.000 v.Chr. Ik vind het leuk om alle soorten geschiedenis te leren, en niet alleen de geschiedenis van oorlogvoering.
 
-Ik heb mijn interesse in geschiedenis te danken aan mijn eerste geschiedenisleraar op de middelbare school, die erg enthousiast was over wat hij lesgaf, en gewoon een geweldige en aardige geschiedenisleraar was. Ik zou hem ongetwijfeld tot leraar van het jaar maken voor dat jaar op de middelbare school. Verleden geschiedenislessen hebben me nooit zo in het onderwerp geschiedenis gebracht, maar deze opende echt mijn geest voor geschiedenis.
+Ik heb mijn interesse in geschiedenis te danken aan mijn eerste geschiedenisleraar op de middelbare school, die erg enthousiast was over wat hij lesgaf, en gewoon een geweldige en aardige geschiedenisleraar was. Ik zou hem ongetwijfeld tot leraar van het jaar maken voor dat jaar op de middelbare school. Verleden geschiedenislessen hebben me nooit in het onderwerp van histo gebrachtry, maar deze opende echt mijn geest voor de geschiedenis.
 
 ### Marine biologie
 
@@ -984,9 +1018,9 @@ Leer nog meer over mij [hier] (https://gist.github.com/seanpm2001/7e40a0e13c066a
 
 Bestandstype: `Markdown (* .md)`
 
-Bestandsversie: `7 (zaterdag 27 maart 2021 om 20.38 uur)`
+Bestandsversie: `8 (woensdag 31 maart 2021 om 16:08 uur)`
 
-Aantal regels (inclusief lege regels en compilerregel): `1,221`
+Aantal regels (inclusief lege regels en compilerregel): `1,297`
 
 ​
 
@@ -1014,9 +1048,7 @@ Versie 1 (vrijdag 21 augustus 2020 om 16:39 uur)
 
 > * De sectie "Vraag me over" toegevoegd
 
-> * Toegevoegd het
-
-"Hoe kan ik mij bereiken" sectie
+> * De sectie "Hoe kan ik mij bereiken" toegevoegd
 
 > * De sectie met bestandsinformatie toegevoegd
 
@@ -1164,11 +1196,23 @@ Deze update heeft 3 dagen gekost, samen met een lange periode van uitstel
 
 > * Geen andere wijzigingen in versie 7
 
-Versie 8 (binnenkort beschikbaar)
+Versie 8 (woensdag 31 maart 2021 om16:08 uur)
 
 > Veranderingen:
 
-> * Binnenkort beschikbaar
+> * Bijgewerkt de index
+
+> * Alle vertalingslinks gerepareerd
+
+> * De projecten waaraan ik heb samengewerkt aan sectie toegevoegd
+
+> * De sectie GitHub-contacten toegevoegd
+
+> * De abonnementensectie toegevoegd
+
+> * De bestandsinfo-sectie bijgewerkt
+
+> * De sectie bestandsgeschiedenis bijgewerkt
 
 > * Geen andere wijzigingen in versie 8
 
@@ -1219,6 +1263,22 @@ Versie 14 (binnenkort beschikbaar)
 > * Binnenkort beschikbaar
 
 > * Geen andere wijzigingen in versie 14
+
+Versie 15 (binnenkort beschikbaar)
+
+> Veranderingen:
+
+> * Binnenkort beschikbaar
+
+> * Geen andere wijzigingen in versie 15
+
+Versie 16 (binnenkort beschikbaar)
+
+> Veranderingen:
+
+> * Binnenkort beschikbaar
+
+> * Geen andere wijzigingen in versie 16
 
 ​
 
