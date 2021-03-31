@@ -79,7 +79,7 @@ If you have been sent here through a link through SMS (text messaging) congratul
 
 Read this description in a different language:
 
-[ar عربى](README_AR.md) [bg български](README_BG.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [nl Nederlands](README_NL.md) [EO Esperanto](README_EO.md) [ka ქართველი](README_KA) [fr français](README_FR.md) [el Ελληνικά](README_EL.md) [de Deutsch](README_DE.md) [hi हिन्दी](README_HI.md) [he עִברִית](README_HE.md) [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [no norsk](README_NO.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md) [sw Kiswahili](README_SW.md) [sv Svenska](README_SV.md) [te తెలుగు](README_TE.md) [tr Türk](README_TR.md) [ur اردو](README_UR.md) [uk Український](README_UK.md) [vi Tiếng Việt](README_VI.md) [cy Cymraeg](README_CY.md) [xh isiXhosa](README_XH.md) [yi יידיש](README_YI.md) [zu Zulu](README_ZU.md)
+[ar عربى](/.github/README_AR.md) [bg български](/.github/README_BG.md) [zh-t 中國傳統的）](/.github/README_ZH-T.md)[**en-us**](/.github/README.md) [nl Nederlands](/.github/README_NL.md) [EO Esperanto](/.github/README_EO.md) [ka ქართველი](/.github/README_KA) [fr français](/.github/README_FR.md) [el Ελληνικά](/.github/README_EL.md) [de Deutsch](/.github/README_DE.md) [hi हिन्दी](/.github/README_HI.md) [he עִברִית](/.github/README_HE.md) [ja 日本語](/.github/README_JA.md) [ko-south 韓國語](/.github/README_KO_SOUTH.md) [no norsk](/.github/README_NO.md) [pl polski](/.github/README_PL.md) [ru русский](/.github/README_RU.md) [es en español](/.github/README_ES.md) [sw Kiswahili](/.github/README_SW.md) [sv Svenska](/.github/README_SV.md) [te తెలుగు](/.github/README_TE.md) [tr Türk](/.github/README_TR.md) [ur اردو](/.github/README_UR.md) [uk Український](/.github/README_UK.md) [vi Tiếng Việt](/.github/README_VI.md) [cy Cymraeg](/.github/README_CY.md) [xh isiXhosa](/.github/README_XH.md) [yi יידיש](/.github/README_YI.md) [zu Zulu](/.github/README_ZU.md)
 
 Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/seanpm2001/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
@@ -192,57 +192,65 @@ I joined GitHub on May 25th 2020 to get my many projects out there. I am skilled
 
 [07.0 - What I'm looking to collaborate on](#What-I'm-looking-to-collaborate-on)
 
+> [07.0.1 - What I have collaborated on](#What-I-have-collaborated-on)
+
 [08.0 - What I'm looking to help with](#What-I'm-looking-to-help-with)
 
-[09.0 - Feature requests for GitHub](#Feature-requests-for-GitHub)
+[09.0 - GitHub contacts](#GitHub-contacts)
 
-[10.0 - Ask me about](#Ask-me-about)
+> [09.0.1 - Family](#Family)
 
-[11.0 - How to reach me](#How-to-reach-me)
+> [09.0.2 - Subscriptions](#Subscriptions)
 
-[12.0 - Projects on other platforms](#Projects-on-other-platforms)
+[10.0 - Feature requests for GitHub](#Feature-requests-for-GitHub)
 
-[13.0 - Identity theft](#Identity-theft)
+[11.0 - Ask me about](#Ask-me-about)
 
-[14.0 - Personal](#Personal)
+[12.0 - How to reach me](#How-to-reach-me)
 
-[15.0 - Profile picture history](#Profile-picture-history)
+[13.0 - Projects on other platforms](#Projects-on-other-platforms)
 
-[16.0 - Linux](#Linux)
+[14.0 - Identity theft](#Identity-theft)
 
-[17.0 - Sponsor info](#Sponsor-info)
+[15.0 - Personal](#Personal)
 
-[18.0 - Submissions](#Submissions)
+[16.0 - Profile picture history](#Profile-picture-history)
 
-[19.0 - Other hobbies](#Other-hobbies)
+[17.0 - Linux](#Linux)
 
-> [19.0.1 - Photography](#Photography)
+[18.0 - Sponsor info](#Sponsor-info)
 
-> [19.0.2 - Swimming](#Swimming)
+[19.0 - Submissions](#Submissions)
 
-> [19.0.3 - Gaming](#Gaming)
+[20.0 - Other hobbies](#Other-hobbies)
 
-> [19.0.4 - Graphic design](#Graphic-design)
+> [20.0.1 - Photography](#Photography)
 
-> [19.0.5 - Linguist](#Linguist)
+> [20.0.2 - Swimming](#Swimming)
 
-> [10.0.6 - History buff](#History-buff)
+> [20.0.3 - Gaming](#Gaming)
 
-> [10.0.7 - Marine biology](#Marine-biology)
+> [20.0.4 - Graphic design](#Graphic-design)
 
-> [10.0.8 - Journaling](#Journaling)
+> [20.0.5 - Linguist](#Linguist)
 
-[20.0 - Teams: blue](#Blue-team)
+> [20.0.6 - History buff](#History-buff)
 
-[21.0 - Teams: green](#Green-team)
+> [20.0.7 - Marine biology](#Marine-biology)
 
-[22.0 - File info](#File-info)
+> [20.0.8 - Journaling](#Journaling)
 
-[23.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+[21.0 - Teams: blue](#Blue-team)
 
-[24.0 - Footer](#Footer)
+[22.0 - Teams: green](#Green-team)
 
-> [24.5 - End of file](#End-of-file)
+[23.0 - File info](#File-info)
+
+[24.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+
+[25.0 - Footer](#Footer)
+
+> [25.9 - End of file](#End-of-file)
 
 ***
 
@@ -706,6 +714,14 @@ Companies I am currently considering include:
 
 > No other companies currently listed
 
+#### What I have collaborated on
+
+I have collaborated on a few projects on GitHub, including
+
+![/.github/projects/external/1/LinCity_NG.png](/.github/projects/external/1/LinCity_NG.png) - [LinCity NG](https://github.com/lincity-ng/lincity-ng/) - 100% issues (2020) - [1](https://github.com/lincity-ng/lincity-ng/issues/46)
+
+![/.github/projects/external/1/Ruffle_vector_logo.svg](/.github/projects/external/1/Ruffle_vector_logo.svg) [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - 100% code review (2021) [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177)
+
 ***
 
 ### What I'm looking to help with
@@ -727,6 +743,38 @@ I also can't work on projects that are related to your school work. Please do no
 I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3, Java, C, C++, or JavaScript. I won't be able to help as well with projects written in other languages.
 
 No other limitations listed at the moment.
+
+***
+
+### GitHub contacts
+
+#### Family
+
+@Microsoft
+
+[Channa-My](https://github.com/channa-my)
+
+[Lindsay-My](https://github.com/lindsmy)
+
+@Close
+
+[Chrism2282](https://github.com/chrism2282)
+
+[Inverno4](https://github.com/inverno4)
+
+[Memewallawalla](https://github.com/memewallawalla)
+
+@alt_accounts
+
+[Seanwallawalla](https://github.com/seanwallawalla)
+
+@tech_idols
+
+[Linus Torvalds](https://github.com/torvalds)
+
+#### Subscriptions
+
+[Linux kernel](https://github.com/torvalds/linux)
 
 ***
 
@@ -971,9 +1019,9 @@ Learn even more about me [here](https://gist.github.com/seanpm2001/7e40a0e13c066
 
 File type: `Markdown (*.md)`
 
-File version: `7 (Saturday, March 27th 2021 at 8:38 pm)`
+File version: `8 (Wednesday, March 31st 2021 at 4:08 pm)`
 
-Line count (including blank lines and compiler line): `1,221`
+Line count (including blank lines and compiler line): `1,297`
 
 ***
 
@@ -1149,11 +1197,23 @@ This update has taken 3 days to make, along with a long procrastination period
 
 > * No other changes in version 7
 
-Version 8 (Coming soon)
+Version 8 (Wednesday, March 31st 2021 at 4:08 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the index
+
+> * Fixed all translation links
+
+> * Added the projects I have collaborated on section
+
+> * Added the GitHub contacts section
+
+> * Added the subscriptions section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 8
 
@@ -1204,6 +1264,22 @@ Version 14 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 14
+
+Version 15 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 15
+
+Version 16 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 16
 
 !-->
 
