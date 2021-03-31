@@ -78,9 +78,9 @@ Se vi estis sendita ĉi tien per ligo per SMS (tekstmesaĝoj) gratulon! Vi estas
 
 Legu ĉi tiun priskribon en alia lingvo:
 
-[ar عربى] (README_AR.md) [bg български] (README_BG.md) [zh-t 中國 傳統 的）] (README_ZH-T.md) [** eo-ni **] (README.md) [nl Nederlands] (README_NL.md) [EO Esperanto] (README_EO.md) [ka ქართველი] (README_KA) [fr français] (README_FR.md) [el Ελληνικά] (README_EL.md) [de Deutsch] (README_DE.md) [hi हिन्दी] (README_HI.md) [li Hebreo] (README_HE.md) [ja 日本語] (README_JA.md) [ko-south 韓國 語] (README_KO_SOUTH.md) [neniu norsk] (README_NO.md) [ pl polski] (README_PL.md) [ru русский] (README_RU.md) [es en español] (README_ES.md) [sw Kiswahili] (README_SW.md) [sv Svenska] (README_SV.md) [te తెలుగు] ( README_TE.md) [tr Türk] (README_TR.md) [ur اردو] (README_UR.md) [uk Український] (README_UK.md) [vi Tiếng Việt] (README_VI.md) [cy Cymraeg] (README_CY [xh isiXhosa] (README_XH.md) [yi יידיש] (README_YI.md) [zu Zulu] (README_ZU.md)
+[ar عربى] (/. github / README_AR.md) [bg български] (/. github / README_BG.md) [zh-t 中國 傳統 的）] (/. github / README_ZH-T.md) [** eo -us **] (/. github / README.md) [nl Nederlands] (/. github / README_NL.md) [EO Esperanto] (/. github / README_EO.md) [ka ქართველი] (/. github / README_KA ) [fr français] (/. github / README_FR.md) [el Ελληνικά] (/. github / README_EL.md) [de Deutsch] (/. github / README_DE.md) [hi हिन्दी] (/. github / README_HI .md) [li Hebreo] (/. github / README_HE.md) [ja 日本語] (/. github / README_JA.md) [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) [neniu norsk] (/.github/README_NO.md) [pl polski] (/. github / README_PL.md) [ru русский] (/. github / README_RU.md) [es en español] (/. github / README_ES.md) [ sw Kiswahili] (/. github / README_SW.md) [sv Svenska] (/. github / README_SV.md) [te తెలుగు] (/. github / README_TE.md) [tr Türk] (/. github / README_TR.md ) [ur اردو] (/. github / README_UR.md) [uk Український] (/. github / README_UK.md) [vi Tiếng Việt] (/. github / README_VI.md) [cy Cymraeg] (/. github / README_CY.md) [xh isiXhosa] (/. Github / README_XH.md) [yi יידיש] (/. Github / README_YI.md) [zu Zulu] (/. Github / README_ZU.md)
 
-Tradukoj en aliaj lingvoj krom la angla estas aŭtomate tradukitaj kaj ankoraŭ ne estas ĝustaj. Ankoraŭ neniuj eraroj estis riparitaj ekde la 5a de februaro 2021. Bonvolu raporti tradukerarojn [ĉi tie] (https://github.com/seanpm2001/seanpm2001/issues/) certigu rezervi vian korektadon per fontoj kaj gvidi min, ĉar mi Mi ne bone scias aliajn lingvojn krom la angla (mi planas eventuale akiri tradukiston) bonvolu citi [vikivortaro] (https://eo.wiktionary.org) kaj aliaj fontoj en via raporto. Malsukceso fari tion rezultigos malakcepton de la korekto publikigita.
+Tradukoj en aliaj lingvoj krom la angla estas aŭtomate tradukitaj kaj ankoraŭ ne estas ĝustaj. Ankoraŭ neniuj eraroj estis riparitaj ekde la 5a de februaro 2021.Bonvolu raporti tradukajn erarojn [ĉi tie] (https://github.com/seanpm2001/seanpm2001/issues/) certigu rezervi vian korektadon per fontoj kaj gvidu min, ĉar mi ne bone scias aliajn lingvojn krom la angla (mi planas akirante tradukiston eventuale) bonvolu citi [vikivortaron] (https://en.wiktionary.org) kaj aliajn fontojn en via raporto. Malsukceso fari tion rezultigos malakcepton de la korekto publikigita.
 
 Noto: pro limigoj kun markado, alklakante ĉi tiujn ligojn redirektos vin al aparta dosiero sur aparta paĝo, kiu ne estas mia GitHub-profilpaĝo. Vi estos redirektita al la deponejo [seanpm2001 / seanpm2001] (https://github.com/seanpm2001/seanpm2001), kie la README estas gastigita.
 
@@ -191,57 +191,65 @@ Mi aliĝis al GitHub la 25an de majo 2020 por krei miajn multajn projektojn. Mi 
 
 [07.0 - Pri kio mi serĉas kunlabori] (# Kio-mi-serĉas-kunlabori)
 
-[08.0 - Pri kio mi volas helpi] (# Kio-mi-serĉas-helpi-kun)
+> [07.0.1 - Pri kio mi kunlaboris] (# Kio-mi-kunlaboris-sur)
 
-[09.0 - Feature petoj por GitHub] (# Feature-requests-for-GitHub)
+[08.0 - Kion mi vidasoking helpi kun] (# Kio-mi-serĉas-helpi-kun)
 
-[10.0 - Demandu min pri] (# Demandu-mi-pri)
+[09.0 - GitHub-kontaktoj] (# GitHub-kontaktoj)
 
-[11.0 - Kiel atingi min] (# Kiel-atingi-min)
+> [09.0.1 - Familio] (# Familio)
 
-[12.0 - Projektoj sur aliaj platformoj] (# Projektoj-sur-aliaj-platformoj)
+> [09.0.2 - Abonoj] (# Abonoj)
 
-[13.0 - Identiga ŝtelo] (# Identeca-ŝtelo)
+[10.0 - Trajtoj por GitHub] (# Trajto-petoj-por-GitHub)
 
-[14.0 - Persona] (# Phoma)
+[11.0 - Demandu min pri] (# Demandu-mi-pri)
 
-[15.0 - Profila bilda historio] (# Profila-bilda-historio)
+[12.0 - Kiel atingi min] (# Kiel-atingi-min)
 
-[16.0 - Linukso] (# Linukso)
+[13.0 - Projektoj sur aliaj platformoj] (# Projektoj-sur-aliaj-platformoj)
 
-[17.0 - Sponsoraj informoj] (# Sponsor-info)
+[14.0 - Identiga ŝtelo] (# Identeca-ŝtelo)
 
-[18.0 - Proponoj] (# Proponoj)
+[15.0 - Persona] (# Persona)
 
-[19.0 - Aliaj ŝatokupoj] (# Aliaj ŝatokupoj)
+[16.0 - Profila bilda historio] (# Profila-bilda-historio)
 
-> [19.0.1 - Fotografio] (# Fotografio)
+[17.0 - Linukso] (# Linukso)
 
-> [19.0.2 - Naĝado] (# Naĝado)
+[18.0 - Sponsoraj informoj] (# Sponsor-info)
 
-> [19.0.3 - Ludado] (# Ludado)
+[19.0 - Proponoj] (# Proponoj)
 
-> [19.0.4 - Grafika projektado] (# Grafika projektado)
+[20.0 - Aliaj ŝatokupoj] (# Aliaj ŝatokupoj)
 
-> [19.0.5 - Lingvisto] (# Lingvisto)
+> [20.0.1 - Fotografio] (# Fotografio)
 
-> [10.0.6 - Historio-amanto] (# Historio-amanto)
+> [20.0.2 - Naĝado] (# Naĝado)
 
-> [10.0.7 - Mara biologio] (# Mara biologio)
+> [20.0.3 - Ludado] (# Ludado)
 
-> [10.0.8 - Revuo] (# Revuo)
+> [20.0.4 - Grafika projektado] (# Grafika projektado)
 
-[20.0 - Teamoj: blua] (# Blua-teamo)
+> [20.0.5 - Lingvisto] (# Lingvisto)
 
-[21.0 - Teamoj: verda] (# Verda-teamo)
+> [20.0.6 - Historio-amanto] (# Historio-amanto)
 
-[22.0 - Dosiera informo] (# Dosiera informo)
+> [20.0.7 - Mara biologio] (# Mara biologio)
 
-[23.0 - Historio de dosierversioj (kaŝe defaŭlte, vidu fontkodon por vidi)] (# File-version-history)
+> [20.0.8 - Revuo] (# Revuo)
 
-[24.0 - Piedo] (# Piedo)
+[21.0 - Teamoj: blua] (# Blua-teamo)
 
-> [24.5 - Fino de dosiero] (# Fino-de-dosiero)
+[22.0 - Teamoj: verda] (# Verda-teamo)
+
+[23.0 - Dosiera informo] (# Dosiera informo)
+
+[24.0 - Historio de dosierversioj (kaŝe defaŭlte, vidu fontkodon por vidi)] (# File-version-history)
+
+[25.0 - Piedo] (# Piedo)
+
+> [25.9 - Fino de dosiero] (# Fino de dosiero)
 
 ***
 
@@ -253,11 +261,11 @@ Miaj ĉefaj projektoj inkluzivas:
 
 ! [Originala SNU-profilbildo ne ŝarĝis. Alklaku / frapetu ĉi tie por provi vidi ĝin] (/ Media / 71748421.png)
 
-[SNU] (https://github.com/seanpm2001/SNU/) - Altnivela retejo por gastigi platformon, celante esti la Linukso de interreta disvolviĝo, kaj anstataŭanto de multaj retejoj, inkluzive de YouTube, Twitter, FaceBook, GitHub, Instagram , Reddit, Discord, kaj centmiloj pli.
+[SNU] (https://github.com/seanpm2001/SNU/) - Altnivela retprovizanta platformo, celanta esti la Linukso de interreta disvolviĝo, kaj anstataŭanto de multaj retejoj, inkluzive de YouTube, Twitter, FaceBook, GitHub, Instagram , Reddit, Discord, kaj centmiloj pli.
 
 ! [Originala MEDOS B4.0-profilbildo ne ŝarĝis. Alklaku / frapetu ĉi tie por provi vidi ĝin] (/ Media / MEDOS4_Logo.bmp)
 
-[MEDOS] (https://github.com/seanpm2001/MEDOS/) - Pli malnova projekto por aro da operaciumoj, kiuj funkcias rekte per eksteraj rimedoj, kaj povas esti alirebla.
+[MEDOS] (https://github.com/seanpm2001/MEDOS/) - Pli malnova projekto por aro da operaciumoj, kiuj funkcias rekte de eksteraj rimedoj, kaj estas alirebla.
 
 ! [Originala MEDOS B4.0-profilbildo ne ŝarĝis. Alklaku / frapetu ĉi tie por provi vidi ĝin] (/ Media / QMDS.png)
 
@@ -273,7 +281,7 @@ Miaj ĉefaj projektoj inkluzivas:
 
 ** Ŝlosilaj projektoj: **
 
-[SeansAudioDB] (https://github.com/seanpm2001/SeansAudioDB) - Loko, kie mi konservas kopion de mia persona muzika kolekto. Pro grandeco de dosiero kaj kopirajtaj kialoj, la plimulto de kantoj kaj dosieroj ne povas esti alŝutitaj ĉi tie. Mi laboras aldoni 3 novajn ludlistojn ĉiutage.
+[SeansAudioDB] (https://github.com/seanpm2001/SeansAudioDB) - Loko, kie mi konservas kopion de mia persona muzika kolekto. Pro grandeco de dosiero kaj kopirajtaj kialoj, la plej multaj kantoj kaj dosieroj ne povas esti alŝutitaj ĉi tie. Mi laboras aldoni 3 novajn ludlistojn ĉiutage.
 
 [Programaj iloj de SNU 2D] (https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - La plej evoluinta programa modulo por la retejo de SNU. Ĉu vi volas vidi ĉiujn modulojn aparte? [Ĉi tiu organizo havas ĉiujn kiel apartajn deponejojn] (https://github.com/SNU-Programming-Tools)
 
@@ -287,7 +295,7 @@ Jen ordigita listo de ŝlosilaj projektoj laŭ mega projektokategorioj.
 
 [Kial vi devas ĉesi uzi Google Chrome] (https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) - La unua artikolo en mia serio de artikoloj degoogle, celanta atentigi problemojn kun Chrome kaj donante bonajn privatec-respektajn alternativojn.
 
-[Ĉesu uzi Chromebooks] (https://github.com/seanpm2001/Stop-using-Chromebooks) - La dua artikolo en mia serio de degoogle-artikoloj, celanta indiki pliajn problemojn kun Google Chrome, ĉi-foje kun ChromeOS kaj la reganta privatec-enpenetraj komputilaj aparatoj kaj flankaparatoj celis kolekti pli da uzantodatenoj kaj pliigi la Google-monopolon. Alternativoj ankaŭ estas donitaj, ĉiuj artikoloj donas alternativojn.
+[Ĉesu uzi Chromebooks] (https://github.com/seanpm2001/Stop-using-Chromebooks) - La dua artikolo en mia serio de artikoloj degoogle, celanta atentigi pliajn problemojn kun Google Chrome, ĉi-fojeChromeOS kaj la regantaj komputilaj aparatoj kaj ekstercentraj privatec-invadaj celis kolekti pli da uzantodatenoj kaj pliigi la monopolon de Google. Alternativoj ankaŭ estas donitaj, ĉiuj artikoloj donas alternativojn.
 
 [Alternante de Jutubo] (https://github.com/seanpm2001/Alternating-from-YouTube) - Alia artikolo en mia serio de artikoloj degoogle, celanta montri la hipokrason kaj grandan abundon de problemoj (kaj multaj mortoj + 1 pafado) kaŭzita de Google-posedata YouTube. Ĉar estas tiel malfacile foriri de YouTube pro ne realigeblaj alternativoj, ĉi tiu artikolo listigas iujn alternativojn, sed ĉefe listigas kiel vi povas defendi vian privatecon dum vi ankoraŭ uzas YouTube, kvankam ĝi ankaŭ funkcias kiel kritika ŝarĝo.
 
@@ -327,17 +335,17 @@ Jen ordigita listo de ŝlosilaj projektoj laŭ mega projektokategorioj.
 
 [iBlast] (https://github.com/seanpm2001/iBlast) - malferma fonta amuza rekreado de la 2 Godzilab-ludoj iBlast Moki kaj iBlast Moki 2, ĉar Android 7 / iOS 11 kaj pli ne plu subtenas la ludojn
 
-[Tetris128] (https://github.com/seanpm2001/Tetris128) - Malferma fonto progresinta 64x128 (128-bita aplikaĵo, kun 64-bita subteno) Tetris-efektivigo kun subteno por ĝis 10 blokaj (Decominoes) milda korpa fiziko, kaj aliaj ludstiloj kaj reĝimoj.
+[Tetris128] (https://github.com/seanpm2001/Tetris128) - Malferma fonto progresinta 64x128 (128-bita aplikaĵo, kun 64-bita subteno) Tetris-efektivigo kun subteno por ĝis 10 blokpecoj (Decominoes) milda korpa fiziko, kaj aliaj ludstiloj kaj reĝimoj.
 
-[NimbleBook] (https://github.com/seanpm2001/NimbleBook) - malferma fonta NimbleBit-fanludo por permesi al vi kontroli la fifaman platformon de sociaj rimedoj BitBook kaj ĝiajn variaĵojn tra NimbleBit-ludoj.
+[NimbleBook] (https://github.com/seanpm2001/NimbleBook) - Malferma fonta NimbleBit-fanludo por permesi al vi regi la fifaman platformon de sociaj rimedoj BitBook kaj ĝiajn variaĵojn tra NimbleBit-ludoj.
 
-[MCPYE] (https://github.com/seanpm2001/MCPYE) - Kodnomo: Minecraft Python Edition (ne la oficiala nomo) malfermfonteco Minecraft, Growtopia, kaj Sims-distro kun subteno por miloj da blokoj kaj entoj.
+[MCPYE] (https://github.com/seanpm2001 / MCPYE) - Kodnomo: Minecraft Python Edition (ne la oficiala nomo) malfermfonteco Minecraft, Growtopia, kaj Sims-distro kun subteno por miloj da blokoj kaj entoj.
 
 ### Esploraj projektoj
 
-[Mara Biologio] (https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology) - Por esploroj rilataj al miaj fazoj de mara biologio
+[Mara Biologio] (https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology) - Por esplorado rilata al miaj fazoj de mara biologio
 
-[Animeo] (https://github.com/seanpm2001/Anime) - Por esplorado kaj diskuto pri Animeo kaj Mangao, plus Japanio en general.
+[Animeo] (https://github.com/seanpm2001/Anime) - Por esplorado kaj diskuto pri Animeo kaj Mangao, plus Japanio ĝenerale.
 
 [The Walla Walla Anime] (https://github.com/seanpm2001/the-walla-walla-anime) - embarasa malnova projekto provi desegni Animeon kun Microsoft Paint 3D. Bezonas kompletan reskribon.
 
@@ -355,7 +363,7 @@ Jen ordigita listo de ŝlosilaj projektoj laŭ mega projektokategorioj.
 
 [Perl Harbour] (https://github.com/seanpm2001/Perl_Harbor) - Speciala memora projekto por memori kaj honori la vivojn perditajn en la japana atako kontraŭ Pearl Harbor en Havajo en 1941, kiu kaŭzis la eniron de Usono en la mondmiliton 2. Projekto estas verkita en Perl pro sia 1-litera diferenco kun Pearl. Neniam forgesu!
 
-[BluPhone] (https://github.com/seanpm2001/BluPhone) - BluPhone estas potenca Bluetooth-aparata kliento por Linukso, MacOS, Android, iOS, Vindozo, FreeBSD, kaj pli. Ĝi donas al vi multan kontrolon pri iu ajn bluetooth-aŭdila aro, kiun vi konektas.
+[BluPhone] (https://github.com/seanpm2001/BluPhone) - BluPhone estas potenca Bluetooth-aparata kliento por Linukso, MacOS, Android, iOS, Vindozo, FreeBSD, kaj pli. Ĝi donas al vi multan kontrolon pri iu ajn bluetooth aŭdila aro, kiun vi konektas.
 
 [LinkLax] (https://github.com/seanpm2001/LinkLax) - LinkLax estas tre bunta kaj bela URL (hiperligo) stilila programo, kiu povas plibonigi vian sperton pri retumado.
 
@@ -453,7 +461,7 @@ Jen ordigita listo de ŝlosilaj projektoj laŭ mega projektokategorioj.
 
 ## Libera programaro ne libere disvolviĝas
 
-Memoru, ke libera programaro kaj malfermfontaj programoj ne ĉiam libere disvolviĝas. Certigu donaci al programaj organizaĵoj, kiujn vi ŝatas, por ke ili daŭre kontribuu al la socio.
+Memoru tiun liberan programon kaj liberan programonne ĉiam libere disvolviĝas. Certigu donaci al programaj organizaĵoj, kiujn vi ŝatas, por ke ili daŭre kontribuu al la socio.
 
 Mia listo de subtenataj organizaĵoj inkluzivas:
 
@@ -473,7 +481,7 @@ Mia listo de subtenataj organizaĵoj inkluzivas:
 
 * FFMPEG
 
-* The Interreta Arkivo (ankaŭ la kreintoj de la retromemora maŝino)
+* La Interreta Ariveivo (ankaŭ la kreintoj de la retromesa maŝino)
 
 * Malfermu Stratan Mapon
 
@@ -545,17 +553,17 @@ Mi suspendis mian konton 3 tagojn poste, kaj kune kun aliaj kialoj, mi decidis n
 
 Mi havas multajn malsamajn projektojn. Mi devas administri multajn malsamajn projektojn. Mi havas pli ol 70 malsamajn Fajrovulpajn profilojn, ĉiu enhavanta sian propran tabon, tamen mi nur tenas 1-3 profilojn malfermitaj samtempe. Mi fermas ĉi tiujn kiam mi finas kun ili nuntempe.
 
-### Kial vi tiom uzas Vikipedion
+### Why ĉu vi tiom uzas Vikipedion
 
 Vikipedio estas unu el miaj plej uzataj retejoj, GitHub estas dua. Mi trovas Vikipedion bonega rimedo, kaj bona por esplori programadon, kemion, historion kaj pli. Mi intencas iam donaci monon al Vikipedio ĉiumonate.
 
 ### Kial vi ludas tiom da malsamaj ludoj
 
-Mi ŝatas havi ekvilibron en mia vivo, kaj havas periodojn por malstreĉiĝi de programado. Mi elpensas novajn ideojn ankaŭ dum ĉi tiu periodo, kajfaru aliajn aferojn, ekzemple taskojn ĉirkaŭ la domo.
+Mi ŝatas havi ekvilibron en mia vivo, kaj havas periodojn por malstreĉiĝi de programado. Mi elpensas novajn ideojn ankaŭ dum ĉi tiu periodo, kaj faras aliajn aferojn, kiel taskojn ĉirkaŭ la domo.
 
 ### Kial vi ludas infanajn ludojn
 
-Mi ludas ludojn, kiuj havas ĝeneralan celon por infanoj, sed estas ankaŭ nur pasintaj tempoj. Ekzemploj inkluzivas Restoracion / Bakejon / Hejmbutikon / Modon / Bienon / Urbrakonton, kaj Kunfandi Aviadilon. Ĉi tiuj ludoj povas esti por infanoj kaj plenkreskuloj. Mi ludis ĉi tiujn ludojn en mia infanaĝo, kaj havas nostalgiajn ligojn kun ili. Iuj el ili estas vere vere amuzaj por komenci.
+Mi ludas ludojn, kiuj havas ĝeneralan celon por infanoj, sed estas ankaŭ nur pasintaj tempoj. Ekzemploj inkluzivas Restoracion / Bakejon / Hejmbutikon / Modon / Bienon / Urbrakonton, kaj Kunfandi Aviadilon Ĉi tiuj ludoj povas esti por infanoj kaj plenkreskuloj. Mi ludis ĉi tiujn ludojn en mia infanaĝo, kaj havas nostalgiajn ligojn kun ili. Iuj el ili estas vere vere amuzaj por komenci.
 
 ### Kial vi tiom malamas Guglon
 
@@ -693,19 +701,25 @@ Kompanioj, kiujn mi nuntempe konsideras, inkluzivas:
 
 > Microsoft [::] - Mi havas iun familion, kiu funkcias ĉi tie, kaj mi havis longan pasintecon kun Microsoft (ĝis 2005) kvankam mi konsideras iujn aferojn, kiujn Microsoft faras kiel maletikaj, mi ne ĝenus labori ĉi tie (Mi havas tre fortan personan sperton pri Microsoft-produktoj, precipe Vindozo XP) Se estas iuj laboroj ĉi tie uzantaj Python, mi povas fari ilin.
 
-> VideoLan / - \ - Mi ŝatus provi verki dokumentojn por VideoLan, mi tre lerte verkas dokumentojn, ĉar mi ĝuas fari ĝin, kaj mi faras ĝin la plej grandan parton de la tago, ĉiutage. Nuntempe VideoLan ne povas havi dokumentajn verkistojn pro malmultaj volontuloj. Se permesite, mi verkos dokumentadon por ĉiu versio de VLC, kiu ne havas ĝin (nur en la angla, mi ne povas fari aliajn lingvojn)
+> VideoLan / - \ - Mi ŝatus provi verki dokumentojn por VideoLan, mi tre lerte verkas dokumentojn, ĉar mi ĝuas fari ĝin, kaj mi faras ĝin la plej grandan parton de la tago, ĉiutage. Nuntempe VideoLan ne povas havi dokumentajn verkistojn pro malmultaj volontuloj. Se permesite, mi verkos dokumentojn por ĉiu versio de VLC, kiu ne havas ĝin (nur en anglmi ne povas fari aliajn lingvojn)
 
 > Kanonika (&) - Mi ŝatus provi kaj kontribui al Linukso kiel ajn mi povas. Labori ĉe Canonical estas nuntempe eblo, mi ne scias precize kion mi farus ĉi tie, sed mi espereble povus fari ion.
 
-> La KDE-Fondaĵo (K) - KDE estus bela fundamento por kiu labori. Mi tre amas iliajn superpezajn malfermfontajn projektojn, kaj mi povus helpi redukti eĉ pli da ŝvelaĵo. Se laboro estas disponebla en lingvo, mi havas
-
-Mi havas almenaŭ 40% da scioj, mi povus labori ĉi tie.
+> La KDE-Fondaĵo (K) - KDE estus bela fundamento por kiu labori. Mi tre amas iliajn superpezajn malfermfontajn projektojn, kaj mi povus helpi redukti eĉ pli da ŝvelaĵo. Se laboro disponeblas en lingvo, en kiu mi havas almenaŭ 40% scion, mi povus labori ĉi tie.
 
 > Khan Academy (^) - Mi ŝatus helpi kontribui al Khan Academy, mi uzas la retejon dum preskaŭ 4 jaroj ĉiutage. Se eblus fari filmetojn kaj artikolojn por ili, mi ĉiam pripensis komenci kurson pri virtualigo.
 
-> La GNOME-organizo (G) - se eble, mi povus provi starigi iujn ŝanĝojn por redukti la grandegan memoruzadon de GNOME, kiu ĉiam elstaris kiel io, kio devas esti riparita al mi. Ĝi ankoraŭ multe pli bonas ol la memora uzado de Vindozo 10, senutila en Vindozo 10 uzus duonon de mia RAM, kiom ajn mi havus (4, 8, 16 Gb) sur mia unua Linuksa tekkomputilo, ĝi ĉiam restis sub 1,8 gigabajtoj kiam senaktiva (ankaŭ kalkulante la sisteman monitoron)
+> La GNOME-organizo (G) - se eble, mi povus provi starigi iujn ŝanĝojn por redukti la grandegan memoruzon de GNOME, kiu ĉiam elstaris kiel io, kio devas esti riparita al mi. Ĝi ankoraŭ multe pli bonas ol la memora uzado de Vindozo 10, senutila en Vindozo 10 uzus duonon de mia RAM, kiom ajn mi havus (4, 8, 16 Gb) sur mia unua Linuksa portebla komputilo, ĝi ĉiam restis sub 1,8 gigabajtoj neaktiva (ankaŭ kalkulante la sisteman monitoron)
 
 > Neniuj aliaj kompanioj listigitaj nuntempe
+
+#### Pri kio mi kunlaboris
+
+Mi kunlaboris pri kelkaj projektoj ĉe GitHub, inkluzive
+
+! [/. github / projects / external / 1 / LinCity_NG.png] (/. github / projects / external / 1 / LinCity_NG.png) - [LinCity NG] (https://github.com/lincity-ng/lincity -ng /) - 100% numeroj (2020) - [1] (https://github.com/lincity-ng/lincity-ng/issues/46)
+
+! [/. github / projects / external / 1 / Ruffle_vector_logo.svg] (/. github / projects / external / 1 / Ruffle_vector_logo.svg) [Ruffle-rs] (https://github.com/ruffle-rs/ruffle ) - 100% kodrevizio (2021) [1] (https://github.com/ruffle-rs/ruffle/pull/3004) [2] (https://github.com/ruffle-rs/ruffle/pull / 3117) [3] (https://github.com/ruffle-rs/ruffle/pull/3194) [4] (https://github.com/ruffle-rs/ruffle/pull/3163) [5] (https://github.com/ruffle-rs/ruffle/pull/3176) [6] (https://github.com/ruffle-rs/ruffle/pull/3177)
 
 ***
 
@@ -728,6 +742,38 @@ Mi ankaŭ ne povas labori pri projektoj rilataj al via lerneja laboro. Bonvolu n
 Mi preferus helpi pri projektoj verkitaj en Python 3, Markdown, HTML5, CSS3, Java, C, C ++ aŭ JavaScript. Mi ne povos helpi ankaŭ pri projektoj verkitaj en aliaj lingvoj.
 
 Neniuj aliaj limigoj listigitaj nuntempe.
+
+***
+
+### GitHub-kontaktoj
+
+#### Familio
+
+@Mikrosoft
+
+[Channa-Mia] (https://github.com/channa-my)
+
+[Lindsay-Mia] (https://github.com/lindsmy)
+
+@Fermi
+
+[Chrism2282] (https://github.com/chrism2282)
+
+[Inverno4] (https://github.com/inverno4)
+
+[Memewallawalla] (https://github.com/memewallawalla)
+
+@alt_kontoj
+
+[Seanwallawalla] (https://github.com/seanwallawalla)
+
+@teknologioj
+
+[Linus Torvalds] (https://github.com/torvalds)
+
+#### Abonoj
+
+[Linukso-kerno] (https://github.com/torvalds/linux)
 
 ***
 
@@ -769,7 +815,7 @@ Nuntempe ne ekzistas aliaj manieroj sendi min
 
 ***
 
-Vi povas trovi pliajn informojn pri mia persona Resumo. [Alklaku / frapetu ĉi tie por lerni pli pri mi] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
+JesVi povas trovi pliajn informojn pri mia persona Resumo. [Alklaku / frapetu ĉi tie por lerni pli pri mi] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
 ***
 
@@ -811,7 +857,7 @@ Mi estas sur la jenaj platformoj
 
 [Mozilla] (# Identeca-ŝtelo)
 
-[Twitter] (https://www.twitter.com/@seanwallawalla) - Ne plu uzi ekde 2018, iomete kruta, sedNe tro malbona
+[Twitter] (https://www.twitter.com/@seanwallawalla) - Ne plu uzi ekde 2018, iomete kruta, sed ne tro malbona
 
 [Scratch] (https://scratch.mit.edu/users/seanspokane2015) - Ne plu uzi ekde 2017
 
@@ -855,7 +901,7 @@ Mi havas iujn personajn opiniojn pri GitHub. Mi laboras pri konservado de ili en
 
 [Opinioj] (https://github.com/seanpm2001/Opinions) - Opinioj estas dokumentitaj ĉi tie
 
-[Politiko] (https://github.com/seanpm2001/Politics) - Miaj politikaj vidpunktoj estas listigitaj ĉi tie kaj absolute NE liku aliloke. Mi sentis, ke mi bezonas rimarki, ke mi ne silentos pri iuj aferoj.
+[Politiko] (https://github.com/seanpm2001/Politics) - Miaj politikaj vidpunktoj estas listigitaj ĉi tie kaj absolute NE liku ie ajn aliloke. Mi sentis, ke mi bezonas rimarki, ke mi ne silentos pri iuj aferoj.
 
 Ĉe GitHub, mi havas multajn aliajn personajn projektojn, sub la kategorio de projekto pri vivarkivo, pri kiu mi laboris ekstreme malfacile ekde 2016.
 
@@ -871,7 +917,7 @@ Originala (25 majo 2020 ĝis? 2020)
 
 ! [Originala modifita profilbildo malsukcesis ŝarĝi. Alklaku / frapetu ĉi tie por provi vidi ĝin] (/ Media / 773af859eafc403a8ce6bb3051bd2618 (kopio) .png)
 
-Originala (Windows Explorer-travidebla versio)
+Originala (Vindozo-esplorilo travideblis versjono)
 
 ! [GitHub Profila bildo malsukcesis ŝarĝi. Alklaku ĉi tie por provi vidi ĝin] (SeniorPhotoFullQuality.jpeg)
 
@@ -885,7 +931,7 @@ Mi estis fervorulo de Vindozo ĝis Vindozo 10. Mi komencis provi ŝanĝi al Linu
 
 ! [20200709_124359.jpg] (/ Media / 20200709_124359.jpg)
 
-Mia unua kompleta en Linuksa operaciumo (krom Android 1.6) estas Ubuntu 20.04. Mi estas tre fiera Linuksa uzanto, ĉar mi ne plu limigas miajn devigitajn ĝisdatigojn, proprietajn programojn kaj rajtigojn, mankon de kontrolo kaj personigo, la timon de malstabileco kaj aliajn problemojn, kiujn mi havis kun Vindozo 10. Ekde la 4a de marto 2021, mi Mi ankoraŭ uzas Linukson ĉiutage, sed mia timo pri Bluaj Ekranoj ne malaperis, foje eĉ timante, ke mi havas bluan ekranon, kiam mi scias, ke tio eĉ ne teknike eblas ĉe Ubuntu (krom se vi havis programon, kiu imitas ĝin). origine instalos Fedora 32 sur mia tekkomputilo kiam mi akiris ĝin, sed mi decidis provi Ubuntu unue. Ĝis nun mi ŝatis ĝin, krom 2 aferoj: Klakoj posedantaj, kaj la malbeleco de GNOME 3.x (kompare kun antaŭaj versioj kaj aliaj labortablaj medioj, kiel tiu, kiun mi volis sed ankoraŭ ne instalis; KDE)
+Mia unua kompleta en Linuksa operaciumo (krom Android 1.6) estas Ubuntu 20.04. Mi estas tre fiera Linuksa uzanto, ĉar mi ne plu limigas miajn devigitajn ĝisdatigojn, proprietajn programojn kaj rajtigojn, mankon de kontrolo kaj personigo, la timon pri malstabileco kaj aliajn problemojn, kiujn mi havis kun Vindozo 10. Ekde la 4a de marto 2021 Mi ankoraŭ uzas Linukson ĉiutage, sed mia timo pri Bluaj Ekranoj ne malaperis, foje eĉ timante, ke mi havas bluan ekranon, kiam mi scias, ke tio eĉ ne teknike eblas ĉe Ubuntu (krom se vi havis programon, kiu imitas ĝin). origine instalos Fedora 32 sur mia tekkomputilo kiam mi akiris ĝin, sed mi decidis provi Ubuntu unue. Ĝis nun mi ŝatis ĝin, krom 2 aferoj: Klakoj posedantaj, kaj la malbeleco de GNOME 3.x (kompare kun antaŭaj versioj kaj aliaj labortablaj medioj, kiel tiu, kiun mi volis sed ankoraŭ ne instalis; KDE)
 
 ***
 
@@ -895,9 +941,7 @@ Mia unua kompleta en Linuksa operaciumo (krom Android 1.6) estas Ubuntu 20.04. M
 
 Vi povas sponsori ĉi tiun projekton se vi volas, sed bonvolu specifi al kio vi volas donaci. [Vidu la financojn al kiuj vi povas donaci ĉi tie] (https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
-Vi povas vidi aliajn sponsorajn informojn [ĉi tie] (https://github.com
-
-/ seanpm2001 / Sponsor-info /)
+Vi povas vidi aliajn sponsorajn informojn [ĉi tie] (https://github.com/seanpm2001/Sponsor-info/)
 
 Provu ĝin! La butono de sponsoro estas tuj apud la butono de horloĝo / malrigardo.
 
@@ -905,7 +949,7 @@ Provu ĝin! La butono de sponsoro estas tuj apud la butono de horloĝo / malriga
 
 ## Proponoj
 
-Mi estas sincera por akcepti proponojn por projektaj artaĵoj. Mi ŝatus ricevi skeumorfismon kaj 3D-projektojn por programaj grafikaĵoj antaŭ ol mi akceptas platajn projektojn kaj solidajn kolorojn. Mi volas doni al homoj la eblon por ambaŭ skeumorfismo, 3D, 2D, Ebena, solida koloro, aŭ kion ajn la uzanto preferas. Mi volas komenci per Skeumorfismo, ĉar ĝi estas la plej bona (tute ne senantaŭjuĝa opinio)
+Mi estas sincera por akcepti proponojn por projektaj artoj. Mi ŝatus ricevi skeumorfismon kaj 3D-projektojn por programaj grafikaĵoj antaŭ ol mi akceptas platajn projektojn kaj solidajn kolorojn. Mi volas doni al homoj la eblon por ambaŭ skeumorfismo, 3D, 2D, Ebena, solida koloro, aŭ kion ajn la uzanto preferas. Mi volas komenci per Skeumorfismo, ĉar ĝi estas la plej bona (tute ne senantaŭjuĝa opinio)
 
 Miaj rekomenditaj formatoj estas SVG (60% rekomendinda) kaj PNG (40% rekomendinda) por bildoj. Neregrafikaj proponoj povas esti en iu ajn formato, se ĝi estas malferma formato kaj ne estas proprieta (ekzemple: Jadaj programoj estas proprietaj kaj nuntempe ne povas esti akceptitaj)
 
@@ -942,7 +986,7 @@ Mi ŝatas la aspekton kaj sonon de diversaj lingvoj, ĉu ili estas homaj parolat
 
 Mi estas historia amanto, kun scioj pri historio antaŭ pli ol 13,8 miliardoj da jaroj (Praeksplodo) ĝis la nuna tago. Mi ŝatas lerni pri historio, kaj mi havas scion pri vasta sortimento de epokoj kaj eventoj, inkluzive ampleksan scion pri aferoj krom la Unua Mondmilito aŭ la Dua Mondmilito (sed mi ankaŭ ankoraŭ scias multon pri la 2 mondmilitoj) por la Tero. historio, mia scio superas detale ĝis 8000 a.K., malpli detale ĝis 27000 a.K. kaj plejparte geologiaj eventoj antaŭ 27000 a.K. Mi ŝatas lerni ĉiujn specojn de historio, kaj ne nur la historion de militado.
 
-Mi ŝuldas mian intereson pri historio al mia unua instruisto pri mezlerneja historio, kiu vere entuziasmiĝis pri tio, kion li instruis, kaj estis nur ĝenerala timinda kaj agrabla instruisto de historio. Mi sendube igus lin instruisto de la jaro por tiu jaro de Mezlernejo. Pasintaj historiaj klasoj neniam enirigis min ankaŭ en la historian temon, sed ĉi tiu vere malfermis mian menson al historio.
+Mi ŝuldas mian intereson pri historio al mia unua instruisto pri mezlerneja historio, kiu vere entuziasmiĝis pri tio, kion li instruis, kaj estis nur ĝenerala timinda kaj agrabla instruisto de historio. Mi sendube igus lin instruisto de la jaro por tiu jaro de Mezlernejo. Pasintaj historiaj kursoj neniam enigis min ankaŭ en la temon de history, sed ĉi tiu vere malfermis mian menson al historio.
 
 ### Mara biologio
 
@@ -974,9 +1018,9 @@ Lernu eĉ pli pri mi [ĉi tie] (https://gist.github.com/seanpm2001/7e40a0e13c066
 
 Dosiera tipo: `Markdown (* .md)`
 
-Dosiera versio: `7 (sabate, la 27an de marto 2021 je la 20:38)`
+Dosiera versio: `8 (merkrede, la 31an de marto 2021 je la 16:08)`
 
-Linio-kalkulo (inkluzive malplenajn liniojn kaj kompililan linion): `1,221`
+Linio-kalkulo (inkluzive malplenajn liniojn kaj kompililan linion): `1,297`
 
 ***
 
@@ -1004,9 +1048,7 @@ Versio 1 (vendrede, la 21an de aŭgusto 2020 je la 16:39)
 
 > * Aldonis la sekcion "Demandu min pri"
 
-> * Aldonis la
-
-Sekcio "Kiel atingi min"
+> * Aldonis la sekcion "Kiel atingi min"
 
 > * Aldonis la sekcion pri dosieraj informoj
 
@@ -1154,11 +1196,23 @@ Versio 7 (sabate, la 27an de marto 2021 je la 20:38)
 
 > * Neniu alia ŝanĝo en versio 7
 
-Versio 8 (Baldaŭ)
+Versio 8 (merkrede, la 31an de marto 2021 ĉe16:08)
 
 > Ŝanĝoj:
 
-> * Baldaŭ
+> * Ĝisdatigis la indekson
+
+> * Riparis ĉiujn tradukajn ligojn
+
+> * Aldonis la projektojn pri kiuj mi kunlaboris en la sekcio
+
+> * Aldonis la sekcion pri kontaktoj de GitHub
+
+> * Aldonis la sekcion pri abonoj
+
+> * Ĝisdatigis la sekcion pri dosieraj informoj
+
+> * Ĝisdatigis la sekcion pri dosierhistorio
 
 > * Neniuj aliaj ŝanĝoj en versio 8
 
@@ -1209,6 +1263,22 @@ Versio 14 (Baldaŭ)
 > * Baldaŭ
 
 > * Neniuj aliaj ŝanĝoj en versio 14
+
+Versio 15 (Baldaŭ)
+
+> Ŝanĝoj:
+
+> * Baldaŭ
+
+> * Neniuj aliaj ŝanĝoj en versio 15
+
+Versio 16 (Baldaŭ)
+
+> Ŝanĝoj:
+
+> * Baldaŭ
+
+> * Neniuj aliaj ŝanĝoj en versio 16
 
 ! ->
 
