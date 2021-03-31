@@ -78,9 +78,9 @@ Wenn Sie hier über einen Link per SMS (SMS) gesendet wurden, herzlichen Glückw
 
 Lesen Sie diese Beschreibung in einer anderen Sprache:
 
-[ar عربى] (README_AR.md) [bg български] (README_BG.md) [zh-t 中國 傳統）] (README_ZH-T.md) [** en-us **] (README.md) [nl Nederlands] (README_NL.md) [EO Esperanto] (README_EO.md) [ka ქართველი] (README_KA) [fr français] (README_FR.md) [el Ελληνικά] (README_EL.md) [de Deutsch] (README_DE.md) [hi हिन्दी] (README_HI.md) [he עִברִית] (README_HE.md) [ja 日本語] (README_JA.md) [ko-south 韓國 語] (README_KO_SOUTH.md) [no norsk] (README_NO.md) [ pl polski] (README_PL.md) [ru русский] (README_RU.md) [es en español] (README_ES.md) [sw Kiswahili] (README_SW.md) [sv Svenska] (README_SV.md) [te తెలుగు] ( README_TE.md) [tr Türk] (README_TR.md) [ur اردو] (README_UR.md) [uk Український] (README_UK.md) [vi Tiếng Việt] (README_VI.md) [cy Cymraeg] (README_CY.m) [xh isiXhosa] (README_XH.md) [yi יידיש] (README_YI.md) [zu Zulu] (README_ZU.md)
+[ar عربى] (/. github / README_AR.md) [bg български] (/. github / README_BG.md) [/. github / README_ZH-T.md) [** en -us **] (/. github / README.md) [nl Nederlands] (/. github / README_NL.md) [EO Esperanto] (/. github / README_EO.md) [ka ქართველი] (/. github / README_KA ) [fr français] (/. github / README_FR.md) [el Ελληνικά] (/. github / README_EL.md) [de Deutsch] (/. github / README_DE.md) [hi हिन्दी] (/. github / README_HI .md) [he עִברִית] (/. github / README_HE.md) [ja 日本語] (/. github / README_JA.md) [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) [no norsk] (/.github/README_NO.md) [pl polski] (/. github / README_PL.md) [ru русский] (/. github / README_RU.md) [es en español] (/. github / README_ES.md) [ sw Kiswahili] (/. github / README_SW.md) [sv Svenska] (/. github / README_SV.md) [te తెలుగు] (/. github / README_TE.md) [tr Türk] (/. github / README_TR.md ) [ur اردو] (/. github / README_UR.md) [uk Український] (/. github / README_UK.md) README_CY.md) [xh isiXhosa] (/. Github / README_XH.md) [yi יידיש] (/. Github / README_YI.md) [zu Zulu] (/. Github / README_ZU.md)
 
-Übersetzungen in andere Sprachen als Englisch sind maschinell übersetzt und noch nicht korrekt. Bis zum 5. Februar 2021 wurden noch keine Fehler behoben. Bitte melden Sie Übersetzungsfehler [hier] (https://github.com/seanpm2001/seanpm2001/issues/). Stellen Sie sicher, dass Sie Ihre Korrektur mit Quellen sichern und mich anleiten, wie ich es tue Ich kenne andere Sprachen als Englisch nicht gut (ich habe vor, irgendwann einen Übersetzer zu bekommen). Bitte zitieren Sie [wiktionary] (https://en.wiktionary.org) und andere Quellen in Ihrem Bericht. Andernfalls wird die veröffentlichte Korrektur der Korrektur abgelehnt.
+Übersetzungen in andere Sprachen als Englisch sind maschinell übersetzt und noch nicht korrekt. Bis zum 5. Februar 2021 wurden noch keine Fehler behoben.Bitte melden Sie Übersetzungsfehler [hier] (https://github.com/seanpm2001/seanpm2001/issues/). Sichern Sie Ihre Korrektur mit Quellen und führen Sie mich, da ich keine anderen Sprachen als Englisch gut kenne (ich plane dies) Wenn Sie irgendwann einen Übersetzer bekommen, zitieren Sie bitte [wiktionary] (https://en.wiktionary.org) und andere Quellen in Ihrem Bericht. Andernfalls wird die veröffentlichte Korrektur der Korrektur abgelehnt.
 
 Hinweis: Aufgrund von Einschränkungen beim Markdown werden Sie durch Klicken auf diese Links zu einer separaten Datei auf einer separaten Seite weitergeleitet, die nicht meine GitHub-Profilseite ist. Sie werden zum [seanpm2001 / seanpm2001-Repository] (https://github.com/seanpm2001/seanpm2001) weitergeleitet, in dem die README gehostet wird.
 
@@ -191,57 +191,65 @@ Ich bin am 25. Mai 2020 zu GitHub gekommen, um meine vielen Projekte herauszubri
 
 [07.0 - Woran ich zusammenarbeiten möchte] (# Woran ich arbeiten möchte)
 
-[08.0 - Womit ich helfen möchte] (# Womit ich helfen möchte)
+> [07.0.1 - Woran ich zusammengearbeitet habe] (# Woran ich mitgearbeitet habe)
 
-[09.0 - Feature-Anfragen für GitHub] (# Feature-Anfragen-für-GitHub)
+[08.0 - Was ich binoking um zu helfen] (# Womit ich suche, um zu helfen)
 
-[10.0 - Frag mich nach] (# Frag mich nach)
+[09.0 - GitHub-Kontakte] (# GitHub-Kontakte)
 
-[11.0 - Wie man mich erreicht] (# Wie man mich erreicht)
+> [09.0.1 - Familie] (# Familie)
 
-[12.0 - Projekte auf anderen Plattformen] (# Projekte auf anderen Plattformen)
+> [09.0.2 - Abonnements] (# Abonnements)
 
-[13.0 - Identitätsdiebstahl] (# Identitätsdiebstahl)
+[10.0 - Feature-Anfragen für GitHub] (# Feature-Anfragen-für-GitHub)
 
-[14.0 - Persönlich] (# P.persönlich)
+[11.0 - Frag mich nach] (# Frag mich nach)
 
-[15.0 - Profilbildverlauf] (# Profilbildverlauf)
+[12.0 - Wie man mich erreicht] (# Wie man mich erreicht)
 
-[16.0 - Linux] (# Linux)
+[13.0 - Projekte auf anderen Plattformen] (# Projekte auf anderen Plattformen)
 
-[17.0 - Sponsorinfo] (# Sponsorinfo)
+[14.0 - Identitätsdiebstahl] (# Identitätsdiebstahl)
 
-[18.0 - Einreichungen] (# Einreichungen)
+[15.0 - Persönlich] (# Persönlich)
 
-[19.0 - Andere Hobbys] (# Andere Hobbys)
+[16.0 - Profilbildverlauf] (# Profilbildverlauf)
 
-> [19.0.1 - Fotografie] (# Fotografie)
+[17.0 - Linux] (# Linux)
 
-> [19.0.2 - Schwimmen] (# Schwimmen)
+[18.0 - Sponsorinfo] (# Sponsorinfo)
 
-> [19.0.3 - Gaming] (# Gaming)
+[19.0 - Einreichungen] (# Einreichungen)
 
-> [19.0.4 - Grafikdesign] (# Grafikdesign)
+[20.0 - Andere Hobbys] (# Andere Hobbys)
 
-> [19.0.5 - Linguist] (# Linguist)
+> [20.0.1 - Fotografie] (# Fotografie)
 
-> [10.0.6 - Verlaufs-Buff] (# Verlaufs-Buff)
+> [20.0.2 - Schwimmen] (# Schwimmen)
 
-> [10.0.7 - Meeresbiologie] (# Meeresbiologie)
+> [20.0.3 - Gaming] (# Gaming)
 
-> [10.0.8 - Journaling] (# Journaling)
+> [20.0.4 - Grafikdesign] (# Grafikdesign)
 
-[20.0 - Teams: blau] (# Blue-Team)
+> [20.0.5 - Linguist] (# Linguist)
 
-[21.0 - Teams: grün] (# Green-Team)
+> [20.0.6 - Verlaufs-Buff] (# Verlaufs-Buff)
 
-[22.0 - Dateiinfo] (# Dateiinfo)
+> [20.0.7 - Meeresbiologie] (# Meeresbiologie)
 
-[23.0 - Dateiversionsverlauf (standardmäßig ausgeblendet, Quellcode zum Anzeigen anzeigen)] (# Dateiversionsverlauf)
+> [20.0.8 - Journaling] (# Journaling)
 
-[24.0 - Fußzeile] (# Fußzeile)
+[21.0 - Teams: blau] (# Blue-team)
 
-> [24.5 - Dateiende] (# Dateiende)
+[22.0 - Teams: grün] (# Green-Team)
+
+[23.0 - Dateiinfo] (# Dateiinfo)
+
+[24.0 - Dateiversionsverlauf (standardmäßig ausgeblendet, Quellcode zum Anzeigen anzeigen)] (# Dateiversionsverlauf)
+
+[25.0 - Fußzeile] (# Fußzeile)
+
+> [25.9 - Dateiende] (# Dateiende)
 
 ***.
 
@@ -287,11 +295,9 @@ Dies ist eine sortierte Liste der Schlüsselprojekte nach Megaprojektkategorien.
 
 [Warum Sie Google Chrome nicht mehr verwenden sollten] (https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) - Der erste Artikel in meiner Reihe von Degoogle-Artikeln, der auf Probleme mit Chrome hinweisen soll und gute Alternativen zum Schutz der Privatsphäre geben.
 
-[Chromebooks nicht mehr verwenden] (https://github.com/seanpm2001/Stop-using-Chromebooks) - Der zweite Artikel in meiner Reihe von Degoogle-Artikeln, der auf zusätzliche Probleme mit Google Chrome hinweisen soll, diesmal mit ChromeOS und dem dominanten Datenschutzinvasive Computergeräte und Peripheriegeräte zielten darauf ab, mehr Benutzerdaten zu sammeln und das Google-Monopol zu erhöhen. Alternativen werden ebenfalls angegeben, alle Artikel geben Alternativen an.
+[Chromebooks nicht mehr verwenden] (https://github.com/seanpm2001/Stop-using-Chromebooks) - Der zweite Artikel in meiner Reihe von Degoogle-Artikeln, der darauf abzielt, auf zusätzliche Probleme mit Google Chrome hinzuweisen, diesmal wiDas ChromeOS und die vorherrschenden datenschutzinvasiven Computergeräte und Peripheriegeräte zielten darauf ab, mehr Benutzerdaten zu sammeln und das Google-Monopol zu erhöhen. Alternativen werden ebenfalls angegeben, alle Artikel geben Alternativen an.
 
-[Wechsel von YouTube] (https://github.com/seanpm2001/Alternating-from-YouTube) - Ein weiterer Artikel in meiner Reihe von Degoogle-Artikeln, der darauf abzielt, die Heuchelei und die große Menge an Problemen (und viele Todesfälle + 1 Schießen) aufzuzeigen. verursacht durch Goo
-
-gle-eigenes YouTube. Da es so schwierig ist, von YouTube wegzukommen, weil es keine praktikablen Alternativen gibt, werden in diesem Artikel einige Alternativen aufgeführt, aber hauptsächlich, wie Sie Ihre Privatsphäre verteidigen können, während Sie YouTube weiterhin nutzen, obwohl dies auch als Kritik an einer Schiffsladung dient.
+[Wechsel von YouTube] (https://github.com/seanpm2001/Alternating-from-YouTube) - Ein weiterer Artikel in meiner Reihe von Degoogle-Artikeln, der darauf abzielt, die Heuchelei und die große Menge an Problemen (und viele Todesfälle + 1 Schießen) aufzuzeigen. verursacht durch Google-eigenes YouTube. Da es so schwierig ist, von YouTube wegzukommen, weil es keine praktikablen Alternativen gibt, werden in diesem Artikel einige Alternativen aufgeführt, aber hauptsächlich, wie Sie Ihre Privatsphäre verteidigen können, während Sie YouTube weiterhin nutzen, obwohl dies auch als Kritik an einer Schiffsladung dient.
 
 [Degoogled Android Phone Virtual Machine-Forschung] (https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research) - Inoffiziell Teil meiner Degoogle-Kampagne, ist dies ein Projekt für die persönliche Forschung zur Erstellung einer voll funktionsfähigen degoogled Android Virtual Machine.
 
@@ -329,17 +335,17 @@ gle-eigenes YouTube. Da es so schwierig ist, von YouTube wegzukommen, weil es ke
 
 [iBlast] (https://github.com/seanpm2001/iBlast) - Eine Open-Source-Fan-Nachbildung der beiden Godzilab-Spiele iBlast Moki und iBlast Moki 2, da Android 7 / iOS 11 und höher die Spiele nicht mehr unterstützen
 
-[Tetris128] (https://github.com/seanpm2001/Tetris128) - Eine erweiterte Open-Source-64x128-Tetris-Implementierung (128-Bit-Anwendung mit 64-Bit-Unterstützung) mit Unterstützung für bis zu 10 Blockteile (Decominoes), Softbody-Physik und andere Spielstile und -modi.
+[Tetris128] (https://github.com/seanpm2001/Tetris128) - Eine erweiterte Open Source 64x128 (128-Bit-Anwendung mit 64-Bit-Unterstützung) Tetris-Implementierung mit Unterstützung für bis zu 10 Blockteile (Decominoes), Softbody-Physik und andere Spielstile und -modi.
 
 [NimbleBook] (https://github.com/seanpm2001/NimbleBook) - Ein Open-Source-NimbleBit-Fanspiel, mit dem Sie die berüchtigte BitBook-Social-Media-Plattform und ihre Variationen zwischen NimbleBit-Spielen steuern können
 
-[MCPYE] (https://github.com/seanpm2001/MCPYE) - Codename: Minecraft Python Edition (nicht der offizielle Name), eine Open-Source-Minecraft-, Growtopia- und Sims-Neuerstellung mit Unterstützung für Tausende von Blöcken und Entitäten.
+[MCPYE] (https://github.com/seanpm2001 / MCPYE) - Codename: Minecraft Python Edition (nicht der offizielle Name) ist eine Open-Source-Minecraft-, Growtopia- und Sims-Erholung mit Unterstützung für Tausende von Blöcken und Entitäten.
 
 ### Forschungsprojekte
 
 [Meeresbiologie] (https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology) - Für Forschung in Bezug auf meine Meeresbiologiephasen
 
-[Anime] (https://github.com/seanpm2001/Anime) - Für Recherchen und Diskussionen zu Anime und Manga sowie Japan in general.
+[Anime] (https://github.com/seanpm2001/Anime) - Für Recherchen und Diskussionen zu Anime und Manga sowie zu Japan im Allgemeinen.
 
 [Der Walla Walla Anime] (https://github.com/seanpm2001/the-walla-walla-anime) - Ein peinliches altes Projekt, bei dem versucht wurde, einen Anime mit Microsoft Paint 3D zu entwerfen. Muss komplett neu geschrieben werden.
 
@@ -355,7 +361,7 @@ gle-eigenes YouTube. Da es so schwierig ist, von YouTube wegzukommen, weil es ke
 
 ### Weitere Projekte
 
-[Perl Harbour] (https://github.com/seanpm2001/Perl_Harbor) - Ein spezielles Gedenkprojekt zur Erinnerung und Ehre an die Leben, die bei dem japanischen Angriff auf Pearl Harbor in Hawaii im Jahr 1941 verloren gingen und den Eintritt der Vereinigten Staaten in den Weltkrieg verursachten 2. Das Projekt ist aufgrund seines Unterschieds von 1 Buchstaben zu Pearl in Perl geschrieben. Nie vergessen!
+[Perl Harbour] (https://github.com/seanpm2001/Perl_Harbor) - Ein spezielles Gedenkprojekt zur Erinnerung und Ehrung der Leben, die bei dem japanischen Angriff auf Pearl Harbor in Hawaii im Jahr 1941 verloren gingen und den Eintritt der Vereinigten Staaten in den Weltkrieg verursachten 2. Das Projekt ist aufgrund seines Unterschieds von 1 Buchstaben zu Pearl in Perl geschrieben. Nie vergessen!
 
 [BluPhone] (https://github.com/seanpm2001/BluPhone) - BluPhone ist ein leistungsstarker Bluetooth-Geräte-Client für Linux, MacOS, Android, iOS, Windows, FreeBSD und mehr. Sie haben jede Menge Kontrolle über alle Bluetooth-Kopfhörer, die Sie verbinden.
 
@@ -455,7 +461,7 @@ Dieser Kern hilft bei:
 
 ## Freie Software ist nicht frei zu entwickeln
 
-Denken Sie daran, dass die Entwicklung von freier Software und Open Source-Software nicht immer kostenlos ist. Stellen Sie sicher, dass Sie an Software-Organisationen spenden, die Sie mögen, damit diese weiterhin Beiträge für die Gesellschaft leisten können.
+Denken Sie daran, dass freie Software und Open Source-Softwareist nicht immer frei zu entwickeln. Stellen Sie sicher, dass Sie an Software-Organisationen spenden, die Sie mögen, damit diese weiterhin Beiträge für die Gesellschaft leisten können.
 
 Meine Liste der unterstützten Organisationen umfasst:
 
@@ -475,7 +481,7 @@ Meine Liste der unterstützten Organisationen umfasst:
 
 * FFMPEG
 
-* The Internet Archive (auch die Schöpfer der Wayback-Maschine)
+* Das Internetarchiv (auch die Schöpfer der Wayback-Maschine)
 
 * Öffnen Sie die Straßenkarte
 
@@ -541,21 +547,19 @@ Mein Lebensarchivprojekt ist ein Vollzeit-Hobbyprojekt, in dem ich mein ganzes L
 
 Ich habe versucht, Follower auf GitHub zu gewinnen, damit ich irgendwann jemanden bekomme, der mir bei meinen Projekten bei der Interaktion hilft. Es war ein sehr langsamer Prozess.
 
-Ich habe mein Konto 3 Tage später gesperrt und aus anderen Gründen beschlossen, dies nicht noch einmal zu tun. Alles, was ich tun musste, um die Sperrung meines Kontos aufzuheben, war, meine E-Mail-Adresse erneut zu überprüfen.
+Ich habe mein Konto 3 Tage später gesperrt und aus anderen Gründen beschlossen, dies nicht noch einmal zu tun. Alles, was ich tun musste, um die Sperrung meines Kontos aufzuheben, war meine E-Mail-Adresse erneut zu überprüfen.
 
 ### Warum sind so viele Registerkarten geöffnet?
 
 Ich habe viele verschiedene Projekte. Ich muss viele verschiedene Projekte verwalten. Ich habe über 70 verschiedene Firefox-Profile, von denen jedes seine eigenen Registerkarten enthält. Ich halte jedoch nur 1-3 Profile gleichzeitig offen. Ich schließe diese ab, wenn ich mit ihnen fertig bin.
 
-### Warum benutzt du Wikipedia so oft?
+### Why benutzt du Wikipedia so oft?
 
 Wikipedia ist eine meiner am häufigsten verwendeten Websites, GitHub ist die zweite. Ich finde, Wikipedia ist eine großartige Ressource und gut für die Erforschung von Programmierung, Chemie, Geschichte und mehr. Ich beabsichtige, eines Tages monatlich Geld an Wikipedia zu spenden.
 
 ### Warum spielst du so viele verschiedene Spiele?
 
-Ich mag es, ein Gleichgewicht in meinem Leben zu haben und Zeit zu haben, um mich vom Programmieren zu entspannen. Auch in dieser Zeit habe ich neue Ideen, und
-
-mache andere Dinge, wie zum Beispiel Hausarbeiten.
+Ich mag es, ein Gleichgewicht in meinem Leben zu haben und Zeit zu haben, um mich vom Programmieren zu entspannen. Ich habe auch in dieser Zeit neue Ideen und mache andere Dinge, wie zum Beispiel Hausarbeiten.
 
 ### Warum spielst du Kinderspiele?
 
@@ -697,19 +701,25 @@ Zu den Unternehmen, die ich derzeit in Betracht ziehe, gehören:
 
 > Microsoft [::] - Ich habe eine Familie, die hier arbeitet, und ich habe eine lange Vergangenheit mit Microsoft (bis 2005), obwohl ich einige Dinge, die Microsoft tut, als unethisch betrachte, würde es mir nichts ausmachen, hier zu arbeiten (Ich habe eine sehr starke persönliche Erfahrung mit Microsoft-Produkten, insbesondere Windows XP.) Wenn es hier Jobs gibt, die Python verwenden, kann ich diese ausführen.
 
-> VideoLan / - \ - Ich möchte versuchen, Dokumentation für VideoLan zu schreiben. Ich bin sehr gut darin, Dokumentation zu schreiben, da ich es gerne mache und es den größten Teil des Tages jeden Tag mache. Derzeit kann VideoLan aufgrund der geringen Anzahl von Freiwilligen keine Dokumentationsschreiber haben. Wenn erlaubt, schreibe ich Dokumentation für jede Version von VLC, die es nicht hat (nur auf Englisch, ich kann keine anderen Sprachen)
+> VideoLan / - \ - Ich möchte versuchen, Dokumentation für VideoLan zu schreiben. Ich bin sehr gut darin, Dokumentation zu schreiben, da ich es gerne mache und es den größten Teil des Tages jeden Tag mache. Derzeit kann VideoLan aufgrund der geringen Anzahl von Freiwilligen keine Dokumentationsschreiber haben. Wenn erlaubt, schreibe ich Dokumentation für jede Version von VLC, die es nicht hat (nur in english, ich kann keine anderen Sprachen machen)
 
 > Canonical (&) - Ich möchte versuchen, auf jede erdenkliche Weise zu Linux beizutragen. Die Arbeit bei Canonical ist derzeit eine Option. Ich weiß nicht genau, was ich hier tun würde, aber ich könnte hoffentlich etwas tun.
 
-> Die KDE-Stiftung (K) - KDE wäre eine gute Stiftung, für die man arbeiten könnte. Ich liebe ihre superleichten Open-Source-Projekte wirklich und ich könnte helfen, noch mehr Blähungen zu reduzieren. Wenn ein Job in einer Sprache verfügbar ist, ha
-
-Mit mindestens 40% Wissen könnte ich hier arbeiten.
+> Die KDE-Stiftung (K) - KDE wäre eine gute Stiftung, für die man arbeiten könnte. Ich liebe ihre superleichten Open-Source-Projekte wirklich und ich könnte helfen, noch mehr Aufblähung zu reduzieren. Wenn ein Job in einer Sprache verfügbar ist, in der ich mindestens 40% Kenntnisse habe, könnte ich hier arbeiten.
 
 > Khan Academy (^) - Ich möchte einen Beitrag zur Khan Academy leisten. Ich benutze die Website seit fast 4 Jahren täglich. Wenn es möglich wäre, Videos und Artikel für sie zu erstellen, habe ich immer darüber nachgedacht, einen Kurs über Virtualisierung zu beginnen.
 
 > Die GNOME-Organisation (G) - Wenn möglich, könnte ich versuchen, einige Änderungen vorzunehmen, um die enorme Speichernutzung von GNOME zu reduzieren, die sich immer als etwas herausgestellt hat, das für mich behoben werden muss. Es ist immer noch viel besser als die Speichernutzung von Windows 10, im Leerlauf unter Windows 10 würde die Hälfte meines Arbeitsspeichers verbraucht, egal wie viel ich (4, 8, 16 GB) auf meinem ersten Linux-Laptop hatte, es ist immer unter 1,8 Gigabyte geblieben, wenn Leerlauf (zählt auch den Systemmonitor)
 
 > Derzeit sind keine anderen Unternehmen gelistet
+
+#### Woran ich mitgearbeitet habe
+
+Ich habe an einigen Projekten auf GitHub mitgearbeitet, darunter
+
+! [/. github / projects / external / 1 / LinCity_NG.png] (/. github / projects / external / 1 / LinCity_NG.png) - [LinCity NG] (https://github.com/lincity-ng/lincity -ng /) - 100% Probleme (2020) - [1] (https://github.com/lincity-ng/lincity-ng/issues/46)
+
+! [/. github / projects / external / 1 / Ruffle_vector_logo.svg] (/. github / projects / external / 1 / Ruffle_vector_logo.svg) [Ruffle-rs] (https://github.com/ruffle-rs/ruffle ) - 100% Codeüberprüfung (2021) [1] (https://github.com/ruffle-rs/ruffle/pull/3004) [2] (https://github.com/ruffle-rs/ruffle/pull / 3117) [3] (https://github.com/ruffle-rs/ruffle/pull/3194) [4] (https://github.com/ruffle-rs/ruffle/pull/3163) [5] (https://github.com/ruffle-rs/ruffle/pull/3176) [6] (https://github.com/ruffle-rs/ruffle/pull/3177)
 
 ***.
 
@@ -732,6 +742,38 @@ Ich kann auch nicht an Projekten arbeiten, die mit Ihrer Schularbeit zusammenhä
 Ich würde lieber bei Projekten helfen, die in Python 3, Markdown, HTML5, CSS3, Java, C, C ++ oder JavaScript geschrieben sind. Ich kann auch bei Projekten, die in anderen Sprachen geschrieben wurden, nicht helfen.
 
 Derzeit sind keine weiteren Einschränkungen aufgeführt.
+
+***.
+
+### GitHub-Kontakte
+
+#### Familie
+
+@Microsoft
+
+[Channa-My] (https://github.com/channa-my)
+
+[Lindsay-My] (https://github.com/lindsmy)
+
+@Schließen
+
+[Chrism2282] (https://github.com/chrism2282)
+
+[Inverno4] (https://github.com/inverno4)
+
+[Memewallawalla] (https://github.com/memewallawalla)
+
+@alt_accounts
+
+[Seanwallawalla] (https://github.com/seanwallawalla)
+
+@tech_idols
+
+[Linus Torvalds] (https://github.com/torvalds)
+
+#### Abonnements
+
+[Linux-Kernel] (https://github.com/torvalds/linux)
 
 ***.
 
@@ -769,11 +811,11 @@ Ich habe mehrere Methoden, um erreicht zu werden. Derzeit kann ich keine Anrufe 
 
 * Über Reddit (Subreddit-Link: [Klicken Sie hier r / seanpm2001] (https://www.reddit.com/r/seanpm2001/) oder per Direktnachricht [Klicken Sie hier, um mein Profil anzuzeigen] (https: //www.reddit .com / user / seanwallawalla /) - derzeit auf dem Subreddit inaktiv, aber ich werde wahrscheinlich innerhalb von 48 Stunden auf eine Antwort oder DM antworten
 
-Derzeit gibt es keine anderen Möglichkeiten, mich zu benachrichtigen
+Derzeit gibt es keine anderen Möglichkeiten, mir eine Nachricht zu senden
 
 ***.
 
-Weitere Informationen zu meinem persönlichen Inhalt finden Sie hier. [Klicken / tippen Sie hier, um mehr über mich zu erfahren] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
+Y.Weitere Informationen zu meinem persönlichen Inhalt finden Sie hier. [Klicken / tippen Sie hier, um mehr über mich zu erfahren] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
 ***.
 
@@ -799,7 +841,7 @@ Wenn GitHub Probleme hat oder wenn Sie Probleme mit GitHub haben, können meine 
 
 Um einen möglichen Identitätsdiebstahl zu vermeiden, werde ich auf alle Dienste verweisen, die ich hier verwende.
 
-Ich bin auf folgenden Plattformen
+Ich bin auf den folgenden Plattformen
 
 [Reddit] (https://reddit.com/u/seanwallawalla) - Obwohl ich nicht sehr oft poste
 
@@ -815,9 +857,7 @@ Ich bin auf folgenden Plattformen
 
 [Mozilla] (# Identitätsdiebstahl)
 
-[Twitter] (https://www.twitter.com/@seanwallawalla) - Ab 2018 nicht mehr verwendbar, leicht kribbelig, aber
-
-nicht so schlecht
+[Twitter] (https://www.twitter.com/@seanwallawalla) - Ab 2018 nicht mehr verwendet, leicht kribbelig, aber nicht schlecht
 
 [Scratch] (https://scratch.mit.edu/users/seanspokane2015) - Ab 2017 nicht mehr verwendbar
 
@@ -877,7 +917,7 @@ Original (25. Mai 2020 bis? 2020)
 
 ! [Das ursprünglich geänderte Profilbild konnte nicht geladen werden. Klicken / tippen Sie hier, um zu versuchen, es anzuzeigen] (/ Media / 773af859eafc403a8ce6bb3051bd2618 (Kopie) .png)
 
-Original (Windows Explorer Transparenz fehlerhafte Version)
+Original (Windows Explorer Transparenz fehlerhaft versIon)
 
 ! [GitHub-Profilbild konnte nicht geladen werden. Klicken Sie hier, um zu versuchen, es anzuzeigen] (SeniorPhotoFullQuality.jpeg)
 
@@ -901,7 +941,7 @@ Mein erstes vollständiges Linux-Betriebssystem (außer Android 1.6) ist Ubuntu 
 
 Sie können dieses Projekt sponsern, wenn Sie möchten, aber bitte geben Sie an, wofür Sie spenden möchten. [Siehe die Mittel, für die Sie hier spenden können] (https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
-Sie können andere Sponsoreninformationen [hier] anzeigen (https://github.com/ seanpm2001 / Sponsor-Info /)
+Sie können andere Sponsoreninformationen [hier] anzeigen (https://github.com/seanpm2001/Sponsor-info/).
 
 Versuch es! Der Sponsor-Button befindet sich direkt neben dem Watch / Unwatch-Button.
 
@@ -922,7 +962,7 @@ Dies ist eine Liste meiner anderen Hobbys
 
 ### Fotografie
 
-Ich bin ein fortgeschrittener Fotograf und kann wirklich gute Bilder aufnehmen, ohne das Originalbild manipulieren zu müssen, um es besser zu machen (außer wenn ich versehentlich meinen Daumen in die Aufnahme bekomme). Ich kann bei Bedarf Fotos für Sie aufnehmen. Meine aktuelle Kamera ist 4K (2160p oder 2K) 60 Bilder pro Sekunde.
+Ich bin ein fortgeschrittener Fotograf und kann wirklich gute Bilder aufnehmen, ohne das Originalbild manipulieren zu müssen, um es besser zu machen (außer wenn ich versehentlich meinen Daumen in die Aufnahme bekomme). Ich kann bei Bedarf Fotos für Sie machen. Meine aktuelle Kamera ist 4K (2160p oder 2K) 60 Bilder pro Sekunde.
 
 ### Schwimmen
 
@@ -930,7 +970,7 @@ Ich habe immer gerne geschwommen. Wenn mir ein Pool oder ein Whirlpool zur Verf�
 
 ### Spielen
 
-Ich bin ein begeisterter Videospielspieler, der verschiedene Videospiele spielt, um Zeit zu verbringen, sich zu entspannen, Spaß zu haben und neue Ideen zu entwickeln. Ich bin auch ein Kartenspieler, aber ich brauche zusätzliche Hilfe beim Spielen der meisten Kartenspiele aufgrund einer Lernkurve und begrenzter Kenntnisse über Kartenspiele.
+Ich bin ein begeisterter Videospielspieler, der verschiedene Videospiele spielt, um Zeit zu vertreiben, sich zu entspannen, Spaß zu haben und neue Ideen zu entwickeln. Ich bin auch ein Kartenspieler, aber ich brauche zusätzliche Hilfe beim Spielen der meisten Kartenspiele aufgrund einer Lernkurve und begrenzter Kenntnisse über Kartenspiele.
 
 ### Grafik-Design
 
@@ -944,9 +984,9 @@ Ich mag das Aussehen und den Klang verschiedener Sprachen, egal ob es sich um vo
 
 ### Geschichtsfan
 
-Ich bin ein Geschichtsinteressierter mit einem Wissen über die Geschichte, das vor über 13,8 Milliarden Jahren (Urknall) bis zum heutigen Tag zurückreicht. Ich mag es, etwas über Geschichte zu lernen, und ich habe Kenntnisse über eine große Auswahl von Epochen und Ereignissen, einschließlich umfassender Kenntnisse über andere Dinge als den Ersten Weltkrieg oder den Zweiten Weltkrieg (aber ich weiß auch noch viel über die beiden Weltkriege) für die Erde Geschichte, mein Wissen reicht bis 8000 v.Chr. im Detail zurück, bis zu 27000 v.Chr. im Detail und hauptsächlich geologische Ereignisse vor 27000 v.Chr. Ich mag es, alle Arten von Geschichte zu lernen, und nicht nur die Geschichte der Kriegsführung.
+Ich bin ein Geschichtsinteressierter mit einem Wissen über die Geschichte, das vor über 13,8 Milliarden Jahren (Urknall) bis zum heutigen Tag zurückreicht. Ich mag es, etwas über Geschichte zu lernen, und ich habe Kenntnisse über eine große Auswahl von Epochen und Ereignissen, einschließlich umfassender Kenntnisse über andere Dinge als den Ersten Weltkrieg oder den Zweiten Weltkrieg (aber ich weiß auch noch viel über die beiden Weltkriege) für die Erde Geschichte, mein Wissen reicht bis 8000 v.Chr. im Detail zurück, bis zu 27000 v.Chr. im Detail und hauptsächlich geologische Ereignisse vor 27000 v.Chr. Ich lerne gerne alle Arten von Geschichte und nicht nur die Geschichte der Kriegsführung.
 
-Ich verdanke mein Interesse an der Geschichte meinem ersten Geschichtslehrer an der High School, der wirklich begeistert von dem war, was er unterrichtete, und der einfach ein großartiger und netter Geschichtslehrer war. Ich würde ihn zweifellos zum Lehrer des Jahres für dieses Jahr der High School machen. Der Geschichtsunterricht in der Vergangenheit hat mich nie zu sehr in das Thema Geschichte gebracht, aber dieser hat mich wirklich für die Geschichte geöffnet.
+Ich verdanke mein Interesse an der Geschichte meinem ersten Geschichtslehrer an der High School, der wirklich begeistert von dem war, was er unterrichtete, und der einfach ein großartiger und netter Geschichtslehrer war. Ich würde ihn zweifellos zum Lehrer des Jahres für dieses Jahr der High School machen. Der Geschichtsunterricht in der Vergangenheit hat mich nie zu sehr zum Thema Histo gebrachtry, aber dieser hat mich wirklich für die Geschichte geöffnet.
 
 ### Meeresbiologie
 
@@ -978,9 +1018,9 @@ Erfahren Sie noch mehr über mich [hier] (https://gist.github.com/seanpm2001/7e4
 
 Dateityp: `Markdown (* .md)`
 
-Dateiversion: `7 (Samstag, 27. März 2021 um 20.38 Uhr)`
+Dateiversion: `8 (Mittwoch, 31. März 2021 um 16:08 Uhr)`
 
-Zeilenanzahl (einschließlich Leerzeilen und Compilerzeile): `1,221`
+Zeilenanzahl (einschließlich Leerzeilen und Compilerzeile): `1,297`
 
 ***.
 
@@ -1008,9 +1048,7 @@ Version 1 (Freitag, 21. August 2020, 16:39 Uhr)
 
 > * Der Abschnitt "Frag mich nach" wurde hinzugefügt
 
-> * Hinzugefügt die
-
-Abschnitt "Wie man mich erreicht"
+> * Der Abschnitt "So erreichen Sie mich" wurde hinzugefügt
 
 > * Der Abschnitt mit den Dateiinformationen wurde hinzugefügt
 
@@ -1040,7 +1078,7 @@ Version 3 (Sonntag, 29. November 2020, 15.50 Uhr)
 
 > Änderungen:
 
-> * Kommentierte den Versionsverlauf und den Datei-Info-Bereich zur besseren Profilnavigation aus
+> * Auskommentiert den Versionsverlauf und den Datei-Info-Bereich für eine bessere Profilnavigation
 
 > * Der Abschnitt zum Versionsverlauf wurde aktualisiert
 
@@ -1124,7 +1162,7 @@ Version 7 (Samstag, 27. März 2021 um 20.38 Uhr)
 
 > * Der Index wurde aktualisiert
 
-> * Den Abschnitt zum Versionsverlauf für ein reibungsloseres Scrollen auskommentiert
+> * Kommentar zum Versionsverlauf für ein reibungsloseres Scrollen
 
 > * Der Abschnitt mit den Dateiinformationen wurde aktualisiert
 
@@ -1154,15 +1192,27 @@ Version 7 (Samstag, 27. März 2021 um 20.38 Uhr)
 
 Dieses Update wurde für ein Familienmitglied entwickelt, das GitHub noch nie zuvor verwendet hat. Dieses Update ist ihnen gewidmet. Ich arbeite daran, diese README zu einem Portal für alles zu machen, was ich anbiete.
 
-Die Aktualisierung dieses Dokuments hat 3 Tage gedauert, zusammen mit einer langen Verzögerungszeit
+Die Aktualisierung dieses Updates hat 3 Tage gedauert, zusammen mit einer langen Wartezeit
 
 > * Keine weiteren Änderungen in Version 7
 
-Version 8 (in Kürze erhältlich)
+Version 8 (Mittwoch, 31. März 2021 um16:08 Uhr)
 
 > Änderungen:
 
-> * Bald erhältlich
+> * Der Index wurde aktualisiert
+
+> * Alle Übersetzungslinks wurden korrigiert
+
+> * Die Projekte, an denen ich mitgearbeitet habe, wurden hinzugefügt
+
+> * Der Abschnitt GitHub-Kontakte wurde hinzugefügt
+
+> * Der Abonnementbereich wurde hinzugefügt
+
+> * Der Abschnitt mit den Dateiinformationen wurde aktualisiert
+
+> * Der Abschnitt zum Dateiversionsverlauf wurde aktualisiert
 
 > * Keine weiteren Änderungen in Version 8
 
@@ -1214,13 +1264,29 @@ Version 14 (in Kürze erhältlich)
 
 > * Keine weiteren Änderungen in Version 14
 
+Version 15 (in Kürze erhältlich)
+
+> Änderungen:
+
+> * Bald erhältlich
+
+> * Keine weiteren Änderungen in Version 15
+
+Version 16 (in Kürze erhältlich)
+
+> Änderungen:
+
+> * Bald erhältlich
+
+> * Keine weiteren Änderungen in Version 16
+
 ! ->
 
 ***.
 
 ### Fusszeile
 
-Dies ist eine lange erweiterte Profilbeschreibung. Du hast es geschafft. Unten finden Sie meine Commit-Aktivitäten sowie vorgestellte Projekte und Listen. All das wurde bereits in dieser Beschreibung aufgeführt.
+Dies ist eine lange erweiterte Profilbeschreibung. Du hast es geschafft. Unten finden Sie meine Commit-Aktivitäten sowie ausgewählte Projekte und Listen. All das wurde bereits in dieser Beschreibung aufgeführt.
 
 Sie haben das Ende dieser Seite erreicht.
 
