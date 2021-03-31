@@ -1,6 +1,6 @@
 ***
 
-##### Sommet
+##### Haut
 
 ⬆️ Ci-dessus [(seanpm2001 / seanpm2001)] (https://github.com/seanpm2001/seanpm2001) - Le référentiel hébergeant ce fichier README de profil
 
@@ -22,7 +22,7 @@
 
 📂 [GitHub Commits] (/ GitHub_Commits /) - Emplacement d'origine des [images GitHub quotidiennes] (https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub).
 
-📂 [Texte sautant] (/ JumpingText /) - Texte sautant comme l'écran de titre de Minecraft, uniquement disponible s'il est modifiable via GitHub.
+📂 [Saut de texte] (/ JumpingText /) - Saut de texte comme l'écran de titre de Minecraft, uniquement disponible s'il est modifiable via GitHub.
 
 📂 [Kiosk] (/ Kiosk /) - Diverses données CSV Kiosk pour un usage personnel.
 
@@ -40,7 +40,7 @@
 
 📜 [.gitignore] (. Gitignore) - Un fichier .gitignore aléatoire.
 
-📜 [CONTRIBUTING.md] (CONTRIBUTING.md) - Le fichier `CONTRIBUTING.md` pour ce projet, contenant des informations sur la façon dont vous pouvez contribuer.
+📜 [CONTRIBUTING.md] (CONTRIBUTING.md) - Le fichier `CONTRIBUTING.md` pour ce projet, contenant des informations sur la manière dont vous pouvez contribuer.
 
 📜 [DRM-free_label.en.svg] (DRM-free_label.en.svg) - Le fichier image vous indiquant que ce projet ne contient pas de DRM.
 
@@ -72,15 +72,15 @@ Utilisation ## README
 
 Photo de profil actuelle au 4 mars 2021 [Cliquez ici pour télécharger en pleine qualité (JPEG)] (SeniorPhotoFullQuality.jpeg) [Cliquez ici pour voir les photos de profil passées] (# Profile-picture-history)
 
-Si vous avez été envoyé ici via un lien par SMS (messagerie texte), félicitations! Vous êtes un ami proche et l'un des 73 personnes / robots qui ont accès à mon numéro de téléphone et qui ont été approuvés par moi. Si vous le souhaitez, vous pouvez jeter un coup d'œil à mes [consignes relatives aux SMS] (https://github.com/seanpm2001/SMS-Messaging-with-Sean), ou pour dire les choses simplement: ne pas envoyer de spam, ne faites pas. t partager mon numéro, et n'hésitez pas à m'envoyer un message et m'envoyer quoi que ce soit à tout moment (même minuit ou 3h22).
+Si vous avez été envoyé ici via un lien par SMS (messagerie texte), félicitations! Vous êtes un ami proche et l'un des 73 personnes / robots qui ont accès à mon numéro de téléphone et qui ont été approuvés par moi. Si vous le souhaitez, vous pouvez jeter un coup d'œil à mes [consignes relatives aux SMS] (https://github.com/seanpm2001/SMS-Messaging-with-Sean), ou pour dire les choses simplement: ne pas envoyer de spam, ne faites pas. t partager mon numéro, et n'hésitez pas à m'envoyer un message et m'envoyer quoi que ce soit à tout moment (même minuit ou 3 h 22). Je ne répondrai probablement pas immédiatement, mais je vous contacterai quand je serai réveillé.
 
 ## Bienvenue sur mon profil GitHub <! - 👋! ->
 
 Lisez cette description dans une autre langue:
 
-[ar عربى] (README_AR.md) [bg български] (README_BG.md) [zh-t 中國 傳統 的）] (README_ZH-T.md) [** en-us **] (README.md) [nl Nederlands] (README_NL.md) [EO Espéranto] (README_EO.md) [ka ქართველი] (README_KA) [en français] (README_FR.md) [el Ελληνικά] (README_EL.md) [de Deutsch] (README_DE.md) [hi हिन्दी] (README_HI.md) [he עִברִית] (README_HE.md) [ja 日本語] (README_JA.md) [ko-south 韓國 語] (README_KO_SOUTH.md) [no norsk] (README_NO.md) [ pl polski] (README_PL.md) [ru русский] (README_RU.md) [es en espagnol] (README_ES.md) [sw Kiswahili] (README_SW.md) [sv Svenska] (README_SV.md) [te తెలుగు] ( README_TE.md) [tr Türk] (README_TR.md) [ur اردو] (README_UR.md) [uk Український] (README_UK.md) [vi Tiếng Việt] (README_VI.md) [cy Cymraeg] (README_CY) [xh isiXhosa] (README_XH.md) [yi יידיש] (README_YI.md) [zu Zulu] (README_ZU.md)
+[ar عربى] (/. github / README_AR.md) [bg български] (/. github / README_BG.md) [zh-t 中國 傳統 的）] (/. github / README_ZH-T.md) [** fr -us **] (/. github / README.md) [nl Nederlands] (/. github / README_NL.md) [EO Esperanto] (/. github / README_EO.md) [ka ქართველი] (/. github / README_KA ) [en français] (/. github / README_FR.md) [el Ελληνικά] (/. github / README_EL.md) [de Deutsch] (/. github / README_DE.md) [salut हिन्दी] (/. github / README_HI .md) [he עִברִית] (/. github / README_HE.md) [ja 日本語] (/. github / README_JA.md) [ko-south 韓國 語] (/. github / README_KO_SOUTH.md) [no norsk] (/.github/README_NO.md) [pl polski] (/. github / README_PL.md) [ru русский] (/. github / README_RU.md) [en espagnol] (/. github / README_ES.md) [ sw Kiswahili] (/. github / README_SW.md) [sv Svenska] (/. github / README_SV.md) [te తెలుగు] (/. github / README_TE.md) [tr Türk] (/. github / README_TR.md ) [ur اردو] (/. github / README_UR.md) [uk Український] (/. github / README_UK.md) [vi Tiếng Việt] (/. github / README_VI.md) [cy Cymraeg] (/. github / README_CY.md) [xh isiXhosa] (/. Github / README_XH.md) [yi יידיש] (/. Github / README_YI.md) [zu Zulu] (/. Github / README_ZU.md)
 
-Les traductions dans des langues autres que l'anglais sont traduites automatiquement et ne sont pas encore exactes. Aucune erreur n'a encore été corrigée au 5 février 2021. Veuillez signaler les erreurs de traduction [ici] (https://github.com/seanpm2001/seanpm2001/issues/) assurez-vous de sauvegarder votre correction avec les sources et de me guider, comme je le fais Je ne connais pas bien les langues autres que l'anglais (je prévois éventuellement de trouver un traducteur), veuillez citer [wiktionary] (https://en.wiktionary.org) et d'autres sources dans votre rapport. Le non-respect de cette consigne entraînera le rejet de la publication de la correction.
+Les traductions dans des langues autres que l'anglais sont traduites automatiquement et ne sont pas encore exactes. Aucune erreur n'a encore été corrigée au 5 février 2021.Veuillez signaler les erreurs de traduction [ici] (https://github.com/seanpm2001/seanpm2001/issues/) assurez-vous de sauvegarder votre correction avec les sources et de me guider, car je ne connais pas bien les langues autres que l'anglais (je prévois de obtenir éventuellement un traducteur), veuillez citer le [wiktionary] (https://en.wiktionary.org) et d'autres sources dans votre rapport. Le non-respect de cette consigne entraînera le rejet de la publication de la correction.
 
 Remarque: en raison des limitations liées au démarquage, le fait de cliquer sur ces liens vous redirigera vers un fichier distinct sur une page distincte qui n'est pas ma page de profil GitHub. Vous serez redirigé vers le [référentiel seanpm2001 / seanpm2001] (https://github.com/seanpm2001/seanpm2001), où le README est hébergé.
 
@@ -135,7 +135,7 @@ J'ai rejoint GitHub le 25 mai 2020 pour diffuser mes nombreux projets. Je suis h
 
 >> [01.0.1.6 - Projets de recherche] (# Projets de recherche)
 
->> [01.0.1.7 - Projets de système d'exploitation] (# Projets de système d'exploitation)
+>> [01.0.1.7 - Projets de système d'exploitation] (# Projets-de-système-d'exploitation)
 
 >> [01.0.1.8 - Projets SNU] (# projets SNU)
 
@@ -191,57 +191,65 @@ J'ai rejoint GitHub le 25 mai 2020 pour diffuser mes nombreux projets. Je suis h
 
 [07.0 - Ce sur quoi je souhaite collaborer] (# What-I'm-looking-to-collaborate-on)
 
-[08.0 - Ce que je cherche à aider] (# What-I'm-looking-to-help-with)
+> [07.0.1 - Ce sur quoi j'ai collaboré] (# What-I-have-collaborated-on)
 
-[09.0 - Demandes de fonctionnalités pour GitHub] (# Demandes de fonctionnalités pour GitHub)
+[08.0 - Ce que je suisoking pour aider] (# What-I'm-looking-to-help-with)
 
-[10.0 - Me poser des questions sur] (# Me poser des questions)
+[09.0 - Contacts GitHub] (# GitHub-contacts)
 
-[11.0 - Comment me joindre] (# Comment me joindre)
+> [09.0.1 - Famille] (# Famille)
 
-[12.0 - Projets sur d'autres plates-formes] (# Projets sur d'autres plates-formes)
+> [09.0.2 - Abonnements] (# Abonnements)
 
-[13.0 - Vol d'identité] (# Vol d'identité)
+[10.0 - Demandes de fonctionnalités pour GitHub] (# Demandes de fonctionnalités pour GitHub)
 
-[14.0 - Personnel] (# Personal)
+[11.0 - Me poser des questions sur] (# Me poser des questions)
 
-[15.0 - Historique des photos de profil] (# Profile-picture-history)
+[12.0 - Comment me joindre] (# Comment me joindre)
 
-[16.0 - Linux] (# Linux)
+[13.0 - Projets sur d'autres plates-formes] (# Projets sur d'autres plates-formes)
 
-[17.0 - Informations sur le sponsor] (# Infos sur le sponsor)
+[14.0 - Vol d'identité] (# Vol d'identité)
 
-[18.0 - Soumissions] (# Soumissions)
+[15.0 - Personnel] (# Personnel)
 
-[19.0 - Autres loisirs] (# Autres loisirs)
+[16.0 - Historique des photos de profil] (# Profile-picture-history)
 
-> [19.0.1 - Photographie] (# Photographie)
+[17.0 - Linux] (# Linux)
 
-> [19.0.2 - Natation] (# Natation)
+[18.0 - Informations sur le sponsor] (# Infos sur le sponsor)
 
-> [19.0.3 - Jeux] (# Jeux)
+[19.0 - Soumissions] (# Soumissions)
 
-> [19.0.4 - Conception graphique] (# Conception graphique)
+[20.0 - Autres loisirs] (# Autres loisirs)
 
-> [19.0.5 - Linguiste] (# Linguiste)
+> [20.0.1 - Photographie] (# Photographie)
 
-> [10.0.6 - Mérite d'histoire] (# Mérite d'histoire)
+> [20.0.2 - Natation] (# Natation)
 
-> [10.0.7 - Biologie marine] (# Marine-biologie)
+> [20.0.3 - Jeux] (# Jeux)
 
-> [10.0.8 - Journalisation] (# Journalisation)
+> [20.0.4 - Conception graphique] (# Conception graphique)
 
-[20.0 - Équipes: bleu] (# équipe bleue)
+> [20.0.5 - Linguiste] (# Linguiste)
 
-[21.0 - Équipes: vertes] (# Équipe verte)
+> [20.0.6 - Mérite d'histoire] (# Mérite d'histoire)
 
-[22.0 - Info sur le fichier] (# Info sur le fichier)
+> [20.0.7 - Biologie marine] (# Marine-biologie)
 
-[23.0 - Historique des versions de fichier (masqué par défaut, afficher le code source pour afficher)] (# File-version-history)
+> [20.0.8 - Journalisation] (# Journalisation)
 
-[24.0 - Pied de page] (# Pied de page)
+[21.0 - Équipes: bleu] (# équipe bleue)
 
-> [24.5 - Fin de fichier] (# Fin de fichier)
+[22.0 - Équipes: vertes] (# Équipe verte)
+
+[23.0 - Info fichier] (# File-info)
+
+[24.0 - Historique des versions de fichier (masqué par défaut, afficher le code source pour afficher)] (# File-version-history)
+
+[25.0 - Pied de page] (# Pied de page)
+
+> [25.9 - Fin de fichier] (# Fin de fichier)
 
 ***
 
@@ -287,11 +295,10 @@ Il s'agit d'une liste triée de projets clés par catégories de mégaprojets.
 
 [Pourquoi vous devriez arrêter d'utiliser Google Chrome] (https://github.com/seanpm2001/Why-you-should-stop-using-Chrome) - Le premier article de ma série d'articles degoogle, visant à signaler les problèmes avec Chrome et offrir de bonnes alternatives respectueuses de la vie privée.
 
-[Arrêtez d'utiliser les Chromebooks] (https://github.com/seanpm2001/Stop-using-Chromebooks) - Le deuxième article de ma série d'articles degoogle, visant à signaler des problèmes supplémentaires avec Google Chrome, cette fois avec ChromeOS et le dominant les périphériques et périphériques informatiques invasifs à la vie privée visaient à collecter plus de données utilisateur et à accroître le monopole de Google. Des alternatives sont également proposées, tous les articles proposent des alternatives.
+[Arrêtez d'utiliser les Chromebooks] (https://github.com/seanpm2001/Stop-using-Chromebooks) - Le deuxième article de ma série d'articles degoogle, visant à signaler des problèmes supplémentaires avec Google Chrome, cette fois avec
+e ChromeOS et les périphériques et périphériques informatiques envahissants dominants visaient à collecter davantage de données utilisateur et à accroître le monopole de Google. Des alternatives sont également proposées, tous les articles proposent des alternatives.
 
-[En alternance à partir de YouTube] (https://github.com/seanpm2001/Alternating-from-YouTube) - Un autre article de ma série d'articles degoogle, visant à montrer l'hypocrasie et la grande abondance de problèmes (et de nombreux décès + 1 tir) causé par Goo
-
-YouTube appartenant à gle. Comme il est si difficile de s'éloigner de YouTube en raison de l'absence d'alternatives viables, cet article répertorie certaines alternatives, mais indique principalement comment vous pouvez défendre votre vie privée tout en utilisant YouTube, bien qu'il serve également de critique.
+[En alternance à partir de YouTube] (https://github.com/seanpm2001/Alternating-from-YouTube) - Un autre article de ma série d'articles degoogle, visant à montrer l'hypocrasie et la grande abondance de problèmes (et de nombreux décès + 1 tir) causé par YouTube appartenant à Google. Comme il est si difficile de s'éloigner de YouTube en raison de l'absence d'alternatives viables, cet article répertorie certaines alternatives, mais indique principalement comment vous pouvez défendre votre vie privée tout en utilisant YouTube, bien qu'il serve également de critique.
 
 [Recherche sur la machine virtuelle de téléphone Android dégoogle] (https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research) - Fait officieusement partie de ma campagne degoogle, il s'agit d'un projet de recherche personnelle sur la création d'une machine virtuelle Android entièrement fonctionnelle.
 
@@ -321,7 +328,7 @@ YouTube appartenant à gle. Comme il est si difficile de s'éloigner de YouTube 
 
 ### Projets de blagues
 
-[Code distancing] (https://github.com/seanpm2001/Code-distancing) - Un projet de blague très développé que j'ai réalisé qui vise à ajouter de l'humour à la programmation informatique en rendant les programmes informatiques à distance de code. Ce projet est également utilisé pour sensibiliser à la pandémie de COVID-19 et comment rester en sécurité.
+[Code distancing] (https://github.com/seanpm2001/Code-distancing) - Un projet de blague très développé que j'ai réalisé qui vise à ajouter de l'humour à la programmation informatique en rendant les programmes informatiques à distance. Ce projet est également utilisé pour sensibiliser à la pandémie de COVID-19 et comment rester en sécurité.
 
 ### Projets de jeux
 
@@ -333,15 +340,13 @@ YouTube appartenant à gle. Comme il est si difficile de s'éloigner de YouTube 
 
 [NimbleBook] (https://github.com/seanpm2001/NimbleBook) - Un jeu de fans NimbleBit open source pour vous permettre de contrôler la tristement célèbre plate-forme de médias sociaux BitBook et ses variations dans les jeux NimbleBit
 
-[MCPYE] (https://github.com/seanpm2001/MCPYE) - Nom de code: Minecraft Python Edition (pas le nom officiel) un jeu open source Minecraft, Growtopia et Sims avec prise en charge de milliers de blocs et d'entités.
+[MCPYE] (https://github.com/seanpm2001 / MCPYE) - Nom de code: Minecraft Python Edition (pas le nom officiel), une récréation open source Minecraft, Growtopia et Sims avec prise en charge de milliers de blocs et d'entités.
 
 ### Projets de recherche
 
 [Marine Biology] (https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology) - Pour la recherche liée à mes phases de biologie marine
 
-[Anime] (https://github.com/seanpm2001/Anime) - Pour la recherche et la discussion sur l'anime et le manga, plus le Japon en g
-
-énéral.
+[Anime] (https://github.com/seanpm2001/Anime) - Pour la recherche et la discussion sur l'anime et le manga, ainsi que sur le Japon en général.
 
 [The Walla Walla Anime] (https://github.com/seanpm2001/the-walla-walla-anime) - Un vieux projet embarrassant d'essayer de concevoir un anime avec Microsoft Paint 3D. Nécessite une réécriture complète.
 
@@ -361,7 +366,7 @@ YouTube appartenant à gle. Comme il est si difficile de s'éloigner de YouTube 
 
 [BluPhone] (https://github.com/seanpm2001/BluPhone) - BluPhone est un puissant client de périphérique Bluetooth pour Linux, MacOS, Android, iOS, Windows, FreeBSD, etc. Il vous donne des tonnes de contrôle sur n'importe quel casque Bluetooth que vous connectez.
 
-[LinkLax] (https://github.com/seanpm2001/LinkLax) - LinkLax est un programme de stylisation d'URL (hyperlien) très coloré et magnifique qui peut rendre votre expérience de navigation Web beaucoup plus colorée.
+[LinkLax] (https://github.com/seanpm2001/LinkLax) - LinkLax est un programme de stylisme d'URL (lien hypertexte) très coloré et magnifique qui peut rendre votre expérience de navigation Web beaucoup plus colorée.
 
 ** Toutes les organisations ** _ (au 27 mars 2021) _
 
@@ -457,7 +462,7 @@ Ce Gist aide à:
 
 ## Le logiciel libre n'est pas libre de se développer
 
-N'oubliez pas que les logiciels libres et open source ne sont pas toujours libres de se développer. Assurez-vous de faire un don aux organisations de logiciels que vous aimez, afin qu'elles puissent continuer à produire des contributions à la société.
+N'oubliez pas que les logiciels libres et les logiciels open sourcen'est pas toujours libre de se développer. Assurez-vous de faire un don aux organisations de logiciels que vous aimez, afin qu'elles puissent continuer à produire des contributions à la société.
 
 Ma liste d'organisations prises en charge comprend:
 
@@ -477,7 +482,7 @@ Ma liste d'organisations prises en charge comprend:
 
 * FFMPEG
 
-* Ee Internet Archive (également les créateurs de la machine de retour)
+* Les archives Internet (également les créateurs de la machine de retour)
 
 * Ouvrir le plan des rues
 
@@ -547,21 +552,19 @@ J'ai suspendu mon compte 3 jours plus tard, et avec d'autres raisons, j'ai déci
 
 ### Pourquoi avez-vous autant d'onglets ouverts
 
-J'ai beaucoup de projets différents. Je dois gérer de nombreux projets différents. J'ai plus de 70 profils Firefox différents, chacun contenant son propre ensemble d'onglets, mais je ne garde que 1 à 3 profils ouverts à la fois. Je ferme ces derniers quand j'en ai fini avec eux pour le moment.
+J'ai beaucoup de projets différents. Je dois gérer de nombreux projets différents. J'ai plus de 70 profils Firefox différents, chacun contenant son propre ensemble d'onglets, mais je ne garde que 1 à 3 profils ouverts à la fois. Je ferme ces derniers quand j'en ai fini avec eux pour l'instant.
 
-### Pourquoi utilisez-vous autant Wikipédia
+### Whvous utilisez tellement Wikipédia
 
 Wikipedia est l'un de mes sites les plus utilisés, GitHub est le deuxième. Je trouve que Wikipédia est une excellente ressource et est utile pour la recherche sur la programmation, la chimie, l'histoire et plus encore. J'ai l'intention de commencer un jour à donner de l'argent à Wikipédia chaque mois.
 
 ### Pourquoi jouez-vous à tant de jeux différents
 
-J'aime avoir un équilibre dans ma vie et avoir des périodes pour me relaxer de la programmation. Je propose également de nouvelles idées pendant cette période, et
-
-faire d'autres choses, comme les tâches ménagères.
+J'aime avoir un équilibre dans ma vie et avoir des périodes pour me relaxer de la programmation. Je propose également de nouvelles idées pendant cette période et je fais d'autres choses, comme les tâches ménagères.
 
 ### Pourquoi jouez-vous à des jeux pour enfants
 
-Je joue à des jeux qui visent généralement les enfants, mais qui ne sont que des jeux de passe-temps. Les exemples incluent le restaurant / la boulangerie / l'animalerie / la mode / la ferme / l'histoire de la ville et l'avion de fusion. Ces jeux peuvent être pour les enfants et les adultes. J'ai joué à ces jeux dans mon enfance et j'ai des liens nostalgiques avec eux. Certains d'entre eux sont vraiment amusants pour commencer.
+Je joue à des jeux qui visent généralement les enfants, mais qui ne sont que des jeux de passe-temps. Exemples: histoire de restaurant / boulangerie / animalerie / mode / ferme / ville et plan de fusion. Ces jeux peuvent être pour les enfants et les adultes. J'ai joué à ces jeux dans mon enfance et j'ai des liens nostalgiques avec eux. Certains d'entre eux sont vraiment amusants pour commencer.
 
 ### Pourquoi détestez-vous autant Google
 
@@ -647,7 +650,7 @@ Autre / inconnu
 
 Toutes mes œuvres sont libres de certaines restrictions. DRM (** D ** igital ** R ** estrictions ** M ** anagement) n'est présent dans aucune de mes œuvres.
 
-! [Étiquette_sans DRM.en.svg] (étiquette_sans DRM.en.svg)
+! [Label_sans DRM.en.svg] (Label_sans DRM.en.svg)
 
 Cet autocollant est soutenu par la Free Software Foundation. Je n'ai jamais l'intention d'inclure la DRM dans mes travaux.
 
@@ -699,19 +702,25 @@ Les entreprises que j'envisage actuellement comprennent:
 
 > Microsoft [::] - J'ai une famille qui travaille ici, et j'ai eu un long passé avec Microsoft (jusqu'en 2005) même si je considère que certaines choses que fait Microsoft comme non éthiques, cela ne me dérangerait pas de travailler ici (J'ai une très forte expérience personnelle avec les produits Microsoft, notamment Windows XP) S'il y a des emplois ici qui utilisent Python, je peux les faire.
 
-> VideoLan / - \ - Je voudrais essayer d'écrire de la documentation pour VideoLan, je suis très doué pour écrire de la documentation, car j'aime le faire, et je le fais presque toute la journée, tous les jours. Actuellement, VideoLan ne peut pas avoir de rédacteurs de documentation en raison du faible nombre de bénévoles. Si cela est autorisé, j'écrirai de la documentation pour chaque version de VLC qui ne l'a pas (uniquement en anglais, je ne peux pas faire d'autres langues)
+> VideoLan / - \ - Je voudrais essayer d'écrire de la documentation pour VideoLan, je suis très doué pour écrire de la documentation, car j'aime le faire, et je le fais presque toute la journée, tous les jours. Actuellement, VideoLan ne peut pas avoir de rédacteurs de documentation en raison du faible nombre de bénévoles. Si cela est autorisé, j'écrirai de la documentation pour chaque version de VLC qui ne l'a pas (uniquement en anglaisish, je ne peux pas faire d'autres langues)
 
 > Canonical (&) - Je voudrais essayer de contribuer à Linux de toutes les manières possibles. Travailler chez Canonical est actuellement une option, je ne sais pas exactement ce que je ferais ici, mais j'espère pouvoir faire quelque chose.
 
-> La Fondation KDE (K) - KDE serait une bonne fondation pour laquelle travailler. J'adore leurs projets open source super légers et je pourrais aider à réduire encore plus les ballonnements. Si un emploi est disponible dans une langue que j'ai
-
-J'ai au moins 40% de connaissances, je pourrais travailler ici.
+> La Fondation KDE (K) - KDE serait une bonne base pour laquelle travailler. J'adore leurs projets open source super légers et je pourrais aider à réduire encore plus les ballonnements. Si un emploi est disponible dans une langue que j'ai au moins 40% de connaissance, je pourrais travailler ici.
 
 > Khan Academy (^) - Je souhaite contribuer à Khan Academy, j'utilise le site depuis près de 4 ans d'affilée au quotidien. S'il était possible de faire des vidéos et des articles pour eux, j'ai toujours envisagé de démarrer un cours sur la virtualisation.
 
-> L'organisation GNOME (G) - si possible, je pourrais essayer d'apporter des modifications pour réduire l'énorme utilisation de la mémoire de GNOME, qui est toujours apparue comme quelque chose qui doit être corrigé pour moi. C'est toujours beaucoup mieux que l'utilisation de la mémoire de Windows 10, l'inactivité sur Windows 10 utiliserait la moitié de ma RAM, peu importe combien j'avais (4, 8, 16 Go) sur mon premier ordinateur portable Linux, il est toujours resté en dessous de 1,8 gigaoctet inactif (en comptant également le moniteur système)
+> L'organisation GNOME (G) - si possible, je pourrais essayer de mettre en place des changements pour réduire l'énorme utilisation de la mémoire de GNOME, qui est toujours apparue comme quelque chose qui doit être corrigé pour moi. C'est toujours beaucoup mieux que l'utilisation de la mémoire de Windows 10, l'inactivité sur Windows 10 utiliserait la moitié de ma RAM, peu importe combien j'avais (4, 8, 16 Go) sur mon premier ordinateur portable Linux, il est toujours resté en dessous de 1,8 gigaoctets lorsque inactif (en comptant également le moniteur système)
 
 > Aucune autre société actuellement cotée
+
+#### Sur quoi j'ai collaboré
+
+J'ai collaboré sur quelques projets sur GitHub, notamment
+
+! [/. github / projects / external / 1 / LinCity_NG.png] (/. github / projects / external / 1 / LinCity_NG.png) - [LinCity NG] (https://github.com/lincity-ng/lincity -ng /) - 100% numéros (2020) - [1] (https://github.com/lincity-ng/lincity-ng/issues/46)
+
+! [/. github / projects / external / 1 / Ruffle_vector_logo.svg] (/. github / projects / external / 1 / Ruffle_vector_logo.svg) [Ruffle-rs] (https://github.com/ruffle-rs/ruffle ) - Examen du code à 100% (2021) [1] (https://github.com/ruffle-rs/ruffle/pull/3004) [2] (https://github.com/ruffle-rs/ruffle/pull / 3117) [3] (https://github.com/ruffle-rs/ruffle/pull/3194) [4] (https://github.com/ruffle-rs/ruffle/pull/3163) [5] (https://github.com/ruffle-rs/ruffle/pull/3176) [6] (https://github.com/ruffle-rs/ruffle/pull/3177)
 
 ***
 
@@ -734,6 +743,38 @@ Je ne peux pas non plus travailler sur des projets liés à votre travail scolai
 Je préférerais aider avec des projets écrits en Python 3, Markdown, HTML5, CSS3, Java, C, C ++ ou JavaScript. Je ne pourrai pas non plus aider avec des projets écrits dans d'autres langues.
 
 Aucune autre limitation répertoriée pour le moment.
+
+***
+
+### Contacts GitHub
+
+#### Famille
+
+@Microsoft
+
+[Channa-My] (https://github.com/channa-my)
+
+[Lindsay-My] (https://github.com/lindsmy)
+
+@Fermer
+
+[Chrism2282] (https://github.com/chrism2282)
+
+[Inverno4] (https://github.com/inverno4)
+
+[Memewallawalla] (https://github.com/memewallawalla)
+
+@alt_accounts
+
+[Seanwallawalla] (https://github.com/seanwallawalla)
+
+@tech_idols
+
+[Linus Torvalds] (https://github.com/torvalds)
+
+#### Abonnements
+
+[Noyau Linux] (https://github.com/torvalds/linux)
 
 ***
 
@@ -771,11 +812,11 @@ J'ai plusieurs méthodes pour être atteint. Actuellement, je ne peux pas répon
 
 * Via Reddit (lien subreddit: [Cliquez ici r / seanpm2001] (https://www.reddit.com/r/seanpm2001/) ou par message direct [Cliquez ici pour voir mon profil] (https: //www.reddit .com / user / seanwallawalla /) - actuellement inactif sur le subreddit, mais je répondrai probablement à une réponse ou à un DM dans les 48 heures
 
-Il n'y a actuellement aucun autre moyen de m'envoyer un message
+Il n'y a actuellement aucun autre moyen de me contacter
 
 ***
 
-Vous pouvez trouver plus d'informations sur mon Gist personnel. [Cliquez / appuyez ici pour en savoir plus sur moi] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
+OuiVous pouvez trouver plus d'informations sur mon Gist personnel. [Cliquez / appuyez ici pour en savoir plus sur moi] (https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
 ***
 
@@ -805,7 +846,7 @@ Je suis sur les plateformes suivantes
 
 [Reddit] (https://reddit.com/u/seanwallawalla) - Bien que je ne poste pas très souvent
 
-[Discord] (# How-to-reach-me) - Remarque: depuis février 2021, je n'utilise plus Discord
+[Discord] (# Comment me joindre) - Remarque: depuis février 2021, je n'utilise plus Discord
 
 [GitHub] (https://github.com/seanpm2001) - Évidemment
 
@@ -817,9 +858,7 @@ Je suis sur les plateformes suivantes
 
 [Mozilla] (# vol d'identité)
 
-[Twitter] (https://www.twitter.com/@seanwallawalla) - Plus utilisé à partir de 2018, légèrement grincheux, mais
-
-pas mal
+[Twitter] (https://www.twitter.com/@seanwallawalla) - Ne plus utiliser à partir de 2018, légèrement grincheux, mais pas trop mal
 
 [Scratch] (https://scratch.mit.edu/users/seanspokane2015) - Plus utilisé à partir de 2017
 
@@ -841,7 +880,7 @@ pas mal
 
 [Ditty.it] (https://www.example.com) - Création et exportation de toutes les vidéos, utilisées quotidiennement pendant un certain temps, mais le service est fermé depuis plus de 2 ans, vous ne pouvez donc plus vraiment y accéder (Je doute qu'il ait été crawlé par la machine de retour)
 
-** La liste est incomplète. Essayez de me déranger pour le réparer. Je finirai par le faire quand j'aurai le temps, mais je n'y arriverai peut-être pas assez tôt. **
+** La liste est incomplète. Essayez de me déranger pour le réparer. Je finirai par le faire quand j'aurai le temps, mais je n'y arriverai pas assez tôt.
 
 Cependant, je ne suis pas sur d'autres plateformes. Si vous voyez quelqu'un poser sur moi sur d'autres plateformes, ne le croyez pas sur parole, car il commet un vol d'identité. _Le vol d'identité n'est pas une blague Jim. Des millions de familles souffrent chaque année_ - Dwight Shrute (The Office, version américaine) [Vous préférez le lien YouTube] (https://www.youtube.com/watch?v=5f5ni0zpl5E) [Lien Vimeo, mais sans la vidéo officielle, juste audio et texte] (https://vimeo.com/464892816) sérieusement, le vol d'identité est un problème réel.
 
@@ -879,7 +918,7 @@ Original (25 mai 2020 à? 2020)
 
 ! [La photo de profil modifiée d'origine n'a pas pu être chargée. Cliquez / appuyez ici pour essayer de l'afficher] (/ Media / 773af859eafc403a8ce6bb3051bd2618 (copie) .png)
 
-Original (version glitched de transparence de l'Explorateur Windows)
+Original (transparence de l'Explorateur Windows glitched version)
 
 ! [Impossible de charger l'image du profil GitHub. Cliquez ici pour essayer de le voir] (SeniorPhotoFullQuality.jpeg)
 
@@ -893,7 +932,7 @@ J'étais fan de Windows jusqu'à Windows 10. J'ai commencé à essayer de passer
 
 ! [20200709_124359.jpg] (/ Media / 20200709_124359.jpg)
 
-Mon premier système d'exploitation complet sur Linux (autre qu'Android 1.6) est Ubuntu 20.04. Je suis un utilisateur très fier de Linux, car je ne suis plus limité par mes mises à jour forcées, mes logiciels et licences propriétaires, le manque de contrôle et de personnalisation, la peur de l'instabilité et d'autres problèmes que j'ai rencontrés avec Windows 10. Depuis le 4 mars 2021, je J'utilise toujours Linux au quotidien, mais ma peur des écrans bleus n'a pas disparu, craignant parfois même d'avoir un écran bleu alors que je sais que ce n'est même pas techniquement possible sur Ubuntu (à moins que vous n'ayez un logiciel qui l'imite) Je à l'origine, j'allais installer Fedora 32 sur mon ordinateur portable quand je l'ai eu, mais j'ai décidé d'essayer d'abord Ubuntu. Jusqu'à présent, je l'ai aimé, à l'exception de 2 choses: les snaps étant propriétaires et la laideur de GNOME 3.x (par rapport aux versions précédentes et à d'autres environnements de bureau, comme celui que je voulais mais que je n'ai pas encore installé; KDE)
+Mon premier système d'exploitation complet sur Linux (autre qu'Android 1.6) est Ubuntu 20.04. Je suis un utilisateur Linux très fier, car je ne suis plus limité par mes mises à jour forcées, mes logiciels et licences propriétaires, le manque de contrôle et de personnalisation, la peur de l'instabilité et d'autres problèmes que j'ai rencontrés avec Windows 10. Depuis le 4 mars 2021, je J'utilise toujours Linux au quotidien, mais ma peur des écrans bleus n'a pas disparu, craignant parfois même d'avoir un écran bleu alors que je sais que ce n'est même pas techniquement possible sur Ubuntu (à moins que vous n'ayez un logiciel qui l'imite) Je à l'origine, j'allais installer Fedora 32 sur mon ordinateur portable quand je l'ai eu, mais j'ai décidé d'essayer d'abord Ubuntu. Jusqu'à présent, je l'ai aimé, à l'exception de 2 choses: les snaps étant propriétaires et la laideur de GNOME 3.x (par rapport aux versions précédentes et à d'autres environnements de bureau, comme celui que je voulais mais que je n'ai pas encore installé; KDE)
 
 ***
 
@@ -903,9 +942,7 @@ Mon premier système d'exploitation complet sur Linux (autre qu'Android 1.6) est
 
 Vous pouvez parrainer ce projet si vous le souhaitez, mais veuillez préciser à quoi vous souhaitez faire un don. [Voir les fonds auxquels vous pouvez faire un don ici] (https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
-Vous pouvez voir d'autres informations de sponsor [ici] (https://github.com
-
-/ seanpm2001 / Sponsor-info /)
+Vous pouvez voir d'autres informations de sponsor [ici] (https://github.com/seanpm2001/Sponsor-info/)
 
 Essaye le! Le bouton de parrainage se trouve juste à côté du bouton de montre / déverrouillage.
 
@@ -928,7 +965,7 @@ Voici une liste de mes autres passe-temps
 
 Je suis un photographe intermédiaire et je peux prendre de très bonnes photos sans avoir besoin de manipuler l'image originale pour l'améliorer (à part les moments où je mets accidentellement mon pouce dans la photo), je peux prendre des photos pour vous en cas de besoin. Mon appareil photo actuel est 4K (2160p ou 2K) 60 images par seconde.
 
-### Natation
+### Nager
 
 J'ai toujours aimé nager. Quand j'ai une piscine ou un bain à remous à ma disposition, je nage normalement dedans.
 
@@ -950,7 +987,7 @@ J'aime l'aspect et le son de diverses langues, qu'il s'agisse d'instructions par
 
 Je suis un passionné d'histoire, avec une connaissance de l'histoire qui remonte à plus de 13,8 milliards d'années (Big Bang) jusqu'à nos jours. J'aime apprendre l'histoire et j'ai une connaissance d'un large éventail d'époques et d'événements, y compris une connaissance approfondie de choses autres que la Première Guerre mondiale ou la Seconde Guerre mondiale (mais j'en sais encore beaucoup sur les 2 guerres mondiales) pour la Terre histoire, mes connaissances remontent à 8000 avant notre ère de manière très détaillée, jusqu'à 27000 avant notre ère en moins de détails, et surtout des événements géologiques avant 27000 avant notre ère. J'aime apprendre tous les types d'histoire, et pas seulement l'histoire de la guerre.
 
-Je dois mon intérêt pour l'histoire à mon premier professeur d'histoire au lycée, qui était vraiment enthousiasmé par ce qu'il enseignait, et qui n'était qu'un professeur d'histoire génial et sympathique. Je ferais sans aucun doute de lui le professeur de l'année pour cette année de lycée. Les cours d'histoire du passé ne m'ont jamais aussi abordé le sujet de l'histoire, mais celui-ci m'a vraiment ouvert l'esprit.
+Je dois mon intérêt pour l'histoire à mon premier professeur d'histoire au lycée, qui était vraiment enthousiasmé par ce qu'il enseignait, et qui n'était qu'un professeur d'histoire génial et sympathique. Je ferais sans aucun doute de lui le professeur de l'année pour cette année de lycée. Les cours d'histoire du passé ne m'ont jamais trop abordé le sujet de l'history, mais celui-ci m'a vraiment ouvert l'esprit sur l'histoire.
 
 ### Biologie marine
 
@@ -982,9 +1019,9 @@ En savoir plus sur moi [ici] (https://gist.github.com/seanpm2001/7e40a0e13c066a5
 
 Type de fichier: `Markdown (* .md)`
 
-Version du fichier: `7 (samedi 27 mars 2021 à 20h38)`
+Version du fichier: `8 (mercredi 31 mars 2021 à 16h08)`
 
-Nombre de lignes (y compris les lignes vides et la ligne du compilateur): `1,221`
+Nombre de lignes (y compris les lignes vides et la ligne du compilateur): `1,297`
 
 ***
 
@@ -1012,9 +1049,7 @@ Version 1 (vendredi 21 août 2020 à 16h39)
 
 > * Ajout de la section «Me poser des questions»
 
-> * Ajout du
-
-Section "Comment me joindre"
+> * Ajout de la section "Comment me joindre"
 
 > * Ajout de la section d'informations sur le fichier
 
@@ -1044,7 +1079,7 @@ Version 3 (dimanche 29 novembre 2020 à 15h50)
 
 > Changements:
 
-> * Commenté la section historique des versions et la section d'informations sur le fichier pour une meilleure navigation dans le profil
+> * A commenté la section historique des versions et la section d'informations sur les fichiers pour une meilleure navigation dans le profil
 
 > * Mise à jour de la section historique des versions
 
@@ -1162,11 +1197,23 @@ Cette mise à jour a pris 3 jours, ainsi qu'une longue période de procrastinati
 
 > * Pas d'autres changements dans la version 7
 
-Version 8 (à venir)
+Version 8 (mercredi 31 mars 2021 à16 h 08)
 
 > Changements:
 
-> * Prochainement
+> * Mise à jour de l'index
+
+> * Correction de tous les liens de traduction
+
+> * Ajout des projets sur lesquels j'ai collaboré dans la section
+
+> * Ajout de la section des contacts GitHub
+
+> * Ajout de la section abonnements
+
+> * Mise à jour de la section d'informations sur le fichier
+
+> * Mise à jour de la section historique des fichiers
 
 > * Pas d'autres changements dans la version 8
 
@@ -1218,13 +1265,29 @@ Version 14 (à venir)
 
 > * Pas d'autres changements dans la version 14
 
+Version 15 (à venir)
+
+> Changements:
+
+> * Prochainement
+
+> * Pas d'autres changements dans la version 15
+
+Version 16 (à venir)
+
+> Changements:
+
+> * Prochainement
+
+> * Pas d'autres changements dans la version 16
+
 ! ->
 
 ***
 
 ### Bas de page
 
-Il s'agit d'une longue description de profil étendue. Vous l'avez surmonté. Vous trouverez ci-dessous mon activité de commit et mes projets et Gists en vedette. Tout cela a déjà été répertorié dans cette description.
+Il s'agit d'une longue description de profil étendue. Vous l'avez surmonté. Vous trouverez ci-dessous mon activité de commit et mes projets et Gists. Tout cela a déjà été répertorié dans cette description.
 
 Vous avez atteint la fin de cette page.
 
