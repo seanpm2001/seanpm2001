@@ -77,15 +77,21 @@ If you have been sent here through a link through SMS (text messaging) congratul
 
 ## Welcome to my GitHub profile <!--👋!-->
 
-Read this description in a different language:
+_Read this description in a different language:_
 
-[ar عربى](/.github/README_AR.md) [bg български](/.github/README_BG.md) [zh-t 中國傳統的）](/.github/README_ZH-T.md)[**en-us**](/.github/README.md) [nl Nederlands](/.github/README_NL.md) [EO Esperanto](/.github/README_EO.md) [ka ქართველი](/.github/README_KA) [fr français](/.github/README_FR.md) [el Ελληνικά](/.github/README_EL.md) [de Deutsch](/.github/README_DE.md) [hi हिन्दी](/.github/README_HI.md) [he עִברִית](/.github/README_HE.md) [ja 日本語](/.github/README_JA.md) [ko-south 韓國語](/.github/README_KO_SOUTH.md) [no norsk](/.github/README_NO.md) [pl polski](/.github/README_PL.md) [ru русский](/.github/README_RU.md) [es en español](/.github/README_ES.md) [sw Kiswahili](/.github/README_SW.md) [sv Svenska](/.github/README_SV.md) [te తెలుగు](/.github/README_TE.md) [tr Türk](/.github/README_TR.md) [ur اردو](/.github/README_UR.md) [uk Український](/.github/README_UK.md) [vi Tiếng Việt](/.github/README_VI.md) [cy Cymraeg](/.github/README_CY.md) [xh isiXhosa](/.github/README_XH.md) [yi יידיש](/.github/README_YI.md) [zu Zulu](/.github/README_ZU.md)
+**Current language is:** `English (US)` _(translations may need to be corrected to fix English replacing the correct language)_
+
+_🌐 List of languages_
+
+( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
 
 Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/seanpm2001/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
-Note: due to limitations with markdown, clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
+Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
 
 Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
+
+Due to maintenance issues, over 25 translations are out of date and are using Version 8 or Version 9 of this README file. A translator is needed. Also, as of April 1st 2021, it is going to take me a while to get all the new links working.
 
 [GitHub profile secret info](SECRET.md)
 
@@ -214,43 +220,45 @@ I joined GitHub on May 25th 2020 to get my many projects out there. I am skilled
 
 [15.0 - Personal](#Personal)
 
-[16.0 - Profile picture history](#Profile-picture-history)
+[16.0 - Autism](#Autism)
 
-[17.0 - Linux](#Linux)
+[17.0 - Profile picture history](#Profile-picture-history)
 
-[18.0 - Sponsor info](#Sponsor-info)
+[18.0 - Linux](#Linux)
 
-[19.0 - Submissions](#Submissions)
+[19.0 - Sponsor info](#Sponsor-info)
 
-[20.0 - Other hobbies](#Other-hobbies)
+[20.0 - Submissions](#Submissions)
 
-> [20.0.1 - Photography](#Photography)
+[21.0 - Other hobbies](#Other-hobbies)
 
-> [20.0.2 - Swimming](#Swimming)
+> [21.0.1 - Photography](#Photography)
 
-> [20.0.3 - Gaming](#Gaming)
+> [21.0.2 - Swimming](#Swimming)
 
-> [20.0.4 - Graphic design](#Graphic-design)
+> [21.0.3 - Gaming](#Gaming)
 
-> [20.0.5 - Linguist](#Linguist)
+> [21.0.4 - Graphic design](#Graphic-design)
 
-> [20.0.6 - History buff](#History-buff)
+> [21.0.5 - Linguist](#Linguist)
 
-> [20.0.7 - Marine biology](#Marine-biology)
+> [21.0.6 - History buff](#History-buff)
 
-> [20.0.8 - Journaling](#Journaling)
+> [21.0.7 - Marine biology](#Marine-biology)
 
-[21.0 - Teams: blue](#Blue-team)
+> [21.0.8 - Journaling](#Journaling)
 
-[22.0 - Teams: green](#Green-team)
+[22.0 - Teams: blue](#Blue-team)
 
-[23.0 - File info](#File-info)
+[23.0 - Teams: green](#Green-team)
 
-[24.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+[24.0 - File info](#File-info)
 
-[25.0 - Footer](#Footer)
+[25.0 - File version history (hidden by default, view source code to view)](#File-version-history)
 
-> [25.9 - End of file](#End-of-file)
+[26.0 - Footer](#Footer)
+
+> [26.9 - End of file](#End-of-file)
 
 ***
 
@@ -654,6 +662,12 @@ All of my works are free some restrictions. DRM (**D**igital **R**estrictions **
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
+I am using the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
+
+Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+
 ***
 
 ### What I'm currently learning
@@ -720,7 +734,7 @@ I have collaborated on a few projects on GitHub, including
 
 ![/.github/projects/external/1/LinCity_NG.png](/.github/projects/external/1/LinCity_NG.png) - [LinCity NG](https://github.com/lincity-ng/lincity-ng/) - 100% issues (2020) - [1](https://github.com/lincity-ng/lincity-ng/issues/46)
 
-![/.github/projects/external/1/Ruffle_vector_logo.svg](/.github/projects/external/1/Ruffle_vector_logo.svg) [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - 100% code review (2021) [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177)
+![/.github/projects/external/1/Ruffle_vector_logo.svg](/.github/projects/external/1/Ruffle_vector_logo.svg) [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - 100% code review (2021) [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177) [7](https://github.com/ruffle-rs/ruffle/pull/3819)
 
 ***
 
@@ -750,13 +764,13 @@ No other limitations listed at the moment.
 
 #### Family
 
-@Microsoft
+`@Microsoft`
 
 [Channa-My](https://github.com/channa-my)
 
 [Lindsay-My](https://github.com/lindsmy)
 
-@Close
+`@Close`
 
 [Chrism2282](https://github.com/chrism2282)
 
@@ -764,17 +778,29 @@ No other limitations listed at the moment.
 
 [Memewallawalla](https://github.com/memewallawalla)
 
-@alt_accounts
+`@alt_accounts`
 
 [Seanwallawalla](https://github.com/seanwallawalla)
 
-@tech_idols
+`@friends`
+
+[Torokati44](https://github.com/torokati44) - My first friend gained when developing with them on Ruffle-rs
+
+The friend ship is now departing. Destination: everywhere.
+
+`@tech_idols`
 
 [Linus Torvalds](https://github.com/torvalds)
 
 #### Subscriptions
 
-[Linux kernel](https://github.com/torvalds/linux)
+Projects I am actively monitoring:
+
+[Linux kernel](https://github.com/torvalds/linux) - The Linux kernel
+
+[Ruffle-rs](https://github.com/ruffle-rs/ruffle) - Ruffle, the open source flash player emulator
+
+[CPython](https://github.com/python/cpython) - The Python programming language
 
 ***
 
@@ -788,7 +814,7 @@ There are some features that would be nice for GitHub. They include:
 
 > * An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
 
-> * A built-in dark mode, along with other modes (if needed)
+<!-- > * A built-in dark mode, along with other modes (if needed) This was added over 6 months ago, and should now be commented out) !-->
 
 > * Adding back the ability to hover over and see commit percentages ⭐
 
@@ -908,6 +934,16 @@ On GitHub, I have a lot of other personal projects, under the category of a life
 
 ***
 
+### Autism
+
+I am on the Autism spectrum. I am on the high functioning part of the spectrum, only suffering from socialization issues (which have gotten much better over my lifetime)
+
+I don't consider my Autism to be a handicap. I feel like it is what makes me, me, and what makes me so outgoing, creative, and smart.
+
+However, there are less fortunate people with Autism who have much more problems due to their position on the spectrum. That is why I have created the [United Autism Rights organization](https://avatars.githubusercontent.com/u/80805036?s=60&v=4) as [A](https://en.wikipedia.org/wiki/Autism_Speaks#View_of_autism_as_a_disease)[u](https://en.wikipedia.org/wiki/Autism_Speaks#Cure_Autism_Now)[t](https://autisticadvocacy.org/2009/10/disability-community-condemns-autism-speaks/)[i](https://www.theguardian.com/society/2007/aug/07/health.medicineandhealth)[s](https://www.vox.com/2015/8/31/9233295/autism-rights-kanner-asperger)[m](http://www.thedailybeast.com/articles/2015/02/25/they-don-t-want-an-autism-cure.html) [S](https://www.latimes.com/opinion/op-ed/la-oe-0824-silberman-autism-speaks-20150824-story.html)[p](https://www.psychologytoday.com/gb/blog/aspergers-alive/201311/reporters-guide-the-autism-speaks-debacle)[e](https://web.archive.org/web/20180615032203/https://www.autismspeaks.org/blog/2015/08/25/call-unity)[a](https://web.archive.org/web/20070630013301/http://www.gettingthewordout.org/home.php)[k](https://web.archive.org/web/20071018030910/http://gettingthetruthout.org/)[s](https://www.newscientist.com/channel/being-human/mg19726414.300-voices-of-autism-silenced-by-charity.html) is NOT helpful at all, and the other alternates currently aren't that effective.
+
+***
+
 ### Profile picture history
 
 Here is a history of my GitHub profile picture:
@@ -1019,9 +1055,9 @@ Learn even more about me [here](https://gist.github.com/seanpm2001/7e40a0e13c066
 
 File type: `Markdown (*.md)`
 
-File version: `8 (Wednesday, March 31st 2021 at 4:08 pm)`
+File version: `9 (Thursday, April 1st 2021 at 6:33 pm)`
 
-Line count (including blank lines and compiler line): `1,297`
+Line count (including blank lines and compiler line): `1,369`
 
 ***
 
@@ -1217,11 +1253,27 @@ Version 8 (Wednesday, March 31st 2021 at 4:08 pm)
 
 > * No other changes in version 8
 
-Version 9 (Coming soon)
+Version 9 (Thursday, April 1st 2021 at 6:33 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the language switch section, adding support for 80 new languages, changing the formatting, and adding a few precautions
+
+> * Updated the software status section
+
+> * Updated the contacts section
+
+> * Added the Autism section
+
+> * Updated the index
+
+> * Updated the feature requests for GitHub section
+
+> * Updated the What I have collaborated on section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 9
 
@@ -1280,6 +1332,22 @@ Version 16 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 16
+
+Version 17 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 17
+
+Version 18 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 18
 
 !-->
 
