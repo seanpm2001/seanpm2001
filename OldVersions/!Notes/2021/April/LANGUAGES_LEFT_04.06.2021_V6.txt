@@ -1,0 +1,86 @@
+Afrikaans (V9) - Translated on: April 1st 2021
+Albanian (V9) - Translated on: April 1st 2021
+Amharic (V9) - Translated on: April 1st 2021
+Armenian (V9) - Translated on: April 1st 2021
+Azerbaijani (V9) - Translated on: April 1st 2021
+Basque (V9) - Translated on: April 2nd 2021
+Belarusian (V9) - Translated on: April 2nd 2021
+Bengali (V9) - Translated on: April 2nd 2021
+Bosnian (V9) - Translated on: April 2nd 2021
+Catalan (V9) - Translated on: April 2nd 2021
+Cebuano (V9) - Translated on: April 2nd 2021
+Chichewa (V9) - Translated on: April 2nd 2021
+Chinese (simplified) (V9) - Translated on: April 1st 2021
+Corsican (V9) - Translated on: April 2nd 2021
+Croatian (V9) - Translated on: April 2nd 2021
+Czech (V9) - Translated on: April 2nd 2021
+Danish (V9) - Translated on: April 2nd 2021
+Estonian (V9) - Translated on: April 2nd 2021
+Filipino (V9) - Translated on: April 3rd 2021
+Finnish (V9) - Translated on: April 3rd 2021
+Frisian (V9) - Translated on: April 3rd 2021
+Galician (V9) - Translated on: April 3rd 2021
+Gujarati (V9) - Translated on: April 3rd 2021
+Haitian Creole (V9) - Translated on: April 3rd 2021
+Hausa (V9) - Translated on: April 3rd 2021
+Hawaiian (V9) - Translated on: April 3rd 2021
+Hmong (V9) - Translated on: April 3rd 2021
+Hungarian (V9) - Translated on: April 3rd 2021
+Icelandic (V9) - Translated on: April 4th 2021
+Igbo (V9) - Translated on: April 4th 2021
+Indonesian (V9) - Translated on: April 4th 2021
+Irish (V9) - Translated on: April 4th 2021
+Italian (V9) - Translated on: April 4th 2021
+Javanese (V9) - Translated on: April 1st 2021
+Kannada (V9) - Translated on: April 5th 2021
+Kazakh (V9) - Translated on: April 5th 2021
+Khmer (V9) - Translated on: April 5th 2021
+Kinyarwanda (V9) - Translated on: April 5th 2021
+Kurdish (Kurmanji) (V9) - Translated on: April 5th 2021
+Kyrgyz (V9) - Translated on: April 5th 2021
+Lao (V9) - Translated on: April 5th 2021
+Latin (V9) - Translated on: April 5th 2021
+Latvian (V9) - Translated on: April 5th 2021
+Lithuanian (V9) - Translated on: April 5th 2021
+Luxembourgish (V9) - Translated on: April 5th 2021
+Macedonian (V9) - Translated on: April 6th 2021
+Malagasy (V9) - Translated on: April 6th 2021
+Malay (V9) - Translated on: April 6th 2021
+Malayalam (V9) - Translated on: April 6th 2021
+Maltese (V9) - Translated on: April 6th 2021
+Maori (V9) - Translated on: April 6th 2021
+Marathi (V9) - Translated on: April 6th 2021
+Mongolian (V9) - Translated on: April 6th 2021
+Myanmar (Burmese) (V9) - Translated on: April 6th 2021
+Nepali (V9) - Translated on: April 6th 2021
+Odia (Oriya) (V9) - Translated on: April 1st 2021
+Pashto
+Persian
+Portuguese
+Punjabi
+Romanian (V9) - Translated on: April 1st 2021
+Samoan
+Scots Gaelic
+Serbian
+Sesotho
+Shona
+Sinhala
+Slovak
+Slovenian
+Somali
+Sundanese
+Tajik
+Tamil
+Tatar
+Thai
+Turkmen
+Uyghur
+Uzbek
+Yoruba (V9) - Translated on: April 1st 2021
+
+Total translations (April 5th 2021): 58/79
+
+Errors in README file
+
+Italian does not have an associated English translation
+Latvian is not included in the link list, and does not have an associated English translation
