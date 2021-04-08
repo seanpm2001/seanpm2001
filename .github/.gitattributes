@@ -1,0 +1,31 @@
+# See: https://github.com/github/linguist/blob/master/docs/overrides.md and https://git-scm.com/docs/gitattributes
+
+# My test .gitattributes file for experiments
+
+# Overrides
+
+# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
+*.rb linguist-language=Java
+
+# Replace any whitespace in the language name with hyphens:
+*.glyphs linguist-language=OpenStep-Property-List
+
+# Detectable
+
+*.kicad_pcb linguist-detectable
+*.sch linguist-detectable
+tools/export_bom.py -linguist-detectable
+
+# Documentation
+
+project-docs/* linguist-documentation
+docs/formatter.rb -linguist-documentation
+
+# Generated code
+
+Api.elm linguist-generated
+
+# Vendored code
+
+special-vendored-path/* linguist-vendored
+jquery.js -linguist-vendored
