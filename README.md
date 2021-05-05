@@ -15,7 +15,9 @@
 
 📂 [DailyStatus](/DailyStatus/README.md) - An archive of my daily status posts.
 
-📂 [External](/Extermal/) - Stores external data (ProjectWiki, other)
+📂 [Extermal](/Extermal/) - Stores external data (ProjectWiki, other)
+
+📂 [External](/External/) - Stores external data (ProjectWiki, other) this time with the correct name
 
 📂 [FFTechSupport](/FFTechSupport/) - Stores emergency tech support data, originally for Firefox.
 
@@ -37,9 +39,13 @@
 
 📂 [Schedule](/Schedule/) - A collection of my schedules.
 
+📂 [Special](/Special/) - Stores special project data
+
 ---
 
 📜 [.gitignore](.gitignore) - A random .gitignore file.
+
+📜 [.readme_update_plans.md](.readme_update_plans.md) - For plans regarding updating the README file (starting with version 9)
 
 📜 [CONTRIBUTING.md](CONTRIBUTING.md) - The `CONTRIBUTING.md` file for this project, containing info on how you can contribute.
 
@@ -111,6 +117,10 @@ Here are some ideas to get you started:
 !-->
 
 I joined GitHub on May 25th 2020 to get my many projects out there. I am skilled in computer programming, and I have many interests. [Learn more about me here](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
+
+See my year in review for:
+
+[Year 1 (2020-2021)](/Special/Year-in-Review/2020-2021/) [Year 2 (2021-2022) **coming soon**](/Special/Year-in-Review/2021-2022/) 
 
 ***
 
@@ -252,13 +262,21 @@ I joined GitHub on May 25th 2020 to get my many projects out there. I am skilled
 
 [23.0 - Teams: green](#Green-team)
 
-[24.0 - File info](#File-info)
+[24.0 - Computer user type](#Computer-user-type)
 
-[25.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+[25.0 - Education](#Education)
 
-[26.0 - Footer](#Footer)
+[26.0 - Special](#Special)
 
-> [26.9 - End of file](#End-of-file)
+> [26.0.1 - Skyline](#Skyline)
+
+[27.0 - File info](#File-info)
+
+[28.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+
+[29.0 - Footer](#Footer)
+
+> [29.9 - End of file](#End-of-file)
 
 ***
 
@@ -1047,17 +1065,157 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ***
 
+## Computer user type
+
+- [ ] Low usage - I use the computer very infrequently
+
+- [ ] Novice - I use the computer sometimes
+
+- [ ] Average - I use the computer at an average usage
+
+- [ ] Savvy - I use the computer in a Savvy way
+
+- [ ] Power user - I use the computer heavily, but not in a savvy way
+
+- [x] Power user + savvy - I am the type of computer user who uses the computer constantly (over 8 hours per day) and I am extremely tech savvy and experienced. I also use the computer and push it to its very limits at all times of day, wearing down even the most durable computers in less than a year.
+
+***
+
+## Education
+
+I have completed primary (pre-school, Elementary School) and secondary education (Middle School, High School) I have not yet attempted tertiary education (College/University) because I feel it is too expensive in the US and wouldn't suit me well. I would like to push for a PhD, but I would have to move to Germany, France, Wales, Finland, Sweden, or Switzerland to do so. I am still working on my portfolio too.
+
+***
+
 Learn even more about me [here](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3).
+
+***
+
+## Special
+
+### Skyline
+
+My GitHub skyline (via skyline.github.com)
+
+## Skyline 2008
+
+[View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008)
+
+[View STL file](/Special/GitHub_Skyline/2008/seanpm2001-2008.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2009
+
+[View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009)
+
+[View STL file](/Special/GitHub_Skyline/2009/seanpm2001-2009.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2010
+
+[View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010)
+
+[View STL file](/Special/GitHub_Skyline/2010/seanpm2001-2010.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2011
+
+[View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011)
+
+[View STL file](/Special/GitHub_Skyline/2011/seanpm2001-2011.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2012
+
+[View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012)
+
+[View STL file](/Special/GitHub_Skyline/2012/seanpm2001-2012.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2013
+
+[View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013)
+
+[View STL file](/Special/GitHub_Skyline/2013/seanpm2001-2013.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2014
+
+[View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014)
+
+[View STL file](/Special/GitHub_Skyline/2014/seanpm2001-2014.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2015
+
+[View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015)
+
+[View STL file](/Special/GitHub_Skyline/2015/seanpm2001-2015.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2016
+
+[View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016)
+
+[View STL file](/Special/GitHub_Skyline/2016/seanpm2001-2016.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2017
+
+[View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017)
+
+[View STL file](/Special/GitHub_Skyline/2017/seanpm2001-2017.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2018
+
+[View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018)
+
+[View STL file](/Special/GitHub_Skyline/2018/seanpm2001-2018.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2019
+
+**Note: no data for this year, I started in 2020.**
+
+[View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019)
+
+[View STL file](/Special/GitHub_Skyline/2019/seanpm2001-2019.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+## Skyline 2020
+
+[View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020)
+
+[View STL file](/Special/GitHub_Skyline/2020/seanpm2001-2020.stl)
+
+## Skyline 2021
+
+[View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021)
+
+[View STL file](/Special/GitHub_Skyline/2021/seanpm2001-2021.stl)
 
 ***
 
 ### File info
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown (*.md)`
 
-File version: `9 (Thursday, April 1st 2021 at 6:33 pm)`
+**File version:** `10 (Wednesday, May 5th 2021 at 2:45 pm)`
 
-Line count (including blank lines and compiler line): `1,369`
+**Line count (including blank lines and compiler line):** `1,555`
 
 ***
 
@@ -1277,11 +1435,27 @@ Version 9 (Thursday, April 1st 2021 at 6:33 pm)
 
 > * No other changes in version 9
 
-Version 10 (Coming soon)
+Version 10 (Wednesday, May 5th 2021 at 2:45 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the directory list
+
+> * Added the computer user type section
+
+> * Added the education section
+
+> * Added the special section
+
+> > * Added the GitHub skyline subsection
+
+> * Updated the intro section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the index
 
 > * No other changes in version 10
 
@@ -1348,6 +1522,22 @@ Version 18 (Coming soon)
 > * Coming soon
 
 > * No other changes in version 18
+
+Version 19 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 19
+
+Version 20 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 20
 
 !-->
 
