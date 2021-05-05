@@ -1213,19 +1213,22 @@ My GitHub skyline (via skyline.github.com)
 
 **File type:** `Markdown (*.md)`
 
-**File version:** `10 (Wednesday, May 5th 2021 at 2:45 pm)`
+**File version:** `11 (Wednesday, May 5th 2021 at 2:56 pm)`
 
-**Line count (including blank lines and compiler line):** `1,555`
+**Line count (including blank lines and compiler line):** `1,578`
 
 ***
 
 ### File version history
 
-This section is commented out to enable better scrolling. Fork/download the project to view the source code, or "view raw" to see the file history
+<!-- This section is commented out to enable better scrolling. Fork/download the project to view the source code, or "view raw" to see the file history !-->
 
-<!--
+<details>
+  <summary><H1>View file history (Click/tap here)</H1></summary>
 
-Version 1 (Friday, August 21st 2020 at 4:39 pm)
+***
+
+**Version 1 (Friday, August 21st 2020 at 4:39 pm)**
 
 > Changes:
 
@@ -1249,7 +1252,7 @@ Version 1 (Friday, August 21st 2020 at 4:39 pm)
 
 > * No other changes in version 1
 
-Version 2 (Thursday, September 17th 2020 at 7:20 pm)
+**Version 2 (Thursday, September 17th 2020 at 7:20 pm)**
 
 > Changes:
 
@@ -1269,7 +1272,7 @@ Version 2 (Thursday, September 17th 2020 at 7:20 pm)
 
 > * No other changes in version 2
 
-Version 3 (Sunday, November 29th 2020 at 3:50 pm)
+**Version 3 (Sunday, November 29th 2020 at 3:50 pm)**
 
 > Changes:
 
@@ -1289,7 +1292,7 @@ Version 3 (Sunday, November 29th 2020 at 3:50 pm)
 
 > * No other changes in version 3
 
-Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)
+**Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)**
 
 > Changes:
 
@@ -1305,7 +1308,7 @@ Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)
 
 > * No other changes in version 4
 
-Version 5 (Wednesday, January 13th 2021 at 2:56 pm)
+**Version 5 (Wednesday, January 13th 2021 at 2:56 pm)**
 
 > Changes:
 
@@ -1319,7 +1322,7 @@ Version 5 (Wednesday, January 13th 2021 at 2:56 pm)
 
 > * No other changes in version 5
 
-Version 6 (Thursday, March 4th 2021 at 3:30 pm)
+**Version 6 (Thursday, March 4th 2021 at 3:30 pm)**
 
 > Changes:
 
@@ -1345,7 +1348,7 @@ Version 6 (Thursday, March 4th 2021 at 3:30 pm)
 
 > * No other changes in version 6
 
-Version 7 (Saturday, March 27th 2021 at 8:38 pm)
+**Version 7 (Saturday, March 27th 2021 at 8:38 pm)**
 
 > Changes:
 
@@ -1385,13 +1388,13 @@ Version 7 (Saturday, March 27th 2021 at 8:38 pm)
 
 > * Added the green team section
 
-This update was designed for a family member who has never used GitHub before. This update is dedicated to them. I am working on making this README a portal to everything I offer.
+> This update was designed for a family member who has never used GitHub before. This update is dedicated to them. I am working on making this README a portal to everything I offer.
 
-This update has taken 3 days to make, along with a long procrastination period
+> This update has taken 3 days to make, along with a long procrastination period
 
 > * No other changes in version 7
 
-Version 8 (Wednesday, March 31st 2021 at 4:08 pm)
+**Version 8 (Wednesday, March 31st 2021 at 4:08 pm)**
 
 > Changes:
 
@@ -1411,7 +1414,7 @@ Version 8 (Wednesday, March 31st 2021 at 4:08 pm)
 
 > * No other changes in version 8
 
-Version 9 (Thursday, April 1st 2021 at 6:33 pm)
+**Version 9 (Thursday, April 1st 2021 at 6:33 pm)**
 
 > Changes:
 
@@ -1435,7 +1438,7 @@ Version 9 (Thursday, April 1st 2021 at 6:33 pm)
 
 > * No other changes in version 9
 
-Version 10 (Wednesday, May 5th 2021 at 2:45 pm)
+**Version 10 (Wednesday, May 5th 2021 at 2:45 pm)**
 
 > Changes:
 
@@ -1459,15 +1462,19 @@ Version 10 (Wednesday, May 5th 2021 at 2:45 pm)
 
 > * No other changes in version 10
 
-Version 11 (Coming soon)
+**Version 11 (Wednesday, March 5th 2021 at 2:56 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the file info section
+
+> * Updated the file history section
+
+> > * Big experimental change: file history is now in a dropdown, and is no longer commented out. Users viewing my profile can now see the file history without viewing the file source.
 
 > * No other changes in version 11
 
-Version 12 (Coming soon)
+**Version 12 (Coming soon)**
 
 > Changes:
 
@@ -1475,7 +1482,7 @@ Version 12 (Coming soon)
 
 > * No other changes in version 12
 
-Version 13 (Coming soon)
+**Version 13 (Coming soon)**
 
 > Changes:
 
@@ -1483,7 +1490,7 @@ Version 13 (Coming soon)
 
 > * No other changes in version 13
 
-Version 14 (Coming soon)
+**Version 14 (Coming soon)**
 
 > Changes:
 
@@ -1491,7 +1498,7 @@ Version 14 (Coming soon)
 
 > * No other changes in version 14
 
-Version 15 (Coming soon)
+**Version 15 (Coming soon)**
 
 > Changes:
 
@@ -1499,7 +1506,7 @@ Version 15 (Coming soon)
 
 > * No other changes in version 15
 
-Version 16 (Coming soon)
+**Version 16 (Coming soon)**
 
 > Changes:
 
@@ -1507,7 +1514,7 @@ Version 16 (Coming soon)
 
 > * No other changes in version 16
 
-Version 17 (Coming soon)
+**Version 17 (Coming soon)**
 
 > Changes:
 
@@ -1515,7 +1522,7 @@ Version 17 (Coming soon)
 
 > * No other changes in version 17
 
-Version 18 (Coming soon)
+**Version 18 (Coming soon)**
 
 > Changes:
 
@@ -1523,7 +1530,7 @@ Version 18 (Coming soon)
 
 > * No other changes in version 18
 
-Version 19 (Coming soon)
+**Version 19 (Coming soon)**
 
 > Changes:
 
@@ -1531,7 +1538,7 @@ Version 19 (Coming soon)
 
 > * No other changes in version 19
 
-Version 20 (Coming soon)
+**Version 20 (Coming soon)**
 
 > Changes:
 
@@ -1539,7 +1546,23 @@ Version 20 (Coming soon)
 
 > * No other changes in version 20
 
-!-->
+**Version 21 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 21
+
+**Version 22 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 22
+
+</details>
 
 ***
 
