@@ -78,17 +78,28 @@
 
 **This README file is now being aimed to be a portal to everything I offer online. It is a work-in-progress, and is not yet fully complete. It is also something that will always be gradually updated every once in a while.**
 
+<details open>
+	<summary>[Click/tap here to expand/collapse info about my senior photo]</summary>
+	
+***
+	
 ![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
 
 Current profile picture as of March 4th 2021 [Click here to download in full quality (JPEG)](SeniorPhotoFullQuality.jpeg) [Click here to see past profile pictures](#Profile-picture-history)
 
 If you have been sent here through a link through SMS (text messaging) congratulations! You are a close friend, and one of 73 people/bots who have access to my phone number and have been approved by me. If you would like, you can take a quick look at my [texting guidelines](https://github.com/seanpm2001/SMS-Messaging-with-Sean), or to put it simply: don't spam, don't share my number, and feel free to message me and send me anything at any time (even midnight, or 3:22 am) I likely won't respond immediately, but I will get to you when I am awake.
 
+</details>
+
+***
+
 ## Welcome to my GitHub profile <!--👋!-->
 
 _Read this description in a different language:_
 
 **Current language is:** `English (US)` _(translations may need to be corrected to fix English replacing the correct language)_
+
+***
 
 <details open>
 <summary><H3>[Click/tap here to expand/collapse the language switcher list]</H3></summary>
@@ -307,11 +318,21 @@ My major projects include:
 
 [MEDOS](https://github.com/seanpm2001/MEDOS/) - An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed.
 
+<details>
+	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>
+	
 ![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/QMDS.png)
+
+</details>
 
 [Meadows](https://github.com/seanpm2001/Meadows/) - My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing/
 
+<details>
+	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>
+	
 ![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/Artikel.png)
+
+</details>
 
 [Journaling](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: May 15th 2040) an audio collection, a set of personal projects, and a set of image repostories. A listing is unavailable as of September 17th 2020.
 
@@ -325,9 +346,16 @@ My major projects include:
 
 [SNU 2D Programming tools](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - The most developed programming module for the SNU Website. Want to see all the modules separately? [This organization has all of them as separate repositories](https://github.com/SNU-Programming-Tools)
 
+***
+
 ## Key projects by megaproject category
 
 This is a sorted list of key projects by mega project categories.
+
+<details>
+	<summary>[Click/tap here to expand/collapse this list]</summary>
+	
+	***
 
 ### Degoogle-your-life project
 
@@ -406,6 +434,10 @@ This is a sorted list of key projects by mega project categories.
 [BluPhone](https://github.com/seanpm2001/BluPhone) - BluPhone is a powerful Bluetooth device client for Linux, MacOS, Android, iOS, Windows, FreeBSD, and more. It gives you tons of control over any bluetooth headphone set you connect.
 
 [LinkLax](https://github.com/seanpm2001/LinkLax) - LinkLax is a very colorful and beautiful URL (hyperlink) styler program that can make your web browsing experience much more colorful.
+
+</details>
+
+***
 
 **All organizations** _(As of March 27th 2021)_
 
@@ -502,7 +534,12 @@ This Gist helps with:
 
 ***
 
+<details>
+	<summary>The Python logo was hidden due to formatting errors. Click/tap here to expand/collapse the Python logo</summary>
+	
 ![PythonLogo.png](/Media/PythonLogo.png)
+
+</details>
 
 ## Free software isn't free to develop
 
@@ -541,6 +578,11 @@ My list of supported organizations include:
 ## Frequently Asked Questions (FAQ)
 
 Since nobody has asked any questions yet, I will list some common ones here:
+
+<details>
+	<summary>[Click/tap here to expand/collapse the Frequently Asked Questions board list]</summary>
+	
+	***
 
 ### Why is Python your favorite programming language
 
@@ -622,11 +664,16 @@ Also, a few projects are written in Go! (a language that came out over 4 years b
 
 Since Go! (2004) and Go (2008/2009) both use the .go file extension, GitHub's lingust feature identifies it as Go instead of Go! Both languages vary significantly in Syntax.
 
+</details>
+
 ***
 
 ## My current setup
 
 This section is for information regarding my current work setup (as of March 26th 2021)
+
+<details>
+	<summary>[Click/tap here to expand/collapse the list about my current hardware setup]</summary>
 
 ### Current hardware
 
@@ -646,7 +693,7 @@ Gedit
 
 GNOME Clocks
 
-Mozilla Firefox 84.0.1 (a bit outdated)
+Mozilla Firefox 84.0.1 (a bit outdated) - on laptop 1, Mozilla Firefox 88.0 (on laptop 2)
 
 GNOME Files/Nautilus
 
@@ -656,15 +703,15 @@ GNOME Extensions
 
 GNOME Settings
 
-LibreOffice 6.4 {
+LibreOffice 6.4.6.2 {
 
-	LibreOffice Writer 6.4 (complete open-source alternative to Microsoft Word)
+	LibreOffice Writer 6.4.6.2 (complete open-source alternative to Microsoft Word)
 	
-	LibreOffice Calc 6.4 (complete open-source alternative to Microsoft Excel)
+	LibreOffice Calc 6.4.6.2 (complete open-source alternative to Microsoft Excel)
 	
-	LibreOffice Impress 6.4 (complete open-source alternative to Microsoft PowerPoint)
+	LibreOffice Impress 6.4.6.2 (complete open-source alternative to Microsoft PowerPoint)
 	
-	LibreOffice Base 6.4 (complete open-source alternative to Microsoft Access)
+	LibreOffice Base 6.4.6.2 (complete open-source alternative to Microsoft Access)
 
 }
 
@@ -687,6 +734,8 @@ Notepad++ (running on WINE)
 Ubuntu 20.04 LTS
 
 Other/unknown
+
+</details>
 
 ***
 
@@ -714,7 +763,7 @@ It isn't exact, I have many interests. What I am always learning include:
 
 * Computer Programming and computer history
 
-* The languages of the world
+* The languages of the world (linguistics)
 
 * Virtualization
 
@@ -733,6 +782,11 @@ It isn't exact, I have many interests. What I am always learning include:
 ### What I'm looking to collaborate on
 
 I currently need a technical job. I am willing to work on any ethical computer project, as long as it is written in a language I know well (Python, HTML, Java, JavaScript, CSS, Lisp, Markdown, XML, Shell, or any/all of the ones listed)
+
+<details>
+	<summary>[Click/tap here to expand/collapse further collaboration info]</summary>
+	
+***
 
 Companies I refuse to work for include:
 
@@ -764,13 +818,30 @@ Companies I am currently considering include:
 
 > No other companies currently listed
 
+</details>
+
+***
+
 #### What I have collaborated on
 
 I have collaborated on a few projects on GitHub, including
 
+<details>
+	<summary>[Click/tap here to expand/collapse the list of projects I have helped develop]</summary>
+	
+***
+	
 ![/.github/projects/external/1/LinCity_NG.png](/.github/projects/external/1/LinCity_NG.png) - [LinCity NG](https://github.com/lincity-ng/lincity-ng/) - 100% issues (2020) - [1](https://github.com/lincity-ng/lincity-ng/issues/46)
 
 ![/.github/projects/external/1/Ruffle_vector_logo.svg](/.github/projects/external/1/Ruffle_vector_logo.svg) [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - 100% code review (2021) [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177) [7](https://github.com/ruffle-rs/ruffle/pull/3819)
+
+![/Media/Firefox3.5_Logo.png](/Media/Firefox3.5_Logo.png) [Firefox Color](https://github.com/mozilla/FirefoxColor/) 100% issues (2021) [1](https://github.com/mozilla/FirefoxColor/issues/971/) (I am responsible for helping to push the change of adding better documentation to the project for non-extension developers)
+
+[Nea/Markdown++](https://github.com/nea/MarkdownViewerPlusPlus) 100% issues (2021) [1](https://github.com/nea/MarkdownViewerPlusPlus/issues/138)
+
+[Jmdugan/Blocklists](https://github.com/jmdugan/blocklists) 100% issues (2021) [1](https://github.com/jmdugan/blocklists/issues/80)
+
+</details>
 
 ***
 
@@ -982,6 +1053,11 @@ However, there are less fortunate people with Autism who have much more problems
 
 ### Profile picture history
 
+<details>
+	<summary>[Click/tap here to expand/collapse the list of my GitHub profile picture history]</summary>
+	
+	***
+	
 Here is a history of my GitHub profile picture:
 
 ![Original profile picture failed to load. Click/tap here to attempt to view it](/Media/65933340.png)
@@ -996,15 +1072,22 @@ Original (Windows Explorer transparency glitched version)
 
 Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
 
+</details>
+
 ***
 
 ### Linux
+
+<details>
+	<summary>[Click/tap here to expand/collapse my Linux story]</summary>
 
 I was a fan of Windows up until Windows 10. I began to try to switch to Linux from 2018 to 2020. On July 9th 2020, I finally switched to Linux, getting my first Dell laptop with Linux pre-installed.
 
 ![20200709_124359.jpg](/Media/20200709_124359.jpg)
 
 My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
+
+</details>
 
 ***
 
@@ -1236,9 +1319,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md)`
 
-**File version:** `12 (Sunday, May 9th 2021 at 8:13 pm)`
+**File version:** `13 (Tuesday, May 11th 2021 at 6:33 pm)`
 
-**Line count (including blank lines and compiler line):** `1,621`
+**Line count (including blank lines and compiler line):** `1,728`
 
 ***
 
@@ -1509,11 +1592,19 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 12
 
-**Version 13 (Coming soon)**
+**Version 13 (Tuesday, May 11th 2021 at 6:33 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Fixed several formatting errors
+
+> * Added many more dropdowns
+
+> * Tons of text updates
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 13
 
@@ -1604,6 +1695,22 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * Coming soon
 
 > * No other changes in version 24
+
+**Version 25 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 25
+
+**Version 26 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 26
 
 </details>
 
