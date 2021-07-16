@@ -17,7 +17,8 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 # WikiText (MediaWiki)
-*.wiki linguist-detectable=true
+# Switched off, as it became a dominant language. Switch back on when you apply at least 2000 more lines of Python.
+*.wiki linguist-detectable=false
 *.wiki linguist-documentation=false
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
@@ -26,6 +27,6 @@
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 1 (Sunday, July 11th 2021 at 3:18 pm)
-# Line count (including blank lines and compiler line): 32
+# File version: 2 (Thursday, July 15th 2021 at 6:25 pm)
+# Line count (including blank lines and compiler line): 33
 # End of script
