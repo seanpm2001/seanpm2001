@@ -95,6 +95,12 @@ If you have been sent here through a link through SMS (text messaging) congratul
 
 ## Welcome to my GitHub profile <!--👋!-->
 
+### Administrator section
+
+[Blocklist](https://github.com/seanpm2001/Blocklist) - For blocking sensitive projects of mine that are not appropriate in certain schools, businesses, countries, or territories, so you don't have to block the other 1000+ projects or worse, GitHub itself.
+
+### Read in a different language
+
 _Read this description in a different language:_
 
 **Current language is:** `English (US)` _(translations may need to be corrected to fix English replacing the correct language)_
@@ -150,13 +156,17 @@ See my year in review for:
 
 [00.0 - Top](#Top)
 
-> [00.1 - GitHub:seanpm2001/seanpm2001](#GitHub:seanpm2001/seanpm2001)
+> [00.1 - GitHub:seanpm2001/seanpm2001](#seanpm2001/seanpm2001)
 
 > [00.2 - README Usage](#README-Usage)
 
 > [00.3 - Title](#Welcome-to-my-GitHub-profile)
 
-> [00.4 - Index](#Index)
+> [00.4 - Administrator section](#Administrator-section)
+
+> [00.5 - ](#Read-in-a-different-language)
+
+> [00.6 - Index](#Index)
 
 [01.0 - What I'm currently working on](#What-I'm-currently-working-on)
 
@@ -279,6 +289,8 @@ See my year in review for:
 > [21.0.7 - Marine biology](#Marine-biology)
 
 > [21.0.8 - Journaling](#Journaling)
+
+> [21.0.9 - Vexillology](#Vexillology)
 
 [22.0 - Teams: blue](#Blue-team)
 
@@ -441,6 +453,8 @@ This is a sorted list of key projects by mega project categories.
 
 **All organizations** _(As of March 27th 2021)_
 
+This list is not maintained. For complete documentation of my organizations, see the [GitHub Organization Info](https://github.com/seanpm2001/GitHub_Organization_Info)/ repository.
+
 <details>
 <summary><H3>[Click/tap here to expand/collapse this list]</H3></summary>
 
@@ -521,6 +535,8 @@ This is a sorted list of key projects by mega project categories.
 [Seanpm2001-datapacks](https://github.com/seanpm2001-datapacks)
 
 </details>
+
+Note: my organizations have multiple purposes, but most of them aim to serve as a categorized. collection of projects, or a homepage for a project.
 
 # Search my profile easier with [this helpful Gist](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe/)
 
@@ -715,9 +731,9 @@ LibreOffice 6.4.6.2 {
 
 }
 
-VirtualBox 6.1.10 (a bit outdated)
+VirtualBox 6.1.10 (a bit outdated) - Not currently in use
 
-Inkscape
+Inkscape - Not currently in use
 
 GIMP 2.10
 
@@ -725,11 +741,11 @@ Mari0 (possibly proprietary)
 
 Okular
 
-Typora (proprietary)
+Typora (proprietary) - No longer used
 
-Audacity 2.10
+Audacity 2.10 - No longer used
 
-Notepad++ (running on WINE)
+Notepad++ (running on WINE) - No longer used
 
 Ubuntu 20.04 LTS
 
@@ -999,6 +1015,18 @@ I am on the following platforms
 
 * Other?
 
+![no-facebook.svg](/Media/no-facebook.svg)
+
+<details><summary><H4>Transcript (if the image fails to load)</H4></summary>
+
+You won't find me on Facebook
+
+Not F'd
+
+</details>
+
+This sticker is supported by [Richard Stallman](https://stallman.org/) to protest Facebook, Instagram, WhatsApp, and other Facebook products.
+
 [Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
 
 [Yelp](#Identit-theft) - Link is incomplete
@@ -1031,11 +1059,15 @@ Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Tota
 
 ### Personal
 
-I have some personal opinions on GitHub. I am working on keeping them contained inside 2 repositories:
+I have some personal opinions on GitHub. I am working on keeping them contained inside 3 repositories:
 
-[Opinions](https://github.com/seanpm2001/Opinions) - Opinions are documented here
+[Opinions](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
 
-[Politics](https://github.com/seanpm2001/Politics) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
+[Politics](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
+
+> Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
+
+[Sexuality center](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
 
 On GitHub, I have a lot of other personal projects, under the category of a life archive project, which I have been working on extra hard since 2016.
 
@@ -1115,7 +1147,6 @@ My recommended formats are SVG (60% recommended) and PNG (40% recommended) for i
 
 This is a list of my other hobbies
 
-
 ### Photography
 
 I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
@@ -1151,6 +1182,32 @@ I recently got back into Marine Biology on March 23rd 2021, and have been learni
 ### Journaling
 
 I keep a daily journal. I have been on and off with this for most of my childhood, until sticking with it every day since September 26th 2016.
+
+The journaling project is part of my life archive project, a digital archive of my entire life.
+
+### Vexillology
+
+![fotw-pgr.gif](/Media/fotw-pgr.gif)
+
+This is the flag of the Internet, by [FOTW.info](https://www.fotw.info/flags/fotwprfl.html)
+
+Vexillology is the research and study of flags. I have an interest in Vexillology and I enjoy reading about, documenting, and creating flags.
+
+Useful links for if you want to read about flags:
+
+[fotw.info](https://www.fotw.info/flags/index.html) - The top Vexillology website, and also approved by [FIAV](https://fiav.org/) the top Vexillology group
+
+[fiav.org](https://fiav.org/) - Fédération internationale des associations vexillologiques, International Federation of Vexillological Associations, Internationale Föderation Vexillologis, the top group for vexillology
+
+[Reddit: r/vexillology](https://www.reddit.com/r/vexillology/) - Reddits serious forum for flag discussion
+
+[Reddit: r/vexillologycirclejerk](https://www.reddit.com/r/vexillologycirclejerk/) - Reddits humor repository for non-serious, comedic flag discussion and discourse. Memes allowed here.
+
+Some other cool sites:
+
+[Flagwaver (krikinoid.github.io)](https://krikienoid.github.io/flagwaver/) - Turn any image into a waving flag
+
+> [View the source code on GitHub](https://github.com/krikienoid/flagwaver/)
 
 ***
 
@@ -1319,9 +1376,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md)`
 
-**File version:** `13 (Tuesday, May 11th 2021 at 6:33 pm)`
+**File version:** `14 (Friday, August 6th 2021 at 3:13 pm)`
 
-**Line count (including blank lines and compiler line):** `1,728`
+**Line count (including blank lines and compiler line):** `1,820`
 
 ***
 
@@ -1608,11 +1665,29 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 13
 
-**Version 14 (Coming soon)**
+**Version 14 (Friday, August 6th 2021 at 3:13 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the top section
+
+> * Updated the index
+
+> * Referenced 2 new image files
+
+> * Added the administrators section
+
+> * Updated the organizations section
+
+> * Added the vexillology section
+
+> * Updated the identity theft section
+
+> * Updated the personal section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 14
 
@@ -1711,6 +1786,23 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * Coming soon
 
 > * No other changes in version 26
+
+**Version 27 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 27
+
+**Version 28 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 28
+
 
 </details>
 
