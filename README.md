@@ -1141,6 +1141,8 @@ I am open for accepting submissions for project artwork. I would like to receive
 
 My recommended formats are SVG (60% recommended) and PNG (40% recommended) for images. Non-graphical submissions can be in any format, as long as it is an open format and is not proprietary (for example: Jade programs are proprietary and currently can't be accepted)
 
+[View my submission rules in better detail by clicking/tapping here](https://github.com/seanpm2001/Submissions/)
+
 ***
 
 ## Other hobbies
@@ -1149,21 +1151,33 @@ This is a list of my other hobbies
 
 ### Photography
 
+![CameraIcon2.png](/Media/CameraIcon2.png)
+
 I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
 
 ### Swimming
+
+![WaterDropletCool.png](/Media/WaterDropletCool.png)
 
 I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
 
 ### Gaming
 
+![VideoGameController_Icon1.png](/Media/VideoGameController_Icon1.png)
+
 I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
 
 ### Graphic design
 
-I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design glasses and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
+![GraphicDesignICON.png](/Media/GraphicDesignICON.png)
+
+I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
 
 ### Linguist
+
+![Linguistics1.jpeg](/Media/Linguistics1.jpeg)
+
+![Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg](/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg)
 
 I have been a linguist since my early childhood. I jokingly changed my middle name to `language` in my early childhood, but I think it would fit as a 2nd middle name.
 
@@ -1171,19 +1185,31 @@ I like the look and sound of various languages, whether they are human spoken or
 
 ### History buff
 
+![FortressBase.png](/Media/FortressBase.png)
+
 I am a history buff, with knowledge of history spanning back over 13.8 billion years ago (Big Bang) to the current day. I like to learn about history, and I have knowledge of a large assortment of eras and events, including extensive knowledge of things other than World War I or World War II (but I also still know a lot about the 2 world wars) for Earth history, my knowledge goes back to 8000 BCE in extensive detail, down to 27000 BCE in less detail, and mostly geological events before 27000 BCE. I like to learn all types of history, and not just the history of warfare.
 
 I owe my interest in history to my first High School history teacher, who was really enthusiastic about what he was teaching, and was just a general awesome and nice history teacher. I would no doubt make him teacher of the year for that year of High School. Past history classes never got me too into the subject of history, but this one really opened my mind to history.
 
 ### Marine biology
 
+![BlackMooreGoldfish.jpeg](/Media/BlackMooreGoldfish.jpeg)
+
 I recently got back into Marine Biology on March 23rd 2021, and have been learning the subject part-time again. I find it really calming and nostalgic.
 
+[Learn more about it here](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/tree/main/Marine%20Biology)
+
 ### Journaling
+
+![JournalIcon1.png](/Media/JournalIcon1.png)
 
 I keep a daily journal. I have been on and off with this for most of my childhood, until sticking with it every day since September 26th 2016.
 
 The journaling project is part of my life archive project, a digital archive of my entire life.
+
+As of August 7th 2021, the main journal has over 7 million words. I average between 1358-2500/2500-3600/3600-13000 words per day (depending on what happens that day and how much I have to talk about)
+
+I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain related media, and certain templates are public, but several terabytes of data is private (the full journal takes up over 8 gigabytes of space, just for the journal, due to usage of images over a ~5 year period)
 
 ### Vexillology
 
@@ -1376,9 +1402,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md)`
 
-**File version:** `14 (Friday, August 6th 2021 at 3:13 pm)`
+**File version:** `15 (Saturday, August 7th 2021 at 2:13 pm)`
 
-**Line count (including blank lines and compiler line):** `1,820`
+**Line count (including blank lines and compiler line):** `1,873`
 
 ***
 
@@ -1691,11 +1717,21 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 14
 
-**Version 15 (Coming soon)**
+**Version 15 (Saturday, August 7th 2021 at 2:13 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the submissions section
+
+> * Added new icons for the hobbies section
+
+> * Updated the hobbies section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
 
 > * No other changes in version 15
 
@@ -1803,6 +1839,21 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 28
 
+**Version 29 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 29
+
+**Version 30 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 30
 
 </details>
 
@@ -1813,6 +1864,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 This is a long extended profile description. You have gotten through it. Below is my commit activity and featured projects and Gists. All that has already been listed in this description.
 
 You have reached the end of this page.
+
+( [Return to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
 
 ### End of file
 
