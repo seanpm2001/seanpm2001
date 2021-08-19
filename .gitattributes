@@ -17,9 +17,25 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 # WikiText (MediaWiki)
-# Switched off, as it became a dominant language. Switch back on when you apply at least 2000 more lines of Python.
-*.wiki linguist-detectable=false
+*.wiki linguist-detectable=true
 *.wiki linguist-documentation=false
+# CSV (Comma Separated Values)
+*.csv linguist-detectable=true
+*.csv linguist-documentation=false
+# Python (duplicate, as it is already detected by GitHub Linguist by default)
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+# HTML (duplicate, as it is already detected by GitHub Linguist by default)
+*.htm linguist-detectable=true
+*.htm linguist-documentation=false
+*.html linguist-detectable=true
+*.html linguist-documentation=false
+# Shell (duplicate, as it is already detected by GitHub Linguist by default)
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
+# Makefile (duplicate, as it is already detected by GitHub Linguist by default)
+*.mk linguist-detectable=true
+*.mk linguist-documentation=false
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
@@ -27,6 +43,6 @@
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 2 (Thursday, July 15th 2021 at 6:25 pm)
-# Line count (including blank lines and compiler line): 33
+# File version: 3 (Wednesday, August 18th 2021 at 6:55 pm)
+# Line count (including blank lines and compiler line): 49
 # End of script
