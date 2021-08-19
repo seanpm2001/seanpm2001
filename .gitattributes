@@ -17,7 +17,8 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 # WikiText (MediaWiki)
-*.wiki linguist-detectable=true
+# Turned back off, I now remember why I originally had it disabled. - August 18th 2021
+*.wiki linguist-detectable=false
 *.wiki linguist-documentation=false
 # CSV (Comma Separated Values)
 *.csv linguist-detectable=true
@@ -43,6 +44,6 @@
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 3 (Wednesday, August 18th 2021 at 6:55 pm)
-# Line count (including blank lines and compiler line): 49
+# File version: 3 (Wednesday, August 18th 2021 at 6:58 pm)
+# Line count (including blank lines and compiler line): 50
 # End of script
