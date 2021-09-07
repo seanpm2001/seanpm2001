@@ -12,7 +12,8 @@ issueLabel_10: color10: "#A33D33" title10: "cantfix" description10: "Can't fix t
 issueLabel_11: color11: "#006b75" title11: "Daily status post" description11: "One of Seans daily status posts."
 issueLabel_12: color12: "#82B57C" title12: "Donation issues" description12: "Issues related to donating (note that my Patreon isn't fully activated yet)"
 issueLabel_13: color13: "#92642F" title13: "Outdated link" description13: "When a link is outdated and rotting."
+issueLabel_14: color14: "#E99695" title14: "Question about Git" description14: "For my questions on Git."
 # Users can also create their own issue labels, and customize the color, title, and description
-# issueLabel_14: color10: "#000000" title14: "void" description14: "not yet created"
+# issueLabel_15: color10: "#000000" title15: "void" description15: "not yet created"
 # No known limit on # of issue labels
 # End of file
