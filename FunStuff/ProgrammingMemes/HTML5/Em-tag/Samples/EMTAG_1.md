@@ -21,11 +21,11 @@ _This meme was written in Gentoo, you have to compile it yourself._
 
 ## Template used
 
-![/FunStuff/ProgrammingMemes/HTML5/Em-tag/Template/EM_HTML.jpeg](FunStuff/ProgrammingMemes/HTML5/Em-tag/Template/EM_HTML.jpeg)
+![https://github.com/seanpm2001/seanpm2001/blob/master/FunStuff/ProgrammingMemes/HTML5/Em-tag/Template/EM_HTML.jpeg](https://github.com/seanpm2001/seanpm2001/blob/master/FunStuff/ProgrammingMemes/HTML5/Em-tag/Template/EM_HTML.jpeg)
 
 ## Version 1
 
-![/FunStuff/ProgrammingMemes/HTML5/Em-tag/EM_HTML_GIMP.png](EM_HTML_GIMP.png)
+![/FunStuff/ProgrammingMemes/HTML5/Em-tag/EM_HTML_GIMP.png](https://github.com/seanpm2001/seanpm2001/blob/master/FunStuff/ProgrammingMemes/HTML5/Em-tag/EM_HTML_GIMP.png)
 
 **Context:** _This meme was made with GIMP 2.10.28. I am sorry about it not looking good, I am still learning, and this one was a bit rushed. I couldn't resize the layers, and I couldn't crop them, as I made this in a rush. You can improve on it if needed._
 
