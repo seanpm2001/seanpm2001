@@ -1,0 +1,17 @@
+---
+name: Shell Lint
+
+on:
+  push:
+    paths:
+      - '**.sh'
+      - '!./.husky/**/*'
+
+jobs:
+  lint:
+    name: Lint
+    timeout-minutes: 3
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.4.0
+      - uses: bewuethr/shellcheck-action@v2.1
