@@ -6,9 +6,10 @@
 # and nothing else, no characters before, no characters after
 # Start of linguist script
 # YAML
-*.yml linguist-detectable=true
+# Temporarily removed due to excessive YAML usage
+*.yml linguist-detectable=false
 *.yml linguist-documentation=false
-*.yaml linguist-detectable=true
+*.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
 # ReStructuredText
 *.rst linguist-detectable=true
@@ -31,6 +32,14 @@
 *.htm linguist-documentation=false
 *.html linguist-detectable=true
 *.html linguist-documentation=false
+*.mhtm linguist-detectable=true
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=true
+*.mhtml linguist-documentation=false
+*.xhtm linguist-detectable=true
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=true
+*.xhtml linguist-documentation=false
 # Shell (duplicate, as it is already detected by GitHub Linguist by default)
 *.sh linguist-detectable=true
 *.sh linguist-documentation=false
@@ -41,9 +50,15 @@
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 3 (Wednesday, August 18th 2021 at 6:58 pm)
-# Line count (including blank lines and compiler line): 50
+# File version: 5 (Monday, 2021 December 20th at 4:25 pm)
+# Line count (including blank lines and compiler line): 65
 # End of script
