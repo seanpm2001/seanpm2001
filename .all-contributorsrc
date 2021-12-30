@@ -134,6 +134,15 @@
         "review",
         "mentoring"
       ]
+    },
+    {
+      "login": "ioistired",
+      "name": "ioistired",
+      "avatar_url": "https://avatars.githubusercontent.com/u/538336?v=4",
+      "profile": "https://github.com/ioistired",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
