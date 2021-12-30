@@ -212,6 +212,16 @@
         "review",
         "mentoring"
       ]
+    },
+    {
+      "login": "kaiwulf",
+      "name": "kai wuffy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4155390?v=4",
+      "profile": "http://www.kaico.biz",
+      "contributions": [
+        "review",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
