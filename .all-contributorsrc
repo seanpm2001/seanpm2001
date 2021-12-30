@@ -59,6 +59,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "NihalKarne",
+      "name": "Nihal Karne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34483500?v=4",
+      "profile": "https://www.linkedin.com/in/nihalkarne/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
