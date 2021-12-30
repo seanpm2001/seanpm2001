@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1887,6 +1887,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=all-contributors" title="Documentation">📖</a></td>
     <td align="center"><a href="http://composed.nu/peterhil"><img src="https://avatars.githubusercontent.com/u/70079?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter H.</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=peterhil" title="Code">💻</a> <a href="#design-peterhil" title="Design">🎨</a> <a href="#content-peterhil" title="Content">🖋</a></td>
     <td align="center"><a href="http://gaurpeeyush.github.io/PeeyushGaur/"><img src="https://avatars.githubusercontent.com/u/81735768?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peeyush Gaur</b></sub></a><br /><a href="#design-GaurPeeyush" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/channa-my"><img src="https://avatars.githubusercontent.com/u/3336451?v=4?s=100" width="100px;" alt=""/><br /><sub><b>channa-my</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=channa-my" title="Documentation">📖</a></td>
   </tr>
 </table>
 
