@@ -183,6 +183,15 @@
         "review",
         "mentoring"
       ]
+    },
+    {
+      "login": "madsmtm",
+      "name": "Mads Marquart",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10577181?v=4",
+      "profile": "https://github.com/madsmtm",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
