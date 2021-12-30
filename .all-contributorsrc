@@ -114,6 +114,16 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "Coriiander",
+      "name": "Cor Schols",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2283894?v=4",
+      "profile": "https://github.com/Coriiander",
+      "contributions": [
+        "review",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
