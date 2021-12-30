@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ^^ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
@@ -2326,6 +2326,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/caitmuenster"><img src="https://avatars.githubusercontent.com/u/23342476?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Caitlin Neiman</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=caitmuenster" title="Documentation">📖</a> <a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Acaitmuenster" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-caitmuenster" title="Mentoring">🧑‍🏫</a></td>
     <td align="center"><a href="https://github.com/madsmtm"><img src="https://avatars.githubusercontent.com/u/10577181?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mads Marquart</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Amadsmtm" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/kmeisthax"><img src="https://avatars.githubusercontent.com/u/108736?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kmeisthax</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Akmeisthax" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-kmeisthax" title="Mentoring">🧑‍🏫</a></td>
+    <td align="center"><a href="http://tilde.town/~herschel"><img src="https://avatars.githubusercontent.com/u/36278?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mike Welsh</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3AHerschel" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-Herschel" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
