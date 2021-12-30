@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1899,6 +1899,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Coriiander"><img src="https://avatars.githubusercontent.com/u/2283894?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cor Schols</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3ACoriiander" title="Reviewed Pull Requests">👀</a> <a href="#translation-Coriiander" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/uafr"><img src="https://avatars.githubusercontent.com/u/10113555?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wolfgang Becker</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Auafr" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-uafr" title="Mentoring">🧑‍🏫</a></td>
     <td align="center"><a href="https://github.com/ioistired"><img src="https://avatars.githubusercontent.com/u/538336?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ioistired</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Aioistired" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/torokati44"><img src="https://avatars.githubusercontent.com/u/288816?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TÖRÖK Attila</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Atorokati44" title="Reviewed Pull Requests">👀</a> <a href="#talk-torokati44" title="Talks">📢</a></td>
   </tr>
 </table>
 
