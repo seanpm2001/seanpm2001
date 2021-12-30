@@ -1,0 +1,125 @@
+# Start of script
+# I am going to keep trying on this until I get it right
+# @seanpm2001 is the global code owner for this project
+/// @seanpm2001
+/ @seanpm2001
+/* @seanpm2001
+* @seanpm2001
+# Directories at root
+/.github/ @seanpm2001
+/DailyStatus/ @seanpm2001
+/Extermal/ @seanpm2001
+/External/ @seanpm2001
+/External_Commits/ @seanpm2001
+/FFTechSupport/Jan22/ @seanpm2001
+/FunStuff/ @seanpm2001
+/GitHub_Commits/ @seanpm2001
+/Inspiration/MediaWiki/August2021/ @seanpm2001
+/JumpingText/ @seanpm2001
+/Kiosk/Family-Kiosk/2020/September/2nd/ @seanpm2001
+/Media/ @seanpm2001
+/Notes/ @seanpm2001
+/OldVersions/ @seanpm2001
+/Sandbox/ @seanpm2001
+/Schedule/ @seanpm2001
+/Special/ @seanpm2001
+# Files at root
+/.editorconfig @seanpm2001
+/.gitattributes @seanpm2001
+/.gitignore @seanpm2001
+/AUTHORS @seanpm2001
+/CITATION.cff @seanpm2001
+/CONTRIBUTING.md @seanpm2001
+/COPYINGL @seanpm2001
+/CREDITS @seanpm2001
+/DRM-free_label.en.svg @seanpm2001
+/INSTALL @seanpm2001
+/K.desktop @seanpm2001
+/LICENSE.txt @seanpm2001
+/PROJECT_LANG_1.py @seanpm2001
+/PROJECT_LANG_2.html @seanpm2001
+/README.md @seanpm2001
+/SECURITY.md @seanpm2001
+/SponsorButton.png @seanpm2001
+/desktop.ini @seanpm2001
+/makefile.mk @seanpm2001
+/.readme_update_plans.md @seanpm2001
+/SeniorPhotoFullQuality.jpeg @seanpm2001
+/SECURITY.md @seanpm2001
+# Individual file types
+*.txt @seanpm2001
+*.jpg @seanpm2001
+*.JPG @seanpm2001
+*.JPEG @seanpm2001
+*.jpeg @seanpm2001
+*.PNG @seanpm2001
+*.gif @seanpm2001
+*.GIF @seanpm2001
+*.md @seanpm2001
+*.mkd @seanpm2001
+*.mdown @seanpm2001
+*.markdown @seanpm2001
+*.e @seanpm2001
+*.png @seanpm2001
+*.bib @seanpm2001
+*.cff @seanpm2001
+*.svg @seanpm2001
+*.bib @seanpm2001
+*.mk @seanpm2001
+*.mak @seanpm2001
+*.make @seanpm2001
+*.yml @seanpm2001
+*.YAML @seanpm2001
+*.srt @seanpm2001
+*.ogg @seanpm2001
+*.mp3 @seanpm2001
+*.mp4 @seanpm2001
+*.mkv @seanpm2001
+*.oga @seanpm2001
+*.wmv @seanpm2001
+*.txt @seanpm2001
+*.xspf @seanpm2001
+*.json @seanpm2001
+*.htm @seanpm2001
+*.html @seanpm2001
+*.aiff @seanpm2001
+*.alac @seanpm2001
+*.flac @seanpm2001
+*.m4a @seanpm2001
+*.sh @seanpm2001
+*.desktop @seanpm2001
+*.zip @seanpm2001
+*.rar @seanpm2001
+*.webm @seanpm2001
+*.webp @seanpm2001
+*.doc @seanpm2001
+*.docx @seanpm2001
+*.odt @seanpm2001
+*.tmp @seanpm2001
+*.csv @seanpm2001
+*.CSV @seanpm2001
+*.rb @seanpm2001
+*.RB @seanpm2001
+*.py @seanpm2001
+*.PY @seanpm2001
+*.htm @seanpm2001
+*.html @seanpm2001
+*.mhtm @seanpm2001
+*.mhtml @seanpm2001
+*.xhtm @seanpm2001
+*.xhtml @seanpm2001
+*.HTM @seanpm2001
+*.HTML @seanpm2001
+*.MHTM @seanpm2001
+*.MHTML @seanpm2001
+*.XHTM @seanpm2001
+*.XHTML @seanpm2001
+*.gemspec @seanpm2001
+*.tex @seanpm2001
+*.TEX @seanpm2001
+# No more individual file types for now
+# File info
+# File type: codeowners file (CODEOWNERS)
+# File version: 1 (2021, Wednesday, December 29th at 5:20 pm)
+# Line count (including blank lines and compiler line): 126
+# End of script
