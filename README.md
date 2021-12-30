@@ -2,7 +2,18 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+^^ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
+
 ***
+
+###### Statistics
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Top
 
@@ -119,7 +130,7 @@ _🌐 List of languages_
 
 </details>
 
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/seanpm2001/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
+Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of February 5th 2021. Please report translation errors [here](https://github.com/seanpm2001/seanpm2001/issues/) make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org/) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
 Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't my GitHub profile page. You will be redirected to the [seanpm2001/seanpm2001 repository](https://github.com/seanpm2001/seanpm2001), where the README is hosted.
 
@@ -127,7 +138,7 @@ Translations are done with Google Translate due to limited or no support for the
 
 Due to maintenance issues, over 25 translations are out of date and are using Version 8 or Version 9 of this README file. A translator is needed. Also, as of April 1st 2021, it is going to take me a while to get all the new links working.
 
-[GitHub profile secret info](SECRET.md)
+[GitHub profile secret info](/SECRET.md)
 
 <!--
 **seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -1403,11 +1414,11 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ### File info
 
-**File type:** `Markdown (*.md)`
+**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `15 (Saturday, August 7th 2021 at 2:13 pm)`
+**File version:** `32 (Wednesday, 2021 December 29th at 10:01 pm)`
 
-**Line count (including blank lines and compiler line):** `1,873`
+**Line count (including blank lines and compiler line):** `2,334`
 
 ***
 
@@ -1421,6 +1432,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 ***
 
 **Version 1 (Friday, August 21st 2020 at 4:39 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1446,6 +1459,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 2 (Thursday, September 17th 2020 at 7:20 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Updated the "what I'm currently working on" section
@@ -1465,6 +1480,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 2
 
 **Version 3 (Sunday, November 29th 2020 at 3:50 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1486,6 +1503,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Added the `projects on other platforms` section
@@ -1502,6 +1521,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 5 (Wednesday, January 13th 2021 at 2:56 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Updated the `file info` section
@@ -1515,6 +1536,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 5
 
 **Version 6 (Thursday, March 4th 2021 at 3:30 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1541,6 +1564,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 6
 
 **Version 7 (Saturday, March 27th 2021 at 8:38 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1588,6 +1613,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 8 (Wednesday, March 31st 2021 at 4:08 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Updated the index
@@ -1607,6 +1634,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 8
 
 **Version 9 (Thursday, April 1st 2021 at 6:33 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1632,6 +1661,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 10 (Wednesday, May 5th 2021 at 2:45 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Updated the directory list
@@ -1656,6 +1687,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 11 (Wednesday, March 5th 2021 at 2:56 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Updated the file info section
@@ -1668,6 +1701,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 12 (Sunday, May 9th 2021 at 8:13 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Increased dropdown functionality and made the document more scrollable by encapsulating more sections into `<details>` tags
@@ -1679,6 +1714,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 12
 
 **Version 13 (Tuesday, May 11th 2021 at 6:33 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1695,6 +1732,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 13
 
 **Version 14 (Friday, August 6th 2021 at 3:13 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -1722,6 +1761,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 15 (Saturday, August 7th 2021 at 2:13 pm)**
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Updated the submissions section
@@ -1738,125 +1779,501 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 15
 
-**Version 16 (Coming soon)**
+**Version 16 (2021, Wednesday, December 29th at 6:02 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Added support for the all-contributors specification
+
+> * Added the contributors section
+
+> * Added the contributors badge, set to 1
+
+> * Added @Seanpm2001 to the Contributor section
 
 > * No other changes in version 16
 
-**Version 17 (Coming soon)**
+**Version 17 (2021, Wednesday, December 29th at 6:03 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 2
+
+> * Added @All-contributors to the Contributor section
 
 > * No other changes in version 17
 
-**Version 18 (Coming soon)**
+**Version 18 (2021, Wednesday, December 29th at 6:04 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 3
+
+> * Added @Peterhil to the Contributor section
 
 > * No other changes in version 18
 
-**Version 19 (Coming soon)**
+**Version 19 (2021, Wednesday, December 29th at 6:05 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 4
+
+> * Added @GaurPeeyush to the Contributor section
 
 > * No other changes in version 19
 
-**Version 20 (Coming soon)**
+**Version 20 (2021, Wednesday, December 29th at 6:06 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 5
+
+> * Added @Channa-my to the Contributor section
 
 > * No other changes in version 20
 
-**Version 21 (Coming soon)**
+**Version 21 (2021, Wednesday, Decemnber 29th at 6:08 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 6
+
+> * Added @NihalKarne to the Contributor section
 
 > * No other changes in version 21
 
-**Version 22 (Coming soon)**
+**Version 22 (2021, Wednesday, December 29th at 6:11 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 7
+
+> * Added @DemoStanis to the Contributor section
 
 > * No other changes in version 22
 
-**Version 23 (Coming soon)**
+**Version 23 (2021, Wednesday, December 29th at 6:48 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 8
+
+> * Added @Struow to the Contributor section
 
 > * No other changes in version 23
 
-**Version 24 (Coming soon)**
+**Version 24 (2021, Wednesday, December 29th at 6:51 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 9
+
+> * Added @Davisogunsina to the Contributor section
 
 > * No other changes in version 24
 
-**Version 25 (Coming soon)**
+**Version 25 (2021, Wednesday, December 29th at 6:54 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 10
+
+> * Added @MRBlazed90 to the Contributor section
 
 > * No other changes in version 25
 
-**Version 26 (Coming soon)**
+**Version 26 (2021, Wednesday, December 29th at 6:56 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 11
+
+> * Added @Xwilarg to the Contributor section
 
 > * No other changes in version 26
 
-**Version 27 (Coming soon)**
+**Version 27 (2021, Wednesday, December 29th at 7:02 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 12
+
+> * Added @Coriiander to the Contributor section
 
 > * No other changes in version 27
+ 
+**Version 28 (2021, Wednesday, December 29th at 7:04 pm)**
 
-**Version 28 (Coming soon)**
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 13
+
+> * Added @uafr to the Contributor section
 
 > * No other changes in version 28
 
-**Version 29 (Coming soon)**
+**Version 29 (2021, Wednesday, December 29th at 7:07 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 14
+
+> * Added @ioistired to the Contributor section
 
 > * No other changes in version 29
 
-**Version 30 (Coming soon)**
+**Version 30 (2021, Wednesday, December 29th at 7:10 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
+
+> Changes:
+
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 15
+
+> * Added @torokati44 to the Contributor section
+
+> * No other changes in version 30
+
+**Version 31 (2021, Wednesday, December 29th at 7:13 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
+
+> Changes:
+
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 16
+
+> * Added @krikienoid to the Contributor section
+
+> * No other changes in version 31
+
+**Version 32 (2021, Wednesday, December 29th at 10:01 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
+> Changes:
+
+> * Added new profile counters (streak, page views, and GitHub readme stats)
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 32
+
+**Version 33 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 30
+> * No other changes in version 33
+
+**Version 34 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 34
+
+**Version 35 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 35
+
+**Version 36 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 36
+
+**Version 37 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 37
+
+**Version 38 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 38
+
+**Version 39 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 39
+
+**Version 40 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 40
+
+**Version 41 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 41
+
+**Version 42 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 42
+
+**Version 43 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 43
+
+**Version 44 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 44
+
+**Version 45 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 45
+
+**Version 46 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 46
+
+**Version 47 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 47
+
+**Version 48 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 48
+
+**Version 49 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 49
+
+**Version 50 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 50
+
+**Version 51 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 51
+
+**Version 52 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 52
+
+**Version 53 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 53
+
+**Version 54 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 54
+
+**Version 55 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 55
+
+**Version 56 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 56
+
+**Version 57 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 57
+
+**Version 58 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 58
+
+**Version 59 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 59
+
+**Version 60 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 60
+
+**Version 61 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 61
+
+**Version 62 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 62
+
+**Version 63 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 63
+
+**Version 64 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 64
 
 </details>
 
@@ -1873,6 +2290,8 @@ You have reached the end of this page.
 ### End of file
 
 ***
+  
+# Everyone who has interacted with me on GitHub since 2020 May 25th
 
 ## Contributors ✨
 
