@@ -124,6 +124,16 @@
         "review",
         "translation"
       ]
+    },
+    {
+      "login": "uafr",
+      "name": "Wolfgang Becker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10113555?v=4",
+      "profile": "https://github.com/uafr",
+      "contributions": [
+        "review",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
