@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1897,6 +1897,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/MRBlazed90"><img src="https://avatars.githubusercontent.com/u/57635920?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MRBlazed90</b></sub></a><br /><a href="#question-MRBlazed90" title="Answering Questions">💬</a> <a href="#talk-MRBlazed90" title="Talks">📢</a></td>
     <td align="center"><a href="https://zirk.eu"><img src="https://avatars.githubusercontent.com/u/20053454?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Christian Chaux</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3AXwilarg" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Coriiander"><img src="https://avatars.githubusercontent.com/u/2283894?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cor Schols</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3ACoriiander" title="Reviewed Pull Requests">👀</a> <a href="#translation-Coriiander" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/uafr"><img src="https://avatars.githubusercontent.com/u/10113555?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wolfgang Becker</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Auafr" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-uafr" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
