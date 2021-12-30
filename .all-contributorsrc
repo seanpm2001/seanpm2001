@@ -105,6 +105,15 @@
         "question",
         "talk"
       ]
+    },
+    {
+      "login": "Xwilarg",
+      "name": "Christian Chaux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20053454?v=4",
+      "profile": "https://zirk.eu",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
