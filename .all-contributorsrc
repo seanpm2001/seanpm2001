@@ -68,6 +68,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "demostanis",
+      "name": "demostanis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40673815?v=4",
+      "profile": "https://github.com/demostanis",
+      "contributions": [
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
