@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -1894,6 +1894,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Struow"><img src="https://avatars.githubusercontent.com/u/61907178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Struow</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/issues?q=author%3AStruow" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/Davisogunsina"><img src="https://avatars.githubusercontent.com/u/87503255?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Davis Iyanuoluwa Ogunsina </b></sub></a><br /><a href="#talk-Davisogunsina" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/MRBlazed90"><img src="https://avatars.githubusercontent.com/u/57635920?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MRBlazed90</b></sub></a><br /><a href="#question-MRBlazed90" title="Answering Questions">💬</a> <a href="#talk-MRBlazed90" title="Talks">📢</a></td>
   </tr>
 </table>
 
