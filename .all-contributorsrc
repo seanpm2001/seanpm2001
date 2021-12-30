@@ -172,6 +172,17 @@
         "review",
         "mentoring"
       ]
+    },
+    {
+      "login": "caitmuenster",
+      "name": "Caitlin Neiman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23342476?v=4",
+      "profile": "https://github.com/caitmuenster",
+      "contributions": [
+        "doc",
+        "review",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
