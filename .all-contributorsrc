@@ -143,6 +143,16 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "torokati44",
+      "name": "TÖRÖK Attila",
+      "avatar_url": "https://avatars.githubusercontent.com/u/288816?v=4",
+      "profile": "https://github.com/torokati44",
+      "contributions": [
+        "review",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
