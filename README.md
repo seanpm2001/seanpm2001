@@ -8,12 +8,21 @@
 
 ###### Statistics
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
-![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
 
-[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats) - This counter was added on 2021 December 29th
+
+[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 29th
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
+
+[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
+
+</details>
 
 ##### Top
 
@@ -1416,9 +1425,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `32 (Wednesday, 2021 December 29th at 10:01 pm)`
+**File version:** `39 (Thursday, 2021 December 30th at 3:35 pm)`
 
-**Line count (including blank lines and compiler line):** `2,334`
+**Line count (including blank lines and compiler line):** `2,514`
 
 ***
 
@@ -1791,7 +1800,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Added the contributors badge, set to 1
 
-> * Added @Seanpm2001 to the Contributor section
+> * Added [@Seanpm2001](https://github.com/seanpm2001/) to the Contributor section
 
 > * No other changes in version 16
 
@@ -1805,7 +1814,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 2
 
-> * Added @All-contributors to the Contributor section
+> * Added [@All-contributors](https://github.com/all-contributors/) to the Contributor section
 
 > * No other changes in version 17
 
@@ -1819,7 +1828,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 3
 
-> * Added @Peterhil to the Contributor section
+> * Added [@Peterhil](https://github.com/peterhil/) to the Contributor section
 
 > * No other changes in version 18
 
@@ -1833,7 +1842,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 4
 
-> * Added @GaurPeeyush to the Contributor section
+> * Added [@GaurPeeyush](https://github.com/gaurpeeyush/) to the Contributor section
 
 > * No other changes in version 19
 
@@ -1847,7 +1856,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 5
 
-> * Added @Channa-my to the Contributor section
+> * Added [@Channa-my](https://github.com/channa-my/) to the Contributor section
 
 > * No other changes in version 20
 
@@ -1861,7 +1870,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 6
 
-> * Added @NihalKarne to the Contributor section
+> * Added [@NihalKarne](https://github.com/nihalkarne/) to the Contributor section
 
 > * No other changes in version 21
 
@@ -1875,7 +1884,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 7
 
-> * Added @DemoStanis to the Contributor section
+> * Added [@DemoStanis](https://github.com/demostanis/) to the Contributor section
 
 > * No other changes in version 22
 
@@ -1889,7 +1898,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 8
 
-> * Added @Struow to the Contributor section
+> * Added [@Struow](https://github.com/struow/) to the Contributor section
 
 > * No other changes in version 23
 
@@ -1903,7 +1912,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 9
 
-> * Added @Davisogunsina to the Contributor section
+> * Added [@Davisogunsina](https://github.com/Davisogunsina/) to the Contributor section
 
 > * No other changes in version 24
 
@@ -1917,7 +1926,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 10
 
-> * Added @MRBlazed90 to the Contributor section
+> * Added [@MRBlazed90](https://github.com/MRBlazed90) to the Contributor section
 
 > * No other changes in version 25
 
@@ -1931,7 +1940,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 11
 
-> * Added @Xwilarg to the Contributor section
+> * Added [@Xwilarg](https://github.com/Xwilarg/) to the Contributor section
 
 > * No other changes in version 26
 
@@ -1945,7 +1954,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 12
 
-> * Added @Coriiander to the Contributor section
+> * Added [@Coriiander](https://github.com/Coriiander/) to the Contributor section
 
 > * No other changes in version 27
  
@@ -1959,7 +1968,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 13
 
-> * Added @uafr to the Contributor section
+> * Added [@uafr](https://github.com/uafr/) to the Contributor section
 
 > * No other changes in version 28
 
@@ -1973,7 +1982,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 14
 
-> * Added @ioistired to the Contributor section
+> * Added [@ioistired](https://github.com/ioistired/) to the Contributor section
 
 > * No other changes in version 29
 
@@ -1987,7 +1996,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 15
 
-> * Added @torokati44 to the Contributor section
+> * Added [@torokati44](https://github.com/torokati44/) to the Contributor section
 
 > * No other changes in version 30
 
@@ -2001,7 +2010,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * Updated the contributors badge, set to 16
 
-> * Added @krikienoid to the Contributor section
+> * Added [@krikienoid](https://github.com/krikienoid/) to the Contributor section
 
 > * No other changes in version 31
 
@@ -2019,59 +2028,108 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 32
 
-**Version 33 (Coming soon)**
+**Version 33 (2021, Thursday, December 30th at 2:46 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 17
+
+> * Added [@Rob--W](https://github.com/Rob--w/) to the Contributor section
+
+<!--
+  https://github.com/Rob--W
+
+!-->
 
 > * No other changes in version 33
 
-**Version 34 (Coming soon)**
+**Version 34 (2021, Thursday, December 30th at 2:48 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 18
+
+> * Added [@CaitMuenster](https://github.com/CaitMuenster/) to the Contributor section
 
 > * No other changes in version 34
 
-**Version 35 (Coming soon)**
+**Version 35 (2021, Thursday, December 30th at 2:50 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 19
+
+> * Added [@Madsmtm](https://github.com/Madsmtm/) to the Contributor section
 
 > * No other changes in version 35
 
-**Version 36 (Coming soon)**
+**Version 36 (2021, Thursday, December 30th at 2:51 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 20
+
+> * Added [@Kmeisthax](https://github.com/kmeisthax/) to the Contributor section
 
 > * No other changes in version 36
 
-**Version 37 (Coming soon)**
+**Version 37 (2021, Thursday, December 30th at 2:52 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 21
+
+> * Added [@Herschel](https://github.com/Herschel/) to the Contributor section
 
 > * No other changes in version 37
 
-**Version 38 (Coming soon)**
+**Version 38  (2021, Thursday, December 30th at 2:54 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 22
+
+> * Added [@kaiwulf](https://github.com/kaiwulf/) to the Contributor section
 
 > * No other changes in version 38
 
-**Version 39 (Coming soon)**
+**Version 39 (2021, Thursday, December 30th at 3:35 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Updated badges
+
+> * Updated the statistics section
+
+> * Added a language counter
+
+> * Added a badge to the contributors section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 39
 
@@ -2275,6 +2333,118 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 64
 
+**Version 65 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 65
+
+**Version 66 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 66
+
+**Version 67 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 67
+
+**Version 68 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 68
+
+**Version 69 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 69
+
+**Version 70 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 70
+
+**Version 71 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 71
+
+**Version 72 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 72
+
+**Version 73 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 73
+
+**Version 74 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 74
+
+**Version 75 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 75
+
+**Version 76 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 77
+
+**Version 77 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 77
+
+**Version 78 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 78
+
 </details>
 
 ***
@@ -2292,6 +2462,8 @@ You have reached the end of this page.
 ***
   
 # Everyone who has interacted with me on GitHub since 2020 May 25th
+
+[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
