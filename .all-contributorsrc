@@ -222,6 +222,16 @@
         "review",
         "mentoring"
       ]
+    },
+    {
+      "login": "stavpup",
+      "name": "stavpup",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10577035?v=4",
+      "profile": "https://github.com/stavpup",
+      "contributions": [
+        "review",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,

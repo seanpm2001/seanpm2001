@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ^^ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
@@ -2634,6 +2634,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http://www.kaico.biz"><img src="https://avatars.githubusercontent.com/u/4155390?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kai wuffy</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Akaiwulf" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-kaiwulf" title="Mentoring">🧑‍🏫</a></td>
+    <td align="center"><a href="https://github.com/stavpup"><img src="https://avatars.githubusercontent.com/u/10577035?v=4?s=100" width="100px;" alt=""/><br /><sub><b>stavpup</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Astavpup" title="Reviewed Pull Requests">👀</a> <a href="#question-stavpup" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
