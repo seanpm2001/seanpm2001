@@ -22,7 +22,99 @@
 
 [![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
 
+Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
+
+[All contributors (requires installation)](https://github.com/apps/allcontributors/installations/new)
+
+> Helpful link: [all contributors website](https://allcontributors.org/en/)
+
+> Helpful link: [Emoji guide](https://allcontributors.org/docs/en/emoji-key/)
+
+[Profile views](https://github.com/antonkomarev/github-profile-views-counter/)
+
+[GitHub Streaks (consecutive days)](https://github.com/DenverCoder1/github-readme-streak-stats/)
+
+[GitHub Stats](https://github.com/anuraghazra/github-readme-stats/)
+
+> * [Top languages](https://github.com/anuraghazra/github-readme-stats#demo-1)
+
+[Wakatime stats](https://github.com/anmol098/waka-readme-stats/)
+
+[GitHub profile README generator](https://github.com/rahuldkjain/github-profile-readme-generator/)
+
+Or you can copy my setup and make your way from there (or do both)
+
+**Contributor count**
+
+```markdown
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-) 
+```
+
+**Profile views**
+
+```markdown
+![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
+```
+
+**GitHub streaks**
+
+```markdown
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats)
+```
+
+**GitHub Stats**
+
+```markdown
+[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) 
+```
+
+**Top languages**
+
+```markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+**Wakatime stats**
+
+```markdown
+[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+ **The entire setup (with timestamps)**
+
+```markdown
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+
+![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats) - This counter was added on 2021 December 29th
+
+[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 29th
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
+
+[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
+```
+
+**The entire setup (without timestamps)**
+
+```markdown
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+
+![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
+```
+
 </details>
+
+***
 
 ##### Top
 
@@ -1423,11 +1515,23 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ### File info
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
+
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `39 (Thursday, 2021 December 30th at 3:35 pm)`
+**File version:** `40 (Thursday, 2021 December 30th at 7:43 pm)`
 
-**Line count (including blank lines and compiler line):** `2,514`
+**Line count (including blank lines and compiler line):** `2,646`
+
+**Current article language:** `English (US)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** (Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)
+
+**You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
+
+</details>
 
 ***
 
@@ -2133,15 +2237,25 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 39
 
-**Version 40 (Coming soon)**
+**Version 40 (2021, Thursday, December 30th at 7:43 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Added detailed support on the counters and displays recently added (including links to the projects, a 1 click copy for my setups, etc.)
+
+> * Updated the contributors section
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 40
 
 **Version 41 (Coming soon)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
@@ -2445,6 +2559,22 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 78
 
+**Version 79 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 79
+
+**Version 80 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 80
+
 </details>
 
 ***
@@ -2463,6 +2593,8 @@ You have reached the end of this page.
   
 # Everyone who has interacted with me on GitHub since 2020 May 25th
 
+**21 people and 1 bot, 20 people and 1 bot when not counting me**
+  
 [![People who have interacted with me here](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
