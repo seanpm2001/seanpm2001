@@ -10,7 +10,7 @@
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
 
@@ -47,7 +47,7 @@ Or you can copy my setup and make your way from there (or do both)
 **Contributor count**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-) 
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-) 
 ```
 
 **Profile views**
@@ -83,7 +83,7 @@ Or you can copy my setup and make your way from there (or do both)
  **The entire setup (with timestamps)**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
 
@@ -99,7 +99,7 @@ Or you can copy my setup and make your way from there (or do both)
 **The entire setup (without timestamps)**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
 
@@ -1519,11 +1519,11 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (Thursday, 2021 December 30th at 7:43 pm)`
+**File version:** `42 (Thursday, 2021 December 30th at 7:54 pm)`
 
-**Line count (including blank lines and compiler line):** `2,646`
+**Line count (including blank lines and compiler line):** `2,695`
 
-**Current article language:** `English (US)`
+**Current article language:** `English (US)` / `Markdown` / `HTML5`
 
 **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 
@@ -2195,6 +2195,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Version 37 (2021, Thursday, December 30th at 2:52 pm)**
 
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
+
 > Changes:
 
 > * Updated the contributors section
@@ -2206,6 +2208,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 37
 
 **Version 38  (2021, Thursday, December 30th at 2:54 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
@@ -2253,21 +2257,33 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 40
 
-**Version 41 (Coming soon)**
+**Version 41 (2021, Thursday, December 30th at 7:44 pm)**
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 23
+
+> * Added [@stavpup](https://github.com/stavpup/) to the Contributor section
 
 > * No other changes in version 41
 
-**Version 42 (Coming soon)**
+**Version 42 (2021, Thursday, December 30th at 7:54 pm)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the contributors section
+
+> * Updated the statistics section
 
 > * No other changes in version 42
 
@@ -2575,6 +2591,38 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 80
 
+**Version 81 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 81
+
+**Version 82 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 82
+
+**Version 83 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 83
+
+**Version 84 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 84
+
 </details>
 
 ***
@@ -2593,9 +2641,9 @@ You have reached the end of this page.
   
 # Everyone who has interacted with me on GitHub since 2020 May 25th
 
-**21 people and 1 bot, 20 people and 1 bot when not counting me**
+**22 people and 1 bot, 201people and 1 bot when not counting me**
   
-[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
