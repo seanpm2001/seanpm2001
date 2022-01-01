@@ -1,0 +1,1 @@
+docs: add Struow as a contributor for bug #30
