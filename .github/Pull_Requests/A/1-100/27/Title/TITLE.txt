@@ -1,0 +1,1 @@
+docs: add channa-my as a contributor for doc #27
