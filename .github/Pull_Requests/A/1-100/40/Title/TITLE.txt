@@ -1,0 +1,1 @@
+docs: add caitmuenster as a contributor for doc, review, mentoring #40
