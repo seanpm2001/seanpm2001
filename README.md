@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ^^ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
@@ -2687,6 +2687,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/chuckchuck2007"><img src="https://avatars.githubusercontent.com/u/74276899?v=4?s=100" width="100px;" alt=""/><br /><sub><b>chuckchuck2007</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Achuckchuck2007" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/memewallawalla"><img src="https://avatars.githubusercontent.com/u/74578460?v=4?s=100" width="100px;" alt=""/><br /><sub><b>memewallawalla</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Amemewallawalla" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/inverno4"><img src="https://avatars.githubusercontent.com/u/74582154?v=4?s=100" width="100px;" alt=""/><br /><sub><b>inverno4</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Ainverno4" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanpm2001"><img src="https://avatars.githubusercontent.com/u/71748021?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Alt account</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=seanwallawalla" title="Code">💻</a> <a href="https://github.com/seanpm2001/seanpm2001/commits?author=seanwallawalla" title="Documentation">📖</a> <a href="#projectManagement-seanwallawalla" title="Project Management">📆</a> <a href="#security-seanwallawalla" title="Security">🛡️</a> <a href="#data-seanwallawalla" title="Data">🔣</a> <a href="#content-seanwallawalla" title="Content">🖋</a> <a href="#design-seanwallawalla" title="Design">🎨</a> <a href="#maintenance-seanwallawalla" title="Maintenance">🚧</a> <a href="#ideas-seanwallawalla" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
