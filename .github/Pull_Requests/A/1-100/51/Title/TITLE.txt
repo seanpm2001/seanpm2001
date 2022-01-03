@@ -1,0 +1,1 @@
+docs: add seanwallawalla as a contributor for code, doc, projectManagement, security, data, content, design, maintenance, ideas #51
