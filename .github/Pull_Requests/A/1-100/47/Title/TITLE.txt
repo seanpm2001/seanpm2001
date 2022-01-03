@@ -1,0 +1,1 @@
+docs: add lindsmy as a contributor for projectManagement, review #47
