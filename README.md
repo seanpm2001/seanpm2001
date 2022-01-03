@@ -10,7 +10,7 @@
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
 
@@ -47,7 +47,7 @@ Or you can copy my setup and make your way from there (or do both)
 **Contributor count**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-) 
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-) 
 ```
 
 **Profile views**
@@ -83,7 +83,7 @@ Or you can copy my setup and make your way from there (or do both)
  **The entire setup (with timestamps)**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
 
@@ -99,7 +99,7 @@ Or you can copy my setup and make your way from there (or do both)
 **The entire setup (without timestamps)**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
 
@@ -1519,9 +1519,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (Thursday, 2021 December 30th at 7:54 pm)`
+**File version:** `48 (Sunday, 2022 January 2nd at 4:00 pm)`
 
-**Line count (including blank lines and compiler line):** `2,695`
+**Line count (including blank lines and compiler line):** `2,876`
 
 **Current article language:** `English (US)` / `Markdown` / `HTML5`
 
@@ -2287,55 +2287,97 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 42
 
-**Version 43 (Coming soon)**
+**Version 43 (2022, Sunday, January 2nd at 3:23 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 24
+
+> * Added [@lindsmy](https://github.com/lindsmy/) to the Contributor section
 
 > * No other changes in version 43
 
-**Version 44 (Coming soon)**
+**Version 44 (2022, Sunday, January 2nd at 3:27 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 25
+
+> * Added [@chuckchuck2007](https://github.com/chuckchuck2007/) to the Contributor section
 
 > * No other changes in version 44
 
-**Version 45 (Coming soon)**
+**Version 45 (2022, Sunday, January 2nd at 3:31 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 26
+
+> * Added [@memewallawalla](https://github.com/memewallawalla/) to the Contributor section
 
 > * No other changes in version 45
 
-**Version 46 (Coming soon)**
+**Version 46 (2022, Sunday, January 2nd at 3:34 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 27
+
+> * Added [@inverno4](https://github.com/inverno4/) to the Contributor section
 
 > * No other changes in version 46
 
-**Version 47 (Coming soon)**
+**Version 47 (2022, Sunday, January 2nd at 3:38 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section
+
+> * Updated the contributors badge, set to 28
+
+> * Added [@seanwallawalla](https://github.com/seanwallawalla/) to the Contributor section
 
 > * No other changes in version 47
 
-**Version 48 (Coming soon)**
+**Version 48 (2022, Sunday, January 2nd at 4:00 pm)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the contributors section
+
+> * Updated the statistics section
+
+> * Updated the title section
 
 > * No other changes in version 48
 
 **Version 49 (Coming soon)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
@@ -2623,6 +2665,134 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 84
 
+**Version 85 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 85
+
+**Version 86 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 86
+
+**Version 87 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 87
+
+**Version 88 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 88
+
+**Version 89 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 89
+
+**Version 90 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 90
+
+**Version 91 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 91
+
+**Version 92 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 92
+
+**Version 93 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 93
+
+**Version 94 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 94
+
+**Version 95 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 95
+
+**Version 96 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 96
+
+**Version 97 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 97
+
+**Version 98 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 98
+
+**Version 99 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 99
+
+**Version 100 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 100
+
 </details>
 
 ***
@@ -2641,9 +2811,15 @@ You have reached the end of this page.
   
 # Everyone who has interacted with me on GitHub since 2020 May 25th
 
-**22 people and 1 bot, 201people and 1 bot when not counting me**
+**27 people and 1 bot, 25 people and 1 bot when not counting me**
+<!--
+When not me:
+1: @all-contributors (bot)
+2: @seanpm2001 (primary)
+3: @seanwallawalla (alt)
+!-->
   
-[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
