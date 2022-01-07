@@ -415,17 +415,39 @@ See my year in review for:
 
 [25.0 - Education](#Education)
 
-[26.0 - Special](#Special)
+[26.0 - GitHub developer program](#GitHub-developer-program)
 
-> [26.0.1 - Skyline](#Skyline)
+> [26.1 - Extensions](#Extensions)
 
-[27.0 - File info](#File-info)
+> [26.2 - Marketplace](#Marketplace)
 
-[28.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+> [26.3 - My actions](#My-actions)
 
-[29.0 - Footer](#Footer)
+> > [26.3.1 - My CI workflows](#My-CI-workflows)
 
-> [29.9 - End of file](#End-of-file)
+> [26.4 - Information](#Information)
+
+> [26.5 - Website modules](#Website-modules)
+
+> [26.6 - Templates](#Templates)
+
+> [26.7 - Other](#Other)
+
+[27.0 - Email information](#Email-information)
+
+[28.0 - Special](#Special)
+
+> [28.0.1 - Skyline](#Skyline)
+
+[29.0 - File info](#File-info)
+
+[30.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+
+[31.0 - Footer](#Footer)
+
+> [31.9 - End of file](#End-of-file)
+
+[32.0 - Contributors ✨](#Contributors-)
 
 </details>
 
@@ -1390,6 +1412,90 @@ Learn even more about me [here](https://gist.github.com/seanpm2001/7e40a0e13c066
 
 ***
 
+## GitHub developer program
+
+I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. Here, I will be listing my projects that work with the GitHub API:
+
+### Extensions
+
+[GitHubby](https://github.com/seanpm2001/GitHubby/) - A tool to customize GitHub to make its appearance and functionality similar to past versions of GitHub. It requires heavy communication with the GitHub API to work. It is not functional yet.
+
+> [GitHubby Snapcraft packae](https://github.com/GitHubby-development/GitHubby-Snap) - The snapcraft package for GitHubby, to run on Linux. Far from complete.
+
+> [GitHubby website (GitHub pages)](https://github.com/GitHubby-development/GitHubby-development.github.io) - The website for the GitHubby project.
+
+[GitMan](https://github.com/seanpm2001/GitMan/) - A tool to manage and automate Git actions across various Git sites. It is not functional yet.
+
+[Chroma Tags for Git](https://github.com/seanpm2001/ChromaTags_ForGit/) - A powerful linguist tool and customizer for Git platforms. It is not functional yet.
+
+### Marketplace
+
+#### My Actions
+
+##### My CI workflows
+
+[Setup Go! (Go2004) GitHub action](https://github.com/seanpm2001/Setup-Go2004-GitHubAction) - This is my first GitHub action. It allows continous integration (CI) with GitHub projects written in the Go! programming language. It is NOT to be used for the Go programming language (which is very similarly named, and easily confusable)
+
+### Information
+
+These projects are information articles regarding my work on Git and GitHub.
+
+[Git image](https://github.com/seanpm2001/Git-image/) - Information regarding Git as an image platform.
+
+[Health project](https://github.com/seanpm2001/GitHub-Health-Project-Article/) - Information regarding my contributions and improvements to open source medical health software.
+
+### Website modules
+
+These website modules are used for maintaining GitHub functionality elsewhere.
+
+[SNU (2D) GitHub mode](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_GitHubMode/) - The GitHub mode submodule for the SNU website framework.
+
+### Templates
+
+These templates are used to increase the efficiency of starting GitHub projects (the latest version takes nearly 4 hours of development time off from a single new project)
+
+[Git Template (V8)](https://github.com/seanpm2001/Git-Template_V8/) - The modern Git template used for automating several project types.
+
+[Template: GitHub Pages (V1)](https://github.com/seanpm2001/Template_GitHubPages_V1/) - Historical; my first template for automating GitHub pages. It was superceded by the V2 GitHub pages template.
+
+[Template: GitHub Pages (V2)](https://github.com/seanpm2001/Template_GitHubPages_V2/) - Historical; my second template for automating GitHub pages. It was superceded by the V3 GitHub pages template.
+
+[Template: GitHub Pages (V3)](https://github.com/seanpm2001/Template_GitHubPages_V3/) - Historical; my third template for automating GitHub pages. It was superceded by the V4 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V4)](https://github.com/seanpm2001/Template_GitHubPages_Default_V4/) - Historical; my fourth template for automating GitHub pages in the default style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Language page) (V4)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V4/) - Historical; my fourth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V5)](https://github.com/seanpm2001/Template_GitHubPages_Default_V5/) - Historical; my fifth template for automating GitHub pages in the default style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
+
+* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V5)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V5/) - Historical; my fifth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V6)](https://github.com/seanpm2001/Template_GitHubPages_Default_V6/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
+
+* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V6)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V6/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V7)](https://github.com/seanpm2001/Template_GitHubPages_Default_V7/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V8 GitHub template (with 12+ variants)
+
+* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V7)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V7/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V8 GitHub template (with 12+ variants)
+
+### Other
+
+Other uncategorized projects.
+
+[AUTOMATE-2001](https://github.com/seanpm2001/AUTOMATE-2001/) - A personal use automation tool for automating my automatable tasks on GitHub. It is far from complete, and is not functional yet.
+
+***
+
+## Email information
+
+On 2022 Friday, January 7th, I created my first public email address. I may not be active here, but I will try to be here. The email address will be used for a mailing list.
+
+The current public email address is [seanpm2001-mailing-list@protonmail.com](mailto:seanpm2001-mailing-list@protonmail.com)
+
+The email address is for professional use, and is tied to my GitHub developer program membership. It is to be used for serious inqueries and security reports. It is NOT to be used for conversation, advertising, notifications, or spam. If you wish to chat, I have a [Discord Server](https://discord.gg/CcFpEDQ) here, and I plan to have a more privacy friendly platform for communication in the near future.
+
+***
+
 ## Special
 
 ### Skyline
@@ -1401,7 +1507,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2008
 
-[View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008)
+[View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008/)
 
 [View STL file](/Special/GitHub_Skyline/2008/seanpm2001-2008.stl)
 
@@ -1409,7 +1515,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2009
 
-[View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009)
+[View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009/)
 
 [View STL file](/Special/GitHub_Skyline/2009/seanpm2001-2009.stl)
 
@@ -1417,7 +1523,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2010
 
-[View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010)
+[View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010/)
 
 [View STL file](/Special/GitHub_Skyline/2010/seanpm2001-2010.stl)
 
@@ -1425,7 +1531,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2011
 
-[View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011)
+[View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011/)
 
 [View STL file](/Special/GitHub_Skyline/2011/seanpm2001-2011.stl)
 
@@ -1433,7 +1539,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2012
 
-[View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012)
+[View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012/)
 
 [View STL file](/Special/GitHub_Skyline/2012/seanpm2001-2012.stl)
 
@@ -1441,7 +1547,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2013
 
-[View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013)
+[View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013/)
 
 [View STL file](/Special/GitHub_Skyline/2013/seanpm2001-2013.stl)
 
@@ -1449,7 +1555,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2014
 
-[View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014)
+[View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014/)
 
 [View STL file](/Special/GitHub_Skyline/2014/seanpm2001-2014.stl)
 
@@ -1457,7 +1563,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2015
 
-[View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015)
+[View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015/)
 
 [View STL file](/Special/GitHub_Skyline/2015/seanpm2001-2015.stl)
 
@@ -1465,7 +1571,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2016
 
-[View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016)
+[View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016/)
 
 [View STL file](/Special/GitHub_Skyline/2016/seanpm2001-2016.stl)
 
@@ -1473,7 +1579,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2017
 
-[View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017)
+[View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017/)
 
 [View STL file](/Special/GitHub_Skyline/2017/seanpm2001-2017.stl)
 
@@ -1481,7 +1587,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2018
 
-[View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018)
+[View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018/)
 
 [View STL file](/Special/GitHub_Skyline/2018/seanpm2001-2018.stl)
 
@@ -1491,7 +1597,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **Note: no data for this year, I started in 2020.**
 
-[View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019)
+[View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019/)
 
 [View STL file](/Special/GitHub_Skyline/2019/seanpm2001-2019.stl)
 
@@ -1499,15 +1605,21 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ## Skyline 2020
 
-[View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020)
+[View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020/)
 
 [View STL file](/Special/GitHub_Skyline/2020/seanpm2001-2020.stl)
 
 ## Skyline 2021
 
-[View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021)
+[View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021/)
 
 [View STL file](/Special/GitHub_Skyline/2021/seanpm2001-2021.stl)
+
+## Skyline 2022
+
+[View skyline 2022 via GitHub skyline](https://skyline.github.com/seanpm2001/2022/)
+
+[View STL file (coming soon)]
 
 </details>
 
@@ -1519,9 +1631,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `48 (Sunday, 2022 January 2nd at 4:00 pm)`
+**File version:** `49 (Friday, 2022 January 7th at 3:36 pm)`
 
-**Line count (including blank lines and compiler line):** `2,876`
+**Line count (including blank lines and compiler line):** `3,000`
 
 **Current article language:** `English (US)` / `Markdown` / `HTML5`
 
@@ -2375,13 +2487,25 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 48
 
-**Version 49 (Coming soon)**
+**Version 49 (2022, Friday, January 7th at 3:36 pm)**
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)
 
 > Changes:
 
-> * Coming soon
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the index
+
+> * Added the developer program section
+
+> * Added the email information section
+
+> * Updated the GitHub skyline section
+
+> * Updated the footer
 
 > * No other changes in version 49
 
@@ -2803,7 +2927,7 @@ This is a long extended profile description. You have gotten through it. Below i
 
 You have reached the end of this page.
 
-( [Return to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
+( [Return to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to GistHub (Gist.github.com)](https://gist.github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### End of file
 
