@@ -14,6 +14,27 @@
 # ReStructuredText
 *.rst linguist-detectable=true
 *.rst linguist-documentation=false
+# Plain Text
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
+# Comma Separated Values (CSV)
+*.csv linguist-detectable=true
+*.csv linguist-documentation=false
+# TeX (LaTeX)
+*.tex linguist-detectable=true
+*.tex linguist-documentation=false
+# BibTeX (LaTeX)
+*.bib linguist-detectable=true
+*.bib linguist-documentation=false
+# INI
+*.ini linguist-detectable=true
+*.ini linguist-documentation=false
+# Desktop
+*.desktop linguist-detectable=true
+*.desktop linguist-documentation=false
+# JSON
+*.json inguist-detectable=false
+*.json linguist-documentation=false
 # WebVTT
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
@@ -28,18 +49,18 @@
 *.py linguist-detectable=true
 *.py linguist-documentation=false
 # HTML
-# Being taken out temporarily, until Python can surpass it again
-*.htm linguist-detectable=false
+# Being put back in
+*.htm linguist-detectable=true
 *.htm linguist-documentation=false
-*.html linguist-detectable=false
+*.html linguist-detectable=true
 *.html linguist-documentation=false
-*.mhtm linguist-detectable=false
+*.mhtm linguist-detectable=true
 *.mhtm linguist-documentation=false
-*.mhtml linguist-detectable=false
+*.mhtml linguist-detectable=true
 *.mhtml linguist-documentation=false
-*.xhtm linguist-detectable=false
+*.xhtm linguist-detectable=true
 *.xhtm linguist-documentation=false
-*.xhtml linguist-detectable=false
+*.xhtml linguist-detectable=true
 *.xhtml linguist-documentation=false
 # Shell (duplicate, as it is already detected by GitHub Linguist by default)
 *.sh linguist-detectable=true
@@ -47,6 +68,12 @@
 # Makefile (duplicate, as it is already detected by GitHub Linguist by default)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
+*.mak linguist-detectable=true
+*.mak linguist-documentation=false
+*.make linguist-detectable=true
+*.make linguist-documentation=false
+*.makefile linguist-detectable=true
+*.makefile linguist-documentation=false
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
@@ -60,6 +87,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 6 (2022, Friday, January 7th at 3:44 pm)
-# Line count (including blank lines and compiler line): 66
+# File version: 7 (2022, Friday, January 7th at 6:03 pm)
+# Line count (including blank lines and compiler line): 93
 # End of script
