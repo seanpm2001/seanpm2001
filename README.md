@@ -435,19 +435,31 @@ See my year in review for:
 
 [27.0 - Email information](#Email-information)
 
-[28.0 - Special](#Special)
+[28.0 - Platforms I develop for](#Platforms-I-develop-for)
 
-> [28.0.1 - Skyline](#Skyline)
+> [28.1 - Linux platform support](#Linux-platform-support)
 
-[29.0 - File info](#File-info)
+> [28.2 - BSD platform support](#BSD-platform-support)
 
-[30.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+> [28.3 - Windows platform support](#Windows-platform-support)
 
-[31.0 - Footer](#Footer)
+> [28.4 - Other platform support](#Other-platform-support)
 
-> [31.9 - End of file](#End-of-file)
+[29.0 - Workflows (seanpm2001/seanpm2001)](#Workflows-(seanpm2001/seanpm2001))
 
-[32.0 - Contributors ✨](#Contributors-)
+[30.0 - Special](#Special)
+
+> [30.0.1 - Skyline](#Skyline)
+
+[31.0 - File info](#File-info)
+
+[32.0 - File version history (hidden by default, view source code to view)](#File-version-history)
+
+[33.0 - Footer](#Footer)
+
+> [33.9 - End of file](#End-of-file)
+
+[34.0 - Contributors ✨](#Contributors-)
 
 </details>
 
@@ -1496,6 +1508,97 @@ The email address is for professional use, and is tied to my GitHub developer pr
 
 ***
 
+## Workflows (seanpm2001/seanpm2001)
+
+[![CodeQL](https://github.com/seanpm2001/seanpm2001/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/codeql-analysis.yml)
+[![Django CI](https://github.com/seanpm2001/seanpm2001/actions/workflows/django.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/django.yml)
+[![Jekyll site CI](https://github.com/seanpm2001/seanpm2001/actions/workflows/jekyll.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/jekyll.yml)
+[![Lint Code Base](https://github.com/seanpm2001/seanpm2001/actions/workflows/super-linter.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/super-linter.yml)
+[![Makefile CI](https://github.com/seanpm2001/seanpm2001/actions/workflows/makefile.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/makefile.yml)
+[![Pylint](https://github.com/seanpm2001/seanpm2001/actions/workflows/pylint.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/pylint.yml)
+[![Python Package using Conda](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package-conda.yml)
+[![Python application](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-app.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-app.yml)
+[![Python package](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package.yml)
+[![Shell Lint](https://github.com/seanpm2001/seanpm2001/actions/workflows/shell-lint.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/shell-lint.yml)
+[![Upload Python Package](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-publish.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-publish.yml)
+[![YAML Lint](https://github.com/seanpm2001/seanpm2001/actions/workflows/yaml-lint.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/yaml-lint.yml)
+
+[View workflow files](https://github.com/seanpm2001/seanpm2001/actions/workflows/)
+
+***
+
+## Platforms I develop for
+
+This is a list of the platforms I develop for:
+
+### Linux platform support
+
+- [x] Ubuntu (12.04 and up)
+
+- [x] RaspbianOS (Python and Mathematica only at the moment)
+
+- [ ] Fedora Linux (coming soon)
+
+- [ ] Gentoo Linux (coming soon)
+
+- [ ] Arch Linux (coming soon)
+
+- [ ] ChromeOS/ChromiUmOS **NOT SUPPORTED**
+
+- [x] Android (partially supported)
+
+### BSD platform support
+
+- [x] Mac OS X (10.0-12.0) (Partially supported)
+
+- [x] iOS (partially supported)
+
+I plan to support BSD more in the future when I know more about it. (MacOS counts as BSD, I think)
+
+### Windows platform support
+
+- [ ] Windows 1.0.x (not yet supported)
+
+- [ ] Windows 2.0.x (not yet supported)
+
+- [ ] Windows 2.1.x (not yet supported)
+
+- [ ] Windows 3.0.x (not yet supported)
+
+- [ ] Windows 3.1.x (not yet supported)
+
+- [ ] Windows NT 3.1.x (not yet supported)
+
+- [ ] Windows NT 3.5.x (not yet supported)
+
+- [x] Windows 9x (Windows 95, Windows 98, Windows ME)
+
+- [x] Windows 2000
+
+- [x] Windows XP
+
+- [x] Windows Vista
+
+- [x] Windows 7
+
+- [x] Windows 8/8.1
+
+- [x] Windows 10
+
+- [ ] Windows 11 (not yet supported)
+
+### Other platform support
+
+- [x] ReactOS
+
+- [ ] AmigaOS (not yet supported)
+
+- [ ] Solaris **NOT SUPPORTED**
+
+- [x] OpenSolaris (partially supported)
+
+***
+
 ## Special
 
 ### Skyline
@@ -1631,9 +1734,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `49 (Friday, 2022 January 7th at 3:36 pm)`
+**File version:** `50 (Tuesday, 2022 January 11th at 7:58 pm)`
 
-**Line count (including blank lines and compiler line):** `3,000`
+**Line count (including blank lines and compiler line):** `3,111`
 
 **Current article language:** `English (US)` / `Markdown` / `HTML5`
 
@@ -2509,11 +2612,19 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 > * No other changes in version 49
 
-**Version 50 (Coming soon)**
+**Version 50 (2022, Tuesday, January 11th at 7:58 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the index
+
+> * Added the platform support section
+
+> * Added the workflows section
 
 > * No other changes in version 50
 
