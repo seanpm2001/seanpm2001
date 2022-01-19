@@ -27,6 +27,8 @@ Jump on over to another branch of this repository.
 
 These branches were created by [@all-contributors](https://github.com/all-contributors/) to add to a table in this project.
 
+[all-contributors/add-gamer191](https://github.com/seanpm2001/seanpm2001/tree/all-contributors/add-gamer191/)
+
 [all-contributors/add-seanwallawalla](https://github.com/seanpm2001/seanpm2001/tree/all-contributors/add-seanwallawalla/)
 
 [all-contributors/add-inverno4](https://github.com/seanpm2001/seanpm2001/tree/all-contributors/add-inverno4/)
@@ -87,13 +89,13 @@ These branches were created by [@all-contributors](https://github.com/all-contri
 
 ***
 
-**File version:** `1 (2022, Friday, January 7th at 6:20 pm)`
+**File version:** `2 (2022, Wednesday, January 19th at 3:33 pm)`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `103`
+**Line count (including blank lines and compiler line):** `105`
 
-**Article language:** `English (US)`
+**Article language:** `English (US)` / Markdown / HTML5
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
