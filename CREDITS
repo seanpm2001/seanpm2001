@@ -1,20 +1,25 @@
-
----
+== Credits ==
 
 {{int:version-credits-summary}}
-Seanpm2001/Seanpm2001 is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+seanpm2001/seanpm2001 is a semi-collaborative project, and it is released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
 
-This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+=== Maintainers ===
 
-== Maintainers ==
-<!-- BEGIN MAINTAINERS LIST !-->
+1. @seanpm2001 - Creator and primary maintainer of seanpm2001/seanpm2001
+2. @all-contributors[bot]
+3. No other contributors as of Thursday, 2022, March 10th at 2:04 pm
 
-1. @seanpm2001 - Creator and primary maintainer of this project
-2. No other contributors as of Tuesday, August 17th 2021
+=== Contributors ===
 
-== Contributors ==
-<!-- BEGIN CONTRIBUTOR LIST -->
 1. @seanpm2001
-2. No other contributors as of Tuesday, August 17th 2021
+2. @all-contributors[bot]
+3. @GitHub (For GitHub, and for being the first host of this project)
+4. @Python (For the Python programming language)
+5. No other contributors as of Thursday, 2022, March 10th at 2:04 pm
 
----
+=== File info ===
+
+File type: Plain Text document
+File version: 2 (2022, Thursday, March 10th at 2:04 pm)
+Line count (including blank lines and compiler line): 28
