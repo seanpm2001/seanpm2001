@@ -7,9 +7,13 @@ Jump on over to another branch of this repository.
 
 [All branches](https://github.com/seanpm2001/seanpm2001/branches/)
 
+Reset to branch 0.
+
+[$NOTREE](https://github.com/seanpm2001/seanpm2001/)
+
 ## Active
 
-[Main](https://github.com/seanpm2001/seanpm2001/)
+[master](https://github.com/seanpm2001/seanpm2001/tree/master/)
 
 ## Default
 
@@ -89,16 +93,16 @@ These branches were created by [@all-contributors](https://github.com/all-contri
 
 ***
 
-**File version:** `2 (2022, Wednesday, January 19th at 3:33 pm)`
+**File version:** `3 (2022, Thursday, March 10th at 2:50 pm)`
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**Line count (including blank lines and compiler line):** `105`
+**Line count (including blank lines and compiler line):** `109`
 
-**Article language:** `English (US)` / Markdown / HTML5
+**Article language:** `English (EN_US)` / Markdown (CommonMark) / HTML (HTML 5.3)`
 
 **All times are UTC-7 (PDT/Pacific Time)**
 
-**You may need special rendering support for the `<dropdown>` HTML tag being used in this document**
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 ***
