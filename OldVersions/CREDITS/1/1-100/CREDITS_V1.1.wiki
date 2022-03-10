@@ -1,0 +1,43 @@
+
+----
+
+== Credits ==
+
+{{int:version-credits-summary}}
+seanpm2001/seanpm2001 is a semi-collaborative project, and it is released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+=== Maintainers ===
+
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of ReStructuredText_Sandbox
+
+2. @all-contributors[bot]
+
+3. No other contributors as of Thursday, 2022, March 10th at 2:00 pm
+
+=== Contributors ===
+
+<!-- BEGIN CONTRIBUTOR LIST -->
+
+1. @seanpm2001
+
+2. @all-contributors[bot]
+
+3. @GitHub (For GitHub, and for being the first host of this project)
+
+4. @Python (For the Python programming language)
+
+5. No other contributors as of Thursday, 2022, March 10th at 2:00 pm
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>1 (2022, Thursday, March 10th at 2:00 pm)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>44</i>
+
+----
