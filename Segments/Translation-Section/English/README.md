@@ -57,7 +57,7 @@ Currently, 1 global language is listed, and that is Esperanto. Esperanto is not 
 
 Sexuality is not measured here, I feel it would be unnecessary, as you are picking out a language, not a sexuality.
 
-💠️ **[Location of flag 🚩️]**
+💠️ **[Location of flag 🚩️]** 💠️
 
 Flags are located at the end of each language name (after the Romanization) with one space before, to the right.
 
@@ -79,7 +79,7 @@ And also not like this:
 
 ***
 
-<details><summary><p lang="en">Click/tap here to expand/collapse the developer notes section</p>
+<details><summary><p lang="en">Click/tap here to expand/collapse the developer notes section</p></summary>
 
 **2022.03.12**
 
@@ -97,7 +97,7 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 ⚠️ There might be noticeable lag in this section due to how many flag emojis are in use.
 
-**Languages segment version:** `4 (2022, Monday, March 14th at 1:59 pm)`
+**Languages segment version:** `5 (2022, Monday, March 14th at 2:28 pm)`
 
 </details>
 
