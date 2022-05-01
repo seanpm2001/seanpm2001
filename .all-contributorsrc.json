@@ -298,6 +298,25 @@
         "mentoring",
         "review"
       ]
+    },
+    {
+      "login": "Qamberhasnain",
+      "name": "Qamber Hasnain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63412921?v=4",
+      "profile": "https://www.linkedin.com/in/qamberhasnain/",
+      "contributions": [
+        "design",
+        "content"
+      ]
+    },
+    {
+      "login": "indatawetrust",
+      "name": "Ahmet Simsek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6845298?v=4",
+      "profile": "http://indatawetrust.github.io",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
