@@ -317,6 +317,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "tim79000",
+      "name": "tim79000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100736284?v=4",
+      "profile": "https://github.com/Tim79000",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
