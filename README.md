@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
 
-[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
+<!--[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th /-->
 
 Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
 
