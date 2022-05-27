@@ -1,0 +1,27 @@
+name: Status post
+description: Start a status post (only @seanpm2001 can raise this issue type, others will be closed)
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Unknown
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+      options:
+        - label: I verified that I am @seanpm2001
+          required: true
+
+  - type: textarea
+    attributes:
+      label: GitHub Status [<year>] [<month>] [<day>]
+      description: Status post goes here
+    validations:
+      required: true
+
+# File info
+# File type: GitHub status post issue template (*.yml)
+# File version: 1 (2022, Thursday, May 26th at 5:14 pm PST)
+# Line count (including blank lines and compiler line): 28
