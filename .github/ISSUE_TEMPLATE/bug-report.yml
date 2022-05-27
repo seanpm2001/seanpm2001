@@ -1,0 +1,310 @@
+name: Bug Report
+description: File a bug report
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Unknown
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+      options:
+        - label: I verified that this is not an existing issue
+          required: true
+        - label: This is not a question, poll, or discussion
+          required: true
+        - label: I checked the documentation to understand that the issue I report is not a normal behavior
+          required: true
+        - label: I am sure this is an program bug, and not an operating system bug
+          required: true
+
+  - type: checkboxes
+    attributes:
+      label: I tried to reproduce the issue when...
+      options:
+        - label: The repository was downloaded to my device/was viewing through the web browser
+          required: true
+        - label: I was using the latest version of the project
+          required: true
+        - label: I was using the version from the right source
+          required: false
+        - label: I did not modify the project
+          required: false
+          
+  - type: checkboxes
+    attributes:
+      label: My issue involves...
+      options:
+        - label: Formatting issues
+          required: false
+        - label: Dead link
+          required: true
+        - label: A GUI/CLI bug
+          required: false
+        - label: The project language file (won't run)
+          required: false
+        - label: The project language file (doesn't run correctly)
+          required: false
+        - label: Documentation (not being clear)
+          required: false
+        - label: Documentation (being missing)
+          required: false
+        - label: A runtime error
+          required: false     
+        - label: Other (please describe)
+          required: false
+
+  - type: checkboxes
+    attributes:
+      label: My web browser is
+      options:
+        - label: Firefox (88.0+)
+          required: false
+        - label: DuckDuckGo
+          required: false
+        - label: Safari (13+)
+          required: false
+        - label: Internet Explorer 11
+          required: false
+        - label: Microsoft Edge (EdgeHTML)
+          required: false
+        - label: Microsoft Edge (Chromium)
+          required: false
+        - label: Basilisk
+          required: false
+        - label: Pale Moon
+          required: false
+        - label: Opera
+          required: false
+        - label: Samsung Internet
+          required: false
+        - label: Google Chrome (100.x+)
+          required: false
+        - label: Other/unlisted
+          required: false
+
+  - type: checkboxes
+    attributes:
+      label: My operating system is:
+      options:
+        - label: Android 4.0 (Ice Cream Sandwich)
+          required: false
+        - label: Android 4.1/4.2/4.3 (Jellybean)
+          required: false
+        - label: Android 4.4 (KitKat)
+          required: false
+        - label: Android 5.0/5.1 (Lollipop)
+          required: false
+        - label: Android 6.0/6.1 (Marshmallow)
+          required: false
+        - label: Android 7.0/7.1 (Nougat)
+          required: false
+        - label: Android 8.0/8.1 (Oreo)
+          required: false
+        - label: Android 9.0/9.1 (Pie)
+          required: false
+        - label: Android 10.0/10.1 (Q)
+          required: false
+        - label: Android 11.0/11.1 (R)
+          required: false
+        - label: Android 12.0/12.1 (S)
+          required: false
+        - label: Arch Linux
+          required: false
+        - label: BSD
+          required: false
+        - label: ChromeOS
+          required: false
+        - label: ChromiumOS
+          required: false
+        - label: CentOS 7
+          required: false
+        - label: CentOS 8
+          required: false
+        - label: CentOS 8 (Stream)
+          required: false
+        - label: Debian 8
+          required: false
+        - label: Debian 9
+          required: false
+        - label: Debian 10
+          required: false
+        - label: Debian 11
+          required: false
+        - label: DeepIn Linux
+          required: false
+        - label: ElementaryOS
+          required: false
+        - label: Edubuntu
+          required: false
+        - label: Fedora Linux (29+)
+          required: false
+        - label: FreeBSD (29+)
+          required: false
+        - label: Gentoo Linux
+          required: false
+        - label: HarmonyOS
+          required: false
+        - label: iOS 10
+          required: false
+        - label: iOS 11
+          required: false
+        - label: iOS 12
+          required: false
+        - label: iOS 13
+          required: false
+        - label: iOS 14
+          required: false
+        - label: iOS 15
+          required: false
+        - label: iPadOS 13
+          required: false
+        - label: iPadOS 14
+          required: false
+        - label: iPadOS 15
+          required: false
+        - label: Kali Linux
+          required: false
+        - label: Kubuntu
+          required: false
+        - label: Lubuntu
+          required: false
+        - label: Manjaro Linux
+          required: false
+        - label: Mandriva Linux
+          required: false
+        - label: MacOS 10.13
+          required: false
+        - label: MacOS 10.14
+          required: false
+        - label: MacOS 10.15
+          required: false
+        - label: MacOS 11.x
+          required: false
+        - label: MacOS 12.x
+          required: false
+        - label: NetBSD
+          required: false
+        - label: NixOS
+          required: false
+        - label: OpenIndiana
+          required: false
+        - label: OpenMandriva
+          required: false
+        - label: OpenBSD
+          required: false
+        - label: PostMarketOS
+          required: false
+        - label: PuppyLinux
+          required: false
+        - label: Red Hat Enterpise Linux 8
+          required: false
+        - label: Raspberry Pi OS
+          required: false
+        - label: RaspbianOS
+          required: false
+        - label: Solaris
+          required: false
+        - label: SymbianOS
+          required: false
+        - label: TailsOS
+          required: false
+        - label: Trisquel Linux
+          required: false
+        - label: Ubuntu 12.04 to 13.10
+          required: false
+        - label: Ubuntu 14.04 to 15.10
+          required: false
+        - label: Ubuntu 16.04 to 17.10
+          required: false
+        - label: Ubuntu 18.04 to 19.10
+          required: false
+        - label: Ubuntu 20.04 to 21.10
+          required: false
+        - label: Ubuntu 22.04
+          required: false
+        - label: Vinux
+          required: false
+        - label: Void Linux
+          required: false
+        - label: Windows 7
+          required: false
+        - label: Windows 8/8.1
+          required: false
+        - label: Windows 10
+          required: false
+        - label: Windows 11
+          required: false
+        - label: Xubuntu
+          required: false
+        - label: ZorinOS
+          required: false
+        - label: Other/unlisted
+          required: false
+  - type: checkboxes
+    attributes:
+      label: I obtained this repository data from...
+      options:
+        - label: This GitHub repository
+          required: true
+
+  - type: checkboxes
+    attributes:
+      label: I am running this repository in a virtual machine...
+      options:
+        - label: Yes (with Oracle VM VirtualBox)
+          required: false
+        - label: Yes (with VMWare)
+          required: false
+        - label: Yes (with Hyper-V)
+          required: false
+        - label: Yes (with Qemu)
+          required: false
+        - label: Yes (with another virtual machine option that isn't listed)
+          required: false
+        - label: No (I am running it on my host computer)
+          required: false
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: Description of the bug or feature. Please also list the version of the programming language you tested with.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. [First Step]
+        2. [Second Step]
+        3. [and so on...]
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: What you expected to happen
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: What actually happened
+    validations:
+      required: true  
+
+  - type: input
+    attributes:
+      label: Git-image repository version
+    validations:
+      required: true
+
+# File info
+# File type: GitHub bug report issue template (*.yml)
+# File version: 1 (2022, Thursday, May 26th at 5:47 pm PST)
+# Line count (including blank lines and compiler line): 311
