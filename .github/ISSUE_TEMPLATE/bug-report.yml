@@ -87,7 +87,7 @@ body:
 
   - type: checkboxes
     attributes:
-      label: My operating system is:
+      label: My operating system is...
       options:
         - label: Android 4.0 (Ice Cream Sandwich)
           required: false
@@ -306,5 +306,5 @@ body:
 
 # File info
 # File type: GitHub bug report issue template (*.yml)
-# File version: 1 (2022, Thursday, May 26th at 5:47 pm PST)
+# File version: 2 (2022, Thursday, May 26th at 5:57 pm PST)
 # Line count (including blank lines and compiler line): 311
