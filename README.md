@@ -10,7 +10,7 @@
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
 
@@ -18,7 +18,29 @@
 
 [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 29th
 
+![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-light-mode-only) - This counter was added on 2022 June 12th
+
+[Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/)
+
+> Warning:
+
+Data is currently incomplete, over 500 HTTP 201 errors were thrown. It may be fixed in the next build.
+
+<!-- Bad tests
+[![Languages]](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg)
+
+[![Languages]](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/languages.svg)
+!-->
+
+Top 5
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
+
+Top 100+
+
+![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) - This counter was added on 2022 June 12th
 
 <!--[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th !-->
 
@@ -38,7 +60,7 @@ Do you want to have these counters on your profile? They are pretty easy to set 
 
 > * [Top languages](https://github.com/anuraghazra/github-readme-stats#demo-1)
 
-[Wakatime stats](https://github.com/anmol098/waka-readme-stats/)
+[Wakatime stats](https://github.com/anmol098/waka-readme-stats/) (no longer in use)
 
 [GitHub profile README generator](https://github.com/rahuldkjain/github-profile-readme-generator/)
 
@@ -74,7 +96,7 @@ Or you can copy my setup and make your way from there (or do both)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-**Wakatime stats**
+**Wakatime stats** (no longer in use)
 
 ```markdown
 [![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
@@ -1586,6 +1608,8 @@ The current public email address is [seanpm2001-mailing-list@protonmail.com](mai
 
 The email address is for professional use, and is tied to my GitHub developer program membership. It is to be used for serious inqueries and security reports. It is NOT to be used for conversation, advertising, notifications, or spam. If you wish to chat, I have a [Discord Server](https://discord.gg/CcFpEDQ) here, and I plan to have a more privacy friendly platform for communication in the near future.
 
+Note: this email address is NOT a mailing list, it is just named like that. The name was inspired by the Linux Kernel Mailing List.
+
 ***
 
 ## Workflows (seanpm2001/seanpm2001)
@@ -1814,11 +1838,11 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `54 (Monday, 2022 March 14th at 2:28 pm PST)`
+**File version:** `60 (Monday, 2022 June 12th at 8:16 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,220`
+**Line count (including blank lines and compiler line):** `3,269`
 
-**Current article language:** `English (EN_US) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
+**Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
 **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 
@@ -2766,51 +2790,73 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 54
 
-**Version 55 (Coming soon)**
+**Version 55 (2022, Sunday, May 1st at 3:53 pm PST)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section, adding @QamberHasnain
 
 > * No other changes in version 55
 
-**Version 56 (Coming soon)**
+**Version 56 (2022, Sunday, May 1st at 3:58 pm PST)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section, adding @InDataWeTrust
 
 > * No other changes in version 56
 
-**Version 57 (Coming soon)**
+**Version 57 (2022, Tuesday, May 17th at 7:12 pm PST)**
+
+**This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the contributors section, adding @Tim79000
 
 > * No other changes in version 57
 
-**Version 58 (Coming soon)**
+**Version 58 (2022, Friday, May 20th at 1:35 pm PST)**
+
+**This release was made by [@qamberhasnain](https://github.com/qamberhasnain/)**
 
 > Changes:
 
-> * Coming soon
+> * Commented out the WakaTime stats
+
+- - Note from @seanpm2001
+
+> > I have never used WakaTime, I added it, but never used it. I feel like if I were to use it, it would be a little too late, since so many stats are already past.
 
 > * No other changes in version 58
 
-**Version 59 (Coming soon)**
+**Version 59 (2022, Friday, May 20th at 9:03 pm PST)**
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
-> * Coming soon
+> * Fixed the syntax of the last revision to match the project syntax
 
 > * No other changes in version 59
 
-**Version 60 (Coming soon)**
+**Version 60 (2022, Sunday, June 12th at 8:16 pm PST)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the statistics section, testing out some new stats, and further removing WakaTime
+
+> * Updated the email section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the contributors section
 
 > * No other changes in version 60
 
@@ -3160,7 +3206,7 @@ When not me:
 3: @seanwallawalla (alt)
 !-->
   
-[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
