@@ -10,39 +10,20 @@
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - These counters were added on 2021 December 29th
 
-![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats) - This counter was added on 2021 December 29th
-
-[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 29th
-
-![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-light-mode-only) - This counter was added on 2022 June 12th
-
-[Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/)
-
-> Warning:
-
-Data is currently incomplete, over 500 HTTP 201 errors were thrown. It may be fixed in the next build.
+| GitHub Stats (classic, 2021 December 29th) | GitHub Stats (new, improved, 2022 June 12th) |
+|---|---|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-light-mode-only) |
+| [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) |  Null |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | Null |
+| <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) Data is currently incomplete, over 500 HTTP 201 errors were thrown. It may be fixed in the next build. | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) |
 
 <!-- Bad tests
 [![Languages]](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg)
 
 [![Languages]](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/languages.svg)
 !-->
-
-Top 5
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
-
-Top 100+
-
-![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) - This counter was added on 2022 June 12th
-
-<!--[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th !-->
 
 Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
 
@@ -1838,9 +1819,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `60 (Monday, 2022 June 12th at 8:16 pm PST)`
+**File version:** `61 (Monday, 2022 June 13th at 6:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,269`
+**Line count (including blank lines and compiler line):** `3,256`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -2860,11 +2841,17 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 60
 
-**Version 61 (Coming soon)**
+**Version 61 (2022, Monday, June 13th at 6:20 pm PST)**
 
 > Changes:
 
-> * Coming soon
+> * Condensed the stats into a table, need help to make it fit better
+
+> * Removed WakaTime stats (it was commented out, so there is no visible difference)
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 61
 
