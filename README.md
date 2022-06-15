@@ -12,18 +12,12 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - These counters were added on 2021 December 29th
 
-| GitHub Stats (classic, 2021 December 29th) | GitHub Stats (new, improved, 2022 June 12th) |
+| GitHub Stats (classic, added on 2021 December 29th) | GitHub Stats (new, improved, added on 2022 June 12th) |
 |---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-light-mode-only) |
-| [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) |  Null |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | Null |
-| <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) Data is currently incomplete, over 500 HTTP 201 errors were thrown. It may be fixed in the next build. | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) |
-
-<!-- Bad tests
-[![Languages]](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg)
-
-[![Languages]](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/generated/languages.svg)
-!-->
+| [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my older GitHub statistics. They may be more accurate than the new stats. |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my top 5 languages. They may be more accurate than the new counter |
+| <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) There are some problems with the data set, you should read the docs for further information. Common problems include: the numbers going down when they should be going up, not all data being represented (only the past 365 days of activity) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only) |
 
 Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
 
@@ -41,9 +35,9 @@ Do you want to have these counters on your profile? They are pretty easy to set 
 
 > * [Top languages](https://github.com/anuraghazra/github-readme-stats#demo-1)
 
-[Wakatime stats](https://github.com/anmol098/waka-readme-stats/) (no longer in use)
-
 [GitHub profile README generator](https://github.com/rahuldkjain/github-profile-readme-generator/)
+
+[New GitHub profile stats (requires installation, read more here)](https://github.com/jstrieb/github-stats)
 
 Or you can copy my setup and make your way from there (or do both)
 
@@ -77,16 +71,24 @@ Or you can copy my setup and make your way from there (or do both)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
-**Wakatime stats** (no longer in use)
+**New statistics**
 
-```markdown
-[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
+To add your statistics to your GitHub Profile README, copy and paste the following lines of code into your markdown content. Change the username value to your GitHub username.
+
+```
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+```
+
+```
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ```
 
  **The entire setup (with timestamps)**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
 
@@ -96,13 +98,17 @@ Or you can copy my setup and make your way from there (or do both)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
 
-[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ```
 
 **The entire setup (without timestamps)**
 
 ```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
 
@@ -112,7 +118,11 @@ Or you can copy my setup and make your way from there (or do both)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Seanpm2001's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ```
 
 </details>
@@ -554,7 +564,7 @@ I have many repositories. The majority of them are sub-projects to a main projec
 
 My major projects include:
 
-![Original SNU profile picture failed to load. Click/tap here to attempt to view it](/Media/71748421.png)
+<img alt="Original SNU profile picture failed to load. Click/tap here to attempt to view it" src="/Media/71748421.png" width="100"/>
 
 [SNU](https://github.com/seanpm2001/SNU/) - An advanced website hosting platform, aiming to be the Linux of web development, and an alternate to many sites, including YouTube, Twitter, FaceBook, GitHub, Instagram, Reddit, Discord, and hundreds of thousands more.
 
@@ -925,9 +935,11 @@ This section is for information regarding my current work setup (as of March 26t
 
 ### Current hardware
 
-[Laptop: Dell XPS 13 Developer Edition 9300 with Ubuntu 20.04](https://www.dell.com/en-us/work/shop/cty/pdp/spd/xps-13-9300-laptop)
+[Laptop: System76 Pangolin with Ubuntu 22.04](https://system76.com/laptops/pangolin/)
 
+<!--
 [Headphones: Bluetooth Letscom wireless headphones, 100 hour battery, 1200 MaH](https://www.amazon.com/Bluetooth-Headphones-LETSCOM-Wireless-Cellphone/dp/B07TQM2FTD)
+!-->
 
 ### Current software
 
@@ -1819,9 +1831,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `61 (Monday, 2022 June 13th at 6:20 pm PST)`
+**File version:** `63 (Wednesday, 2022 June 15th at 2:40 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,256`
+**Line count (including blank lines and compiler line):** `3,763`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -1846,7 +1858,7 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 ***
 
-**Version 1 (Friday, August 21st 2020 at 4:39 pm)**
+<details><summary><b lang="en">Version 1 (Friday, August 21st 2020 at 4:39 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1872,7 +1884,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 1
 
-**Version 2 (Thursday, September 17th 2020 at 7:20 pm)**
+</details>
+
+<details><summary><b lang="en">Version 2 (Thursday, September 17th 2020 at 7:20 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1894,7 +1908,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 2
 
-**Version 3 (Sunday, November 29th 2020 at 3:50 pm)**
+</details>
+
+<details><summary><b lang="en">Version 3 (Sunday, November 29th 2020 at 3:50 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1916,7 +1932,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 3
 
-**Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)**
+</details>
+
+<details><summary><b lang="en">Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1934,7 +1952,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 4
 
-**Version 5 (Wednesday, January 13th 2021 at 2:56 pm)**
+</details>
+
+<details><summary><b lang="en">Version 5 (Wednesday, January 13th 2021 at 2:56 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1950,7 +1970,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 5
 
-**Version 6 (Thursday, March 4th 2021 at 3:30 pm)**
+</details>
+
+<details><summary><b lang="en">Version 6 (Thursday, March 4th 2021 at 3:30 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -1978,7 +2000,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 6
 
-**Version 7 (Saturday, March 27th 2021 at 8:38 pm)**
+</details>
+
+<details><summary><b lang="en">Version 7 (Saturday, March 27th 2021 at 8:38 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2026,7 +2050,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 7
 
-**Version 8 (Wednesday, March 31st 2021 at 4:08 pm)**
+</details>
+
+<details><summary><b lang="en">Version 8 (Wednesday, March 31st 2021 at 4:08 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2048,7 +2074,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 8
 
-**Version 9 (Thursday, April 1st 2021 at 6:33 pm)**
+</details>
+
+<details><summary><b lang="en">Version 9 (Thursday, April 1st 2021 at 6:33 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2074,7 +2102,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 9
 
-**Version 10 (Wednesday, May 5th 2021 at 2:45 pm)**
+</details>
+
+<details><summary><b lang="en">Version 10 (Wednesday, May 5th 2021 at 2:45 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2100,7 +2130,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 10
 
-**Version 11 (Wednesday, March 5th 2021 at 2:56 pm)**
+</details>
+
+<details><summary><b lang="en">Version 11 (Wednesday, March 5th 2021 at 2:56 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2114,7 +2146,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 11
 
-**Version 12 (Sunday, May 9th 2021 at 8:13 pm)**
+</details>
+
+<details><summary><b lang="en">Version 12 (Sunday, May 9th 2021 at 8:13 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2128,7 +2162,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 12
 
-**Version 13 (Tuesday, May 11th 2021 at 6:33 pm)**
+</details>
+
+<details><summary><b lang="en">Version 13 (Tuesday, May 11th 2021 at 6:33 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2146,7 +2182,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 13
 
-**Version 14 (Friday, August 6th 2021 at 3:13 pm)**
+</details>
+
+<details><summary><b lang="en">Version 14 (Friday, August 6th 2021 at 3:13 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2174,7 +2212,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 14
 
-**Version 15 (Saturday, August 7th 2021 at 2:13 pm)**
+</details>
+
+<details><summary><b lang="en">Version 15 (Saturday, August 7th 2021 at 2:13 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2194,7 +2234,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 15
 
-**Version 16 (2021, Wednesday, December 29th at 6:02 pm)**
+</details>
+
+<details><summary><b lang="en">Version 16 (2021, Wednesday, December 29th at 6:02 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2210,7 +2252,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 16
 
-**Version 17 (2021, Wednesday, December 29th at 6:03 pm)**
+</details>
+
+<details><summary><b lang="en">Version 17 (2021, Wednesday, December 29th at 6:03 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2224,7 +2268,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 17
 
-**Version 18 (2021, Wednesday, December 29th at 6:04 pm)**
+</details>
+
+<details><summary><b lang="en">Version 18 (2021, Wednesday, December 29th at 6:04 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2238,7 +2284,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 18
 
-**Version 19 (2021, Wednesday, December 29th at 6:05 pm)**
+</details>
+
+<details><summary><b lang="en">Version 19 (2021, Wednesday, December 29th at 6:05 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2252,7 +2300,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 19
 
-**Version 20 (2021, Wednesday, December 29th at 6:06 pm)**
+</details>
+
+<details><summary><b lang="en">Version 20 (2021, Wednesday, December 29th at 6:06 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2266,7 +2316,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 20
 
-**Version 21 (2021, Wednesday, Decemnber 29th at 6:08 pm)**
+</details>
+
+<details><summary><b lang="en">Version 21 (2021, Wednesday, Decemnber 29th at 6:08 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2280,7 +2332,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 21
 
-**Version 22 (2021, Wednesday, December 29th at 6:11 pm)**
+</details>
+
+<details><summary><b lang="en">Version 22 (2021, Wednesday, December 29th at 6:11 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2294,7 +2348,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 22
 
-**Version 23 (2021, Wednesday, December 29th at 6:48 pm)**
+</details>
+
+<details><summary><b lang="en">Version 23 (2021, Wednesday, December 29th at 6:48 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2308,7 +2364,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 23
 
-**Version 24 (2021, Wednesday, December 29th at 6:51 pm)**
+</details>
+
+<details><summary><b lang="en">Version 24 (2021, Wednesday, December 29th at 6:51 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2322,7 +2380,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 24
 
-**Version 25 (2021, Wednesday, December 29th at 6:54 pm)**
+</details>
+
+<details><summary><b lang="en">Version 25 (2021, Wednesday, December 29th at 6:54 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2336,7 +2396,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 25
 
-**Version 26 (2021, Wednesday, December 29th at 6:56 pm)**
+</details>
+
+<details><summary><b lang="en">Version 26 (2021, Wednesday, December 29th at 6:56 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2350,7 +2412,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 26
 
-**Version 27 (2021, Wednesday, December 29th at 7:02 pm)**
+</details>
+
+<details><summary><b lang="en">Version 27 (2021, Wednesday, December 29th at 7:02 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2363,8 +2427,10 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > * Added [@Coriiander](https://github.com/Coriiander/) to the Contributor section
 
 > * No other changes in version 27
- 
-**Version 28 (2021, Wednesday, December 29th at 7:04 pm)**
+
+</details>
+
+<details><summary><b lang="en">Version 28 (2021, Wednesday, December 29th at 7:04 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2378,7 +2444,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 28
 
-**Version 29 (2021, Wednesday, December 29th at 7:07 pm)**
+</details>
+
+<details><summary><b lang="en">Version 29 (2021, Wednesday, December 29th at 7:07 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2392,7 +2460,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 29
 
-**Version 30 (2021, Wednesday, December 29th at 7:10 pm)**
+</details>
+
+<details><summary><b lang="en">Version 30 (2021, Wednesday, December 29th at 7:10 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2406,7 +2476,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 30
 
-**Version 31 (2021, Wednesday, December 29th at 7:13 pm)**
+</details>
+
+<details><summary><b lang="en">Version 31 (2021, Wednesday, December 29th at 7:13 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2420,7 +2492,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 31
 
-**Version 32 (2021, Wednesday, December 29th at 10:01 pm)**
+</details>
+
+<details><summary><b lang="en">Version 32 (2021, Wednesday, December 29th at 10:01 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2434,7 +2508,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 32
 
-**Version 33 (2021, Thursday, December 30th at 2:46 pm)**
+</details>
+
+<details><summary><b lang="en">Version 33 (2021, Thursday, December 30th at 2:46 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2446,14 +2522,11 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * Added [@Rob--W](https://github.com/Rob--w/) to the Contributor section
 
-<!--
-  https://github.com/Rob--W
-
-!-->
-
 > * No other changes in version 33
 
-**Version 34 (2021, Thursday, December 30th at 2:48 pm)**
+</details>
+
+<details><summary><b lang="en">Version 34 (2021, Thursday, December 30th at 2:48 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2467,7 +2540,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 34
 
-**Version 35 (2021, Thursday, December 30th at 2:50 pm)**
+</details>
+
+<details><summary><b lang="en">Version 35 (2021, Thursday, December 30th at 2:50 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2481,7 +2556,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 35
 
-**Version 36 (2021, Thursday, December 30th at 2:51 pm)**
+</details>
+
+<details><summary><b lang="en">Version 36 (2021, Thursday, December 30th at 2:51 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2495,7 +2572,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 36
 
-**Version 37 (2021, Thursday, December 30th at 2:52 pm)**
+</details>
+
+<details><summary><b lang="en">Version 37 (2021, Thursday, December 30th at 2:52 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2509,7 +2588,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 37
 
-**Version 38  (2021, Thursday, December 30th at 2:54 pm)**
+</details>
+
+<details><summary><b lang="en">Version 38 (2021, Thursday, December 30th at 2:54 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2523,7 +2604,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 38
 
-**Version 39 (2021, Thursday, December 30th at 3:35 pm)**
+</details>
+
+<details><summary><b lang="en">Version 39 (2021, Thursday, December 30th at 3:35 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2543,7 +2626,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 39
 
-**Version 40 (2021, Thursday, December 30th at 7:43 pm)**
+</details>
+
+<details><summary><b lang="en">Version 40 (2021, Thursday, December 30th at 7:43 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2559,7 +2644,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 40
 
-**Version 41 (2021, Thursday, December 30th at 7:44 pm)**
+</details>
+
+<details><summary><b lang="en">Version 41 (2021, Thursday, December 30th at 7:44 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2573,7 +2660,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 41
 
-**Version 42 (2021, Thursday, December 30th at 7:54 pm)**
+</details>
+
+<details><summary><b lang="en">Version 42 (2021, Thursday, December 30th at 7:54 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2589,7 +2678,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 42
 
-**Version 43 (2022, Sunday, January 2nd at 3:23 pm)**
+</details>
+
+<details><summary><b lang="en">Version 43 (2022, Sunday, January 2nd at 3:23 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2603,7 +2694,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 43
 
-**Version 44 (2022, Sunday, January 2nd at 3:27 pm)**
+</details>
+
+<details><summary><b lang="en">Version 44 (2022, Sunday, January 2nd at 3:27 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2617,7 +2710,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 44
 
-**Version 45 (2022, Sunday, January 2nd at 3:31 pm)**
+</details>
+
+<details><summary><b lang="en">Version 45 (2022, Sunday, January 2nd at 3:31 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2631,7 +2726,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 45
 
-**Version 46 (2022, Sunday, January 2nd at 3:34 pm)**
+</details>
+
+<details><summary><b lang="en">Version 46 (2022, Sunday, January 2nd at 3:34 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2645,7 +2742,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 46
 
-**Version 47 (2022, Sunday, January 2nd at 3:38 pm)**
+</details>
+
+<details><summary><b lang="en">Version 47 (2022, Sunday, January 2nd at 3:38 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2659,7 +2758,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 47
 
-**Version 48 (2022, Sunday, January 2nd at 4:00 pm)**
+</details>
+
+<details><summary><b lang="en">Version 48 (2022, Sunday, January 2nd at 4:00 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2677,7 +2778,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 48
 
-**Version 49 (2022, Friday, January 7th at 3:36 pm)**
+</details>
+
+<details><summary><b lang="en">Version 49 (2022, Friday, January 7th at 3:36 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2699,7 +2802,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 49
 
-**Version 50 (2022, Tuesday, January 11th at 7:58 pm)**
+</details>
+
+<details><summary><b lang="en">Version 50 (2022, Tuesday, January 11th at 7:58 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2717,7 +2822,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 50
 
-**Version 51 (2022 Thursday, March 10th at 12:06 am)**
+</details>
+
+<details><summary><b lang="en">Version 51 (2022 Thursday, March 10th at 12:06 am)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2735,7 +2842,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 51
 
-**Version 52 (2022, Saturday, March 12th at 10:45 pm)**
+</details>
+
+<details><summary><b lang="en">Version 52 (2022, Saturday, March 12th at 10:45 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2749,7 +2858,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 52
 
-**Version 53 (Unknown)**
+</details>
+
+<details><summary><b lang="en">Version 53 (Unknown)</b></summary>
 
 > Changes:
 
@@ -2757,7 +2868,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 53
 
-**Version 54 (2022, Monday, March 14th at 2:28 pm)**
+</details>
+
+<details><summary><b lang="en">Version 54 (2022, Monday, March 14th at 2:28 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2771,7 +2884,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 54
 
-**Version 55 (2022, Sunday, May 1st at 3:53 pm PST)**
+</details>
+
+<details><summary><b lang="en">Version 55 (2022, Sunday, May 1st at 3:53 pm PST)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2781,7 +2896,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 55
 
-**Version 56 (2022, Sunday, May 1st at 3:58 pm PST)**
+</details>
+
+<details><summary><b lang="en">Version 56 (2022, Sunday, May 1st at 3:58 pm PST)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2791,7 +2908,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 56
 
-**Version 57 (2022, Tuesday, May 17th at 7:12 pm PST)**
+</details>
+
+<details><summary><b lang="en">Version 57 (2022, Tuesday, May 17th at 7:12 pm PST)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
 
@@ -2801,7 +2920,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 57
 
-**Version 58 (2022, Friday, May 20th at 1:35 pm PST)**
+</details>
+
+<details><summary><b lang="en">Version 58 (2022, Friday, May 20th at 1:35 pm PST)</b></summary>
 
 **This release was made by [@qamberhasnain](https://github.com/qamberhasnain/)**
 
@@ -2815,7 +2936,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 58
 
-**Version 59 (2022, Friday, May 20th at 9:03 pm PST)**
+</details>
+
+<details><summary><b lang="en">Version 59 (2022, Friday, May 20th at 9:03 pm PST)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
@@ -2825,7 +2948,11 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 59
 
-**Version 60 (2022, Sunday, June 12th at 8:16 pm PST)**
+</details>
+
+<details><summary><b lang="en">Version 60 (2022, Sunday, June 12th at 8:16 pm PST)</b></summary>
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -2841,7 +2968,11 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 60
 
-**Version 61 (2022, Monday, June 13th at 6:20 pm PST)**
+</details>
+
+<details><summary><b lang="en">Version 61 (2022, Monday, June 13th at 6:20 pm PST)</b></summary>
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -2855,23 +2986,45 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 61
 
-**Version 62 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 62 (2022, Monday, June 13th at 10:45 pm PST)</b></summary>
+
+**This release was made by [@qamberhasnain](https://github.com/qamberhasnain/)**
 
 > Changes:
 
-> * Coming soon
+> * Fixed the width of 2 image files (QMeadows logo, and journaling logo)
 
 > * No other changes in version 62
 
-**Version 63 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 63 (2022, Wednesday, June 15th at 2:40 pm PST)</b></summary>
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
-> * Coming soon
+> * Completely removed all references of WakaTime, except for in older versions, and in the version history section
+
+> * Updated the statistics section, removed WakaTime, and gave new examples
+
+> * Transformed all version history logs into dropdown entries
+
+> * Modified the statistics table to give more information, and support dark mode (the new languages image originally disappeared when dark mode was enabled)
+
+> * Fixed the width of the SNU logo
+
+> * Updated the file info section
+
+> * Updated the file history section, adding 128 dropdowns, and extending the entry capacity from 100 to 128, along with adding entry 63
 
 > * No other changes in version 63
 
-**Version 64 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 64 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2879,7 +3032,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 64
 
-**Version 65 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 65 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2887,7 +3042,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 65
 
-**Version 66 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 66 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2895,7 +3052,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 66
 
-**Version 67 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 67 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2903,7 +3062,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 67
 
-**Version 68 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 68 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2911,7 +3072,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 68
 
-**Version 69 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 69 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2919,7 +3082,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 69
 
-**Version 70 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 70 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2927,7 +3092,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 70
 
-**Version 71 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 71 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2935,7 +3102,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 71
 
-**Version 72 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 72 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2943,7 +3112,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 72
 
-**Version 73 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 73 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2951,7 +3122,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 73
 
-**Version 74 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 74 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2959,7 +3132,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 74
 
-**Version 75 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 75 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2967,7 +3142,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 75
 
-**Version 76 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 76 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 76
+
+</details>
+
+<details><summary><b lang="en">Version 77 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2975,15 +3162,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 77
 
-**Version 77 (Coming soon)**
+</details>
 
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 77
-
-**Version 78 (Coming soon)**
+<details><summary><b lang="en">Version 78 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2991,7 +3172,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 78
 
-**Version 79 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 79 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -2999,7 +3182,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 79
 
-**Version 80 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 80 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3007,7 +3192,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 80
 
-**Version 81 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 81 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3015,7 +3202,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 81
 
-**Version 82 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 82 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3023,7 +3212,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 82
 
-**Version 83 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 83 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3031,7 +3222,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 83
 
-**Version 84 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 84 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3039,7 +3232,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 84
 
-**Version 85 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 85 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3047,7 +3242,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 85
 
-**Version 86 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 86 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3055,7 +3252,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 86
 
-**Version 87 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 87 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3063,7 +3262,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 87
 
-**Version 88 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 88 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3071,7 +3272,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 88
 
-**Version 89 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 89 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3079,7 +3282,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 89
 
-**Version 90 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 90 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3087,7 +3292,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 90
 
-**Version 91 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 91 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3095,7 +3302,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 91
 
-**Version 92 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 92 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3103,7 +3312,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 92
 
-**Version 93 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 93 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3111,7 +3322,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 93
 
-**Version 94 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 94 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3119,7 +3332,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 94
 
-**Version 95 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 95 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3127,7 +3342,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 95
 
-**Version 96 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 96 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3135,7 +3352,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 96
 
-**Version 97 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 97 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3143,7 +3362,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 97
 
-**Version 98 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 98 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3151,7 +3372,9 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 98
 
-**Version 99 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 99 (Coming soon)</b></summary>
 
 > Changes:
 
@@ -3159,13 +3382,297 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > * No other changes in version 99
 
-**Version 100 (Coming soon)**
+</details>
+
+<details><summary><b lang="en">Version 100 (Coming soon)</b></summary>
 
 > Changes:
 
 > * Coming soon
 
 > * No other changes in version 100
+
+</details>
+
+<details><summary><b lang="en">Version 101 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 101
+
+</details>
+
+<details><summary><b lang="en">Version 102 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 102
+
+</details>
+
+<details><summary><b lang="en">Version 103 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 103
+
+</details>
+
+<details><summary><b lang="en">Version 104 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 104
+
+</details>
+
+<details><summary><b lang="en">Version 105 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 105
+
+</details>
+
+<details><summary><b lang="en">Version 106 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 106
+
+</details>
+
+<details><summary><b lang="en">Version 107 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 107
+
+</details>
+
+<details><summary><b lang="en">Version 108 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 108
+
+</details>
+
+<details><summary><b lang="en">Version 109 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 109
+
+</details>
+
+<details><summary><b lang="en">Version 110 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 110
+
+</details>
+
+<details><summary><b lang="en">Version 111 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 111
+
+</details>
+
+<details><summary><b lang="en">Version 112 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 112
+
+</details>
+
+<details><summary><b lang="en">Version 113 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 113
+
+</details>
+
+<details><summary><b lang="en">Version 114 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 114
+
+</details>
+
+<details><summary><b lang="en">Version 115 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 115
+
+</details>
+
+<details><summary><b lang="en">Version 116 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 116
+
+</details>
+
+<details><summary><b lang="en">Version 117 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 117
+
+</details>
+
+<details><summary><b lang="en">Version 118 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 118
+
+</details>
+
+<details><summary><b lang="en">Version 119 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 119
+
+</details>
+
+<details><summary><b lang="en">Version 120 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 120
+
+</details>
+
+<details><summary><b lang="en">Version 121 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 121
+
+</details>
+
+<details><summary><b lang="en">Version 122 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 122
+
+</details>
+
+<details><summary><b lang="en">Version 123 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 123
+
+</details>
+
+<details><summary><b lang="en">Version 124 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 124
+
+</details>
+
+<details><summary><b lang="en">Version 125 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 125
+
+</details>
+
+<details><summary><b lang="en">Version 126 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 126
+
+</details>
+
+<details><summary><b lang="en">Version 127 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 127
+
+</details>
+
+<details><summary><b lang="en">Version 128 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 128
+
+</details>
 
 </details>
 
