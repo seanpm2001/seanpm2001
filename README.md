@@ -562,21 +562,21 @@ My major projects include:
 
 [MEDOS](https://github.com/seanpm2001/MEDOS/) - An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed.
 
-<details>
-	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>
+<!--<details>
+	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>/-->
 	
-![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/QMDS.png)
+<img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/QMDS.png" width="100"/>
 
-</details>
+<!--</details>/-->
 
 [Meadows](https://github.com/seanpm2001/Meadows/) - My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing/
 
-<details>
-	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>
+<!--<details>
+	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>/-->
 	
-![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/Artikel.png)
+<img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="100"/>
 
-</details>
+<!--</details>/-->
 
 [Journaling](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: May 15th 2040) an audio collection, a set of personal projects, and a set of image repostories. A listing is unavailable as of September 17th 2020.
 
