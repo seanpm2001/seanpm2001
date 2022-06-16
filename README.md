@@ -564,31 +564,80 @@ I have many repositories. The majority of them are sub-projects to a main projec
 
 My major projects include:
 
-<img alt="Original SNU profile picture failed to load. Click/tap here to attempt to view it" src="/Media/71748421.png" width="100"/>
+<img alt="Original SNU profile picture failed to load. Click/tap here to attempt to view it" src="/Media/71748421.png" width="100"/> [`SNU`](https://github.com/seanpm2001/SNU/) - An advanced website hosting platform, aiming to be the Linux of web development, and an alternate to many sites, including YouTube, Twitter, FaceBook, GitHub, Instagram, Reddit, Discord, and hundreds of thousands more.
 
-[SNU](https://github.com/seanpm2001/SNU/) - An advanced website hosting platform, aiming to be the Linux of web development, and an alternate to many sites, including YouTube, Twitter, FaceBook, GitHub, Instagram, Reddit, Discord, and hundreds of thousands more.
+Core repositories:
 
-![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/MEDOS4_Logo.bmp)
+| A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|
+| [SNU](https://github.com/seanpm2001/SNU/) | [SNU 2D Programming Tools](https:/github.com/seanpm2001/SNU_2D_ProgrammingTools) | [SNU 3D Universe](https://github.com/seanpm2001/SNU_3D_Universe/) | [SNU 2D Update Log](https://github.com/seanpm2001/SNU_2D_UpdateLog/) | [SNU 2D Translation](https://github.com/seanpm2001/SNU_2D_Translation/) | [SNU Package Manager](https://github.com/seanpm2001/SNU_Package_Manager/) | [SNU 0D Mode](https://github.com/seanpm2001/SNU_0DMode) | [SNU Extras](https://github.com/seanpm2001/SNU_Extras/) |
+| [SNU CardStack](https://github.com/seanpm2001/SNU_CardStack/) |[SNU 1D Mode](https://github.com/seanpm2001/SNU_1D_Mode/) | [SNU 1D](https://github.com/SNU_1D/) | [SNU 2D](https://github.com/seanpm2001/SNU_2D/) | [SNU 3D](https://github.com/seanpm2001/SNU_3D/) | [SNU 4D](https://github.com/seanpm2001/SNU_4D/) | [SNU BrowserNose](https://github.com/SNU_BrowserNose/) | [SNU 2D Beliefs](https://github.com/SNU_2D_Beliefs/) |
+| [SNU Dimensional Converter](https://github.com/seanpm2001/SNU-Dimensional-Converter/) | [SNU Server Essentials](https://github.com/seanpm2001/SNU_ServerEssentials/) | [SNU Video Settings](https://github.com/seanpm2001/SNU_VideoSettings/) | [SNU User History Management](https://github.com/seanpm2001/SNU_UserHistoryManagement/) | [SNU About page and credits](https://github.com/seanpm2001/SNU_About/) | [SNU Accesiblity settings](https://github.com/seanpm2001/SNU_Accessibility/) | [SNU Extras](https://github.com/seanpm2001/SNU_Extras/) | [SNU Account setup](https://github.com/seanpm2001/SNU_AccountSetup/) |
+| [SNU Internet Museum](https://github.com/seanpm2001/SNU_2D_InternetMuseum/) | [SNU PodCast manager (Podcast TriPod)](https://github.com/seanpm2001/SNU_2D_PodcastTriPod/) | [SNU News aggregator](https://github.com/seanpm2001/SNU_2D_News/) | [SNU Supersearch](https://github.com/seanpm2001/SNU_Supersearch/) | [SNU Ethical and 100% optional advertisement system](https://github.com/seanpm2001/SNU_2D_AD_SYS/) | [SNU User dashboard](https://github.com/seanpm2001/SNU_2D_Dashboard/) | [SNU Malware & Virus research and testing](https://github.com/seanpm2001/SNU_2D_MalwareViru_RepoMode/) | [SNU Meme player](https://github.com/seanpm2001/SNU_2D_Memes/) |
+| [SNU IdeaBoard](https://github.com/seanpm2001/SNU_2D_IdeaBoard/) | [SNU Slang Dictionary](https://github.com/seanpm2001/SNU_2D_SlangDictionary/) | [SNU 2D Blog manager](https://github.com/seanpm2001/SNU_2D_SNU_Blogs) | [SNU Books](https://github.com/seanpm2001/SNU_2D_Books/) | [SNU Game Viewer](https://github.com/seanpm2001/SNU_3D_Game_Viewer/) | [SNU Engine Room](https://github.com/seanpm2001/SNU_2D_Engine-room/) | [SNU Film Plaza](https://github.com/seanpm2001/SNU_2D_Film_Plaza/) | [SNU Terror Bay archive center](https://github.com/seanpm2001/SNU_2D_Terror_Bay/) |
+| [SNU Time Machine](https://github.com/seanpm2001/SNU_2D_Time_Machine/) | [SNU ToS](https://github.com/seanpm2001/SNU_2D_TOS/) | [SNU Video Theater](https://github.com/seanpm2001/SNU_2D_Video_Theater/) | [SNU 3D Printing gallery](https://github.com/seanpm2001/SNU_2D_3DPrinting/) | [SNU Algorithm](https://github.com/seanpm2001/SNU_2D_Algorithm/) | [SNU Business manager](https://github.com/seanpm2001/SNU_2D_Business/) | [SNU Phone (Calling Center)](https://github.com/seanpm2001/SNU_2D_Calling_Center/) | [SNU Character support documentation](https://github.com/seanpm2001/SNU_2D_Character_Support/) |
+| [SNU Evidence Locker](https://github.com/seanpm2001/SNU_2D_EvidenceLocker/) | [SNU Disease Research Center](https://github.com/seanpm2001/SNU_2D_DiseaseResearchCenter/) | [SNU Encyclopedia](https://github.com/seanpm2001/SNU_2D_Encyclopedia/) | [SNU eSchool](https://github.com/seanpm2001/SNU_2D_eSchool/) | [SNU File extension info](https://github.com/seanpm2001/SNU_2D_FileExtensionHelp/) | [SNU FontMill](https://github.com/seanpm2001/SNU_2D_FontMill/) | [SNU Fonts](https://github.com/seanpm2001/SNU_2D_Fonts/) | [SNU Health](https://github.com/seanpm2001/SNU_2D_Health/) |
+| [SNU Job finder](https://github.com/seanpm2001/SNU_2D_Jobs/) | [SNU Life Stories](https://github.com/seanpm2001/SNU_2D_LifeStories/) | [SNU LoopG (Vine alternative)](https://github.com/seanpm2001/SNU_2D_LoopG/) | [SNU Puzzle Center](https://github.com/seanpm2001/SNU_2D_PuzzleCenter/) | [SNU Questionarium](https://github.com/seanpm2001/SNU_2D_Questionarium/) | [SNU Software Center](https://github.com/seanpm2001/SNU_2D_Software_Center/) | [SNU Speedruns](https://github.com/seanpm2001/SNU_2D_Speedrunners/) | [SNU Video Streaming](https://github.com/seanpm2001/SNU_2D_Streams/) |
+| [SNU Suicide Prevention](https://github.com/seanpm2001/SNU_2D_SuicidePrevention/) | [SNU TableTop Gamehouse](https://github.com/seanpm2001/SNU_2D_TableTopGameHouse/) | [SNU Torrent center](https://github.com/seanpm2001/SNU_2D_Torrent/) | [SNU TV](https://github.com/seanpm2001/SNU_2D_TV/) | [SNU Typography Docs](https://github.com/seanpm2001/SNU_2D_TypographyDocs/) | [SNU Video](https://github.com/seanpm2001/SNU_2D_Video/) | [SNU Wiki](https://github.com/seanpm2001/SNU_2D_Wiki/) | [SNU Messenger](https://github.com/seanpm2001/SNU_2D_Messenger/) |
+| [SNU VoIP client (Voices)](https://github.com/seanpm2001/SNU_2D_VoicesVoIP/) | [SNU Story BubbleWand (YT/IG story mode)](https://github.com/seanpm2001/SNU_2D_StoryBubbleWand/) | [SNU Dialup Experience](https://github.com/seanpm2001/SNU_2D_DialupExperience/) | [SNU Twitter Mode](https://github.com/seanpm2001/SNU_2D_TwitterMode) | [SNU Virtual Dictionary](https://github.com/seanpm2001/SNU_2D_VDictionary/) | [SNU Virtual Machine center](https://github.com/seanpm2001/SNU_2D_VMCenter) | [SNU YourSpace (MySpace alternative)](https://github.com/seanpm2001/SNU_2D_YourSpace/) | [SNU YouTube mode](https://github.com/seanpm2001/SNU_2D_YouTubeMode/) |
+| [SNU Lobby](https://github.com/seanpm2001/SNU_Lobby/) | [SNU Cursor settings](https://github.com/seanpm2001/SNU_CursorSettings/) | [SNU Server creator](https://github.com/seanpm2001/SNU_CRTSERVR/) | [SNU Call Center](https://github.com/seanpm2001/SNU_CallCenter/) | [SNU BotCoach (Bot manager)](https://github.com/seanpm2001/SNU_BotCoach/) | [SNU Debug Mode](https://github.com/seanpm2001/SNU_DebugMode) | [SNU Device Manager](https://github.com/seanpm2001/SNU_DeviceManager) | [SNU Legal Resource Center](https://github.com/seanpm2001/SNU_LegalResourceCenter/) |
+| [SNU Mascot Center](https://github.com/seanpm2001/SNU_MascotCenter/) | [SNU Modes](https://github.com/seanpm2001/SNU_Modes/) | [SNU OSKillers](https://github.com/seanpm2001/SNU_OSKillers/) | [SNU Peer to Peer section](https://github.com/seanpm2001/SNU_P2PSection/) | [SNU Playback Settings](https://github.com/seanpm2001/SNU_PlaybackSettings/) | [SNU Privacy Initiative](https://github.com/seanpm2001/SNU_PrivacyInitiative/) | [SNU Project Timeline](https://github.com/seanpm2001/SNU_ProjectTimeline/) | [SNU Protest ToolKit](https://github.com/seanpm2001/SNU_ProtestToolkit/) |
+| [SNU RSS Reader](https://github.com/seanpm2001/SNU_RSS/) | [SNU Internet Front](https://github.com/seanpm2001/SNU_InternetFront/) | [SNU Sound Settings](https://github.com/seanpm2001/SNU_SoundSettings/) | [SNU StartAScript](https://github.com/seanpm2001/SNU_StartAScript/) | [SNU Ancestry](https://github.com/seanpm2001/SNU_Ancestry/) | [SNU Family Tree](https://github.com/seanpm2001/SNU_FamilyTree/) | [SNU Porn](https://github.com7/seanpm2001/SNU_2D_Porn/) | [SNU Erotica](https://github.com/seanpm2001/SNU_2D_Erotica/) |
+| [SNU CloudDrive](https://github.com/seanpm2001/SNU_2D_CloudDrive/) | [SNU Keyboard](https://github.com/seanpm2001/SNU_Keyboard/) | [SNU Sports](https://github.com/seanpm2001/SNU_2D_Sports/) | [SNU eSports](https://github.com/seanpm2001/SNU_2D_eSports/) | [SNU DeepSwap](https://github.com/seanpm2001/SNU_DeepSwap/) | [SNU Urban Dictionary mode](https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode/) | [SNU TextEngine](https://github.com/seanpm2001/SNU_TextEngine/) | 99+ projects not listed |
 
-[MEDOS](https://github.com/seanpm2001/MEDOS/) - An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed.
+![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/MEDOS4_Logo.bmp) [`MEDOS`](https://github.com/seanpm2001/MEDOS/) - An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed.
 
-<!--<details>
-	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>/-->
-	
-<img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/QMDS.png" width="100"/>
+Core repositories:
 
-<!--</details>/-->
+| A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|
+| [MEDOS Home repository](https://github.com/seanpm2001/MEDOS/) | [MEDOS Hard Disk Drive](https://github.com/seanpm2001/MEDOS_HDD/) | [MEDOS Floppy/Virtual floppy Diskette](https://github.com/seanpm2001/MEDOS_Floppy/) | [MEDOS Solid State Drive](https://github.com/seanpm2001/MEDOS_SSD/) | [MEDOS Android App](https://github.com/seanpm2001/MEDOS_AndroidApp/) | [MEDOS Images](https://github.com/seanpm2001/SeansLifeArchive_Images_MEDOS/) | [(Bandcamp) MEDOS System sound effects (free soundtrack, incomplete)](https://seanwallawalla.bandcamp.com/album/medos-beta-4-sound-effects/) | No other results to show here |
 
-[Meadows](https://github.com/seanpm2001/Meadows/) - My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing/
+<img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/QMDS.png" width="100"/> [`Meadows`](https://github.com/seanpm2001/Meadows/) - My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing/
 
-<!--<details>
-	<summary>[Image hidden due to formatting errors. Click/tap here to expand/collapse the image</summary>/-->
-	
-<img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="100"/>
+Core repositories:
 
-<!--</details>/-->
+| A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|
+| [qMeadows (home repository)](https://github.com/seanpm2001/qMeadows/) | [Meadows (old home repository)](https://github.com/seanpm2001/Meadows) | [Meadows Begin](https://github.com/seanpm2001/Meadows_Begin/) | [Meadows Clock & Calendar](https://github.com/seanpm2001/Meadows_Programs_Clock_and_Calendar/) | [qMeadows file cabinet](https://github.com/seanpm2001/qMeadows_fileCabinet/) | [Meadows installer](https://github.com/seanpm2001/Meadows_Mod_Installation_and_Setup/) | [2010s Documentation for Meadows](https://github.com/seanpm2001/Meadows_2010sDocumentation/) | [2020s Documentation for Meadows](https://github.com/seanpm2001/Meadows_2020sDocumentation/) |
+| [Notifications for Meadows](https://github.com/seanpm2001/Meadows_Mod_NotificationCenter/) | [Meadows drive manager](https://github.com/seanpm2001/Meadows_Mod_Drives/) | [Module list for Meadows](https://github.com/seanpm2001/Meadows_Modules/) | [Program list for Meadows](https://github.com/seanpm2001/Meadows_Programs/) | [Meadows Mode manager](https://github.com/seanpm2001/Meadows_Mod_ModeManager/) | [Meadows Virtual Machine manager](https://github.com/seanpm2001/Meadows_Mod_Mode_VM_center_mode/) | [Meadows System settings](https://github.com/seanpm2001/Meadows_Mod_Settings/) | [Meadows battery manager](https://github.com/seanpm2001/Meadows_Mod_Battery_and_power/) |
+| [Meadows EAS](https://github.com/seanpm2001/Meadows_Emergency-Alert-System/) | [Meadows user profile manager](https://github.com/seanpm2001/Meadows_Mod_Profile/) | [Meadows scrolling engine](https://github.com/seanpm2001/Meadows_Scroll_Engine/) | [Meadows UI changer](https://github.com/seanpm2001/Meadows_UI_Mode/) | [Meadows "Quantum defragmentor"](https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter/) |
 
-[Journaling](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: May 15th 2040) an audio collection, a set of personal projects, and a set of image repostories. A listing is unavailable as of September 17th 2020.
+<img alt="Original WOAHS X profile picture failed to load. Click/tap here to attempt to view it" src="/Media/W_WOAH_HighCompression.png" width="100"/> [`WacOS`](https://github.com/seanpm2001/WacOS/) - An operating system megaproject: creating a free, libre, and open source alternative to every Apple system, while maintaining better functionality, and similar feels. No hackintosh needed.
+
+Core repositories:
+
+| A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|
+| [WacOS (home repository)](https://github.com/seanpm2001/WacOS) | [WacOS X](https://github.com/seanpm2001/WacOS_X/) | [WOAHS-X](https://github.com/seanpm2001/WOAHS-X/) | [WacOS Java Runtime Environment (JRE)](https://github.com/seanpm2001/WacOS_JRE/) | [WacOS Wiki (2021 archive)](https://github.com/seanpm2001/WacOS_Wiki_2021/) | [WacOS API](https://github.com/seanpm2001/WacOS_API/) | [WacOS In Ease (At Ease alternative)](https://github.com/seanpm2001/WacOS_In_Ease/) | [Wac OS X Public "Beta"](https://github.com/seanpm2001/WacOS_X_Public_-Beta-/) |
+| [WacOS OnESTEP (NeXTSTEP/OpenSTEP alternative)](https://github.com/seanpm2001/WacOS_OnESTEP/) | [WacOS OpenGS (GS/OS alternative)](https://github.com/seanpm2001/WacOS_OpenGS/) | [WacOS DOS Mode (4 bit and 8 bit)](https://github.com/seanpm2001/WacOS_DOSMode/) | [WacOS Cloud](https://github.com/seanpm2001/WacOS_Cloud/) | [WacOS OpenCyberdog (Cyberdog alternative)](https://github.com/seanpm2001/WacOS_OpenCyberdog_Browser/) | [WacOS Sherman (M4 library)](https://github.com/seanpm2001/WacOS_Sherman/) | [WacOS WAMMY](https://github.com/seanpm2001/WacOS_WAMMY/) | [WacOS AMD Drivers](https://github.com/seanpm2001/WacOS_AMD-Drivers/) |
+| [WacOS Manpages (`$ man wacos`)](https://github.com/seanpm2001/WacOS_ManPages/) | [WacOS Hardware Blueprints](https://github.com/seanpm2001/WacOS_Hardware_Blueprints/) | [WacOS Savannah Browser (Safari alternative)](https://github.com/seanpm2001/WacOS_Savannah_Browser/) | [WacOS OpenAPFS (APFS alternative)](https://github.com/seanpm2001/WacOS_OpenAPFS/) | [Wac OS X 10.0](https://github.com/seanpm2001/WacOS_X_10.0/) | [Wac OS X 10.1](https://github.com/seanpm2001/WacOS_X_10.1/) | [Wac OS X 10.2](https://github.com/seanpm2001/WacOS_X_10.2/) | [Wac OS X 10.3](https://github.com/seanpm2001/WacOS_X_10.3/) |
+| [Wac OS X 10.4](https://github.com/seanpm2001/WacOS_X_10.4/) | [Wac OS X 10.5](https://github.com/seanpm2001/WacOS_X_10.5/) | [Wac OS X 10.6](https://github.com/seanpm2001/WacOS_X_10.6/) | [WOAHS-X 10.7](https://github.com/seanpm2001/WOAHS-X_10.7/) | [WOAHS-X 10.8](https://github.com/seanpm2001/WOAHS-X_10.8/) | [WOAHS-X 10.9](https://github.com/seanpm2001/WOAHS-X_10.9/) | [WOAHS-X 10.10](https://github.com/seanpm2001/WOAHS-X_10.10/) | [WOAHS-X 10.11](https://github.com/seanpm2001/WOAHS-X_10.11/) |
+| [WOAHS-X](https://github.com/seanpm2001/WOAHS-X/) | [WOAHS-X Software portal](https://github.com/seanpm2001/WacOS_WOAHS-X_Software/) | [WOAHS-X Calculator](https://github.com/seanpm2001/WOAHS-X_Software_Calculator/) | [WacPaint (alternative to MacPaint](https://github.com/seanpm2001/WacPaint/) | [WacWrite (alternative to MacWrite)](https://github.com/seanpm2001/WacWrite/) | [WacOS 10.12](https://github.com/seanpm2001/WacOS_10.12/) | [WacOS 10.13](https://github.com/seanpm2001/WacOS_10.13/) | [WacOS 10.14](https://github.com/seanpm2001/WacOS_10.14/) |
+| [WacOS 10.15](https://github.com/seanpm2001/WacOS_10.15/) | [WacOS 11](https://github.com/seanpm2001/WacOS_11/) | [WacOS 12](https://github.com/seanpm2001/WacOS_12/) | [WacOS 13](https://github.com/seanpm2001/WacOS_13/) | [WacOS BaSYS](https://github.com/seanpm2001/WacOS_BaSYS/) | [WacOS BaSYS Calculator](https://github.com/seanpm2001/WacOS_BaSYS_Software_Calculator/) | [whyPhoneOS calculator](https://github.com/seanpm2001/WacOS_whyPhoneOS_Software_Calculator/) | [Modern WacOS Calculator](https://github.com/seanpm2001/WacOS_WacOS_Calculator/) | 
+| [whyPhoneOS 1](https://github.com/seanpm2001/WhyPhoneOS_1/) | [whyPhoneOS 2](https://github.com/seanpm2001/WhyPhoneOS_2/) | [whyPhoneOS 3](https://github.com/seanpm2001/WhyPhoneOS_3/) | [whyPhoneOS](https://github.com/seanpm2001/WhyPhoneOS/) | [whyPadOS](https://github.com/seanpm2001/WhyPadOS/) | [whyPadOS 13](https://github.com/seanpm2001/WhyPadOS_13/) | [whyPadOS 14](https://github.com/seanpm2001/WhyPadOS_14/) |[whyPadOS 15](https://github.com/seanpm2001/WhyPadOS_15/) |
+| [whyPadOS 16](https://github.com/seanpm2001/WhyPadOS_16/) | [wOS 4](https://github.com/seanpm2001/wOS_4/) | [wOS 5](https://github.com/seanpm2001/wOS_5/) | [wOS 6](https://github.com/seanpm2001/wOS_6/) | [wOS 7](https://github.com/seanpm2001/wOS_7/) | [wOS 8](https://github.com/seanpm2001/wOS_8/) | [wOS 9](https://github.com/seanpm2001/wOS_9/) | [wOS 10](https://github.com/seanpm2001/wOS_10/) |
+| [wOS 11](https://github.com/seanpm2001/wOS_11/) | [wOS 12](https://github.com/seanpm2001/wOS_12/) | [wOS 13](https://github.com/seanpm2001/wOS_13/) | [wOS 14](https://github.com/seanpm2001/wOS_14/) | [wOS 15](https://github.com/seanpm2001/wOS_15/) | [wOS 16](https://github.com/seanpm2001/wOS_16/) | [BaSYS 1](https://github.com/seanpm2001/WacOS_BaSYS_1/) | [BaSYS 2](https://github.com/seanpm2001/WacOS_BaSYS_2/) |
+| [BaSYS 3](https://github.com/seanpm2001/WacOS_BaSYS_3/) | [BaSYS 4](https://github.com/seanpm2001/WacOS_BaSYS_4/) | [BaSYS 5](https://github.com/seanpm2001/WacOS_BaSYS_5/) | [BaSYS 6](https://github.com/seanpm2001/WacOS_BaSYS_6/) | [4-bit DOS mode](https://github.com/seanpm2001/WacOS_4-Bit_DOSMode/) | [8-bit DOS mode](https://github.com/seanpm2001/WacOS_8-Bit_DOSMode) | [wOS Calculator](https://github.com/seanpm2001/WacOS_wOS_Software_Calculator/) | Many other entries not yet listed |
+
+<img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="100"/> [`Journaling/Seanpm2001 Life Archive project`](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th
+
+Core repositories:
+
+| A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|
+| [Daily articles](https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/) | [SeansAudioDB](https://github.com/seanpm2001/SeansAudioDB/) | [GitHub Organization Info](https://github.com/seanpm2001/GitHub_Organization_Info/) | [Daily Desktop Screenshots](https://github.com/seanpm2001/Daily-desktop-screenshots/) | [Video directory](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/) | [Images:GitHub](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub/) | [Images:GitHub (2022)](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2022/) | [Images:Journaling development](https://github.com/seanpm20017/SeansLifeArchive_Images_Journaling-development/) |
+| [Seanpm2001 GitHub profile repository](https://github.com/seanpm2001/seanpm2001/) | [Khan Academy data](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/) | Over 300 entries not yet listed |
+
+<img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="100" height="100"/> [`Linux Defender project`](https://github.com/seanpm2001/Linux_Defender/) - An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you.
+
+Core repositories:
+
+| A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|
+| [Linux Defender (home repository)](https://github.com/seanpm2001/Linux_Defender/) | [Linux Defender for Raspberry Pi](https://github.com/seanpm2001/Linux_Defender_For_Raspberry_Pi/) | [Linux Defender for Ubuntu](https://github.com/seanpm2001/Linux_Defender_For_Ubuntu/) | [Linux Defender for Trisquel](https://github.com/seanpm2001/Linux_Defender_For_Trisquel/) | [Linux Defender for CentOS](https://github.com/seanpm2001/Linux_Defender_For_CentOS/) | [Linux Defender for Arch](https://github.com/seanpm2001/Linux_Defender_For_Arch_Linux/) | [Linux Defender for Debian](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) | [Linux Defender for ReplicantOS](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) |
+| [Linux Defender for Fedora Linux](https://github.com/seanpm2001/Linux_Defender_For_Fedora-Linux/) | [Linux Defender for Android](https://github.com/seanpm2001/Linux_Defender_For_Android/) | [Linux Defender for RemixOS](https://github.com/seanpm2001/Linux_Defender_For_RemixOS/) | [Linux Defender for Alpine Linux](https://github.com/seanpm2001/Linux_Defender_For_Alpine_Linux/) | No other entries available | :x: | :x: | :x: |
+
 
 **Other projects:**
 
@@ -1395,33 +1444,31 @@ This is a list of my other hobbies
 
 ### Photography
 
-![CameraIcon2.png](/Media/CameraIcon2.png)
+<img alt="Original photography profile picture failed to load. Click/tap here to attempt to view it" src="/Media/CameraIcon2.png" width="100"/> 
 
 I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
 
 ### Swimming
 
-![WaterDropletCool.png](/Media/WaterDropletCool.png)
+<img alt="Original swimming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/WaterDropletCool.png" width="100"/> 
 
 I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
 
 ### Gaming
 
-![VideoGameController_Icon1.png](/Media/VideoGameController_Icon1.png)
+<img alt="Original gaming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/VideoGameController_Icon1.png" width="100"/> 
 
 I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
 
 ### Graphic design
 
-![GraphicDesignICON.png](/Media/GraphicDesignICON.png)
+<img alt="Original graphic design profile picture failed to load. Click/tap here to attempt to view it" src="/Media/GraphicDesignICON.png" width="100"/> 
 
 I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
 
 ### Linguist
 
-![Linguistics1.jpeg](/Media/Linguistics1.jpeg)
-
-![Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg](/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg)
+<img alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Linguistics1.jpeg" width="100"/>  <img alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" width="100"/> 
 
 I have been a linguist since my early childhood. I jokingly changed my middle name to `language` in my early childhood, but I think it would fit as a 2nd middle name.
 
@@ -1429,7 +1476,7 @@ I like the look and sound of various languages, whether they are human spoken or
 
 ### History buff
 
-![FortressBase.png](/Media/FortressBase.png)
+<img alt="Original history buff profile picture failed to load. Click/tap here to attempt to view it" src="/Media/FortressBase.png" width="100"/> 
 
 I am a history buff, with knowledge of history spanning back over 13.8 billion years ago (Big Bang) to the current day. I like to learn about history, and I have knowledge of a large assortment of eras and events, including extensive knowledge of things other than World War I or World War II (but I also still know a lot about the 2 world wars) for Earth history, my knowledge goes back to 8000 BCE in extensive detail, down to 27000 BCE in less detail, and mostly geological events before 27000 BCE. I like to learn all types of history, and not just the history of warfare.
 
@@ -1437,7 +1484,7 @@ I owe my interest in history to my first High School history teacher, who was re
 
 ### Marine biology
 
-![BlackMooreGoldfish.jpeg](/Media/BlackMooreGoldfish.jpeg)
+<img alt="Original marine biology profile picture failed to load. Click/tap here to attempt to view it" src="/Media/BlackMooreGoldfish.jpeg" width="100"/> 
 
 I recently got back into Marine Biology on March 23rd 2021, and have been learning the subject part-time again. I find it really calming and nostalgic.
 
@@ -1445,7 +1492,7 @@ I recently got back into Marine Biology on March 23rd 2021, and have been learni
 
 ### Journaling
 
-![JournalIcon1.png](/Media/JournalIcon1.png)
+<img alt="Original journaling profile picture failed to load. Click/tap here to attempt to view it" src="/Media/JournalIcon1.png" width="100"/> 
 
 I keep a daily journal. I have been on and off with this for most of my childhood, until sticking with it every day since September 26th 2016.
 
@@ -1457,7 +1504,7 @@ I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain r
 
 ### Vexillology
 
-![fotw-pgr.gif](/Media/fotw-pgr.gif)
+<img alt="Original fotw profile picture failed to load. Click/tap here to attempt to view it" src="/Media/fotw-pgr.gif" width="100"/> 
 
 This is the flag of the Internet, by [FOTW.info](https://www.fotw.info/flags/fotwprfl.html)
 
@@ -1831,9 +1878,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `63 (Wednesday, 2022 June 15th at 2:40 pm PST)`
+**File version:** `64 (Wednesday, 2022 June 15th at 8:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,763`
+**Line count (including blank lines and compiler line):** `3,816`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -3024,11 +3071,17 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b lang="en">Version 64 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 64 (2022, Wednesday, June 15th at 8:06 pm PST)</b></summary>
 
 > Changes:
 
-> * Coming soon
+> * Spent a lot of time linking over a hundred core projects to the key projects section, also adding the WacOS, and Linux Defender sections
+
+> * Fixed the width on more icons throughout the page
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 64
 
