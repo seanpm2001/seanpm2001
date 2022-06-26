@@ -15,8 +15,8 @@
 | GitHub Stats (classic, added on 2021 December 29th) | GitHub Stats (new, improved, added on 2022 June 12th) |
 |---|---|
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/overview.svg#gh-light-mode-only) |
-| [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my older GitHub statistics. They may be more accurate than the new stats. |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my top 5 languages. They may be more accurate than the new counter |
+| [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my older GitHub statistics. They may be more accurate than the new stats. This particular card tends to not always load upon loading my profile. Refresh to fix it if it shows up as a blue link. |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my top 5 languages. They are more accurate than the new counter on most days. |
 | <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) There are some problems with the data set, you should read the docs for further information. Common problems include: the numbers going down when they should be going up, not all data being represented (only the past 365 days of activity) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only) |
 
 Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
@@ -1246,11 +1246,21 @@ Technology, farming, life, language, other.
 
 ### How to reach me
 
-I have multiple methods of being reached. Currently, I can't answer to phone calls or text messages, as my phones SIM card randomly got corrupted. Here are some ways you can message me:
+I have multiple methods of being reached. Currently, I can't answer to phone calls or text messages, as my phones SIM card randomly got corrupted (in early 2022, I also destroyed the SIM/SD slot in my phone due to overuse, so there is no way to fix this now) Here are some ways you can message me:
 
 * Through GitHub (Comment on my most recently edited project, be careful of the exact time, if not, I should eventually get to your message)
+* Through Discord (`Seanpm2001-GitHub` server link: [Click here](https://discord.gg/CcFpEDQ))
 
-* Through Discord (server link: [Click here](https://discord.gg/CcFpEDQ))
+**Discord user links:**
+
+> * `SeanWallaWalla#1709` (my original Discord account)
+> * `seanpm2001#4906` (my newest Discord account)
+
+**Context:**
+
+![Discord_2022.06.21_seanpm_seanpm2001.png](/Media/Discord_Screenshots/2022/June21st/Discord_2022.06.21_seanpm_seanpm2001.png)
+
+On 2022, June 21st, someone joined my Discord server with a username incredibly similar to my own. I had to claim the `seanpm2001` username to prevent an imposter from forming.
 
 * Through Reddit (subreddit link: [Click here r/seanpm2001](https://www.reddit.com/r/seanpm2001/) or through direct message [Click here to view my profile](https://www.reddit.com/user/seanwallawalla/) - currently inactive on the subreddit, but I will likely respond to a reply or DM within 48 hours
 
@@ -1270,7 +1280,7 @@ On December 21st 2020, I created accounts on SourceForge, GitLab, and BitBucket.
 
 [SourceForge link](https://sourceforge.net/u/seanpm2001/profile/)
 
-[GitLab link](https://gitlab.com/seanpm2001)
+[GitLab link](https://gitlab.com/seanpm2001/)
 
 [BitBucket link](https://bitbucket.org/seanpm2001/)
 
@@ -1288,9 +1298,12 @@ I am on the following platforms
 
 [Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
 
-[Discord](#How-to-reach-me) - Note: as of February 2021, I no longer use Discord
+[Discord](#How-to-reach-me) - Note: I stopped using Discord full time in 2021 February, but I still use it.
 
-[GitHub](https://github.com/seanpm2001) - Obviously
+> * SeanWallaWalla#1709 (my original Discord account)
+> * seanpm2001#4906 (my newest Discord account)
+
+[GitHub](https://github.com/seanpm2001) <!-- - Obviously !-->
 
 [YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
 
@@ -1878,9 +1891,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `64 (Wednesday, 2022 June 15th at 8:06 pm PST)`
+**File version:** `65 (2022, Saturday, June 25th at 9:33 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,816`
+**Line count (including blank lines and compiler line):** `3,857`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -3087,11 +3100,19 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b lang="en">Version 65 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 65 (2022, Saturday, June 25th at 9:33 pm PST)</b></summary>
 
 > Changes:
 
-> * Coming soon
+> * Updated the statistics table to give notice on a card not always appearing
+
+> * Updated the `how to reach me` section
+
+> * Updated the `identity theft` section
+
+> * Updated the `file info` section
+
+> * Updated the `file history` section
 
 > * No other changes in version 65
 
@@ -3724,6 +3745,26 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 > * Coming soon
 
 > * No other changes in version 128
+
+</details>
+
+<details><summary><b lang="en">Version 129 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 129
+
+</details>
+
+<details><summary><b lang="en">Version 130 (Coming soon)</b></summary>
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 130
 
 </details>
 
