@@ -1,0 +1,1 @@
+ Include example in README for Wikipedia Vector 2022 #336 
