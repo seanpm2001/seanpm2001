@@ -336,6 +336,16 @@
         "talk",
         "question"
       ]
+    },
+    {
+      "login": "JustAnotherArchivist",
+      "name": "JustAnotherArchivist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29556373?v=4",
+      "profile": "https://github.com/JustAnotherArchivist",
+      "contributions": [
+        "talk",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,

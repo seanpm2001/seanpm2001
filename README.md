@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ^^ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
@@ -3847,6 +3847,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://indatawetrust.github.io"><img src="https://avatars.githubusercontent.com/u/6845298?v=4?s=100" width="100px;" alt="Ahmet Simsek"/><br /><sub><b>Ahmet Simsek</b></sub></a><br /><a href="#maintenance-indatawetrust" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Tim79000"><img src="https://avatars.githubusercontent.com/u/100736284?v=4?s=100" width="100px;" alt="tim79000"/><br /><sub><b>tim79000</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/issues?q=author%3Atim79000" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ckp95"><img src="https://avatars.githubusercontent.com/u/43073868?v=4?s=100" width="100px;" alt="ckp95"/><br /><sub><b>ckp95</b></sub></a><br /><a href="#talk-ckp95" title="Talks">📢</a> <a href="#question-ckp95" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JustAnotherArchivist"><img src="https://avatars.githubusercontent.com/u/29556373?v=4?s=100" width="100px;" alt="JustAnotherArchivist"/><br /><sub><b>JustAnotherArchivist</b></sub></a><br /><a href="#talk-JustAnotherArchivist" title="Talks">📢</a> <a href="#question-JustAnotherArchivist" title="Answering Questions">💬</a></td>
     </tr>
   </tbody>
 </table>
