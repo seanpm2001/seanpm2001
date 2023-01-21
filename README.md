@@ -10,7 +10,7 @@
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - These counters were added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - These counters were added on 2021 December 29th
 
 | GitHub Stats (classic, added on 2021 December 29th) | GitHub Stats (new, improved, added on 2022 June 12th) |
 |---|---|
@@ -18,6 +18,12 @@
 | [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my older GitHub statistics. They may be more accurate than the new stats. This particular card tends to not always load upon loading my profile. Refresh to fix it if it shows up as a blue link. |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my top 5 languages. They are more accurate than the new counter on most days. |
 | <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) There are some problems with the data set, you should read the docs for further information. Common problems include: the numbers going down when they should be going up, not all data being represented (only the past 365 days of activity) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only) |
+
+The new statistics have not been working since 2022, December 13th (as of 2023, Saturday, January 21st) here are the record statistics:
+
+| 2022, December 12th stats | 2022, December 12th languages |
+|---|---|
+| ![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
 
 Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
 
@@ -1891,9 +1897,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `65 (2022, Saturday, June 25th at 9:33 pm PST)`
+**File version:** `68 (2023, Saturday, January 21st at 3:44 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,857`
+**Line count (including blank lines and compiler line):** `3,936`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -1901,9 +1907,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
-_Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-**You may need special rendering support for the `<details>` HTML tag being used in this document**
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
 </details>
 
@@ -3086,6 +3092,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 <details><summary><b lang="en">Version 64 (2022, Wednesday, June 15th at 8:06 pm PST)</b></summary>
 
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
+
 > Changes:
 
 > * Spent a lot of time linking over a hundred core projects to the key projects section, also adding the WacOS, and Linux Defender sections
@@ -3101,6 +3109,8 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 </details>
 
 <details><summary><b lang="en">Version 65 (2022, Saturday, June 25th at 9:33 pm PST)</b></summary>
+
+**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
 
 > Changes:
 
@@ -3118,33 +3128,44 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 </details>
 
-<details><summary><b lang="en">Version 66 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 66 (2023, Saturday, January 21st at 2:21 pm PST)</b></summary>
+
+**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 66
+- [x] Updated the contributors section, adding [`@ckp95`](https://github.com/ckp95/)
+- [ ] No other changes in version 66
 
 </details>
 
-<details><summary><b lang="en">Version 67 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 67 (2023, Saturday, January 21st at 2:22 pm PST)</b></summary>
+
+**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 67
+- [x] Updated the contributors section, adding [`@JustAnotherArchivist`](https://github.com/JustAnotherArchivist/)
+- [ ] No other changes in version 67
 
 </details>
 
-<details><summary><b lang="en">Version 68 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 68 (2023, Saturday, January 21st at 3:44 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 68
+- [x] Updated all-contributor badges
+- [x] Added backup statistic links from 2022 December 12th, as the new stats haven't been working for a while
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 66
+- - [x] Added an entry for version 67
+- - [x] Added an entry for version 68
+- [ ] No other changes in version 68
 
 </details>
 
@@ -3762,9 +3783,62 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 
 > Changes:
 
-> * Coming soon
+- [ ] Coming soon
+- [ ] No other changes in version 130
 
-> * No other changes in version 130
+</details>
+
+<details><summary><b lang="en">Version 131 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 131
+
+</details>
+
+<details><summary><b lang="en">Version 132 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 132
+
+</details>
+
+<details><summary><b lang="en">Version 133 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 133
+
+</details>
+
+<details><summary><b lang="en">Version 134 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 134
+
+</details>
+
+<details><summary><b lang="en">Version 135 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 135
+
+</details>
+
+<details><summary><b lang="en">Version 136 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 136
 
 </details>
 
@@ -3786,7 +3860,8 @@ You have reached the end of this page.
   
 # Everyone who has interacted with me (via issue, discussion, or pull request) on GitHub since 2020 May 25th
 
-**28 people and 1 bot, 26 people and 1 bot when not counting me**
+> **Note** **The count comes out to 30 people and 1 bot, 28 people and 1 bot when not counting me**
+
 <!--
 When not me:
 1: @all-contributors (bot)
@@ -3794,7 +3869,7 @@ When not me:
 3: @seanwallawalla (alt)
 !-->
   
-[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
