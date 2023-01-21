@@ -1,0 +1,1 @@
+I began to try out this extension today after the Wikipedia Vector 2022 update, as I don't want to have to add `?useskin=vector` or `?useskin=monobook` every time I visit a page. Can we have an example in the README? There are so many examples already listed, I feel this one is important and should be listed as well.
