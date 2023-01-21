@@ -326,6 +326,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "ckp95",
+      "name": "ckp95",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43073868?v=4",
+      "profile": "https://github.com/ckp95",
+      "contributions": [
+        "talk",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -333,5 +343,6 @@
   "projectOwner": "seanpm2001",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
