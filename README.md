@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ^^ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
@@ -3924,6 +3924,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ckp95"><img src="https://avatars.githubusercontent.com/u/43073868?v=4?s=100" width="100px;" alt="ckp95"/><br /><sub><b>ckp95</b></sub></a><br /><a href="#talk-ckp95" title="Talks">📢</a> <a href="#question-ckp95" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JustAnotherArchivist"><img src="https://avatars.githubusercontent.com/u/29556373?v=4?s=100" width="100px;" alt="JustAnotherArchivist"/><br /><sub><b>JustAnotherArchivist</b></sub></a><br /><a href="#talk-JustAnotherArchivist" title="Talks">📢</a> <a href="#question-JustAnotherArchivist" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mani-1436"><img src="https://avatars.githubusercontent.com/u/127879823?v=4?s=100" width="100px;" alt="Mani-1436"/><br /><sub><b>Mani-1436</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=Mani-1436" title="Code">💻</a> <a href="#content-Mani-1436" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BTCLaravel"><img src="https://avatars.githubusercontent.com/u/125593588?v=4?s=100" width="100px;" alt="BTCLaravel"/><br /><sub><b>BTCLaravel</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=BTCLaravel" title="Code">💻</a> <a href="#maintenance-BTCLaravel" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
