@@ -19,11 +19,22 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my top 5 languages. They are more accurate than the new counter on most days. |
 | <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) There are some problems with the data set, you should read the docs for further information. Common problems include: the numbers going down when they should be going up, not all data being represented (only the past 365 days of activity) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only) |
 
-The new statistics have not been working since 2022, December 13th (as of 2023, Saturday, January 21st) here are the record statistics:
+<!-- The new statistics have not been working since 2022, December 13th (as of 2023, Saturday, January 21st) here are the record statistics:
 
 | 2022, December 12th stats | 2022, December 12th languages |
 |---|---|
 | ![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
+!-->
+
+| Best of 2023 (as of 2023, May 24th) (overview) | (languages) |
+|---|---|
+| ![2022.05.20 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/11/SVG/overview_2023May20th.svg) | ![2022.05.20 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/11/SVG/languages_2023May20th.svg) |
+
+| Best of 2022 (as of 2022, December 12th) (overview) | (languages) |
+|---|---|
+![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
+
+Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/)
 
 Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
 
@@ -207,6 +218,38 @@ To add your statistics to your GitHub Profile README, copy and paste the followi
 ===
 
 </details>
+
+## Repository of the day (coming soon)
+
+I have plans to make a featured Repoitory of the Day table here, but it would require a lot of time with GitHub workflows, and determining which repositories should be featured.
+
+**Plans:**
+
+```
+Top 6 projects of the day @seanpm2001/seanpm2001
+
+2,190 (normal year) to 2,196 (leap year) repos per year
+
+GitHub action that automatically updates this list
+```
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|---|---|---|---|---|---|
+| [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `MCPYE`](https://github.com/seanpm2001/MCPYE/) | [:octocat: `GoDot Launcher`](https://github.com/seanpm2001/GoDot_Launcher/) | [:octocat: `QMeadows`](https://github.com/seanpm2001/QMeadows/) | [:octocat: `Malware as art`](https://github.com/seanpm2001/Malware-as-art/) | [:octocat: `UCALC`](https://github.com/seanpm2001/UCALC/) |
+
+These will be the featured repositories for the time being.
+
+## Guestbook
+
+| ![animated-book-image.gif](/Graphics/Guestbook/GIF/animated-book-image.gif) | 
+|---|
+| [:octocat: `Sign the guestbook`](https://github.com/seanpm2001/Guestbook/discussions/new/choose) |
+
+## Documentation
+
+# [:octocat: `Core documentation repository`](https://github.com/seanpm2001/Documentation/)
+
+One of my most important repositories.
 
 ## README Usage
 
@@ -1897,9 +1940,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `68 (2023, Saturday, January 21st at 3:44 pm PST)`
+**File version:** `71 (2023, Thursday, May 25th at 8:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,936`
+**Line count (including blank lines and compiler line):** `4,051`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -3169,33 +3212,47 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
-<details><summary><b lang="en">Version 69 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 69 (2023, Thursday, May 25th at 7:50 pm PST)</b></summary>
+
+**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 69
+- [x] Updated the contributors section, adding [`@Mani-1436`](https://github.com/Mani-1436/)
+- [ ] No other changes in version 69
 
 </details>
 
-<details><summary><b lang="en">Version 70 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 70 (2023, Thursday, May 25th at 7:55 pm PST)</b></summary>
+
+**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 70
+- [x] Updated the contributors section, adding [`@BTCLaravel`](https://github.com/BTCLaravel/)
+- [ ] No other changes in version 70
 
 </details>
 
-<details><summary><b lang="en">Version 71 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 71 (2023, Thursday, May 25th at 8:32 pm PST)</b></summary>
+
+> **Note** _This repository hasn't been updated in too long. There is a lot I could do, but I am sticking with this for now._
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 71
+- [x] Updated the `Statistics` section
+- [x] Updated all-contributor badges
+- [x] Added the `Featured repositories` section
+- [x] Added the `Guestbook` section
+- [x] Added the `Documentation` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 69
+- - [x] Added an entry for version 70
+- - [x] Added an entry for version 71
+- [ ] No other changes in version 71
 
 </details>
 
@@ -3842,6 +3899,60 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+<details><summary><b lang="en">Version 137 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 137
+
+</details>
+
+<details><summary><b lang="en">Version 138 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 138
+
+</details>
+
+<details><summary><b lang="en">Version 139 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 139
+
+</details>
+
+<details><summary><b lang="en">Version 140 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 140
+
+</details>
+
+<details><summary><b lang="en">Version 141 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 141
+
+</details>
+
+<details><summary><b lang="en">Version 142 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 142
+
+</details>
+
 </details>
 
 ***
@@ -3869,7 +3980,7 @@ When not me:
 3: @seanwallawalla (alt)
 !-->
   
-[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
+[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 
 ## Contributors ✨
 
