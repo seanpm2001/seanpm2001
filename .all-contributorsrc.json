@@ -346,6 +346,16 @@
         "talk",
         "question"
       ]
+    },
+    {
+      "login": "Mani-1436",
+      "name": "Mani-1436",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127879823?v=4",
+      "profile": "https://github.com/Mani-1436",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -354,5 +364,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
