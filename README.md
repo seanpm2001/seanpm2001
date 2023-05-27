@@ -846,7 +846,16 @@ My major projects include:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="AI2001 MediaSphere logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AI2001/Logo/PNG/MediaSphere1.png" width="150" height="150" align="left" style="margin-right: 30px"> **AI2001:** _An artificial Intelligence toolchain written in R, RMarkdown, Julia, Cython, Prolog, Python, and C._
+
+- **🏠️ Home repository:** [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/)
+- **🔵️ Project categories:** `Artificial Intelligence (AI)` `Artificial Neural Networks (ANN)` `Datasets`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+<!--
 <img alt="AI2001 MediaSphere logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AI2001/Logo/PNG/MediaSphere1.png" width="256" height="256"/> [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) - An artificial Intelligence toolchain written in R, RMarkdown, Julia, Cython, Prolog, Python, and C.
+!-->
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -875,7 +884,16 @@ My major projects include:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="150" height="150" align="left" style="margin-right: 30px"> **SeansLifeArchive:** _A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th_
+
+<!--
 <img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="256" height="256"/> [:octocat: `Journaling/Seanpm2001 Life Archive project`](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th
+!-->
+
+- **🏠️ Home repository:** [:octocat: `seanpm2001`](https://github.com/seanpm2001/seanpm2001/)
+- **🔵️ Project categories:** `Personal` `Documentation` `Graphic Design` `Autobiography` `Blog`
+- **💰️ Current monthly budget:** `$05.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `~2` **(as of 2023, Saturday, May 27th)**
 
 **Development status:** _Mixed, some projects are complete and don't need help, some projects are incomplete, but don't need help, and some may require help._
 
@@ -917,7 +935,16 @@ My major projects include:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="105" height="150" align="left" style="margin-right: 30px"> **Linux Defender:** _An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you._
+
+<!--
 <img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="267" height="380"/> [:octocat: `Linux Defender project`](https://github.com/seanpm2001/Linux_Defender/) - An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Linux Defender`](https://github.com/seanpm2001/Linux_Defender/)
+- **🔵️ Project categories:** `Linux` `Anti-malware` `Anti-virus` `Anti-spyware` `Anti-Ransomware` `Rulesets` `Security`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -947,7 +974,16 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="Anime Studio logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Anime_Studio/Logo/PNG/RedEyeMin.png" width="150" height="150" align="left" style="margin-right: 30px"> **Anime Studio:** _A software studio optimized for the production and viewing of Anime and Manga._
+
+<!--
 | <img alt="Anime Studio logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Anime_Studio/Logo/PNG/RedEyeMin.png" width="256" height="256"/> [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/) - A software studio optimized for the production and viewing of Anime and Manga.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/)
+- **🔵️ Project categories:** `Anime` `Manga` `Graphic Design` `Video Editing` `Visual Novels` `Artificial Intelligence (AI)` `Subtitles` `Dubbing` `Hentai`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -982,7 +1018,16 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="150" height="150" align="left" style="margin-right: 30px"> **Candroid:** _A framework for DeGoogling and alternating from the Android operating system._
+
+<!--
 <img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="256" height="256"/> [:octocat: `Candroid project`](https://github.com/seanpm2001/Candroid/) - A framework for DeGoogling and alternating from the Android operating system.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)
+- **🔵️ Project categories:** `Android (Operating System)` `Android (OS) Alternative` `DeGoogle` `Framework` `Application set` `Mobile computing`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -1007,11 +1052,108 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
+#### Major project: DeGoogle your Life
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Anti-Google logo failed to load. Click/tap here to attempt to view it" src="/Graphics/DeGoogle-your-Life/Logo/PNG/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **DeGoogle your Life:** _A collection of articles and documentation regarding alternating from Google._
+
+- **🏠️ Home repository:** [:octocat: `DeGoogle-your-Life`](https://github.com/seanpm2001/DeGoogle-your-Life/)
+- **🔵️ Project categories:** `Privacy` `Awareness` `Activism` `Security` `DeGoogle` `Documentation` `Articles` `Criticism of Google` `Criticism` `Anti-Google`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `~4` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Functional, but needs lots of improvement._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `HTML` |
+| 02 | `Markdown` |
+| 03 | `URLL` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `DeGoogle-your-Life`](https://github.com/seanpm2001/DeGoogle-your-Life/) | [:octocat: `It's time to cut WideVine DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) | [:octocat: `DeGoogle your Life Full Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/) | [:octocat: `DeGoogle your Life Current Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue/) | :octocat: [`DeGoogle your Life Graveyard Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue/) | [:octocat: `DeGoogled Android Phone VM Research`](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/) |
+| [:octocat: `Why you should stop using Google Chrome`](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/) | [:octocat: `Google Performance Issues`](https://github.com/seanpm2001/Google-performance-issues/) | [:octocat: `Google is a Monopoly`](https://github.com/seanpm2001/Google-is-a-monopoly/) | [:octocat: `Alternating from YouTube`](https://github.com/seanpm2001/Alternating-from-YouTube/) | [:octocat: `Stop Googling: Why you should stop using Google Search`](https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search/) | [:octocat: `DeGoogle Ranking Scale`](https://github.com/seanpm2001/DeGoogle-Ranking-Scale/) |
+
+</details>
+
+---
+
+#### Major project: Ukraine History Simulator
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Ukraine History Simulator logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Ukraine-History-Simulator/Logo/PNG/UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **Ukraine History Simulator** _A history simulator that covers the entire history (pre-history to the modern day) of the European country, Ukraine._
+
+- **🏠️ Home repository:** [:octocat: `Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/)
+- **🔵️ Project categories:** `History` `European History` `Ukraine History` `Ukraine` `Europe` `Video Game` `GoDot` `History Simulator`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Python` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/) | [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/) | [:octocat: `UHS DatasSets: Soundtrack: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/) | [:octocat: `UHS Datasets: Oblasts: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/) | [:octocat: `UHS DataSets: Raions: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/) | [:octocat: UHS Datasets: Hromadas: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/) |
+| [:octocat: `UHS Datasets: Heraldry: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Vexillology: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Leaders: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine/) | [:octocat: `UHS Datasets: Generals: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine/) | `🇺🇦️` | `🇺🇦️` |
+
+</details>
+
+---
+
+#### Major project: SDE
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="SDE logo failed to load. Click/tap here to attempt to view it" src="/Graphics/SDE/Logo/PNG/SDE.png" width="150" height="150" align="left" style="margin-right: 30px"> **SDE** _A highly customizable desktop environment with Skeuomorphism._
+
+- **🏠️ Home repository:** [:octocat: `Skeuwie`](https://github.com/seanpm2001/Skeuwie/)
+- **🔵️ Project categories:** `Desktop Environment` `Skeuomorphism` `Application set`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C++` |
+| 02 | `Python` |
+| 03 | `Shell` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Skeuwie`](https://github.com/seanpm2001/Skeuwie/) | [:octocat: `SDE`](https://github.com/seanpm2001/SDE/) | [:octocat: `iCandy`](https://github.com/seanpm2001/iCandy/) | [:octocat: `Coloress`](https://github.com/seanpm2001/Coloress/) | [:octocat: `SDE Merry`](https://github.com/seanpm2001/SDE_Merry/) | [:octocat: `Slick LM`](https://github.com/seanpm2001/Slick-LM/) |
+
+</details>
+
+---
+
 #### Major project: Learn
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Logo/PNG/Letter+L+blue.png" width="150" height="150" align="left" style="margin-right: 30px"> **Learn:** _A collection of documentation showcasing my collective knowledge of various programming/computing languages._
+
+- **🏠️ Home repository:** [:octocat: `Learn`](https://github.com/seanpm2001/Learn/)
+- **🔵️ Project categories:** `Polyglot` `Education` `Knowledge database` `Programming languages` `Articles` `Documentation`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `~3` **(as of 2023, Saturday, May 27th)**
+
+<!--
 <img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Logo/PNG/Letter+L+blue.png" width="256" height="256"/> [:octocat: `Learn project`](https://github.com/seanpm2001/Learn/) - A collection of documentation showcasing my collective knowledge of various programming/computing languages.
+!-->
 
 **Development status:** _Not functional and highly incomplete. Self project, some developers needed_
 
@@ -1034,7 +1176,16 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x32x64x128/Logo/PNG/Android_Logo_HighDetail.png" width="150" height="150" align="left" style="margin-right: 30px"> **Android x32x64x128:** _A collection of Android forks that can provide Android support outside of the Google Ecosystem, with vanilla, LiveCD, DeGoogled, and heavy variants for every version of Android. It pairs with [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)_
+
+<!--
 <img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x32x64x128/Logo/PNG/Android_Logo_HighDetail.png" width="256" height="256"/> [:octocat: `Android x32 project`](https://github.com/seanpm2001/Android-x32/), [:octocat: `Android x64 project`](https://github.com/seanpm2001/Android-x64/), [:octocat: `Android x128 project`](https://github.com/seanpm2001/Android-x128/) - A collection of Android forks that can provide Android support outside of the Google Ecosystem, with vanilla, LiveCD, DeGoogled, and heavy variants for every version of Android. It pairs with [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/)
+- **🔵️ Project categories:** `Android` `Android fork` `Operating System` `DeGoogle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -1061,7 +1212,16 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="BlazeOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlazeOS/Logo/JPEG/BlazeOS_LOGO1.jpeg" width="150" height="150" align="left" style="margin-right: 30px"> **BlazeOS:** _An operating system and service alternative to Amazon FireOS, and Amazon Web Services (AWS)_
+
+<!--
 <img alt="BlazeOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlazeOS/Logo/JPEG/BlazeOS_LOGO1.jpeg" width="256" height="256"/> [:octocat: `BlazeOS project`](https://github.com/seanpm2001/BlazeOS/) - An operating system and service alternative to Amazon FireOS, and Amazon Web Services (AWS)
+!-->
+
+- **🏠️ Home repository:** [:octocat: `BlazeOS`](https://github.com/seanpm2001/BlazeOS/)
+- **🔵️ Project categories:** `Amazon` `AWS alternative` `Amazon alternative` `Operating System` `Framework` `Server hardware`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -1097,7 +1257,16 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+<img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Bliss_Browser/Logo/PNG/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **Bliss Browser:** _An extremely powerful and customizable web browser written in Python. It is also capable of being an alternative to ChromeOS via its OSMode (where you can turn the browser into a shell on top of an existing operating system) customizable down to the last pixel, you can even disable all HTML tags if you really wanted to (this breaks the majority of websites, but it is still an option)_
+
+<!--
 <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Bliss_Browser/Logo/PNG/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256"/> [:octocat: `Bliss Browser project`](https://github.com/seanpm2001/Bliss_Browser/) - An extremely powerful and customizable web browser written in Python. It is also capable of being an alternative to ChromeOS via its OSMode (where you can turn the browser into a shell on top of an existing operating system) customizable down to the last pixel, you can even disable all HTML tags if you really wanted to (this breaks the majority of websites, but it is still an option)
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/)
+- **🔵️ Project categories:** `Web Browser`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -2619,9 +2788,13 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `72 (2023, Friday, May 26th at 3:30 pm PST)`
+**File version:** `73 (2023, Saturday, May 27th at 4:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,873`
+**Line count (including blank lines and compiler line):** `5,112`
+
+**Word count:** `33,862`
+
+**Character count:** `232,201 characters (235.62 kilobytes, due to special character usage)`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -4058,13 +4231,61 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
-<details><summary><b lang="en">Version 73 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 73 (2023, Saturday, May 27th at 4:56 pm PST)</b></summary>
+
+> **Note** _This is another update that took a while, but isn't as extensive as yesterdays update._
+
+**Some things that are left:**
+
+- [ ] Further `What I'm currently working on` megaproject work
+- [ ] Computing languages section (Objective-C#, etc)
+- [ ] Software libraries section
+- [ ] Joke projects section
+- - [ ] L20 subsection
+- [ ] Collapsing this document further
+- [ ] Fixing up the index/TOC
+- [ ] Fixing up the repository file navigator
+- [ ] Other
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 73
+- [x] Updated the `What I'm currently working on` section
+- - [x] Made changes to the AI2001 section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Made changes to the SeansLifeArchive section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Made changes to the Linux Defender section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Made changes to the Anime Studio section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Made changes to the Candroid Framework section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Added the DeGoogle your Life section
+- - [x] Added the Ukraine History Simulator section
+- - [x] Added the SDE section
+- - [x] Made changes to the Learn project section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Made changes to the Android x32x64x128 section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Made changes to the BlazeOS (operating system) section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- - [x] Made changes to the Bliss Browser section
+- - - [x] Centered and resized image
+- - - [x] Added some attributes
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 73
+- [ ] No other changes in version 73
 
 </details>
 
@@ -4760,6 +4981,24 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 - [ ] Coming soon
 - [ ] No other changes in version 144
+
+</details>
+
+<details><summary><b lang="en">Version 145 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 145
+
+</details>
+
+<details><summary><b lang="en">Version 146 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 146
 
 </details>
 
