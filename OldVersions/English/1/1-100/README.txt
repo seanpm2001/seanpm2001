@@ -1289,6 +1289,128 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
+#### Major project: Software LIBraries
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Software LIBraries logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Software-LIBraries/Icon/PNG/Seanpm2001-libraries_LowQualityIcon.png" width="150" height="150" align="left" style="margin-right: 30px"> **Software LIBraries:** _Notable software libraries created by me._
+
+- **🏠️ Home repository:** [:octocat: `NONE`](https://github.com/seanpm2001/)
+- **🔵️ Project categories:** `Software libraries` `Settings` `PDF` `Mobi file` `Animation` `VLC Media Player` `Plugins` `Configuration` `Acronyms` `Browser sniffing` `Document version control` `Sound effects` `Startup sound` `Shutdown sound` `Prestige` `Connected programs` `SVG` `Video` `Social Media` `README` `Desktop` `Stock` `Cloth modeling` `Backup` `Automation` `Bots` `Large numbers` `Integer overflow` `Fonts` `Text engine`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `C++` |
+| 03 | `Diff` |
+| 04 | `GLSL` |
+| 05 | `HTML` |
+| 06 | `Java` |
+| 07 | `JavaScript` |
+| 08 | `Lua` |
+| 09 | `M4` |
+| 10 | `Perl` |
+| 11 | `Python` |
+| 12 | `Rust` |
+| 13 | `Shell` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) | [:octocat: `Blazed Café`](https://github.com/seanpm2001/Blazed_Cafe/) | [:octocat: `.mobi Dick`](https://github.com/seanpm2001/Mobi_Dick/) | [:octocat: `BlazeOS bPage`](https://github.com/seanpm2001/BlazeOS_bpage/) | [:octocat: `VLCSV`](https://github.com/seanpm2001/VLCSV/) | [:octocat: `WacOS Sherman`](https://github.com/seanpm2001/WacOS_Sherman/) |
+| [:octocat: `AcroSlideXLIBrary`](https://github.com/seanpm2001/AcroSlideXLIBrary/) | [:octocat: `SlideXMagic`](https://github.com/seanpm2001/SlideXMagic/) | [:octocat: `SNU BrowserNose`](https://github.com/seanpm2001/SNU_BrowserNose/) | [:octocat: `uOffice LIBrary DVCS`](https://github.com/seanpm2001/uOffice_LIBrary_DVCS/) | [:octocat: `SWave Starter`](https://github.com/seanpm2001/SWave_Starter/) | [:octocat: `ProTraApp`](https://github.com/seanpm2001/ProTraApp/) |
+| [:octocat: `SVG Video`](https://github.com/seanpm2001/SVG_Video/) | [:octocat: `ShareBoxLIBrary`](https://github.com/seanpm2001/ShareBoxLIBrary/) | [:octocat: `README Desktop LIBrary`](https://github.com/seanpm2001/README-Desktop-LIBrary/) | [:octocat: `Stock Elevator LIBrary`](https://github.com/seanpm2001/Stock-Elevator-LIBrary/) | [:octocat: `CottonTree LIBrary`](https://github.com/seanpm2001/CottonTree-LIBrary/) | [:octocat: `PrestigePreview`](https://github.com/seanpm2001/PrestigePreview/) |
+| [:octocat: `Backup Automation Build Bot Y`](https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/) | [:octocat: `LargeNumber ULIB`](https://github.com/seanpm2001/LargeNumber_ULIB/) | [:octocat: `Reasonable Overflow LIBrary`](https://github.com/seanpm2001/ReasonableOverflow_LIBrary/) | [:octocat: `SNU Font LIBrary`](https://github.com/seanpm2001/SNU_FontLIBrary/) | [:octocat: `SNU TextEngine`](https://github.com/seanpm2001/SNU_TextEngine/) | `📚️` |
+
+</details>
+
+---
+
+#### Major project: Computing languages
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Python logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Computing-Languages/Logo/Python/PNG/LowQuality_Seanpm2001-Languages_Icon.png" width="150" height="150" align="left" style="margin-right: 30px"> **Computing languages** _Programming, configuration, and markup languages by me._
+
+- **🏠️ Home repository:** [:octocat: `NONE`](https://github.com/seanpm2001/)
+- **🔵️ Project categories:** `Programming languages` `Markup languages` `Configuration languages` `Experimental languages` `VSCode`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `D` |
+| 03 | `Fortran` |
+| 04 | `Lex` |
+| 05 | `mcfunction` |
+| 06 | `Objective-C` |
+| 07 | `Objective-C++` |
+| 08 | `Objective-J` |
+| 09 | `Python` |
+| 10 | `Rust` |
+| 11 | `URLL` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `AGRAN Programming Language`](https://github.com/seanpm2001/AGRAN-Programming-language/) | [:octocat: `BlockQL`](https://github.com/seanpm2001/BlockQL/) | [:octocat: `Commenter language`](https://github.com/seanpm2001/Commenter-language/) | [:octocat: `DroppedText Language`](https://github.com/seanpm2001/Dropped-Text-lang/) | [:octocat: `DSergeant`](https://github.com/seanpm2001/DSergeant/) | [:octocat: `Matrix language`](https://github.com/seanpm2001/Matrix-lang/) |
+| [:octocat: `MCPYE Command Language`](https://github.com/seanpm2001/MCPYE_CommandLanguage/) | [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) | [:octocat: `Objective-C#`](https://github.com/seanpm2001/Objective-CSharp/) | [:octocat: `Objective-J#`](https://github.com/seanpm2001/Objective-JSharp/) | [:octocat: `Objective-J++`](https://github.com/seanpm2001/Objective-JPP/) | [:octocat: `URLL`](https://github.com/seanpm2001/URLL/) |
+| :octocat: `URLL VSCode`](https://github.com/seanpm2001/URLL-VSCode/) | [:octocat: `URLL Docs`](https://github.com/seanpm2001/URLL_Docs/) | [:octocat: `URLL Specification`](https://github.com/seanpm2001/URLL-Specification/) | [:octocat: `DSergeant VSCode`](https://github.com/seanpm2001/DSergeant-VSCode/) | 
+
+</details>
+
+---
+
+#### Major project: Joke projects
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Comedy logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Joke-Projects/Logo/PNG/LowQuality_Seanwallawalla-jokeprograms_Icon.png" width="150" height="150" align="left" style="margin-right: 30px"> **Joke projects** _Joke programs by me._
+
+- **🏠️ Home repository:** [:octocat: `Seanpm2001-JokePrograms`](https://github.com/seanpm2001/Seanpm2001-JokePrograms/)
+- **🔵️ Project categories:** `Humor` `Programmer humor` `Git humor`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Some programs are functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `D` |
+| 03 | `E` |
+| 04 | `J` |
+| 05 | `Java` |
+| 06 | `M` |
+| 07 | `Markdown` |
+| 08 | `q` |
+| 09 | `Python` |
+| 10 | `R` |
+| 11 | `Shell` |
+| 12 | `V` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `CCCCCCCCCCCCCCCCCCCC`](https://github.com/seanpm2001/CCCCCCCCCCCCCCCCCCCC/) | [:octocat: `DDDDDDDDDDDDDDDDDDDD`](https://github.com/seanpm2001/DDDDDDDDDDDDDDDDDDDD/) | [:octocat: `EEEEEEEEEEEEEEEEEEEE`](https://github.com/seanpm2001/EEEEEEEEEEEEEEEEEEEE/) | [:octocat: `JJJJJJJJJJJJJJJJJJJJ`](https://github.com/seanpm2001/JJJJJJJJJJJJJJJJJJJJ/) | [:octocat: `MMMMMMMMMMMMMMMMMMMM`](https://github.com/seanpm2001/MMMMMMMMMMMMMMMMMMMM/) | [:octocat: `qqqqqqqqqqqqqqqqqqqq`](https://github.com/seanpm2001/qqqqqqqqqqqqqqqqqqqq/) |
+| [:octocat: `RRRRRRRRRRRRRRRRRRRR`](https://github.com/seanpm2001/RRRRRRRRRRRRRRRRRRRR/) | [:octocat: `VVVVVVVVVVVVVVVVVVVV`](https://github.com/seanpm2001/VVVVVVVVVVVVVVVVVVVV/) | [:octocat: `BASH.sh`](https://github.com/seanpm2001/BASH.sh/) | [:octocat: `BASH.sh Docs`](https://github.com/seanpm2001/BASH.sh_Docs/) | [:octocat: `uOffice Joke Program: PieMan`](https://github.com/seanpm2001/uOffice_JokePrograms_PieMan/) | [:octocat: `Java The Hutt`](https://github.com/seanpm2001/Java_The_Hutt/) |
+| [:octocat: `Oh Hi Mark(down)`](https://github.com/seanpm2001/Oh_Hi_MarkDown/) | [:octocat: `Code Distancing`](https://github.com/seanpm2001/Code-Distancing/) | [:octocat: `Branch Ranch`](https://github.com/seanpm2001/Branch-Ranch/) | [:octocat: `WinFSCK`](https://github.com/seanpm2001/WinFSCK/) | [:octocat: `KeyStroke`](https://github.com/seanpm2001/KeyStroke/) | [:octocat: `Seanpm2001-JokePrograms`](https://github.com/seanpm2001/Seanpm2001-JokePrograms/) |
+| [:octocat: `SeanWallaWalla Joke Programs`](https://github.com/seanpm2001/SeanWallaWalla-JokePrograms/) | [:octocat: `SNU 0DMode`](https://github.com/seanpm2001/SNU_0DMode/) | [:octocat: `SNU 2D: Download More RAM`](https://github.com/seanpm2001/SNU_2D_DownloadMoreRAM_JokePage_/) | `🔷️` | `🔷️` | `🔷️` |
+
+</details>
+
+---
+
 #### Major project: Other projects
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -2788,13 +2910,13 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `73 (2023, Saturday, May 27th at 4:56 pm PST)`
+**File version:** `74 (2023, Saturday, May 27th at 8:00 pm PST)`
 
-**Line count (including blank lines and compiler line):** `5,112`
+**Line count (including blank lines and compiler line):** `5,314`
 
-**Word count:** `33,862`
+**Word count:** `35,219`
 
-**Character count:** `232,201 characters (235.62 kilobytes, due to special character usage)`
+**Character count:** `243,464 characters (246.98 kilobytes, due to special character usage)`
 
 **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 
@@ -4289,13 +4411,34 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
-<details><summary><b lang="en">Version 74 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 74 (2023, Saturday, May 27th at 8:00 pm PST)</b></summary>
 
 > Changes:
 
-> * Coming soon
+> **Note** _This update took a little whike. I was going to release it tomorrow, but decided not to wait._
 
-> * No other changes in version 74
+**Some things that are left:**
+
+- [ ] Further `What I'm currently working on` megaproject work
+- [ ] Collapsing this document further
+- [ ] Fixing up the index/TOC
+- [ ] Fixing up the repository file navigator
+- [ ] Other
+
+> Changes:
+
+- [x] Updated the `What I'm currently working on` section
+- - [x] Added the Software LIBraries section
+- - [x] Added the Computing languages section
+- - [x] Added the Joke projects section
+- [x] Added the `Optimizing this page` section
+- [x] Added the `Developer limits` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 74
+- [ ] No other changes in version 74
 
 </details>
 
@@ -5002,6 +5145,24 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+<details><summary><b lang="en">Version 147 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 147
+
+</details>
+
+<details><summary><b lang="en">Version 148 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 148
+
+</details>
+
 </details>
 
 ***
@@ -5105,6 +5266,47 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+</details>
+
+***
+
+# Optimizing this page
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals include:
+
+- [ ] Increasing documentation
+- [ ] Removing as much whitespace as comfortably possible
+- [ ] Improving quality of content
+
+</details>
+
+***
+
+# Developer limits
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[`This page`](/README.md) has some limits to speed up performance, especially for users with lower bandwidth.
+
+> Quantity
+
+- **Maximum amount of videos:** `1`
+- - **Current video count:** `0`
+- **Maximum amount of images:** `128` 
+- - **Current image count:** `47` (excluding `all-contributors` section)
+- - - **Current image count (all):** `83`
+- **Maximum amount of emojis:** `2048`
+- - **Current emoji count:** `Uncounted`
+- **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
+- - **Current character count (in bytes):** `246,980`
+
+> Memory
+
+- **Bandwidth goal:** `10 mbps` - 1 second
+- **RAM goal:** `>32MB per tab` (Firefox, SeaMonkey, DuckDuckGo, Konqueror, Pale Moon, IceCat) `>256MB per tab (Brave, Google Chrome, Microsoft Edge, Opera, Vivaldi, Google Chromium) ?b per tab (Other)
 
 </details>
 
