@@ -1,0 +1,5 @@
+A repository for showcasing my knowledge of the ABC programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the HTTP programming language, and continuing to learn the language.
+The HTTP Programming language submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Scheme programming language, and continuing to learn the language.
+Android x128 is a community project to virtualize and DeGoogle the Android operating system by Google, specifically the 128 bit versions that may be made in the future.

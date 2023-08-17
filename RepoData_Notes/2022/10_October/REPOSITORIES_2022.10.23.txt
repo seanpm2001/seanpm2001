@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the BlitzBasic programming language, and continuing to learn the language.
+The BlitzBasic Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the McFunction programming language, and continuing to learn the language.
+The McFunction Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the SASL programming language, and continuing to learn the language.
+The SASL Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Visual Logic programming language, and continuing to learn the language.
+The Visual Logic Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Amulet programming language, and continuing to learn the language.
+The Amulet Programming language IDE submodule for SNU Programming Tools (2D Mode)

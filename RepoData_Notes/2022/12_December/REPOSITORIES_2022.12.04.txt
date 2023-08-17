@@ -1,0 +1,26 @@
+Android-x64_Android9_Heavy_Edition
+Android-x64_Android9_Vanilla_Edition
+Android-x64_Android9_DeGoogled_Edition
+Android-x64_Android9_LiveCD_Edition
+
+Android x64: The Heavy build for Android 9, a powerful, but large Android 9 alternative installation
+Android x64: The Vanilla build for Android 9, a basic, but useful Android 9 alternative installation
+Android x64: The DeGoogled build for Android 9, a powerful, DeGoogled Android 9 alternative installation
+Android x64: The LiveCD build for Android 9, try out 4 different editions of Android-x64+9 before installing it
+
+Candroid-Browser
+Candroid-Camera
+
+Candroid Browser is a replacement web browser for Candroid. It is designed to replace the AOSP browser, but not Google Chrome. It will be based on a privacy friendly WebKit engine fork.
+Candroid Camera is a camera app for Candroid. It is designed to replace the default Android camera application
+
+UHS_DataSets_Generals_Ukraine
+UHS_DataSets_Generals_Russia
+UHS_DataSets_Leaders_Ukraine
+UHS_DataSets_Leaders_Russia
+
+Data set for the Ukraine History Simulator that contains Ukrainian Army General data for the game. (from all time periods)
+Data set for the Ukraine History Simulator that contains Russian Army General data for the game. (from all time periods)
+Data set for the Ukraine History Simulator that contains Ukrainian leadership data for the game. (from all time periods)
+Data set for the Ukraine History Simulator that contains Russian leadership data for the game. (from all time periods)
+

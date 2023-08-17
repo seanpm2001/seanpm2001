@@ -1,0 +1,20 @@
+Learn-XTend
+SNU_2D_ProgrammingTools_IDE_XTend
+
+📚️ A repository for showcasing my knowledge of the XTend programming language, and continuing to learn the language.
+⌨️ The XTend Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+GoDot_Launcher
+
+🚀️ A detailed launcher for GoDot that makes GoDot more accessible on Linux. Inspired by the classic Minecraft launcher.
+
+Android-x64_Android8.0_Heavy_Edition
+Android-x64_Android8.0_Vanilla_Edition
+Android-x64_Android8.0_DeGoogled_Edition
+Android-x64_Android8.0_LiveCD_Edition
+
+🤖️ Android x64: The Heavy build for Android 8.0, a powerful, but large Android 8.0 alternative installation
+🤖️ Android x64: The Vanilla build for Android 8.0, a basic, but useful Android 8.0 alternative installation
+🤖️ Android x64: The DeGoogled build for Android 8.0, a powerful, DeGoogled Android 8.0 alternative installation 
+🤖️ Android x64: The LiveCD build for Android 8.0, try out 4 different editions of Android-x64+8.0 before installing it
+

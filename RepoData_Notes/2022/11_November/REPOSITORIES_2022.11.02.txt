@@ -1,0 +1,18 @@
+New for today
+The YARA CVE database for the Linux Defender anti-virus program.
+The module for my life story project that contains my Disco Zoo Gameplay images from the year 2023
+A repository for showcasing my knowledge of the CSound Score programming language, and continuing to learn the language.
+The CSound Score Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the JSON language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Gerber Image language, and continuing to learn the language.
+A repository for showcasing my knowledge of the GetText language, and continuing to learn the language.
+The GetText language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the GraphViz DOT programming language, and continuing to learn the language.
+
+Already created but not completed
+The Gerber Image Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The GraphViz DOT Programming language IDE submodule for SNU Programming Tools (2D Mode)
+ 
+Already created and completed
+The JSON Programming language IDE submodule for SNU Programming Tools (2D Mode)
+

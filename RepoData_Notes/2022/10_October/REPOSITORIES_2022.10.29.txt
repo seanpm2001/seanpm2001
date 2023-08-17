@@ -1,0 +1,12 @@
+The module for my life story project that contains my AdVenture Capitalist gameplay images from the year 2023.
+The (Milky Way) Jupiter map center for the SNU Universe project (in 3D mode)
+A repository for showcasing my knowledge of the Blockly language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Cobra programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the CPython programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the MS-DOS Style programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Cadence programming language, and continuing to learn the language.
+The Cadence programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Unity 3D Asset programming language, and continuing to learn the language.
+The Unity 3D Asset programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the ProGuard programming language, and continuing to learn the language.
+The ProGuard programming language IDE submodule for SNU Programming Tools (2D Mode)

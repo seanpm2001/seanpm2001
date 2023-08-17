@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the TSX programming language, and continuing to learn the language.
+The TSX Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Textile markup language, and continuing to learn the language.
+The Textile markup language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the JSON5 programming language, and continuing to learn the language.
+The JSON5 Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the QueryByExample (QBE) programming language, and continuing to learn the language.
+The QueryByExample (QBE) Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Latte programming language, and continuing to learn the language.
+The Latte Programming language IDE submodule for SNU Programming Tools (2D Mode)

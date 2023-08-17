@@ -1,0 +1,10 @@
+Android-x64_Android7.1_Heavy_Edition
+Android-x64_Android7.1_Vanilla_Edition
+Android-x64_Android7.1_DeGoogled_Edition
+Android-x64_Android7.1_LiveCD_Edition
+
+🤖️ Android x64: The Heavy build for Android 7.1, a powerful, but large Android 7.1 (Nougat) alternative installation
+🤖️ Android x64: The Vanilla build for Android 7.1, a basic, but useful Android 7.1 (Nougat)  alternative installation
+🤖️ Android x64: The DeGoogled build for Android 7.1, a powerful, DeGoogled Android 7.1 (Nougat)  alternative installation 
+🤖️ Android x64: The LiveCD build for Android 7.1, try out 4 different editions of Android-x64+7.1 (Nougat) before installing it
+

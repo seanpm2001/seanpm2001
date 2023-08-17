@@ -1,0 +1,22 @@
+Learn-StrictYAML
+
+📚️ A repository for showcasing my knowledge of the StrictYAML programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_StrictYAML
+
+⌨️ The StrictYAML Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+
+Android-x64_LiveCD_8C - all versions of Android x64 from 5.0 to 8.1 (instead of ending at 8.0)
+Android-x64_LiveCD_7C - all versions of Android x64 from 5.0 to 8.1 (instead of ending at 7.0)
+Android-x64_LiveCD_6C - all versions of Android x64 from 5.0 to 8.1 (instead of ending at 6.0)
+Android-x64_LiveCD_5C - all versions of Android x64 from 5.0 to 8.1 (instead of ending at 5.0)
+
+🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 8.1 (instead of ending at 8.0)
+🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 7.1 (instead of ending at 7.0)
+🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 6.1 (instead of ending at 6.0)
+🤖️ Special Android x64 LiveCD for all versions of Android x64 from 5.0 to 5.1 (instead of ending at 5.0)
+
+<|RENAME|>
+
+<none>
+

@@ -1,0 +1,2 @@
+The in-game command language for MCPYE, a 3-way extended version of the mcFunction language
+The core milky way solar system map repository for the SNU 3D Universe project.

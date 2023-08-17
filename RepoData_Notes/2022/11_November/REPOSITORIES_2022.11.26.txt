@@ -1,0 +1,5 @@
+A repository for showcasing my knowledge of the STAR programming language, and continuing to learn the language.
+The STAR Programming language submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the BrighterScript programming language, and continuing to learn the language.
+The BrighterScript Programming language submodule for SNU Programming Tools (2D Mode)
+Candroid Notepad is a notepad app for the Candroid framework/environment. It is not a replacement to an Android stock program, as Android never included a notepad

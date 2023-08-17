@@ -1,0 +1,6 @@
+Candroid does things different. The Candroid app store is a library of APK client wrappers (F-Droid, APKPure, etc.) For the main Candroid app store, try visiting the Candroid Market.
+Candroid Assistant is both a desktop guide and a voice assistant for the Candroid framework. It is designed to replace the Google Assistant found in Android, and also the desktop guide in early versions of Android (for example: Android 2.3)
+Data set for the Ukraine History Simulator that contains Ukrainian music and soundtracks for the game.
+Data set for the Ukraine History Simulator that contains Russian music and soundtracks for the game.
+Data set for the Ukraine History Simulator that contains Ukrainian Oblast data for the game
+Data set for the Ukraine History Simulator that contains Russian Oblast data for the game

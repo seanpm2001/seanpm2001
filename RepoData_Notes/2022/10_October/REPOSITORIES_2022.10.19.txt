@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the S-RECODE Template programming language, and continuing to learn the language.
+The S-RECODE Template Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the TXL programming language, and continuing to learn the language.
+The TXL Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the Module Management System programming language, and continuing to learn the language.
+The Module Management System Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the LiveScript programming language, and continuing to learn the language.
+The LiveScript Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the Wierd programming language, and continuing to learn the language.
+The Wierd Programming language IDE submodule for SNU Programming Tools.

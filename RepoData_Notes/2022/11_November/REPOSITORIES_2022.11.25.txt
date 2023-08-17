@@ -1,0 +1,5 @@
+A repository for showcasing my knowledge of the Unix Assembly programming language, and continuing to learn the language.
+The Unix Assembly Programming language submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Linux Kernel Module programming language, and continuing to learn the language.
+The Linux Kernel Module Programming language submodule for SNU Programming Tools (2D Mode)
+Candroid Mail is a email platform wrapper, which replaces GMail with ProtonMail, and other email sites. An alternative to the GMail app on Android.

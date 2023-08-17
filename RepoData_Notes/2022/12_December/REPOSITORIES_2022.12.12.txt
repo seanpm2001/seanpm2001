@@ -1,0 +1,24 @@
+Android-x64_Workspace_Firefox
+Ukraine-History-Simulator_Workspace_Firefox
+
+🧰️🦊️🤖️ Firefox workspace data for the Android x64 project. Also covers the Android x32, Android x128, and Candroid projects.
+🧰️🦊️🇺🇦️ Firefox workspace data for the Ukraine History Simulator project.
+
+Android-x64_Android6.1_Heavy_Edition
+Android-x64_Android6.1_Vanilla_Edition
+Android-x64_Android6.1_DeGoogled_Edition
+Android-x64_Android6.1_LiveCD_Edition
+
+🤖️ Android x64: The Heavy build for Android 6.1, a powerful, but large Android 6.1 (Marshmallow) alternative installation
+🤖️ Android x64: The Vanilla build for Android 6.1, a basic, but useful Android 6.1 (Marshmallow)  alternative installation
+🤖️ Android x64: The DeGoogled build for Android 6.1, a powerful, DeGoogled Android 6.1 (Marshmallow)  alternative installation 
+🤖️ Android x64: The LiveCD build for Android 6.1, try out 4 different editions of Android-x64+6.1 (Marshmallow) before installing it
+
+Android-x32_Docs
+Android-x64_Docs
+Android-x128_Docs
+
+📃️🤖️📚️ Separate documentation repository for the Android x32 project.
+📃️🤖️📚️ Separate documentation repository for the Android x64 project.
+📃️🤖️📚️ Separate documentation repository for the Android x128 project.
+

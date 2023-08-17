@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the Monkey programming language, and continuing to learn the language.
+The Monkey programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Stata programming language, and continuing to learn the language.
+The Stata programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the BlitzMax programming language, and continuing to learn the language.
+The BlitzMax programming language IDE submodule for SNU Programming Tools (2D Mode)
+The (Milky Way) Sun map center for the SNU Universe project (in 3D mode)
+The (Milky Way/Solar System) Sun map center for the SNU Universe project (in 3D mode)
+The (Milky Way/Solar System) Earth map center for the SNU Universe project (in 3D mode)
+The (Milky Way/Solar System) Mercury map center for the SNU Universe project (in 3D mode)

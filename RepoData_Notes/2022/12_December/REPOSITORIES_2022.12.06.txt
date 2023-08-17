@@ -1,0 +1,4 @@
+[🚫️©🚫️] I don't use copyright. Redirect to https://github.com/seanpm2001/Copyleft/
+🄯 Copyleft legal information by @seanpm2001
+📑️ Documentation regarding project designators and what they mean for my projects.
+📀️ DISK-O Jockey is an advanced CD/DVD player, and modifier, designed to integrate with VLC Media Player, and emulate the experience of every DVD player known to exist.

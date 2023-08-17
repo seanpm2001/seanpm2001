@@ -1,0 +1,19 @@
+The (Milky Way) Saturn map center for the SNU Universe project (in 3D mode)
+A separate documentation center for older documentation by @seanpm2001, during the SeanSpokane2015 era (2015-2015) redirect to https://github.com/seanpm2001/Seanspokane2015-Documentation/
+A separate documentation center for older documentation by @seanpm2001, formerly known as seanspokane2015
+A repository for showcasing my knowledge of the Batchfile programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Groovy programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Roff programming language, and continuing to learn the language.
+The Roff Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Visual Basic .NET programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the PowerShell programming language, and continuing to learn the language.
+
+[Already exists]
+The Batchfile Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Gherkin programming language, and continuing to learn the language.
+The Groovy Programming language IDE submodule for SNU Programming Tools (2D Mode) View the main project [here](https://github.com/SNU-Programming-Tools/)
+A repository for showcasing my knowledge of the Hyphy programming language, and continuing to learn the language.
+The HyPhy Programming language IDE submodule for SNU Programming Tools.
+The PowerShell programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Visual Basic .NET Programming language IDE submodule for SNU Programming Tools (2D Mode)
+

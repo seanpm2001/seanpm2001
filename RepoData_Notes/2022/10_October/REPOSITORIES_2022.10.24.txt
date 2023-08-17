@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the RGPLE programming language, and continuing to learn the language.
+The RGPLE Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Grammatical Framework programming language, and continuing to learn the language.
+The Grammatical Framework Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the DCPU-16 ASM programming language, and continuing to learn the language.
+The DCPU-16 ASM Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Lucid programming language, and continuing to learn the language.
+The Lucid Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the ISWIM programming language, and continuing to learn the language.
+The ISWIM Programming language IDE submodule for SNU Programming Tools (2D Mode)

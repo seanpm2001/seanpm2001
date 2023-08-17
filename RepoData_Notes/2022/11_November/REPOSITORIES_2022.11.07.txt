@@ -1,0 +1,14 @@
+The post-predecessor to Meadows, Rasple was a small experimental system that came between the unnamed phase and the official Meadows phase.
+Meadows web mode: turn Meadows into a netbook system and convert any browser into a system for Internet browsing only. An alternative to Chrome/ChromiumOS
+A separate documentation center for older documentation. Redirect to https://github.com/Seanwallawalla-Documentation/
+A portal page repository for all repository templates created by @seanpm2001
+A repository for showcasing my knowledge of the Linker Script programming language, and continuing to learn the language.
+The Linker Script Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Monkey-C programming language, and continuing to learn the language.
+The Monkey-C Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Pod6 programming language, and continuing to learn the language.
+The Pod6 Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Perl6 programming language, and continuing to learn the language.
+The Perl6 Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Wavefront Object programming language, and continuing to learn the language.
+The Wavefront Object Programming language IDE submodule for SNU Programming Tools (2D Mode)

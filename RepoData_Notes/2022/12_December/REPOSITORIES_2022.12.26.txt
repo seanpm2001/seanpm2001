@@ -1,0 +1,22 @@
+
+Android-x32_LiveCD_4.4A -- All versions of Android x32 from 0.9 to 4.4
+Android-x32_LiveCD_4.4B -- All versions of Android x32 from 4.4 to 4.4
+Android-x32_LiveCD_4.3A -- All versions of Android x32 from 0.9 to 4.3
+Android-x32_LiveCD_4.3B -- All versions of Android x32 from 4.3 to 4.4
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 4.4
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 4.4 to 4.4
+🤖️ Special Android x32 LiveCD for all versions of Android x33 from 0.9 to 4.3
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 4.3 to 4.4
+
+Why-you-should-stop-using-Google-Movies
+
+📃️ An article on the problems with the Google Movies service, and why you should avoid it. 
+
+Seanpm2001-Citation
+
+📖️ A repository that archives and collects citation files from all of my repositories, in APA Style, BibTeX, and CFF formats.
+
+<|RENAME|>
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 4.3

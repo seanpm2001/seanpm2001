@@ -1,0 +1,16 @@
+The scope of my projects.
+A yellow pie chart comes alive in the style of Pacman, and he is hungry for your documents. Go through as many documents as you can before you get killed by fantoms.
+The module for my life story project that contains my GitHub images from the year 2023 AD.
+Hacktoberfest documentation for @seanpm2001
+A repository for showcasing my knowledge of the ASP programming language, and continuing to learn the language.
+The ASP programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the ASP.NET programming language, and continuing to learn the language.
+The ASP.NET programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the BSDL programming language, and continuing to learn the language.
+The BSDL programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the FLUX programming language, and continuing to learn the language.
+The FLUX programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the BibTeX language, and continuing to learn the language.
+
+Already exists
+The BibTeX language IDE submodule for SNU Programming Tools (2D Mode)

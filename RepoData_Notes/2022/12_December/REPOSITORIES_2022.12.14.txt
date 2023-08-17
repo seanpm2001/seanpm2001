@@ -1,0 +1,19 @@
+Android-x64_Android5.1_Heavy_Edition
+Android-x64_Android5.1_Vanilla_Edition
+Android-x64_Android5.1_DeGoogled_Edition
+Android-x64_Android5.1_LiveCD_Edition
+
+🤖️ Android x64: The Heavy build for Android 5.1, a powerful, but large Android 5.1 (Lollipop) alternative installation
+🤖️ Android x64: The Vanilla build for Android 5.1, a basic, but useful Android 5.1 (Lollipop) alternative installation
+🤖️ Android x64: The DeGoogled build for Android 5.1, a powerful, DeGoogled Android 5.1 (Lollipop) alternative installation
+🤖️ Android x64: The LiveCD build for Android 5.1, try out 4 different editions of Android-x64+5.1 (Lollipop) before installing it
+
+Ubuntu-Bugs
+
+🪲️ Bug reports for Ubuntu Linux based on what I have encountered.
+
+<|>RENAMING<|>
+
+🤖️💾️📃️ The Candroid application catalog. Main repository: https://github.com/seanpm2001/Candroid/tree/main/Candroid-Catalogue/
+🤖️🐧️📦️ Candroid is the ultimate Android BusyBox, and a complete open-source re-implementation of everything Android. Currently only available on Linux.
+:octocat: 🏢️ℹ️ Documentation/info on my former GitHub organizations and their usage (in database format)

@@ -1,0 +1,16 @@
+The (Milky Way) Venus map center for the SNU Universe project (in 3D mode)
+The (Milky Way) Neptune map center for the SNU Universe project (in 3D mode)
+The (Milky Way) Dwarf Pluto map center for the SNU Universe project (in 3D mode)
+A repository for showcasing my knowledge of the EBNF programming language, and continuing to learn the language.
+The EBNF programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the PlPGSQL programming language, and continuing to learn the language.
+The PlPGSQL programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the PureScript programming language, and continuing to learn the language.
+The SQLPL programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the SQLPL programming language, and continuing to learn the language.
+The RenderScript programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the RenderScript programming language, and continuing to learn the language.
+
+[ALREADY EXISTS]
+The PureScript Programming language IDE submodule for SNU Programming Tools (2D Mode)
+

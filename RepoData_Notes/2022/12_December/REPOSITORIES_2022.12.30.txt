@@ -1,0 +1,22 @@
+Android-x32_LiveCD_2.3A -- All versions of Android x32 from 0.9 to 2.3
+Android-x32_LiveCD_2.3B -- All versions of Android x32 from 2.3 to 2.3
+Android-x32_LiveCD_2.2A -- All versions of Android x32 from 0.9 to 2.2
+Android-x32_LiveCD_2.2B -- All versions of Android x32 from 2.2 to 2.2
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 2.3
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 2.3 to 2.3
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 2.2
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 2.2 to 2.2
+
+DeGoogle-your-life-Current-Catalogue
+
+📑️🚫️📃️ A catalog of articles on current Google products and their associated DeGoogle articles. Part of the seanpm2001 DeGoogle your Life project.
+
+DeGoogle-your-life-Graveyard-catalogue
+
+📑️🚫️📃️ A catalog of articles on past Google products and their associated DeGoogle articles. Part of the seanpm2001 DeGoogle your Life project. Also an alternative to the killedbygoogle site.
+
+<|RENAME|>
+
+<none>
+

@@ -1,0 +1,12 @@
+The module for my life story project that contains my Clash of Clans gameplay images from the year 2023.
+The module for my life story project that contains my Boom Beach gameplay images from the year 2023.
+A repository for showcasing my knowledge of the Batch programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the MATLAB programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Scratch programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Squeak programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Wavefront Material programming language, and continuing to learn the language.
+The Wavefront Material programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the CAP-CDS programming language, and continuing to learn the language.
+The CAP-CDS programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the JetBrains MPS programming language, and continuing to learn the language.
+The Wavefront Material programming language IDE JetBrains MPS for SNU Programming Tools (2D Mode)

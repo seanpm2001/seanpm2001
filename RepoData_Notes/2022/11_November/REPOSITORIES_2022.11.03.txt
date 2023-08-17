@@ -1,0 +1,8 @@
+An optional search engine addon that helps filter the Internet to be more friendly towards all.
+The core of the SSS (Santa Software Suite) a Christmas-themed software suite for holiday use.
+The Lodger framework for SNU 2D Mode. An open source alternative to sites like AirBnB, VRBO, etc. This module is required for certain SNU distributions.
+A repository for showcasing my knowledge of the IntelHexBinary language, and continuing to learn the language.
+A repository for showcasing my knowledge of the PostScript programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Less stylesheet language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Limbo programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the LISP programming language, and continuing to learn the language.

@@ -1,0 +1,14 @@
+Android-x32x64_LiveCD_7A_Edition -- A compilation of every version of Android x64 from 0.9 to 7.0
+Android-x32x64_LiveCD_7B_Edition -- A compilation of every version of Android x64 from 0.9 to 7.1
+Android-x32x64_LiveCD_8A_Edition -- A compilation of every version of Android x64 from 0.9 to 8.0
+Android-x32x64_LiveCD_8B_Edition -- A compilation of every version of Android x64 from 0.9 to 8.1
+
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 7.0
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 7.1
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 8.0
+🤖️ Special Android x32x32 LiveCD for all versions of Android x32 and x64 from 0.9 to 8.1
+
+<|RENAME|>
+
+<🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 8.1>
+

@@ -1,0 +1,17 @@
+Android-x64_Android8.1_Heavy_Edition
+Android-x64_Android8.1_Vanilla_Edition
+Android-x64_Android8.1_DeGoogled_Edition
+Android-x64_Android8.1_LiveCD_Edition
+
+🤖️ Android x64: The Heavy build for Android 8.1, a powerful, but large Android 8.1 alternative installation
+🤖️ Android x64: The Vanilla build for Android 8.1, a basic, but useful Android 8.1 alternative installation
+🤖️ Android x64: The DeGoogled build for Android 8.1, a powerful, DeGoogled Android 8.1 alternative installation
+🤖️ Android x64: The LiveCD build for Android 8.1, try out 4 different editions of Android-x64+8.1 before installing it
+
+Candroid-Settings
+Candroid-Wallpaper
+
+🤖️ Candroid Settings is the settings app for Candroid. It is designed to replace/enhance the Android system settings application.
+🤖️ Candroid Wallpaper is the wallpaper engine and customization application for Candroid. It is designed to replace Android wallpaper functionality with a new framework.
+
+🤖️ COPY/PASTE REFERENCE

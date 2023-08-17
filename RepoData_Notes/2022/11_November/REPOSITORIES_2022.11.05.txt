@@ -1,0 +1,14 @@
+The Christmas Arcade of the Santa Software Suite (SSS) a collection of holiday/Christmas games.
+The client of the Santa Software Suite (SSS)
+A repository for showcasing my knowledge of the Ragel programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Verilog programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Refal programming language, and continuing to learn the language.
+The Refal Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the SCSS programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Sed programming language, and continuing to learn the language.
+
+ALREADY EXISTS
+The Ragel Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Verilog Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The SCSS Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Sed Programming language IDE submodule for SNU Programming Tools (2D Mode)

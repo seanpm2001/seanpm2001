@@ -1,0 +1,14 @@
+
+Android-x32_LiveCD_4.2A -- All versions of Android x32 from 0.9 to 4.2
+Android-x32_LiveCD_4.2B -- All versions of Android x32 from 4.2 to 4.4
+Android-x32_LiveCD_4.1A -- All versions of Android x32 from 0.9 to 4.1
+Android-x32_LiveCD_4.1B -- All versions of Android x32 from 4.1 to 4.4
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 4.2
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 4.2 to 4.2
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 4.1
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 4.1 to 4.1
+
+<|RENAME|>
+
+<none>

@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the Augeas programming language, and continuing to learn the language.
+The Augeas Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the OpenCL programming language, and continuing to learn the language.
+The OpenCL Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the X Pixmap programming language, and continuing to learn the language.
+The X Pixmap Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the FP programming language, and continuing to learn the language.
+The FP Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the CH programming language, and continuing to learn the language.
+The CH Programming language IDE submodule for SNU Programming Tools.

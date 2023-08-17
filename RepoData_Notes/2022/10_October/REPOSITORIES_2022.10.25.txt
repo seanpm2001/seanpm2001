@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the Smali programming language, and continuing to learn the language.
+The Smali Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Terra programming language, and continuing to learn the language.
+The Terra Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the KiCad Layout programming language, and continuing to learn the language.
+The KiCad Layout Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the KiCad Schematic programming language, and continuing to learn the language.
+The KiCad Schematic Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the MLIR programming language, and continuing to learn the language.
+The MLIR Programming language IDE submodule for SNU Programming Tools (2D Mode)

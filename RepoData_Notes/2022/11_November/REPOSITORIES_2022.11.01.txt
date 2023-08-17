@@ -1,0 +1,15 @@
+An article on technical specifications by @seanpm2001
+The source code style guide for @seanpm2001
+The module for my life story project that contains my Bit City Gameplay images from the year 2023
+A repository for showcasing my knowledge of the Genie programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Cap'n Proto programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Coq programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the CSound programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the CSound Document programming language, and continuing to learn the language.
+The CSound Document Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+ALREADY CREATED
+The Genie programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Cap'n Proto programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Coq Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The CSound Programming language IDE submodule for SNU Programming Tools (2D Mode)

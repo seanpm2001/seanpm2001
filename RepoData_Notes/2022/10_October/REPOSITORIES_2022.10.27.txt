@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the J programming language, and continuing to learn the language.
+The J Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Macaulay2 programming language, and continuing to learn the language.
+The Macaulay2 Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Motoko programming language, and continuing to learn the language.
+The Motoko Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Nemerle programming language, and continuing to learn the language.
+The Nemerle Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Vim Snippet programming language, and continuing to learn the language.
+The Vim Snippet Programming language IDE submodule for SNU Programming Tools (2D Mode)

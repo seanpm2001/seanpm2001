@@ -1,0 +1,11 @@
+A repository for showcasing my knowledge of the Miranda programming language, and continuing to learn the language.
+The Miranda Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the ML programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Apache Pig/Piglatin programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the REBOL programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the PureBasic programming language, and continuing to learn the language.
+
+ALREADY EXISTS
+The ML Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Apache Pig/Piglatin Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The REBOL Programming language IDE submodule for SNU Programming Tools (2D Mode)

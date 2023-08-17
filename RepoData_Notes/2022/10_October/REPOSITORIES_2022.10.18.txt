@@ -1,0 +1,10 @@
+A repository for showcasing my knowledge of the Befunge programming language, and continuing to learn the language.
+The Befunge Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the PLSQL programming language, and continuing to learn the language.
+The PLSQL Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the AGS Script programming language, and continuing to learn the language.
+The AGS Script Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the Chapel programming language, and continuing to learn the language.
+The Chapel Programming language IDE submodule for SNU Programming Tools.
+A repository for showcasing my knowledge of the PlantUML programming language, and continuing to learn the language.
+The PlantUML Programming language IDE submodule for SNU Programming Tools.

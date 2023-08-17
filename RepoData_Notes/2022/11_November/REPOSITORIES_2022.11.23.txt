@@ -1,0 +1,5 @@
+A repository for showcasing my knowledge of the CSharp HTML (Classic ASP) programming language, and continuing to learn the language.
+The CSharp HTML (Classic ASP) Programming language submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Visual Basic HTML (Classic ASP) programming language, and continuing to learn the language.
+The Visual Basic HTML (Classic ASP) Programming language submodule for SNU Programming Tools (2D Mode)
+The Candroid calculator application, an alternative to the Google calculator found in Android

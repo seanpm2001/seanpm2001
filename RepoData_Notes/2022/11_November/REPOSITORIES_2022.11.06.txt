@@ -1,0 +1,14 @@
+A separate documentation repository for the iBlast game. See the upstream project: https://github.com/seanpm2001/iBlast/
+The (Milky Way) Uranus map center for the SNU Universe project (in 3D mode)
+A repository for showcasing my knowledge of the SQL programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the StandardML programming language, and continuing to learn the language.
+The StandardML Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the TeX programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the TSQL programming language, and continuing to learn the language.
+A repository for showcasing my knowledge of the Verilog AMS programming language, and continuing to learn the language.
+
+ALREADY EXISTS
+The SQL (Structured Query Language) Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The TeX Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Transact SQL Programming language IDE submodule for SNU Programming Tools (2D Mode)
+The Verilog AMS Programming language IDE submodule for SNU Programming Tools (2D Mode)

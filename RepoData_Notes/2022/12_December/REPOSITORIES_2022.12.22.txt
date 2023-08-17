@@ -1,0 +1,20 @@
+Android-x32x64_LiveCD_9A_Edition -- A compilation of every version of Android x64 from 0.9 to 9.0
+Android-x32x64_LiveCD_10A_Edition -- A compilation of every version of Android x64 from 0.9 to 10.0
+Android-x32x64_LiveCD_11A_Edition -- A compilation of every version of Android x64 from 0.9 to 11.0
+Android-x32x64_LiveCD_12A_Edition -- A compilation of every version of Android x64 from 0.9 to 12.0
+
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 9.0
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 10.0
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 11.0
+🤖️ Special Android x32x32 LiveCD for all versions of Android x32 and x64 from 0.9 to 12.0
+
+Learn-SDLang
+SNU_2D_ProgrammingTools_IDE_SDLang
+
+📚️ A repository for showcasing my knowledge of the SDLang programming language, and continuing to learn the language.
+⌨️ The SDLang Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+<|RENAME|>
+
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 12.0
+

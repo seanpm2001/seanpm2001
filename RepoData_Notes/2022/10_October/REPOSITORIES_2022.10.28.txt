@@ -1,0 +1,13 @@
+Redirect to https://github.com/seanpm2001/Documentation/
+The Documentation core repository for @seanpm2001
+The module for my life story project that contains my NimbleBit × Disney: Tiny Death Star gameplay images from the year 2023.
+A repository for showcasing my knowledge of the FreeBasic programming language, and continuing to learn the language.
+The FreeBasic Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the DroppedText language, and continuing to learn the language.
+The DroppedText language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Matrix (seanpm2001) programming language, and continuing to learn the language.
+The Matrix (seanpm2001) programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the URLL language, and continuing to learn the language.
+The URLL language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the JFlex programming language, and continuing to learn the language.
+The JFlex Programming language IDE submodule for SNU Programming Tools (2D Mode)

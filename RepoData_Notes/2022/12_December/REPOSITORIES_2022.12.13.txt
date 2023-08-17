@@ -1,0 +1,10 @@
+Android-x64_Android6.0_Heavy_Edition
+Android-x64_Android6.0_Vanilla_Edition
+Android-x64_Android6.0_DeGoogled_Edition
+Android-x64_Android6.0_LiveCD_Edition
+
+🤖️ Android x64: The Heavy build for Android 6.0, a powerful, but large Android 6.0 (Marshmallow) alternative installation
+🤖️ Android x64: The Vanilla build for Android 6.0, a basic, but useful Android 6.0 (Marshmallow) alternative installation
+🤖️ Android x64: The DeGoogled build for Android 6.0, a powerful, DeGoogled Android 6.0 (Marshmallow) alternative installation 
+🤖️ Android x64: The LiveCD build for Android 6.0, try out 4 different editions of Android-x64+6.0 (Marshmallow) before installing it
+

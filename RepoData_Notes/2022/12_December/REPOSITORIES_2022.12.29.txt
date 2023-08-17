@@ -1,0 +1,15 @@
+
+Android-x32_LiveCD_3.1A -- All versions of Android x32 from 0.9 to 3.1
+Android-x32_LiveCD_3.1B -- All versions of Android x32 from 3.1 to 3.2
+Android-x32_LiveCD_3.0A -- All versions of Android x32 from 0.9 to 3.0
+Android-x32_LiveCD_3.0B -- All versions of Android x32 from 3.0 to 3.2
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 3.1
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 3.1 to 3.1
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 3.0
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 3.0 to 3.0
+
+<|RENAME|>
+
+<none>
+

@@ -1,0 +1,10 @@
+UHS_DataSets_Heraldry_Ukraine
+UHS_DataSets_Heraldry_Russia
+UHS_DataSets_Armies_Ukraine
+UHS_DataSets_Armies_Russia
+Candroid-Clock
+Candroid-Voicemail
+Android-x64_Android10_Heavy_Edition
+Android-x64_Android10_Vanilla_Edition
+Android-x64_Android10_DeGoogled_Edition
+Android-x64_Android10_LiveCD_Edition

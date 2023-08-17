@@ -1,0 +1,15 @@
+Android-x32_LiveCD_2.1A -- All versions of Android x32 from 0.9 to 2.1
+Android-x32_LiveCD_2.1B -- All versions of Android x32 from 2.1 to 2.1
+Android-x32_LiveCD_2.0A -- All versions of Android x32 from 0.9 to 2.0
+Android-x32_LiveCD_2.0B -- All versions of Android x32 from 2.0 to 2.0
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 2.1
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 2.1 to 2.1
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 2.0
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 2.0 to 2.0
+
+<|RENAME|>
+
+🎨️🖥️🖼️ This is my repository for my graphic design works, it contains an archive of all of my original graphic design work, along with some other digital designs.
+:octocat: 📊️🗃️ My secondary GitHub statistics repository, with daily stats generation generated from the @jstrieb source repository.
+

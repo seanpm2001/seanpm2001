@@ -1,0 +1,22 @@
+UHS_DataSets_RussoUkrainianWar_UkraineFrontlinesMap
+UHS_DataSets_RussoUkrainianWar_RussiaFrontlinesMap
+UHS_DataSets_RussoUkrainianWar_UkrainianSpeeches
+UHS_DataSets_RussoUkrainianWar_RussianSpeeches
+
+Data set for the Ukraine History Simulator that contains Ukrainian frontline data for the game. (from the Russo-Ukrainian war)
+Data set for the Ukraine History Simulator that contains Russian frontline data for the game. (from the Russo-Ukrainian war)
+Data set for the Ukraine History Simulator that contains Ukrainian speech data for the game. (from the Russo-Ukrainian war)
+Data set for the Ukraine History Simulator that contains Russian speech data for the game. (from the Russo-Ukrainian war)
+
+BASH.sh (write in: majority: Shell)
+BASH.sh_Docs (write in: majority: Markdown, Shell)
+
+BASH.sh is a series of addons and joke programs revolving around the (BASH) Shell scripting language and the terminal it is used in.
+Documentation for the BASH.sh series of addons and joke programs.
+
+Candroid-Calendar
+Candroid-Contacts
+
+Candroid Calendar is a calendar application, which replaces the default Android Calendar application.
+Candroid Contacts is a personal contacts application, which replaces the default Android Contacts application.
+

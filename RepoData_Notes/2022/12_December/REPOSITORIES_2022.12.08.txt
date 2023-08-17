@@ -1,0 +1,9 @@
+Candroid-TV
+Candroid-Video
+Candroid-Docs
+
+🤖️ Candroid TV is a TV application and environment designed to replace Google TV/Android TV in a more privacy-oriented way.
+🤖️ Candroid Video is a video application for the Candroid framework that replaces the stock Android videos application.
+🤖️ The Candroid documentation repository. See also: https://github.com/seanpm2001/Candroid/tree/main/Docs/
+
+

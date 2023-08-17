@@ -1,0 +1,13 @@
+A repository for showcasing my knowledge of the Berry programming language, and continuing to learn the language.
+The Berry Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Scratch 1.x programming language, and continuing to learn the language.
+The Scratch 1.x Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Scratch 2.x programming language, and continuing to learn the language.
+The Scratch 2.x Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Scratch 3.x programming language, and continuing to learn the language.
+The Scratch 3.x Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the Stan programming language, and continuing to learn the language.
+The Stan Programming language IDE submodule for SNU Programming Tools (2D Mode)
+A separate documentation center for older documentation by @seanpm2001, formerly and additionally known as @seanwallawalla
+A separate documentation center for older documentation by @seanpm2001, during the SeanTRM era (2014-2018) redirect to https://github.com/seanpm2001/SeanTRM-Documentation/
+A separate documentation center for older documentation by @seanpm2001, during the SeanTRM era (2014-2018)

@@ -1,0 +1,19 @@
+Android-x32x64
+Android-x32x64_Docs
+Android-x32x64_LiveCD_5A_Edition -- A compilation of every version of Android x64 from 0.9 to 5.0
+Android-x32x64_LiveCD_5B_Edition -- A compilation of every version of Android x64 from 0.9 to 5.1
+Android-x32x64_LiveCD_6A_Edition -- A compilation of every version of Android x64 from 0.9 to 6.0
+Android-x32x64_LiveCD_6B_Edition -- A compilation of every version of Android x64 from 0.9 to 6.1
+
+🤖️ Android x32x64 is a community project to virtualize and DeGoogle the Android operating system by Google, mixing Android x32 and x64 editions into doubled LiveCD images
+📃️🤖️📚️ Separate documentation repository for the Android x32x64 project. 
+ 
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 5.0
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 5.1
+🤖️ Special Android x32x64 LiveCD for all versions of Android x32 and x64 from 0.9 to 6.0
+🤖️ Special Android x32x32 LiveCD for all versions of Android x32 and x64 from 0.9 to 6.1
+
+<|RENAME|>
+
+<None>
+
