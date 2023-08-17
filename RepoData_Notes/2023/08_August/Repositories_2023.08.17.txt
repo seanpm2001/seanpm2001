@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Cap-n-Proto
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Cap-n-Proto category for AI2001, containing Cap'n Proto programming language datasets
+
+AI2001_Category-Source_Code-SC-CAP-CDS
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:CAP-CDS category for AI2001, containing CAP CDS programming language datasets
+
+AI2001_Category-Source_Code-SC-Rascal
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Rascal category for AI2001, containing Rascal programming language datasets
+
+AI2001_Category-Source_Code-SC-Scheme
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Scheme category for AI2001, containing Scheme programming language datasets
+
+YKDefender_Docs
+
+📖️ The official documentation source repository for the YKDefender software tool project.
+
+Kotlint-Docs
+
+📖️ The official documentation source repository for the Kotlint Kotlin linting software project.
+

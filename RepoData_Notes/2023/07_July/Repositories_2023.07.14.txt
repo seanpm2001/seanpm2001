@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Wren
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Wren category for AI2001, containing Wren programming language datasets
+
+AI2001_Category-Source_Code-SC-Windows-Registry-Entry
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Windows-Registry-Entry category for AI2001, containing Windows Registry Entry programming language datasets
+
+LennyOS
+
+🕶️💾️ LennyOS is a highly customizable eyeglass operating system. Want to show off some laser eyes and improve focal abilities at the same time? LennyOS is there for you!
+
+LennyOS_Docs
+
+🕶️📖️ The official documentation source repository for LennyOS.
+
+Learn-XBasePlusPlus
+
+📚️ A repository for showcasing my knowledge of the XBase++ programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_XBasePlusPlus
+
+⌨️ The XBase++ programming language IDE submodule for SNU Programming Tools (2D Mode)
+

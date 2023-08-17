@@ -1,0 +1,25 @@
+
+AI2001_Category-Linguistics-SC-Santali
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Santali category for AI2001, containing Santali language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Fula
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Fula category for AI2001, containing Fula language linguistic datasets
+
+Learn-MQL4
+
+📚️ A repository for showcasing my knowledge of the MQL4 programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_MQL4
+
+⌨️ The MQL4 programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Linux-Marketshare-Ping-Tool_Docs
+
+📖️ The official documentation source repository for the Linux Marketshare Ping Tool software piece
+
+LightSpeed-Relay-Technologies_Docs
+
+📖️ The official documentation source repository for the LightSpeed Relay Technologies framework.
+

@@ -1,0 +1,17 @@
+
+AI2001_Category-Source_Code-SC-Uno
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Uno category for AI2001, containing Uno programming language datasets
+
+AI2001_Category-Source_Code-SC-URLL
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:URLL category for AI2001, containing URLL programming language datasets
+
+Learn-Plankalk-u-l
+
+📚️ A repository for showcasing my knowledge of the Plankalkül programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Plankalk-u-l
+
+⌨️ The Plankalkül programming language IDE submodule for SNU Programming Tools (2D Mode)
+

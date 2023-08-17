@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Chapel
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Chapel category for AI2001, containing Chapel programming language datasets
+
+AI2001_Category-Source_Code-SC-Cython
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Cython category for AI2001, containing Cython programming language datasets
+
+Learn-Noop
+
+📚️ A repository for showcasing my knowledge of the Noop programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Noop
+
+⌨️ The Noop programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Boom-Bay_Docs
+
+📖️ The official documentation source repository for the Boom Bay strategy video game project (inspired by Boom Beach)
+
+BathHouseOS_Docs
+
+📖️ The official documentation source repository for the BathHouseOS operating system project.
+

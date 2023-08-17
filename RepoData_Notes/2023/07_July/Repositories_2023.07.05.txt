@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-URL-Shortener
+
+🚫️📃️🚫️ An article on the problems with the Google URL Shortener, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Web-Accelerator
+
+🚫️📃️🚫️ An article on the problems with Google Web Accelerator, and why it should have been avoided.
+
+AI2001_Category-Source_Code-SC-Scala
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Scala category for AI2001, containing Scala programming language datasets
+
+AI2001_Category-Source_Code-SC-Svelte
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Svelte category for AI2001, containing Svetlte programming language datasets
+
+NUNIX_VoiceBox
+
+🧠️🗣️📣️ The VoiceBox component of NUNIX, a set of vocal supplements and improvements. This project contains several sub-components
+
+NUNIX_VoiceBox_AccentBeyond
+
+🧠️🗣️📣️ The VoiceBox:AccentBeyond component of NUNIX, a part of the NUNIX VoiceBox that improves accent control, knowledge, and usage.
+

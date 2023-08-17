@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Vala
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Vala category for AI2001, containing Vala programming language datasets
+
+AI2001_Category-Source_Code-SC-VBScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:VBScript category for AI2001, containing VBScript programming language datasets
+
+Learn-Whitespace
+
+📚️ A repository for showcasing my knowledge of the Whitespace programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Whitespace
+
+⌨️ The Whitespace programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+a11y
+
+ℹ️♿️⚖️ Information about accessibility support, features, and efforts in seanpm2001 projects.
+
+i18n
+
+ℹ️🔣️🔠️ Information about internationalization and location support, features, and efforts in seanpm2001 projects.
+

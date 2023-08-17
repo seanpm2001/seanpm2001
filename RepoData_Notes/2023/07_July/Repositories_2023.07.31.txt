@@ -1,0 +1,25 @@
+
+AI2001_Category-Linguistics-SC-Hindustani
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Hindustani category for AI2001, containing Hindustani language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Meitei
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Meitei category for AI2001, containing Meitei language linguistic datasets
+
+Learn-Mojo
+
+📚️ A repository for showcasing my knowledge of the Mojo programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Mojo
+
+⌨️ The Mojo programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+GeniBlock_Docs
+
+📖️ The official documentation source repository for the GeniBlock software tool.
+
+Gaslight-Galactica_Docs
+
+📖️ The official documentation source repository for the Gaslight Galactica video game.
+

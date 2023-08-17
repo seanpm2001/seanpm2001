@@ -1,0 +1,33 @@
+
+AI2001_Category-Linguistics-SC-Wolof
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Wolof category for AI2001, containing Wolof language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Bambara
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Bambara category for AI2001, containing Bambara language linguistic datasets
+
+Learn-MQL5
+
+📚️ A repository for showcasing my knowledge of the MQL5 programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_MQL5
+
+⌨️ The MQL5 programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+NUNIX_MemoryManager
+
+🧠️📑️ The memory management system for the NUNIX operating system.
+
+NUNIX-Ethics
+
+🧠️🫂️ Documentation and working group (WG) for the ethical development and usage of NUNIX.
+
+SeansLifeArchive_Images_ModernSmurfsVillage_Y2023_V1
+
+🔵️🛖️0️⃣️8️⃣️🗓️2️⃣️0️⃣️2️⃣️3️⃣️ The module for the Seanpm2001 Life archive project that contains Modern Smurfs Village gameplay images from 2023, August.
+
+SeansLifeArchive_Images_MotorWorld_CarFactory_Y2023_V1
+
+🚧️🚗️0️⃣️8️⃣️🗓️2️⃣️0️⃣️2️⃣️3️⃣️ The module for the Seanpm2001 Life archive project that contains Motor World Car Factory gameplay images from 2023, August.
+

@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-Now
+
+🚫️📃️🚫️ An article on the problems with Google Now, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Noop
+
+🚫️📃️🚫️ An article on the problems with Google Noop, and why it should have been avoided.
+
+AI2001_Category-Source_Code-SC-ReScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ReScript category for AI2001, containing ReScript programming language datasets
+
+AI2001_Category-Source_Code-SC-RouterOS-Script
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:RouterOS-Script category for AI2001, containing RouterOS Script programming language datasets
+
+HyperSlice
+
+✂️⚡️🔪️💾️ HyperSlice is an AI powered tool for rapidly cutting elements out of digital media, and saving them to various output files.
+
+HyperSlice_Docs
+
+✂️⚡️🔪️📖️ The official documentation source repository for the HyperSlice software project.
+

@@ -1,0 +1,17 @@
+
+AI2001_Category-Source_Code-SC-Earthly
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Earthly category for AI2001, containing Earthly programming language datasets
+
+AI2001_Category-Source_Code-SC-Euphoria
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Euphoria category for AI2001, containing Euphoria programming language datasets
+
+NUNIX-Guidelines
+
+🧠️📑️ The official documentation repository for NUNIX development guidelines.
+
+NUNIX_MediaEssentials
+
+🧠️🎞️ The core of the MediaEssentials repository for NUNIX, containing timeless, very important media that is essential to human knowledge/culture.
+

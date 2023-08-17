@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Eagle
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Eagle category for AI2001, containing Eagle programming language datasets
+
+AI2001_Category-Source_Code-SC-EmacsLisp
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Emacs Lisp category for AI2001, containing Emacs Lisp programming language datasets
+
+AI2001_Category-Linguistics-SC-Cebuano
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Cebuano category for AI2001, containing Cebuano language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Tigrinya
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Tigrinya category for AI2001, containing Tigrinya language linguistic datasets
+
+Jobsolete
+
+🤖️💼️📖️ Documentation regarding the history of jobs made obsolete by automation and Artificial Intelligence
+
+SEAN9000
+
+🔴️9️⃣️0️⃣️0️⃣️0️⃣️ Information on my SEAN9000 alias (play-on HAL-9000)
+

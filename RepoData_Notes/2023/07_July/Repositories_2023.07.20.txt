@@ -1,0 +1,25 @@
+
+AI2001_Category-Linguistics-SC-Sami
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Sami category for AI2001, containing Sámi language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Lushootseed
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Lushootseed category for AI2001, containing Lushootseed language linguistic datasets
+
+LennyOS_Stickers
+
+🔸️👓️💾️ Sticker support for the LennyOS operating system.
+
+LennyOS_Opacity
+
+🅾️👓️💾️ Opacity control settings and support for the LennyOS operating system.
+
+Seanpm2001-P2P
+
+👥️🔄️👥️2️⃣️0️⃣️0️⃣️1️⃣️ Information on Peer to Peer technologies and usage by @seanpm2001
+
+Gallery
+
+🧱️🖼️🧱️ Image gallery portal for @seanpm2001
+

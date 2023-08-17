@@ -1,0 +1,35 @@
+
+AI2001_Category-Source_Code-SC-ZenScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ZenScript category for AI2001, containing ZenScript programming language datasets
+
+AI2001_Category-Source_Code-SC-ZAP
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ZAP category for AI2001, containing ZAP programming language datasets
+
+LennyOS_Glow
+
+👓️💾️ The glow software component and hardware blueprint for the LennyOS operating system.
+
+LennyOS_Tint
+
+👓️🚨️💾️ The AutoTint tinting software component addon and hardware blueprint for the LennyOS operating system.
+
+Android-x32x64x128_Docs
+
+🤖️📱️📖️ The official documentation repository for the Android x32x64x128 project grouping (Android x32, x64, and x128)
+
+SDE_Docs
+
+🖥️💻️📖️ The official documentation repository for the SDE project (S Desktop Environment)
+
+EDITS
+
+LennyOS_Tint
+
+👓️🕶️💾️ The AutoTint tinting software component addon and hardware blueprint for the LennyOS operating system.
+
+LennyOS_Glow
+
+👓️💡️💾️ The glow software component and hardware blueprint for the LennyOS operating system.
+

@@ -1,0 +1,17 @@
+
+AI2001_Category-Linguistics-SC-Kashmiri
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Kashmiri category for AI2001, containing Kashmiri language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Konkani
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Konkani category for AI2001, containing Konkani language linguistic datasets
+
+Hyper-Realistic-Farm-Simulator_Docs
+
+🧺️🕹️📖️ The official documentation source repository for the Hyper Realistic Farm Simulator game.
+
+DeskLocker_Docs
+
+🔐️🖥️📖️ The official documentation source repository for the DeskLocker software tool.
+

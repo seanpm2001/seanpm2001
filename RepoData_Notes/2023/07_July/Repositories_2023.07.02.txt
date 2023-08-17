@@ -1,0 +1,21 @@
+
+Why-you-should-have-avoided-Google-Fusion-Tables
+
+🚫️📃️🚫️ An article on the problems with Google Fusion Table, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Goggles
+
+🚫️📃️🚫️ An article on the problems with Google Goggles, and why it should have been avoided.
+
+AI2001_Category-Source_Code-SC-RenPy
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Ren'Py category for AI2001, containing Ren'Py programming language datasets
+
+AI2001_Category-Source_Code-SC-Reason
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Reason category for AI2001, containing Reason programming language datasets
+
+SeansLifeArchive_Images_Sonic-Dash_Y2023_V2
+
+🦔️💍️🕹️🖼️🗃️ The module for my life story project that contains my SEGA: Sonic Dash gameplay images from the year 2023 (2023, June)
+

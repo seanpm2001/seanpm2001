@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Elixir
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Elixir category for AI2001, containing Elixir programming language datasets
+
+AI2001_Category-Source_Code-SC-Elm
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Elm category for AI2001, containing Elm programming language datasets
+
+Why-you-should-stop-using-Google-Apps
+
+🚫️📃️🚫️ An article on the problems with Google Apps, and why you should stop using/avoid them.
+
+Why-you-should-stop-using-Google-Gears
+
+🚫️📃️🚫️ An article on the problems with Google Gears, and why you should stop using/avoid it.
+
+SWave-Starter_Docs
+
+📖️ The official documentation source repository for the SWave Starter project.
+
+SeansLifeArchive_Docs
+
+📖️ The official documentation source repository for the Seanpm2001 Life Archive project.
+

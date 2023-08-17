@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-DogeScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:DogeScript category for AI2001, containing DogeScript programming language datasets
+
+AI2001_Category-Source_Code-SC-Dylan
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Dylan category for AI2001, containing Dylan programming language datasets
+
+AI2001_Category-Source_Code-SC-ReStructuredText
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ReStructuredText category for AI2001, containing ReStructuredText programming language datasets
+
+AI2001_Category-Source_Code-SC-Racket
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Racket category for AI2001, containing Racket programming language datasets
+
+SeansLifeArchive_Wiki
+
+📖️ The official wiki repository for the Seanpm2001 Life Archive project.
+
+Slaveworks_Docs
+
+📖️ The official documentation source repository for the Slaveworks video game project.
+

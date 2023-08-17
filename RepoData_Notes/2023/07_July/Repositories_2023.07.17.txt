@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-YASnippet
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:YASnippet category for AI2001, containing YASnippet programming language datasets
+
+AI2001_Category-Source_Code-SC-Zig
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Zig category for AI2001, containing Zig programming language datasets
+
+LennyOS_Lens
+
+👓️💾️ The lens software component and hardware blueprint for the LennyOS operating system.
+
+LennyOS_Lasers
+
+👓️🚨️💾️ The laser software component addon and hardware blueprint for the LennyOS operating system.
+
+Learn-BennuGD
+
+📚️ A repository for showcasing my knowledge of the BennuGD programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_BennuGD
+
+⌨️ The BennuGD programming language IDE submodule for SNU Programming Tools (2D Mode)
+

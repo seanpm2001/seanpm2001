@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-Answers
+
+🚫️📃️🚫️ An article on the problems with the Google Answers, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Buzz
+
+🚫️📃️🚫️ An article on the problems with Google Buzz, and why it should have been avoided.
+
+AI2001_Category-Source_Code-SC-Slim
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Slim category for AI2001, containing Slim programming language datasets
+
+AI2001_Category-Source_Code-SC-TypeScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:TypeScript category for AI2001, containing TypeScript programming language datasets
+
+Learn-Cairo
+
+📚️ A repository for showcasing my knowledge of the Cairo programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Cairo
+
+⌨️ The Cairo programming language IDE submodule for SNU Programming Tools (2D Mode)
+

@@ -1,0 +1,9 @@
+
+AI2001_Category-Linguistics-SC-Maithili
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Maithili category for AI2001, containing Maithili language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Malayalam
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Malayalam category for AI2001, containing Malayalam language linguistic datasets
+

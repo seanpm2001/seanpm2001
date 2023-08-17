@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Coq
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Coq category for AI2001, containing Coq programming language datasets
+
+AI2001_Category-Source_Code-SC-Ceylon
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Ceylon category for AI2001, containing Ceylon programming language datasets
+
+Learn-Turing
+
+📚️ A repository for showcasing my knowledge of the Turing programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Turing
+
+⌨️ The Turing programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Techlaration_Docs
+
+📖️ The official documentation source repository for the Techlaration project.
+
+Talla_Browser_Docs
+
+📖️ The official documentation source repository for the Talla Browser project (now known as Bliss Browser)
+

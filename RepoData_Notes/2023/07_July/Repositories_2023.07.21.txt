@@ -1,0 +1,25 @@
+
+AI2001_Category-Linguistics-SC-Amharic
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Amharic category for AI2001, containing Amharic language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Burmese
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Burmese category for AI2001, containing Burmese language linguistic datasets
+
+LennyOS_Prescription
+
+📜️👓️💾️ Prescription glasses information and support for LennyOS.
+
+LennyOS_Colors
+
+🎨️👓️💾️ Color support for LennyOS.
+
+Why-you-should-stop-using-Google-Bard
+
+🚫️📃️🚫️ An article on the problems with Google Bard, and why you should stop using/avoid it.
+
+Why-you-should-stop-using-Google-Waymo
+
+🚫️📃️🚫️ An article on the problems with Google Waymo, and why you should stop using/avoid it.
+

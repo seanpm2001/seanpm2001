@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-ZIL
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ZIL category for AI2001, containing ZIL programming language datasets
+
+AI2001_Category-Source_Code-SC-Zeek
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Zeek category for AI2001, containing Zeek programming language datasets
+
+LennyOS_Safety
+
+🦺️👓️💾️ Safety procedures and components for the LennyOS operating system.
+
+LennyOS_Installer
+
+👓️🖲️💾️ The LennyOS operating system installation tool.
+
+MarkDownDownDown
+
+Ⓜ️🔻️🔻️🔻️💾️ MarkdownDownDown (_MD3 or _MARKDDD) is a support system for viewing Markdown documents on REALLY old computers and systems (1960-1995)
+
+MarkDownDownDown_Docs
+
+Ⓜ️🔻️🔻️🔻️📖️ The official documentation repository for MarkdDownDownDown.
+

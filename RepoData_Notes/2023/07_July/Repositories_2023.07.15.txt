@@ -1,0 +1,8 @@
+Learn-SmPL
+
+📚️ A repository for showcasing my knowledge of the SmPL programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_SmPL
+
+⌨️ The SmPL programming language IDE submodule for SNU Programming Tools (2D Mode)
+

@@ -1,0 +1,24 @@
+Learn-Triton_OpenAI
+
+📚️ A repository for showcasing my knowledge of the Triton (OpenAI) programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Triton_OpenAI
+
+⌨️ The Triton (OpenAI) programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+LennyOS_Core
+
+👓️💾️ The core software center for the LennyOS operating system.
+
+LennyOS_Hardware
+
+👓️🧰️ Information about hardware that runs LennyOS.
+
+Twit-Tac-Toe
+
+🐦️🅾️❎️💾️ Twit-Tac-Toe is a basic game of Tic-Tac-Toe styled around the recent Twitter name change. It is a test of my GUI program writing skills in Python and other languages.
+
+Twit-Tac-Toe_Docs
+
+🐦️🅾️❎️📖️ The official documentation source repository for Twit-Tac-Toe.
+

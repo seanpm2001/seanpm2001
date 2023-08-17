@@ -1,0 +1,37 @@
+
+AI2001_Category-Source_Code-SC-Creole
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Creole category for AI2001, containing Creole programming language datasets
+
+AI2001_Category-Source_Code-SC-CUDA
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:CUDA category for AI2001, containing CUDA programming language datasets
+
+Emoji-Day
+
+📅️😀️📆️ My input and documentating regarding Emoji Day (July 17th)
+
+BGemJam_Docs
+
+💎️💍️📖️ The official documentation source repository for the BGemJam Bejeweled-inspired matching game.
+
+Discussions
+
+↪️💬️ℹ️🗨️↩️ A redirect to seanpm2001:Discussion
+
+VSCode
+
+↪️🆚️ℹ️🆚️↩️ A redirect to seanpm2001:Seanpm2001-VSCode
+
+RENAME
+
+Emoji-Day (V2)
+
+📅️😀️📆️ My input and documentation regarding Emoji Day (July 17th)
+
+REMOVED
+
+WacOS_Docs
+
+🍏️🖥️📖️ The official documentation source repository for the WacOS operating system ecosystem.
+

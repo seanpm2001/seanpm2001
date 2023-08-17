@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-DM
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:DM category for AI2001, containing DM programming language datasets
+
+AI2001_Category-Source_Code-SC-DTrace
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:DTrace category for AI2001, containing DTrace programming language datasets
+
+Learn-WEB
+
+📚️ A repository for showcasing my knowledge of the WEB programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_WEB
+
+⌨️ The WEB programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+TouchPetsDogs2Rewritten_Docs
+
+📖️ The official documentation source repository for the Touch Pets Dogs 2 Rewritten game project, an open source recreation of Touch Pets Dogs 2.
+
+Snapshot-Version-Control-System_Docs
+
+📖️ The official documentation source repository for the Snapshot Version Control System (SVCS) by @seanpm2001
+

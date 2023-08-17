@@ -1,0 +1,17 @@
+
+AI2001_Category-Source_Code-SC-Ezhil
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Ezhil category for AI2001, containing Ezhil programming language datasets
+
+AI2001_Category-Source_Code-SC-EBNF
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:EBNF category for AI2001, containing EBNF programming language datasets
+
+LennyOS_TinyOS
+
+👓️🔵️🟦️ LennyOS support repository for the TinyOS kernel
+
+LennyOS_Linux
+
+👓️🔵️🐧️ LennyOS support repository for the Linux kernel
+
