@@ -1,0 +1,27 @@
+
+Android-x64_Android15.0_Heavy_Edition/
+Android-x64_Android15.0_Vanilla_Edition/
+Android-x64_Android15.0_DeGoogled_Edition/
+Android-x64_Android15.0_LiveCD_Edition/
+
+🤖️ Android x64: The Heavy build for Android 15.0, a powerful, but large Android 15.0 alternative installation
+🤖️ Android x64: The Vanilla build for Android 15.0, a basic, but useful Android 15.0 alternative installation
+🤖️ Android x64: The DeGoogled build for Android 15.0, a powerful, DeGoogled Android 15.0 alternative installation 
+🤖️ Android x64: The LiveCD build for Android 15.0, try out 4 different editions of Android-x64+15.0 before installing it
+
+Learn-ColdFusion
+
+📚️ A repository for showcasing my knowledge of the ColdFusion programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_ColdFusion
+
+⌨️ The ColdFusion Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+
+Learn-Oxygene
+
+📚️ A repository for showcasing my knowledge of the Oxygene programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_Oxygene
+
+⌨️ The Oxygene Programming language IDE submodule for SNU Programming Tools (2D Mode)
+

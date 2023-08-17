@@ -1,0 +1,37 @@
+
+Learn-MAXScript
+
+📚️ A repository for showcasing my knowledge of the MAXScript programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_MAXScript
+
+⌨️ The MAXScript Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Stan-Marsh
+
+🏞️🟦️ℹ️ A project written entirely in the Stan programming language. Named after Stan Marsh from the South Park media series.
+
+CamCamPlus_Docs
+
+📷️📸️➕️📖️  The main documentation repository for the CamCamPlus software project.
+
+Tetris128_Docs
+
+⬜️⬛️📖️ The main documentation repository for the Tetris128 game project.
+
+URLL_Docs
+
+🖇️🔗️📖️ The main documentation repository for the URLL language.
+
+Bliss_Browser_OSMode_Gentoo-Shell
+
+🌳️🌐️🐚️ The OS mode Gentoo shell for Bliss Browser lets Bliss run as an operating system environment on top of Gentoo Linux for as much time as you choose.
+
+Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell
+
+🌳️🌐️🐚️ The OS mode Raspberry Pi shell for Bliss Browser lets Bliss run as an operating system environment on top of Raspberry Pi OS (Linux) for as much time as you choose.
+
+RENAMES
+
+None
+

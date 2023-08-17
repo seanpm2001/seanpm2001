@@ -1,0 +1,15 @@
+
+Android-x32_Android4.2_Heavy_Edition/
+Android-x32_Android4.2_Vanilla_Edition/
+Android-x32_Android4.2_DeGoogled_Edition/
+Android-x32_Android4.2_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 4.2, a powerful, but large Android 4.2 (Jelly Bean) alternative installation
+🤖️ Android x32: The Vanilla build for Android 4.2, a basic, but useful Android 4.2 (Jelly Bean) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 4.2, a powerful, DeGoogled Android 4.2 (Jelly Bean) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 4.2, try out 4 different editions of Android-x32+4.2 (Jelly Bean) before installing it
+
+<|RENAME|>
+
+<none>
+

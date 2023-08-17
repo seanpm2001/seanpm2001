@@ -1,0 +1,27 @@
+
+Android-x32_Android1.6_Heavy_Edition/
+Android-x32_Android1.6_Vanilla_Edition/
+Android-x32_Android1.6_DeGoogled_Edition/
+Android-x32_Android1.6_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 1.6, a powerful, but large Android 1.6 (Donut) alternative installation
+🤖️ Android x32: The Vanilla build for Android 1.6, a basic, but useful Android 1.6 (Donut) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 1.6, a powerful, DeGoogled Android 1.6 (Donut) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 1.6, try out 4 different editions of Android-x32+1.6 (Donut) before installing it
+
+DMail_Migrator
+
+✉️🪶️📨️ The DMail implementation of an Email migrator service.
+
+DMail_SpamBox
+
+🥡️📧️📦️ The DMail implementation of an Email Spam box.
+
+Email_Migration_Component
+
+✉️🪶️📨️ An open source separate implementation of an email service provider migration service.
+
+<|RENAME|>
+
+<none>
+

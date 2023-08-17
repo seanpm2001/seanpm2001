@@ -1,0 +1,33 @@
+
+Seanpm2001-Health
+
+🏥️📃️🏣️ A health project portal for @seanpm2001
+
+SDE_Scarousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, written in Boo
+
+SDE_Merry
+
+🎠️🖥️🎠️ The software engine for carousel user interfaces for the S Desktop Environment.
+
+SDE_Karousel
+
+🎠️🖥️🎠️ A QT-based carousel user interface implementation for the S Desktop Environment, compatible with KDE.
+
+Seanpm2001-Linguistics
+
+📜️📔️🔡️ The linguistics portal page for @seanpm2001
+
+Post-Neo-Classical-English
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿️🔠️🔡️ The specification for the Post Neo-Classical English language (PNCE) and software tools for working with it.
+
+AI2001_Category-Images-SC-Graphic-Design-S-Icons
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🖌️ The images:graphic-design:icons subcategory for AI2001, containing icon (graphic design) datasets 
+
+AI2001_Category-Images-SC-Graphic-Design-S-Wallpapers
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🖌️ The images:graphic-design:wallpapers subcategory for AI2001, containing wallpaper (graphic design) datasets 
+

@@ -1,0 +1,17 @@
+
+whyWatchOS_Weather
+
+🍏️☁️⌚️ The whyWatchOS weather application. 
+
+WacOS_Kiri
+
+🍏️⛰️🖥️ The WacOS (modern) Kiri (voice assistant) launcher application.
+
+AI2001_Category-Linguistics-SC-Afrikaans
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Afrikaans category for AI2001, containing Afrikaans language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Hungarian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Hungarian category for AI2001, containing Hungarian language linguistic datasets 
+

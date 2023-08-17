@@ -1,0 +1,33 @@
+
+Bliss_Browser_File-Manager
+
+🌳️🌐️🗃️ The Bliss Browser file manager.
+
+Bliss_Browser_Pocket-Addon
+
+🌳️🌐️✉️ The Bliss Browser Pocket addon, allowing completely optional Mozilla Pocket integration.
+
+iWill_Docs
+
+🪦️📄️📃️ The documentation repository for the iWill project.
+
+Rick_Docs
+
+🥒️🪟️📃️ The documentation repository for the Rick (Gherkin framework) project
+
+RRRRRRRRRRRRRRRRRRRR
+
+🇷 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+VVVVVVVVVVVVVVVVVVVV
+
+🇻 VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+AI2001_Category-Linguistics-SC-Ukrainian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Ukrainian category for AI2001, containing Ukrainian language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Latin
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Latin category for AI2001, containing Latin language linguistic datasets 
+

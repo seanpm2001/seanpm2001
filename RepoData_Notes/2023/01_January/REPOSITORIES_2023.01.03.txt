@@ -1,0 +1,27 @@
+
+Android-x32_Android4.4_Heavy_Edition/
+Android-x32_Android4.4_Vanilla_Edition/
+Android-x32_Android4.4_DeGoogled_Edition/
+Android-x32_Android4.4_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 4.4, a powerful, but large Android 4.4 (KitKat) alternative installation
+🤖️ Android x32: The Vanilla build for Android 4.4, a basic, but useful Android 4.4 (KitKat)  alternative installation
+🤖️ Android x32: The DeGoogled build for Android 4.4, a powerful, DeGoogled Android 4.4 (KitKat)  alternative installation 
+🤖️ Android x32: The LiveCD build for Android 4.4, try out 4 different editions of Android-x64+4.4 (KitKat) before installing it
+
+DeGoogle Ranking Scale
+
+⚖️🚫️🔟️ The DeGoogle ranking scale is a scale used to measure the level of DeGoogling done by a user, article, or software piece.
+
+Bliss Browser
+
+🌳️🌐️💾️ The Bliss Browser is a powerful, hyper-customizable web browser that is designed for the Quantum Meadows operating system. It is also planned to work with other Linux distributions, and other operating systems.
+
+Bliss Browser Core
+
+🌳️🌐️💾️ The core repository for the Bliss Browser.
+
+<|RENAME|>
+
+<none>
+

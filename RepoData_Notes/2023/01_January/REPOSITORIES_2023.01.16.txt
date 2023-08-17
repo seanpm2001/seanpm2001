@@ -1,0 +1,26 @@
+
+Android-x32_Android1.5_Heavy_Edition/
+Android-x32_Android1.5_Vanilla_Edition/
+Android-x32_Android1.5_DeGoogled_Edition/
+Android-x32_Android1.5_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 1.5, a powerful, but large Android 1.5 (Cupcake) alternative installation
+🤖️ Android x32: The Vanilla build for Android 1.5, a basic, but useful Android 1.5 (Cupcake) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 1.5, a powerful, DeGoogled Android 1.5 (Cupcake) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 1.5, try out 4 different editions of Android-x32+1.5 (Cupcake) before installing it
+
+Bliss_Browser_OSMode_Fedora-Shell
+
+🌳️🌐️🐚️ The OS mode Fedora shell for Bliss Browser lets Bliss run as an operating system environment on top of Fedora Linux for as much time as you choose.
+
+Bliss_Browser_OSMode_RedHat-Shell
+
+🌳️🌐️🐚️ The OS mode RedHat shell for Bliss Browser lets Bliss run as an operating system environment on top of Red Hat Linux for as much time as you choose.
+
+DigitalSuite { Redirect to: DSuite }
+
+↪️♣️↩️ A redirect to the DSuite source repository.
+
+D-Suite { Redirect to: DSuite }
+
+↪️♣️↩️ A redirect to the DSuite source repository.

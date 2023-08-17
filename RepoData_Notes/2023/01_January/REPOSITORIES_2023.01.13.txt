@@ -1,0 +1,31 @@
+
+Android-x32_Android2.1_Heavy_Edition/
+Android-x32_Android2.1_Vanilla_Edition/
+Android-x32_Android2.1_DeGoogled_Edition/
+Android-x32_Android2.1_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 2.1, a powerful, but large Android 2.1 (Eclair) alternative installation
+🤖️ Android x32: The Vanilla build for Android 2.1, a basic, but useful Android 2.1 (Eclair) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 2.1, a powerful, DeGoogled Android 2.1 (Eclair) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 2.1, try out 4 different editions of Android-x32+2.1 (Eclair) before installing it
+
+URL-Specification
+
+↪️🗓️↩️ A redirect to the URLL Specification repository.
+
+URLL-Spec
+
+↪️🔗️↩️ A redirect to the URLL Specification repository.
+
+URL-Spec
+
+↪️🔗️↩️ A redirect to the URLL Specification repository.
+
+DMail_Tacklebox
+
+🧰️✉️🪱️ The DMail tacklebox is a separate email folder that holds phishing attempts (known as lures) it is separate from the spam folder, the inbox, and other folders.
+
+<|RENAME|>
+
+↪️🔗️↩️ A redirect to the URLL Specification repository.
+

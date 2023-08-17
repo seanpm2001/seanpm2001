@@ -1,0 +1,33 @@
+
+SDE
+
+🖥️💻️💾️ SDE (S Desktop Enviroment, also known as skeuowie or skeuwie) is a cross-platform desktop environment with a heavy focus on skeuomorphism.
+
+SDE_Darousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, written in D
+
+Learn-Processing
+
+📚️ A repository for showcasing my knowledge of the Processing programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Processing
+
+⌨️ The Processing Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Bliss_Browser_OpenGL
+
+🌳️🌐️🎞️ The Bliss Browser OpenGL support module
+
+Bliss_Browser_Acid1
+
+🌳️🌐️🚧️ The Bliss Browser Acid1 test module
+
+AI2001_Category-Images-SC-Heraldry
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️⚜️ The images:heraldry subcategory for AI2001, containing heraldry image datasets 
+
+AI2001_Category-Videos
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📽️ The video category for AI2001, containing video datasets 
+

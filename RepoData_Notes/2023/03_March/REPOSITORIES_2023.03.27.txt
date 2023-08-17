@@ -1,0 +1,33 @@
+
+Bliss_Browser_MobiMode
+
+🌳️🌐️🐳️ The Bliss Browser Mobi reader mode, allowing the viewing of .mobi files.
+
+Bliss_Browser_Game-Tools
+
+🌳️🌐️🕹️ The Bliss Browser Game Tools module, containing a set of tools for video game interaction and integration within the browser.
+
+Outside_Achievements
+
+🌍️🌎️🌏️🌟️ A list of achievements for the game/simulation of life.
+
+Outside_Missions
+
+🌍️🌎️🌏️💼️ A list of missions for the game/simulation of life
+
+Outside_Profile
+
+🌍️🌎️🌏️👤️ Your profile for the game/simulation of life.
+
+Outside_Community
+
+🌍️🌎️🌏️👥️ The community for the game/simulation of life.
+
+AI2001_Category-Linguistics-SC-Thai
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Thai category for AI2001, containing Thai language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Telugu
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Telugu category for AI2001, containing Telugu language linguistic datasets 
+

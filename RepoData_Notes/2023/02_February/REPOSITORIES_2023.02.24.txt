@@ -1,0 +1,33 @@
+
+Bliss_Browser_Clojure
+
+🌳️🌐️#️⃣️ The Bliss Browser Clojure language support module, allowing Clojure programs to be written in and ran within the browser.
+
+Bliss_Browser_HCL
+
+🌳️🌐️#️⃣️ The Bliss Browser HCL language support module, allowing HCL programs to be written in and ran within the browser.
+
+Bliss_Browser_Hy
+
+🌳️🌐️#️⃣️ The Bliss Browser Hy language support module, allowing Hy programs to be written in and ran within the browser.
+
+Bliss_Browser_HyPhy
+
+🌳️🌐️#️⃣️ The Bliss Browser HyPhy language support module, allowing HyPhy documents to be written in and ran within the browser.
+
+Anime_Studio_Hentai
+
+👁️🔞️🎴️ The Anime Studio hentai viewer and editor. Part of the Anime Studio software project.
+
+Anime_Studio_AvatarStudio
+
+👁️‍🗨️️🎴️🎎️ The Anime Studio avatar studio, for creating and managing Anime and Manga character avatars. Part of the Anime Studio software project.
+
+AI2001_Category-Documents-SC-Wikis-S-Wikipedia
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📜️ The document:wikis subcategory for AI2001, containing Wikipedia datasets 
+
+AI2001_Category-Documents-SC-Wikis-S-Wiktionary
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📜️ The document:wikis subcategory for AI2001, containing Wiktionary datasets 
+

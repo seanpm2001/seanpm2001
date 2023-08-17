@@ -1,0 +1,34 @@
+
+
+Android-x32_LiveCD_4.4C/
+Android-x32_LiveCD_4.3C/
+Android-x32_LiveCD_4.2C/
+Android-x32_LiveCD_0.9B/
+
+🤖️ Special Android x32 LiveCD for all versions of Android x64 from 0.9 to 4.4
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 4.3
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 4.2
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 0.9
+
+Google-and-diversity
+
+👥️📑️ℹ️ An article about the good and the bad of Google diversity practices.
+
+Google-and-society
+
+🌍️📑️ℹ️ An article about the positive and negative impact from Google on human society
+
+Computing-Longevity
+
+🖥️🕰️🏠️ The homepage for the computing longevity standards and promotion project.
+
+SeansLifeArchive_Images_FirefoxAddon_Redirector
+
+🖼️🗄️🦊️💾️↪️ The module for my life archive project that contains my images of the Redirector Firefox addon.
+
+===-RENAME-===
+
+Android-x32_LiveCD_4.4C
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 4.4
+

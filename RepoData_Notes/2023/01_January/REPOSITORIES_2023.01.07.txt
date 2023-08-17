@@ -1,0 +1,23 @@
+
+Android-x32_Android4.0_Heavy_Edition/
+Android-x32_Android4.0_Vanilla_Edition/
+Android-x32_Android4.0_DeGoogled_Edition/
+Android-x32_Android4.0_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 4.0, a powerful, but large Android 4.0 (Ice Cream Sandwich) alternative installation
+🤖️ Android x32: The Vanilla build for Android 4.0, a basic, but useful Android 4.0 (Ice Cream Sandwich) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 4.0, a powerful, DeGoogled Android 4.0 (Ice Cream Sandwich) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 4.0, try out 4 different editions of Android-x32+4.0 (Ice Cream Sandwich) before installing it
+
+Bliss_Browser_OSMode
+
+🌳️🌐️💻️ The OS mode for Bliss Browser lets you turn your computer into a netbook for as much time as you choose. A privacy-focused alternative to ChromeOS/ChromiumOS
+
+Bliss_Browser_OSMode_Ubuntu-Shell
+
+🌳️🌐️🐚️ The OS mode Ubuntu shell for Bliss Browser lets Bliss run as an operating system environment on top of Ubuntu Linux for as much time as you choose.
+
+<|RENAME|>
+
+<none>
+

@@ -1,0 +1,26 @@
+
+Android-x32_Android2.2_Heavy_Edition/
+Android-x32_Android2.2_Vanilla_Edition/
+Android-x32_Android2.2_DeGoogled_Edition/
+Android-x32_Android2.2_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 2.2, a powerful, but large Android 2.2 (Froyo) alternative installation
+🤖️ Android x32: The Vanilla build for Android 2.2, a basic, but useful Android 2.2 (Froyo) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 2.2, a powerful, DeGoogled Android 2.2 (Froyo) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 2.2, try out 4 different editions of Android-x32+2.2 (Froyo) before installing it
+
+SeansAudioDB_Images_Y2023
+
+🖼️🎼️🗓️ Images from audio conversion on my Audio database from the year 2023 CE.
+
+My-web-development-story
+
+🌐️📖️👨‍💻️ A repository housing an article about what got me into web development, and my web development story.
+
+Citation
+
+↪️🗓️↩️ A redirect to the Seanpm2001-Citation repository.
+
+<|RENAME|>
+
+<None>

@@ -1,0 +1,31 @@
+
+Android-x32_LiveCD_1.0C/
+Android-x32_LiveCD_0.9C/
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 1.0
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 0.9
+
+LibreFlock_Space
+
+🕹️🪶️🪐️ LibreFlock Space is the outer space mode of the LibreFlock game. It is based on Angry Birds Space.
+
+LibreFlock_Brazil
+
+🕹️🪶️🇧🇷️ LibreFlock Brazil is a special Brazilian mode of the LibreFlock game. It is based on Angry Birds Rio.
+
+LibreFlock_Seasonal
+
+🕹️🪶️🍂️ LibreFlock Seasonal is a holiday/seasonal mode of the LibreFlock game. It is based on Angry Birds Seasons.
+
+Software-Diversity
+
+💾️👥️ℹ️ Information on the concept of software diversity.
+
+Learn-While
+
+📚️ A repository for showcasing my knowledge of the While programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_While
+
+⌨️ The While Programming language IDE submodule for SNU Programming Tools (2D Mode)
+

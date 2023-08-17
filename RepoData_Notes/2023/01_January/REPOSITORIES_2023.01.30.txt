@@ -1,0 +1,33 @@
+
+Learn-Little
+
+📚️ A repository for showcasing my knowledge of the Little programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Little
+
+⌨️ The Little Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-Antlers
+
+📚️ A repository for showcasing my knowledge of the Antlers programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Antlers
+
+⌨️ The Antlers Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-mIRC-Script
+
+📚️ A repository for showcasing my knowledge of the mIRC Script programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_mIRC-Script
+
+⌨️ The mIRC Script Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-Slash
+
+📚️ A repository for showcasing my knowledge of the Slash programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Slash
+
+⌨️ The Slash Programming language IDE submodule for SNU Programming Tools (2D Mode)
+

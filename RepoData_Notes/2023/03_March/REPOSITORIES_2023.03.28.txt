@@ -1,0 +1,39 @@
+
+Bliss_Browser_Performance-Monitor
+
+🌳️🌐️📊️ The Bliss Browser Performance Monitor.
+
+Bliss_Browser_Task-Manager
+
+🌳️🌐️📋️ The Bliss Browser Task Manager.
+
+Outside_Wiki
+
+🌍️🌎️🌏️📰️ The Wiki for the game/simulation of life
+
+Outside_Game
+
+↪️🌍️🌎️↩️ A redirect to the /outside/ repositorh.
+
+BlockQL
+
+🟥️🟩️🟦️ BlockQL is a block-based programming language designed for querying.
+
+BlockQL_Docs
+
+🟥️🟩️🟦️📃️ The official documentation repository for BlockQL.
+
+AI2001_Category-Linguistics-SC-Sindhi
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Sindhi category for AI2001, containing Sindhi language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Berber
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Berber category for AI2001, containing Berber language linguistic datasets 
+
+|RENAME|
+
+Outside_Game
+
+↪️🌍️🌎️↩️ A redirect to the /outside/ repository.
+

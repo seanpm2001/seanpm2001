@@ -1,0 +1,26 @@
+
+Android-x32_Android1.0_Heavy_Edition/
+Android-x32_Android1.0_Vanilla_Edition/
+Android-x32_Android1.0_DeGoogled_Edition/
+Android-x32_Android1.0_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 1.0, a powerful, but large Android 1.0 alternative installation
+🤖️ Android x32: The Vanilla build for Android 1.0, a basic, but useful Android 1.0 alternative installation
+🤖️ Android x32: The DeGoogled build for Android 1.0, a powerful, DeGoogled Android 1.0 alternative installation 
+🤖️ Android x32: The LiveCD build for Android 1.0, try out 4 different editions of Android-x32+1.0 before installing it
+
+Learn-Gleam
+
+📚️ A repository for showcasing my knowledge of the Gleam programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_Gleam
+
+⌨️ The Gleam Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+
+Learn-YASnippet
+
+📚️ A repository for showcasing my knowledge of the YASnippet programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_YASnippet
+
+⌨️ The YASnippet Programming language IDE submodule for SNU Programming Tools (2D Mode) 

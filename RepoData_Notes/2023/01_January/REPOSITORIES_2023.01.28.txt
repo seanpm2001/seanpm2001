@@ -1,0 +1,38 @@
+
+Learn-Lobster
+
+📚️ A repository for showcasing my knowledge of the Lobster programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Lobster
+
+⌨️ The Lobster Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+DOM
+
+📃️ℹ️💠️ The Document Object Model (DOM) of @seanpm2001
+
+Team8Collection_Docs
+
+🎱️📖️🖥️ The main documentation repository for the Team8Collection video game project.
+
+Linux-Defender_Docs
+
+🐧️🛡️📖️ The main documentation repository for the Linux Defender anti-malware and security project.
+
+BluPhone_Docs
+
+🎧️🟦️📖️ The main documentation repository for the BluPhone headphones project.
+
+WacOS_Docs
+
+🍏️🖥️📖️ The main documentation repository for the WacOS operating system project.
+
+SVG-Video_Docs
+
+📽️✒️📖️ The main documentation repository for the SVG Video project.
+
+RENAMES
+
+WacOS
+
+🍏️🐧️🍎️ A Linux distribution that mimics MacOS (modern and classic) iOS, and other Apple operating systems, but is open, customizable, and free to use on non-apple hardware.

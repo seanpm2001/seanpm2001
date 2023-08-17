@@ -1,0 +1,21 @@
+
+Android-x32_Android2.3_Heavy_Edition/
+Android-x32_Android2.3_Vanilla_Edition/
+Android-x32_Android2.3_DeGoogled_Edition/
+Android-x32_Android2.3_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 2.3, a powerful, but large Android 2.3 (Gingerbread) alternative installation
+🤖️ Android x32: The Vanilla build for Android 2.3, a basic, but useful Android 2.3 (Gingerbread) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 2.3, a powerful, DeGoogled Android 2.3 (Gingerbread) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 2.3, try out 4 different editions of Android-x32+2.3 (Gingerbread) before installing it
+
+🖼️🗄️🔒️💾️⚛️ The module for my life archive project that contains my images of the ProtonVPN service.
+
+🖼️🗄️🔒️💾️⚛️ The module for my life archive project that contains my images of the services by Proton.me (ProtonMail, ProtonDrive, ProtonCalendar, ProtonVPN)
+
+🖇️🧲️⛓️🔗️💾️ The official URLL (URL List) software implemenation. See also: :octocat: https://github.com/seanpm2001/URLL-Specification/
+
+<|RENAME|>
+
+🖇️🧲️⛓️🔗️💾️ The official URLL (URL List) software implementation. See also: :octocat: https://github.com/seanpm2001/URLL-Specification/
+

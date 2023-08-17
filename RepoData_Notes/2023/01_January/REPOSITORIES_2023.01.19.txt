@@ -1,0 +1,26 @@
+
+Android-x32_Android0.9_Heavy_Edition/
+Android-x32_Android0.9_Vanilla_Edition/
+Android-x32_Android0.9_DeGoogled_Edition/
+Android-x32_Android0.9_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 0.9, a powerful, but large Android 0.9 alternative installation
+🤖️ Android x32: The Vanilla build for Android 0.9, a basic, but useful Android 0.9 alternative installation
+🤖️ Android x32: The DeGoogled build for Android 0.9, a powerful, DeGoogled Android 0.9 alternative installation 
+🤖️ Android x32: The LiveCD build for Android 0.9, try out 4 different editions of Android-x32+0.9 before installing it
+
+Learn-Wren
+
+📚️ A repository for showcasing my knowledge of the Wren programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_Wren
+
+⌨️ The Wren Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+
+Learn-Component-Pascal
+
+📚️ A repository for showcasing my knowledge of the Component Pascal programming language, and continuing to learn the language. 
+
+SNU_2D_ProgrammingTools_IDE_Component-Pascal
+
+⌨️ The Component Pascal Programming language IDE submodule for SNU Programming Tools (2D Mode) 

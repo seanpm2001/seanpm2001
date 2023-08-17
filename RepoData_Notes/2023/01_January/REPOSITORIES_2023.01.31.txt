@@ -1,0 +1,31 @@
+Commenter-language
+
+#️⃣️ No programming, just comments. A source code comment implementation language.
+
+Learn-Bro
+
+📚️ A repository for showcasing my knowledge of the Bro programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Bro
+
+⌨️ The Bro Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-jq
+
+📚️ A repository for showcasing my knowledge of the jq programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_jq
+
+⌨️ The jq Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+AUTOMATE2001_Docs
+
+🤖️2️⃣️0️⃣️0️⃣️1️⃣️📖️ The main documentation repository for the AUTOMATE1001 automation tool
+
+WYII_Docs
+
+🕰️❓️📖️ The main documentation repository for the WYII (What Year Is It) time travel video game and reference.
+
+Carbon-Negative
+
+🌱️ How my operations are carbon-negative

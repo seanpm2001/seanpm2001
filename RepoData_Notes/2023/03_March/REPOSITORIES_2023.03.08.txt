@@ -1,0 +1,33 @@
+
+Bliss_Browser_Acid2
+
+ 🌳️🌐️🚧️ The Bliss Browser Acid2 test module
+
+Bliss_Browser_Acid3
+
+🌳️🌐️🚧️ The Bliss Browser Acid3 test module
+
+Learn-MGears
+
+📚️ A repository for showcasing my knowledge of the MGears programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_MGears
+
+⌨️ The MGears Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-Google-Apps-Script
+
+📚️ A repository for showcasing my knowledge of the Google Apps Script programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Google-Apps-Script
+
+⌨️ The Google Apps Script Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+AI2001_Category-Videos-SC-Photography
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📽️📸️ The video:photography category for AI2001, containing photography video datasets 
+
+AI2001_Category-Videos-SC-Gameplay
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📽️🕹️ The video:gameplay category for AI2001, containing gameplay video datasets 
+

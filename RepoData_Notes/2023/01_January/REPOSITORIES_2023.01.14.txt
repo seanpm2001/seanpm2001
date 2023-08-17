@@ -1,0 +1,23 @@
+
+Android-x32_Android2.0_Heavy_Edition/
+Android-x32_Android2.0_Vanilla_Edition/
+Android-x32_Android2.0_DeGoogled_Edition/
+Android-x32_Android2.0_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 2.0, a powerful, but large Android 2.0 (Eclair) alternative installation
+🤖️ Android x32: The Vanilla build for Android 2.0, a basic, but useful Android 2.0 (Eclair) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 2.0, a powerful, DeGoogled Android 2.0 (Eclair) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 2.0, try out 4 different editions of Android-x32+2.0 (Eclair) before installing it
+
+🧰️✉️🪱️ The tacklebox is a separate email folder that holds phishing attempts (known as lures) it is separate from the spam folder, the inbox, and other folders.
+
+🥡️✉️📦️ The SpamBox is an open source separate implementation of the typical email spam folder.
+
+🌳️🌐️🐚️ The OS mode Debian shell for Bliss Browser lets Bliss run as an operating system environment on top of Debian Linux for as much time as you choose.
+
+🌳️🌐️🐚️ The OS mode POSIX shell for Bliss Browser lets Bliss run as an operating system environment on top of any POSIX compliant for as much time as you choose.
+
+<|RENAME|>
+
+<none>
+

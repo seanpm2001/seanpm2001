@@ -1,0 +1,33 @@
+
+Learn-Zeek
+
+📚️ A repository for showcasing my knowledge of the Zeek programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Zeek
+
+⌨️ The Zeek Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Registry
+
+🗃️ The main Registry of @seanpm2001
+
+Seanpm2001-Registry
+
+🗃️ The registry of @seanpm2001 containing only registries of seanpm2001 specific content.
+
+Meadows_Docs
+
+🌳️📖️🖥️ The main documentation repository for the Meadows Operating System project.
+
+Ukraine-History-Simulator_Docs
+
+🇺🇦️⏳️📖️ The main documentation repository for the Ukraine History Simulator historical video game project.
+
+MCPYE_Docs
+
+🟩️🕹️📖️ The main documentation repository for the MCPYE (MineCraft PYthon Edition) video game project.
+
+BlazeOS_Docs
+
+🔥️🖥️📖️ The main documentation repository for the BlazeOS operating system project.
+

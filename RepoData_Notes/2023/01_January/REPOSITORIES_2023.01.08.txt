@@ -1,0 +1,35 @@
+
+Android-x32_Android3.2_Heavy_Edition/
+Android-x32_Android3.2_Vanilla_Edition/
+Android-x32_Android3.2_DeGoogled_Edition/
+Android-x32_Android3.2_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 3.2, a powerful, but large Android 3.2 (Honeycomb) alternative installation
+🤖️ Android x32: The Vanilla build for Android 3.2, a basic, but useful Android 3.2 (Honeycomb) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 3.2, a powerful, DeGoogled Android 3.2 (Honeycomb) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 3.2, try out 4 different editions of Android-x32+3.2 (Honeycomb) before installing it
+
+SNU_2D_ProgrammingTools_IDE_YAML (Redirect repository)
+
+↪️🌐️↩️ A redirect to the original SNU 2D Programming Tools YAML repository
+
+DCal-Spec
+
+↪️🗓️↩️ A redirect to the DCal specification repository.
+
+DCal-Specification
+
+↪️🗓️↩️ A redirect to the DCal specification repository.
+
+DCal-Implementation
+
+↪️🗓️↩️ A redirect to the DCal main implementation repository.
+
+DSuite
+
+✉️🗓️♣️ DSuite is a online/offline software suite of productivity software for email and calendars. It is the parent of DCal/DCalendar and DMAIL
+
+<|RENAME|>
+
+<none>
+

@@ -1,0 +1,33 @@
+
+Bliss_Browser_Data-Manager
+
+🌳️🌐️💼️ The Bliss Browser data management module.
+
+Bliss_Browser_Cookie-Jar
+
+🌳️🌐️🍪️ The Bliss Browser cookie jar module, a cookie management and support module.
+
+LANChair_LANMan
+
+🏡️🪑️👴️ The LANMan (or Old Man) is a component of the LANChair software that allows you to kick people off your LAN, or let them use it. It is written in D. Now git off my LAN!
+
+LANChair_Messenger
+
+🏡️🪑️💬️ The LANChair messenger is a very basic messaging tool, in between Wi-Fi/Cellular and VoIP, it is on its own distinct network, and allows communication through people only on the same LAN as you. It is written in D.
+
+EEEEEEEEEEEEEEEEEEEE
+
+🇪 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+
+JJJJJJJJJJJJJJJJJJJJ
+
+🇯 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+
+AI2001_Category-Linguistics-SC-Spanish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Spanish category for AI2001, containing Spanish language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-French
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:French category for AI2001, containing French language linguistic datasets 
+

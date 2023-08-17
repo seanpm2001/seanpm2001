@@ -1,0 +1,37 @@
+
+Bliss_Browser_Notification-Manager
+
+🌳️🌐️🛎️ The Bliss Browser notification manager module.
+
+Bliss_Browser_Theme-Maker
+
+🌳️🌐️🎨️ The Bliss Browser theme maker module
+
+SDE_WebCarousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, designed for websites and web applications.
+
+SDE_iCarousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, written in Swift, and Objective-C
+
+Learn-Mojom
+
+📚️ A repository for showcasing my knowledge of the Mojom programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Mojom
+
+⌨️ The Mojom Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+AI2001_Category-Videos-SC-Nature
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📽️🌳️ The video:nature category for AI2001, containing photography video datasets 
+
+AI2001_Category-Videos-SC-Animation
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📽️▶️ The video:animation category for AI2001, containing animation video datasets 
+
+RENAME
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📽️🌳️ The video:nature category for AI2001, containing nature video datasets 
+

@@ -1,0 +1,43 @@
+
+Bliss_Browser_AJAX
+
+🌳️🌐️〽️ The Bliss Browser XML AJAX support module.
+
+Bliss_Browser_Widgets
+
+🌳️🌐️⚙️ The Bliss Browser widget manager.
+
+SeansLifeArchive_Images_Daily-Desktop-Screenshots_Dump-Unprocessed
+
+🖼️🖥️📸️ An unprocessed dump of my Daily Desktop screenshot images.
+
+SeansLifeArchive_Images_GitHub_Y2024
+
+🖼️🟦️2️⃣️0️⃣️2️⃣️4️⃣️:octocat: The module for my life story project that contains my GitHub images from the year 2024 AD.
+
+SeansLifeArchive_Images_GNOME_System_Monitor_Y2023
+
+🖼️2️⃣️0️⃣️2️⃣️3️⃣️〰️ An unprocessed dump of my GitHub images from the year 2024.
+
+SeansLifeArchive_Images_GNOME_System_Monitor_Y2024
+
+🖼️2️⃣️0️⃣️2️⃣️4️⃣️〰️ An unprocessed dump of my GNOME System Monitor images.
+
+AI2001_Category-Linguistics-SC-Urdu
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Urdu category for AI2001, containing Urdu language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Hindi
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Hindi category for AI2001, containing Hindi language linguistic datasets 
+
+|RENAME|
+
+SeansLifeArchive_Images_GNOME_System_Monitor_Y2024
+
+🖼️2️⃣️0️⃣️2️⃣️4️⃣️〰️ An unprocessed dump of my GNOME System Monitor images from the year 2024.
+
+SeansLifeArchive_Images_GNOME_System_Monitor_Y2023
+
+🖼️2️⃣️0️⃣️2️⃣️3️⃣️〰️ An unprocessed dump of my GitHub images from the year 2023.
+

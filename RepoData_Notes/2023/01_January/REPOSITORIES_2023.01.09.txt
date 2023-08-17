@@ -1,0 +1,23 @@
+
+Android-x32_Android3.1_Heavy_Edition/
+Android-x32_Android3.1_Vanilla_Edition/
+Android-x32_Android3.1_DeGoogled_Edition/
+Android-x32_Android3.1_LiveCD_Edition/
+
+🤖️ Android x32: The Heavy build for Android 3.1, a powerful, but large Android 3.1 (Honeycomb) alternative installation
+🤖️ Android x32: The Vanilla build for Android 3.1, a basic, but useful Android 3.1 (Honeycomb) alternative installation
+🤖️ Android x32: The DeGoogled build for Android 3.1, a powerful, DeGoogled Android 3.1 (Honeycomb) alternative installation 
+🤖️ Android x32: The LiveCD build for Android 3.1, try out 4 different editions of Android-x32+3.1 (Honeycomb) before installing it
+
+Why-you-should-stop-using-Google-Looker
+
+🚫️📄️🚫️ An article on the problems with Google-owned Looker (including LookML) and why you should avoid it.
+
+Why-you-should-stop-using-Google-Safe-Browsing
+
+🚫️📄️🚫️ An article on the problems with Google "Safe" Browsing and why you should avoid it.
+
+<|RENAME|>
+
+<none>
+

@@ -1,0 +1,33 @@
+
+Bliss_Browser_HTTP
+
+🌳️🌐️🇭 The Bliss Browser HTTP support module.
+
+Bliss_Browser_Torrent
+
+🌳️🌐️🌱️🧅️ The Bliss Browser torrent support module.
+
+L20
+
+🇱2️⃣️0️⃣️ The L20 home repository.
+
+L20_Docs
+
+🇱2️⃣️0️⃣️📃️ The L20 documentation repository.
+
+Outside
+
+🌍️🌎️🌏️ Life as a video game/simulation
+
+Outside_Docs
+
+🌍️🌎️🌏️📃️ The documentation repository for Outside.
+
+AI2001_Category-Linguistics-SC-Chinese-Simplified
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Chinese-Simplified category for AI2001, containing Chinese (Simplified) language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Korean-South
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Korean-South category for AI2001, containing Korean (South Korea) language linguistic datasets 
+

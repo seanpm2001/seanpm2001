@@ -1,0 +1,33 @@
+
+Bliss_Browser_Addon-Studio
+
+🌳️🌐️🧩️ The Bliss Browser addon studio.
+
+Bliss_Browser_XUL_Support
+
+🌳️🌐️✖️ The Bliss Browser XUL support module
+
+BerryBoot
+
+🫐️🍓️🥾️ BerryBoot is a 3D, mass partition bootloader for the Raspberry Pi.
+
+Rick
+
+🥒️ Rick is a Gherkin framework.
+
+iWill
+
+🪦️ iWill is a will writing and management software
+
+OpenPassport
+
+📔️ OpenPassport is an open digital passport standard for universal travel.
+
+AI2001_Category-Videos-SC-Animation-S-Anime
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📽️👁️ The video:animation:anime category for AI2001, containing Aime video datasets 
+
+AI2001_Category-META_SC-MT-Time_Lapse
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️Ⓜ️ Meta module for AI2001 to apply time lapse to datasets.
+

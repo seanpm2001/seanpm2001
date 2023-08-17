@@ -1,0 +1,33 @@
+
+Bliss_Browser_Popup-Manager
+
+🌳️🌐️🗨️ The Bliss Browser popup manager.
+
+Bliss_Browser_WebGL
+
+🌳️🌐️🏞️ The Bliss Browser WebGL support module
+
+SDE_ADroidCarousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, designed for Android, and written in Java and Kotlin
+
+SDE_Parousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, with a French theme, and written in Eiffel
+
+Anime_Studio_Manga-File-Format
+
+👁️‍🗨️️🖼️📖️ The Anime Studio *.manga file format specification. Part of the Anime Studio software project.
+
+Anime_Studio_Woodblock_Printer
+
+👁️‍🗨️️🖼️🪵️ The Anime Studio woodblock art printer studio. Part of the Anime Studio software project.
+
+AI2001_Category-META_SC-Tags-NSFW
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️Ⓜ️🔞️ Meta module for AI2001 to apply NSFW filters to datasets.
+
+AI2001_Category-META_SC-Tags-SFW
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️Ⓜ️⭕️ Meta module for AI2001 to apply SFW filters to datasets.
+

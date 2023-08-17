@@ -1,0 +1,23 @@
+
+Android-x32_LiveCD_1.6A -- All versions of Android x32 from 0.9 to 1.6
+Android-x32_LiveCD_1.6B -- All versions of Android x32 from 1.6 to 1.6
+Android-x32_LiveCD_1.5A -- All versions of Android x32 from 0.9 to 1.5
+Android-x32_LiveCD_1.5B -- All versions of Android x32 from 1.5 to 1.5
+
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 1.6
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 1.6 to 1.6
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 0.9 to 1.5
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 1.5 to 1.5
+
+DCal
+
+🗓️📅️📆️ DCal is an advanced calendar format that adds significant amounts of customization and control to digital calendars. Inspired by the ICS format, and ProtonCalendar, along with real life calendars.
+
+DCalendar
+
+🗓️📅️📆️ DCalendar (Digital Calendar) is a web calendar that uses an implementation of the DCAL format (but supports other calendar formats as well) it is written in D, and part of the DMail family of web productivity software.
+
+<|RENAME|>
+
+<none>
+

@@ -1,0 +1,33 @@
+
+Seanpm2001-Math
+
+↪️📟️↩️ A redirect to Seanpm2001-Mathematics
+
+Seanpm2001-Mathematics
+
+🧮️📟️🔢️ My mathematical project homepage.
+
+Seanp2001-Learn
+
+↪️🎓️↩️ A redirect to :octocat:@seanpm2001/Learn/
+
+Project_Language_File_Navigator
+
+🧭️💾️↔️ PLFN is a specialized tool for browsing, viewing, and navigating project language files.
+
+Learn-Ermine
+
+📚️ A repository for showcasing my knowledge of the Ermine programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Ermine
+
+⌨️ The Ermine Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+AI2001_Category-Images-SC-Screenshots
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️📸️ The images:screenshots subcategory for AI2001, containing screenshot datasets 
+
+AI2001_Category-Images-SC-Graphic-Design
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🖌️ The images:graphic design subcategory for AI2001, containing graphic design datasets 
+

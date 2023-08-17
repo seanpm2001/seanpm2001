@@ -1,0 +1,27 @@
+
+Android-x64_Android14.0_Heavy_Edition/
+Android-x64_Android14.0_Vanilla_Edition/
+Android-x64_Android14.0_DeGoogled_Edition/
+Android-x64_Android14.0_LiveCD_Edition/
+
+🤖️ Android x64: The Heavy build for Android 14.0, a powerful, but large Android 14.0 alternative installation
+🤖️ Android x64: The Vanilla build for Android 14.0, a basic, but useful Android 14.0 alternative installation
+🤖️ Android x64: The DeGoogled build for Android 14.0, a powerful, DeGoogled Android 14.0 alternative installation 
+🤖️ Android x64: The LiveCD build for Android 14.0, try out 4 different editions of Android-x64+14.0 before installing it
+
+Rust-Belt
+
+🛢️💾️🛤️ The Rust Belt is a grouping of projects written in the Rust programming language. Not to be confused with the industrial decline in the United States in the 1950s also known as the rust belt.
+
+Climate-Activism
+
+🌍️🌳️🌱️ Documentation regarding my efforts in climate activism
+
+Candroid-Flashlight
+
+🤖️🔦️💾️ Candroid Flashlight is the default flashlight implementation in the Candroid framework.
+
+Candroid-Rotate
+
+🤖️📳️📴️ Candroid Rotate is the device rotation system in the Candroid framework
+

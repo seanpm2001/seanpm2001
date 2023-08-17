@@ -1,0 +1,35 @@
+
+Medical-ethics
+
+↪️🏥️↩️ A redirect to Medicinal ethics
+
+SDE_CCarousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, written in C
+
+SDE_PyCarousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, written in Python
+
+SDE_DNetCarousel
+
+🎠️🖥️🎠️ A carousel user interface implementation for the S Desktop Environment, designed for the .NET framework, and written in C# and F#
+
+Bliss_Browser_RSS
+
+⚛️🌳️🌐️ The Bliss Browser RSS support module
+
+Bliss_Browser_AtomFeed
+
+⚛️🌳️🌐️ The Bliss Browser Atom feed support module
+
+AI2001_Category-Images-SC-Graphic-Design-S-Logos
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🖌️ The images:graphic-design:logos subcategory for AI2001, containing logos (graphic design) datasets 
+
+AI2001_Category-Images-SC-Vexillology
+
+Rename: AI2001_Category-Images-SC-Graphic-Design-S-Vexillology
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🖌️ The images:graphic-design:vexillology subcategory for AI2001, containing Vexillology (graphic design) datasets 
+

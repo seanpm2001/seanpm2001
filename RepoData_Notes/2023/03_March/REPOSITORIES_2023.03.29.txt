@@ -1,0 +1,25 @@
+
+Learn-BlockQL
+
+📚️ A repository for showcasing my knowledge of the BlockQL programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_BlockQL
+
+⌨️ The BlockQL Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+WacOS_Weather
+
+🍏️☁️🖥️ The WacOS weather application. 
+
+wOS_Weather
+
+🍏️☁️📱️ The wOS weather application. 
+
+AI2001_Category-Linguistics-SC-Sanskrit
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Sanskrit category for AI2001, containing Sanskrit language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Cuneiform
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Cuneiform category for AI2001, containing Cuneiform language linguistic datasets 
+

@@ -1,0 +1,17 @@
+
+whyPhoneOS_Weather
+
+🍏️☁️📱️ The whyPhoneOS weather application. 
+
+whyPadOS_Weather
+
+🍏️☁️📲️ The whyPadOS weather application. 
+
+AI2001_Category-Linguistics-SC-Ruthenian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Ruthenian category for AI2001, containing Ruthenian language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Zulu
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Zulu category for AI2001, containing Zulu language linguistic datasets 
+

@@ -1,0 +1,19 @@
+
+Android-x32_Android4.3_DeGoogled_Edition/
+Android-x32_Android4.3_LiveCD_Edition/
+Android-x32_Android4.3_Heavy_Edition/
+Android-x32_Android4.3_Vanilla_Edition/
+
+🤖️ Android x32: The Heavy build for Android 4.3, a powerful, but large Android 4.3 (Jelly Bean) alternative installation
+🤖️ Android x32: The Vanilla build for Android 4.3, a basic, but useful Android 4.3 (Jelly Bean)  alternative installation
+🤖️ Android x32: The DeGoogled build for Android 4.3, a powerful, DeGoogled Android 4.3 (Jelly Bean)  alternative installation 
+🤖️ Android x32: The LiveCD build for Android 4.3, try out 4 different editions of Android-x64+4.3 (Jelly Bean) before installing it
+
+⚙️🌐️🌳️ The settings repository for the Bliss Browser.
+
+☕️©️📊️ Over 3 billion devices run Java, but over 1 trillion devices run C.
+
+<|RENAME|>
+
+<none>
+
