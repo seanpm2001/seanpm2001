@@ -1,0 +1,25 @@
+
+iCandy_Desktop
+
+🍭️👀️🍏️🖥️ The desktop operating system variant of iCandy.
+
+iCandy_Mobile
+
+🍭️👀️🍏️📱️ The mobile operating system variant of iCandy
+
+Seanpm2001-Programs
+
+2️⃣️0️⃣️0️⃣️1️⃣️💾️ Information on software programs built by @seanpm2001 and his community.
+
+Seanpm2001-Mozilla
+
+2️⃣️0️⃣️0️⃣️1️⃣️Ⓜ️ Information on Mozilla projects built by @seanpm2001 and his community.
+
+AI2001_Category-Linguistics-SC-Uyghur
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Uyghur category for AI2001, containing Uyghur language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Filipino
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Filipino category for AI2001, containing Filipino language linguistic datasets
+

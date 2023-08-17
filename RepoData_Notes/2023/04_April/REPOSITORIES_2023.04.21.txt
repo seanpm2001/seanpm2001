@@ -1,0 +1,17 @@
+
+Home
+
+🏡️ Alternative homepage for @seanpm2001 along with a list of project homepages.
+
+Search
+
+🔎️ Search information and help for @seanpm2001
+
+AI2001_Category-Linguistics-SC-Cornish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Cornish category for AI2001, containing Cornish language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Persian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Persian category for AI2001, containing Persian language linguistic datasets
+

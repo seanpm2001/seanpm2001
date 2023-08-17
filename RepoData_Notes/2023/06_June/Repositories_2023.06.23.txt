@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-Picasa
+
+🚫️📃️🚫️ An article on the problems with Google Picasa, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Health
+
+🚫️📃️🚫️ An article on the problems with Google Health, and why it should have been avoided. I also fear it may come back again, unless something is done.
+
+AI2001_Category-Source_Code-SC-Octave
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Octave category for AI2001, containing Octave programming language datasets
+
+AI2001_Category-Source_Code-SC-Pascal
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Pascal category for AI2001, containing Pascal programming language datasets
+
+Learn-Fuzzy-Markup-Language-FML
+
+📚️ A repository for showcasing my knowledge of the Fuzzy Markup Language (FML) markup language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Fuzzy-Markup-Language-FML
+
+⌨️ The Fuzzy Markup Language (FML) markup language IDE submodule for SNU Programming Tools (2D Mode)
+

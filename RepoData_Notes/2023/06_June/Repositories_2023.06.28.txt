@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-Inbox-by-GMail
+
+🚫️📃️🚫️ An article on the problems with Google Inbox by GMail, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Browser-Sync
+
+🚫️📃️🚫️ An article on the problems with Google Browser Sync, and why it should have been avoided.
+
+AI2001_Category-Source_Code-SC-R
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:R category for AI2001, containing R programming language datasets
+
+AI2001_Category-Source_Code-SC-Red
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Red category for AI2001, containing Red programming language datasets
+
+Cranberry-Jammer
+
+⚡️📻️⚡️📡️ Cranberry Jammer is a hardware project for creating signal jammers. It also develops the CranberryOS project.
+
+Crabberry-Jammer_Docs
+
+⚡️📻️⚡️📖️ The official documentation source repository for the Cranberry Jammer project.
+

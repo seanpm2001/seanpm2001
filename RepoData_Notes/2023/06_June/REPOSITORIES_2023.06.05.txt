@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Podcasts
+
+🚫️📃️🚫️ An article on the problems with Google Podcasts and why you should avoid/stop using it.
+
+Why-you-should-stop-using-Google-Orkut
+
+🚫️📃️🚫️ An article on the problems with Google Orkut and why you should avoid/stop using it.
+
+WarmWelcome
+
+🌐️👋️🌐️💾️ WarmWelcome is a protocol for opening a single web-page upon connecting to a Wi-Fi network/hotspot (warm spot) which gives you basic information about the network.
+
+WarmWelcome_Docs
+
+🌐️👋️🌐️📖️ The official documentation repository for the WarmWelcome/WarmGreeting network welcome protocol.
+
+AI2001_Category-Source_Code-SC-Hack
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Hack category for AI2001, containing Hack programming language datasets
+
+AI2001_Category-Source_Code-SC-Inno-Setup
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Inno-Setup category for AI2001, containing Inno Setup programming language datasets
+

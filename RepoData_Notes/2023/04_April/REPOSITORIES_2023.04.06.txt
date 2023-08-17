@@ -1,0 +1,24 @@
+
+Learn-AGRAN
+
+📚️ A repository for showcasing my knowledge of the AGRAN programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_AGRAN
+
+⌨️ The AGRAN Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Seanpm2001-NSFW
+
+📃️🔞️📃️ The Seanpm2001 NSFW project listing.
+
+Seanwallawalla-NSFW
+
+📃️🔞️📃️ The SeanWallaWalla level NSFW project listing.
+
+AI2001_Category-Linguistics-SC-Korean-North
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Korean-North category for AI2001, containing North Korean language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Greenlandic
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Greenlandic category for AI2001, containing Greenlandic language linguistic datasets

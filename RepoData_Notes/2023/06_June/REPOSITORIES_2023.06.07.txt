@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Workspace
+
+🚫️📃️🚫️ An article on the problems with Google Workspace and why you should avoid/stop using it.
+
+Why-you-should-stop-using-Google-WebDriver
+
+🚫️📃️🚫️ An article on the problems with Google WebDriver and why you should avoid/stop using it.
+
+SDE_MobileServer_Imager
+
+🇸-🇩-🇪📱️🌐️💾️ The server imager for SDE MobileServer, allowing you to reimage your server from your desktop computer to your mobile computer.
+
+SDE_MobileServer_TestZone
+
+🇸-🇩-🇪📱️🌐️💾️ The test zone for SDE MobileServer, allowing you to test changes to your server from your desktop computer or mobile computer.
+
+AI2001_Category-Source_Code-SC-JavaScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:JavaScript category for AI2001, containing JavaScript programming language datasets
+
+AI2001_Category-Source_Code-SC-JSON
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:JSON category for AI2001, containing JSON programming language datasets
+

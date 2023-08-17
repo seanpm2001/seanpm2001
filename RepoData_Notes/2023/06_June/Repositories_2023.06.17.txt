@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Cloud-Source-Repositories
+
+🚫️📃️🚫️ An article on the problems with the Google Cloud Source Repositories, and why you should stop using/avoid it.
+
+Why-you-should-stop-using-Google-Colaboratory
+
+🚫️📃️🚫️ An article on the problems with Google Colaboratory, and why you should stop using/avoid it.
+
+AI2001_Category-Source_Code-SC-Max
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Max category for AI2001, containing Max programming language datasets
+
+AI2001_Category-Source_Code-SC-MAXScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:MAXScript category for AI2001, containing MAXScript programming language datasets
+
+SDE_MobileServer_Plugins_Hugo
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer Hugo support plugin.
+
+SDE_MobileServer_Plugins_MathJax
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer MathJax support plugin.
+

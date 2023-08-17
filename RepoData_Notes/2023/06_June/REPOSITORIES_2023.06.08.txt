@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-StreetView
+
+🚫️📃️🚫️ An article on the problems with Google StreetView and why you should avoid/stop using it.
+
+Why-you-should-stop-using-Google-Maps
+
+🚫️📃️🚫️ An article on the problems with Google Maps and why you should avoid/stop using it.
+
+SDE_MobileServer_Android
+
+🇸-🇩-🇪📱️🌐️💾️🤖️ SDE MobileServer port for Googles Android operating system.
+
+SDE_MobileServer_FireOS
+
+🇸-🇩-🇪📱️🌐️💾️🔥️ SDE MobileServer port for Amazons FireOS (fork of Android)
+
+AI2001_Category-Source_Code-SC-J
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:J category for AI2001, containing J programming language datasets
+
+AI2001_Category-Source_Code-SC-Jsonnet
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Jsonnet category for AI2001, containing Jsonnet programming language datasets
+

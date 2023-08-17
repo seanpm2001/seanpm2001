@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Kubernetes
+
+🚫️📃️🚫️ An article on the problems with Google Kubernetes and why you should avoid/stop using it.
+
+Why-you-should-stop-using-Google-Jigsaw
+
+🚫️📃️🚫️ An article on the problems with Google Jigsaw and why you should avoid/stop using it.
+
+SDE_MobileServer
+
+🇸-🇩-🇪📱️🌐️💾️ SDE MobileServer is an experimental project chain with the goal of running an entire server off of a portable device (phones, phablets, and tablets)
+
+SDE_MobileServer_Docs
+
+🇸-🇩-🇪📱️🌐️📖️ The official documentation repository for the SDE MobileServer software experiment chain.
+
+AI2001_Category-Source_Code-SC-INI
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:INI category for AI2001, containing INI programming language datasets
+
+AI2001_Category-Source_Code-SC-Java
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Java category for AI2001, containing Java programming language datasets
+

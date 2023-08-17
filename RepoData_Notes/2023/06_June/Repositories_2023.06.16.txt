@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-the-Google-Data-Transfer-project
+
+🚫️📃️🚫️ An article on the problems with the Google Data Transfer Project, and why you should stop using/avoid it.
+
+Why-you-should-stop-using-Google-Authenticator
+
+🚫️📃️🚫️ An article on the problems with Google Authenticator, and why you should stop using/avoid it.
+
+AI2001_Category-Source_Code-SC-Monkey
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Monkey category for AI2001, containing Monkey programming language datasets
+
+AI2001_Category-Source_Code-SC-Monkey-C
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Monkey-C category for AI2001, containing Monkey-C programming language datasets
+
+SDE_MobileServer_Plugins_Gatsby
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer Gatsby support plugin.
+
+SDE_MobileServer_Plugins_NuxtJS
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer NuxtJS support plugin.
+

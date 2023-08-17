@@ -1,0 +1,17 @@
+
+Why-you-should-stop-using-Google-Backrub
+
+🚫️📃️🚫️ An article on the problems with Google Backrub, and why you should stop using/avoid it.
+
+Why-you-should-stop-using-Google-Calico
+
+🚫️📃️🚫️ An article on the problems with Google Calico, and why you should stop using/avoid it.
+
+AI2001_Category-Source_Code-SC-Makefile
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Makefile category for AI2001, containing Makefile programming language datasets
+
+AI2001_Category-Source_Code-SC-Mathematica
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Mathematica category for AI2001, containing Mathematica programming language datasets
+

@@ -1,0 +1,17 @@
+
+Actions
+
+:octocat:🌊️ A list of GitHub actions, and workflows for other Git-sites, along with related information for @seanpm2001. Additionally, it is also a redirect to :seanpm2001:GitHub-Workflows
+
+GitHub-Workflows
+
+:octocat:🌊️ A list of GitHub workflows and related information for @seanpm2001
+
+AI2001_Category-Linguistics-SC-Somali
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Somali category for AI2001, containing Somali language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Czech
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Czech category for AI2001, containing Czech language linguistic datasets
+

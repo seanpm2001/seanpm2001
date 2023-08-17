@@ -1,0 +1,17 @@
+
+wOS_Kiri
+
+🍏️⛰️📱️ The wOS Kiri (voice assistant) application.
+
+whyPadOS_Kiri
+
+🍏️⛰️📲️ The whyPadOS Kiri (voice assistant) application.
+
+AI2001_Category-Linguistics-SC-Javanese
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Javanese category for AI2001, containing Javanese language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Laos
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Laos category for AI2001, containing Laos language linguistic datasets 
+

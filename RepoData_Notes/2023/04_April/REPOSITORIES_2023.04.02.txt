@@ -1,0 +1,33 @@
+
+whyWatchOS_Kiri
+
+🍏️⛰️⌚️ The whyWatchOS Kiri (voice assistant) application.
+
+wOS_Compass
+
+🍏️🧭️📱️ The wOS compass application.
+
+Learn-DSergeant
+
+📚️ A repository for showcasing my knowledge of the DSergeant programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_DSergeant
+
+⌨️ The DSergeant Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-GRANNY
+
+📚️ A repository for showcasing my knowledge of the GRANNY programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_GRANNY
+
+⌨️ The GRANNY Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+AI2001_Category-Linguistics-SC-Ethiopian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Ethiopian category for AI2001, containing Ethiopian language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Kurdish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Kurdish category for AI2001, containing Kurdish language linguistic datasets 
+

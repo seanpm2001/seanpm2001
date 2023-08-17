@@ -1,0 +1,26 @@
+
+Why-you-should-stop-using-Google-AR-Core
+
+🚫️📃️🚫️ An article on the problems with Google AR Core, and why you should stop using/avoid it.
+
+Google-Apple-Partnership-COVID-19
+
+🚫️📃️🚫️ An article on the Google+Apple partnership regarding COVID-19
+
+AI2001_Category-Source_Code-SC-Motoko
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Motoko category for AI2001, containing Motoko programming language datasets
+
+AI2001_Category-Source_Code-SC-Mako
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Mako category for AI2001, containing Mako programming language datasets
+
+SDE_MobileServer_Plugins_Jekyll
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer Jekyll support plugin.
+
+SDE_MobileServer_Plugins_MdBook
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer MdBook support plugin.
+
+

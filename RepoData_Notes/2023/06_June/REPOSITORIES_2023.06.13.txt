@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-Talk
+
+🚫️📃️🚫️ An article on the problems with Google Talk, and why you should have avoided using it.
+
+The-Problem-with-Google-Project-Ara
+
+🚫️📃️🚫️ An article on the problems with Googles Project Ara, and why you should avoid/stop using it.
+
+SDE_MobileServer_Plugins_SNU
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer SNU support plugin.
+
+SDE_MobileServer_Plugins_XMPP
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer XMPP support plugin
+
+AI2001_Category-Source_Code-SC-M
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:M category for AI2001, containing M programming language datasets
+
+AI2001_Category-Source_Code-SC-Macaulay2
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Macaulay2 category for AI2001, containing Macaulay2 programming language datasets
+

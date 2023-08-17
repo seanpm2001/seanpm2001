@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-Maps-Navigation
+
+🚫️📃️🚫️ An article on the problems with Google Maps Navigation, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Swift-for-TensorFlow
+
+🚫️📃️🚫️ An article on the problems with Google Swift for TensorFlow, and why it should have been avoided.
+
+AI2001_Category-Source_Code-SC-Pod
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Pod category for AI2001, containing Pod programming language datasets
+
+AI2001_Category-Source_Code-SC-QML
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:QML category for AI2001, containing QML programming language datasets
+
+Learn-Tampio
+
+📚️ A repository for showcasing my knowledge of the Tampio programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Tampio
+
+⌨️ The Tampio programming language IDE submodule for SNU Programming Tools (2D Mode)
+

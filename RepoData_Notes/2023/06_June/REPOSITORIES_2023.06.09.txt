@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Earth
+
+🚫️📃️🚫️ An article on the problems with Google Earth and why you should avoid/stop using it.
+
+Why-you-should-stop-using-Google
+
+🚫️📃️🚫️ An article on the problems with Google (in general) and why you should avoid/stop using it.
+
+SDE_MobileServer_iOS
+
+🇸-🇩-🇪📱️🌐️💾️🍎️ SDE MobileServer port for Apples iOS operating system.
+
+SDE_MobileServer_iPadOS
+
+🇸-🇩-🇪📱️🌐️💾️🍎️ SDE MobileServer port for Apples iPadOS operating system.
+
+AI2001_Category-Source_Code-SC-JetBrains-MPS
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:JetBrains-MPS category for AI2001, containing JetBrains MPS programming language datasets
+
+AI2001_Category-Source_Code-SC-Kotlin
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Kotlin category for AI2001, containing Kotlin programming language datasets
+

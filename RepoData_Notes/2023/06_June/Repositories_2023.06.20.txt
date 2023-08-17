@@ -1,0 +1,33 @@
+
+Why-you-should-stop-using-Google-Play-NewsStand
+
+🚫️📃️🚫️ An article on the problems with Google Play NewsStand, and why you should stop using/avoid it.
+
+Why-you-should-stop-using-Google-Refine
+
+🚫️📃️🚫️ An article on the problems with Google Refine, and why you should stop using/avoid it.
+
+AI2001_Category-Source_Code-SC-NSIS
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:NSIS category for AI2001, containing NSIS programming language datasets
+
+AI2001_Category-Source_Code-SC-NetREXX
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:NetREXX category for AI2001, containing NetREXX programming language datasets
+
+Sugar_Shop
+
+🍬️🎮️💾️ SugarShop is an open-source remake/remaster of the BreakTime Studios mobile game Sweet Shop. It is a mod of MobilePotions
+
+Sugar_Shop_Docs
+
+🍬️🎮️📖️ The documentation repository for SugarShop.
+
+Takeout_Tuesday
+
+↪️💽️📅️📖️↩️ A redirect to seanpm2001:Takeout_Tuesdays
+
+Takeout_Tuesdays
+
+💽️📅️📖️ Takeout Tuesdays is an event where data takeout is prioritized once a week on Tuesday.
+

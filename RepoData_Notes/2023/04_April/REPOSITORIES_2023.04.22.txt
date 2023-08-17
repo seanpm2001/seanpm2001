@@ -1,0 +1,17 @@
+
+About
+
+ℹ️ The about page of @seanpm2001
+
+SeanWallaWalla-Forks
+
+🍴️ Fork information for the former Seanwallawalla-forks organization.
+
+AI2001_Category-Linguistics-SC-Akkadian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Akkadian category for AI2001, containing Akkadian language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Swahili
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Swahili category for AI2001, containing Swahili language linguistic datasets
+

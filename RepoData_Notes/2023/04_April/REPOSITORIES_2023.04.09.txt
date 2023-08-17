@@ -1,0 +1,17 @@
+
+Security
+
+📃️🛡️📄️ Security information for @seanpm2001
+
+Authors
+
+🧑‍💻️👨‍💻️👩‍💻️ List of authors to @seanpm2001 projects
+
+AI2001_Category-Linguistics-SC-Irish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Irish category for AI2001, containing Irish language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Scottish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Scottish category for AI2001, containing Scottish language linguistic datasets
+

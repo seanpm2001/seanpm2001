@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-PowerMeter
+
+🚫️📃️🚫️ An article on the problems with Google PowerMeter, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Maps-Maker
+
+🚫️📃️🚫️ An article on the problems with Google Maps Maker, and why it should have been avoided/exploited.
+
+AI2001_Category-Source_Code-SC-Python3
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Python3 category for AI2001, containing Python 3.x programming language datasets
+
+AI2001_Category-Source_Code-SC-Python2
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Python2 category for AI2001, containing Python 2.x programming language datasets
+
+iStonk
+
+📈️📷️🌐️💾️ iStonk is tool that does a reverse image search on uploaded image/video files, and shows you results for a version without a watermark/other addon.
+
+iStonk_Docs
+
+📈️📷️🌐️📖️ The official documentation repository for the iStonk project.
+

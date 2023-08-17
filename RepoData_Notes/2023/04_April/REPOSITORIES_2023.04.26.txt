@@ -1,0 +1,25 @@
+
+Projects
+
+🗂️ Listing of projects and related information for @seanpm2001
+
+Repositories
+
+🔳️ Listing of repositories and related information for @seanpm2001
+
+Google-is-a-monopoly
+
+🚫️🏦️🚫️ Information about Google as a monopoly. https://github.com/seanpm2001/DeGoogle-your-Life/
+
+Google-Outage-History
+
+⚡️🇬⚡️ History of Google service outages. A Google Outage tracker. https://github.com/seanpm2001/DeGoogle-your-Life/
+
+AI2001_Category-Linguistics-SC-Bengali
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Bengali category for AI2001, containing Bengali language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Indonesian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Indonesian category for AI2001, containing Indonesian language linguistic datasets
+

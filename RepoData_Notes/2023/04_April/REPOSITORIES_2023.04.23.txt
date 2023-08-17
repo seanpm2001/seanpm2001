@@ -1,0 +1,17 @@
+
+Seanpm2001-Forks
+
+🍴️ Fork information for the former Seanpm2001-forks organization, along with general fork information for @seanpm2001 on GitHub.
+
+Dotfiles
+
+⚫️📄️ .dotfiles used by @seanpm2001
+
+AI2001_Category-Linguistics-SC-Sundanese
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Sundanese category for AI2001, containing Sundanese language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Esperanto
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Esperanto category for AI2001, containing Esperanto language linguistic datasets
+

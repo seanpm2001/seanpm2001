@@ -1,0 +1,25 @@
+
+The-Problem-with-Google-Green
+
+🚫️📃️🚫️ An article on the problems with Google Green, and why it should be protested/abolished.
+
+The-Problem-with-Google.org
+
+🚫️📃️🚫️ An article on the problems with Google.org, and why it should be protested/abolished.
+
+AI2001_Category-Source_Code-SC-Nim
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Nim category for AI2001, containing Nim programming language datasets
+
+AI2001_Category-Source_Code-SC-Nemerle
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Nemerle category for AI2001, containing Nemerle programming language datasets
+
+Mobile_Potions
+
+⚗️🎮️💾️ Mobile Potions is an open-source remake/remaster of the BreakTime Studios mobile game Pocket Potions.
+
+Mobile_Potions_Docs
+
+⚗️🎮️📖️ The documentation repository for MobilePotions.
+

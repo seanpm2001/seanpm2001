@@ -1,0 +1,27 @@
+
+Templates
+
+📄️🇹📄️ A list of templates by @seanpm2001
+
+(list of templates)
+
+Template
+
+↪️📄️🇹📄️↩️ A redirect to s:Templates
+
+URLL-VSCode
+
+🆚️🖇️📎️ VSCode extension for the URLL language
+
+DSergeant-VSCode
+
+🆚️🪖️🎖️ VSCode extension for the DSergeant language
+
+AI2001_Category-Source_Code-SC-AppleScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:AppleScript category for AI2001, containing AppleScript programming language datasets
+
+AI2001_Category-Source_Code-SC-Ada
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Ada category for AI2001, containing Ada programming language datasets
+

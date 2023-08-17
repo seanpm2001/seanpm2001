@@ -1,0 +1,25 @@
+
+Learn-Objective-JPlusPlus
+
+📚️ A repository for showcasing my knowledge of the Objective-J++ programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Objective-JPlusPlus
+
+⌨️ The Objective-J++ Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-Objective-JSharp
+
+📚️ A repository for showcasing my knowledge of the Objective-J# programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Objective-JSharp
+
+⌨️ The Objective-J# Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+AI2001_Category-Linguistics-SC-Yoruba
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Yoruba category for AI2001, containing Yoruba language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Afar
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Afar category for AI2001, containing Afar language linguistic datasets 
+

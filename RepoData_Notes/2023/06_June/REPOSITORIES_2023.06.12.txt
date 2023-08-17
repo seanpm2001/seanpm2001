@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Zagat
+
+🚫️📃️🚫️ An article on the problems with Google Zagat, and why you should avoid/stop using it.
+
+Why-you-should-stop-using-Google-V8
+
+🚫️📃️🚫️ An article on the problems with Googles V8 engine, and why you should avoid/stop using it.
+
+SDE_MobileServer_Plugins_WordPress
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer WordPress support plugin.
+
+SDE_MobileServer_Plugins_MediaWiki
+
+🇸-🇩-🇪📱️🌐️💾️🔌️ SDE MobileServer Wikimedia support plugin
+
+AI2001_Category-Source_Code-SC-Limbo
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Limbo category for AI2001, containing Limbo programming language datasets
+
+AI2001_Category-Source_Code-SC-Lean
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Lean category for AI2001, containing Lean programming language datasets
+

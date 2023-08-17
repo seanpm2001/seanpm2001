@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-FastFlip
+
+🚫️📃️🚫️ An article on the problems with Google FastFlip, and why it should have been avoided.
+
+Why-you-should-stop-using-Google-GSuite
+
+🚫️📃️🚫️ An article on the problems with Google GSuite, and why you should stop using/avoid it.
+
+AI2001_Category-Source_Code-SC-RMarkdown
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:RMarkdown category for AI2001, containing RMarkdown programming language datasets
+
+AI2001_Category-Source_Code-SC-Rust
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Rust category for AI2001, containing Rust programming language datasets
+
+3FakeIM
+
+📱️🚫️🌝️💾️ 3FakeIM is a joke program meant to imitate various fictional characters, and the "[CHARACTER] CALLED ME AT 3:00 AM" clickbait trend, while poking fun.
+
+3FakeIM_Docs
+
+📱️🚫️🌝️📖️ The official documentation source repository for 3FakeIM
+

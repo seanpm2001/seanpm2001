@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Arts-and-Culture
+
+🚫️📃️🚫️ An article on the problems with Google Arts & Culture, and why it should be avoided.
+
+Why-you-should-stop-using-Google-AlphaGo
+
+🚫️📃️🚫️ An article on the problems with Google AlphaGo and why it should be avoided.
+
+AI2001_Category-Source_Code-SC-GLSL
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:GLSL category for AI2001, containing GLSL programming language datasets
+
+AI2001_Category-Source_Code-SC-GDScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:GDScript category for AI2001, containing GDScript programming language datasets
+
+Undigitized
+
+🕹️🖥️🌍️ Undigitized is a game about a fictional way to take digital objects into the real world, its impact and its consequences. Written in GDScript, and powered by GoDot.
+
+Undigitized_Docs
+
+🕹️🖥️🌍️📖️ The official documentation source repository for the Undigitized video game.
+

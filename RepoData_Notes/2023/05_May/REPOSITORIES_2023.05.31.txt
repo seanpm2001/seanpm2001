@@ -1,0 +1,25 @@
+
+SeansLifeArchive_Images_Sonic-Dash_Y2023_V1
+
+🦔️💍️🕹️🖼️🗃️ The module for my life story project that contains my SEGA: Sonic Dash gameplay images from the year 2023 (2023, June)
+
+Seanpm2001-VSCode
+
+2️⃣️0️⃣️0️⃣️1️⃣️🆚️💾️ Documentation regarding my VSCode extensions, including a list.
+
+Why-you-should-stop-using-Google-Cloud-Print
+
+🚫️📃️🚫️ An article on the problems with Google Cloud Print and why it should be avoided.
+
+AI2001_Category-Source_Code-SC-GAP
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:GAP category for AI2001, containing GAP programming language datasets
+
+AI2001_Category-Source_Code-SC-Gherkin
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Gherkin category for AI2001, containing Gherkin programming language datasets
+
+AI2001_Category-Meta
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️Ⓜ️ The meta category for AI2001, containing meta dataset and addons.
+

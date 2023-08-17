@@ -1,0 +1,33 @@
+
+whyPadOS_Compass
+
+🍏️🧭️📲️ The whyPadOS compass application.
+
+whyWatchOS_Compass
+
+🍏️🧭️⌚️ The whyWatchOS compass application.
+
+Learn-MCPYE-Command-Language
+
+📚️ A repository for showcasing my knowledge of the MCPYE Command Language programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_MCPYE-Command-Language
+
+⌨️ The MCPYE Command Language Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+Learn-Objective-CSharp
+
+📚️ A repository for showcasing my knowledge of the Objective-C# programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Objective-CSharp
+
+⌨️ The Objective-C# Programming language IDE submodule for SNU Programming Tools (2D Mode)
+
+AI2001_Category-Linguistics-SC-Turkish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Turkish category for AI2001, containing Turkish language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Yiddish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Yiddish category for AI2001, containing Yiddish language linguistic datasets 
+

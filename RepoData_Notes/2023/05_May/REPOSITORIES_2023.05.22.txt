@@ -1,0 +1,25 @@
+
+Why-you-should-have-avoided-Google-SMS
+
+🚫️📃️🚫️ An article on the problems with Google SMS, and why it should have been avoided.
+
+Why-you-should-stop-using-Google-Stackdriver
+
+🚫️📃️🚫️ An article on the problems with Google Stackdriver, and why it should be avoided.
+
+AI2001_Category-Source_Code-SC-Diff
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Diff category for AI2001, containing Diff programming language datasets
+
+AI2001_Category-Source_Code-SC-Dhall
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Dhall category for AI2001, containing Dhall programming language datasets
+
+NUNIX_SurvivalMode
+
+🧠️🦁️ The survival mode component of NUNIX, a set of operating instruction supplements for survival.
+
+NUNIX_SurvivalMode_HungerE
+
+🧠️🍽️ Hunger control and stimulation, as part of survival mode of the NUNIX neural operating system supplement.
+

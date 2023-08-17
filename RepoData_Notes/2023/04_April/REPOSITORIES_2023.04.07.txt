@@ -1,0 +1,17 @@
+
+Contributing
+
+📃️🔲️📄️ Contributing information for @seanpm2001
+
+Contributors
+
+🧑‍💻️👨‍💻️👩‍💻️ List of contributors to @seanpm2001
+
+AI2001_Category-Linguistics-SC-Ancient-Egyptian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Ancient-Egyptian category for AI2001, containing Ancient Egyptian language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Pashto
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Pashto category for AI2001, containing Pashto language linguistic datasets
+

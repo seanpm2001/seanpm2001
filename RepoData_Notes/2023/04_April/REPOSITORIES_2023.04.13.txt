@@ -1,0 +1,17 @@
+
+Seanpm2001-Microsoft
+
+2️⃣️0️⃣️0️⃣️1️⃣️[::] An information page on Microsoft related projects by @seanpm2001 
+
+Seanpm2001-KolibriGames
+
+2️⃣️0️⃣️0️⃣️1️⃣️🕹️ An information page on Kolibri Games related projects by @seanpm2001
+
+AI2001_Category-Linguistics-SC-Bosnian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Bosnian category for AI2001, containing Bosnian language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Mongolian-Cyrillic
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Mongolian-Cyrillic category for AI2001, containing Mongolian (Cyrillic) language linguistic datasets
+

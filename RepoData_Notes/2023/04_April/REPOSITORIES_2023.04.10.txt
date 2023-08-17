@@ -1,0 +1,17 @@
+
+Credits
+
+📃️📜️📄️ Credit information for @seanpm2001 projects
+
+Seanpm2001-Blog
+
+📔️📜️📖️ The blog(s) of @seanpm2001
+
+AI2001_Category-Linguistics-SC-Dutch
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Dutch category for AI2001, containing Dutch language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Swedish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Swedish category for AI2001, containing Swedish language linguistic datasets
+

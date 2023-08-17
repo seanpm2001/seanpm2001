@@ -1,0 +1,25 @@
+
+Why-you-should-avoid-YouTube-shorts
+
+🚫️📃️🚫️ An article on the problems with YouTube Shorts and why you should avoid/stop using it.
+
+Why-you-should-stop-using-YouTube-Theater
+
+🚫️📃️🚫️ An article on the problems with YouTubes Theater feature and why you should avoid/stop using it.
+
+SDE_MobileServer_Ubuntu
+
+🇸-🇩-🇪📱️🌐️💾️🐧️ SDE MobileServer port for the mobile version of the Ubuntu operating system.
+
+SDE_MobileServer_PostMarketOS
+
+🇸-🇩-🇪📱️🌐️💾️🐧️ SDE MobileServer port for the PostMarketOS operating system.
+
+AI2001_Category-Source_Code-SC-Lua
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Lua category for AI2001, containing Lua programming language datasets
+
+AI2001_Category-Source_Code-SC-Less
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Less category for AI2001, containing Less programming language datasets
+

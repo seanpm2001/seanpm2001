@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Guetzli
+
+🚫️📃️🚫️ An article on the problems with Google Guetzli, and why you should stop using/avoid it.
+
+Why-you-should-stop-using-Google-Knol
+
+🚫️📃️🚫️ An article on the problems with Google Knol, and why you should stop using/avoid it.
+
+AI2001_Category-Source_Code-SC-Objective-C
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Objective-C category for AI2001, containing Objective-C programming language datasets
+
+AI2001_Category-Source_Code-SC-Objective-C-Plus-Plus
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Objective-C++ category for AI2001, containing Objective-C++ programming language datasets
+
+Learn-Beef
+
+📚️ A repository for showcasing my knowledge of the Beef programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Beef
+
+⌨️ The Beef programming language IDE submodule for SNU Programming Tools (2D Mode)
+

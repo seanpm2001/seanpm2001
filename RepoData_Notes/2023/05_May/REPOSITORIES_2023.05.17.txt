@@ -1,0 +1,25 @@
+
+Reddit
+
+🌐️📡️🇮 Reddit usage information for @seanpm2001 and also related projects.
+
+Database
+
+🗄️🗃️🛢️ Database info for @seanpm2001 with listed database projects.
+
+Nostalgii
+
+🧠️🟢️🇳 The official home repository for the Nostalgii project, a customizable nostalgic media collection manager and viewer.
+
+Nostalgii_Docs
+
+🧠️🟢️🇳📖️ The official documentation repository for the Nostalgii project.
+
+AI2001_Category-Source_Code-SC-CSV
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:CSV category for AI2001, containing CSV programming language datasets
+
+AI2001_Category-Source_Code-SC-Cadence
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Cadence category for AI2001, containing Cadence programming language datasets
+

@@ -1,0 +1,17 @@
+
+Videos
+
+📽️📼️ℹ️ Information on video software, usage and production from @seanpm2001
+
+Images
+
+🎨️🖼️ℹ️ Information on images, graphic design, usage, and production from @seanpm2001
+
+AI2001_Category-Source_Code-SC-ABAP
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ABAP category for AI2001, containing ABAP programming language datasets
+
+AI2001_Category-Source_Code-SC-ActionScript
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ActionScript category for AI2001, containing ActionScript programming language datasets
+

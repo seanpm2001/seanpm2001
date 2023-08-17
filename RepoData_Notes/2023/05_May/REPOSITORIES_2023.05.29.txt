@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Dropcam
+
+🚫️📃️🚫️ An article on the problems with Google Dropcam, and why it should be avoided.
+
+Why-you-should-stop-using-Google-DoubleClick
+
+🚫️📃️🚫️ An article on the problems with Google DoubleClick and why it should be avoided.
+
+AI2001_Category-Source_Code-SC-GoogleGo
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:GoogleGo category for AI2001, containing Google Golang programming language datasets
+
+AI2001_Category-Source_Code-SC-Go-
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Go! category for AI2001, containing Go! programming language datasets
+
+The-REAL-Data-Liberation-Front
+
+🗄️⚖️🔀️ The homepage of the REAL Data Liberation Front, promoting data openness, longer takeout times, open takoeut formats, better compliance, and more.
+
+The-REAL-Data-Liberation-Front_Docs
+
+🗄️⚖️📖️🔀️ The documentation source repository for the REAL Data Liberation Front.
+

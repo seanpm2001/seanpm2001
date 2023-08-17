@@ -1,0 +1,21 @@
+
+Why-you-should-stop-using-Google-Discover
+
+🚫️📃️🚫️ An article on the problems with Google Discover, and why it should be avoided.
+
+Why-you-should-not-be-a-Google-Developer
+
+🚫️📃️🚫️ An article on the problems with Google, and why you shouldn't be a Google Developer.
+
+AI2001_Category-Source_Code-SC-Erlang
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Erlang category for AI2001, containing Erlang programming language datasets
+
+AI2001_Category-Source_Code-SC-Eiffel
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Eiffel category for AI2001, containing Eiffel programming language datasets
+
+Malware-as-art
+
+💾️🦠️🖼️ℹ️📃️ Information about the perspective and philosophy about computer malware being a form of art.
+

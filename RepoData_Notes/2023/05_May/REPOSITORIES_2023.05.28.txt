@@ -1,0 +1,24 @@
+Why-you-should-stop-using-Google-AdMob
+
+🚫️📃️🚫️ An article on the problems with Google AdMob, and why it should be avoided.
+
+Why-you-should-stop-using-Google-FireBase
+
+🚫️📃️🚫️ An article on the problems with Google FireBase and why it should be avoided.
+
+AI2001_Category-Source_Code-SC-Fancy
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Fancy category for AI2001, containing Fancy programming language datasets
+
+AI2001_Category-Source_Code-SC-Fortran95
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Fortran95 category for AI2001, containing Fortran95 programming language datasets
+
+Er
+
+Р (er) unofficially: Я is a set of subsets for the R programming language that enable native Cyrillic-based language support, making it easier to program in R in 20+ different languages.
+
+Er_Docs
+
+Р📖️ The official documentation repository for the Er subset of the R programming language (unofficially known as Я)
+

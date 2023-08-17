@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Apps-Script
+
+🚫️📃️🚫️ An article on the problems with Google Apps Script, and why it should be avoided.
+
+Why-you-should-stop-using-Google-Capital
+
+🚫️📃️🚫️ An article on the problems with Google Capital and why it should be avoided.
+
+AI2001_Category-Source_Code-SC-F-Sharp
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:F# category for AI2001, containing F# programming language datasets
+
+AI2001_Category-Source_Code-SC-Fish
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Fish category for AI2001, containing Fish programming language datasets
+
+Learn-Ezhil
+
+📚️ A repository for showcasing my knowledge of the Ezhil programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Ezhil
+
+⌨️ The Ezhil Programming language IDE submodule for SNU Programming Tools (2D Mode)
+

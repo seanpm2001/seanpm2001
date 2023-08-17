@@ -1,0 +1,17 @@
+
+Seanpm2001-Vim
+
+🟢️🖥️🐧️ The Seanpm2001 Vim project repository, a portal page for my Vim projects.
+
+SeanWallaWalla-Vim
+
+↪️🟢️↩️ A redirect to Seanpm2001-Vim
+
+AI2001_Category-Linguistics-SC-Bulgarian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Bulgarian category for AI2001, containing Bulgarian language linguistic datasets 
+
+AI2001_Category-Linguistics-SC-Belarusian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Belarusian category for AI2001, containing Belarusian language linguistic datasets 
+

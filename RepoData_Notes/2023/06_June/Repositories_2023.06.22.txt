@@ -1,0 +1,25 @@
+
+Why-you-should-stop-using-Google-Business-Groups-GBG
+
+🚫️📃️🚫️ An article on the problems with Google Business Groups (GBG) and why you should stop using/avoid it.
+
+Why-you-should-have-avoided-Google-Wave
+
+🚫️📃️🚫️ An article on the problems with Google Wave, and why you should have avoided it.
+
+AI2001_Category-Source_Code-SC-Objective-J
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Objective-J category for AI2001, containing Objective-J programming language datasets
+
+AI2001_Category-Source_Code-SC-OCaml
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:OCaml category for AI2001, containing OCaml programming language datasets
+
+Learn-Harbour
+
+📚️ A repository for showcasing my knowledge of the Harbour programming language, and continuing to learn the language.
+
+SNU_2D_ProgrammingTools_IDE_Harbour
+
+⌨️ The Harbour programming language IDE submodule for SNU Programming Tools (2D Mode)
+

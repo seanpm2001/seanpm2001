@@ -1,0 +1,17 @@
+
+Audio
+
+🎵️🎶️ℹ️ Information on audio software, usage and production from @seanpm2001
+
+Social-Preview
+
+⚙️🖼️ℹ️ Information on social preview image usage by @seanpm2001
+
+AI2001_Category-Source_Code-SC-ALGOL
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:ALGOL category for AI2001, containing ALGOL programming language datasets
+
+AI2001_Category-Source_Code-SC-AWK
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:AWK category for AI2001, containing AWK programming language datasets
+

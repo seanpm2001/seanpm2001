@@ -1,0 +1,17 @@
+
+Archives
+
+🗄️🗄️🗄️ Archived project information for @seanpm2001
+
+Benchmarks
+
+📐️⚙️ℹ️ Benchmarking information for @seanpm2001 projects.
+
+AI2001_Category-Linguistics-SC-Armenian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Armenian category for AI2001, containing Armenian language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Frisian
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Frisian category for AI2001, containing Frisian language linguistic datasets
+

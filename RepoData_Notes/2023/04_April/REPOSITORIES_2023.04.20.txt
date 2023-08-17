@@ -1,0 +1,17 @@
+
+Acknowledgements
+
+↪️👤️↩️ A redirect to Credits
+
+.gitlab
+
+🦊️💾️ GitLab information and profile data for @seanpm2001
+
+AI2001_Category-Linguistics-SC-Catalan
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Catalan category for AI2001, containing Catalan language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Corsican
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Corsican category for AI2001, containing Corsican language linguistic datasets
+

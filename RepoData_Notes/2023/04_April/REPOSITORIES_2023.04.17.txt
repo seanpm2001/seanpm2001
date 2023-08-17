@@ -1,0 +1,25 @@
+
+iCandy_Wrist
+
+🍭️👀️🍏️⌚️ The wristwatch operating system variant of iCandy.
+
+iCandy_Pod
+
+🍭️👀️🍏️📳️ The music player operating system variant of iCandy
+
+History
+
+⌛️ General history information of @seanpm2001
+
+History_Git
+
+⌛️ History on the usage of Git by @seanpm2001
+
+AI2001_Category-Linguistics-SC-Tatar
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Tatar category for AI2001, containing Tatar language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Chechen
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Chechen category for AI2001, containing Chechen language linguistic datasets
+

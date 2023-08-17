@@ -1,0 +1,17 @@
+
+List
+
+📜️ A list of all of my list repositories.
+
+Artificial-Intelligence
+
+🧠️🖥️ Information on Artificial Intelligence projects by @seanpm2001
+
+AI2001_Category-Linguistics-SC-Marathi
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Marathi category for AI2001, containing Marathi language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Tamil
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Tamil category for AI2001, containing Tamil language linguistic datasets
+

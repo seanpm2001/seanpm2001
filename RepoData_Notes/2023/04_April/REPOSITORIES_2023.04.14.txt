@@ -1,0 +1,25 @@
+
+iCandy
+
+🍭️👀️🍏️🏠️ iCandy is a derivative of Skeuowie/SDE that is designed for the WacOS project. It features full skeuomorphism in design, along with an interface similar to Apples ecosystem.
+
+iCandy_Docs
+
+🍭️👀️🍏️📖️ The documentation source repository for iCandy.
+
+Seanpm2001-Apps
+
+↪️💾️↩️ A redirect to Seanpm2001-Applications
+
+Seanpm2001-Applications
+
+2️⃣️0️⃣️0️⃣️1️⃣️💾️ Information on software applications/apps built by @seanpm2001 and his community.
+
+AI2001_Category-Linguistics-SC-Mongolian-Classic
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Mongolian-Classic category for AI2001, containing Mongolian (Classical) language linguistic datasets
+
+AI2001_Category-Linguistics-SC-Uzbek
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔠️🔢️ The linguistic:Uzbek category for AI2001, containing Uzbek language linguistic datasets
+
