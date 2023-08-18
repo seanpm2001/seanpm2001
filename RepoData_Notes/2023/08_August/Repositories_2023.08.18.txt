@@ -1,0 +1,24 @@
+
+AI2001_Category-Source_Code-SC-CommonLisp
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:CommonLisp category for AI2001, containing CommonLisp programming language datasets
+
+AI2001_Category-Source_Code-SC-Cool
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Cool category for AI2001, containing Cool programming language datasets
+
+9x-Internet_Docs
+
+📖️ The official documentation source repository for the 9x-Internet virtual machine Internet enhancement software.
+
+KeyStroke_Docs
+
+📖️ The official documentation source repository for the KeyStroke joke program.
+
+Why-you-should-have-avoided-Google-Toolbar
+
+🚫️📃️🚫️ An article on the problems with the Google ToolBar, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Sputnik
+
+🚫️📃️🚫️ An article on the problems with Google Sputnik, and why it should have been avoided.
