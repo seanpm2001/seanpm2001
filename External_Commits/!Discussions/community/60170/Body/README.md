@@ -1,0 +1,2 @@
+It would be a great feature if issue labels were kept in a configuration file under `/.github/` so that template repositories could have their custom labels assigned automatically, rather than creating them manually for every repository. Right now, too much effort is involved for something that should be automated.
+We could have a YAML file that defines the HEX color code of the label, its title, its description, and some extra rules if needed.
