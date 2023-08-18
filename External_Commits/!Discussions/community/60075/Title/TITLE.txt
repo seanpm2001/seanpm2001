@@ -1,0 +1,1 @@
+No error message is given for discussion category limit #60075 
