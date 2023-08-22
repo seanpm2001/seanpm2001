@@ -29,14 +29,14 @@ I have been planning on uploading this data for about a week now (as of 2023, Th
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the timeline/index section</b></p></summary>
 
-File count and index as of 2023, Friday, August 18th.
+File count and index as of 2023, Tuesday, August 22nd.
 
 - [`2022`](/RepoData_Notes/2022/) - 78 files <!-- 1+12+30+35=78 !-->
 - - [`07: July`](/RepoData_Notes/2022/07_July/) - 1 file
 - - [`10: October`](/RepoData_Notes/2022/10_October/) - 12 files
 - - [`11: November`](/RepoData_Notes/2022/11_November/) - 30 files
 - - [`12: December`](/RepoData_Notes/2022/12_December/) - 35 files
-- [`2023`](/RepoData_Notes/2023/) - 215 files <!-- 31+28+29+28=27+30+24+18 !-->
+- [`2023`](/RepoData_Notes/2023/) - 219 files <!-- 31+28+29+28+27+30+24+22 !-->
 - - [`01: January`](/RepoData_Notes/2023/01_January/) - 31 files
 - - [`02: February`](/RepoData_Notes/2023/02_February/) - 28 files
 - - [`03: March`](/RepoData_Notes/2023/03_March/) - 29 files
@@ -44,7 +44,7 @@ File count and index as of 2023, Friday, August 18th.
 - - [`05: May`](/RepoData_Notes/2023/05_May/) - 27 files
 - - [`06: June`](/RepoData_Notes/2023/06_June/) - 30 files
 - - [`07: July`](/RepoData_Notes/2023/07_July/) - 24 files
-- - [`08: August`](/RepoData_Notes/2023/08_August/) - 18 files
+- - [`08: August`](/RepoData_Notes/2023/08_August/) - 22 files
 
 </details>
 
@@ -58,17 +58,17 @@ File count and index as of 2023, Friday, August 18th.
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Friday, August 18th at 02:56 pm PST)`
+**File version:** `3 (2023, Tuesday, August 22nd at 01:55 pm PST)`
 
-**Line count (including blank lines and compiler line):** `149`
+**Line count (including blank lines and compiler line):** `169`
 
-**Word count:** `0,839`
+**Word count:** `0,958`
 
-**Character count (including spaces):** `5,319`
+**Character count (including spaces):** `6,049`
 
-**Character count (excluding spaces):** `4,522`
+**Character count (excluding spaces):** `5,126`
 
-**Size (in bytes):** `5,319`
+**Size (in bytes):** `6,049`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -108,7 +108,7 @@ File count and index as of 2023, Friday, August 18th.
 
 ## Version 2 (2023, Friday, August 18th at 2:56 pm PST)
 
-<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 1</b></p></summary>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 2</b></p></summary>
 
 > This release was made by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -128,6 +128,26 @@ File count and index as of 2023, Friday, August 18th.
 - - [x] Added an entry for version 2
 - [x] Added the footer
 - [ ] No other changes in version 2
+
+</details>
+
+## Version 3 (2023, Tuesday, August 22nd at 01:55 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 3</b></p></summary>
+
+> This release was made by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Version 3, small update to cover the past 4 days (2023, August 19th to 2023, August 22nd)_
+
+> Changes:
+
+- [x] Updated the `Timeline/Index` section
+- - [x] Updated the data to reflect changes from 2023, Tuesday, August 22nd
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Fixed a typo in the entry for version 2
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
 
 </details>
 
