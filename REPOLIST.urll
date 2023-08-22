@@ -2,17 +2,50 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: Seanpm2001_REPOLIST.urll
 //// An attempt to make a REPOLIST file of all of my source repositories
-//// To calculate the total, press CTRL + F, type `https://github.com/seanpm2001` and reduce 2 from the given total
+//// To calculate the total, press CTRL + F, type `https://github.com/seanpm2001` and reduce 2 from the given total (subtract an additional 6, as there are 6 forks listed, as of 2023, Tuesday, August 22nd. To find forks, press CTRL + F, type `//// (fork)` and minus 1 from this count
 
-//// Current total: 2289 / 3855 (as of 2023, Tuesday, August 22nd) (059.37%)
+//// Current total: 2433 / 3855 (as of 2023, Tuesday, August 22nd) (063.11%)
 //// This list is incomplete
 
-//// Import
+//// Notes
+//// Not allowed categories:
+
+//// Libraries (reason: Major overlap)
+//// SNU 2D (reason: Major overlap)
+//// Templates (reason: Major overlap)
+//// Video Games (reason: Major overlap)
+//// Joke Programs (reason: Major overlap)
+
+//// Import reference section
+//// !MISC/Unsorted
 //// AI2001 : AI2001/AI2001_REPOLIST.urll (last updated: 2023, August 22nd)
 //// Android x128 : Android-x128/REPOLIST.urll
 //// Android x32 : Android-x32/REPOLIST.urll
 //// Android x32x64 : Android-x32x64/REPOLIST.urll
 //// Android x64 : Android-x64/REPOLIST.urll
+//// Anime Studio : Anime-Studio/REPOLIST.urll
+//// AquariOS {
+//// - AquariOS main
+//// - AquariOS documentation
+//// }
+//// BathHouseOS {
+//// - BathHouseOS main
+//// - BathHouseOS core
+//// - BathHouseOS documentation
+//// }
+//// BlazeOS {
+//// - BlazeOS main
+//// - BWS main
+//// - BlazeOS documentation
+//// - BWS Hardware
+//// - BWS clients
+//// - BlazeOS applications
+//// - BlazeOS frameworks and layers
+//// - BlazeOS animations
+//// - BlazeOS software LIBraries
+//// - BlazeOS browser
+//// - BlazeOS Peak
+//// }
 //// Bliss Browser : Bliss-Browser/Bliss_Browser_REPOLIST.urll {
 //// - Bliss Browser main
 //// - Bliss Browser core
@@ -21,21 +54,101 @@
 //// - Bliss Browser OSMode components
 //// - Bliss Browser Language support
 //// }
+//// BluPhone {
+//// - BluPhone main
+//// - BluPhone documentation
+//// - BluPhone operating system
+//// - BluPhone ports
+//// - BluPhone website
+//// }
 //// Candroid : Candroid/REPOLIST.urll
 //// DeGoogle-your-Life : DeGoogle-your-Life/REPO_LIST.urll
+//// DIFFicult {
+//// - DIFFicult main
+//// }
 //// Go!gle : 
+//// Hospital Defender {
+//// - Hospital Defender main
+//// - Hospital Defender website
+//// }
 //// Learn : Learn/Learn_REPOLIST.urll
 //// LennyOS : LennyOS/LennyOS_REPOLIST.urll
+//// LightSpeed Relay Technologies {
+//// - LightSpeed Relay Technologies main
+//// - LightSpeed Relay Documentation
+//// - LightSpeed Relay Technologies Database
+//// - LightSpeed Relay Technologies communications
+//// }
+//// Linux Defender {
+//// - Linux Defender main
+//// - Linux Defender documentation
+//// - Linux Defender Database
+//// - Linux Defender ports
+//// }
+//// MCPYE {
+//// - MCPYE main
+//// - MCPYE documentation
+//// - MCPYE command language
+//// - MCPYE Ports
+//// - MCPYE Wiki
+//// }
+//// Meadows {
+//// - Meadows main 
+//// - Meadows documentation
+//// - Meadows file systems
+//// - Meadows components
+//// - Meadows programs
+//// - Meadows general modules
+//// - Meadows general settings
+//// - Meadows profile modules
+//// - Meadows developer modules
+//// - Meadows legacy modules
+//// - Meadows UI
+//// - Meadows templates
+//// - Meadows websites
+//// }
+//// MEDOS {
+//// - MEDOS Main
+//// - MEDOS mediums
+//// - MEDOS Albums
+//// - MEDOS Remote Control
+//// }
+//// MetroTechno {
+//// - MetroTechno main
+//// - MetroTechno subsystems
+//// }
 //// NetM :
 //// NUNIX : NUNIX/NUNIX_REPOLIST.urll
+//// OpenGov {
+//// - OpenGov main
+//// - OpenGov components
+//// }
 //// SDE MobileServer : SDE_MobileServer/SDE_MobileServer_REPOLIST.urll {
 //// - SDE MobileServer Main
 //// - SDE MobileServer Core
 //// - SDE MobileServer OSPorts
 //// - SDE MobileServer Plugins
 //// }
+//// SNU 0D {
+//// - SNU 0D Main
+//// - SNU 0D Homepage
+//// - SNU 0D Website
+//// }
 //// SNU 2D Programming Tools : 
 //// The REAL Data Liberation Front
+//// UCALC {
+//// - UCALC main
+//// - UCALC ports
+//// }
+//// uOffice {
+//// - uOffice main
+//// - uOffice documentation
+//// - uOffice components
+//// - uOffice software LIBraries
+//// - uOffice joke programs
+//// - uOffice ports
+//// - uOffice website
+//// }
 //// WacOS {
 //// - WacOS home
 //// - WacOS Docs
@@ -78,11 +191,20 @@
 //// - WacOS Hardware
 //// }
 //// YKDefender :
+//// Zag {
+//// - Zag main
+//// }
 
 //// Major todo
-//// Meadows (no REPOLIST file found)
 //// Hundreds of projects need to be separated into lists, and set for inclusion.
 //// Other projects
+
+//// !MISC/UNSORTED
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (3)
+https://github.com/seanpm2001/Space_Defender_2_Eiffel
+https://github.com/seanpm2001/SeansLifeArchive_Images_MEDOS
+https://github.com/seanpm2001/Rasple
 
 //// AI2001
 //// As of 2023, Tuesday, August 22nd
@@ -670,6 +792,122 @@ https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition
 
+//// Anime Studio
+//// As of 2023, Wednesday, March 15th at 3:41 pm PST
+//// GitHub (26)
+https://github.com/seanpm2001/Anime_Studio
+https://github.com/seanpm2001/Anime_Studio_Docs
+https://github.com/seanpm2001/Anime_Studio_OpenAnime 
+https://github.com/seanpm2001/Anime_Studio_AnimAI
+https://github.com/seanpm2001/Anime_Studio_Manga-Studio
+https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs
+https://github.com/seanpm2001/Anime_Studio_Video-Editor
+https://github.com/seanpm2001/Anime_Studio_ApplicationCore
+https://github.com/seanpm2001/Anime_Studio_Hentai
+https://github.com/seanpm2001/Anime_Studio_AvatarStudio
+https://github.com/seanpm2001/Anime_Studio_StyleManager
+https://github.com/seanpm2001/Anime_Studio_Library
+https://github.com/seanpm2001/Anime_Studio_Exporter
+https://github.com/seanpm2001/Anime_Studio_Image-Editor
+https://github.com/seanpm2001/Anime_Studio_Audio-Editor
+https://github.com/seanpm2001/Anime_Studio_SocialShare
+https://github.com/seanpm2001/Anime_Studio_Website
+https://github.com/seanpm2001/Anime_Studio_ChatBot
+https://github.com/seanpm2001/Anime_Studio_SubtitleTool
+https://github.com/seanpm2001/Anime_Studio_Game-Studio
+https://github.com/seanpm2001/Anime_Studio_Manga-File-Format
+https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer
+https://github.com/seanpm2001/Anime_Studio_Dictionary
+https://github.com/seanpm2001/Anime_Studio_Encyclopedia
+https://github.com/seanpm2001/Anime_Studio_Glossary
+https://github.com/seanpm2001/Anime_Studio_Wiki
+
+//// AquariOS
+//// As of 2023, Tuesday, March 22nd at 4:21 pm PST
+//// GitHub (2)
+
+//// AquariOS main (1)
+
+https://github.com/seanpm2001/AquariOS
+
+//// AquariOS documentation (1)
+
+https://github.com/seanpm2001/Project-Aquarius
+
+//// BathHouseOS
+//// As of 2023, Tuesday, March 22nd at 4:19 pm PST
+//// GitHub (3)
+
+//// BathHouseOS main (1)
+
+https://github.com/seanpm2001/BathHouseOS
+
+//// BathHouseOS core (1)
+
+https://github.com/seanpm2001/BathHouseOS_Core_ControlPanel
+
+//// BathHouseOS documentation (1)
+
+https://github.com/seanpm2001/BathHouseOS_Docs
+
+//// BlazeOS
+//// As of 2023, Wednesday, March 15th at 3:41 pm PST
+//// GitHub (21)
+
+//// BlazeOS main (1)
+
+https://github.com/seanpm2001/BlazeOS
+
+//// BWS main (1)
+
+https://github.com/seanpm2001/BWS
+
+//// BlazeOS documentation (1)
+
+https://github.com/seanpm2001/BlazeOS_Docs
+
+//// BWS Hardware (6)
+
+https://github.com/seanpm2001/BWS_Hardware
+https://github.com/seanpm2001/BWS_Hardware_Ice
+https://github.com/seanpm2001/BWS_Icicle
+https://github.com/seanpm2001/BWS_IceCube
+https://github.com/seanpm2001/BWS_IceBlocks
+https://github.com/seanpm2001/BWS_IceBerg
+
+//// BWS clients (1)
+
+https://github.com/seanpm2001/BWS_Zamboni
+
+//// BlazeOS applications (1)
+
+https://github.com/seanpm2001/BlazeOS_App_Store
+
+//// BlazeOS frameworks and layers (4)
+
+https://github.com/seanpm2001/BlAPK
+https://github.com/seanpm2001/BlazeOS_ePubStation
+https://github.com/seanpm2001/IgniteBook
+https://github.com/seanpm2001/BlazeOS_Userland
+
+//// BlazeOS animations (1)
+
+https://github.com/seanpm2001/BlazeOS_bpage
+
+//// BlazeOS software LIBraries (2)
+
+https://github.com/seanpm2001/Mobi_Dick
+https://github.com/seanpm2001/Blazed_Cafe
+
+//// BlazeOS browser (1)
+
+https://github.com/seanpm2001/Silkworm_web_browser
+
+//// BlazeOS Peak (2)
+
+https://github.com/seanpm2001/BlazeOS_Peak
+https://github.com/seanpm2001/BlazeOS_Peak_Video
+
 //// Bliss Browser
 //// As of 2023, Tuesday, August 22nd
 //// GitHub (199)
@@ -884,6 +1122,30 @@ https://github.com/seanpm2001/Bliss_Browser_ProtoBuf
 https://github.com/seanpm2001/Bliss_Browser_Zeek
 https://github.com/seanpm2001/Bliss_Browser_Bro
 https://github.com/seanpm2001/Bliss_Browser_RAML
+
+//// BluPhone
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (5)
+
+//// BluPhone main (1)
+
+https://github.com/seanpm2001/BluPhone
+
+//// BluPhone documentation (1)
+
+https://github.com/seanpm2001/BluPhone_Docs
+
+//// BluPhone operating system (1)
+
+https://github.com/seanpm2001/BluPhoneOS
+
+//// BluPhone ports (1)
+
+https://github.com/seanpm2001/BluPhone-Snap //// (fork)
+
+//// BluPhone website (1)
+
+https://github.com/seanpm2001/BluPhone.github.io //// (fork)
 
 //// Candroid
 //// As of 2022, Wednesday, December 7th
@@ -1117,10 +1379,31 @@ https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Toolbar
 https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Flu-Trends
 https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Friends-Connect
 
+//// DIFFicult
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (1)
+
+//// DIFFicult main (1)
+
+https://github.com/seanpm2001/DIFFicult
+
 //// Go!gle
 //// As of 2020, Monday, August 24th
+//// GitHub (1)
 
 https://github.com/seanpm2001/Go-ogle
+
+//// Hospital Defender
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (2)
+
+//// Hospital Defender main (1)
+
+https://github.com/seanpm2001/Hospital_Defender
+
+//// Hospital Defender website (1)
+
+https://github.com/seanpm2001/Hospital-defender.github.io //// (fork)
 
 //// Learn
 //// As of 2023, Wednesday, August 16th
@@ -1673,6 +1956,198 @@ https://github.com/seanpm2001/LennyOS_Hardware
 https://github.com/seanpm2001/LennyOS_TinyOS
 https://github.com/seanpm2001/LennyOS_Linux
 
+//// LightSpeed Relay Technologies
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (6)
+
+//// LightSpeed Relay Technologies main (1)
+
+https://github.com/seanpm2001/LightSpeedRelayTechnology_Info
+
+//// LightSpeed Relay Documentation (1)
+
+https://github.com/seanpm2001/LightSpeed-Relay-Technologies_Docs
+
+//// LightSpeed Relay Technologies Database (2)
+
+https://github.com/seanpm2001/LightSpeedRelay_Database
+https://github.com/seanpm2001/LightSpeedRelay_DatabaseTools
+
+//// LightSpeed Relay Technologies communications (2)
+
+https://github.com/seanpm2001/LightSpeedRelay_WaitingRoom
+https://github.com/seanpm2001/LightSpeedRelayChat
+
+//// Linux Defender
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (14)
+
+//// Linux Defender main (1)
+
+https://github.com/seanpm2001/Linux_Defender
+
+//// Linux Defender documentation (1)
+
+https://github.com/seanpm2001/Linux-Defender_Docs
+
+//// Linux Defender Database (1)
+
+https://github.com/seanpm2001/Linux_Defender_YARA_CVE_Database
+
+//// Linux Defender ports (11)
+
+https://github.com/seanpm2001/Linux_Defender_For_Raspberry_Pi
+https://github.com/seanpm2001/Linux_Defender_For_Android
+https://github.com/seanpm2001/Linux_Defender_For_Fedora-Linux
+https://github.com/seanpm2001/Linux_Defender_For_Trisquel
+https://github.com/seanpm2001/Linux_Defender_For_RemixOS
+https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS
+https://github.com/seanpm2001/Linux_Defender_For_Arch_Linux
+https://github.com/seanpm2001/Linux_Defender_For_Debian
+https://github.com/seanpm2001/Linux_Defender_For_CentOS
+https://github.com/seanpm2001/Linux_Defender_For_Ubuntu
+https://github.com/seanpm2001/Linux_Defender_For_Alpine_Linux
+
+//// OpenGov
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (2)
+
+//// OpenGov main (1)
+
+https://github.com/seanpm2001/OpenGov
+
+//// OpenGov components (1)
+
+https://github.com/seanpm2001/OpenGovernment_Voter
+
+//// MCPYE
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (6)
+
+//// MCPYE main (1)
+
+https://github.com/seanpm2001/MCPYE
+
+//// MCPYE documentation (1)
+
+https://github.com/seanpm2001/MCPYE_Docs
+
+//// MCPYE command language (1)
+
+https://github.com/seanpm2001/MCPYE_CommandLanguage
+
+//// MCPYE Ports (1)
+
+https://github.com/seanpm2001/MCPYE-Snap //// (former fork)
+
+//// MCPYE Wiki (1)
+
+https://github.com/seanpm2001/MCPYE_Wiki_2021
+
+
+//// Meadows
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (39)
+
+//// Meadows main (2)
+
+https://github.com/seanpm2001/Meadows
+https://github.com/seanpm2001/qMeadows
+
+//// Meadows documentation (3)
+
+https://github.com/seanpm2001/Meadows_2010sDocumentation
+https://github.com/seanpm2001/Meadows_2020sDocumentation
+https://github.com/seanpm2001/Meadows_Docs
+
+//// Meadows file systems (1)
+
+https://github.com/seanpm2001/QMEFS
+
+//// Meadows components (4)
+
+https://github.com/seanpm2001/Meadows_Begin
+https://github.com/seanpm2001/Meadows-Network-Troubleshooter
+https://github.com/seanpm2001/qMeadows_fileCabinet
+https://github.com/seanpm2001/Meadows_WebMode
+
+//// Meadows programs (4)
+
+https://github.com/seanpm2001/Meadows_Programs
+https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter
+https://github.com/seanpm2001/Meadows_Programs_Clock_and_Calendar
+https://github.com/seanpm2001/Meadows_Emergency-Alert-System
+
+//// Meadows general modules (8)
+
+https://github.com/seanpm2001/Meadows_Modules
+https://github.com/seanpm2001/Meadows_Mod_Battery_and_power
+https://github.com/seanpm2001/Meadows_Mod_Settings
+https://github.com/seanpm2001/Meadows_Mod_Drives
+https://github.com/seanpm2001/Meadows_Mod_Installation_and_Setup
+https://github.com/seanpm2001/Meadows_Mod_NotificationCenter
+https://github.com/seanpm2001/Meadows_Mod_ModeManager
+https://github.com/seanpm2001/Meadows_Mod_Mode_VM_center_mode
+
+//// Meadows general settings (1)
+
+https://github.com/seanpm2001/Meadows_Settings_Screensaver
+
+//// Meadows profile modules (2)
+
+https://github.com/seanpm2001/Meadows_Mod_Profile
+https://github.com/seanpm2001/Meadows_Mod_Profile_User_Stats
+
+//// Meadows developer modules (1)
+
+https://github.com/seanpm2001/Meadows_DevMod_pre-development_files
+
+//// Meadows legacy modules (9)
+
+https://github.com/seanpm2001/Meadows_Mod_Legacy
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Rate
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Aspect_Ratio
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Speed
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Quality
+https://github.com/seanpm2001/Meadows_Mod_Legacy_System_Graphics
+https://github.com/seanpm2001/Meadows_Mod_Legacy_RAM
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Image_Quality
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Color-mode
+
+//// Meadows UI (2)
+
+https://github.com/seanpm2001/Meadows_Scroll_Engine
+https://github.com/seanpm2001/Meadows_UI_Mode
+
+//// Meadows templates (2)
+
+https://github.com/seanpm2001/Template_Meadows_V1
+https://github.com/seanpm2001/Template_Meadows_V2
+
+//// Meadows websites (1)
+
+https://github.com/seanpm2001/QMeadows-development.github.io //// (former fork)
+
+//// MetroTechno
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (8)
+
+//// MetroTechno main (1)
+
+https://github.com/seanpm2001/MetroTechno
+
+//// MetroTechno subsystems (7)
+
+https://github.com/seanpm2001/MetroTechno_Core
+https://github.com/seanpm2001/MetroTechno_TrafficLight
+https://github.com/seanpm2001/MetroTechno_Crosswalk
+https://github.com/seanpm2001/MetroTechno_ParkingMeter
+https://github.com/seanpm2001/MetroTechno_SpeedSign
+https://github.com/seanpm2001/MetroTechno_SpeedViolations
+https://github.com/seanpm2001/MetroTechno_IncidentReporter
+
+//// End of file
+
 //// NetM
 //// As of 2021, Wednesday October 6th
 //// GitHub (3)
@@ -1732,6 +2207,22 @@ https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS
 https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo
 https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax
 https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap
+
+//// SNU 0D mode
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (3)
+
+//// SNU 0D Main (1)
+
+https://github.com/seanpm2001/SNU_0DMode
+
+//// SNU 0D Homepage (1)
+
+https://github.com/seanpm2001/SNU_0D
+
+//// SNU 0D Website (1)
+
+https://github.com/seanpm2001/SNU-0D.github.io //// (fork)
 
 //// SNU 2D Programming Tools
 //// As of 2023, Wednesday, August 16th
@@ -2318,6 +2809,50 @@ https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Noop
 https://github.com/seanpm2001/The-REAL-Data-Liberation-Front
 https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs
 
+//// UCALC
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (2)
+
+//// UCALC main (1)
+
+https://github.com/seanpm2001/UCALC
+
+//// UCALC ports (1)
+
+https://github.com/seanpm2001/UltimateCalculator-Snap //// (fork)
+
+//// uOffice
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (6)
+
+//// uOffice main (1)
+
+https://github.com/seanpm2001/uOffice
+
+//// uOffice documentation (0)
+
+//// Coming soon
+
+//// uOffice components (1)
+
+https://github.com/seanpm2001/uOffice_SpellCheck
+
+//// uOffice software LIBraries (1)
+
+https://github.com/seanpm2001/uOffice_LIBrary_DVCS
+
+//// uOffice joke programs (1)
+
+https://github.com/seanpm2001/uOffice_JokePrograms_PieMan
+
+//// uOffice ports (1)
+
+https://github.com/seanpm2001/uOffice-Snap //// (fork)
+
+//// uOffice website (1)
+
+https://github.com/seanpm2001/uOffice.github.io //// (former fork)
+
 //// WacOS home
 //// As of 2023, Monday, April 17th
 //// GitHub (1)
@@ -2618,8 +3153,16 @@ https://github.com/seanpm2001/YKDefender_Docs
 https://github.com/seanpm2001/YKDefender-Snap (fork)
 https://github.com/seanpm2001/YKDefender.github.io (former fork)
 
+//// Zag
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (1)
+
+//// Zag main (1)
+
+https://github.com/seanpm2001/Zag
+
 //// File info
-//// File version: 2 (2023, Tuesday, August 22nd at 01:47 pm PST)
-//// Line count (including blank lines and compiler line): 2,626
+//// File version: 3 (2023, Tuesday, August 22nd at 04:58 pm PST)
+//// Line count (including blank lines and compiler line): 3,169
 
 //// End of file (EOF)
