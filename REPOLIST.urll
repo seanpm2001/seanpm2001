@@ -4,18 +4,89 @@
 //// An attempt to make a REPOLIST file of all of my source repositories
 //// To calculate the total, press CTRL + F, type `https://github.com/seanpm2001` and reduce 2 from the given total
 
-//// Current total: 2053 / 3843 (as of 2023, Friday, August 18th) (53.32%)
+//// Current total: 2289 / 3855 (as of 2023, Tuesday, August 22nd) (059.37%)
 //// This list is incomplete
 
+//// Import
+//// AI2001 : AI2001/AI2001_REPOLIST.urll (last updated: 2023, August 22nd)
+//// Android x128 : Android-x128/REPOLIST.urll
+//// Android x32 : Android-x32/REPOLIST.urll
+//// Android x32x64 : Android-x32x64/REPOLIST.urll
+//// Android x64 : Android-x64/REPOLIST.urll
+//// Bliss Browser : Bliss-Browser/Bliss_Browser_REPOLIST.urll {
+//// - Bliss Browser main
+//// - Bliss Browser core
+//// - Bliss Browser support modules
+//// - Bliss Browser OSMode ports
+//// - Bliss Browser OSMode components
+//// - Bliss Browser Language support
+//// }
+//// Candroid : Candroid/REPOLIST.urll
+//// DeGoogle-your-Life : DeGoogle-your-Life/REPO_LIST.urll
+//// Go!gle : 
+//// Learn : Learn/Learn_REPOLIST.urll
+//// LennyOS : LennyOS/LennyOS_REPOLIST.urll
+//// NetM :
+//// NUNIX : NUNIX/NUNIX_REPOLIST.urll
+//// SDE MobileServer : SDE_MobileServer/SDE_MobileServer_REPOLIST.urll {
+//// - SDE MobileServer Main
+//// - SDE MobileServer Core
+//// - SDE MobileServer OSPorts
+//// - SDE MobileServer Plugins
+//// }
+//// SNU 2D Programming Tools : 
+//// The REAL Data Liberation Front
+//// WacOS {
+//// - WacOS home
+//// - WacOS Docs
+//// - WacOS BaSYS
+//// - WacOS BaSYS Software
+//// - WacOS Legacy Applications
+//// - Classic WacOS
+//// - wOS
+//// - wOS Software
+//// - whyPhoneOS
+//// - whyPhoneOS software
+//// - whyPadOS
+//// - whyPadOS software
+//// - WacTVOS
+//// - WacTVOS software
+//// - WacOS X
+//// - WacOS X software
+//// - WOAHS-X
+//// - WOAHS-X software
+//// - WacOS Modern
+//// - WacOS Modern Software
+//// - Sir Isaac NewtonOS
+//// - WacOS OpenCyberdog
+//// - WacOS Savannah
+//// - WacOS Languages
+//// - WacOS Kiri
+//// - WacOS Wiki
+//// - OnESTEP
+//// - WacOS OpenGS
+//// - WacOS Sherman
+//// - WAMMY
+//// - WacOS Cloud
+//// - WhyWatchOS
+//// - WhyWatchOS software
+//// - WacOS API
+//// - iCandy
+//// - WacOS DOS Mode
+//// - WacOS Drivers
+//// - WacOS File Systems
+//// - WacOS Hardware
+//// }
+//// YKDefender :
+
 //// Major todo
-//// Bliss Browser (no REPOLIST file found)
 //// Meadows (no REPOLIST file found)
-//// SDE MobileServer (no REPOLIST file found)
+//// Hundreds of projects need to be separated into lists, and set for inclusion.
 //// Other projects
 
 //// AI2001
-//// As of 2023, Friday, August 18th
-//// GitHub (327)
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (337)
 https://github.com/seanpm2001/AI2001
 https://github.com/seanpm2001/AI2001_Docs
 https://github.com/seanpm2001/AI2001_Category-Documents
@@ -343,6 +414,14 @@ https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Rascal
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Scheme
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CommonLisp
 https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Cool
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CommonWorkflowLanguage
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Closure-Templates
+https://github.com/seanpm2001/AI2001_API
+https://github.com/seanpm2001/Awesome-AI2001
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Classic-ASP
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-CUE
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Ballerina
+https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-BASIC
 
 //// Android x128
 //// As of 2022, Tuesday, November 22nd
@@ -591,6 +670,221 @@ https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition
 https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition
 https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition
 
+//// Bliss Browser
+//// As of 2023, Tuesday, August 22nd
+//// GitHub (199)
+
+//// Bliss Browser main (2)
+https://github.com/seanpm2001/Bliss_Browser
+https://github.com/seanpm2001/Bliss_Browser_Docs
+
+//// Bliss Browser core (4)
+https://github.com/seanpm2001/Bliss_Browser_Core
+https://github.com/seanpm2001/Bliss_Browser_Settings
+https://github.com/seanpm2001/Bliss_Browser_Installer
+https://github.com/seanpm2001/Bliss_Browser_Uninstaller
+
+//// Bliss Browser support modules (53)
+https://github.com/seanpm2001/Bliss_Browser_VideoPlayer
+https://github.com/seanpm2001/Bliss_Browser_PDFMode
+https://github.com/seanpm2001/Bliss_Browser_ImageViewer
+https://github.com/seanpm2001/Bliss_Browser_AudioPlayer
+https://github.com/seanpm2001/Bliss_Browser_Tabs
+https://github.com/seanpm2001/Bliss_Browser_Themes
+https://github.com/seanpm2001/Bliss_Browser_SearchEngines
+https://github.com/seanpm2001/Bliss_Browser_DocumentViewer
+https://github.com/seanpm2001/Bliss_Browser_EPUBMode
+https://github.com/seanpm2001/Bliss_Browser_Fonts
+https://github.com/seanpm2001/Bliss_Browser_Onion
+https://github.com/seanpm2001/Bliss_Browser_OnionRouter
+https://github.com/seanpm2001/Bliss_Browser_JQuery
+https://github.com/seanpm2001/Bliss_Browser_RSS
+https://github.com/seanpm2001/Bliss_Browser_AtomFeed
+https://github.com/seanpm2001/Bliss_Browser_OpenGL
+https://github.com/seanpm2001/Bliss_Browser_Acid1
+https://github.com/seanpm2001/Bliss_Browser_Acid2
+https://github.com/seanpm2001/Bliss_Browser_Acid3
+https://github.com/seanpm2001/Bliss_Browser_Notification-Manager
+https://github.com/seanpm2001/Bliss_Browser_Theme-Maker
+https://github.com/seanpm2001/Bliss_Browser_Addon-Studio
+https://github.com/seanpm2001/Bliss_Browser_XUL_Support
+https://github.com/seanpm2001/Bliss_Browser_Popup-Manager
+https://github.com/seanpm2001/Bliss_Browser_WebGL
+https://github.com/seanpm2001/Bliss_Browser_Bookmarks
+https://github.com/seanpm2001/Bliss_Browser_Reload
+https://github.com/seanpm2001/Bliss_Browser_History
+https://github.com/seanpm2001/Bliss_Browser_Import-from-another-browser
+https://github.com/seanpm2001/Bliss_Browser_Screenshot-Tool
+https://github.com/seanpm2001/Bliss_Browser_Redirection
+https://github.com/seanpm2001/Bliss_Browser_Data-Manager
+https://github.com/seanpm2001/Bliss_Browser_Cookie-Jar
+https://github.com/seanpm2001/Bliss_Browser_SNU-Addon
+https://github.com/seanpm2001/Bliss_Browser_Safe-Mode
+https://github.com/seanpm2001/Bliss_Browser_File-Manager
+https://github.com/seanpm2001/Bliss_Browser_Pocket-Addon
+https://github.com/seanpm2001/Bliss_Browser_Account-Manager
+https://github.com/seanpm2001/Bliss_Browser_Password-Manager
+https://github.com/seanpm2001/Bliss_Browser_MFA-Client
+https://github.com/seanpm2001/Bliss_Browser_XMPP
+https://github.com/seanpm2001/Bliss_Browser_AJAX
+https://github.com/seanpm2001/Bliss_Browser_Widgets
+https://github.com/seanpm2001/Bliss_Browser_Favicon
+https://github.com/seanpm2001/Bliss_Browser_DoNotTrack
+https://github.com/seanpm2001/Bliss_Browser_Allocation
+https://github.com/seanpm2001/Bliss_Browser_Page-Inspector
+https://github.com/seanpm2001/Bliss_Browser_HTTP
+https://github.com/seanpm2001/Bliss_Browser_Torrent
+https://github.com/seanpm2001/Bliss_Browser_MobiMode
+https://github.com/seanpm2001/Bliss_Browser_Game-Tools
+https://github.com/seanpm2001/Bliss_Browser_Performance-Monitor
+https://github.com/seanpm2001/Bliss_Browser_Task-Manager
+
+//// Bliss Browser OSMode ports (36)
+https://github.com/seanpm2001/Bliss_Browser_OSMode
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Fedora-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Gentoo-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode-DragonflyBSD-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode-Arch-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode-LFS-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode-Meadows-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode-Windows-NT-Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_MacOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_iOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_iPadOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_WacOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_NixOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Android_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_FireOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-10_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-11_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_ReactOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Windows-XP_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Puppy-Linux_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_OpenSUSE_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_FreeBSD_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_NetBSD_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_OpenBSD_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Alpine-Linux_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Kubuntu_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Lubuntu_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Xubuntu_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_ElementaryOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_RaspbianOS_Shell
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Manjaro_Shell
+
+//// Bliss Browser OSMode components (5)
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Settings
+https://github.com/seanpm2001/Bliss_Browser_OSMode_FileManager
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Bootloader
+https://github.com/seanpm2001/Bliss_Browser_OSMode_AppMenu
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Desktop
+
+//// Bliss Browser Language Support (99)
+https://github.com/seanpm2001/Bliss_Browser_Languages
+https://github.com/seanpm2001/Bliss_Browser_ActionServerPages
+https://github.com/seanpm2001/Bliss_Browser_ActionServerPagesDotNET
+https://github.com/seanpm2001/Bliss_Browser_ActionScript
+https://github.com/seanpm2001/Bliss_Browser_Astro
+https://github.com/seanpm2001/Bliss_Browser_Blade
+https://github.com/seanpm2001/Bliss_Browser_BrightScript
+https://github.com/seanpm2001/Bliss_Browser_BrighterScript
+https://github.com/seanpm2001/Bliss_Browser_Crystal
+https://github.com/seanpm2001/Bliss_Browser_CSS
+https://github.com/seanpm2001/Bliss_Browser_Dart
+https://github.com/seanpm2001/Bliss_Browser_Elm
+https://github.com/seanpm2001/Bliss_Browser_HTML
+https://github.com/seanpm2001/Bliss_Browser_JavaScript
+https://github.com/seanpm2001/Bliss_Browser_Less
+https://github.com/seanpm2001/Bliss_Browser_Mako
+https://github.com/seanpm2001/Bliss_Browser_Markdown
+https://github.com/seanpm2001/Bliss_Browser_MediaWiki
+https://github.com/seanpm2001/Bliss_Browser_PHP
+https://github.com/seanpm2001/Bliss_Browser_Processing.js
+https://github.com/seanpm2001/Bliss_Browser_Ruby
+https://github.com/seanpm2001/Bliss_Browser_SASS
+https://github.com/seanpm2001/Bliss_Browser_SCSS
+https://github.com/seanpm2001/Bliss_Browser_SGML
+https://github.com/seanpm2001/Bliss_Browser_Smarty
+https://github.com/seanpm2001/Bliss_Browser_Svelte
+https://github.com/seanpm2001/Bliss_Browser_TOML
+https://github.com/seanpm2001/Bliss_Browser_Twig
+https://github.com/seanpm2001/Bliss_Browser_TypeScript
+https://github.com/seanpm2001/Bliss_Browser_WebAssembly
+https://github.com/seanpm2001/Bliss_Browser_XML
+https://github.com/seanpm2001/Bliss_Browser_YAML
+https://github.com/seanpm2001/Bliss_Browser_Nunjucks
+https://github.com/seanpm2001/Bliss_Browser_Jinja
+https://github.com/seanpm2001/Bliss_Browser_JSON5
+https://github.com/seanpm2001/Bliss_Browser_JavaScript-Plus-Plus
+https://github.com/seanpm2001/Bliss_Browser_AngelScript
+https://github.com/seanpm2001/Bliss_Browser_Metal
+https://github.com/seanpm2001/Bliss_Browser_Roff
+https://github.com/seanpm2001/Bliss_Browser_XUL
+https://github.com/seanpm2001/Bliss_Browser_LiveScript
+https://github.com/seanpm2001/Bliss_Browser_AssemblyScript
+https://github.com/seanpm2001/Bliss_Browser_JScript
+https://github.com/seanpm2001/Bliss_Browser_JScript.NET
+https://github.com/seanpm2001/Bliss_Browser_JSharp
+https://github.com/seanpm2001/Bliss_Browser_CartoCSS
+https://github.com/seanpm2001/Bliss_Browser_Hack
+https://github.com/seanpm2001/Bliss_Browser_HAML
+https://github.com/seanpm2001/Bliss_Browser_Pug
+https://github.com/seanpm2001/Bliss_Browser_StrictYAML
+https://github.com/seanpm2001/Bliss_Browser_Pod
+https://github.com/seanpm2001/Bliss_Browser_Peg.js
+https://github.com/seanpm2001/Bliss_Browser_Liquid
+https://github.com/seanpm2001/Bliss_Browser_Handlebars
+https://github.com/seanpm2001/Bliss_Browser_Mustache
+https://github.com/seanpm2001/Bliss_Browser_HXML
+https://github.com/seanpm2001/Bliss_Browser_Google-Apps-Script
+https://github.com/seanpm2001/Bliss_Browser_Vue.js
+https://github.com/seanpm2001/Bliss_Browser_CoffeeScript
+https://github.com/seanpm2001/Bliss_Browser_FreeMarker
+https://github.com/seanpm2001/Bliss_Browser_Jsonnet
+https://github.com/seanpm2001/Bliss_Browser_Gherkin
+https://github.com/seanpm2001/Bliss_Browser_NGinx
+https://github.com/seanpm2001/Bliss_Browser_Reason
+https://github.com/seanpm2001/Bliss_Browser_ReasonML
+https://github.com/seanpm2001/Bliss_Browser_ReScript
+https://github.com/seanpm2001/Bliss_Browser_reStructuredText
+https://github.com/seanpm2001/Bliss_Browser_Thrift
+https://github.com/seanpm2001/Bliss_Browser_ECMAScript
+https://github.com/seanpm2001/Bliss_Browser_Slim
+https://github.com/seanpm2001/Bliss_Browser_PureScript
+https://github.com/seanpm2001/Bliss_Browser_Bikeshed
+https://github.com/seanpm2001/Bliss_Browser_Bicep
+https://github.com/seanpm2001/Bliss_Browser_CSV
+https://github.com/seanpm2001/Bliss_Browser_Clojure
+https://github.com/seanpm2001/Bliss_Browser_HCL
+https://github.com/seanpm2001/Bliss_Browser_Hy
+https://github.com/seanpm2001/Bliss_Browser_HyPhy
+https://github.com/seanpm2001/Bliss_Browser_LOLCODE
+https://github.com/seanpm2001/Bliss_Browser_JSSS
+https://github.com/seanpm2001/Bliss_Browser_LiveCode
+https://github.com/seanpm2001/Bliss_Browser_Mallard
+https://github.com/seanpm2001/Bliss_Browser_NetREXX
+https://github.com/seanpm2001/Bliss_Browser_Singularity
+https://github.com/seanpm2001/Bliss_Browser_Earthly
+https://github.com/seanpm2001/Bliss_Browser_WebVTT
+https://github.com/seanpm2001/Bliss_Browser_XS
+https://github.com/seanpm2001/Bliss_Browser_Slash
+https://github.com/seanpm2001/Bliss_Browser_Antlers
+https://github.com/seanpm2001/Bliss_Browser_Gleam
+https://github.com/seanpm2001/Bliss_Browser_DogeScript
+https://github.com/seanpm2001/Bliss_Browser_ColdFusion
+https://github.com/seanpm2001/Bliss_Browser_ColdFusion-CFC
+https://github.com/seanpm2001/Bliss_Browser_WebIDL
+https://github.com/seanpm2001/Bliss_Browser_SugarSS
+https://github.com/seanpm2001/Bliss_Browser_ProtoBuf
+https://github.com/seanpm2001/Bliss_Browser_Zeek
+https://github.com/seanpm2001/Bliss_Browser_Bro
+https://github.com/seanpm2001/Bliss_Browser_RAML
+
 //// Candroid
 //// As of 2022, Wednesday, December 7th
 //// GitHub (28)
@@ -624,8 +918,8 @@ https://github.com/seanpm2001/Candroid-Voicemail
 https://github.com/seanpm2001/Candroid-Wallpaper
 
 //// DeGoogle your Life
-//// As of 2023, Friday, August 18th
-//// GitHub (194)
+//// As of 2023, Monday, August 22nd
+//// GitHub (196)
 https://github.com/seanpm2001/Degoogle-your-life
 https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
 https://github.com/seanpm2001/Google-security-issues
@@ -818,8 +1112,10 @@ https://github.com/seanpm2001/Why-you-should-stop-using-Google-Bard
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Waymo
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Apps
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Gears
-https://github.com/seanpm2001/Why-you-should-have-avoided-Google-ToolBar
 https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Sputnik
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Toolbar
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Flu-Trends
+https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Friends-Connect
 
 //// Go!gle
 //// As of 2020, Monday, August 24th
@@ -1401,6 +1697,41 @@ https://github.com/seanpm2001/NUNIX_MemoryManager
 https://github.com/seanpm2001/NUNIX-Ethics
 https://github.com/seanpm2001/NUNIX-Guidelines
 https://github.com/seanpm2001/NUNIX_MediaEssentials
+
+//// SDE MobileServer (24)
+//// As of 2023, Tuesday, August 22nd
+
+//// SDE MobileServer Main (2)
+https://github.com/seanpm2001/SDE_MobileServer
+https://github.com/seanpm2001/SDE_MobileServer_Docs
+
+//// SDE MobileServer Core (2)
+https://github.com/seanpm2001/SDE_MobileServer_Imager
+https://github.com/seanpm2001/SDE_MobileServer_TestZone
+
+//// SDE MobileServer OSPorts (6)
+https://github.com/seanpm2001/SDE_MobileServer_Android
+https://github.com/seanpm2001/SDE_MobileServer_FireOS
+https://github.com/seanpm2001/SDE_MobileServer_iPadOS
+https://github.com/seanpm2001/SDE_MobileServer_iOS
+https://github.com/seanpm2001/SDE_MobileServer_Ubuntu
+https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS
+
+//// SDE MobileServer Plugins (14)
+https://github.com/seanpm2001/SDE_MobileServer_PluginManager
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap
 
 //// SNU 2D Programming Tools
 //// As of 2023, Wednesday, August 16th
@@ -1992,13 +2323,13 @@ https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs
 //// GitHub (1)
 https://github.com/seanpm2001/WacOS
 
-//// Docs
+//// WacOS Docs
 //// As of 2023, Monday, April 17th
 //// GitHub (2)
 https://github.com/seanpm2001/WacOS_Docs
 https://github.com/seanpm2001/WacOS_ManPages
 
-//// BaSYS
+//// WacOS BaSYS
 //// As of 2023, Monday, April 17th
 //// GitHub (7)
 https://github.com/seanpm2001/WacOS_BaSYS
@@ -2009,7 +2340,7 @@ https://github.com/seanpm2001/WacOS_BaSYS_3
 https://github.com/seanpm2001/WacOS_BaSYS_2
 https://github.com/seanpm2001/WacOS_BaSYS_1
 
-//// BaSYS Software
+//// WacOS BaSYS Software
 //// As of 2023, Monday, April 17th
 //// GitHub (2)
 https://github.com/seanpm2001/WacOS_BaSYS_Software
@@ -2278,8 +2609,17 @@ https://github.com/seanpm2001/WacOS_OpenAPFS
 //// GitHub (1)
 https://github.com/seanpm2001/WacOS_Hardware_Blueprints
 
+//// YKDefender
+//// As of 2023, Tuesday, April 22nd
+//// GitHub (5)
+https://github.com/seanpm2001/YKDefender
+https://github.com/seanpm2001/YKDefenderVM
+https://github.com/seanpm2001/YKDefender_Docs
+https://github.com/seanpm2001/YKDefender-Snap (fork)
+https://github.com/seanpm2001/YKDefender.github.io (former fork)
+
 //// File info
-//// File version: 1 (2023, Fridsay, August 18th at 12:24 pm PST)
-//// Line count (including blank lines and compiler line): 2,286
+//// File version: 2 (2023, Tuesday, August 22nd at 01:47 pm PST)
+//// Line count (including blank lines and compiler line): 2,626
 
 //// End of file (EOF)
