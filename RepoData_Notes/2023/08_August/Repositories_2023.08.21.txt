@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Ballerina
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Ballerina category for AI2001, containing Ballerina programming language datasets
+
+AI2001_Category-Source_Code-SC-BASIC
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:BASIC category for AI2001, containing BASIC programming language datasets
+
+Why-you-should-have-avoided-Google-Flu-Trends
+
+🚫️📃️🚫️ An article on the problems with the Google Flu Trends, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Friends-Connect
+
+🚫️📃️🚫️ An article on the problems with Google Friends Connect, and why it should have been avoided.
+
+Objective-JSharp_Docs
+
+⭕️🇯#️⃣️📖️ The official documentation source repository for the Objective-J# experimental programming language.
+
+Objective-JSharp_VSCode
+
+⭕️🇯#️⃣️🆚️ The official VSCode extension source repository for the Objective-J# experimental programming language.
+

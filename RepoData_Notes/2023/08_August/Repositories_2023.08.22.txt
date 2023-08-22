@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-Befunge
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Befunge category for AI2001, containing Befunge programming language datasets
+
+AI2001_Category-Source_Code-SC-Berry
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Berry category for AI2001, containing Berry programming language datasets
+
+NUNIX-Docs
+
+🧠️📖️ The official documentation source repository for the NUNIX Neural Operating System project.
+
+NUNIX_HAP
+
+🧠️💾️ Defining and creating Human Applicable Programs (HAP files) for use in the NUNIX Neural Operating System project.
+
+Objective-CSharp_Docs
+
+⭕️🇨#️⃣️📖️ The official documentation source repository for the Objective-C# experimental programming language.
+
+Objective-CSharp_VSCode
+
+⭕️🇨#️⃣️🆚️ The official VSCode extension source repository for the Objective-C# experimental programming language.
+

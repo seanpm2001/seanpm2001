@@ -1,0 +1,17 @@
+
+AI2001_Category-Source_Code-SC-CommonWorkflowLanguage
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:CommonWorkflowLanguage category for AI2001, containing Common Workflow Language programming language datasets
+
+AI2001_Category-Source_Code-SC-Closure-Templates
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Closure-Templates category for AI2001, containing Closure Templates programming language datasets
+
+AI2001_API
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🔵️🟤️ The API for the AI2001 Artificial Intelligence software suite.
+
+Awesome-AI2001
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️🕶️📜️ The (currently low tier, but official) Awesome List for AI2001.
+
