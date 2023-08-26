@@ -1,0 +1,93 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: Meadows_REPOLIST.urll
+//// URL list for Meadows repositories
+//// 39 total repository links (as of 2023, Tuesday, August 22nd at 04:39 pm PST), Version 1.
+//// Note: MEDOS is not included into this count.
+
+//// Meadows main (2)
+
+https://github.com/seanpm2001/Meadows
+https://github.com/seanpm2001/qMeadows
+
+//// Meadows documentation (3)
+
+https://github.com/seanpm2001/Meadows_2010sDocumentation
+https://github.com/seanpm2001/Meadows_2020sDocumentation
+https://github.com/seanpm2001/Meadows_Docs
+
+//// Meadows file systems (1)
+
+https://github.com/seanpm2001/QMEFS
+
+//// Meadows components (4)
+
+https://github.com/seanpm2001/Meadows_Begin
+https://github.com/seanpm2001/Meadows-Network-Troubleshooter
+https://github.com/seanpm2001/qMeadows_fileCabinet
+https://github.com/seanpm2001/Meadows_WebMode
+
+//// Meadows programs (4)
+
+https://github.com/seanpm2001/Meadows_Programs
+https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter
+https://github.com/seanpm2001/Meadows_Programs_Clock_and_Calendar
+https://github.com/seanpm2001/Meadows_Emergency-Alert-System
+
+//// Meadows general modules (8)
+
+https://github.com/seanpm2001/Meadows_Modules
+https://github.com/seanpm2001/Meadows_Mod_Battery_and_power
+https://github.com/seanpm2001/Meadows_Mod_Settings
+https://github.com/seanpm2001/Meadows_Mod_Drives
+https://github.com/seanpm2001/Meadows_Mod_Installation_and_Setup
+https://github.com/seanpm2001/Meadows_Mod_NotificationCenter
+https://github.com/seanpm2001/Meadows_Mod_ModeManager
+https://github.com/seanpm2001/Meadows_Mod_Mode_VM_center_mode
+
+//// Meadows general settings (1)
+
+https://github.com/seanpm2001/Meadows_Settings_Screensaver
+
+//// Meadows profile modules (2)
+
+https://github.com/seanpm2001/Meadows_Mod_Profile
+https://github.com/seanpm2001/Meadows_Mod_Profile_User_Stats
+
+//// Meadows developer modules (1)
+
+https://github.com/seanpm2001/Meadows_DevMod_pre-development_files
+
+//// Meadows legacy modules (9)
+
+https://github.com/seanpm2001/Meadows_Mod_Legacy
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Rate
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Aspect_Ratio
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Speed
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Quality
+https://github.com/seanpm2001/Meadows_Mod_Legacy_System_Graphics
+https://github.com/seanpm2001/Meadows_Mod_Legacy_RAM
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Image_Quality
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Color-mode
+
+//// Meadows UI (2)
+
+https://github.com/seanpm2001/Meadows_Scroll_Engine
+https://github.com/seanpm2001/Meadows_UI_Mode
+
+//// Meadows templates (2)
+
+https://github.com/seanpm2001/Template_Meadows_V1
+https://github.com/seanpm2001/Template_Meadows_V2
+
+//// Meadows websites (1)
+
+https://github.com/seanpm2001/QMeadows-development.github.io //// (former fork)
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:39 pm PST)
+//// Line count (including blank lines and compiler line): 93
+
+//// End of file
+

@@ -1,0 +1,24 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: NUNIX_REPOLIST.urll
+//// URL list for NUNIX repositories
+//// 5 total repository links (as of 2023, Tuesday, May 23rd at 8:28 pm PST), Version 2
+//// A revival of this project started on 2023, Monday, May 22nd. It is expected to continue consecutively for one more day before new repositories go on hiatus again.
+//// The next revival will start on 2023, June 22nd.
+
+//// GitHub (5)
+
+https://github.com/seanpm2001/NUNIX
+https://github.com/seanpm2001/NUNIX_SurvivalMode
+https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE
+https://github.com/seanpm2001/NUNIX_SurvivalMode_Docs
+https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety
+
+//// GitLab (0)
+
+//// File info
+//// File version: 2 (2023, Tuesday, May 23rd at 8:28 pm PST)
+//// Line count (including blank lines and compiler line): 24
+
+//// End of file (EOF)
+

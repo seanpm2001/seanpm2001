@@ -1,0 +1,46 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: SDE_MobileServer_REPOLIST.urll
+//// URL list for SDE MobileServer repositories
+//// 24 total repository links (as of 2023, Tuesday, August 22nd at 01:40 pm PST), Version 1.
+//// Note: SDE itself is not included into this count.
+
+//// SDE MobileServer Main (2)
+https://github.com/seanpm2001/SDE_MobileServer
+https://github.com/seanpm2001/SDE_MobileServer_Docs
+
+//// SDE MobileServer Core (2)
+https://github.com/seanpm2001/SDE_MobileServer_Imager
+https://github.com/seanpm2001/SDE_MobileServer_TestZone
+
+//// SDE MobileServer OSPorts (6)
+https://github.com/seanpm2001/SDE_MobileServer_Android
+https://github.com/seanpm2001/SDE_MobileServer_FireOS
+https://github.com/seanpm2001/SDE_MobileServer_iPadOS
+https://github.com/seanpm2001/SDE_MobileServer_iOS
+https://github.com/seanpm2001/SDE_MobileServer_Ubuntu
+https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS
+
+//// SDE MobileServer Plugins (14)
+https://github.com/seanpm2001/SDE_MobileServer_PluginManager
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_XMPP
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MdBook
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 01:40 pm PST)
+//// Line count (including blank lines and compiler line): 46
+
+//// End of file
+

@@ -1,0 +1,26 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: BathHouseOS_REPOLIST.urll
+//// URL list for BathHouseOS repositories
+//// 3 total repository links (as of 2023, Tuesday, August 22nd at 04:19 pm PST), Version 1.
+//// Note: UriOS, MaprilOS, and others are not included in this listing
+
+//// BathHouseOS main (1)
+
+https://github.com/seanpm2001/BathHouseOS
+
+//// BathHouseOS core (1)
+
+https://github.com/seanpm2001/BathHouseOS_Core_ControlPanel
+
+//// BathHouseOS documentation (1)
+
+https://github.com/seanpm2001/BathHouseOS_Docs
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:19 pm PST)
+//// Line count (including blank lines and compiler line): 26
+
+//// End of file
+

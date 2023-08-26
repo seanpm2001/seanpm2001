@@ -1,0 +1,33 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: MCPYE_REPOLIST.urll
+//// URL list for MCPYE repositories
+//// 6 total repository links (as of 2023, Tuesday, August 22nd at 04:34 pm PST), Version 1.
+
+//// MCPYE main (1)
+
+https://github.com/seanpm2001/MCPYE
+
+//// MCPYE documentation (1)
+
+https://github.com/seanpm2001/MCPYE_Docs
+
+//// MCPYE command language (1)
+
+https://github.com/seanpm2001/MCPYE_CommandLanguage
+
+//// MCPYE Ports (1)
+
+https://github.com/seanpm2001/MCPYE-Snap //// (former fork)
+
+//// MCPYE Wiki (1)
+
+https://github.com/seanpm2001/MCPYE_Wiki_2021
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:34 pm PST)
+//// Line count (including blank lines and compiler line): 33
+
+//// End of file
+

@@ -1,0 +1,27 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: MetroTechno_REPOLIST.urll
+//// URL list for MetroTechno repositories
+//// 8 total repository links (as of 2023, Tuesday, August 22nd at 04:17 pm PST), Version 1.
+
+//// MetroTechno main (1)
+
+https://github.com/seanpm2001/MetroTechno
+
+//// MetroTechno subsystems (7)
+
+https://github.com/seanpm2001/MetroTechno_Core
+https://github.com/seanpm2001/MetroTechno_TrafficLight
+https://github.com/seanpm2001/MetroTechno_Crosswalk
+https://github.com/seanpm2001/MetroTechno_ParkingMeter
+https://github.com/seanpm2001/MetroTechno_SpeedSign
+https://github.com/seanpm2001/MetroTechno_SpeedViolations
+https://github.com/seanpm2001/MetroTechno_IncidentReporter
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:17 pm PST)
+//// Line count (including blank lines and compiler line): 27
+
+//// End of file
+

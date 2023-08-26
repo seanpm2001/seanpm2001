@@ -1,0 +1,39 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: Linux_Defender_REPOLIST.urll
+//// URL list for Linux Defender repositories
+//// 14 total repository links (as of 2023, Tuesday, August 22nd at 04:28 pm PST), Version 1.
+
+//// Linux Defender main (1)
+
+https://github.com/seanpm2001/Linux_Defender
+
+//// Linux Defender documentation (1)
+
+https://github.com/seanpm2001/Linux-Defender_Docs
+
+//// Linux Defender Database (1)
+
+https://github.com/seanpm2001/Linux_Defender_YARA_CVE_Database
+
+//// Linux Defender ports (11)
+
+https://github.com/seanpm2001/Linux_Defender_For_Raspberry_Pi
+https://github.com/seanpm2001/Linux_Defender_For_Android
+https://github.com/seanpm2001/Linux_Defender_For_Fedora-Linux
+https://github.com/seanpm2001/Linux_Defender_For_Trisquel
+https://github.com/seanpm2001/Linux_Defender_For_RemixOS
+https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS
+https://github.com/seanpm2001/Linux_Defender_For_Arch_Linux
+https://github.com/seanpm2001/Linux_Defender_For_Debian
+https://github.com/seanpm2001/Linux_Defender_For_CentOS
+https://github.com/seanpm2001/Linux_Defender_For_Ubuntu
+https://github.com/seanpm2001/Linux_Defender_For_Alpine_Linux
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:28 pm PST)
+//// Line count (including blank lines and compiler line): 39
+
+//// End of file
+

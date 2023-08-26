@@ -1,0 +1,32 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: MEDOS_REPOLIST.urll
+//// URL list for MEDOS repositories
+//// 6 total repository links (as of 2023, Tuesday, August 22nd at 04:13 pm PST), Version 1.
+//// Note: Meadows is not included into this count.
+
+//// MEDOS Main (1)
+
+https://github.com/seanpm2001/MEDOS
+
+//// MEDOS mediums (3)
+
+https://github.com/seanpm2001/MEDOS_Floppy
+https://github.com/seanpm2001/MEDOS_HDD
+https://github.com/seanpm2001/MEDOS_SSD
+
+//// MEDOS album (1)
+
+https://github.com/seanpm2001/MEDOS_HDD_Beta4_Album
+
+//// MEDOS Remote Control (1)
+
+https://github.com/seanpm2001/MEDOS_AndroidApp
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:13 pm PST)
+//// Line count (including blank lines and compiler line): 32
+
+//// End of file
+

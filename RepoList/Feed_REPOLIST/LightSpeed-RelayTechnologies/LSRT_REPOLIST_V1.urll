@@ -1,0 +1,30 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: LSRT_REPOLIST.urll
+//// URL list for LightSpeed Relay Technologies repositories
+//// 6 total repository links (as of 2023, Tuesday, August 22nd at 04:35 pm PST), Version 1.
+
+//// LightSpeed Relay Technologies main (1)
+
+https://github.com/seanpm2001/LightSpeedRelayTechnology_Info
+
+//// LightSpeed Relay Documentation (1)
+
+https://github.com/seanpm2001/LightSpeed-Relay-Technologies_Docs
+
+//// LightSpeed Relay Technologies Database (2)
+
+https://github.com/seanpm2001/LightSpeedRelay_Database
+https://github.com/seanpm2001/LightSpeedRelay_DatabaseTools
+
+//// LightSpeed Relay Technologies communications (2)
+
+https://github.com/seanpm2001/LightSpeedRelay_WaitingRoom
+https://github.com/seanpm2001/LightSpeedRelayChat
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:35 pm PST)
+//// Line count (including blank lines and compiler line): 331
+//// End of file
+

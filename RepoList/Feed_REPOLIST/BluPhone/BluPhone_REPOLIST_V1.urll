@@ -1,0 +1,33 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: BluPhone_REPOLIST.urll
+//// URL list for BluPhone repositories
+//// 5 total repository links (as of 2023, Tuesday, August 22nd at 04:30 pm PST), Version 1.
+
+//// BluPhone main (1)
+
+https://github.com/seanpm2001/BluPhone
+
+//// BluPhone documentation (1)
+
+https://github.com/seanpm2001/BluPhone_Docs
+
+//// BluPhone operating system (1)
+
+https://github.com/seanpm2001/BluPhoneOS
+
+//// BluPhone ports (1)
+
+https://github.com/seanpm2001/BluPhone-Snap //// (fork)
+
+//// BluPhone website (1)
+
+https://github.com/seanpm2001/BluPhone.github.io //// (fork)
+
+//// File info:
+
+//// File version: 1 (2023, Tuesday, August 22nd at 04:30 pm PST)
+//// Line count (including blank lines and compiler line): 33
+
+//// End of file
+
