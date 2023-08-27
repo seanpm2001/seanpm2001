@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-BitBake
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:BitBake category for AI2001, containing BitBake programming language datasets
+
+AI2001_Category-Source_Code-SC-Blade
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Blade category for AI2001, containing Blade programming language datasets
+
+qMeadows_Docs
+
+🌆️🏞️📖️ The official documentation source repository for the Meadows Quantum Computer operaitng system.
+
+QMEFS_Docs
+
+🌠️🗄️📖️ The official documentation repository for the Quantum Meadows Eternal File System (QMEFS) used in the Meadows operating system.
+
+NUNIX-HAP_DreamScene
+
+🧠️💾️🪄️ The source repository for the NUNIX HAP, DreamScene; a software piece that manages, enhances, and records all dreams.
+
+NUNIX_Kernel
+
+🧠️🐧️💾️ The operating system kernel source repository for the NUNIX operating system project.
+

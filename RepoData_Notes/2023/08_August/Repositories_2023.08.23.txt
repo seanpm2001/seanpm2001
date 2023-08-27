@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-BibTeX
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:BibTeX category for AI2001, containing BibTeX programming language datasets
+
+AI2001_Category-Source_Code-SC-Bicep
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:Bicep category for AI2001, containing Bicep programming language datasets
+
+Objective-JPlusPlus_Docs
+
+⭕️🇯➕️➕️📖️ The official documentation source repository for the Objective-J++ experimental programming language.
+
+Objective-JPlusPlus_VSCode
+
+⭕️🇯➕️➕️🆚️ The official VSCode extension source repository for the Objective-J++ experimental programming language.
+
+Why-you-should-have-avoided-Google-Directory
+
+🚫️📃️🚫️ An article on the problems with the Google Directory, and why it should have been avoided.
+
+Why-you-should-have-avoided-Google-Express
+
+🚫️📃️🚫️ An article on the problems with Google Express, and why it should have been avoided.
+

@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-BLISS
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:BLISS category for AI2001, containing BLISS programming language datasets
+
+AI2001_Category-Source_Code-SC-BlitzBasic
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:BlitzBasic category for AI2001, containing BlitzBasic programming language datasets
+
+ChargeFX_Docs
+
+🎵️🔋️📖️ The official documentation source repository for the ChargeFX battery sound effect tool.
+
+FireDiamondSuite_Docs
+
+🔥️♦️📖️ The official documentation source repository for the Fire Diamond Suite (NFPA 704) assistance, training, and management tool.
+
+FreeGenie_Docs
+
+🆘️🗄️📖️ The official documentation source repository for the FreeGenie missing persons database and tracker for Linux.
+
+Frog-Mania_Docs
+
+🐸️🕹️📖️ The official documentation source repository for the Frog Mania video game project.
+
