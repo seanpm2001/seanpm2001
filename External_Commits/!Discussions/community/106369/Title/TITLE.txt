@@ -1,0 +1,1 @@
+[Enhancement] Make note in repository settings about Emoji skin tone being visible publicly #106369
