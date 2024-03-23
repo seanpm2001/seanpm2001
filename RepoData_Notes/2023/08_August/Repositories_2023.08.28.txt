@@ -1,0 +1,25 @@
+
+AI2001_Category-Source_Code-SC-BSDL
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:BSDL category for AI2001, containing BSDL programming language datasets
+
+AI2001_Category-Source_Code-SC-BlooP
+
+🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:BlooP category for AI2001, containing BlooP programming language datasets
+
+Economica_Docs
+
+💸️💰️📖️ The official documentation source repository for the Economica video game project.
+
+Egg-Org_Docs
+
+🥚️🏢️📖️ The official documentation repository for the Egg Org video game project, an open source alternative to Egg Inc.
+
+NexxFetch_Docs
+
+📟️🎛️📖️ The official documentation repository for NexxFetch, a neofetch-like implementation for web browsers.
+
+Pri-Fiy_Docs
+
+📡️📶️📖️ The official documentation repository for Pri-Fiy, a privacy friendly, decentralized Wi-Fi protocol alternative.
+
