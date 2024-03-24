@@ -4,9 +4,19 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ↑ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
+###### [Top](#Top)
+
+# [@Seanpm2001](https://github.com/seanpm2001/) on GitHub
+
+## Welcome to my GitHub profile
+
+<!-- Maybe make animated text !-->
+
+## [Lead](#Lead)
+
 ***
 
-###### Statistics
+###### Main statistics
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
@@ -26,242 +36,7 @@
 | ![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
 !-->
 
-***
-
-# 🏗️ REMODEL IN PROGRESS 🚧️
-
-<details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
-
-I am in the process of remodeling my GitHub profile page. Since I am not actively working on it, this may take a while. Remodeling started on 2024, Saturday March 23rd. I will not be implementing them today, as I am just brainstorming ideas for now. Here are my current goals
-
-- **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 1 day down, as of 2024, Saturday, May 23rd)_
-
-<details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
-
-```
-todo with seanpm2001/seanpm2001
-
-Résumé at top
-Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
-Best ever GitHub Stats A runs
-
-Improvements to guestbook display
-
-- Dropdown of people who have signed
-- More links
-
-GitHub social statistics section
-
-Follower milestones
-
-1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
-
-Notes about calendar
-Notes about municipalities, etc
-CCM (Commit Count Milestones) listing
-Many modifications to existing text throughout the document
-Condensing the list a little bit, through dropdowns
-Mention of RepoData
-Update to file tree (more entries, and condense new+existing ones)
-New translation methods
-No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
-Update to document limits
-Section about upcoming projects
-Some new generated statistics (experimental)
-Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
-More Emojis
-Information on project difficulties
-Information on complexity
-License information and CLA
-Projects I have contributed to (updates to this section)
-Politics and sexuality links, but not much information on this project alone
-George Floyd memorial and information on join dates for my online accounts
-Information on Takeout Tuesdays and the TRDLF
-Information about 2001, and the core region
-Information on Linux user groups (coming soon section)
-Awards (Saltine cracker)
-Information on GitHub profile achievements
-Region related software
-Dream projects (Meadows, Bliss Browser)
-Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
-A section about notable remodels, and links to affected versions (version ranges included)
-My setup
-More pictures (year 23 monument)
-Raspberry Pi information
-Sponsor information
-SeansOSData information
-Self hosting plans for the future
-Mastodon information
-Recent social media usage (Twitter deletion plans, Instagram account deleted)
-New style (custom headings, as images)
-Improvements to language translation process, and info on this
-AUTOMATE2001 information
-Centering various tables and text
-Internet status and speedtest link
-anti-Google | to go under: stances
-100 private repositories (as of 2024, Saturday, March 23rd)
-Labels
-Blockchain, web -3
-Information on forks, how to find source, and the problem with forks on GitHub
-Alt account info
-Discussions for /seanpm2001/seanpm2001/
-Getting started
-Favorite works
-Style guides
-FreeCodeCamp
-History research + my areas of research
-Wikipedia and Wikipedia accounts, with source
-Public domain gallery of myself
-Timeline (2015-2024)
-GitHub skyline 2024
-Succeeded by: Incumbent
-Preceeded by: Seanwallawalla <- SeanTRM
-Forks and browsing forks
-Tabs and tab video (plus a sample, speed it up if needed)
-My server and server plans + request for help
-GistHub
-Graphic design info (programs used)
-Virtual machine info
-Artificial Intelligence projects
-Anime section
-vCard and identification section (vCard may not be possible)
-My web stack
-Rework of index
-| Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
-New icon to center at the top
-New flags
-Government section
-Music section
-| AudioDB, bandcamp
-Certificates
-Learn repository
-Pets
-| Goats
-| Chickens
-| Horses
-| Fish
-| | Marine Biology repo
-| Dogs
-| Cats
-UnSaaSS project
-Add copyleft notice, and license notice (GPL3) to the footer, similar to your recent Favicon Pages projects.
-Add anchor links to all headings
-
-DIVIDE THE PAGE INTO MAJOR SECTIONS (MAJOR GOAL, EMPHASIZED)
-
-| Lead (header)
-| About me
-| | Life
-| | Technology
-| | | Statistics
-| | Family
-| | Friends
-| My projects
-| | My goals
-| | Documentation
-| About this page
-| Footer
-```
-
-**Implemented so far:**
-
-```
-Add copyleft notice, and license notice (GPL3) to the footer, similar to your recent Favicon Pages projects.
-
-Display this
-
-|``|`
-**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-|`|``|
-
-- 🔭 I’m currently working on _a variety of projects_
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: _[social media list, email]_
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: ...
-
-Radio section
-Ukraine message
-```
-
-</details>
-
----
-
-_End of remodel information_
-
-</details>
-
-***
-
-## Ukraine
-
-[![Stand With Ukraine banner failed to load](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://savelife.in.ua/en/)
-
-[Local image link](/Graphics/Ukraine/StandWithUkraine/banner2-direct.svg)
-
-<!-- Using this version, so that the source repository can detect another supporter !-->
-
-<!-- I feel this message was far overdue to be added to my profile. !-->
-
-![#StandWithUkraine](/Badges/U/Ukraine/StandWithUkraineBanner.svg)
-
-[`Wikipedia summary`](https://en.wikipedia.org/w/index.php?title=Russian_invasion_of_Ukraine&oldid=1215221241&useskin=monobook)
-
-> On 24 February 2022, Russia invaded Ukraine in an escalation of the Russo-Ukrainian War that started in 2014. The invasion became the largest attack on a European country since World War II. It is estimated to have caused tens of thousands of Ukrainian civilian casualties and hundreds of thousands of military casualties. By June 2022, Russian troops occupied about 20% of Ukrainian territory. From a population of 41 million in January 2022, about 8 million Ukrainians had been internally displaced and more than 8.2 million had fled the country by April 2023, creating Europe's largest refugee crisis since World War II. Extensive environmental damage caused by the war, widely described as an ecocide, contributed to food crises worldwide.
-
-[:octocat: `I will be listening to the Ukrainian National Anthem daily until the war ends. You can join me if you want to`](https://github.com/seanpm2001/SeansAudioDB/tree/master/Music/1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/2022/Daily/)
-
-***
-
-###### Overview statistics
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
-
-| Best of 2023 (as of 2023, May 20th) (overview) | (languages) |
-|---|---|
-| ![2022.05.20 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/11/SVG/overview_2023May20th.svg) | ![2022.05.20 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/11/SVG/languages_2023May20th.svg) |
-
-</details>
-
-<details><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
-
-| Best of 2023 (as of 2023, February 28th, first run this year) (overview) | (languages) |
-|---|---|
-| ![2022.02.28 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/8/SVG/Overview_GitHubStatsA_2023February28th.svg) | ![2022.02.28 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/8/SVG/Languages_GitHubStatsA_2023February28th.svg) |
-
-</details>
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
-
-| Best of 2022 (as of 2022, December 12th) (overview) | (languages) |
-|---|---|
-![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
-
-</details>
-
-Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/)
-
-</details>
-
----
-
-Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info)
+<details><summary><p><b>Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info) click/tap here to expand/collapse this section</b></p></summary>
 
 [All contributors (requires installation)](https://github.com/apps/allcontributors/installations/new)
 
@@ -367,209 +142,10 @@ To add your statistics to your GitHub Profile README, copy and paste the followi
 
 </details>
 
-***
-
-## GitHub profile template
-
-<details open><summary><p><b>[Click/tap here to expand/collapse the GitHub profile template section]</b></p></summary>
-
-```markdown
-**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
-
-- **Work in progress**
-
-- 🔭 I’m currently working on _a variety of projects_
-- 🌱 I’m currently learning _..._
-- 👯 I’m looking to collaborate on _..._
-- 🤔 I’m looking for help with _..._
-- 💬 Ask me about _..._
-- 📫 How to reach me: _[social media list, email](#404)_
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: _..._
-
-</details>
 
 ***
 
-##### Top
-
-⬆️ Above [(seanpm2001/seanpm2001)](https://github.com/seanpm2001/seanpm2001) - The repository hosting this profile README file
-
-<details open><summary><H3>🗄️ Explore this repo:</H3></summary>
-
-### GitHub:seanpm2001/seanpm2001
-
-Outdated, as of 2023, Friday, May 26th
-
-===
-
-📂 [ .github](/.github/.github_README.md) - The GitHub configuration folder.
-
-📂 [DailyStatus](/DailyStatus/README.md) - An archive of my daily status posts.
-
-📂 [Extermal](/Extermal/) - Stores external data (ProjectWiki, other)
-
-📂 [External](/External/) - Stores external data (ProjectWiki, other) this time with the correct name
-
-📂 [FFTechSupport](/FFTechSupport/) - Stores emergency tech support data, originally for Firefox.
-
-📂 [Fun stuff](/FunStuff/) - A collection of fun extras.
-
-📂 [GitHub Commits](/GitHub_Commits/) - Original location of [daily GitHub images](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub).
-
-📂 [Jumping Text](/JumpingText/) - Jumping text like the Minecraft title screen, only available if moddable through GitHub.
-
-📂 [Kiosk](/Kiosk/) - Various CSV Kiosk data for personal use.
-
-📂 [Media](/Media/) - Miscellaneous images used for the README file you are currently reading.
-
-📂 [Notes](/Notes/) - The original location of [daily GitHub notes](https://github.com/seanpm2001/Git-Templates/).
-
-📂 [OldVersions](/OldVersions/) - Old versions of the README file you are currently reading.
-
-📂 [Sandbox](/Sandbox/) - A test sandbox for testing out certain GitHub functionality.
-
-📂 [Schedule](/Schedule/) - A collection of my schedules.
-
-📂 [Special](/Special/) - Stores special project data
-
----
-
-📜 [.gitignore](.gitignore) - A random .gitignore file.
-
-📜 [.readme_update_plans.md](.readme_update_plans.md) - For plans regarding updating the README file (starting with version 9)
-
-📜 [CONTRIBUTING.md](CONTRIBUTING.md) - The `CONTRIBUTING.md` file for this project, containing info on how you can contribute.
-
-📜 [DRM-free_label.en.svg](DRM-free_label.en.svg) - The image file telling you that this project does not contain DRM.
-
-📜 [LANG1.py](LANG1.py) - The first project language file for this project.
-
-📜 [LANG1_V1.py](LANG1_V1.py) - An archive of the first version of the first project language file for this project.
-
-📜 [LANG2.html](LANG2.html) - The second project language file for this project.
-
-📜 [LANG2_V1.html](LANG2_V1.html) - An archive of the first version of the second project language file for this project.
-
-📜 [LICENSE.txt](LICENSE.txt) - The license for this project (GNU General Public License v3.0)
-
-📜 [README.md](README.md) - The README file you are currently reading. (clicking this link will likely reload the page)
-
-📜 [SECRET.md](SECRET.md) - Original text of the GitHub profile secret.
-
-📜 [SeniorPhotoFullQuality.jpeg](SeniorPhotoFullQuality.jpeg) - The full version of my senior photo, used as my profile picture.
-
-📜 [SponsorButton.png](SponsorButton.png) - A graphical copy of the sponsor button for this project.
-
-===
-
-</details>
-
-***
-
-## Legend
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- :octocat: - Indicates that a link is directed at [`https://github.com/`](https://github.com/)
-- Legend is incomplete.
-
-</details>
-
-***
-
-## Repository of the day (coming soon)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have plans to make a featured Repoitory of the Day table here, but it would require a lot of time with GitHub workflows, and determining which repositories should be featured.
-
-**Plans:**
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-```
-Top 6 projects of the day @seanpm2001/seanpm2001
-
-2,190 (normal year) to 2,196 (leap year) repos per year
-
-GitHub action that automatically updates this list
-```
-
-</details>
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-| 1/2 | 3/4 | 5/6 |
-|---|---|---|
-| [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `MCPYE`](https://github.com/seanpm2001/MCPYE/) | [:octocat: `GoDot Launcher`](https://github.com/seanpm2001/GoDot_Launcher/) |
-| [:octocat: `QMeadows`](https://github.com/seanpm2001/QMeadows/) [:octocat: `Malware as art`](https://github.com/seanpm2001/Malware-as-art/) | [:octocat: `UCALC`](https://github.com/seanpm2001/UCALC/) |
-
-</details>
-
-These will be the featured repositories for the time being.
-
-</details>
-
-***
-
-## Guestbook
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-| ![animated-book-image.gif](/Graphics/Guestbook/GIF/animated-book-image.gif) | 
-|---|
-| [:octocat: `Sign the guestbook`](https://github.com/seanpm2001/Guestbook/discussions/new/choose) |
-
-This guestbook is for basic interaction, and communications. For further communication, try [looking for a form of communication here](#Identity-theft)
-
-</details>
-
-## Documentation
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-# [:octocat: `Core documentation repository`](https://github.com/seanpm2001/Documentation/)
-
-This is one of my most important repositories. It is a portal to all of my documentation repositories.
-
-</details>
-
-## README Usage
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**This README file is now being aimed to be a portal to everything I offer online. It is a work-in-progress, and is not yet fully complete. It is also something that will always be gradually updated every once in a while.**
-
-<details open><summary>[Click/tap here to expand/collapse info about my senior photo]</summary>
-	
-***
-	
-![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
-
-Current profile picture as of March 4th 2021 [Click here to download in full quality (JPEG)](SeniorPhotoFullQuality.jpeg) [Click here to see past profile pictures](#Profile-picture-history)
-
-If you have been sent here through a link through SMS (text messaging) congratulations! You are a close friend, and one of 73 people/bots who have access to my phone number and have been approved by me. If you would like, you can take a quick look at my [texting guidelines](https://github.com/seanpm2001/SMS-Messaging-with-Sean), or to put it simply: don't spam, don't share my number, and feel free to message me and send me anything at any time (even midnight, or 3:22 am) I likely won't respond immediately, but I will get to you when I am awake.
-
-</details>
-
-</details>
-
-***
-
-## Welcome to my GitHub profile <!--👋!-->
-
-### Administrator section
+# Administrator section
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -577,11 +153,9 @@ If you have been sent here through a link through SMS (text messaging) congratul
 
 </details>
 
-<!-- Start of translation segment !-->
-
 ***
 
-### Read this article in a different language
+# Read this article in a different language
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -590,6 +164,8 @@ _Read this article in a different language:_
 **Current language is:** `English (EN_US)` _(translations may need to be corrected to fix English replacing the correct language)_ <!-- TODO DEVNOTE: When translating, account for this one line !-->
 
 ***
+
+<!-- Start of translation segment !-->
 
 <details open><summary>[`Click/tap here to expand/collapse the language switcher list`](#Dropdown-executed-with-code-FF256x777-no-further-action-is-required)</H3></summary>
 
@@ -613,7 +189,7 @@ Due to maintenance issues, over 25 translations are out of date and are using Ve
 
 ***
 
-<details open><summary><p lang="en">Click/tap here to expand/collapse the flag guide section</p></summary>
+<details><summary><p lang="en">Click/tap here to expand/collapse the flag guide section</p></summary>
 
 🎌️ **Flag guide** 🎌️
 
@@ -667,55 +243,47 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 **Other notes:**
 
-⚠️ A language is missing: `Latvian`
-
-ℹ️ Possibly supporting the next 126 languages that are going to be added to Google Translate
-
-🗜️ Plans to automate this process with the [`@AUTOMATE2001`](https://github.com/AUTOMATE-2001) bot
-
-⛔️ Need to find a way to work with these languages on services other than Google Translate.
-
-⚠️ There might be noticeable lag in this section due to how many flag emojis are in use.
+- ⚠️ A language is missing: `Latvian`
+- ℹ️ Possibly supporting the next 126 languages that are going to be added to Google Translate
+- 🗜️ Plans to automate this process with the [`@AUTOMATE2001`](https://github.com/AUTOMATE-2001) bot
+- ⛔️ Need to find a way to work with these languages on services other than Google Translate.
+- ⚠️ There might be noticeable lag in this section due to how many flag emojis are in use.
 
 **Languages segment version:** `4 (2022, Monday, March 14th at 1:59 pm)`
 
 </details>
 
+***
+
+</details>
+
+_End of translation section._
+
+<!-- End of translation segment !-->
+
+***
+
+## Guestbook
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| ![animated-book-image.gif](/Graphics/Guestbook/GIF/animated-book-image.gif) | 
+|---|
+| [:octocat: `Sign the guestbook`](https://github.com/seanpm2001/Guestbook/discussions/new/choose) |
+
+This guestbook is for basic interaction, and communications. For further communication, try [looking for a form of communication here](#Identity-theft)
+
 </details>
 
 ***
 
-<!-- End of translation segment !-->
-
-[GitHub profile secret info](/SECRET.md)
-
-<!--
-**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-!-->
-
-I joined GitHub on 2020, Monday, May 25th to get my many projects out there. I am skilled in computer programming, and I have many interests. [Learn more about me here](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
-
-See my year in review for:
-
-[Year 1 (2020-2021)](/Special/Year-in-Review/2020-2021/) [Year 2 (2021-2022) **coming soon**](/Special/Year-in-Review/2021-2022/) 
-
-***
-
-## Index
+# Index
 
 <details open><summary><H3>[Click/tap here to expand/collapse the index]</H3></summary>
 
+Temporarily removed until a replacement is made
+
+<!--
 [00.0 - Top](#Top)
 
 > [00.1 - GitHub:seanpm2001/seanpm2001](#seanpm2001/seanpm2001)
@@ -907,6 +475,1765 @@ See my year in review for:
 > [33.9 - End of file](#End-of-file)
 
 [34.0 - Contributors ✨](#Contributors-)
+
+!-->
+
+</details>
+
+***
+
+## Ukraine
+
+[![Stand With Ukraine banner failed to load](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://savelife.in.ua/en/)
+
+[Local image link](/Graphics/Ukraine/StandWithUkraine/banner2-direct.svg)
+
+<!-- Using this version, so that the source repository can detect another supporter !-->
+
+<!-- I feel this message was far overdue to be added to my profile. !-->
+
+![#StandWithUkraine](/Badges/U/Ukraine/StandWithUkraineBanner.svg)
+
+[`Wikipedia summary`](https://en.wikipedia.org/w/index.php?title=Russian_invasion_of_Ukraine&oldid=1215221241&useskin=monobook)
+
+> On 24 February 2022, Russia invaded Ukraine in an escalation of the Russo-Ukrainian War that started in 2014. The invasion became the largest attack on a European country since World War II. It is estimated to have caused tens of thousands of Ukrainian civilian casualties and hundreds of thousands of military casualties. By June 2022, Russian troops occupied about 20% of Ukrainian territory. From a population of 41 million in January 2022, about 8 million Ukrainians had been internally displaced and more than 8.2 million had fled the country by April 2023, creating Europe's largest refugee crisis since World War II. Extensive environmental damage caused by the war, widely described as an ecocide, contributed to food crises worldwide.
+
+[:octocat: `I will be listening to the Ukrainian National Anthem daily until the war ends. You can join me if you want to`](https://github.com/seanpm2001/SeansAudioDB/tree/master/Music/1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/2022/Daily/)
+
+<!-- Section added 2024, Saturday, March 23rd !-->
+
+***
+
+# 🏗️ REMODEL IN PROGRESS 🚧️
+
+| 4 year anniversary update |
+|---------------------------|
+| Beta 3 - 2024, March 24th |
+| Final release day: 2024, May 25th |
+| Please report formatting bugs [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/) |
+
+<details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
+
+I am in the process of remodeling my GitHub profile page. Since I am not actively working on it, this may take a while. Remodeling started on 2024, Saturday March 23rd. I will not be implementing them today, as I am just brainstorming ideas for now. Here are my current goals
+
+- **Note to self:** _Feel free to add more entries whenever necessary_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 1 day down, as of 2024, Saturday, May 23rd)_
+
+<details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
+
+**Current tasks todo**
+
+<details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
+
+```
+todo with seanpm2001/seanpm2001
+
+Résumé at top
+Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
+Best ever GitHub Stats A runs
+
+Improvements to guestbook display
+
+- Dropdown of people who have signed
+- More links
+
+GitHub social statistics section
+
+Follower milestones
+
+1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
+
+Notes about calendar
+Notes about municipalities, etc
+CCM (Commit Count Milestones) listing
+Many modifications to existing text throughout the document
+Condensing the list a little bit, through dropdowns
+Mention of RepoData
+Update to file tree (more entries, and condense new+existing ones)
+New translation methods
+No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
+Update to document limits
+Section about upcoming projects
+Some new generated statistics (experimental)
+Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
+More Emojis
+Information on project difficulties
+Information on complexity
+License information and CLA
+Projects I have contributed to (updates to this section)
+Politics and sexuality links, but not much information on this project alone
+George Floyd memorial and information on join dates for my online accounts
+Information on Takeout Tuesdays and the TRDLF
+Information about 2001, and the core region
+Information on Linux user groups (coming soon section)
+Awards (Saltine cracker)
+Information on GitHub profile achievements
+Region related software
+Dream projects (Meadows, Bliss Browser)
+Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
+A section about notable remodels, and links to affected versions (version ranges included)
+My setup
+More pictures (year 23 monument)
+Raspberry Pi information
+Sponsor information
+SeansOSData information
+Self hosting plans for the future
+Mastodon information
+Recent social media usage (Twitter deletion plans, Instagram account deleted)
+New style (custom headings, as images)
+Improvements to language translation process, and info on this
+AUTOMATE2001 information
+Centering various tables and text
+Internet status and speedtest link
+anti-Google | to go under: stances
+100 private repositories (as of 2024, Saturday, March 23rd)
+Labels
+Blockchain, web -3
+Information on forks, how to find source, and the problem with forks on GitHub
+Alt account info
+Discussions for /seanpm2001/seanpm2001/
+Getting started
+Favorite works
+Style guides
+FreeCodeCamp
+History research + my areas of research
+Wikipedia and Wikipedia accounts, with source
+Public domain gallery of myself
+Timeline (2015-2024)
+Forks and browsing forks
+Tabs and tab video (plus a sample, speed it up if needed)
+My server and server plans + request for help
+GistHub
+Graphic design info (programs used)
+Virtual machine info
+Artificial Intelligence projects
+Anime section
+vCard and identification section (vCard may not be possible)
+My web stack
+Rework of index
+| Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+New icon to center at the top
+New flags
+Government section
+Music section
+| AudioDB, bandcamp
+Certificates
+Learn repository
+Pets
+| Goats
+| Chickens
+| Horses
+| Fish
+| | Marine Biology repo
+| Dogs
+| Cats
+UnSaaSS project
+Add anchor links to all headings
+Add local links to the best GitHub Stats A workflow runs
+```
+
+</details>
+
+**Implemented so far:**
+
+<details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
+
+```
+Add copyleft notice, and license notice (GPL3) to the footer, similar to your recent Favicon Pages projects.
+
+Display this
+
+|``|`
+**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+|`|``|
+
+- 🔭 I’m currently working on _a variety of projects_
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: _[social media list, email]_
+- 😄 Pronouns: _He/Him_
+- ⚡ Fun fact: ...
+
+Radio section
+Ukraine message
+DIVIDE THE PAGE INTO MAJOR SECTIONS (MAJOR GOAL, EMPHASIZED)
+
+| Lead (header)
+| About me
+| | Life
+| | Technology
+| | | Statistics
+| | Family
+| | Friends
+| My projects
+| | My goals
+| | Documentation
+| About this page
+| Footer
+
+GitHub skyline 2024
+Succeeded by: Incumbent
+Preceeded by: Seanwallawalla <- SeanTRM
+Add local links to the best GitHub Stats A workflow runs
+```
+
+</details>
+
+</details>
+
+---
+
+_End of remodel information_
+
+</details>
+
+***
+
+# Legend
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- :octocat: - Indicates that a link is directed at [`https://github.com/`](https://github.com/)
+- Legend is incomplete.
+
+</details>
+
+```
+| Lead (header)
+| About me
+| | Life
+| | Technology
+| | | Statistics
+| | Family
+| | Friends
+| My projects
+| | My goals
+| | Documentation
+| About this page
+| Footer
+```
+
+***
+
+> **Note** Everything else on this page is collapsed, and under a dropdown menu. You must click/tap the sections to expand/collapse them
+
+# About me
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about me</b></p></summary>
+
+***
+
+## What I'm currently learning
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+It isn't exact, I have many interests. What I am always learning include:
+
+- World history
+- Computer Programming and computer history
+- The languages of the world (linguistics)
+- Virtualization
+- Solutions to major world problems
+- Pre-history
+- Psychology
+- Current world problems
+- Other (non-culinary)
+
+</details>
+
+***
+
+### What I'm looking to collaborate on
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I currently need a technical job. I am willing to work on any ethical computer project, as long as it is written in a language I know well (Python, HTML, Java, JavaScript, CSS, Lisp, Markdown, XML, Shell, or any/all of the ones listed)
+
+<details><summary>[Click/tap here to expand/collapse further collaboration info]</summary>
+
+***
+
+Companies I refuse to work for include:
+
+> Google
+
+> Facebook
+
+> Zoom technologies
+
+> Spectrum Enterprise
+
+> Clever
+
+> No other companies currently listed
+
+Companies I am currently considering include:
+
+> Microsoft [::] - I have some family that works here, and I have had a long past with Microsoft (all the way back to 2005) even though I consider some things Microsoft does as unethical, I wouldn't mind working here (I have a very strong personal experience with Microsoft products, notably Windows XP) If there are any jobs here that use Python, I can do them.
+
+> VideoLan /-\ - I would like to try and write documentation for VideoLan, I am very good at writing documentation, as I enjoy doing it, and I do it most of the day, every day. Currently, VideoLan is unable to have documentation writers due to low amounts of volunteers. If allowed, I will write documentation for every version of VLC that doesn't have it (only in English, I can't do other languages)
+
+> Canonical (&) - I would like to try and contribute to Linux in any way I can. Working at Canonical is currently an option, I don't know exactly what I would do here, but I could hopefully do something.
+
+> The KDE Foundation (K) - KDE would be a nice foundation to work for. I really love their super lightweight open source projects, and I could help reduce even more bloat. If a job is available in a language I have at least 40% knowledge in, I could work here.
+
+> Khan Academy (^) - I would like to help contribute to Khan Academy, I have used the site for nearly 4 years straight on a daily basis. If it would be possible to make videos and articles for them, I have always considered starting a course on virtualization.
+
+> The GNOME organization (G) - if possible, I could try and set some changes to reduce the huge memory usage of GNOME, that has always stuck out as something that needs to be fixed to me. It is still a lot better than Windows 10s memory usage, idle on Windows 10 would use half my RAM, no matter how much I had (4, 8, 16 GB) on my first Linux laptop, it has always stayed below 1.8 gigabytes when idle (also counting the system monitor)
+
+> No other companies currently listed
+
+</details>
+
+</details>
+
+***
+
+#### What I have collaborated on
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have collaborated on a few projects on GitHub, including
+
+<details><summary>[Click/tap here to expand/collapse the list of projects I have helped develop]</summary>
+	
+***
+	
+![/.github/projects/external/1/LinCity_NG.png](/.github/projects/external/1/LinCity_NG.png) - [LinCity NG](https://github.com/lincity-ng/lincity-ng/) - 100% issues (2020) - [1](https://github.com/lincity-ng/lincity-ng/issues/46)
+
+![/.github/projects/external/1/Ruffle_vector_logo.svg](/.github/projects/external/1/Ruffle_vector_logo.svg) [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - 100% code review (2021) [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177) [7](https://github.com/ruffle-rs/ruffle/pull/3819)
+
+![/Media/Firefox3.5_Logo.png](/Media/Firefox3.5_Logo.png) [Firefox Color](https://github.com/mozilla/FirefoxColor/) 100% issues (2021) [1](https://github.com/mozilla/FirefoxColor/issues/971/) (I am responsible for helping to push the change of adding better documentation to the project for non-extension developers)
+
+[Nea/Markdown++](https://github.com/nea/MarkdownViewerPlusPlus) 100% issues (2021) [1](https://github.com/nea/MarkdownViewerPlusPlus/issues/138)
+
+[Jmdugan/Blocklists](https://github.com/jmdugan/blocklists) 100% issues (2021) [1](https://github.com/jmdugan/blocklists/issues/80)
+
+</details>
+
+</details>
+
+***
+
+### What I'm looking to help with
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I will do free technical support for you, or programming related work in my scope of knowledge. I do this on my own time, so I can only help a certain amount of people a day. Before trying to ask for my technical support, try the following to troubleshoot:
+
+> `CTRL` + `Z` - Undoes your last mistake
+
+> Restart your computer
+
+I charge money for technical support ($5.00 per hour) if I have to do these steps more than 3 times in a year for 1 person.
+
+**Some limitations**
+
+I cannot do projects unless the scripts are on GitHub or SourceForge already.
+
+I also can't work on projects that are related to your school work. Please do not ask me to do your school work for you. We could both get in trouble for this.
+
+I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3, Java, C, C++, or JavaScript. I won't be able to help as well with projects written in other languages.
+
+No other limitations listed at the moment.
+
+</details>
+
+***
+
+## Other hobbies
+
+This is a list of my other hobbies
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+### Photography
+
+<img alt="Original photography profile picture failed to load. Click/tap here to attempt to view it" src="/Media/CameraIcon2.png" width="100"/> 
+
+I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
+
+### Swimming
+
+<img alt="Original swimming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/WaterDropletCool.png" width="100"/> 
+
+I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
+
+### Gaming
+
+<img alt="Original gaming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/VideoGameController_Icon1.png" width="100"/> 
+
+I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
+
+### Graphic design
+
+<img alt="Original graphic design profile picture failed to load. Click/tap here to attempt to view it" src="/Media/GraphicDesignICON.png" width="100"/> 
+
+I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
+
+### Linguist
+
+<img alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Linguistics1.jpeg" width="100"/>  <img alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" width="100"/> 
+
+I have been a linguist since my early childhood. I jokingly changed my middle name to `language` in my early childhood, but I think it would fit as a 2nd middle name.
+
+I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't write completely in a language other than English, Python, HTML, or markdown.
+
+### History buff
+
+<img alt="Original history buff profile picture failed to load. Click/tap here to attempt to view it" src="/Media/FortressBase.png" width="100"/> 
+
+I am a history buff, with knowledge of history spanning back over 13.8 billion years ago (Big Bang) to the current day. I like to learn about history, and I have knowledge of a large assortment of eras and events, including extensive knowledge of things other than World War I or World War II (but I also still know a lot about the 2 world wars) for Earth history, my knowledge goes back to 8000 BCE in extensive detail, down to 27000 BCE in less detail, and mostly geological events before 27000 BCE. I like to learn all types of history, and not just the history of warfare.
+
+I owe my interest in history to my first High School history teacher, who was really enthusiastic about what he was teaching, and was just a general awesome and nice history teacher. I would no doubt make him teacher of the year for that year of High School. Past history classes never got me too into the subject of history, but this one really opened my mind to history.
+
+### Marine biology
+
+<img alt="Original marine biology profile picture failed to load. Click/tap here to attempt to view it" src="/Media/BlackMooreGoldfish.jpeg" width="100"/> 
+
+I recently got back into Marine Biology on March 23rd 2021, and have been learning the subject part-time again. I find it really calming and nostalgic.
+
+[Learn more about it here](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/tree/main/Marine%20Biology)
+
+### Journaling
+
+<img alt="Original journaling profile picture failed to load. Click/tap here to attempt to view it" src="/Media/JournalIcon1.png" width="100"/> 
+
+I keep a daily journal. I have been on and off with this for most of my childhood, until sticking with it every day since September 26th 2016.
+
+The journaling project is part of my life archive project, a digital archive of my entire life.
+
+As of August 7th 2021, the main journal has over 7 million words. I average between 1358-2500/2500-3600/3600-13000 words per day (depending on what happens that day and how much I have to talk about)
+
+I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain related media, and certain templates are public, but several terabytes of data is private (the full journal takes up over 8 gigabytes of space, just for the journal, due to usage of images over a ~5 year period)
+
+### Vexillology
+
+<img alt="Original fotw profile picture failed to load. Click/tap here to attempt to view it" src="/Media/fotw-pgr.gif" width="100"/> 
+
+This is the flag of the Internet, by [FOTW.info](https://www.fotw.info/flags/fotwprfl.html)
+
+Vexillology is the research and study of flags. I have an interest in Vexillology and I enjoy reading about, documenting, and creating flags.
+
+Useful links for if you want to read about flags:
+
+[fotw.info](https://www.fotw.info/flags/index.html) - The top Vexillology website, and also approved by [FIAV](https://fiav.org/) the top Vexillology group
+
+[fiav.org](https://fiav.org/) - Fédération internationale des associations vexillologiques, International Federation of Vexillological Associations, Internationale Föderation Vexillologis, the top group for vexillology
+
+[Reddit: r/vexillology](https://www.reddit.com/r/vexillology/) - Reddits serious forum for flag discussion
+
+[Reddit: r/vexillologycirclejerk](https://www.reddit.com/r/vexillologycirclejerk/) - Reddits humor repository for non-serious, comedic flag discussion and discourse. Memes allowed here.
+
+Some other cool sites:
+
+[Flagwaver (krikinoid.github.io)](https://krikienoid.github.io/flagwaver/) - Turn any image into a waving flag
+
+> [View the source code on GitHub](https://github.com/krikienoid/flagwaver/)
+
+</details>
+
+***
+
+## Profile picture history
+
+<details><summary>[Click/tap here to expand/collapse the list of my GitHub profile picture history]</summary>
+	
+***
+	
+Here is a history of my GitHub profile picture:
+
+![Original profile picture failed to load. Click/tap here to attempt to view it](/Media/65933340.png)
+
+Original (May 25th 2020 to ? 2020)
+
+![Original modified profile picture failed to load. Click/tap here to attempt to view it](/Media/773af859eafc403a8ce6bb3051bd2618 (copy).png)
+
+Original (Windows Explorer transparency glitched version)
+
+![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
+
+Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
+
+</details>
+
+***
+
+## Linux
+
+<details><summary>[Click/tap here to expand/collapse my Linux story]</summary>
+
+I was a fan of Windows up until Windows 10. I began to try to switch to Linux from 2018 to 2020. On July 9th 2020, I finally switched to Linux, getting my first Dell laptop with Linux pre-installed.
+
+![20200709_124359.jpg](/Media/20200709_124359.jpg)
+
+My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
+
+</details>
+
+***
+
+## Ask me about
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Technology, farming, life, language, other.
+
+</details>
+
+***
+
+## How to reach me
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have multiple methods of being reached. Currently, I can't answer to phone calls or text messages, as my phones SIM card randomly got corrupted (in early 2022, I also destroyed the SIM/SD slot in my phone due to overuse, so there is no way to fix this now) Here are some ways you can message me:
+
+* Through GitHub (Comment on my most recently edited project, be careful of the exact time, if not, I should eventually get to your message)
+* Through Discord (`Seanpm2001-GitHub` server link: [Click here](https://discord.gg/CcFpEDQ))
+
+**Discord user links:**
+
+> * `SeanWallaWalla#1709` (my original Discord account)
+> * `seanpm2001#4906` (my newest Discord account)
+
+**Context:**
+
+![Discord_2022.06.21_seanpm_seanpm2001.png](/Media/Discord_Screenshots/2022/June21st/Discord_2022.06.21_seanpm_seanpm2001.png)
+
+On 2022, June 21st, someone joined my Discord server with a username incredibly similar to my own. I had to claim the `seanpm2001` username to prevent an imposter from forming.
+
+* Through Reddit (subreddit link: [Click here r/seanpm2001](https://www.reddit.com/r/seanpm2001/) or through direct message [Click here to view my profile](https://www.reddit.com/user/seanwallawalla/) - currently inactive on the subreddit, but I will likely respond to a reply or DM within 48 hours
+
+There currently aren't any other ways of messaging me
+
+You can find more info on my personal Gist. [Click/tap here to learn more about me](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
+
+</details>
+
+***
+
+## Projects on other platforms
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have been using GitHub for software development since May 25th 2020, but I have been programming since early 2016.
+
+On December 21st 2020, I created accounts on SourceForge, GitLab, and BitBucket. I currently don't maintain any projects there at the moment, GitHub still is the powerhouse.
+
+[SourceForge link](https://sourceforge.net/u/seanpm2001/profile/)
+
+[GitLab link](https://gitlab.com/seanpm2001/)
+
+[BitBucket link](https://bitbucket.org/seanpm2001/)
+
+When I joined GitHub, I also intended to use other platforms as well, as something could always go wrong with my account or GitHub itself, and it isn't smart to rely on a single source for everything.
+
+Now, if GitHub is having problems or if you have problems with GitHub, my projects are viewable on 3 other platforms. Unfortunately, they are still only on GitHub, as I don't have enough developers to manage 4 platforms at once, I will eventually mirror my projects over.
+
+</details>
+
+***
+
+## Email information
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+On 2022 Friday, January 7th, I created my first public email address. I may not be active here, but I will try to be here. The email address will be used for a mailing list.
+
+The current public email address is [seanpm2001-mailing-list@protonmail.com](mailto:seanpm2001-mailing-list@protonmail.com)
+
+The email address is for professional use, and is tied to my GitHub developer program membership. It is to be used for serious inqueries and security reports. It is NOT to be used for conversation, advertising, notifications, or spam. If you wish to chat, I have a [Discord Server](https://discord.gg/CcFpEDQ) here, and I plan to have a more privacy friendly platform for communication in the near future.
+
+Note: this email address is NOT a mailing list, it is just named like that. The name was inspired by the Linux Kernel Mailing List.
+
+</details>
+
+***
+
+## Identity theft
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+To avoid possible identity theft, I will link to all the services I use here.
+
+I am on the following platforms
+
+[Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
+
+[Discord](#How-to-reach-me) - Note: I stopped using Discord full time in 2021 February, but I still use it.
+
+> * SeanWallaWalla#1709 (my original Discord account)
+> * seanpm2001#4906 (my newest Discord account)
+
+[GitHub](https://github.com/seanpm2001) <!-- - Obviously !-->
+
+[YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
+
+* [YouTube second channel](#Identity-theft)
+
+* Other
+
+[Mastodon](https://techhub.social/@seanpm2001)
+
+[Mozilla](#Identity-theft)
+
+[Twitter](https://www.twitter.com/@seanwallawalla) - No longer use as of 2018, slightly cringy, but not too bad
+
+[Scratch](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
+
+* [Scratch attempted main account](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
+
+* Other?
+
+![no-facebook.svg](/Media/no-facebook.svg)
+
+<details><summary><H4>Transcript (if the image fails to load)</H4></summary>
+
+You won't find me on Facebook
+
+Not F'd
+
+</details>
+
+This sticker is supported by [Richard Stallman](https://stallman.org/) to protest Facebook, Instagram, WhatsApp, and other Facebook products.
+
+[Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
+
+[Yelp](#Identit-theft) - Link is incomplete
+
+[Tumblr](https://tumblr.com) - Link is incomplete
+
+[Bandcamp](https://seanwallawalla.bandcamp.com/releases) - My only way of earning money online at the moment
+
+[Quora](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here
+
+[Go90](https://www.example.com) - Created an account, barely attempted to use, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+
+[Ditty.it](https://www.example.com) - Created and exported all videos, used daily for a while, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+
+**List is incomplete. Try bugging me to fix it. I will eventually when I have time, but I might not get to it soon enough.**
+
+However, I am not on other platforms. If you see someone posing on me on other platforms, don't take their word, as they are commiting identity theft. _Identity theft is not a joke Jim. Millions of families suffer every year_ - Dwight Shrute (The Office, US version) [YouTube link is you prefer](https://www.youtube.com/watch?v=5f5ni0zpl5E) [Vimeo link, but without the official video, just audio and text](https://vimeo.com/464892816) in all seriousness, Identity theft is an actual problem.
+
+Popular platforms I am not on:
+
+[TikTok](https://tiktok.com) - I am not on TikTok for multiple reasons. The 2 main reasons why I never use TikTok are:
+
+1. It has a plethora of privacy issues and is fully owned by a Chinese company
+
+2. I don't have an interest in this type of video platform
+
+Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Total times I viewed TikTok content from another platform (reuploads, but not links, as that would be visiting TikTok directly): `85+`
+
+</details>
+
+***
+
+## Sponsor info
+
+<img alt="GitHub Sponsor Badge logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Badges/GitHub/Sponsors/PNG/badge-sponsors-small.png" width="256" height="256"/>
+
+| [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/) | [:octocat: `Sponsoring`](https://github.com/seanpm2001/Sponsoring/) | [:octocat: `Sponsors`](https://github.com/seanpm2001/Sponsors/)
+|---|---|---|
+| How to sponsor me | Who I am sponsoring | Who sponsors me |
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+![SponsorButton.png](SponsorButton.png) <-- Don't click this button, it doesn't work
+
+You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+
+You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+
+Try it out! The sponsor button is right up next to the watch/unwatch button.
+
+</details>
+
+***
+
+<!-- <details><summary>The Python logo was hidden due to formatting errors. Click/tap here to expand/collapse the Python logo</summary>
+	
+![PythonLogo.png](/Media/PythonLogo.png)
+
+</details> !-->
+
+<img alt="Python logo failed to load. Click/tap here to attempt to view it" src="/Media/PythonLogo.png" width="256" height="256"/> 
+
+## Free software isn't free to develop
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Remember that free software and open source software is not always free to develop. Make sure to donate to software organizations you like, so that they can keep producing contributions to society.
+
+My list of supported organizations include:
+
+* Wikimedia (creators of Wikipedia, Wiktionary, and more)
+* VideoLan (creators of VLC Media Player and other prominent video tools)
+* GNU
+* The Free Software Foundation
+* The Open Document foundation
+* Khan Academy
+* The Linux foundation
+* FFMPEG
+* The Internet Archive (also the creators of the wayback machine)
+* Open Street Map
+* Inkscape
+* Mozilla (moz://a)
+* FreeCodeCamp
+* Mastodon
+
+**More to be listed**
+
+</details>
+
+***
+
+## Submissions
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I am open for accepting submissions for project artwork. I would like to receive skeumorphism and 3D designs for program graphics before I accept flat design and solid color works. I want to give people the option for both skeumorphism, 3D, 2D, Flat, solid color, or whatever the user prefers. I want to start with Skeumorphism, as it is the best (totally not an unbiased opinion)
+
+My recommended formats are SVG (60% recommended) and PNG (40% recommended) for images. Non-graphical submissions can be in any format, as long as it is an open format and is not proprietary (for example: Jade programs are proprietary and currently can't be accepted)
+
+[View my submission rules in better detail by clicking/tapping here](https://github.com/seanpm2001/Submissions/)
+
+</details>
+
+***
+
+## Blue team
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have 2 teams for my organization system. Blue team is for technical work (digital, analog, hardware, software) and green team is for environmental, and biology work. I am part of the blue team, but I am also part of the green team.
+
+</details>
+
+---
+
+## Green team
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have 2 teams for my organization system. Blue team is for technical work (digital, analog, hardware, software) and green team is for environmental, and biology work. I am part of the green team, but I am also part of the blue team.
+
+</details>
+
+***
+
+## Computer user type
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [ ] Low usage - I use the computer very infrequently
+- [ ] Novice - I use the computer sometimes
+- [ ] Average - I use the computer at an average usage
+- [ ] Savvy - I use the computer in a Savvy way
+- [ ] Power user - I use the computer heavily, but not in a savvy way
+- [x] Power user + savvy - I am the type of computer user who uses the computer constantly (over 8 hours per day) and I am extremely tech savvy and experienced. I also use the computer and push it to its very limits at all times of day, wearing down even the most durable computers in less than a year.
+
+</details>
+
+***
+
+## Education
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have completed primary (pre-school, Elementary School) and secondary education (Middle School, High School) I have not yet attempted tertiary education (College/University) because I feel it is too expensive in the US and wouldn't suit me well. I would like to push for a PhD, but I would have to move to Germany, France, Wales, Finland, Sweden, or Switzerland to do so. I am still working on my portfolio too.
+
+</details>
+
+***
+
+## GitHub developer program
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. Here, I will be listing my projects that work with the GitHub API:
+
+### Extensions
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[GitHubby](https://github.com/seanpm2001/GitHubby/) - A tool to customize GitHub to make its appearance and functionality similar to past versions of GitHub. It requires heavy communication with the GitHub API to work. It is not functional yet.
+
+> [GitHubby Snapcraft packae](https://github.com/GitHubby-development/GitHubby-Snap) - The snapcraft package for GitHubby, to run on Linux. Far from complete.
+
+> [GitHubby website (GitHub pages)](https://github.com/GitHubby-development/GitHubby-development.github.io) - The website for the GitHubby project.
+
+[GitMan](https://github.com/seanpm2001/GitMan/) - A tool to manage and automate Git actions across various Git sites. It is not functional yet.
+
+[Chroma Tags for Git](https://github.com/seanpm2001/ChromaTags_ForGit/) - A powerful linguist tool and customizer for Git platforms. It is not functional yet.
+
+</details>
+
+### Marketplace
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### My Actions
+
+##### My CI workflows
+
+[Setup Go! (Go2004) GitHub action](https://github.com/seanpm2001/Setup-Go2004-GitHubAction) - This is my first GitHub action. It allows continous integration (CI) with GitHub projects written in the Go! programming language. It is NOT to be used for the Go programming language (which is very similarly named, and easily confusable)
+
+</details>
+
+### Information
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+These projects are information articles regarding my work on Git and GitHub.
+
+[Git image](https://github.com/seanpm2001/Git-image/) - Information regarding Git as an image platform.
+
+[Health project](https://github.com/seanpm2001/GitHub-Health-Project-Article/) - Information regarding my contributions and improvements to open source medical health software.
+
+-</details>
+
+***
+
+## Frequently Asked Questions (FAQ)
+
+Since nobody has asked any questions yet, I will list some common ones here:
+
+<details><summary>[Click/tap here to expand/collapse the Frequently Asked Questions board list]</summary>
+	
+***
+
+### Why is Python your favorite programming language
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+See below for the full store. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
+
+</details>
+
+### What got you into programming
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+In 2015, I was switched from an incorrect class to a class I was supposed to be in, which changed my life completely: my 2015 Middle School computer programming class.
+
+Although the class mainly just used Scratch, this is where my interest skyrocketed. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
+
+</details>
+
+### How well can you program in Java
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I took an AP Java class, but I was missing too many stepping stones to fully get it. I did get several concepts of it, and this class familiarized me with Java quite a bit, along with using IDEs (Eclipse) I am not too good at Java, but I can do some basic stuff, not just Hello World programs. I can't write an entire program in Java though, I feel like my knowledge of Java basics and intermediate is 2.8%
+
+</details>
+
+### Why do you use so many different programming languages
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I have always been a linguist. I like the looks of all the different programming languages and their syntax. Also, some projects are dependant on some languages. When I create an IDE out of a language, I prefer to use that language to emulate that language.
+
+</details>
+
+### Do you actually know all those languages
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I know a few, but can't do more than the very basics in most. Languages I am good at include Python, BASH/Shell, HTML5, JavaScript, and Java.
+
+</details>
+
+### Why do you put so much info out
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I have had years of decisions on what info I put out and what I don't put out. All data put out is thought out for 30 minutes to 5 years beforehand.
+
+</details>
+
+### Why do you have image projects? Doesn't that defeat the point of GitHub
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+It does in a way, but I don't have any good image platforms. Since GitHub is a version control site, and I add in content besides images, it fits pretty well, other than proper image viewing without downloading the repository.
+
+</details>
+
+### Why are so many projects of yours so underdeveloped
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I joined GitHub with the goal of collaboration. I am still building a following, and hope to have developers contributing to these projects based on their interest level in the project. There are so many of them, as I have been going through and adding new ideas as they come up.
+
+</details>
+
+### How are you profitable
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I am not profitable yet, but I am working on it. Since I work in the FOSS industry, I rely on donations and sponsors. I will try to limit my usage of ads (and I will not make sketchy, crappy ads like Playrix's homescape, gardenscape, etc. ads, or ads like about 99.998% of the ads on Google Play)
+
+</details>
+
+### Why did you switch to Linux
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+Linux is great. I have had a really, really horrible experience with Windows 10, there is too much to get into. I intended to start with Fedora Linux, but I had to go with Ubuntu 20.04, as I feared that I might void my laptops warranty (which I don't want to do, since this laptop costs over $1.4K)
+
+</details>
+
+### What is the purpose of the life archive project
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+My life archive project is a full-time hobby project where I archive my entire life.
+
+</details>
+
+### Why did you follow over 1000 users one night
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I have been trying to gain followers on GitHub so that I eventually get someone to help interact with me on my projects. It has been a very slow process.
+
+I got my account suspended 3 days later, and along with other reasons, I decided not to do this again. All I had to do to unsuspend my account was re-verify my email address.
+
+</details>
+
+### Why do you have so many tabs open
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I have a lot of different projects. I have to manage lots of different projects. I have over 70 different Firefox profiles, each one containing their own set of tabs, however I only keep 1-3 profiles open at once. I close out of these when I finish with them for now.
+
+</details>
+
+### Why do you use Wikipedia so much
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+Wikipedia is one of my most used sites, GitHub is second. I find Wikipedia to be a great resource, and good for researching programming, chemistry, history, and more. I intend to start donating money to Wikipedia monthly some day. 
+
+</details>
+
+### Why do you play so many different games
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I like to have balance in my life, and have periods to relax from programming. I come up with new ideas during this time period as well, and do other things, such as chores around the house.
+
+</details>
+
+### Why do you play kids games
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I play games that have a general target of kids, but are also just past-time games. Examples include Restaurant/Bakery/Pet Shop/Fashion/Farm/City story, and Merge Plane. These games can be for both kids and adults. I played these games in my childhood, and have nostalgic ties to them. Some of them are just genuinely fun to begin with.
+
+</details>
+
+### Why do you hate Google so much
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+Google has a long history of privacy invasion, hypocrasy, being a monopoly, killing off parts of the Internet, and more. I turned against Google in 2018.
+
+</details>
+
+### Why do some of your projects use Go, Dart, or Flutter when you hate Google
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+I don't write the entire project in this language, and in the cases I do, it is required for archiving the data and making an IDE (SNU_2D_Programming_Tools) or just a general pun. The 1 project that uses it but is using a degoogled version [(Candroid)](https://github.com/seanpm2001/Candroid)
+
+Also, a few projects are written in Go! (a language that came out over 4 years before Go) its creator got steamrolled and no-one ever really looks at his language due to Googles claim that Go! won't be confused with Go, and that "lots of other projects and languages have the same name" which is not true, Google. You steamrolled him.
+
+Since Go! (2004) and Go (2008/2009) both use the .go file extension, GitHub's lingust feature identifies it as Go instead of Go! Both languages vary significantly in Syntax.
+
+</details>
+
+---
+
+_End of frequently asked questions._
+
+</details>
+
+---
+
+## GitHub profile template
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the GitHub profile template section]</b></p></summary>
+
+```markdown
+**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+```
+
+- **Work in progress**
+
+- 🔭 I’m currently working on _a variety of projects_
+- 🌱 I’m currently learning _..._
+- 👯 I’m looking to collaborate on _..._
+- 🤔 I’m looking for help with _..._
+- 💬 Ask me about _..._
+- 📫 How to reach me: _[social media list, email](#How-to-reach-me)_
+- 😄 Pronouns: _He/Him_
+- ⚡ Fun fact: _..._
+
+</details>
+
+---
+
+Learn even more about me [here (outdated)](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3).
+
+---
+
+_No other about me sections available._
+
+</details>
+
+</details>
+
+***
+
+## Life
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of my life</b></p></summary>
+
+***
+
+## Personal
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I have some personal opinions on GitHub. I am working on keeping them contained inside 3 repositories:
+
+[Opinions](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
+
+[Politics](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
+
+> Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
+
+[Sexuality center](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
+
+On GitHub, I have a lot of other personal projects, under the category of a life archive project, which I have been working on extra hard since 2016.
+
+</details>
+
+***
+
+## Autism
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I am on the Autism spectrum. I am on the high functioning part of the spectrum, only suffering from socialization issues (which have gotten much better over my lifetime)
+
+I don't consider my Autism to be a handicap. I feel like it is what makes me, me, and what makes me so outgoing, creative, and smart.
+
+However, there are less fortunate people with Autism who have much more problems due to their position on the spectrum. That is why I have created the [United Autism Rights organization](https://avatars.githubusercontent.com/u/80805036?s=60&v=4) as [A](https://en.wikipedia.org/wiki/Autism_Speaks#View_of_autism_as_a_disease)[u](https://en.wikipedia.org/wiki/Autism_Speaks#Cure_Autism_Now)[t](https://autisticadvocacy.org/2009/10/disability-community-condemns-autism-speaks/)[i](https://www.theguardian.com/society/2007/aug/07/health.medicineandhealth)[s](https://www.vox.com/2015/8/31/9233295/autism-rights-kanner-asperger)[m](http://www.thedailybeast.com/articles/2015/02/25/they-don-t-want-an-autism-cure.html) [S](https://www.latimes.com/opinion/op-ed/la-oe-0824-silberman-autism-speaks-20150824-story.html)[p](https://www.psychologytoday.com/gb/blog/aspergers-alive/201311/reporters-guide-the-autism-speaks-debacle)[e](https://web.archive.org/web/20180615032203/https://www.autismspeaks.org/blog/2015/08/25/call-unity)[a](https://web.archive.org/web/20070630013301/http://www.gettingthewordout.org/home.php)[k](https://web.archive.org/web/20071018030910/http://gettingthetruthout.org/)[s](https://www.newscientist.com/channel/being-human/mg19726414.300-voices-of-autism-silenced-by-charity.html) is NOT helpful at all, and the other alternates currently aren't that effective.
+
+</details>
+
+***
+
+_No other entries about my life are available here._)
+
+</details>
+
+***
+
+## Technology
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of my technology</b></p></summary>
+
+---
+
+### Media
+
+**Additional media formats**
+
+- [:octocat: `Radio`](https://github.com/seanpm2001/Radio/)
+- - Information on radio projects.
+
+***
+
+### My current setup
+
+This section is for information regarding my current work setup (as of March 26th 2021)
+
+<details><summary>[Click/tap here to expand/collapse the list about my current hardware setup]</summary>
+
+#### Current hardware
+
+[Laptop: System76 Pangolin with Ubuntu 22.04](https://system76.com/laptops/pangolin/)
+
+<!--
+[Headphones: Bluetooth Letscom wireless headphones, 100 hour battery, 1200 MaH](https://www.amazon.com/Bluetooth-Headphones-LETSCOM-Wireless-Cellphone/dp/B07TQM2FTD)
+!-->
+
+#### Current software
+
+```
+VLC Media Player 3.0.11
+
+Konsole
+
+GNOME System Monitor
+
+Gedit
+
+GNOME Clocks
+
+Mozilla Firefox 84.0.1 (a bit outdated) - on laptop 1, Mozilla Firefox 88.0 (on laptop 2)
+
+GNOME Files/Nautilus
+
+GNOME Calculator
+
+GNOME Extensions
+
+GNOME Settings
+
+LibreOffice 6.4.6.2 {
+
+	LibreOffice Writer 6.4.6.2 (complete open-source alternative to Microsoft Word)
+	
+	LibreOffice Calc 6.4.6.2 (complete open-source alternative to Microsoft Excel)
+	
+	LibreOffice Impress 6.4.6.2 (complete open-source alternative to Microsoft PowerPoint)
+	
+	LibreOffice Base 6.4.6.2 (complete open-source alternative to Microsoft Access)
+
+}
+
+VirtualBox 6.1.10 (a bit outdated) - Not currently in use
+
+Inkscape - Not currently in use
+
+GIMP 2.10
+
+Mari0 (possibly proprietary)
+
+Okular
+
+Typora (proprietary) - No longer used
+
+Audacity 2.10 - No longer used
+
+Notepad++ (running on WINE) - No longer used
+
+Ubuntu 20.04 LTS
+
+Other/unknown
+```
+
+</details>
+
+***
+
+### Former organizations
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**All organizations** _(As of March 27th 2021)_
+
+This list is not maintained. For complete documentation of my organizations, see the [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info)/ repository.
+
+As of 2022, August 5th, I was forced to delete all 1000 of my organizations. I deleted all of them by August 14th, but 2 still remain (they cannot be deleted or interacted with, even by me, but they still claim to exist)
+
+<details><summary><H3>[Click/tap here to expand/collapse this list]</H3></summary>
+
+- [Seanwallawalla-software](https://github.com/seanwallawalla-software)
+- [SNU-Development](https://github.com/snu-development)
+- [Seanpm2001-software](https://github.com/seanpm2001-software)
+- [Seanpm2001-lifearchive](https://github.com/seanpm2001-lifearchive)
+- [QMeadows-development](https://github.com/QMeadows-development)
+- [Seanwallawalla-trm](https://github.com/Seanwallawalla-trm)
+- [Seanwallawalla-gaming](https://github.com/seanwallawalla-gaming)
+- [Seanpm2001-all](https://github.com/seanpm2001-all) - Still claims to exist
+- [Seanwallawalla-forks](https://github.com/seanwallawalla-forks) - Still claims to exist
+- [Seanwallawalla-testing](https://github.com/seanwallawalla-testing)
+- [Seanwallawalla-malware](https://github.com/seanwallawalla-malware)
+- [Seanwallawalla-browserextensions](https://github.com/seanwallawalla-browserextensions)
+- [Seanwallawalla-tools](https://github.com/seanwallawalla-tools)
+- [Seanwallawalla-security](https://github.com/seanwallawalla-security)
+- [Seanwallawalla-operating-systems](https://github.com/seanwallawalla-operating-systems)
+- [Seanwallawalla-bots](https://github.com/seanwallawalla-bots)
+- [Seanwallawalla-images](https://github.com/seanwallawalla-images)
+- [Seanwallawalla-audio](https://github.com/seanwallawalla-audio)
+- [Seanwallawalla-social](https://github.com/seanwallawalla-social)
+- [Seanwallawalla-jokeprograms](https://github.com/seanwallawalla-jokeprograms)
+- [Degoogle-your-life](https://github.com/Degoogle-your-life)
+- [CompuSmell](https://github.com/CompuSmell)
+- [Nostalgia-project](https://github.com/Nostalgia-project)
+- [Myrick-family-archive](https://github.com/Myrick-family-archive)
+- [SNU-Programming-Tools](https://github.com/SNU-Programming-Tools)
+- [Seanwallawalla-health](https://github.com/Seanwallawalla-health)
+- [Seanpm2001-articles](https://github.com/Seanpm2001-articles)
+- [GuineaMyrickILifeArchiveProject](https://github.com/GuineaMyrickILifeArchiveProject)
+- [Seanpm2001-libraries](https://github.com/seanpm2001-libraries)
+- [Seanpm2001-discussions](https://github.com/Seanpm2001-discussions)
+- [iBlast-game](https://github.com/iBlast-Game)
+- [UnitedAutismRights](https://github.com/UnitedAutismRights)
+- [Seanpm2001-web](https://github.com/Seanpm2001-web)
+- [Seanpm2001-templates](https://github.com/Seanpm2001-templates)
+- [BGemJam-Game](https://github.com/BGemJam-game)
+- [NimbleBit-Games](https://github.com/NimbleBit-Games)
+- [Tetris128](https://github.com/Tetris128)
+- [Seanpm2001-datapacks](https://github.com/seanpm2001-datapacks)
+
+</details>
+
+Note: my organizations had multiple purposes, but most of them aimed to serve as a categorized. collection of projects, or a homepage for a project.
+
+</details>
+
+---
+
+### Search my profile easier with [this helpful Gist](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe/)
+
+This Gist helps with:
+
+* Sorting by language
+* Finding projects through filters
+* Finding additional projects that pass through filters
+
+---
+
+_End of Technology section._
+
+</details>
+
+***
+
+### Statistics
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of my statistics</b></p></summary>
+
+---
+
+#### Overview statistics
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
+
+| Best of all time (as of 2023, September 21st) (overview) | (languages) |
+|---|---|
+| ![2023.09.21 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/overview_2023September21st.svg) | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/languages_2023September21st.svg) |
+
+_Still the best run, as of 2024, Sunday, March 24th._
+
+</details>
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
+
+| Best of 2023 (as of 2023, May 20th) (overview) | (languages) |
+|---|---|
+| ![2022.05.20 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/overview_2023May20th.svg) | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/languages_2023May20th.svg) |
+
+</details>
+
+<details><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
+
+| Best of 2023 (as of 2023, February 28th, first run this year) (overview) | (languages) |
+|---|---|
+| ![2022.02.28 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Overview_GitHubStatsA_2023February28th.svg) | ![2022.02.28 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Languages_GitHubStatsA_2023February28th.svg) |
+
+</details>
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
+
+| Best of 2022 (as of 2022, December 12th) (overview) | (languages) |
+|---|---|
+![2022.12.12 Stats](/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Languages_GitHubStatsA_2022December12th.svg) |
+
+</details>
+
+Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/)
+
+</details>
+
+---
+
+#### GitHub Skyline
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
+
+<details><summary><H3>[Click/tap here to expand/collapse the GitHub skyline data list]</H3></summary>
+
+---
+
+##### Skyline 2008
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008/)
+
+[View STL file](/Special/GitHub_Skyline/2008/seanpm2001-2008.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2009
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009/)
+
+[View STL file](/Special/GitHub_Skyline/2009/seanpm2001-2009.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2010
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010/)
+
+[View STL file](/Special/GitHub_Skyline/2010/seanpm2001-2010.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2011
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011/)
+
+[View STL file](/Special/GitHub_Skyline/2011/seanpm2001-2011.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2012
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012/)
+
+[View STL file](/Special/GitHub_Skyline/2012/seanpm2001-2012.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2013
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013/)
+
+[View STL file](/Special/GitHub_Skyline/2013/seanpm2001-2013.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2014
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014/)
+
+[View STL file](/Special/GitHub_Skyline/2014/seanpm2001-2014.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2015
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015/)
+
+[View STL file](/Special/GitHub_Skyline/2015/seanpm2001-2015.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2016
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016/)
+
+[View STL file](/Special/GitHub_Skyline/2016/seanpm2001-2016.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2017
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017/)
+
+[View STL file](/Special/GitHub_Skyline/2017/seanpm2001-2017.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2018
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018/)
+
+[View STL file](/Special/GitHub_Skyline/2018/seanpm2001-2018.stl)
+
+**Note: no data for this year, I started in 2020.**
+
+</details>
+
+---
+
+##### Skyline 2019
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Note: no data for this year, I started in 2020.**
+
+[View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019/)
+
+[View STL file](/Special/GitHub_Skyline/2019/seanpm2001-2019.stl)
+
+</detials>
+
+---
+
+##### Skyline 2020
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020/)
+
+[View STL file](/Special/GitHub_Skyline/2020/seanpm2001-2020.stl)
+
+</details>
+
+---
+
+##### Skyline 2021
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021/)
+
+[View STL file](/Special/GitHub_Skyline/2021/seanpm2001-2021.stl)
+
+</details>
+
+---
+
+##### Skyline 2022
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2022 via GitHub skyline](https://skyline.github.com/seanpm2001/2022/)
+
+[View STL file](/Special/GitHub_Skyline/2022/seanpm2001-2022.stl)
+
+</details>
+
+---
+
+##### Skyline 2023
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2023 via GitHub skyline](https://skyline.github.com/seanpm2001/2023/)
+
+[View STL file (coming soon)]
+
+</details> <!-- End of Skyline 2023 !-->
+
+---
+
+##### Skyline 2024
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[View skyline 2024 via GitHub skyline](https://skyline.github.com/seanpm2001/2024/)
+
+[View STL file (coming soon)]
+
+</details> <!-- End of Skyline 2024 !-->
+
+---
+
+_End of GitHub Skyline data listing._
+
+</details> <!-- End of Skyline data list !-->
+
+_End of GitHub Skyline section._
+
+---
+
+</details> <!-- End of skyline section !-->
+
+***
+
+_No other statistics sections available._
+
+</details>
+
+</details>
+
+***
+
+## Family
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my family</b></p></summary>
+
+***
+
+### GitHub contacts (family)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### Family
+
+`@Microsoft`
+
+[Channa-My](https://github.com/channa-my)
+
+[Lindsay-My](https://github.com/lindsmy)
+
+`@Close`
+
+[Chrism2282](https://github.com/chrism2282)
+
+[Inverno4](https://github.com/inverno4)
+
+[Memewallawalla](https://github.com/memewallawalla)
+
+`@alt_accounts`
+
+[Seanwallawalla](https://github.com/seanwallawalla)
+
+</details>
+
+***
+
+_No other family sections available._
+
+</details>
+
+***
+
+## Friends
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my friends</b></p></summary>
+
+### GitHub contacts (other)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+`@friends`
+
+[Torokati44](https://github.com/torokati44) - My first friend gained when developing with them on Ruffle-rs
+
+The friend ship is now departing. Destination: everywhere.
+
+`@tech_idols`
+
+[Linus Torvalds](https://github.com/torvalds)
+
+#### Subscriptions
+
+Projects I am actively monitoring:
+
+[Linux kernel](https://github.com/torvalds/linux) - The Linux kernel
+
+[Ruffle-rs](https://github.com/ruffle-rs/ruffle) - Ruffle, the open source flash player emulator
+
+[CPython](https://github.com/python/cpython) - The Python programming language
+
+</details>
+
+</details>
+
+***
+
+# My projects
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of my projects</b></p></summary>
+
+***
+
+### Website modules
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+These website modules are used for maintaining GitHub functionality elsewhere.
+
+[SNU (2D) GitHub mode](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_GitHubMode/) - The GitHub mode submodule for the SNU website framework.
+
+</details>
+
+### Templates
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+These templates are used to increase the efficiency of starting GitHub projects (the latest version takes nearly 4 hours of development time off from a single new project)
+
+[Git Template (V8)](https://github.com/seanpm2001/Git-Template_V8/) - The modern Git template used for automating several project types.
+
+[Template: GitHub Pages (V1)](https://github.com/seanpm2001/Template_GitHubPages_V1/) - Historical; my first template for automating GitHub pages. It was superceded by the V2 GitHub pages template.
+
+[Template: GitHub Pages (V2)](https://github.com/seanpm2001/Template_GitHubPages_V2/) - Historical; my second template for automating GitHub pages. It was superceded by the V3 GitHub pages template.
+
+[Template: GitHub Pages (V3)](https://github.com/seanpm2001/Template_GitHubPages_V3/) - Historical; my third template for automating GitHub pages. It was superceded by the V4 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V4)](https://github.com/seanpm2001/Template_GitHubPages_Default_V4/) - Historical; my fourth template for automating GitHub pages in the default style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Language page) (V4)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V4/) - Historical; my fourth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V5)](https://github.com/seanpm2001/Template_GitHubPages_Default_V5/) - Historical; my fifth template for automating GitHub pages in the default style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
+
+* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V5)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V5/) - Historical; my fifth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V6)](https://github.com/seanpm2001/Template_GitHubPages_Default_V6/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
+
+* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V6)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V6/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
+
+[Template: GitHub Pages (Default) (V7)](https://github.com/seanpm2001/Template_GitHubPages_Default_V7/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V8 GitHub template (with 12+ variants)
+
+* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V7)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V7/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V8 GitHub template (with 12+ variants)
+
+</details>
+
+### Other
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Other uncategorized projects.
+
+[AUTOMATE-2001](https://github.com/seanpm2001/AUTOMATE-2001/) - A personal use automation tool for automating my automatable tasks on GitHub. It is far from complete, and is not functional yet.
+
+</details>
+
+***
+
+## Platforms I develop for
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This is a list of the platforms I develop for:
+
+### Linux platform support
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [x] Ubuntu (12.04 and up)
+- [x] RaspbianOS (Python and Mathematica only at the moment)
+- [ ] Fedora Linux (coming soon)
+- [ ] Gentoo Linux (coming soon)
+- [ ] Arch Linux (coming soon)
+- [ ] ChromeOS/ChromiUmOS **NOT SUPPORTED**
+- [x] Android (partially supported)
+
+</details>
+
+### BSD platform support
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [x] Mac OS X (10.0-12.0) (Partially supported)
+- [x] iOS (partially supported)
+
+I plan to support BSD more in the future when I know more about it. (MacOS counts as BSD, I think)
+
+</details>
+
+### Windows platform support
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [ ] Windows 1.0.x (not yet supported)
+- [ ] Windows 2.0.x (not yet supported)
+- [ ] Windows 2.1.x (not yet supported)
+- [ ] Windows 3.0.x (not yet supported)
+- [ ] Windows 3.1.x (not yet supported)
+- [ ] Windows NT 3.1.x (not yet supported)
+- [ ] Windows NT 3.5.x (not yet supported)
+- [x] Windows 9x (Windows 95, Windows 98, Windows ME)
+- [x] Windows 2000
+- [x] Windows XP
+- [x] Windows Vista
+- [x] Windows 7
+- [x] Windows 8/8.1
+- [x] Windows 10
+- [ ] Windows 11 (not yet supported)
+
+</details>
+
+### Other platform support
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- [x] ReactOS
+- [ ] AmigaOS (not yet supported)
+- [ ] Solaris **NOT SUPPORTED**
+- [x] OpenSolaris (partially supported)
+
+</details>
 
 </details>
 
@@ -1770,351 +3097,113 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-</details>
+---
 
-***
-
-## Former organizations
+## Repository of the day (coming soon)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**All organizations** _(As of March 27th 2021)_
+I have plans to make a featured Repoitory of the Day table here, but it would require a lot of time with GitHub workflows, and determining which repositories should be featured.
 
-This list is not maintained. For complete documentation of my organizations, see the [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info)/ repository.
+**Plans:**
 
-As of 2022, August 5th, I was forced to delete all 1000 of my organizations. I deleted all of them by August 14th, but 2 still remain (they cannot be deleted or interacted with, even by me, but they still claim to exist)
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<details><summary><H3>[Click/tap here to expand/collapse this list]</H3></summary>
+```
+Top 6 projects of the day @seanpm2001/seanpm2001
 
-- [Seanwallawalla-software](https://github.com/seanwallawalla-software)
-- [SNU-Development](https://github.com/snu-development)
-- [Seanpm2001-software](https://github.com/seanpm2001-software)
-- [Seanpm2001-lifearchive](https://github.com/seanpm2001-lifearchive)
-- [QMeadows-development](https://github.com/QMeadows-development)
-- [Seanwallawalla-trm](https://github.com/Seanwallawalla-trm)
-- [Seanwallawalla-gaming](https://github.com/seanwallawalla-gaming)
-- [Seanpm2001-all](https://github.com/seanpm2001-all) - Still claims to exist
-- [Seanwallawalla-forks](https://github.com/seanwallawalla-forks) - Still claims to exist
-- [Seanwallawalla-testing](https://github.com/seanwallawalla-testing)
-- [Seanwallawalla-malware](https://github.com/seanwallawalla-malware)
-- [Seanwallawalla-browserextensions](https://github.com/seanwallawalla-browserextensions)
-- [Seanwallawalla-tools](https://github.com/seanwallawalla-tools)
-- [Seanwallawalla-security](https://github.com/seanwallawalla-security)
-- [Seanwallawalla-operating-systems](https://github.com/seanwallawalla-operating-systems)
-- [Seanwallawalla-bots](https://github.com/seanwallawalla-bots)
-- [Seanwallawalla-images](https://github.com/seanwallawalla-images)
-- [Seanwallawalla-audio](https://github.com/seanwallawalla-audio)
-- [Seanwallawalla-social](https://github.com/seanwallawalla-social)
-- [Seanwallawalla-jokeprograms](https://github.com/seanwallawalla-jokeprograms)
-- [Degoogle-your-life](https://github.com/Degoogle-your-life)
-- [CompuSmell](https://github.com/CompuSmell)
-- [Nostalgia-project](https://github.com/Nostalgia-project)
-- [Myrick-family-archive](https://github.com/Myrick-family-archive)
-- [SNU-Programming-Tools](https://github.com/SNU-Programming-Tools)
-- [Seanwallawalla-health](https://github.com/Seanwallawalla-health)
-- [Seanpm2001-articles](https://github.com/Seanpm2001-articles)
-- [GuineaMyrickILifeArchiveProject](https://github.com/GuineaMyrickILifeArchiveProject)
-- [Seanpm2001-libraries](https://github.com/seanpm2001-libraries)
-- [Seanpm2001-discussions](https://github.com/Seanpm2001-discussions)
-- [iBlast-game](https://github.com/iBlast-Game)
-- [UnitedAutismRights](https://github.com/UnitedAutismRights)
-- [Seanpm2001-web](https://github.com/Seanpm2001-web)
-- [Seanpm2001-templates](https://github.com/Seanpm2001-templates)
-- [BGemJam-Game](https://github.com/BGemJam-game)
-- [NimbleBit-Games](https://github.com/NimbleBit-Games)
-- [Tetris128](https://github.com/Tetris128)
-- [Seanpm2001-datapacks](https://github.com/seanpm2001-datapacks)
+2,190 (normal year) to 2,196 (leap year) repos per year
+
+GitHub action that automatically updates this list
+```
 
 </details>
-
-Note: my organizations had multiple purposes, but most of them aimed to serve as a categorized. collection of projects, or a homepage for a project.
-
-</details>
-
-# Search my profile easier with [this helpful Gist](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe/)
-
-This Gist helps with:
-
-* Sorting by language
-* Finding projects through filters
-* Finding additional projects that pass through filters
-
-***
-
-<!-- <details><summary>The Python logo was hidden due to formatting errors. Click/tap here to expand/collapse the Python logo</summary>
-	
-![PythonLogo.png](/Media/PythonLogo.png)
-
-</details> !-->
-
-<img alt="Python logo failed to load. Click/tap here to attempt to view it" src="/Media/PythonLogo.png" width="256" height="256"/> 
-
-## Free software isn't free to develop
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-Remember that free software and open source software is not always free to develop. Make sure to donate to software organizations you like, so that they can keep producing contributions to society.
+| 1/2 | 3/4 | 5/6 |
+|---|---|---|
+| [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `MCPYE`](https://github.com/seanpm2001/MCPYE/) | [:octocat: `GoDot Launcher`](https://github.com/seanpm2001/GoDot_Launcher/) |
+| [:octocat: `QMeadows`](https://github.com/seanpm2001/QMeadows/) [:octocat: `Malware as art`](https://github.com/seanpm2001/Malware-as-art/) | [:octocat: `UCALC`](https://github.com/seanpm2001/UCALC/) |
 
-My list of supported organizations include:
+</details>
 
-* Wikimedia (creators of Wikipedia, Wiktionary, and more)
-* VideoLan (creators of VLC Media Player and other prominent video tools)
-* GNU
-* The Free Software Foundation
-* The Open Document foundation
-* Khan Academy
-* The Linux foundation
-* FFMPEG
-* The Internet Archive (also the creators of the wayback machine)
-* Open Street Map
-* Inkscape
-* Mozilla (moz://a)
-* FreeCodeCamp
-* Mastodon
+These will be the featured repositories for the time being.
 
-**More to be listed**
+</details>
 
 </details>
 
 ***
 
-## Frequently Asked Questions (FAQ)
+_No other projects currently listed._
 
-Since nobody has asked any questions yet, I will list some common ones here:
+</details>
 
-<details><summary>[Click/tap here to expand/collapse the Frequently Asked Questions board list]</summary>
+***
+
+## My goals
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my goals</b></p></summary>
+
+Section is currently empty
+
+</details>
+
+***
+
+## Documentation
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my documentatoion</b></p></summary>
+
+# [:octocat: `Core documentation repository`](https://github.com/seanpm2001/Documentation/)
+
+This is one of my most important repositories. It is a portal to all of my documentation repositories.
+
+***
+
+## README Usage
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**This README file is now being aimed to be a portal to everything I offer online. It is a work-in-progress, and is not yet fully complete. It is also something that will always be gradually updated every once in a while.**
+
+<details open><summary>[Click/tap here to expand/collapse info about my senior photo]</summary>
 	
 ***
+	
+![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
 
-### Why is Python your favorite programming language
+Current profile picture as of March 4th 2021 [Click here to download in full quality (JPEG)](SeniorPhotoFullQuality.jpeg) [Click here to see past profile pictures](#Profile-picture-history)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-See below for the full store. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
-
-</details>
-
-### What got you into programming
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-In 2015, I was switched from an incorrect class to a class I was supposed to be in, which changed my life completely: my 2015 Middle School computer programming class.
-
-Although the class mainly just used Scratch, this is where my interest skyrocketed. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
-
-</details>
-
-### How well can you program in Java
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I took an AP Java class, but I was missing too many stepping stones to fully get it. I did get several concepts of it, and this class familiarized me with Java quite a bit, along with using IDEs (Eclipse) I am not too good at Java, but I can do some basic stuff, not just Hello World programs. I can't write an entire program in Java though, I feel like my knowledge of Java basics and intermediate is 2.8%
-
-</details>
-
-### Why do you use so many different programming languages
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have always been a linguist. I like the looks of all the different programming languages and their syntax. Also, some projects are dependant on some languages. When I create an IDE out of a language, I prefer to use that language to emulate that language.
-
-</details>
-
-### Do you actually know all those languages
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I know a few, but can't do more than the very basics in most. Languages I am good at include Python, BASH/Shell, HTML5, JavaScript, and Java.
-
-</details>
-
-### Why do you put so much info out
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have had years of decisions on what info I put out and what I don't put out. All data put out is thought out for 30 minutes to 5 years beforehand.
-
-</details>
-
-### Why do you have image projects? Doesn't that defeat the point of GitHub
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-It does in a way, but I don't have any good image platforms. Since GitHub is a version control site, and I add in content besides images, it fits pretty well, other than proper image viewing without downloading the repository.
-
-</details>
-
-### Why are so many projects of yours so underdeveloped
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I joined GitHub with the goal of collaboration. I am still building a following, and hope to have developers contributing to these projects based on their interest level in the project. There are so many of them, as I have been going through and adding new ideas as they come up.
-
-</details>
-
-### How are you profitable
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I am not profitable yet, but I am working on it. Since I work in the FOSS industry, I rely on donations and sponsors. I will try to limit my usage of ads (and I will not make sketchy, crappy ads like Playrix's homescape, gardenscape, etc. ads, or ads like about 99.998% of the ads on Google Play)
-
-</details>
-
-### Why did you switch to Linux
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Linux is great. I have had a really, really horrible experience with Windows 10, there is too much to get into. I intended to start with Fedora Linux, but I had to go with Ubuntu 20.04, as I feared that I might void my laptops warranty (which I don't want to do, since this laptop costs over $1.4K)
-
-</details>
-
-### What is the purpose of the life archive project
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-My life archive project is a full-time hobby project where I archive my entire life.
-
-</details>
-
-### Why did you follow over 1000 users one night
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have been trying to gain followers on GitHub so that I eventually get someone to help interact with me on my projects. It has been a very slow process.
-
-I got my account suspended 3 days later, and along with other reasons, I decided not to do this again. All I had to do to unsuspend my account was re-verify my email address.
-
-</details>
-
-### Why do you have so many tabs open
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have a lot of different projects. I have to manage lots of different projects. I have over 70 different Firefox profiles, each one containing their own set of tabs, however I only keep 1-3 profiles open at once. I close out of these when I finish with them for now.
-
-</details>
-
-### Why do you use Wikipedia so much
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Wikipedia is one of my most used sites, GitHub is second. I find Wikipedia to be a great resource, and good for researching programming, chemistry, history, and more. I intend to start donating money to Wikipedia monthly some day. 
-
-</details>
-
-### Why do you play so many different games
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I like to have balance in my life, and have periods to relax from programming. I come up with new ideas during this time period as well, and do other things, such as chores around the house.
-
-</details>
-
-### Why do you play kids games
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I play games that have a general target of kids, but are also just past-time games. Examples include Restaurant/Bakery/Pet Shop/Fashion/Farm/City story, and Merge Plane. These games can be for both kids and adults. I played these games in my childhood, and have nostalgic ties to them. Some of them are just genuinely fun to begin with.
-
-</details>
-
-### Why do you hate Google so much
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Google has a long history of privacy invasion, hypocrasy, being a monopoly, killing off parts of the Internet, and more. I turned against Google in 2018.
-
-</details>
-
-### Why do some of your projects use Go, Dart, or Flutter when you hate Google
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I don't write the entire project in this language, and in the cases I do, it is required for archiving the data and making an IDE (SNU_2D_Programming_Tools) or just a general pun. The 1 project that uses it but is using a degoogled version [(Candroid)](https://github.com/seanpm2001/Candroid)
-
-Also, a few projects are written in Go! (a language that came out over 4 years before Go) its creator got steamrolled and no-one ever really looks at his language due to Googles claim that Go! won't be confused with Go, and that "lots of other projects and languages have the same name" which is not true, Google. You steamrolled him.
-
-Since Go! (2004) and Go (2008/2009) both use the .go file extension, GitHub's lingust feature identifies it as Go instead of Go! Both languages vary significantly in Syntax.
-
-</details>
+If you have been sent here through a link through SMS (text messaging) congratulations! You are a close friend, and one of 73 people/bots who have access to my phone number and have been approved by me. If you would like, you can take a quick look at my [texting guidelines](https://github.com/seanpm2001/SMS-Messaging-with-Sean), or to put it simply: don't spam, don't share my number, and feel free to message me and send me anything at any time (even midnight, or 3:22 am) I likely won't respond immediately, but I will get to you when I am awake.
 
 </details>
 
 ***
 
-## My current setup
-
-This section is for information regarding my current work setup (as of March 26th 2021)
-
-<details><summary>[Click/tap here to expand/collapse the list about my current hardware setup]</summary>
-
-### Current hardware
-
-[Laptop: System76 Pangolin with Ubuntu 22.04](https://system76.com/laptops/pangolin/)
+[GitHub profile secret info](/SECRET.md)
 
 <!--
-[Headphones: Bluetooth Letscom wireless headphones, 100 hour battery, 1200 MaH](https://www.amazon.com/Bluetooth-Headphones-LETSCOM-Wireless-Cellphone/dp/B07TQM2FTD)
+**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 !-->
 
-### Current software
+I joined GitHub on 2020, Monday, May 25th to get my many projects out there. I am skilled in computer programming, and I have many interests. [Learn more about me here](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
-```
-VLC Media Player 3.0.11
+See my year in review for:
 
-Konsole
-
-GNOME System Monitor
-
-Gedit
-
-GNOME Clocks
-
-Mozilla Firefox 84.0.1 (a bit outdated) - on laptop 1, Mozilla Firefox 88.0 (on laptop 2)
-
-GNOME Files/Nautilus
-
-GNOME Calculator
-
-GNOME Extensions
-
-GNOME Settings
-
-LibreOffice 6.4.6.2 {
-
-	LibreOffice Writer 6.4.6.2 (complete open-source alternative to Microsoft Word)
-	
-	LibreOffice Calc 6.4.6.2 (complete open-source alternative to Microsoft Excel)
-	
-	LibreOffice Impress 6.4.6.2 (complete open-source alternative to Microsoft PowerPoint)
-	
-	LibreOffice Base 6.4.6.2 (complete open-source alternative to Microsoft Access)
-
-}
-
-VirtualBox 6.1.10 (a bit outdated) - Not currently in use
-
-Inkscape - Not currently in use
-
-GIMP 2.10
-
-Mari0 (possibly proprietary)
-
-Okular
-
-Typora (proprietary) - No longer used
-
-Audacity 2.10 - No longer used
-
-Notepad++ (running on WINE) - No longer used
-
-Ubuntu 20.04 LTS
-
-Other/unknown
-```
-
-</details>
-
-***
+[Year 1 (2020-2021)](/Special/Year-in-Review/2020-2021/) [Year 2 (2021-2022) **coming soon**](/Special/Year-in-Review/2021-2022/) 
 
 ## Software status
 
@@ -2133,182 +3222,6 @@ This section is used to raise awareness for the problems with DRM, and also to p
 Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
 </details>
-
-***
-
-### What I'm currently learning
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-It isn't exact, I have many interests. What I am always learning include:
-
-* World history
-
-* Computer Programming and computer history
-
-* The languages of the world (linguistics)
-
-* Virtualization
-
-* Solutions to major world problems
-
-* Pre-history
-
-* Psychology
-
-* Current world problems
-
-* Other (non-culinary)
-
-</details>
-
-***
-
-### What I'm looking to collaborate on
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I currently need a technical job. I am willing to work on any ethical computer project, as long as it is written in a language I know well (Python, HTML, Java, JavaScript, CSS, Lisp, Markdown, XML, Shell, or any/all of the ones listed)
-
-<details><summary>[Click/tap here to expand/collapse further collaboration info]</summary>
-
-***
-
-Companies I refuse to work for include:
-
-> Google
-
-> Facebook
-
-> Zoom technologies
-
-> Spectrum Enterprise
-
-> Clever
-
-> No other companies currently listed
-
-Companies I am currently considering include:
-
-> Microsoft [::] - I have some family that works here, and I have had a long past with Microsoft (all the way back to 2005) even though I consider some things Microsoft does as unethical, I wouldn't mind working here (I have a very strong personal experience with Microsoft products, notably Windows XP) If there are any jobs here that use Python, I can do them.
-
-> VideoLan /-\ - I would like to try and write documentation for VideoLan, I am very good at writing documentation, as I enjoy doing it, and I do it most of the day, every day. Currently, VideoLan is unable to have documentation writers due to low amounts of volunteers. If allowed, I will write documentation for every version of VLC that doesn't have it (only in English, I can't do other languages)
-
-> Canonical (&) - I would like to try and contribute to Linux in any way I can. Working at Canonical is currently an option, I don't know exactly what I would do here, but I could hopefully do something.
-
-> The KDE Foundation (K) - KDE would be a nice foundation to work for. I really love their super lightweight open source projects, and I could help reduce even more bloat. If a job is available in a language I have at least 40% knowledge in, I could work here.
-
-> Khan Academy (^) - I would like to help contribute to Khan Academy, I have used the site for nearly 4 years straight on a daily basis. If it would be possible to make videos and articles for them, I have always considered starting a course on virtualization.
-
-> The GNOME organization (G) - if possible, I could try and set some changes to reduce the huge memory usage of GNOME, that has always stuck out as something that needs to be fixed to me. It is still a lot better than Windows 10s memory usage, idle on Windows 10 would use half my RAM, no matter how much I had (4, 8, 16 GB) on my first Linux laptop, it has always stayed below 1.8 gigabytes when idle (also counting the system monitor)
-
-> No other companies currently listed
-
-</details>
-
-</details>
-
-***
-
-#### What I have collaborated on
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have collaborated on a few projects on GitHub, including
-
-<details><summary>[Click/tap here to expand/collapse the list of projects I have helped develop]</summary>
-	
-***
-	
-![/.github/projects/external/1/LinCity_NG.png](/.github/projects/external/1/LinCity_NG.png) - [LinCity NG](https://github.com/lincity-ng/lincity-ng/) - 100% issues (2020) - [1](https://github.com/lincity-ng/lincity-ng/issues/46)
-
-![/.github/projects/external/1/Ruffle_vector_logo.svg](/.github/projects/external/1/Ruffle_vector_logo.svg) [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - 100% code review (2021) [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177) [7](https://github.com/ruffle-rs/ruffle/pull/3819)
-
-![/Media/Firefox3.5_Logo.png](/Media/Firefox3.5_Logo.png) [Firefox Color](https://github.com/mozilla/FirefoxColor/) 100% issues (2021) [1](https://github.com/mozilla/FirefoxColor/issues/971/) (I am responsible for helping to push the change of adding better documentation to the project for non-extension developers)
-
-[Nea/Markdown++](https://github.com/nea/MarkdownViewerPlusPlus) 100% issues (2021) [1](https://github.com/nea/MarkdownViewerPlusPlus/issues/138)
-
-[Jmdugan/Blocklists](https://github.com/jmdugan/blocklists) 100% issues (2021) [1](https://github.com/jmdugan/blocklists/issues/80)
-
-</details>
-
-</details>
-
-***
-
-### What I'm looking to help with
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I will do free technical support for you, or programming related work in my scope of knowledge. I do this on my own time, so I can only help a certain amount of people a day. Before trying to ask for my technical support, try the following to troubleshoot:
-
-> `CTRL` + `Z` - Undoes your last mistake
-
-> Restart your computer
-
-I charge money for technical support ($5.00 per hour) if I have to do these steps more than 3 times in a year for 1 person.
-
-**Some limitations**
-
-I cannot do projects unless the scripts are on GitHub or SourceForge already.
-
-I also can't work on projects that are related to your school work. Please do not ask me to do your school work for you. We could both get in trouble for this.
-
-I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3, Java, C, C++, or JavaScript. I won't be able to help as well with projects written in other languages.
-
-No other limitations listed at the moment.
-
-</details>
-
-***
-
-### GitHub contacts
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-#### Family
-
-`@Microsoft`
-
-[Channa-My](https://github.com/channa-my)
-
-[Lindsay-My](https://github.com/lindsmy)
-
-`@Close`
-
-[Chrism2282](https://github.com/chrism2282)
-
-[Inverno4](https://github.com/inverno4)
-
-[Memewallawalla](https://github.com/memewallawalla)
-
-`@alt_accounts`
-
-[Seanwallawalla](https://github.com/seanwallawalla)
-
-`@friends`
-
-[Torokati44](https://github.com/torokati44) - My first friend gained when developing with them on Ruffle-rs
-
-The friend ship is now departing. Destination: everywhere.
-
-`@tech_idols`
-
-[Linus Torvalds](https://github.com/torvalds)
-
-#### Subscriptions
-
-Projects I am actively monitoring:
-
-[Linux kernel](https://github.com/torvalds/linux) - The Linux kernel
-
-[Ruffle-rs](https://github.com/ruffle-rs/ruffle) - Ruffle, the open source flash player emulator
-
-[CPython](https://github.com/python/cpython) - The Python programming language
-
-</details>
-
-***
 
 ### Feature requests for GitHub
 
@@ -2334,493 +3247,7 @@ There are some features that would be nice for GitHub. They include:
 
 ***
 
-### Ask me about
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Technology, farming, life, language, other.
-
-</details>
-
-***
-
-### How to reach me
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have multiple methods of being reached. Currently, I can't answer to phone calls or text messages, as my phones SIM card randomly got corrupted (in early 2022, I also destroyed the SIM/SD slot in my phone due to overuse, so there is no way to fix this now) Here are some ways you can message me:
-
-* Through GitHub (Comment on my most recently edited project, be careful of the exact time, if not, I should eventually get to your message)
-* Through Discord (`Seanpm2001-GitHub` server link: [Click here](https://discord.gg/CcFpEDQ))
-
-**Discord user links:**
-
-> * `SeanWallaWalla#1709` (my original Discord account)
-> * `seanpm2001#4906` (my newest Discord account)
-
-**Context:**
-
-![Discord_2022.06.21_seanpm_seanpm2001.png](/Media/Discord_Screenshots/2022/June21st/Discord_2022.06.21_seanpm_seanpm2001.png)
-
-On 2022, June 21st, someone joined my Discord server with a username incredibly similar to my own. I had to claim the `seanpm2001` username to prevent an imposter from forming.
-
-* Through Reddit (subreddit link: [Click here r/seanpm2001](https://www.reddit.com/r/seanpm2001/) or through direct message [Click here to view my profile](https://www.reddit.com/user/seanwallawalla/) - currently inactive on the subreddit, but I will likely respond to a reply or DM within 48 hours
-
-There currently aren't any other ways of messaging me
-
-</details>
-
-***
-
-You can find more info on my personal Gist. [Click/tap here to learn more about me](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
-
-***
-
-### Projects on other platforms
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have been using GitHub for software development since May 25th 2020, but I have been programming since early 2016.
-
-On December 21st 2020, I created accounts on SourceForge, GitLab, and BitBucket. I currently don't maintain any projects there at the moment, GitHub still is the powerhouse.
-
-[SourceForge link](https://sourceforge.net/u/seanpm2001/profile/)
-
-[GitLab link](https://gitlab.com/seanpm2001/)
-
-[BitBucket link](https://bitbucket.org/seanpm2001/)
-
-When I joined GitHub, I also intended to use other platforms as well, as something could always go wrong with my account or GitHub itself, and it isn't smart to rely on a single source for everything.
-
-Now, if GitHub is having problems or if you have problems with GitHub, my projects are viewable on 3 other platforms. Unfortunately, they are still only on GitHub, as I don't have enough developers to manage 4 platforms at once, I will eventually mirror my projects over.
-
-</details>
-
-***
-
-### Identity theft
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-To avoid possible identity theft, I will link to all the services I use here.
-
-I am on the following platforms
-
-[Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
-
-[Discord](#How-to-reach-me) - Note: I stopped using Discord full time in 2021 February, but I still use it.
-
-> * SeanWallaWalla#1709 (my original Discord account)
-> * seanpm2001#4906 (my newest Discord account)
-
-[GitHub](https://github.com/seanpm2001) <!-- - Obviously !-->
-
-[YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
-
-* [YouTube second channel](#Identity-theft)
-
-* Other
-
-[Mastodon](https://techhub.social/@seanpm2001)
-
-[Mozilla](#Identity-theft)
-
-[Twitter](https://www.twitter.com/@seanwallawalla) - No longer use as of 2018, slightly cringy, but not too bad
-
-[Scratch](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
-
-* [Scratch attempted main account](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
-
-* Other?
-
-![no-facebook.svg](/Media/no-facebook.svg)
-
-<details><summary><H4>Transcript (if the image fails to load)</H4></summary>
-
-You won't find me on Facebook
-
-Not F'd
-
-</details>
-
-This sticker is supported by [Richard Stallman](https://stallman.org/) to protest Facebook, Instagram, WhatsApp, and other Facebook products.
-
-[Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
-
-[Yelp](#Identit-theft) - Link is incomplete
-
-[Tumblr](https://tumblr.com) - Link is incomplete
-
-[Bandcamp](https://seanwallawalla.bandcamp.com/releases) - My only way of earning money online at the moment
-
-[Quora](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here
-
-[Go90](https://www.example.com) - Created an account, barely attempted to use, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
-
-[Ditty.it](https://www.example.com) - Created and exported all videos, used daily for a while, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
-
-**List is incomplete. Try bugging me to fix it. I will eventually when I have time, but I might not get to it soon enough.**
-
-However, I am not on other platforms. If you see someone posing on me on other platforms, don't take their word, as they are commiting identity theft. _Identity theft is not a joke Jim. Millions of families suffer every year_ - Dwight Shrute (The Office, US version) [YouTube link is you prefer](https://www.youtube.com/watch?v=5f5ni0zpl5E) [Vimeo link, but without the official video, just audio and text](https://vimeo.com/464892816) in all seriousness, Identity theft is an actual problem.
-
-Popular platforms I am not on:
-
-[TikTok](https://tiktok.com) - I am not on TikTok for multiple reasons. The 2 main reasons why I never use TikTok are:
-
-1. It has a plethora of privacy issues and is fully owned by a Chinese company
-
-2. I don't have an interest in this type of video platform
-
-Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Total times I viewed TikTok content from another platform (reuploads, but not links, as that would be visiting TikTok directly): `85+`
-
-</details>
-
-***
-
-### Personal
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have some personal opinions on GitHub. I am working on keeping them contained inside 3 repositories:
-
-[Opinions](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
-
-[Politics](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
-
-> Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
-
-[Sexuality center](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
-
-On GitHub, I have a lot of other personal projects, under the category of a life archive project, which I have been working on extra hard since 2016.
-
-</details>
-
-***
-
-### Autism
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I am on the Autism spectrum. I am on the high functioning part of the spectrum, only suffering from socialization issues (which have gotten much better over my lifetime)
-
-I don't consider my Autism to be a handicap. I feel like it is what makes me, me, and what makes me so outgoing, creative, and smart.
-
-However, there are less fortunate people with Autism who have much more problems due to their position on the spectrum. That is why I have created the [United Autism Rights organization](https://avatars.githubusercontent.com/u/80805036?s=60&v=4) as [A](https://en.wikipedia.org/wiki/Autism_Speaks#View_of_autism_as_a_disease)[u](https://en.wikipedia.org/wiki/Autism_Speaks#Cure_Autism_Now)[t](https://autisticadvocacy.org/2009/10/disability-community-condemns-autism-speaks/)[i](https://www.theguardian.com/society/2007/aug/07/health.medicineandhealth)[s](https://www.vox.com/2015/8/31/9233295/autism-rights-kanner-asperger)[m](http://www.thedailybeast.com/articles/2015/02/25/they-don-t-want-an-autism-cure.html) [S](https://www.latimes.com/opinion/op-ed/la-oe-0824-silberman-autism-speaks-20150824-story.html)[p](https://www.psychologytoday.com/gb/blog/aspergers-alive/201311/reporters-guide-the-autism-speaks-debacle)[e](https://web.archive.org/web/20180615032203/https://www.autismspeaks.org/blog/2015/08/25/call-unity)[a](https://web.archive.org/web/20070630013301/http://www.gettingthewordout.org/home.php)[k](https://web.archive.org/web/20071018030910/http://gettingthetruthout.org/)[s](https://www.newscientist.com/channel/being-human/mg19726414.300-voices-of-autism-silenced-by-charity.html) is NOT helpful at all, and the other alternates currently aren't that effective.
-
-</details>
-
-***
-
-### Profile picture history
-
-<details><summary>[Click/tap here to expand/collapse the list of my GitHub profile picture history]</summary>
-	
-***
-	
-Here is a history of my GitHub profile picture:
-
-![Original profile picture failed to load. Click/tap here to attempt to view it](/Media/65933340.png)
-
-Original (May 25th 2020 to ? 2020)
-
-![Original modified profile picture failed to load. Click/tap here to attempt to view it](/Media/773af859eafc403a8ce6bb3051bd2618 (copy).png)
-
-Original (Windows Explorer transparency glitched version)
-
-![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
-
-Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
-
-</details>
-
-***
-
-### Linux
-
-<details><summary>[Click/tap here to expand/collapse my Linux story]</summary>
-
-I was a fan of Windows up until Windows 10. I began to try to switch to Linux from 2018 to 2020. On July 9th 2020, I finally switched to Linux, getting my first Dell laptop with Linux pre-installed.
-
-![20200709_124359.jpg](/Media/20200709_124359.jpg)
-
-My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
-
-</details>
-
-***
-
-## Sponsor info
-
-<img alt="GitHub Sponsor Badge logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Badges/GitHub/Sponsors/PNG/badge-sponsors-small.png" width="256" height="256"/>
-
-| [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/) | [:octocat: `Sponsoring`](https://github.com/seanpm2001/Sponsoring/) | [:octocat: `Sponsors`](https://github.com/seanpm2001/Sponsors/)
-|---|---|---|
-| How to sponsor me | Who I am sponsoring | Who sponsors me |
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-![SponsorButton.png](SponsorButton.png) <-- Don't click this button, it doesn't work
-
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
-
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
-
-Try it out! The sponsor button is right up next to the watch/unwatch button.
-
-</details>
-
-***
-
-## Submissions
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I am open for accepting submissions for project artwork. I would like to receive skeumorphism and 3D designs for program graphics before I accept flat design and solid color works. I want to give people the option for both skeumorphism, 3D, 2D, Flat, solid color, or whatever the user prefers. I want to start with Skeumorphism, as it is the best (totally not an unbiased opinion)
-
-My recommended formats are SVG (60% recommended) and PNG (40% recommended) for images. Non-graphical submissions can be in any format, as long as it is an open format and is not proprietary (for example: Jade programs are proprietary and currently can't be accepted)
-
-[View my submission rules in better detail by clicking/tapping here](https://github.com/seanpm2001/Submissions/)
-
-</details>
-
-***
-
-## Other hobbies
-
-This is a list of my other hobbies
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-### Photography
-
-<img alt="Original photography profile picture failed to load. Click/tap here to attempt to view it" src="/Media/CameraIcon2.png" width="100"/> 
-
-I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
-
-### Swimming
-
-<img alt="Original swimming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/WaterDropletCool.png" width="100"/> 
-
-I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
-
-### Gaming
-
-<img alt="Original gaming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/VideoGameController_Icon1.png" width="100"/> 
-
-I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
-
-### Graphic design
-
-<img alt="Original graphic design profile picture failed to load. Click/tap here to attempt to view it" src="/Media/GraphicDesignICON.png" width="100"/> 
-
-I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
-
-### Linguist
-
-<img alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Linguistics1.jpeg" width="100"/>  <img alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" width="100"/> 
-
-I have been a linguist since my early childhood. I jokingly changed my middle name to `language` in my early childhood, but I think it would fit as a 2nd middle name.
-
-I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't write completely in a language other than English, Python, HTML, or markdown.
-
-### History buff
-
-<img alt="Original history buff profile picture failed to load. Click/tap here to attempt to view it" src="/Media/FortressBase.png" width="100"/> 
-
-I am a history buff, with knowledge of history spanning back over 13.8 billion years ago (Big Bang) to the current day. I like to learn about history, and I have knowledge of a large assortment of eras and events, including extensive knowledge of things other than World War I or World War II (but I also still know a lot about the 2 world wars) for Earth history, my knowledge goes back to 8000 BCE in extensive detail, down to 27000 BCE in less detail, and mostly geological events before 27000 BCE. I like to learn all types of history, and not just the history of warfare.
-
-I owe my interest in history to my first High School history teacher, who was really enthusiastic about what he was teaching, and was just a general awesome and nice history teacher. I would no doubt make him teacher of the year for that year of High School. Past history classes never got me too into the subject of history, but this one really opened my mind to history.
-
-### Marine biology
-
-<img alt="Original marine biology profile picture failed to load. Click/tap here to attempt to view it" src="/Media/BlackMooreGoldfish.jpeg" width="100"/> 
-
-I recently got back into Marine Biology on March 23rd 2021, and have been learning the subject part-time again. I find it really calming and nostalgic.
-
-[Learn more about it here](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/tree/main/Marine%20Biology)
-
-### Journaling
-
-<img alt="Original journaling profile picture failed to load. Click/tap here to attempt to view it" src="/Media/JournalIcon1.png" width="100"/> 
-
-I keep a daily journal. I have been on and off with this for most of my childhood, until sticking with it every day since September 26th 2016.
-
-The journaling project is part of my life archive project, a digital archive of my entire life.
-
-As of August 7th 2021, the main journal has over 7 million words. I average between 1358-2500/2500-3600/3600-13000 words per day (depending on what happens that day and how much I have to talk about)
-
-I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain related media, and certain templates are public, but several terabytes of data is private (the full journal takes up over 8 gigabytes of space, just for the journal, due to usage of images over a ~5 year period)
-
-### Vexillology
-
-<img alt="Original fotw profile picture failed to load. Click/tap here to attempt to view it" src="/Media/fotw-pgr.gif" width="100"/> 
-
-This is the flag of the Internet, by [FOTW.info](https://www.fotw.info/flags/fotwprfl.html)
-
-Vexillology is the research and study of flags. I have an interest in Vexillology and I enjoy reading about, documenting, and creating flags.
-
-Useful links for if you want to read about flags:
-
-[fotw.info](https://www.fotw.info/flags/index.html) - The top Vexillology website, and also approved by [FIAV](https://fiav.org/) the top Vexillology group
-
-[fiav.org](https://fiav.org/) - Fédération internationale des associations vexillologiques, International Federation of Vexillological Associations, Internationale Föderation Vexillologis, the top group for vexillology
-
-[Reddit: r/vexillology](https://www.reddit.com/r/vexillology/) - Reddits serious forum for flag discussion
-
-[Reddit: r/vexillologycirclejerk](https://www.reddit.com/r/vexillologycirclejerk/) - Reddits humor repository for non-serious, comedic flag discussion and discourse. Memes allowed here.
-
-Some other cool sites:
-
-[Flagwaver (krikinoid.github.io)](https://krikienoid.github.io/flagwaver/) - Turn any image into a waving flag
-
-> [View the source code on GitHub](https://github.com/krikienoid/flagwaver/)
-
-</details>
-
-***
-
-## Blue team
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have 2 teams for my organization system. Blue team is for technical work (digital, analog, hardware, software) and green team is for environmental, and biology work. I am part of the blue team, but I am also part of the green team.
-
-</details>
-
----
-
-## Green team
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have 2 teams for my organization system. Blue team is for technical work (digital, analog, hardware, software) and green team is for environmental, and biology work. I am part of the green team, but I am also part of the blue team.
-
-</details>
-
-***
-
-## Computer user type
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [ ] Low usage - I use the computer very infrequently
-- [ ] Novice - I use the computer sometimes
-- [ ] Average - I use the computer at an average usage
-- [ ] Savvy - I use the computer in a Savvy way
-- [ ] Power user - I use the computer heavily, but not in a savvy way
-- [x] Power user + savvy - I am the type of computer user who uses the computer constantly (over 8 hours per day) and I am extremely tech savvy and experienced. I also use the computer and push it to its very limits at all times of day, wearing down even the most durable computers in less than a year.
-
-***
-
-## Education
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I have completed primary (pre-school, Elementary School) and secondary education (Middle School, High School) I have not yet attempted tertiary education (College/University) because I feel it is too expensive in the US and wouldn't suit me well. I would like to push for a PhD, but I would have to move to Germany, France, Wales, Finland, Sweden, or Switzerland to do so. I am still working on my portfolio too.
-
-</details>
-
-***
-
-Learn even more about me [here (outdated)](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3).
-
-***
-
-## GitHub developer program
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. Here, I will be listing my projects that work with the GitHub API:
-
-### Extensions
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[GitHubby](https://github.com/seanpm2001/GitHubby/) - A tool to customize GitHub to make its appearance and functionality similar to past versions of GitHub. It requires heavy communication with the GitHub API to work. It is not functional yet.
-
-> [GitHubby Snapcraft packae](https://github.com/GitHubby-development/GitHubby-Snap) - The snapcraft package for GitHubby, to run on Linux. Far from complete.
-
-> [GitHubby website (GitHub pages)](https://github.com/GitHubby-development/GitHubby-development.github.io) - The website for the GitHubby project.
-
-[GitMan](https://github.com/seanpm2001/GitMan/) - A tool to manage and automate Git actions across various Git sites. It is not functional yet.
-
-[Chroma Tags for Git](https://github.com/seanpm2001/ChromaTags_ForGit/) - A powerful linguist tool and customizer for Git platforms. It is not functional yet.
-
-</details>
-
-### Marketplace
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-#### My Actions
-
-##### My CI workflows
-
-[Setup Go! (Go2004) GitHub action](https://github.com/seanpm2001/Setup-Go2004-GitHubAction) - This is my first GitHub action. It allows continous integration (CI) with GitHub projects written in the Go! programming language. It is NOT to be used for the Go programming language (which is very similarly named, and easily confusable)
-
-</details>
-
-### Information
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-These projects are information articles regarding my work on Git and GitHub.
-
-[Git image](https://github.com/seanpm2001/Git-image/) - Information regarding Git as an image platform.
-
-[Health project](https://github.com/seanpm2001/GitHub-Health-Project-Article/) - Information regarding my contributions and improvements to open source medical health software.
-
-</details>
-
-### Website modules
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-These website modules are used for maintaining GitHub functionality elsewhere.
-
-[SNU (2D) GitHub mode](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_GitHubMode/) - The GitHub mode submodule for the SNU website framework.
-
-</details>
-
-### Templates
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-These templates are used to increase the efficiency of starting GitHub projects (the latest version takes nearly 4 hours of development time off from a single new project)
-
-[Git Template (V8)](https://github.com/seanpm2001/Git-Template_V8/) - The modern Git template used for automating several project types.
-
-[Template: GitHub Pages (V1)](https://github.com/seanpm2001/Template_GitHubPages_V1/) - Historical; my first template for automating GitHub pages. It was superceded by the V2 GitHub pages template.
-
-[Template: GitHub Pages (V2)](https://github.com/seanpm2001/Template_GitHubPages_V2/) - Historical; my second template for automating GitHub pages. It was superceded by the V3 GitHub pages template.
-
-[Template: GitHub Pages (V3)](https://github.com/seanpm2001/Template_GitHubPages_V3/) - Historical; my third template for automating GitHub pages. It was superceded by the V4 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V4)](https://github.com/seanpm2001/Template_GitHubPages_Default_V4/) - Historical; my fourth template for automating GitHub pages in the default style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Language page) (V4)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V4/) - Historical; my fourth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V5)](https://github.com/seanpm2001/Template_GitHubPages_Default_V5/) - Historical; my fifth template for automating GitHub pages in the default style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
-
-* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V5)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V5/) - Historical; my fifth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V6)](https://github.com/seanpm2001/Template_GitHubPages_Default_V6/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
-
-* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V6)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V6/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V7)](https://github.com/seanpm2001/Template_GitHubPages_Default_V7/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V8 GitHub template (with 12+ variants)
-
-* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V7)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V7/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V8 GitHub template (with 12+ variants)
-
-</details>
-
-### Other
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Other uncategorized projects.
-
-[AUTOMATE-2001](https://github.com/seanpm2001/AUTOMATE-2001/) - A personal use automation tool for automating my automatable tasks on GitHub. It is far from complete, and is not functional yet.
+_End of documentation section._
 
 </details>
 
@@ -2828,19 +3255,9 @@ Other uncategorized projects.
 
 ***
 
-## Email information
+# About this page
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-On 2022 Friday, January 7th, I created my first public email address. I may not be active here, but I will try to be here. The email address will be used for a mailing list.
-
-The current public email address is [seanpm2001-mailing-list@protonmail.com](mailto:seanpm2001-mailing-list@protonmail.com)
-
-The email address is for professional use, and is tied to my GitHub developer program membership. It is to be used for serious inqueries and security reports. It is NOT to be used for conversation, advertising, notifications, or spam. If you wish to chat, I have a [Discord Server](https://discord.gg/CcFpEDQ) here, and I plan to have a more privacy friendly platform for communication in the near future.
-
-Note: this email address is NOT a mailing list, it is just named like that. The name was inspired by the Linux Kernel Mailing List.
-
-</details>
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about this page</b></p></summary>
 
 ***
 
@@ -2865,295 +3282,64 @@ Note: this email address is NOT a mailing list, it is just named like that. The 
 
 </details>
 
-***
+⬆️ Above [(seanpm2001/seanpm2001)](https://github.com/seanpm2001/seanpm2001) - The repository hosting this profile README file
 
-## Platforms I develop for
+<details open><summary><H3>🗄️ Explore this repo:</H3></summary>
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+### GitHub:seanpm2001/seanpm2001
 
-This is a list of the platforms I develop for:
+Outdated, as of 2023, Friday, May 26th
 
-### Linux platform support
+===
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+- 📂 [ .github](/.github/.github_README.md) - The GitHub configuration folder.
+- 📂 [DailyStatus](/DailyStatus/README.md) - An archive of my daily status posts.
+- 📂 [Extermal](/Extermal/) - Stores external data (ProjectWiki, other)
+- 📂 [External](/External/) - Stores external data (ProjectWiki, other) this time with the correct name
+- 📂 [FFTechSupport](/FFTechSupport/) - Stores emergency tech support data, originally for Firefox.
+- 📂 [Fun stuff](/FunStuff/) - A collection of fun extras.
+- 📂 [GitHub Commits](/GitHub_Commits/) - Original location of [daily GitHub images](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub).
+- 📂 [Jumping Text](/JumpingText/) - Jumping text like the Minecraft title screen, only available if moddable through GitHub.
+- 📂 [Kiosk](/Kiosk/) - Various CSV Kiosk data for personal use.
+- 📂 [Media](/Media/) - Miscellaneous images used for the README file you are currently reading.
+- 📂 [Notes](/Notes/) - The original location of [daily GitHub notes](https://github.com/seanpm2001/Git-Templates/).
+- 📂 [OldVersions](/OldVersions/) - Old versions of the README file you are currently reading.
+- 📂 [Sandbox](/Sandbox/) - A test sandbox for testing out certain GitHub functionality.
+- 📂 [Schedule](/Schedule/) - A collection of my schedules.
+- 📂 [Special](/Special/) - Stores special project data
 
-- [x] Ubuntu (12.04 and up)
-- [x] RaspbianOS (Python and Mathematica only at the moment)
-- [ ] Fedora Linux (coming soon)
-- [ ] Gentoo Linux (coming soon)
-- [ ] Arch Linux (coming soon)
-- [ ] ChromeOS/ChromiUmOS **NOT SUPPORTED**
-- [x] Android (partially supported)
+---
 
-</details>
+- 📜 [.gitignore](.gitignore) - A random .gitignore file.
+- 📜 [.readme_update_plans.md](.readme_update_plans.md) - For plans regarding updating the README file (starting with version 9)
+- 📜 [CONTRIBUTING.md](CONTRIBUTING.md) - The `CONTRIBUTING.md` file for this project, containing info on how you can contribute.
+- 📜 [DRM-free_label.en.svg](DRM-free_label.en.svg) - The image file telling you that this project does not contain DRM.
+- 📜 [LANG1.py](LANG1.py) - The first project language file for this project.
+- 📜 [LANG1_V1.py](LANG1_V1.py) - An archive of the first version of the first project language file for this project.
+- 📜 [LANG2.html](LANG2.html) - The second project language file for this project.
+- 📜 [LANG2_V1.html](LANG2_V1.html) - An archive of the first version of the second project language file for this project.
+- 📜 [LICENSE.txt](LICENSE.txt) - The license for this project (GNU General Public License v3.0)
+- 📜 [README.md](README.md) - The README file you are currently reading. (clicking this link will likely reload the page)
+- 📜 [SECRET.md](SECRET.md) - Original text of the GitHub profile secret.
+- 📜 [SeniorPhotoFullQuality.jpeg](SeniorPhotoFullQuality.jpeg) - The full version of my senior photo, used as my profile picture.
+- 📜 [SponsorButton.png](SponsorButton.png) - A graphical copy of the sponsor button for this project.
 
-### BSD platform support
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [x] Mac OS X (10.0-12.0) (Partially supported)
-- [x] iOS (partially supported)
-
-I plan to support BSD more in the future when I know more about it. (MacOS counts as BSD, I think)
-
-</details>
-
-### Windows platform support
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [ ] Windows 1.0.x (not yet supported)
-- [ ] Windows 2.0.x (not yet supported)
-- [ ] Windows 2.1.x (not yet supported)
-- [ ] Windows 3.0.x (not yet supported)
-- [ ] Windows 3.1.x (not yet supported)
-- [ ] Windows NT 3.1.x (not yet supported)
-- [ ] Windows NT 3.5.x (not yet supported)
-- [x] Windows 9x (Windows 95, Windows 98, Windows ME)
-- [x] Windows 2000
-- [x] Windows XP
-- [x] Windows Vista
-- [x] Windows 7
-- [x] Windows 8/8.1
-- [x] Windows 10
-- [ ] Windows 11 (not yet supported)
-
-</details>
-
-### Other platform support
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [x] ReactOS
-- [ ] AmigaOS (not yet supported)
-- [ ] Solaris **NOT SUPPORTED**
-- [x] OpenSolaris (partially supported)
-
-</details>
+===
 
 </details>
 
 ***
 
-### Media
-
-**Additional media formats**
-
-- [:octocat: `Radio`](https://github.com/seanpm2001/Radio/)
-- - Information on radio projects.
-
-***
-
-## Special
-
-### Skyline
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
-
-<details><summary><H3>[Click/tap here to expand/collapse the GitHub skyline data list]</H3></summary>
-
-## Skyline 2008
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008/)
-
-[View STL file](/Special/GitHub_Skyline/2008/seanpm2001-2008.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2009
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009/)
-
-[View STL file](/Special/GitHub_Skyline/2009/seanpm2001-2009.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2010
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010/)
-
-[View STL file](/Special/GitHub_Skyline/2010/seanpm2001-2010.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2011
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011/)
-
-[View STL file](/Special/GitHub_Skyline/2011/seanpm2001-2011.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2012
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012/)
-
-[View STL file](/Special/GitHub_Skyline/2012/seanpm2001-2012.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2013
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013/)
-
-[View STL file](/Special/GitHub_Skyline/2013/seanpm2001-2013.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2014
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014/)
-
-[View STL file](/Special/GitHub_Skyline/2014/seanpm2001-2014.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2015
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015/)
-
-[View STL file](/Special/GitHub_Skyline/2015/seanpm2001-2015.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2016
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016/)
-
-[View STL file](/Special/GitHub_Skyline/2016/seanpm2001-2016.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2017
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017/)
-
-[View STL file](/Special/GitHub_Skyline/2017/seanpm2001-2017.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2018
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018/)
-
-[View STL file](/Special/GitHub_Skyline/2018/seanpm2001-2018.stl)
-
-**Note: no data for this year, I started in 2020.**
-
-</details>
-
-## Skyline 2019
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Note: no data for this year, I started in 2020.**
-
-[View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019/)
-
-[View STL file](/Special/GitHub_Skyline/2019/seanpm2001-2019.stl)
-
-</detials>
-
-## Skyline 2020
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020/)
-
-[View STL file](/Special/GitHub_Skyline/2020/seanpm2001-2020.stl)
-
-</details>
-
-## Skyline 2021
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021/)
-
-[View STL file](/Special/GitHub_Skyline/2021/seanpm2001-2021.stl)
-
-</details>
-
-## Skyline 2022
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2022 via GitHub skyline](https://skyline.github.com/seanpm2001/2022/)
-
-[View STL file](/Special/GitHub_Skyline/2022/seanpm2001-2022.stl)
-
-</details>
-
-## Skyline 2023
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-[View skyline 2023 via GitHub skyline](https://skyline.github.com/seanpm2001/2023/)
-
-[View STL file (coming soon)]
-
-</details> <!-- End of Skyline 2023 !-->
-
-</details> <!-- End of Skyline data list !-->
-
-</details> <!-- End of skyline section !-->
-
-***
-
-### File info
+# File info
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `76 (2023, Saturday, March 23rd at 08:35 pm PST)`
-- **Line count (including blank lines and compiler line):** `05,923`
-- **Word count:** `036,817`
-- **Character count (with spaces):** `0,255,057 characters (258.72 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,223,169 characters (258.72 kilobytes, due to special character usage)`
+- **File version:** `77 (2023, Sunday, March 24th at 04:21 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,166`
+- **Word count:** `037,655`
+- **Character count (with spaces):** `0,261,071 characters (264.738 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,228,282 characters (264.738 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3166,7 +3352,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ***
 
-### File version history
+# File version history
 
 <!-- This section is commented out to enable better scrolling. Fork/download the project to view the source code, or "view raw" to see the file history !-->
 
@@ -4877,13 +5063,38 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-<details><summary><b lang="en">Version 77 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 77 (2024, Sunday, March 24th at 04:21 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the third update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a long time to make, and was stressful at times, as I had to move most sections around, which was overwhelming. The goal of doing 3 tasks per day was met today, although one of the largest tasks was done today, which could have counted in itself of 3 tasks._
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 77
+- [x] Updated several sections [this README entry needs to be updated in the future]
+- [x] Updated information on the remodel of this project
+- [x] Moved around most sections into a new tree of sections
+- [x] Added the Lead (header) megasection
+- [x] Added the About me megasection
+- [x] Added the Life megasection
+- [x] Added the Technology megasection
+- [x] Added the Statistics megasection
+- [x] Added the Family megasection
+- [x] Added the Friends megasection
+- [x] Added the My projects megasection
+- [x] Added the My goals megasection
+- [x] Added the Documentation megasection
+- [x] Added the About this page megasection
+- [x] Added the Footer megasection
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 77
+- [ ] No other changes in version 77
 
 </details>
 
@@ -5766,7 +5977,35 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
+<details><summary><b lang="en">Version 153 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 153
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 154 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 154
+
+</details>
+
+---
+
 _End of file version history_
+
+</details>
+
+***
+
+_End of about this page section._
 
 </details>
 
@@ -5860,7 +6099,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-# Optimizing this page
+# [Optimizing this page](#Optimizing-this-page)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -5874,7 +6113,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 
 ***
 
-# Developer limits
+# [Developer limits](#Developer-limits)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -5899,6 +6138,10 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 
 </details>
 
+| `Preceeded by` | `Preceeded by` | `Preceeded by` | `Preceeded by` | **Current** | `Succeeded by` |
+|--------------|--------------|--------------|---------|--------------|--------------|
+| ***Position established*** | **@Seanspokane2015** | **@SeanTRM** | [:octocat: `@seanwallawalla`](https://github.com/seanwallawalla/) | **@seanpm2001** | ***Incumbent*** |
+
 ***
 
 # [Footer](#Footer)
@@ -5915,7 +6158,7 @@ You have reached the end of this page.
 
 **🄯 Copyleft [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
 
-### End of file
+### [End of file](#End-of-file)
 
 ###### [EOF](#EOF)
 
