@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-^^ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
+↑ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
 ***
 
@@ -34,7 +34,8 @@
 
 I am in the process of remodeling my GitHub profile page. Since I am not actively working on it, this may take a while. Remodeling started on 2024, Saturday March 23rd. I will not be implementing them today, as I am just brainstorming ideas for now. Here are my current goals
 
-**Note to self:** _Feel free to add more entries whenever necessary_
+- **Note to self:** _Feel free to add more entries whenever necessary_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 1 day down, as of 2024, Saturday, May 23rd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
 
@@ -56,37 +57,13 @@ Follower milestones
 
 1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
 
-Display this
-
-|``|`
-**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-|`|``|
-
-- 🔭 I’m currently working on _a variety of projects_
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: _[social media list, email]_
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: ...
-
 Notes about calendar
 Notes about municipalities, etc
 CCM (Commit Count Milestones) listing
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
 Mention of RepoData
-Update to file tree
+Update to file tree (more entries, and condense new+existing ones)
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Update to document limits
@@ -122,15 +99,131 @@ Improvements to language translation process, and info on this
 AUTOMATE2001 information
 Centering various tables and text
 Internet status and speedtest link
+anti-Google | to go under: stances
+100 private repositories (as of 2024, Saturday, March 23rd)
+Labels
+Blockchain, web -3
+Information on forks, how to find source, and the problem with forks on GitHub
+Alt account info
+Discussions for /seanpm2001/seanpm2001/
+Getting started
+Favorite works
+Style guides
+FreeCodeCamp
+History research + my areas of research
+Wikipedia and Wikipedia accounts, with source
+Public domain gallery of myself
+Timeline (2015-2024)
+GitHub skyline 2024
+Succeeded by: Incumbent
+Preceeded by: Seanwallawalla <- SeanTRM
+Forks and browsing forks
+Tabs and tab video (plus a sample, speed it up if needed)
+My server and server plans + request for help
+GistHub
+Graphic design info (programs used)
+Virtual machine info
+Artificial Intelligence projects
+Anime section
+vCard and identification section (vCard may not be possible)
+My web stack
+Rework of index
+| Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+New icon to center at the top
+New flags
+Government section
+Music section
+| AudioDB, bandcamp
+Certificates
+Learn repository
+Pets
+| Goats
+| Chickens
+| Horses
+| Fish
+| | Marine Biology repo
+| Dogs
+| Cats
+UnSaaSS project
+Add copyleft notice, and license notice (GPL3) to the footer, similar to your recent Favicon Pages projects.
+Add anchor links to all headings
+
+DIVIDE THE PAGE INTO MAJOR SECTIONS (MAJOR GOAL, EMPHASIZED)
+
+| Lead (header)
+| About me
+| | Life
+| | Technology
+| | | Statistics
+| | Family
+| | Friends
+| My projects
+| | My goals
+| | Documentation
+| About this page
+| Footer
+```
+
+**Implemented so far:**
+
+```
+Add copyleft notice, and license notice (GPL3) to the footer, similar to your recent Favicon Pages projects.
+
+Display this
+
+|``|`
+**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+|`|``|
+
+- 🔭 I’m currently working on _a variety of projects_
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: _[social media list, email]_
+- 😄 Pronouns: _He/Him_
+- ⚡ Fun fact: ...
+
+Radio section
+Ukraine message
 ```
 
 </details>
 
 ---
 
-End of remodel information
+_End of remodel information_
 
 </details>
+
+***
+
+## Ukraine
+
+[![Stand With Ukraine banner failed to load](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://savelife.in.ua/en/)
+
+[Local image link](/Graphics/Ukraine/StandWithUkraine/banner2-direct.svg)
+
+<!-- Using this version, so that the source repository can detect another supporter !-->
+
+<!-- I feel this message was far overdue to be added to my profile. !-->
+
+![#StandWithUkraine](/Badges/U/Ukraine/StandWithUkraineBanner.svg)
+
+[`Wikipedia summary`](https://en.wikipedia.org/w/index.php?title=Russian_invasion_of_Ukraine&oldid=1215221241&useskin=monobook)
+
+> On 24 February 2022, Russia invaded Ukraine in an escalation of the Russo-Ukrainian War that started in 2014. The invasion became the largest attack on a European country since World War II. It is estimated to have caused tens of thousands of Ukrainian civilian casualties and hundreds of thousands of military casualties. By June 2022, Russian troops occupied about 20% of Ukrainian territory. From a population of 41 million in January 2022, about 8 million Ukrainians had been internally displaced and more than 8.2 million had fled the country by April 2023, creating Europe's largest refugee crisis since World War II. Extensive environmental damage caused by the war, widely described as an ecocide, contributed to food crises worldwide.
+
+[:octocat: `I will be listening to the Ukrainian National Anthem daily until the war ends. You can join me if you want to`](https://github.com/seanpm2001/SeansAudioDB/tree/master/Music/1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/2022/Daily/)
 
 ***
 
@@ -176,17 +269,15 @@ Do you want to have these counters on your profile? They are pretty easy to set 
 
 > Helpful link: [Emoji guide](https://allcontributors.org/docs/en/emoji-key/)
 
-[Profile views](https://github.com/antonkomarev/github-profile-views-counter/)
-
-[GitHub Streaks (consecutive days)](https://github.com/DenverCoder1/github-readme-streak-stats/)
-
-[GitHub Stats](https://github.com/anuraghazra/github-readme-stats/)
+- [Profile views](https://github.com/antonkomarev/github-profile-views-counter/)
+- [GitHub Streaks (consecutive days)](https://github.com/DenverCoder1/github-readme-streak-stats/)
+- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats/)
 
 > * [Top languages](https://github.com/anuraghazra/github-readme-stats#demo-1)
 
 [GitHub profile README generator](https://github.com/rahuldkjain/github-profile-readme-generator/)
 
-[New GitHub profile stats (requires installation, read more here)](https://github.com/jstrieb/github-stats)
+- [New GitHub profile stats (requires installation, read more here)](https://github.com/jstrieb/github-stats)
 
 Or you can copy my setup and make your way from there (or do both)
 
@@ -273,6 +364,38 @@ To add your statistics to your GitHub Profile README, copy and paste the followi
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ```
+
+</details>
+
+***
+
+## GitHub profile template
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the GitHub profile template section]</b></p></summary>
+
+```markdown
+**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+```
+
+- **Work in progress**
+
+- 🔭 I’m currently working on _a variety of projects_
+- 🌱 I’m currently learning _..._
+- 👯 I’m looking to collaborate on _..._
+- 🤔 I’m looking for help with _..._
+- 💬 Ask me about _..._
+- 📫 How to reach me: _[social media list, email](#404)_
+- 😄 Pronouns: _He/Him_
+- ⚡ Fun fact: _..._
 
 </details>
 
@@ -2812,6 +2935,15 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 
 ***
 
+### Media
+
+**Additional media formats**
+
+- [:octocat: `Radio`](https://github.com/seanpm2001/Radio/)
+- - Information on radio projects.
+
+***
+
 ## Special
 
 ### Skyline
@@ -3017,11 +3149,11 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `75 (2023, Saturday, March 23rd at 05:40 pm PST)`
-- **Line count (including blank lines and compiler line):** `5,748`
-- **Word count:** `35,912`
-- **Character count (with spaces):** `248,944 characters (252.53 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `218,021 characters (252.53 kilobytes, due to special character usage)`
+- **File version:** `76 (2023, Saturday, March 23rd at 08:35 pm PST)`
+- **Line count (including blank lines and compiler line):** `05,923`
+- **Word count:** `036,817`
+- **Character count (with spaces):** `0,255,057 characters (258.72 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,223,169 characters (258.72 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4716,13 +4848,30 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-<details><summary><b lang="en">Version 76 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 76 (2024, Saturday, March 23rd at 08:35 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the second update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. I implemented 4 ideas today, and gave myself 65 more days to get it done._
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 76
+- [x] Updated information on the remodel of this project
+- [x] Added the `Ukraine` section
+- [x] Added the `GitHub profile template` section
+- [x] Added the `Media` section
+- - [x] Added the `Radio` subsection
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 76
+- [x] Updated the footer
+- - [x] Added Copyleft notice and link to license file
+- [ ] No other changes in version 76
 
 </details>
 
@@ -5595,25 +5744,31 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
+<details><summary><b lang="en">Version 151 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 151
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 152 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 152
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
-
-***
-
-### Footer
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-This is a long extended profile description. You have gotten through it. Below is my commit activity and featured projects and Gists. All that has already been listed in this description.
-
-You have reached the end of this page.
-
-( [Return to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to GistHub (Gist.github.com)](https://gist.github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
-
-</details>
-
-### End of file
 
 ***
 
@@ -5743,5 +5898,25 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **RAM goal:** `>32MB per tab` (Firefox, SeaMonkey, DuckDuckGo, Konqueror, Pale Moon, IceCat) `>256MB per tab (Brave, Google Chrome, Microsoft Edge, Opera, Vivaldi, Google Chromium) ?b per tab (Other)
 
 </details>
+
+***
+
+# [Footer](#Footer)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This is a long extended profile description. You have gotten through it. Below is my commit activity and featured projects and Gists. All that has already been listed in this description.
+
+You have reached the end of this page.
+
+( [Return to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to GistHub (Gist.github.com)](https://gist.github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
+
+</details>
+
+**🄯 Copyleft [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
+
+### End of file
+
+###### [EOF](#EOF)
 
 ***
