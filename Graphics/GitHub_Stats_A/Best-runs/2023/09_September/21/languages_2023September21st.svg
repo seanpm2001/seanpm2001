@@ -1,0 +1,3713 @@
+<svg id="gh-dark-mode-only" width="360" height="210" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+#background {
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  fill: white;
+  stroke: rgb(225, 228, 232);
+  stroke-width: 1px;
+  rx: 6px;
+  ry: 6px;
+}
+
+#gh-dark-mode-only:target #background {
+  fill: #0d1117;
+  stroke-width: 0.5px;
+}
+
+foreignObject {
+  width: calc(100% - 10px - 32px);
+  height: calc(100% - 10px - 24px);
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(36, 41, 46);
+  fill: rgb(36, 41, 46);
+}
+
+#gh-dark-mode-only:target h2 {
+  color: #c9d1d9;
+  fill: #c9d1d9;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li {
+  display: inline-flex;
+  font-size: 12px;
+  margin-right: 2ch;
+  align-items: center;
+  flex-wrap: nowrap;
+  transform: translateX(-500%);
+  animation: slideIn 2s ease-in-out forwards;
+}
+
+@keyframes slideIn {
+  to {
+    transform: translateX(0);
+  }
+}
+
+div.ellipsis {
+  height: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.octicon {
+  fill: rgb(88, 96, 105);
+  margin-right: 0.5ch;
+  vertical-align: top;
+}
+
+#gh-dark-mode-only:target .octicon {
+  color: #8b949e;
+  fill: #8b949e;
+}
+
+.progress {
+  display: flex;
+  height: 8px;
+  overflow: hidden;
+  background-color: rgb(225, 228, 232);
+  border-radius: 6px;
+  outline: 1px solid transparent;
+  margin-bottom: 1em;
+}
+
+#gh-dark-mode-only:target .progress {
+  background-color: rgba(110, 118, 129, 0.4);
+}
+
+.progress-item {
+  outline: 2px solid rgb(225, 228, 232);
+  border-collapse: collapse;
+}
+
+#gh-dark-mode-only:target .progress-item {
+  outline: 2px solid #393f47;
+}
+
+.lang {
+  font-weight: 600;
+  margin-right: 4px;
+  color: rgb(36, 41, 46);
+}
+
+#gh-dark-mode-only:target .lang {
+  color: #c9d1d9;
+}
+
+.percent {
+  color: rgb(88, 96, 105)
+}
+
+#gh-dark-mode-only:target .percent {
+  color: #8b949e;
+}
+</style>
+<g>
+<rect x="5" y="5" id="background" />
+<g>
+<foreignObject x="21" y="17" width="318" height="176">
+<div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
+
+<h2>Languages Used (By File Size)</h2>
+
+<div>
+<span class="progress">
+<span style="background-color: #e34c26;width: 41.929%;" class="progress-item"></span><span style="background-color: #3572A5;width: 12.308%;" class="progress-item"></span><span style="background-color: #000000;width: 9.911%;" class="progress-item"></span><span style="background-color: #083fa1;width: 9.211%;" class="progress-item"></span><span style="background-color: #198CE7;width: 4.719%;" class="progress-item"></span><span style="background-color: #555555;width: 4.079%;" class="progress-item"></span><span style="background-color: #ff9900;width: 2.853%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.887%;" class="progress-item"></span><span style="background-color: #198ce7;width: 1.163%;" class="progress-item"></span><span style="background-color: #F05138;width: 1.071%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.932%;" class="progress-item"></span><span style="background-color: #292929;width: 0.882%;" class="progress-item"></span><span style="background-color: #6E4C13;width: 0.736%;" class="progress-item"></span><span style="background-color: #701516;width: 0.482%;" class="progress-item"></span><span style="background-color: #dd1100;width: 0.369%;" class="progress-item"></span><span style="background-color: #237346;width: 0.257%;" class="progress-item"></span><span style="background-color: #b07219;width: 0.235%;" class="progress-item"></span><span style="background-color: #000000;width: 0.226%;" class="progress-item"></span><span style="background-color: #f50000;width: 0.160%;" class="progress-item"></span><span style="background-color: #ecdebe;width: 0.147%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 0.140%;" class="progress-item"></span><span style="background-color: #ffc200;width: 0.116%;" class="progress-item"></span><span style="background-color: #355570;width: 0.108%;" class="progress-item"></span><span style="background-color: #cb171e;width: 0.094%;" class="progress-item"></span><span style="background-color: #82937f;width: 0.088%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.087%;" class="progress-item"></span><span style="background-color: #1e4aec;width: 0.087%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.086%;" class="progress-item"></span><span style="background-color: #4d41b1;width: 0.073%;" class="progress-item"></span><span style="background-color: #E3F171;width: 0.073%;" class="progress-item"></span><span style="background-color: #c22d40;width: 0.072%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.068%;" class="progress-item"></span><span style="background-color: #341708;width: 0.066%;" class="progress-item"></span><span style="background-color: #3178c6;width: 0.065%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.060%;" class="progress-item"></span><span style="background-color: #ba595e;width: 0.060%;" class="progress-item"></span><span style="background-color: #60B5CC;width: 0.058%;" class="progress-item"></span><span style="background-color: #6866fb;width: 0.056%;" class="progress-item"></span><span style="background-color: #0000fb;width: 0.056%;" class="progress-item"></span><span style="background-color: #878787;width: 0.055%;" class="progress-item"></span><span style="background-color: #ff0000;width: 0.053%;" class="progress-item"></span><span style="background-color: #d20b00;width: 0.053%;" class="progress-item"></span><span style="background-color: #e4cc98;width: 0.052%;" class="progress-item"></span><span style="background-color: #b2b7f8;width: 0.050%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.050%;" class="progress-item"></span><span style="background-color: #3fb68b;width: 0.049%;" class="progress-item"></span><span style="background-color: #a56de2;width: 0.048%;" class="progress-item"></span><span style="background-color: #012456;width: 0.048%;" class="progress-item"></span><span style="background-color: #dea584;width: 0.048%;" class="progress-item"></span><span style="background-color: #b845fc;width: 0.048%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.047%;" class="progress-item"></span><span style="background-color: #5e5086;width: 0.046%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.045%;" class="progress-item"></span><span style="background-color: #4f87c4;width: 0.042%;" class="progress-item"></span><span style="background-color: #ff5847;width: 0.041%;" class="progress-item"></span><span style="background-color: #000100;width: 0.040%;" class="progress-item"></span><span style="background-color: #e16737;width: 0.038%;" class="progress-item"></span><span style="background-color: #d1dbe0;width: 0.038%;" class="progress-item"></span><span style="background-color: #000080;width: 0.038%;" class="progress-item"></span><span style="background-color: #04133b;width: 0.038%;" class="progress-item"></span><span style="background-color: #0298c3;width: 0.036%;" class="progress-item"></span><span style="background-color: #0000cc;width: 0.036%;" class="progress-item"></span><span style="background-color: #178600;width: 0.036%;" class="progress-item"></span><span style="background-color: #FF790B;width: 0.035%;" class="progress-item"></span><span style="background-color: #4298b8;width: 0.035%;" class="progress-item"></span><span style="background-color: #6e4a7e;width: 0.034%;" class="progress-item"></span><span style="background-color: #94B0C7;width: 0.033%;" class="progress-item"></span><span style="background-color: #000000;width: 0.032%;" class="progress-item"></span><span style="background-color: #DAE1C2;width: 0.031%;" class="progress-item"></span><span style="background-color: #ff0c5a;width: 0.030%;" class="progress-item"></span><span style="background-color: #FF6800;width: 0.030%;" class="progress-item"></span><span style="background-color: #8f14e9;width: 0.029%;" class="progress-item"></span><span style="background-color: #5232e7;width: 0.029%;" class="progress-item"></span><span style="background-color: #000000;width: 0.029%;" class="progress-item"></span><span style="background-color: #DBCA00;width: 0.029%;" class="progress-item"></span><span style="background-color: #000000;width: 0.029%;" class="progress-item"></span><span style="background-color: #c065db;width: 0.028%;" class="progress-item"></span><span style="background-color: #74283c;width: 0.026%;" class="progress-item"></span><span style="background-color: #427819;width: 0.026%;" class="progress-item"></span><span style="background-color: #5686a5;width: 0.025%;" class="progress-item"></span><span style="background-color: #0060ac;width: 0.024%;" class="progress-item"></span><span style="background-color: #882B0F;width: 0.024%;" class="progress-item"></span><span style="background-color: #5a6986;width: 0.024%;" class="progress-item"></span><span style="background-color: #0e60e3;width: 0.024%;" class="progress-item"></span><span style="background-color: #336790;width: 0.024%;" class="progress-item"></span><span style="background-color: #6a40fd;width: 0.024%;" class="progress-item"></span><span style="background-color: #244776;width: 0.023%;" class="progress-item"></span><span style="background-color: #000000;width: 0.023%;" class="progress-item"></span><span style="background-color: #3c5caa;width: 0.023%;" class="progress-item"></span><span style="background-color: #000000;width: 0.023%;" class="progress-item"></span><span style="background-color: #0064bd;width: 0.023%;" class="progress-item"></span><span style="background-color: #4d6977;width: 0.023%;" class="progress-item"></span><span style="background-color: #c6538c;width: 0.023%;" class="progress-item"></span><span style="background-color: #ff4585;width: 0.023%;" class="progress-item"></span><span style="background-color: #000000;width: 0.023%;" class="progress-item"></span><span style="background-color: #3F85AF;width: 0.022%;" class="progress-item"></span><span style="background-color: #1a1a1a;width: 0.022%;" class="progress-item"></span><span style="background-color: #101F1F;width: 0.022%;" class="progress-item"></span><span style="background-color: #DA3434;width: 0.021%;" class="progress-item"></span><span style="background-color: #000000;width: 0.021%;" class="progress-item"></span><span style="background-color: #ff7f7f;width: 0.021%;" class="progress-item"></span><span style="background-color: #dc566d;width: 0.021%;" class="progress-item"></span><span style="background-color: #10253f;width: 0.021%;" class="progress-item"></span><span style="background-color: #44a51c;width: 0.021%;" class="progress-item"></span><span style="background-color: #1D222D;width: 0.021%;" class="progress-item"></span><span style="background-color: #ed5051;width: 0.021%;" class="progress-item"></span><span style="background-color: #db5855;width: 0.020%;" class="progress-item"></span><span style="background-color: #141414;width: 0.019%;" class="progress-item"></span><span style="background-color: #fed659;width: 0.018%;" class="progress-item"></span><span style="background-color: #15dcdc;width: 0.018%;" class="progress-item"></span><span style="background-color: #1d365d;width: 0.018%;" class="progress-item"></span><span style="background-color: #2F2530;width: 0.018%;" class="progress-item"></span><span style="background-color: #000000;width: 0.018%;" class="progress-item"></span><span style="background-color: #000000;width: 0.018%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.018%;" class="progress-item"></span><span style="background-color: #d12127;width: 0.018%;" class="progress-item"></span><span style="background-color: #f7931e;width: 0.018%;" class="progress-item"></span><span style="background-color: #ef7a08;width: 0.018%;" class="progress-item"></span><span style="background-color: #9400ff;width: 0.018%;" class="progress-item"></span><span style="background-color: #EB8CEB;width: 0.018%;" class="progress-item"></span><span style="background-color: #2596be;width: 0.018%;" class="progress-item"></span><span style="background-color: #ccce35;width: 0.018%;" class="progress-item"></span><span style="background-color: #6c616e;width: 0.018%;" class="progress-item"></span><span style="background-color: #000000;width: 0.018%;" class="progress-item"></span><span style="background-color: #e10098;width: 0.018%;" class="progress-item"></span><span style="background-color: #B9D9FF;width: 0.018%;" class="progress-item"></span><span style="background-color: #c1d026;width: 0.018%;" class="progress-item"></span><span style="background-color: #ed2cd6;width: 0.018%;" class="progress-item"></span><span style="background-color: #000000;width: 0.018%;" class="progress-item"></span><span style="background-color: #0d665e;width: 0.018%;" class="progress-item"></span><span style="background-color: #c4a79c;width: 0.018%;" class="progress-item"></span><span style="background-color: #d4bec1;width: 0.017%;" class="progress-item"></span><span style="background-color: #E22837;width: 0.017%;" class="progress-item"></span><span style="background-color: #ec915c;width: 0.017%;" class="progress-item"></span><span style="background-color: #5B2063;width: 0.017%;" class="progress-item"></span><span style="background-color: #FFCFAB;width: 0.017%;" class="progress-item"></span><span style="background-color: #B83998;width: 0.017%;" class="progress-item"></span><span style="background-color: #fc5757;width: 0.017%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 0.016%;" class="progress-item"></span><span style="background-color: #2ACCA8;width: 0.016%;" class="progress-item"></span><span style="background-color: #000000;width: 0.016%;" class="progress-item"></span><span style="background-color: #df7900;width: 0.015%;" class="progress-item"></span><span style="background-color: #0096D8;width: 0.015%;" class="progress-item"></span><span style="background-color: #3A4E3A;width: 0.015%;" class="progress-item"></span><span style="background-color: #15A13C;width: 0.015%;" class="progress-item"></span><span style="background-color: #a53b70;width: 0.015%;" class="progress-item"></span><span style="background-color: #000000;width: 0.015%;" class="progress-item"></span><span style="background-color: #701516;width: 0.015%;" class="progress-item"></span><span style="background-color: #adb2cb;width: 0.014%;" class="progress-item"></span><span style="background-color: #cc9900;width: 0.014%;" class="progress-item"></span><span style="background-color: #945db7;width: 0.014%;" class="progress-item"></span><span style="background-color: #fedf5b;width: 0.014%;" class="progress-item"></span><span style="background-color: #000000;width: 0.014%;" class="progress-item"></span><span style="background-color: #fcd7de;width: 0.013%;" class="progress-item"></span><span style="background-color: #C7D7DC;width: 0.012%;" class="progress-item"></span><span style="background-color: #2af0ff;width: 0.012%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.012%;" class="progress-item"></span><span style="background-color: #d90e09;width: 0.012%;" class="progress-item"></span><span style="background-color: #fb855d;width: 0.012%;" class="progress-item"></span><span style="background-color: #358a5b;width: 0.012%;" class="progress-item"></span><span style="background-color: #d0b68c;width: 0.012%;" class="progress-item"></span><span style="background-color: #5ce600;width: 0.012%;" class="progress-item"></span><span style="background-color: #0579aa;width: 0.012%;" class="progress-item"></span><span style="background-color: #14253c;width: 0.012%;" class="progress-item"></span><span style="background-color: #2BDE21;width: 0.012%;" class="progress-item"></span><span style="background-color: #2f4aab;width: 0.012%;" class="progress-item"></span><span style="background-color: #cf142b;width: 0.012%;" class="progress-item"></span><span style="background-color: #222c37;width: 0.012%;" class="progress-item"></span><span style="background-color: #9c4221;width: 0.012%;" class="progress-item"></span><span style="background-color: #2f4aab;width: 0.012%;" class="progress-item"></span><span style="background-color: #9EEDFF;width: 0.012%;" class="progress-item"></span><span style="background-color: #ff269e;width: 0.012%;" class="progress-item"></span><span style="background-color: #f0c040;width: 0.012%;" class="progress-item"></span><span style="background-color: #cdd0e3;width: 0.012%;" class="progress-item"></span><span style="background-color: #66AABB;width: 0.012%;" class="progress-item"></span><span style="background-color: #844FBA;width: 0.012%;" class="progress-item"></span><span style="background-color: #7e858d;width: 0.012%;" class="progress-item"></span><span style="background-color: #ffaff3;width: 0.012%;" class="progress-item"></span><span style="background-color: #000000;width: 0.012%;" class="progress-item"></span><span style="background-color: #8dc63f;width: 0.012%;" class="progress-item"></span><span style="background-color: #519aba;width: 0.012%;" class="progress-item"></span><span style="background-color: #199f4b;width: 0.012%;" class="progress-item"></span><span style="background-color: #ffefaf;width: 0.012%;" class="progress-item"></span><span style="background-color: #ece2a9;width: 0.012%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.012%;" class="progress-item"></span><span style="background-color: #005C9C;width: 0.012%;" class="progress-item"></span><span style="background-color: #7790B2;width: 0.012%;" class="progress-item"></span><span style="background-color: #5562ac;width: 0.012%;" class="progress-item"></span><span style="background-color: #0040cd;width: 0.012%;" class="progress-item"></span><span style="background-color: #2fcc9f;width: 0.012%;" class="progress-item"></span><span style="background-color: #D12127;width: 0.012%;" class="progress-item"></span><span style="background-color: #000000;width: 0.012%;" class="progress-item"></span><span style="background-color: #2b2b2b;width: 0.012%;" class="progress-item"></span><span style="background-color: #ff5a03;width: 0.012%;" class="progress-item"></span><span style="background-color: #f68712;width: 0.012%;" class="progress-item"></span><span style="background-color: #00B4AB;width: 0.011%;" class="progress-item"></span><span style="background-color: #D08CF2;width: 0.011%;" class="progress-item"></span><span style="background-color: #00ef8b;width: 0.011%;" class="progress-item"></span><span style="background-color: #000000;width: 0.011%;" class="progress-item"></span><span style="background-color: #662D91;width: 0.011%;" class="progress-item"></span><span style="background-color: #c30e9b;width: 0.011%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 0.011%;" class="progress-item"></span><span style="background-color: #cca760;width: 0.011%;" class="progress-item"></span><span style="background-color: #00BCD1;width: 0.011%;" class="progress-item"></span><span style="background-color: #67b8de;width: 0.010%;" class="progress-item"></span><span style="background-color: #199f4b;width: 0.010%;" class="progress-item"></span><span style="background-color: #7e7eff;width: 0.009%;" class="progress-item"></span><span style="background-color: #0d948f;width: 0.009%;" class="progress-item"></span><span style="background-color: #99AAFF;width: 0.009%;" class="progress-item"></span><span style="background-color: #4B6C4B;width: 0.009%;" class="progress-item"></span><span style="background-color: #ff2b2b;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #1C3552;width: 0.009%;" class="progress-item"></span><span style="background-color: #B0CE4E;width: 0.009%;" class="progress-item"></span><span style="background-color: #E6EFBB;width: 0.009%;" class="progress-item"></span><span style="background-color: #a54c4d;width: 0.009%;" class="progress-item"></span><span style="background-color: #220000;width: 0.009%;" class="progress-item"></span><span style="background-color: #02f88c;width: 0.009%;" class="progress-item"></span><span style="background-color: #77d9fb;width: 0.009%;" class="progress-item"></span><span style="background-color: #c42727;width: 0.009%;" class="progress-item"></span><span style="background-color: #724b3b;width: 0.009%;" class="progress-item"></span><span style="background-color: #41b883;width: 0.009%;" class="progress-item"></span><span style="background-color: #3d8137;width: 0.009%;" class="progress-item"></span><span style="background-color: #c80fa0;width: 0.009%;" class="progress-item"></span><span style="background-color: #a91e50;width: 0.009%;" class="progress-item"></span><span style="background-color: #d8ffff;width: 0.009%;" class="progress-item"></span><span style="background-color: #FFEC25;width: 0.009%;" class="progress-item"></span><span style="background-color: #a270ba;width: 0.009%;" class="progress-item"></span><span style="background-color: #009639;width: 0.009%;" class="progress-item"></span><span style="background-color: #24255d;width: 0.009%;" class="progress-item"></span><span style="background-color: #9DC3FF;width: 0.009%;" class="progress-item"></span><span style="background-color: #02303a;width: 0.009%;" class="progress-item"></span><span style="background-color: #21D789;width: 0.009%;" class="progress-item"></span><span style="background-color: #9d5200;width: 0.009%;" class="progress-item"></span><span style="background-color: #52d5ff;width: 0.009%;" class="progress-item"></span><span style="background-color: #a957b0;width: 0.009%;" class="progress-item"></span><span style="background-color: #B5314C;width: 0.009%;" class="progress-item"></span><span style="background-color: #a86454;width: 0.009%;" class="progress-item"></span><span style="background-color: #a52f4e;width: 0.009%;" class="progress-item"></span><span style="background-color: #00bce4;width: 0.009%;" class="progress-item"></span><span style="background-color: #aace60;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #636746;width: 0.009%;" class="progress-item"></span><span style="background-color: #dce200;width: 0.009%;" class="progress-item"></span><span style="background-color: #34EB6B;width: 0.009%;" class="progress-item"></span><span style="background-color: #3d3c6e;width: 0.009%;" class="progress-item"></span><span style="background-color: #00a6a6;width: 0.009%;" class="progress-item"></span><span style="background-color: #fbb03b;width: 0.009%;" class="progress-item"></span><span style="background-color: #499886;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #9CC134;width: 0.009%;" class="progress-item"></span><span style="background-color: #6594b9;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #a52a22;width: 0.009%;" class="progress-item"></span><span style="background-color: #dfafff;width: 0.009%;" class="progress-item"></span><span style="background-color: #00FFAE;width: 0.009%;" class="progress-item"></span><span style="background-color: #1797c0;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #383838;width: 0.009%;" class="progress-item"></span><span style="background-color: #f0a9f0;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #00A300;width: 0.009%;" class="progress-item"></span><span style="background-color: #106da9;width: 0.009%;" class="progress-item"></span><span style="background-color: #007eff;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #8D6747;width: 0.009%;" class="progress-item"></span><span style="background-color: #234d6b;width: 0.009%;" class="progress-item"></span><span style="background-color: #5886E1;width: 0.009%;" class="progress-item"></span><span style="background-color: #9933cc;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #ff0000;width: 0.009%;" class="progress-item"></span><span style="background-color: #7b9db4;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #0050b2;width: 0.009%;" class="progress-item"></span><span style="background-color: #32AB90;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #555e25;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #244776;width: 0.009%;" class="progress-item"></span><span style="background-color: #cd6400;width: 0.009%;" class="progress-item"></span><span style="background-color: #E8274B;width: 0.009%;" class="progress-item"></span><span style="background-color: #64C800;width: 0.009%;" class="progress-item"></span><span style="background-color: #dc75e5;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #fffaa0;width: 0.009%;" class="progress-item"></span><span style="background-color: #000000;width: 0.009%;" class="progress-item"></span><span style="background-color: #3AA2B5;width: 0.009%;" class="progress-item"></span><span style="background-color: #73a0c5;width: 0.009%;" class="progress-item"></span><span style="background-color: #447265;width: 0.009%;" class="progress-item"></span><span style="background-color: #0092d1;width: 0.009%;" class="progress-item"></span><span style="background-color: #ffcc33;width: 0.009%;" class="progress-item"></span><span style="background-color: #1a1a1a;width: 0.009%;" class="progress-item"></span><span style="background-color: #DE3941;width: 0.009%;" class="progress-item"></span><span style="background-color: #315665;width: 0.009%;" class="progress-item"></span><span style="background-color: #AA6746;width: 0.008%;" class="progress-item"></span><span style="background-color: #b2011d;width: 0.008%;" class="progress-item"></span><span style="background-color: #dfa535;width: 0.008%;" class="progress-item"></span><span style="background-color: #AA70FF;width: 0.008%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.008%;" class="progress-item"></span><span style="background-color: #264b99;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #da291c;width: 0.006%;" class="progress-item"></span><span style="background-color: #007800;width: 0.006%;" class="progress-item"></span><span style="background-color: #4C3023;width: 0.006%;" class="progress-item"></span><span style="background-color: #e38c00;width: 0.006%;" class="progress-item"></span><span style="background-color: #46390b;width: 0.006%;" class="progress-item"></span><span style="background-color: #64b970;width: 0.006%;" class="progress-item"></span><span style="background-color: #223388;width: 0.006%;" class="progress-item"></span><span style="background-color: #403a40;width: 0.006%;" class="progress-item"></span><span style="background-color: #00c0b5;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #140f46;width: 0.006%;" class="progress-item"></span><span style="background-color: #b30000;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #ff6347;width: 0.006%;" class="progress-item"></span><span style="background-color: #572e30;width: 0.006%;" class="progress-item"></span><span style="background-color: #003a52;width: 0.006%;" class="progress-item"></span><span style="background-color: #5EC8DB;width: 0.006%;" class="progress-item"></span><span style="background-color: #348a34;width: 0.006%;" class="progress-item"></span><span style="background-color: #6bac65;width: 0.006%;" class="progress-item"></span><span style="background-color: #7d9199;width: 0.006%;" class="progress-item"></span><span style="background-color: #596706;width: 0.006%;" class="progress-item"></span><span style="background-color: #302B6D;width: 0.006%;" class="progress-item"></span><span style="background-color: #665a4e;width: 0.006%;" class="progress-item"></span><span style="background-color: #3d57c3;width: 0.006%;" class="progress-item"></span><span style="background-color: #87AED7;width: 0.006%;" class="progress-item"></span><span style="background-color: #ff4a48;width: 0.006%;" class="progress-item"></span><span style="background-color: #dad8d8;width: 0.006%;" class="progress-item"></span><span style="background-color: #B34936;width: 0.006%;" class="progress-item"></span><span style="background-color: #b0b77e;width: 0.006%;" class="progress-item"></span><span style="background-color: #3ac486;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #7582D1;width: 0.006%;" class="progress-item"></span><span style="background-color: #4A76B8;width: 0.006%;" class="progress-item"></span><span style="background-color: #141AC9;width: 0.006%;" class="progress-item"></span><span style="background-color: #00004c;width: 0.006%;" class="progress-item"></span><span style="background-color: #6067af;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #652B81;width: 0.006%;" class="progress-item"></span><span style="background-color: #62A8D6;width: 0.006%;" class="progress-item"></span><span style="background-color: #3F3F3F;width: 0.006%;" class="progress-item"></span><span style="background-color: #4b0079;width: 0.006%;" class="progress-item"></span><span style="background-color: #e5cd45;width: 0.006%;" class="progress-item"></span><span style="background-color: #00007a;width: 0.006%;" class="progress-item"></span><span style="background-color: #867db1;width: 0.006%;" class="progress-item"></span><span style="background-color: #c7254e;width: 0.006%;" class="progress-item"></span><span style="background-color: #d03600;width: 0.006%;" class="progress-item"></span><span style="background-color: #c94949;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #148AA8;width: 0.006%;" class="progress-item"></span><span style="background-color: #c9df40;width: 0.006%;" class="progress-item"></span><span style="background-color: #1a1a1a;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #3fb34f;width: 0.006%;" class="progress-item"></span><span style="background-color: #fede06;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #222c37;width: 0.006%;" class="progress-item"></span><span style="background-color: #f69e1d;width: 0.006%;" class="progress-item"></span><span style="background-color: #646464;width: 0.006%;" class="progress-item"></span><span style="background-color: #00b841;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #88ccff;width: 0.006%;" class="progress-item"></span><span style="background-color: #f2a542;width: 0.006%;" class="progress-item"></span><span style="background-color: #1a5f91;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #0178b8;width: 0.006%;" class="progress-item"></span><span style="background-color: #000000;width: 0.006%;" class="progress-item"></span><span style="background-color: #fbbd16;width: 0.006%;" class="progress-item"></span><span style="background-color: #b7e1f4;width: 0.006%;" class="progress-item"></span><span style="background-color: #a3522f;width: 0.006%;" class="progress-item"></span><span style="background-color: #ffe7ac;width: 0.006%;" class="progress-item"></span><span style="background-color: #77aa99;width: 0.006%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.006%;" class="progress-item"></span><span style="background-color: #76d275;width: 0.006%;" class="progress-item"></span><span style="background-color: #185619;width: 0.005%;" class="progress-item"></span><span style="background-color: #42f1f4;width: 0.005%;" class="progress-item"></span><span style="background-color: #dbb284;width: 0.005%;" class="progress-item"></span><span style="background-color: #800000;width: 0.005%;" class="progress-item"></span><span style="background-color: #295b9a;width: 0.005%;" class="progress-item"></span><span style="background-color: #1da6e0;width: 0.004%;" class="progress-item"></span><span style="background-color: #FF5000;width: 0.004%;" class="progress-item"></span><span style="background-color: #ca0f21;width: 0.003%;" class="progress-item"></span><span style="background-color: #de1d31;width: 0.003%;" class="progress-item"></span><span style="background-color: #FEFE00;width: 0.003%;" class="progress-item"></span><span style="background-color: #64E6AD;width: 0.003%;" class="progress-item"></span><span style="background-color: #814CCC;width: 0.003%;" class="progress-item"></span><span style="background-color: #a9188d;width: 0.000%;" class="progress-item"></span><span style="background-color: #71b417;width: 0.000%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.000%;" class="progress-item"></span>
+</span>
+</div>
+
+<ul>
+
+
+<li style="animation-delay: 0ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HTML</span>
+<span class="percent">41.93%</span>
+</li>
+
+
+<li style="animation-delay: 150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Python</span>
+<span class="percent">12.31%</span>
+</li>
+
+
+<li style="animation-delay: 300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Rich Text Format</span>
+<span class="percent">9.91%</span>
+</li>
+
+
+<li style="animation-delay: 450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#083fa1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Markdown</span>
+<span class="percent">9.21%</span>
+</li>
+
+
+<li style="animation-delay: 600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#198CE7;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">R</span>
+<span class="percent">4.72%</span>
+</li>
+
+
+<li style="animation-delay: 750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#555555;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">C</span>
+<span class="percent">4.08%</span>
+</li>
+
+
+<li style="animation-delay: 900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff9900;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SVG</span>
+<span class="percent">2.85%</span>
+</li>
+
+
+<li style="animation-delay: 1050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f34b7d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">C++</span>
+<span class="percent">1.89%</span>
+</li>
+
+
+<li style="animation-delay: 1200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#198ce7;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RMarkdown</span>
+<span class="percent">1.16%</span>
+</li>
+
+
+<li style="animation-delay: 1350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#F05138;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Swift</span>
+<span class="percent">1.07%</span>
+</li>
+
+
+<li style="animation-delay: 1500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">JavaScript</span>
+<span class="percent">0.93%</span>
+</li>
+
+
+<li style="animation-delay: 1650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#292929;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">JSON</span>
+<span class="percent">0.88%</span>
+</li>
+
+
+<li style="animation-delay: 1800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6E4C13;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Assembly</span>
+<span class="percent">0.74%</span>
+</li>
+
+
+<li style="animation-delay: 1950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#701516;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Ruby</span>
+<span class="percent">0.48%</span>
+</li>
+
+
+<li style="animation-delay: 2100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dd1100;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Mathematica</span>
+<span class="percent">0.37%</span>
+</li>
+
+
+<li style="animation-delay: 2250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#237346;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CSV</span>
+<span class="percent">0.26%</span>
+</li>
+
+
+<li style="animation-delay: 2400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b07219;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Java</span>
+<span class="percent">0.23%</span>
+</li>
+
+
+<li style="animation-delay: 2550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Pony</span>
+<span class="percent">0.23%</span>
+</li>
+
+
+<li style="animation-delay: 2700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f50000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Red</span>
+<span class="percent">0.16%</span>
+</li>
+
+
+<li style="animation-delay: 2850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ecdebe;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Roff</span>
+<span class="percent">0.15%</span>
+</li>
+
+
+<li style="animation-delay: 3000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4F5D95;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PHP</span>
+<span class="percent">0.14%</span>
+</li>
+
+
+<li style="animation-delay: 3150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ffc200;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Nim</span>
+<span class="percent">0.12%</span>
+</li>
+
+
+<li style="animation-delay: 3300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#355570;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GDScript</span>
+<span class="percent">0.11%</span>
+</li>
+
+
+<li style="animation-delay: 3450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#cb171e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">YAML</span>
+<span class="percent">0.09%</span>
+</li>
+
+
+<li style="animation-delay: 3600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#82937f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Gosu</span>
+<span class="percent">0.09%</span>
+</li>
+
+
+<li style="animation-delay: 3750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#563d7c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CSS</span>
+<span class="percent">0.09%</span>
+</li>
+
+
+<li style="animation-delay: 3900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1e4aec;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Scheme</span>
+<span class="percent">0.09%</span>
+</li>
+
+
+<li style="animation-delay: 4050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Shell</span>
+<span class="percent">0.09%</span>
+</li>
+
+
+<li style="animation-delay: 4200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4d41b1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Fortran</span>
+<span class="percent">0.07%</span>
+</li>
+
+
+<li style="animation-delay: 4350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#E3F171;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Pascal</span>
+<span class="percent">0.07%</span>
+</li>
+
+
+<li style="animation-delay: 4500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c22d40;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Scala</span>
+<span class="percent">0.07%</span>
+</li>
+
+
+<li style="animation-delay: 4650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#A97BFF;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Kotlin</span>
+<span class="percent">0.07%</span>
+</li>
+
+
+<li style="animation-delay: 4800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#341708;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Forth</span>
+<span class="percent">0.07%</span>
+</li>
+
+
+<li style="animation-delay: 4950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3178c6;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">TypeScript</span>
+<span class="percent">0.07%</span>
+</li>
+
+
+<li style="animation-delay: 5100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#438eff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Objective-C</span>
+<span class="percent">0.06%</span>
+</li>
+
+
+<li style="animation-delay: 5250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ba595e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">D</span>
+<span class="percent">0.06%</span>
+</li>
+
+
+<li style="animation-delay: 5400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#60B5CC;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Elm</span>
+<span class="percent">0.06%</span>
+</li>
+
+
+<li style="animation-delay: 5550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6866fb;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Objective-C++</span>
+<span class="percent">0.06%</span>
+</li>
+
+
+<li style="animation-delay: 5700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0000fb;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Raku</span>
+<span class="percent">0.06%</span>
+</li>
+
+
+<li style="animation-delay: 5850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#878787;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Hack</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 6000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff0000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">BASIC</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 6150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d20b00;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Gerber Image</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 6300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e4cc98;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Tcl</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 6450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b2b7f8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Verilog</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 6600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00ADD8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Go</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 6750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3fb68b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Common Lisp</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 6900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a56de2;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Vala</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 7050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#012456;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PowerShell</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 7200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dea584;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Rust</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 7350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b845fc;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">F#</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 7500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C1F12E;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Batchfile</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 7650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5e5086;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Haskell</span>
+<span class="percent">0.05%</span>
+</li>
+
+
+<li style="animation-delay: 7800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3D6117;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">TeX</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 7950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4f87c4;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">V</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 8100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff5847;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Reason</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 8250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000100;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Crystal</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 8400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e16737;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">MATLAB</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 8550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d1dbe0;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">INI</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 8700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000080;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Lua</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 8850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#04133b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">WebAssembly</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 9000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0298c3;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Perl</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 9150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0000cc;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GAP</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 9300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#178600;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">C#</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 9450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FF790B;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Euphoria</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 9600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4298b8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Groovy</span>
+<span class="percent">0.04%</span>
+</li>
+
+
+<li style="animation-delay: 9750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6e4a7e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Elixir</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 9900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#94B0C7;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">nesC</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 10050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">M</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 10200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DAE1C2;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SystemVerilog</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 10350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff0c5a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Objective-J</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 10500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FF6800;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GSC</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 10650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#8f14e9;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Metal</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 10800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5232e7;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">XQuery</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 10950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">WebVTT</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 11100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DBCA00;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Lex</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 11250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">M4</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 11400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c065db;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Emacs Lisp</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 11550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#74283c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Prolog</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 11700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#427819;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Makefile</span>
+<span class="percent">0.03%</span>
+</li>
+
+
+<li style="animation-delay: 11850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5686a5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GLSL</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 12000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0060ac;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">XML</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 12150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#882B0F;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ActionScript</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 12300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5a6986;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PureBasic</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 12450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0e60e3;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Harbour</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 12600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#336790;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PLpgSQL</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 12750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6a40fd;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Classic ASP</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 12900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#244776;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CoffeeScript</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 13050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">NSIS</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 13200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3c5caa;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Racket</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 13350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Zeek</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 13500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0064bd;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Jsonnet</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 13650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4d6977;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Eiffel</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 13800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c6538c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SCSS</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 13950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff4585;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">MoonScript</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 14100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Diff</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 14250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3F85AF;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Clean</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 14400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1a1a1a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Csound Document</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 14550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#101F1F;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AppleScript</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 14700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DA3434;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CMake</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 14850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">desktop</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 15000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff7f7f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Ren'Py</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 15150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dc566d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Standard ML</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 15300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#10253f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Modula-2</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 15450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#44a51c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">QML</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 15600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1D222D;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PureScript</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 15750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ed5051;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ReScript</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 15900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#db5855;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Clojure</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 16050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#141414;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">reStructuredText</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 16200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fed659;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Q#</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 16350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#15dcdc;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">VBScript</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 16500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1d365d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Less</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 16650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2F2530;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Brainfuck</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 16800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">COBOL</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 16950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Linker Script</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 17100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e38c00;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SQLPL</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 17250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d12127;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ApacheConf</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 17400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f7931e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Handlebars</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 17550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ef7a08;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">OCaml</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 17700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#9400ff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ASP.NET</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 17850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#EB8CEB;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">XSLT</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 18000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2596be;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Graphviz (DOT)</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 18150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ccce35;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">E</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 18300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6c616e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Dylan</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 18450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Cool</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 18600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e10098;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GraphQL</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 18750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#B9D9FF;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AGS Script</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 18900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c1d026;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Twig</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 19050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ed2cd6;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ColdFusion</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 19200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">QMake</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 19350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0d665e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ZAP</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 19500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c4a79c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Max</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 19650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d4bec1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Boo</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 19800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#E22837;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">mcfunction</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 19950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ec915c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Zig</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 20100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5B2063;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Gherkin</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 20250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FFCFAB;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GCC Machine Description</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 20400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#B83998;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Erlang</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 20550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fc5757;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Wikitext</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 20700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DA5B0B;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Jupyter Notebook</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 20850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2ACCA8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">API Blueprint</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 21000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GDB</span>
+<span class="percent">0.02%</span>
+</li>
+
+
+<li style="animation-delay: 21150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#df7900;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Haxe</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 21300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0096D8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Processing</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 21450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3A4E3A;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Cuda</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 21600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#15A13C;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Berry</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 21750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a53b70;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Sass</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 21900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Pod</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 22050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#701516;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RDoc</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 22200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#adb2cb;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">VHDL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 22350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#cc9900;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">LOLCODE</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 22500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#945db7;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Visual Basic .NET</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 22650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fedf5b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Cython</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 22800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Gettext Catalog</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 22950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fcd7de;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PigLatin</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 23100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#C7D7DC;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AngelScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 23250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2af0ff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Earthly</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 23400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e38c00;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">TSQL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 23550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d90e09;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">REXX</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 23700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fb855d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Genie</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 23850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#358a5b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Rebol</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 24000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d0b68c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Coq</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 24150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5ce600;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">OpenEdge ABL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 24300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0579aa;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Self</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 24450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#14253c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Fantom</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 24600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2BDE21;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RPGLE</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 24750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2f4aab;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">KiCad Layout</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 24900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#cf142b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Turing</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 25050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#222c37;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Unity3D Asset</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 25200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#9c4221;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">TOML</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 25350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2f4aab;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">KiCad Schematic</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 25500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#9EEDFF;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">J</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 25650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff269e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Antlers</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 25800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f0c040;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Smarty</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 25950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#cdd0e3;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Oxygene</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 26100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#66AABB;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">BrighterScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 26250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#844FBA;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HCL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 26400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7e858d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Mako</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 26550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ffaff3;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Gleam</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 26700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HyPhy</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 26850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#8dc63f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Chapel</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 27000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#519aba;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Bicep</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 27150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#199f4b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Vim Snippet</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 27300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ffefaf;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HolyC</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 27450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ece2a9;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Haml</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 27600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f7523f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Blade</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 27750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#005C9C;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HTTP</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 27900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7790B2;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Hy</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 28050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5562ac;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Bikeshed</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 28200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0040cd;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">q</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 28350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2fcc9f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SugarSS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 28500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#D12127;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Thrift</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 28650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CartoCSS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 28800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#2b2b2b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Slim</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 28950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff5a03;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Astro</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 29100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f68712;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HXML</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 29250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00B4AB;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Dart</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 29400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#D08CF2;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">G-code</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 29550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00ef8b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Cadence</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 29700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Logos</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 29850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#662D91;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Brightscript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 30000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c30e9b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Awk</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 30150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff3e00;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Svelte</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 30300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#cca760;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Dogescript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 30450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00BCD1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ZenScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 30600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#67b8de;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Liquid</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 30750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#199f4b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Vim Script</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 30900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7e7eff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Nix</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 31050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0d948f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Closure Templates</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 31200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#99AAFF;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ImageJ Macro</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 31350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4B6C4B;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Yacc</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 31500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff2b2b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Mercury</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 31650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Limbo</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 31800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1C3552;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AutoIt</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 31950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#B0CE4E;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Component Pascal</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 32100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#E6EFBB;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AMPL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 32250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a54c4d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">UnrealScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 32400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#220000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">YARA</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 32550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#02f88c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Ada</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 32700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#77d9fb;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RAML</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 32850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c42727;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Cap'n Proto</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 33000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#724b3b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Mustache</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 33150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#41b883;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Vue</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 33300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3d8137;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Nunjucks</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 33450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c80fa0;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Boogie</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 33600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a91e50;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">EJS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 33750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d8ffff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Macaulay2</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 33900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FFEC25;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Dafny</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 34050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a270ba;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Julia</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 34200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#009639;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Nginx</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 34350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#24255d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Xtend</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 34500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#9DC3FF;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ANTLR</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 34650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#02303a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Gradle</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 34800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#21D789;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">JetBrains MPS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 34950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#9d5200;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Ragel</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 35100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#52d5ff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Windows Registry Entries</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 35250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a957b0;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AspectJ</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 35400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#B5314C;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Common Workflow Language</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 35550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a86454;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Pug</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 35700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a52f4e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Beef</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 35850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00bce4;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">BitBake</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 36000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#aace60;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HLSL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 36150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Lean</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 36300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#636746;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Factor</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 36450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dce200;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HiveQL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 36600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#34EB6B;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AIDL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 36750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3d3c6e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Nemerle</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 36900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00a6a6;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">MAXScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 37050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fbb03b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Motoko</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 37200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#499886;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">LiveScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 37350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Eagle</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 37500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">STAR</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 37650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#9CC134;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Augeas</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 37800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6594b9;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AutoHotkey</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 37950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">DTrace</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 38100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a52a22;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Jinja</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 38250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dfafff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Dhall</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 38400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00FFAE;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">BlitzBasic</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 38550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1797c0;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Apex</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 38700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">WebIDL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 38850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#383838;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Wren</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 39000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f0a9f0;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Gnuplot</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 39150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Monkey</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 39300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00A300;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CLIPS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 39450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#106da9;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">HAProxy</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 39600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#007eff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Slash</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 39750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">EBNF</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 39900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#8D6747;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Monkey C</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 40050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#234d6b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PEG.js</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 40200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5886E1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CUE</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 40350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#9933cc;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Uno</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 40500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">GN</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 40650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Sage</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 40800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff0000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Grammatical Framework</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 40950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7b9db4;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Fancy</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 41100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">DIGITAL Command Language</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 41250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0050b2;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">FreeMarker</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 41400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#32AB90;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">YASnippet</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 41550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Befunge</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 41700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Protocol Buffer</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 41850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#555e25;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ABAP CDS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 42000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Pure Data</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 42150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#244776;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CSON</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 42300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#cd6400;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">BlitzMax</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 42450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#E8274B;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ABAP</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 42600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#64C800;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Alloy</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 42750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dc75e5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ZIL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 42900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">XS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 43050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fffaa0;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Rascal</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 43200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Creole</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 43350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3AA2B5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 43500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#73a0c5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">AsciiDoc</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 43650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#447265;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">DM</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 43800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0092d1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CAP CDS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 43950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ffcc33;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Fluent</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 44100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1a1a1a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Csound Score</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 44250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#DE3941;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RouterOS Script</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 44400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#315665;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Agda</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 44550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#AA6746;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Solidity</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 44700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b2011d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Stan</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 44850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dfa535;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Ceylon</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 45000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#AA70FF;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">OpenQASM</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 45150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#384d54;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Dockerfile</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 45300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#264b99;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Inno Setup</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 45450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Inform 7</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 45600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#da291c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PostScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 45750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#007800;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Meson</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 45900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4C3023;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">LFE</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 46050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e38c00;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SQL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 46200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#46390b;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SuperCollider</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 46350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#64b970;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">sed</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 46500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#223388;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Modula-3</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 46650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#403a40;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">xBase</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 46800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00c0b5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RobotFramework</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 46950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Smali</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 47100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#140f46;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CodeQL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 47250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b30000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Idris</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 47400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Module Management System</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 47550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff6347;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Stylus</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 47700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#572e30;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">F*</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 47850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#003a52;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">DataWeave</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 48000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#5EC8DB;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">MLIR</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 48150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#348a34;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SRecode Template</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 48300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6bac65;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">POV-Ray SDL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 48450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7d9199;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Open Policy Agent</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 48600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#596706;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Smalltalk</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 48750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#302B6D;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Puppet</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 48900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#665a4e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RUNOFF</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 49050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3d57c3;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">mIRC Script</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 49200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#87AED7;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">NewLisp</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 49350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ff4a48;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Cairo</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 49500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dad8d8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PLSQL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 49650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#B34936;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SAS</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 49800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b0b77e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ooc</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 49950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3ac486;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Nextflow</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 50100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SWIG</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 50250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#7582D1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">wisp</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 50400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4A76B8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">MQL5</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 50550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#141AC9;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">FreeBasic</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 50700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00004c;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Terra</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 50850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#6067af;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PicoLisp</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 51000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ABNF</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 51150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#652B81;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">LookML</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 51300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#62A8D6;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">MQL4</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 51450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3F3F3F;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SQF</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 51600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4b0079;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">TLA</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 51750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e5cd45;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">OpenSCAD</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 51900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00007a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">CWeb</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 52050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#867db1;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">VBA</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 52200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c7254e;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">jq</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 52350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#d03600;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Jasmin</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 52500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c94949;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SmPL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 52650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Pod 6</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 52800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#148AA8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">VCL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 52950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#c9df40;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Nu</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 53100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1a1a1a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Csound</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 53250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Linux Kernel Module</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 53400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3fb34f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">StringTemplate</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 53550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fede06;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">LabVIEW</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 53700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">XProc</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 53850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RenderScript</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 54000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Wavefront Material</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 54150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Wavefront Object</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 54300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#222c37;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">ShaderLab</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 54450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f69e1d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SourcePawn</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 54600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#646464;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SaltStack</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 54750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00b841;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Qt Script</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 54900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Proguard</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 55050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">NASL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 55200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#88ccff;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">FLUX</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 55350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f2a542;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Latte</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 55500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1a5f91;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Stata</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 55650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">SMT</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 55800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#0178b8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">TXL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 55950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#000000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">RPC</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 56100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#fbbd16;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">PlantUML</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 56250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b7e1f4;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">MTML</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 56400ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a3522f;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">IDL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 56550ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ffe7ac;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Textile</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 56700ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#77aa99;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Org</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 56850ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00ADD8;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Go Module</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 57000ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#76d275;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Starlark</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 57150ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#185619;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">LLVM</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 57300ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#42f1f4;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">WDL</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 57450ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dbb284;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Pawn</span>
+<span class="percent">0.01%</span>
+</li>
+
+
+<li style="animation-delay: 57600ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#800000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Squirrel</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 57750ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#295b9a;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Logtalk</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 57900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#1da6e0;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">kvlang</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 58050ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FF5000;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Ballerina</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 58200ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#ca0f21;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Scilab</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 58350ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#de1d31;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Modelica</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 58500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#FEFE00;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Isabelle</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 58650ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#64E6AD;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Singularity</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 58800ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#814CCC;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">1C Enterprise</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 58950ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#a9188d;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Io</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 59100ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#71b417;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Game Maker Language</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+<li style="animation-delay: 59250ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3B2F63;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Procfile</span>
+<span class="percent">0.00%</span>
+</li>
+
+
+
+</ul>
+
+</div>
+</foreignObject>
+</g>
+</g>
+</svg>
