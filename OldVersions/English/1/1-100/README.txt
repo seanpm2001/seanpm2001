@@ -26,6 +26,114 @@
 | ![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
 !-->
 
+***
+
+# 🏗️ REMODEL IN PROGRESS 🚧️
+
+<details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
+
+I am in the process of remodeling my GitHub profile page. Since I am not actively working on it, this may take a while. Remodeling started on 2024, Saturday March 23rd. I will not be implementing them today, as I am just brainstorming ideas for now. Here are my current goals
+
+**Note to self:** _Feel free to add more entries whenever necessary_
+
+<details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
+
+```
+todo with seanpm2001/seanpm2001
+
+Résumé at top
+Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
+Best ever GitHub Stats A runs
+
+Improvements to guestbook display
+
+- Dropdown of people who have signed
+- More links
+
+GitHub social statistics section
+
+Follower milestones
+
+1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
+
+Display this
+
+|``|`
+**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+|`|``|
+
+- 🔭 I’m currently working on _a variety of projects_
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: _[social media list, email]_
+- 😄 Pronouns: _He/Him_
+- ⚡ Fun fact: ...
+
+Notes about calendar
+Notes about municipalities, etc
+CCM (Commit Count Milestones) listing
+Many modifications to existing text throughout the document
+Condensing the list a little bit, through dropdowns
+Mention of RepoData
+Update to file tree
+New translation methods
+No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
+Update to document limits
+Section about upcoming projects
+Some new generated statistics (experimental)
+Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
+More Emojis
+Information on project difficulties
+Information on complexity
+License information and CLA
+Projects I have contributed to (updates to this section)
+Politics and sexuality links, but not much information on this project alone
+George Floyd memorial and information on join dates for my online accounts
+Information on Takeout Tuesdays and the TRDLF
+Information about 2001, and the core region
+Information on Linux user groups (coming soon section)
+Awards (Saltine cracker)
+Information on GitHub profile achievements
+Region related software
+Dream projects (Meadows, Bliss Browser)
+Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
+A section about notable remodels, and links to affected versions (version ranges included)
+My setup
+More pictures (year 23 monument)
+Raspberry Pi information
+Sponsor information
+SeansOSData information
+Self hosting plans for the future
+Mastodon information
+Recent social media usage (Twitter deletion plans, Instagram account deleted)
+New style (custom headings, as images)
+Improvements to language translation process, and info on this
+AUTOMATE2001 information
+Centering various tables and text
+Internet status and speedtest link
+```
+
+</details>
+
+---
+
+End of remodel information
+
+</details>
+
+***
+
 ###### Overview statistics
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -2908,21 +3016,15 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-**File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-
-**File version:** `74 (2023, Saturday, May 27th at 8:00 pm PST)`
-
-**Line count (including blank lines and compiler line):** `5,314`
-
-**Word count:** `35,219`
-
-**Character count:** `243,464 characters (246.98 kilobytes, due to special character usage)`
-
-**Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
-
-**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
-
-**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+- **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `75 (2023, Saturday, March 23rd at 05:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `5,748`
+- **Word count:** `35,912`
+- **Character count (with spaces):** `248,944 characters (252.53 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `218,021 characters (252.53 kilobytes, due to special character usage)`
+- **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
@@ -2938,7 +3040,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details><summary><H1>View file history (Click/tap here)</H1></summary>
 
-***
+---
 
 <details><summary><b lang="en">Version 1 (Friday, August 21st 2020 at 4:39 pm)</b></summary>
 
@@ -2968,6 +3070,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 2 (Thursday, September 17th 2020 at 7:20 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -2991,6 +3095,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 2
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 3 (Sunday, November 29th 2020 at 3:50 pm)</b></summary>
 
@@ -3016,6 +3122,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3036,6 +3144,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 5 (Wednesday, January 13th 2021 at 2:56 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3053,6 +3163,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 5
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 6 (Thursday, March 4th 2021 at 3:30 pm)</b></summary>
 
@@ -3083,6 +3195,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 6
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 7 (Saturday, March 27th 2021 at 8:38 pm)</b></summary>
 
@@ -3134,6 +3248,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 8 (Wednesday, March 31st 2021 at 4:08 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3157,6 +3273,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 8
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 9 (Thursday, April 1st 2021 at 6:33 pm)</b></summary>
 
@@ -3186,6 +3304,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 10 (Wednesday, May 5th 2021 at 2:45 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3214,6 +3334,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 11 (Wednesday, March 5th 2021 at 2:56 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3230,6 +3352,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 12 (Sunday, May 9th 2021 at 8:13 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3245,6 +3369,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 12
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 13 (Tuesday, May 11th 2021 at 6:33 pm)</b></summary>
 
@@ -3265,6 +3391,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 13
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 14 (Friday, August 6th 2021 at 3:13 pm)</b></summary>
 
@@ -3296,6 +3424,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 15 (Saturday, August 7th 2021 at 2:13 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3318,6 +3448,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 16 (2021, Wednesday, December 29th at 6:02 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3336,6 +3468,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 17 (2021, Wednesday, December 29th at 6:03 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3351,6 +3485,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 17
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 18 (2021, Wednesday, December 29th at 6:04 pm)</b></summary>
 
@@ -3368,6 +3504,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 19 (2021, Wednesday, December 29th at 6:05 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3383,6 +3521,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 19
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 20 (2021, Wednesday, December 29th at 6:06 pm)</b></summary>
 
@@ -3400,6 +3540,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 21 (2021, Wednesday, Decemnber 29th at 6:08 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3415,6 +3557,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 21
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 22 (2021, Wednesday, December 29th at 6:11 pm)</b></summary>
 
@@ -3432,6 +3576,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 23 (2021, Wednesday, December 29th at 6:48 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3447,6 +3593,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 23
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 24 (2021, Wednesday, December 29th at 6:51 pm)</b></summary>
 
@@ -3464,6 +3612,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 25 (2021, Wednesday, December 29th at 6:54 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3479,6 +3629,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 25
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 26 (2021, Wednesday, December 29th at 6:56 pm)</b></summary>
 
@@ -3496,6 +3648,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 27 (2021, Wednesday, December 29th at 7:02 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3511,6 +3665,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 27
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 28 (2021, Wednesday, December 29th at 7:04 pm)</b></summary>
 
@@ -3528,6 +3684,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 29 (2021, Wednesday, December 29th at 7:07 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3543,6 +3701,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 29
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 30 (2021, Wednesday, December 29th at 7:10 pm)</b></summary>
 
@@ -3560,6 +3720,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 31 (2021, Wednesday, December 29th at 7:13 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3575,6 +3737,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 31
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 32 (2021, Wednesday, December 29th at 10:01 pm)</b></summary>
 
@@ -3592,6 +3756,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 33 (2021, Thursday, December 30th at 2:46 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3607,6 +3773,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 33
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 34 (2021, Thursday, December 30th at 2:48 pm)</b></summary>
 
@@ -3624,6 +3792,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 35 (2021, Thursday, December 30th at 2:50 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3639,6 +3809,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 35
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 36 (2021, Thursday, December 30th at 2:51 pm)</b></summary>
 
@@ -3656,6 +3828,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 37 (2021, Thursday, December 30th at 2:52 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3672,6 +3846,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 38 (2021, Thursday, December 30th at 2:54 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3687,6 +3863,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 38
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 39 (2021, Thursday, December 30th at 3:35 pm)</b></summary>
 
@@ -3710,6 +3888,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 40 (2021, Thursday, December 30th at 7:43 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3728,6 +3908,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 41 (2021, Thursday, December 30th at 7:44 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3743,6 +3925,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 41
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 42 (2021, Thursday, December 30th at 7:54 pm)</b></summary>
 
@@ -3762,6 +3946,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 43 (2022, Sunday, January 2nd at 3:23 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3777,6 +3963,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 43
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 44 (2022, Sunday, January 2nd at 3:27 pm)</b></summary>
 
@@ -3794,6 +3982,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 45 (2022, Sunday, January 2nd at 3:31 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3809,6 +3999,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 45
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 46 (2022, Sunday, January 2nd at 3:34 pm)</b></summary>
 
@@ -3826,6 +4018,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 47 (2022, Sunday, January 2nd at 3:38 pm)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3841,6 +4035,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 47
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 48 (2022, Sunday, January 2nd at 4:00 pm)</b></summary>
 
@@ -3861,6 +4057,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 48
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 49 (2022, Friday, January 7th at 3:36 pm)</b></summary>
 
@@ -3886,6 +4084,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 50 (2022, Tuesday, January 11th at 7:58 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3905,6 +4105,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 50
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 51 (2022 Thursday, March 10th at 12:06 am)</b></summary>
 
@@ -3926,6 +4128,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 52 (2022, Saturday, March 12th at 10:45 pm)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -3942,6 +4146,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 53 (Unknown)</b></summary>
 
 > Changes:
@@ -3951,6 +4157,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 53
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 54 (2022, Monday, March 14th at 2:28 pm)</b></summary>
 
@@ -3968,6 +4176,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 55 (2022, Sunday, May 1st at 3:53 pm PST)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -3979,6 +4189,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 55
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 56 (2022, Sunday, May 1st at 3:58 pm PST)</b></summary>
 
@@ -3992,6 +4204,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 57 (2022, Tuesday, May 17th at 7:12 pm PST)</b></summary>
 
 **This release was made by [@all-contributors](https://github.com/all-contributors/)**
@@ -4003,6 +4217,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 57
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 58 (2022, Friday, May 20th at 1:35 pm PST)</b></summary>
 
@@ -4020,6 +4236,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 59 (2022, Friday, May 20th at 9:03 pm PST)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -4031,6 +4249,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 59
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 60 (2022, Sunday, June 12th at 8:16 pm PST)</b></summary>
 
@@ -4052,6 +4272,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 61 (2022, Monday, June 13th at 6:20 pm PST)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -4070,6 +4292,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 62 (2022, Monday, June 13th at 10:45 pm PST)</b></summary>
 
 **This release was made by [@qamberhasnain](https://github.com/qamberhasnain/)**
@@ -4081,6 +4305,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 62
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 63 (2022, Wednesday, June 15th at 2:40 pm PST)</b></summary>
 
@@ -4106,6 +4332,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 64 (2022, Wednesday, June 15th at 8:06 pm PST)</b></summary>
 
 **This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
@@ -4123,6 +4351,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 64
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 65 (2022, Saturday, June 25th at 9:33 pm PST)</b></summary>
 
@@ -4144,6 +4374,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 66 (2023, Saturday, January 21st at 2:21 pm PST)</b></summary>
 
 **This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
@@ -4155,6 +4387,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 67 (2023, Saturday, January 21st at 2:22 pm PST)</b></summary>
 
 **This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
@@ -4165,6 +4399,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 67
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 68 (2023, Saturday, January 21st at 3:44 pm PST)</b></summary>
 
@@ -4185,6 +4421,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 69 (2023, Thursday, May 25th at 7:50 pm PST)</b></summary>
 
 **This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
@@ -4196,6 +4434,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 70 (2023, Thursday, May 25th at 7:55 pm PST)</b></summary>
 
 **This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
@@ -4206,6 +4446,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 70
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 71 (2023, Thursday, May 25th at 8:32 pm PST)</b></summary>
 
@@ -4230,6 +4472,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 71
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 72 (2023, Friday, May 26th at 3:30 pm PST)</b></summary>
 
@@ -4353,7 +4597,11 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 73 (2023, Saturday, May 27th at 4:56 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > **Note** _This is another update that took a while, but isn't as extensive as yesterdays update._
 
@@ -4411,11 +4659,13 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 74 (2023, Saturday, May 27th at 8:00 pm PST)</b></summary>
 
-> Changes:
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
-> **Note** _This update took a little whike. I was going to release it tomorrow, but decided not to wait._
+> **Note** _This update took a little while. I was going to release it tomorrow, but decided not to wait._
 
 **Some things that are left:**
 
@@ -4442,15 +4692,29 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
-<details><summary><b lang="en">Version 75 (Coming soon)</b></summary>
+---
+
+<details><summary><b lang="en">Version 75 (2024, Saturday, March 23rd at 5:40 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the first update in almost 10 full months. I have lots of plans for remodeling this file, and today, I began to lay them out._
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 75
+- [x] Added information on the remodel of this project
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 75
+- - [x] Cleaned up syntax (dividers, footer)
+- - [x] Fixed some errors in the entries for versions 72, 73, and 74
+- [ ] No other changes in version 75
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 76 (Coming soon)</b></summary>
 
@@ -4462,6 +4726,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 77 (Coming soon)</b></summary>
 
 > Changes:
@@ -4471,6 +4737,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 77
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 78 (Coming soon)</b></summary>
 
@@ -4482,6 +4750,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 79 (Coming soon)</b></summary>
 
 > Changes:
@@ -4491,6 +4761,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 79
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 80 (Coming soon)</b></summary>
 
@@ -4502,6 +4774,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 81 (Coming soon)</b></summary>
 
 > Changes:
@@ -4511,6 +4785,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 81
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 82 (Coming soon)</b></summary>
 
@@ -4522,6 +4798,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 83 (Coming soon)</b></summary>
 
 > Changes:
@@ -4531,6 +4809,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 83
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 84 (Coming soon)</b></summary>
 
@@ -4542,6 +4822,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 85 (Coming soon)</b></summary>
 
 > Changes:
@@ -4551,6 +4833,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 85
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 86 (Coming soon)</b></summary>
 
@@ -4562,6 +4846,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 87 (Coming soon)</b></summary>
 
 > Changes:
@@ -4571,6 +4857,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 87
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 88 (Coming soon)</b></summary>
 
@@ -4582,6 +4870,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 89 (Coming soon)</b></summary>
 
 > Changes:
@@ -4591,6 +4881,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 89
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 90 (Coming soon)</b></summary>
 
@@ -4602,6 +4894,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 91 (Coming soon)</b></summary>
 
 > Changes:
@@ -4611,6 +4905,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 91
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 92 (Coming soon)</b></summary>
 
@@ -4622,6 +4918,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 93 (Coming soon)</b></summary>
 
 > Changes:
@@ -4631,6 +4929,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 93
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 94 (Coming soon)</b></summary>
 
@@ -4642,6 +4942,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 95 (Coming soon)</b></summary>
 
 > Changes:
@@ -4651,6 +4953,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 95
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 96 (Coming soon)</b></summary>
 
@@ -4662,6 +4966,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 97 (Coming soon)</b></summary>
 
 > Changes:
@@ -4671,6 +4977,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 97
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 98 (Coming soon)</b></summary>
 
@@ -4682,6 +4990,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 99 (Coming soon)</b></summary>
 
 > Changes:
@@ -4691,6 +5001,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 99
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 100 (Coming soon)</b></summary>
 
@@ -4702,6 +5014,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 101 (Coming soon)</b></summary>
 
 > Changes:
@@ -4711,6 +5025,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 101
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 102 (Coming soon)</b></summary>
 
@@ -4722,6 +5038,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 103 (Coming soon)</b></summary>
 
 > Changes:
@@ -4731,6 +5049,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 103
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 104 (Coming soon)</b></summary>
 
@@ -4742,6 +5062,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 105 (Coming soon)</b></summary>
 
 > Changes:
@@ -4751,6 +5073,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 105
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 106 (Coming soon)</b></summary>
 
@@ -4762,6 +5086,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 107 (Coming soon)</b></summary>
 
 > Changes:
@@ -4771,6 +5097,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 107
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 108 (Coming soon)</b></summary>
 
@@ -4782,6 +5110,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 109 (Coming soon)</b></summary>
 
 > Changes:
@@ -4791,6 +5121,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 109
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 110 (Coming soon)</b></summary>
 
@@ -4802,6 +5134,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 111 (Coming soon)</b></summary>
 
 > Changes:
@@ -4811,6 +5145,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 111
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 112 (Coming soon)</b></summary>
 
@@ -4822,6 +5158,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 113 (Coming soon)</b></summary>
 
 > Changes:
@@ -4831,6 +5169,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 113
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 114 (Coming soon)</b></summary>
 
@@ -4842,6 +5182,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 115 (Coming soon)</b></summary>
 
 > Changes:
@@ -4851,6 +5193,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 115
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 116 (Coming soon)</b></summary>
 
@@ -4862,6 +5206,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 117 (Coming soon)</b></summary>
 
 > Changes:
@@ -4871,6 +5217,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 117
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 118 (Coming soon)</b></summary>
 
@@ -4882,6 +5230,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 119 (Coming soon)</b></summary>
 
 > Changes:
@@ -4891,6 +5241,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 119
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 120 (Coming soon)</b></summary>
 
@@ -4902,6 +5254,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 121 (Coming soon)</b></summary>
 
 > Changes:
@@ -4911,6 +5265,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 121
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 122 (Coming soon)</b></summary>
 
@@ -4922,6 +5278,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 123 (Coming soon)</b></summary>
 
 > Changes:
@@ -4931,6 +5289,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 123
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 124 (Coming soon)</b></summary>
 
@@ -4942,6 +5302,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 125 (Coming soon)</b></summary>
 
 > Changes:
@@ -4951,6 +5313,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 125
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 126 (Coming soon)</b></summary>
 
@@ -4962,6 +5326,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 127 (Coming soon)</b></summary>
 
 > Changes:
@@ -4971,6 +5337,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 > * No other changes in version 127
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 128 (Coming soon)</b></summary>
 
@@ -4982,6 +5350,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 129 (Coming soon)</b></summary>
 
 > Changes:
@@ -4992,6 +5362,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 130 (Coming soon)</b></summary>
 
 > Changes:
@@ -5000,6 +5372,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 130
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 131 (Coming soon)</b></summary>
 
@@ -5010,6 +5384,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 132 (Coming soon)</b></summary>
 
 > Changes:
@@ -5018,6 +5394,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 132
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 133 (Coming soon)</b></summary>
 
@@ -5028,6 +5406,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 134 (Coming soon)</b></summary>
 
 > Changes:
@@ -5036,6 +5416,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 134
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 135 (Coming soon)</b></summary>
 
@@ -5046,6 +5428,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 136 (Coming soon)</b></summary>
 
 > Changes:
@@ -5054,6 +5438,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 136
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 137 (Coming soon)</b></summary>
 
@@ -5064,6 +5450,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 138 (Coming soon)</b></summary>
 
 > Changes:
@@ -5072,6 +5460,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 138
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 139 (Coming soon)</b></summary>
 
@@ -5082,6 +5472,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 140 (Coming soon)</b></summary>
 
 > Changes:
@@ -5090,6 +5482,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 140
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 141 (Coming soon)</b></summary>
 
@@ -5100,6 +5494,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 142 (Coming soon)</b></summary>
 
 > Changes:
@@ -5108,6 +5504,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 142
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 143 (Coming soon)</b></summary>
 
@@ -5118,6 +5516,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 144 (Coming soon)</b></summary>
 
 > Changes:
@@ -5126,6 +5526,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 144
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 145 (Coming soon)</b></summary>
 
@@ -5136,6 +5538,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 146 (Coming soon)</b></summary>
 
 > Changes:
@@ -5144,6 +5548,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 146
 
 </details>
+
+---
 
 <details><summary><b lang="en">Version 147 (Coming soon)</b></summary>
 
@@ -5154,6 +5560,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 </details>
 
+---
+
 <details><summary><b lang="en">Version 148 (Coming soon)</b></summary>
 
 > Changes:
@@ -5162,6 +5570,32 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 - [ ] No other changes in version 148
 
 </details>
+
+---
+
+<details><summary><b lang="en">Version 149 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 149
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 150 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 150
+
+</details>
+
+---
+
+_End of file version history_
 
 </details>
 
