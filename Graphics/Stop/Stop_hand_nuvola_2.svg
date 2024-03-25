@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90.000000"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-filename="/home/silsor/graphics/mine/stop_hand.png"
+   sodipodi:docname="Stop_hand2.svg"
+   sodipodi:docbase="C:\Documents and Settings\Jeremy\My Documents\My Pictures\Wikipedia Files"
+   height="64.000000px"
+   width="64.000000px"
+   inkscape:version="0.44.1"
+   sodipodi:version="0.32"
+   id="svg1337">
+  <metadata
+     id="metadata1342">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>stop hand</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>silsor</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://commons.wikimedia.org/wiki/Image:Stop_hand.svg</dc:source>
+        <dc:description>A stop hand inside a red octagon.  Designed by silsor for Wikipedia.</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1340">
+    <linearGradient
+       id="linearGradient3288">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop3290" />
+      <stop
+         style="stop-color:#e20000;stop-opacity:1;"
+         offset="1"
+         id="stop3292" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3288"
+       id="radialGradient3294"
+       cx="38.053043"
+       cy="9.5277739"
+       fx="38.053043"
+       fy="9.5277739"
+       r="32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.711873,0.804006,-0.801071,-1.70563,116.0881,-9.657732)" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg1337"
+     inkscape:window-y="193"
+     inkscape:window-x="549"
+     inkscape:cy="31.172864"
+     inkscape:cx="35.341815"
+     inkscape:zoom="4.1653009"
+     gridoriginx="0.0000000px"
+     gridoriginy="0.0000000px"
+     gridspacingx="1px"
+     gridspacingy="1px"
+     gridempspacing="8"
+     gridtolerance="50"
+     inkscape:grid-points="false"
+     inkscape:grid-bbox="false"
+     showgrid="false"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="853"
+     inkscape:window-height="573" />
+  <path
+     sodipodi:type="star"
+     style="fill:#000000;fill-opacity:1"
+     id="path3717"
+     sodipodi:sides="8"
+     sodipodi:cx="32"
+     sodipodi:cy="32"
+     sodipodi:r1="32"
+     sodipodi:r2="1"
+     sodipodi:arg1="-1.5707963"
+     sodipodi:arg2="-1.1780972"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 32.000001,1.0658141e-014 L 54.627418,9.3725836 L 64,32.000001 L 54.627416,54.627418 L 31.999999,64 L 9.3725824,54.627416 L 1.0658141e-014,31.999999 L 9.3725836,9.3725824 L 32.000001,1.0658141e-014 z "
+     transform="matrix(1,-0.414213,0.414213,1,-13.25482,13.25482)" />
+  <path
+     transform="matrix(0.96875,-0.401269,0.401269,0.96875,-11.8406,13.84061)"
+     d="M 32.000001,1.0658141e-014 L 54.627418,9.3725836 L 64,32.000001 L 54.627416,54.627418 L 31.999999,64 L 9.3725824,54.627416 L 1.0658141e-014,31.999999 L 9.3725836,9.3725824 L 32.000001,1.0658141e-014 z "
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="-1.1780972"
+     sodipodi:arg1="-1.5707963"
+     sodipodi:r2="1"
+     sodipodi:r1="32"
+     sodipodi:cy="32"
+     sodipodi:cx="32"
+     sodipodi:sides="8"
+     id="path3741"
+     style="fill:#350000;fill-opacity:1"
+     sodipodi:type="star" />
+  <path
+     sodipodi:type="star"
+     style="fill:#680000;fill-opacity:1"
+     id="path3743"
+     sodipodi:sides="8"
+     sodipodi:cx="32"
+     sodipodi:cy="32"
+     sodipodi:r1="32"
+     sodipodi:r2="1"
+     sodipodi:arg1="-1.5707963"
+     sodipodi:arg2="-1.1780972"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 32.000001,1.0658141e-014 L 54.627418,9.3725836 L 64,32.000001 L 54.627416,54.627418 L 31.999999,64 L 9.3725824,54.627416 L 1.0658141e-014,31.999999 L 9.3725836,9.3725824 L 32.000001,1.0658141e-014 z "
+     transform="matrix(0.9375,-0.388325,0.388325,0.9375,-10.42639,14.4264)" />
+  <path
+     transform="matrix(0.90625,-0.375381,0.375381,0.90625,-9.012176,15.01219)"
+     d="M 32.000001,1.0658141e-014 L 54.627418,9.3725836 L 64,32.000001 L 54.627416,54.627418 L 31.999999,64 L 9.3725824,54.627416 L 1.0658141e-014,31.999999 L 9.3725836,9.3725824 L 32.000001,1.0658141e-014 z "
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="-1.1780972"
+     sodipodi:arg1="-1.5707963"
+     sodipodi:r2="1"
+     sodipodi:r1="32"
+     sodipodi:cy="32"
+     sodipodi:cx="32"
+     sodipodi:sides="8"
+     id="path3745"
+     style="fill:#9b0000;fill-opacity:1"
+     sodipodi:type="star" />
+  <path
+     sodipodi:type="star"
+     style="fill:url(#radialGradient3294);fill-opacity:1.0"
+     id="path3747"
+     sodipodi:sides="8"
+     sodipodi:cx="32"
+     sodipodi:cy="32"
+     sodipodi:r1="32"
+     sodipodi:r2="1"
+     sodipodi:arg1="-1.5707963"
+     sodipodi:arg2="-1.1780972"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 32.000001,1.0658141e-014 L 54.627418,9.3725836 L 64,32.000001 L 54.627416,54.627418 L 31.999999,64 L 9.3725824,54.627416 L 1.0658141e-014,31.999999 L 9.3725836,9.3725824 L 32.000001,1.0658141e-014 z "
+     transform="matrix(0.875,-0.362437,0.362437,0.875,-7.597965,15.59798)" />
+  <path
+     inkscape:export-ydpi="90.000000"
+     inkscape:export-xdpi="90.000000"
+     inkscape:export-filename="/home/silsor/graphics/mine/stop_hand.png"
+     sodipodi:nodetypes="cccscsscccccc"
+     id="path14158"
+     d="M 32.328666,53 C 24.45704,53 17.015892,53 17.015892,32 C 17,13 20.469636,16.662913 22.120085,18.219926 L 22.225394,14.940844 C 22.303355,12.513309 28.074812,12.659771 28.080353,14.573985 L 28.094477,11.567212 C 28.109424,8.3853266 34.786221,8.7067777 34.841529,10.818033 L 34.948986,14.919989 C 35.010483,12.607489 40.199136,11.733895 40.353709,16.232489 C 40.353709,23.232489 40.292865,30.767511 40.200293,33 C 42.906165,36 45.888446,21.357489 51.115699,24.044989 C 53.452588,26.482489 44.351019,43.669989 43.367066,45.482489 C 42.427617,47.213001 38.232386,53 32.328666,53 z "
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.98388839;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(0,0.89776)" />
+  <path
+     inkscape:export-ydpi="90.000000"
+     inkscape:export-xdpi="90.000000"
+     inkscape:export-filename="/home/silsor/graphics/mine/stop_hand.png"
+     sodipodi:nodetypes="cc"
+     id="path16444"
+     d="M 28.5,12 L 28.5,30"
+     style="color:black;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+     transform="translate(0,0.89776)" />
+  <path
+     inkscape:export-ydpi="90.000000"
+     inkscape:export-xdpi="90.000000"
+     inkscape:export-filename="/home/silsor/graphics/mine/stop_hand.png"
+     sodipodi:nodetypes="cc"
+     id="path16442"
+     d="M 34.375,12 L 34.5,31"
+     style="fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(0,0.89776)" />
+  <path
+     inkscape:export-ydpi="90.000000"
+     inkscape:export-xdpi="90.000000"
+     inkscape:export-filename="/home/silsor/graphics/mine/stop_hand.png"
+     id="path14918"
+     d="M 37.5,36.5 C 37.5,36.5 32.5,37.5 30.5,47.5"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(0,0.89776)" />
+  <path
+     inkscape:export-ydpi="90.000000"
+     inkscape:export-xdpi="90.000000"
+     inkscape:export-filename="/home/silsor/graphics/mine/stop_hand.png"
+     sodipodi:nodetypes="cc"
+     id="path16438"
+     d="M 22.5,17 L 22.5,32.125"
+     style="color:black;fill:white;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;font-family:Bitstream Vera Sans"
+     transform="translate(0,0.89776)" />
+  <path
+     inkscape:export-ydpi="90.000000"
+     inkscape:export-xdpi="90.000000"
+     inkscape:export-filename="/home/silsor/graphics/mine/stop_hand.png"
+     sodipodi:nodetypes="cc"
+     id="path16448"
+     d="M 19.875,34.125 C 24.125,29.520833 32.25,29.729167 36.625,31.25"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(0,0.89776)" />
+  <path
+     sodipodi:type="star"
+     style="fill:red;fill-opacity:0;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path3296"
+     sodipodi:sides="8"
+     sodipodi:cx="93.630691"
+     sodipodi:cy="26.787802"
+     sodipodi:r1="1.0736646"
+     sodipodi:r2="0.99193671"
+     sodipodi:arg1="-2.677945"
+     sodipodi:arg2="-2.285246"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="M 92.670377,26.307644 L 93.291169,25.769234 L 94.110849,25.827487 L 94.649259,26.448279 L 94.591006,27.267959 L 93.970214,27.806369 L 93.150534,27.748116 L 92.612124,27.127324 L 92.670377,26.307644 z " />
+</svg>
