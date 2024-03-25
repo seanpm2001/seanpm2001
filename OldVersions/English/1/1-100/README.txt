@@ -4,23 +4,25 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ↑ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
 
-###### [Top](#Top)
+###### [🔝️ Top](#-Top)
 
 # [@Seanpm2001](https://github.com/seanpm2001/) on GitHub
 
-## Welcome to my GitHub profile
+## [👋️ Welcome to my GitHub profile](#-Welcome-to-my-GitHub-profile)
 
 <!-- Maybe make animated text !-->
 
-## [Lead](#Lead)
+## [🎩️ Lead](#-Lead)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the lead section</b></p></summary>
 
 ***
 
-###### Main statistics
+###### [📊️ Main statistics](#-Main-statistics)
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - These counters were added on 2021 December 29th
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - These counters were added on 2021 December 29th
 
 | GitHub Stats (classic, added on 2021 December 29th) | GitHub Stats (new, improved, added on 2022 June 12th) |
 |---|---|
@@ -145,17 +147,25 @@ To add your statistics to your GitHub Profile README, copy and paste the followi
 
 ***
 
-# Administrator section
+# [🛑️ Administrator section](#-Administrator-section)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[Blocklist](https://github.com/seanpm2001/Blocklist) - For blocking sensitive projects of mine that are not appropriate in certain schools, businesses, countries, or territories, so you don't have to block the other 1000+ projects or worse, GitHub itself.
+<img src="/Graphics/Stop/Stop_hand_nuvola_alternate_text.svg" alt="STOP!" title="Network Administrators should stop here, so that they can apply blocklist filters if necessary" width="148" height="148" align="left" style="margin-right: 30px">
+
+**Network Administrators** should stop here, so that they can apply blocklist filters if they need to.
+
+> [:octocat: `Blocklist`](https://github.com/seanpm2001/Blocklist) - For blocking sensitive projects of mine that are not appropriate in certain schools, businesses, countries, or territories, so you don't have to block the other 4000+ projects (repositories) or worse, GitHub itself.
+
+_Further instructions not yet available._
+
+- [`www.example.com`](https://www.example.com)
 
 </details>
 
 ***
 
-# Read this article in a different language
+# [🌐️ Read this article in a different language](#-Read-this-article-in-a-different-language)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -263,7 +273,7 @@ _End of translation section._
 
 ***
 
-## Guestbook
+## [📖️ Guestbook](#-Guestbook)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -277,7 +287,7 @@ This guestbook is for basic interaction, and communications. For further communi
 
 ***
 
-# Index
+# [🗂️ Index](#-Index)
 
 <details open><summary><H3>[Click/tap here to expand/collapse the index]</H3></summary>
 
@@ -482,7 +492,7 @@ Temporarily removed until a replacement is made
 
 ***
 
-## Ukraine
+## [🇺🇦️ Ukraine](#-Ukraine)
 
 [![Stand With Ukraine banner failed to load](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://savelife.in.ua/en/)
 
@@ -498,28 +508,41 @@ Temporarily removed until a replacement is made
 
 > On 24 February 2022, Russia invaded Ukraine in an escalation of the Russo-Ukrainian War that started in 2014. The invasion became the largest attack on a European country since World War II. It is estimated to have caused tens of thousands of Ukrainian civilian casualties and hundreds of thousands of military casualties. By June 2022, Russian troops occupied about 20% of Ukrainian territory. From a population of 41 million in January 2022, about 8 million Ukrainians had been internally displaced and more than 8.2 million had fled the country by April 2023, creating Europe's largest refugee crisis since World War II. Extensive environmental damage caused by the war, widely described as an ecocide, contributed to food crises worldwide.
 
+<img src="/Graphics/Ukraine/UkraineDaily/SeansAudioDB_UkraineDaily_WithWordmark_1024pxIcon_V1_HighCompression.png" alt="Ukraine daily" title="#StandWithUkraine" width="150" height="150" align="left" style="margin-right: 30px">
+
 [:octocat: `I will be listening to the Ukrainian National Anthem daily until the war ends. You can join me if you want to`](https://github.com/seanpm2001/SeansAudioDB/tree/master/Music/1.1%20Music%20(GitHub)/Part%201/Ukraine_National_Anthem/2022/Daily/)
 
-<!-- Section added 2024, Saturday, March 23rd !-->
+- `🇺🇦️ Glory to Ukraine! Slava Ukraini! Слава Україні!`
+- `🇺🇦️ Glory to the heroes! Heroiam slava! Героям слава!`
+
+_This section was added on 2024, Saturday, March 23rd._
 
 ***
 
-# 🏗️ REMODEL IN PROGRESS 🚧️
+# [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
 
-| 4 year anniversary update |
+<img src="/Graphics/Under-construction/Under_construction_icon-green.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
+
+| **4 year anniversary update** |
 |---------------------------|
-| Beta 3 - 2024, March 24th |
+| Beta 4 - 2024, March 25th |
 | Final release day: 2024, May 25th |
 | Please report formatting bugs [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/) |
+
+<img src="/Graphics/Under-construction/Under_construction_icon-orange.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="right" style="margin-right: 30px">
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
 
 I am in the process of remodeling my GitHub profile page. Since I am not actively working on it, this may take a while. Remodeling started on 2024, Saturday March 23rd. I will not be implementing them today, as I am just brainstorming ideas for now. Here are my current goals
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 1 day down, as of 2024, Saturday, May 23rd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 3 days down, as of 2024, Monday, March 25th)_
+
+***
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
+
+<img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 **Current tasks todo**
 
@@ -556,7 +579,6 @@ Update to document limits
 Section about upcoming projects
 Some new generated statistics (experimental)
 Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
-More Emojis
 Information on project difficulties
 Information on complexity
 License information and CLA
@@ -628,11 +650,27 @@ Pets
 | Dogs
 | Cats
 UnSaaSS project
-Add anchor links to all headings
-Add local links to the best GitHub Stats A workflow runs
+Align administrator section to the left
+Add administrator image (stop hand nuvola)
+Collapse the 12 mega sections into a giga section
+Add "under construction" icons to remodel page
+Update the file tree, and link to ROOTFILES.base
+Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
+Update information about Windows and MacOS support
+Make lead section collapse-capable
 ```
 
 </details>
+
+These are the current goals of the remodel.
+
+They are a work in progress.
+
+<!-- Spacing these out, so the image formats correctly !-->
+
+***
+
+<img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 **Implemented so far:**
 
@@ -686,9 +724,27 @@ GitHub skyline 2024
 Succeeded by: Incumbent
 Preceeded by: Seanwallawalla <- SeanTRM
 Add local links to the best GitHub Stats A workflow runs
+Collapse the 12 mega sections into a giga section
+Align administrator section to the left
+Add administrator image (stop hand nuvola)
+Add "under construction" icons to remodel page
+Make lead section collapse-capable
+Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
+Add anchor links to all headings
+More Emojis
 ```
 
 </details>
+
+These are the completed goals of the remodel.
+
+They have been implemented.
+
+<!-- Spacing these out, so the image formats correctly !-->
+
+***
+
+_End of remodel section._
 
 </details>
 
@@ -700,7 +756,7 @@ _End of remodel information_
 
 ***
 
-# Legend
+# [📏️ Legend](#-Legend)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -726,15 +782,25 @@ _End of remodel information_
 
 ***
 
+</details>
+
+</details> <!-- End of lead section !-->
+
+***
+
 > **Note** Everything else on this page is collapsed, and under a dropdown menu. You must click/tap the sections to expand/collapse them
 
-# About me
+<details><summary><H1>🚨️ Click/tap here to expand/collapse my profile</H1></summary>
+
+***
+
+# [ℹ️ About me](#-About-me)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about me</b></p></summary>
 
 ***
 
-## What I'm currently learning
+## [🧠️ What I'm currently learning](#-What-I-m-currently-learning)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -754,7 +820,7 @@ It isn't exact, I have many interests. What I am always learning include:
 
 ***
 
-### What I'm looking to collaborate on
+### [🚀️ What I'm looking to collaborate on](#-What-I-m-looking-to-collaborate-on)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -800,7 +866,7 @@ Companies I am currently considering include:
 
 ***
 
-#### What I have collaborated on
+#### [🗼️ What I have collaborated on](#-What-I-have-collaborated-on)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -826,7 +892,7 @@ I have collaborated on a few projects on GitHub, including
 
 ***
 
-### What I'm looking to help with
+### [👀️ What I'm looking to help with](#-What-I-m-looking-to-help-with)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -852,37 +918,37 @@ No other limitations listed at the moment.
 
 ***
 
-## Other hobbies
+## [🧿️ Other hobbies](#-Other-hobbies)
 
 This is a list of my other hobbies
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-### Photography
+### [📷️ Photography](#-Photography)
 
 <img alt="Original photography profile picture failed to load. Click/tap here to attempt to view it" src="/Media/CameraIcon2.png" width="100"/> 
 
 I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
 
-### Swimming
+### [🏊️ Swimming](#-Swimming)
 
 <img alt="Original swimming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/WaterDropletCool.png" width="100"/> 
 
 I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
 
-### Gaming
+### [🎮️ Gaming](#-Gaming)
 
 <img alt="Original gaming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/VideoGameController_Icon1.png" width="100"/> 
 
 I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
 
-### Graphic design
+### [🎨️ Graphic design](#-Graphic-design)
 
 <img alt="Original graphic design profile picture failed to load. Click/tap here to attempt to view it" src="/Media/GraphicDesignICON.png" width="100"/> 
 
 I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
 
-### Linguist
+### [🈯️ Linguistics](#-Linguistics)
 
 <img alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Linguistics1.jpeg" width="100"/>  <img alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" width="100"/> 
 
@@ -890,7 +956,7 @@ I have been a linguist since my early childhood. I jokingly changed my middle na
 
 I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't write completely in a language other than English, Python, HTML, or markdown.
 
-### History buff
+### [⌛️ History buff](#-History-buff)
 
 <img alt="Original history buff profile picture failed to load. Click/tap here to attempt to view it" src="/Media/FortressBase.png" width="100"/> 
 
@@ -898,7 +964,7 @@ I am a history buff, with knowledge of history spanning back over 13.8 billion y
 
 I owe my interest in history to my first High School history teacher, who was really enthusiastic about what he was teaching, and was just a general awesome and nice history teacher. I would no doubt make him teacher of the year for that year of High School. Past history classes never got me too into the subject of history, but this one really opened my mind to history.
 
-### Marine biology
+### [🐠️ Marine biology](#-Marine-biology)
 
 <img alt="Original marine biology profile picture failed to load. Click/tap here to attempt to view it" src="/Media/BlackMooreGoldfish.jpeg" width="100"/> 
 
@@ -906,7 +972,7 @@ I recently got back into Marine Biology on March 23rd 2021, and have been learni
 
 [Learn more about it here](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/tree/main/Marine%20Biology)
 
-### Journaling
+### [✍️ Journaling](#Journaling)
 
 <img alt="Original journaling profile picture failed to load. Click/tap here to attempt to view it" src="/Media/JournalIcon1.png" width="100"/> 
 
@@ -918,7 +984,7 @@ As of August 7th 2021, the main journal has over 7 million words. I average betw
 
 I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain related media, and certain templates are public, but several terabytes of data is private (the full journal takes up over 8 gigabytes of space, just for the journal, due to usage of images over a ~5 year period)
 
-### Vexillology
+### [🇸🇲️ Vexillology](#-Vexillology)
 
 <img alt="Original fotw profile picture failed to load. Click/tap here to attempt to view it" src="/Media/fotw-pgr.gif" width="100"/> 
 
@@ -946,7 +1012,7 @@ Some other cool sites:
 
 ***
 
-## Profile picture history
+## [👤️ Profile picture history](#-Profile-picture-history)
 
 <details><summary>[Click/tap here to expand/collapse the list of my GitHub profile picture history]</summary>
 	
@@ -970,7 +1036,7 @@ Senior picture (used to identify myself and to have a better profile picture, st
 
 ***
 
-## Linux
+## [🐧️ Linux](#-Linux)
 
 <details><summary>[Click/tap here to expand/collapse my Linux story]</summary>
 
@@ -984,7 +1050,7 @@ My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04
 
 ***
 
-## Ask me about
+## [💬️ Ask me about](#-Ask-me-about)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -994,7 +1060,7 @@ Technology, farming, life, language, other.
 
 ***
 
-## How to reach me
+## [🛎️ How to reach me](#-How-to-reach-me)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1024,7 +1090,7 @@ You can find more info on my personal Gist. [Click/tap here to learn more about 
 
 ***
 
-## Projects on other platforms
+## [🪧️ Projects on other platforms](#-Projects-on-other-platforms)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1046,7 +1112,7 @@ Now, if GitHub is having problems or if you have problems with GitHub, my projec
 
 ***
 
-## Email information
+## [📧️ Email information](#-Email-information)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1062,7 +1128,7 @@ Note: this email address is NOT a mailing list, it is just named like that. The 
 
 ***
 
-## Identity theft
+## [🆔️ Identity theft](#-Identity-theft)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1070,30 +1136,24 @@ To avoid possible identity theft, I will link to all the services I use here.
 
 I am on the following platforms
 
-[Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
-
-[Discord](#How-to-reach-me) - Note: I stopped using Discord full time in 2021 February, but I still use it.
+- [Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
+- [Discord](#How-to-reach-me) - Note: I stopped using Discord full time in 2021 February, but I still use it.
 
 > * SeanWallaWalla#1709 (my original Discord account)
 > * seanpm2001#4906 (my newest Discord account)
 
-[GitHub](https://github.com/seanpm2001) <!-- - Obviously !-->
-
-[YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
+- [GitHub](https://github.com/seanpm2001) <!-- - Obviously !-->
+- [YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
 
 * [YouTube second channel](#Identity-theft)
 
 * Other
 
-[Mastodon](https://techhub.social/@seanpm2001)
-
-[Mozilla](#Identity-theft)
-
-[Twitter](https://www.twitter.com/@seanwallawalla) - No longer use as of 2018, slightly cringy, but not too bad
-
-[Scratch](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
-
-* [Scratch attempted main account](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
+- [Mastodon](https://techhub.social/@seanpm2001)
+- [Mozilla](#Identity-theft)
+- [Twitter](https://www.twitter.com/@seanwallawalla) - No longer use as of 2018, slightly cringy, but not too bad
+- [Scratch](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
+- [Scratch attempted main account](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
 
 * Other?
 
@@ -1109,19 +1169,13 @@ Not F'd
 
 This sticker is supported by [Richard Stallman](https://stallman.org/) to protest Facebook, Instagram, WhatsApp, and other Facebook products.
 
-[Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
-
-[Yelp](#Identit-theft) - Link is incomplete
-
-[Tumblr](https://tumblr.com) - Link is incomplete
-
-[Bandcamp](https://seanwallawalla.bandcamp.com/releases) - My only way of earning money online at the moment
-
-[Quora](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here
-
-[Go90](https://www.example.com) - Created an account, barely attempted to use, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
-
-[Ditty.it](https://www.example.com) - Created and exported all videos, used daily for a while, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+- [Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
+- [Yelp](#Identit-theft) - Link is incomplete
+- [Tumblr](https://tumblr.com) - Link is incomplete
+- [Bandcamp](https://seanwallawalla.bandcamp.com/releases) - My only way of earning money online at the moment
+- [Quora](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here
+- [Go90](https://www.example.com) - Created an account, barely attempted to use, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+- [Ditty.it](https://www.example.com) - Created and exported all videos, used daily for a while, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
 
 **List is incomplete. Try bugging me to fix it. I will eventually when I have time, but I might not get to it soon enough.**
 
@@ -1141,7 +1195,7 @@ Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Tota
 
 ***
 
-## Sponsor info
+## [💸️ Sponsor info](#-Sponsor-info)
 
 <img alt="GitHub Sponsor Badge logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Badges/GitHub/Sponsors/PNG/badge-sponsors-small.png" width="256" height="256"/>
 
@@ -1171,7 +1225,7 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 <img alt="Python logo failed to load. Click/tap here to attempt to view it" src="/Media/PythonLogo.png" width="256" height="256"/> 
 
-## Free software isn't free to develop
+## [💹️ Free software isn't free to develop](#-Free-software-isn-t-free-to-develop)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1200,7 +1254,7 @@ My list of supported organizations include:
 
 ***
 
-## Submissions
+## [📨️ Submissions](#-Submissions)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1214,7 +1268,7 @@ My recommended formats are SVG (60% recommended) and PNG (40% recommended) for i
 
 ***
 
-## Blue team
+## [🔵️ Blue team](#-Blue-team)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1224,7 +1278,7 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ---
 
-## Green team
+## [🟢️ Green team](#-Green-team)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1234,7 +1288,7 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ***
 
-## Computer user type
+## [🖥️ Computer user type](#-Computer-user-type)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1249,7 +1303,7 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ***
 
-## Education
+## [🎓️ Education](#-Education)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1259,13 +1313,13 @@ I have completed primary (pre-school, Elementary School) and secondary education
 
 ***
 
-## GitHub developer program
+## [👩‍💻️ GitHub developer program](#-GitHub-developer-program)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. Here, I will be listing my projects that work with the GitHub API:
 
-### Extensions
+### [🧩️ Extensions](#-Extensions)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1281,19 +1335,19 @@ I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. He
 
 </details>
 
-### Marketplace
+### [🛍️ Marketplace](#-Marketplace)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-#### My Actions
+#### [▶️ My Actions](#-My-actions)
 
-##### My CI workflows
+##### [⏯️ My CI workflows](#-My-CI-workflows)
 
 [Setup Go! (Go2004) GitHub action](https://github.com/seanpm2001/Setup-Go2004-GitHubAction) - This is my first GitHub action. It allows continous integration (CI) with GitHub projects written in the Go! programming language. It is NOT to be used for the Go programming language (which is very similarly named, and easily confusable)
 
 </details>
 
-### Information
+### [ℹ️ Information](-Information)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1307,7 +1361,7 @@ These projects are information articles regarding my work on Git and GitHub.
 
 ***
 
-## Frequently Asked Questions (FAQ)
+## [❓️ Frequently Asked Questions (FAQ)](#-Frequently-Asked-Questions--FAQ-)
 
 Since nobody has asked any questions yet, I will list some common ones here:
 
@@ -1315,7 +1369,7 @@ Since nobody has asked any questions yet, I will list some common ones here:
 	
 ***
 
-### Why is Python your favorite programming language
+### [❔️ Why is Python your favorite programming language?](#-Why-is-Python-your-favorite-programming-language-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1323,7 +1377,7 @@ See below for the full store. I was a big user of Scratch, and eventually got in
 
 </details>
 
-### What got you into programming
+### [❔️ What got you into programming?](#-What-got-you-into-programming-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1333,7 +1387,7 @@ Although the class mainly just used Scratch, this is where my interest skyrocket
 
 </details>
 
-### How well can you program in Java
+### [❔️ How well can you program in Java?](#-How-well-can-you-program-in-Java-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1341,7 +1395,7 @@ I took an AP Java class, but I was missing too many stepping stones to fully get
 
 </details>
 
-### Why do you use so many different programming languages
+### [❔️ Why do you use so many different programming languages?](#-Why-do-you-use-so-many-different-programming-languages-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1349,7 +1403,7 @@ I have always been a linguist. I like the looks of all the different programming
 
 </details>
 
-### Do you actually know all those languages
+### [❔️ Do you actually know all those languages?](#-Do-you-actually-know-all-those-languages-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1357,7 +1411,7 @@ I know a few, but can't do more than the very basics in most. Languages I am goo
 
 </details>
 
-### Why do you put so much info out
+### [❔️ Why do you put so much info out?](#-Why-do-you-put-so-much-info-out-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1365,7 +1419,7 @@ I have had years of decisions on what info I put out and what I don't put out. A
 
 </details>
 
-### Why do you have image projects? Doesn't that defeat the point of GitHub
+### [❔️ Why do you have image projects? Doesn't that defeat the point of GitHub?](#-Why-do-you-have-image-projects-Doesn-t-that-defeat-the-point-of-GitHub-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1373,7 +1427,7 @@ It does in a way, but I don't have any good image platforms. Since GitHub is a v
 
 </details>
 
-### Why are so many projects of yours so underdeveloped
+### [❔️ Why are so many projects of yours so underdeveloped?](#-Why-are-so-many-projects-of-yours-so-underdeveloped-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1381,7 +1435,7 @@ I joined GitHub with the goal of collaboration. I am still building a following,
 
 </details>
 
-### How are you profitable
+### [❔️ How are you profitable?](#-How-are-you-profitable)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1389,7 +1443,7 @@ I am not profitable yet, but I am working on it. Since I work in the FOSS indust
 
 </details>
 
-### Why did you switch to Linux
+### [❔️ Why did you switch to Linux?](#-Why-did-you-switch-to-Linux-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1397,7 +1451,7 @@ Linux is great. I have had a really, really horrible experience with Windows 10,
 
 </details>
 
-### What is the purpose of the life archive project
+### [❔️ What is the purpose of the life archive project?](#-What-is-the-purpose-of-the-life-archive-project)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1405,7 +1459,7 @@ My life archive project is a full-time hobby project where I archive my entire l
 
 </details>
 
-### Why did you follow over 1000 users one night
+### [❔️ Why did you follow over 1000 users one night?](#-Why-did-you-follow-over-1000-users-one-night-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1415,7 +1469,7 @@ I got my account suspended 3 days later, and along with other reasons, I decided
 
 </details>
 
-### Why do you have so many tabs open
+### [❔️ Why do you have so many tabs open?]#-Why-do-you-have-so-many-tabs-open-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1423,7 +1477,7 @@ I have a lot of different projects. I have to manage lots of different projects.
 
 </details>
 
-### Why do you use Wikipedia so much
+### [❔️ Why do you use Wikipedia so much?](#-Why-do-you-use-Wikipedia-so-much-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1431,7 +1485,7 @@ Wikipedia is one of my most used sites, GitHub is second. I find Wikipedia to be
 
 </details>
 
-### Why do you play so many different games
+### [❔️ Why do you play so many different games?](#Why-do-you-play-so-many-different-games-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1439,7 +1493,7 @@ I like to have balance in my life, and have periods to relax from programming. I
 
 </details>
 
-### Why do you play kids games
+### [❔️ Why do you play kids games?](#Why-do-you-play-kids-games-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1447,7 +1501,7 @@ I play games that have a general target of kids, but are also just past-time gam
 
 </details>
 
-### Why do you hate Google so much
+### [❔️ Why do you hate Google so much?](#-Why-do-you-hate-Google-so-much-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1455,7 +1509,7 @@ Google has a long history of privacy invasion, hypocrasy, being a monopoly, kill
 
 </details>
 
-### Why do some of your projects use Go, Dart, or Flutter when you hate Google
+### [❔️ Why do some of your projects use Go, Dart, or Flutter when you hate Google?](#-Why-do-some-of-your-projects-use-Go-Dart-or-Flutter-when-you-hate-Google-)
 
 <details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
 
@@ -1475,7 +1529,7 @@ _End of frequently asked questions._
 
 ---
 
-## GitHub profile template
+## [📰️ GitHub profile template](#-GitHub-profile-template)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the GitHub profile template section]</b></p></summary>
 
@@ -1519,13 +1573,13 @@ _No other about me sections available._
 
 ***
 
-## Life
+## [🧬️ Life](#-Life)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my life</b></p></summary>
 
 ***
 
-## Personal
+## [♨️ Personal](#-Personal)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1545,7 +1599,7 @@ On GitHub, I have a lot of other personal projects, under the category of a life
 
 ***
 
-## Autism
+## [♾️ Autism](#-Autism)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1565,28 +1619,30 @@ _No other entries about my life are available here._)
 
 ***
 
-## Technology
+## [📟️ Technology](#-Technology)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my technology</b></p></summary>
 
 ---
 
-### Media
+### [📀️ Media](#-Media)
 
 **Additional media formats**
+
+#### [📻️ Radio](#-Radio)
 
 - [:octocat: `Radio`](https://github.com/seanpm2001/Radio/)
 - - Information on radio projects.
 
 ***
 
-### My current setup
+### [🛳️ My current setup](#-My-current-setup)
 
 This section is for information regarding my current work setup (as of March 26th 2021)
 
 <details><summary>[Click/tap here to expand/collapse the list about my current hardware setup]</summary>
 
-#### Current hardware
+#### [💻️ Current hardware](#-Current-hardware)
 
 [Laptop: System76 Pangolin with Ubuntu 22.04](https://system76.com/laptops/pangolin/)
 
@@ -1594,59 +1650,36 @@ This section is for information regarding my current work setup (as of March 26t
 [Headphones: Bluetooth Letscom wireless headphones, 100 hour battery, 1200 MaH](https://www.amazon.com/Bluetooth-Headphones-LETSCOM-Wireless-Cellphone/dp/B07TQM2FTD)
 !-->
 
-#### Current software
+#### [💾️ Current software](#-Current-software)
+
+> **Note** _Outdated, as of 2023, January 1st_
 
 ```
 VLC Media Player 3.0.11
-
 Konsole
-
 GNOME System Monitor
-
 Gedit
-
 GNOME Clocks
-
 Mozilla Firefox 84.0.1 (a bit outdated) - on laptop 1, Mozilla Firefox 88.0 (on laptop 2)
-
 GNOME Files/Nautilus
-
 GNOME Calculator
-
 GNOME Extensions
-
 GNOME Settings
-
 LibreOffice 6.4.6.2 {
-
 	LibreOffice Writer 6.4.6.2 (complete open-source alternative to Microsoft Word)
-	
 	LibreOffice Calc 6.4.6.2 (complete open-source alternative to Microsoft Excel)
-	
-	LibreOffice Impress 6.4.6.2 (complete open-source alternative to Microsoft PowerPoint)
-	
+	LibreOffice Impress 6.4.6.2 (complete open-source alternative to Microsoft PowerPoint)	
 	LibreOffice Base 6.4.6.2 (complete open-source alternative to Microsoft Access)
-
 }
-
 VirtualBox 6.1.10 (a bit outdated) - Not currently in use
-
 Inkscape - Not currently in use
-
 GIMP 2.10
-
 Mari0 (possibly proprietary)
-
 Okular
-
 Typora (proprietary) - No longer used
-
 Audacity 2.10 - No longer used
-
 Notepad++ (running on WINE) - No longer used
-
 Ubuntu 20.04 LTS
-
 Other/unknown
 ```
 
@@ -1654,7 +1687,7 @@ Other/unknown
 
 ***
 
-### Former organizations
+### [❌️ Former organizations](#-Former-organizations)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1713,7 +1746,9 @@ Note: my organizations had multiple purposes, but most of them aimed to serve as
 
 ---
 
-### Search my profile easier with [this helpful Gist](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe/)
+### [🔍️ Search my profile easier with this helpful Gist](#-Search-my-profile-easier-with-this-helpful-Gist)
+
+- [https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe](https://gist.github.com/seanpm2001/3a6ae43685d2f38fc0bfef980d18aafe)
 
 This Gist helps with:
 
@@ -1729,13 +1764,13 @@ _End of Technology section._
 
 ***
 
-### Statistics
+### [📈️ Statistics](#-Statistics)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my statistics</b></p></summary>
 
 ---
 
-#### Overview statistics
+#### [📉️ Overview statistics](#-Overview-statistics)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1779,7 +1814,7 @@ Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com
 
 ---
 
-#### GitHub Skyline
+#### [🌆️ GitHub Skyline](#-GitHub-Skyline)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1789,7 +1824,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2008
+##### [🏙️ Skyline 2008](#-Skyline-2008)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1803,7 +1838,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2009
+##### [🏙️ Skyline 2009](#-Skyline-2009)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1817,7 +1852,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2010
+##### [🏙️ Skyline 2010](#-Skyline-2010)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1831,7 +1866,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2011
+##### [🏙️ Skyline 2011](#-Skyline-2011)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1845,7 +1880,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2012
+##### [🏙️ Skyline 2012](#-Skyline-2012)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1859,7 +1894,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2013
+##### [🏙️ Skyline 2013](#-Skyline-2013)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1873,7 +1908,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2014
+##### [🏙️ Skyline 2014](#-Skyline-2014)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1887,7 +1922,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2015
+##### [🏙️ Skyline 2015](#-Skyline-2015)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1901,7 +1936,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2016
+##### [🏙️ Skyline 2016](#-Skyline-2016)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1915,7 +1950,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2017
+##### [🏙️ Skyline 2017](#-Skyline-2017)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1929,7 +1964,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2018
+##### [🏙️ Skyline 2018](#-Skyline-2018)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1943,7 +1978,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2019
+##### [🏙️ Skyline 2019](#-Skyline-2019)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1957,7 +1992,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2020
+##### [🏙️ Skyline 2020](#-Skyline-2020)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1969,7 +2004,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2021
+##### [🏙️ Skyline 2021](#-Skyline-2021)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1981,7 +2016,7 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2022
+##### [🏙️ Skyline 2022](#-Skyline-2022)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1993,25 +2028,25 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 ---
 
-##### Skyline 2023
+##### [🏙️ Skyline 2023](#-Skyline-2023)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 [View skyline 2023 via GitHub skyline](https://skyline.github.com/seanpm2001/2023/)
 
-[View STL file (coming soon)]
+[View STL file (coming soon)](/Special/GitHub_Skyline/2023/seanpm2001-2023.stl)
 
 </details> <!-- End of Skyline 2023 !-->
 
 ---
 
-##### Skyline 2024
+##### [🏙️ Skyline 2024](#-Skyline-2024)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 [View skyline 2024 via GitHub skyline](https://skyline.github.com/seanpm2001/2024/)
 
-[View STL file (coming soon)]
+[View STL file (coming soon)]/Special/GitHub_Skyline/2024/)
 
 </details> <!-- End of Skyline 2024 !-->
 
@@ -2037,17 +2072,17 @@ _No other statistics sections available._
 
 ***
 
-## Family
+## [🏴󠁧󠁢󠁷󠁬󠁳󠁿️ Family](#-Family)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my family</b></p></summary>
 
 ***
 
-### GitHub contacts (family)
+### [👥️ GitHub contacts (family)](#-GitHub-contacts)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-#### Family
+#### [🏴󠁧󠁢󠁷󠁬󠁳󠁿️ My family on GitHub](#-My-family-on-GitHub)
 
 `@Microsoft`
 
@@ -2077,11 +2112,11 @@ _No other family sections available._
 
 ***
 
-## Friends
+## [🚢️ Friends](#-Friends)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my friends</b></p></summary>
 
-### GitHub contacts (other)
+### [#️⃣️ GitHub contacts (other)](#-GitHub-contacts-other)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2111,13 +2146,13 @@ Projects I am actively monitoring:
 
 ***
 
-# My projects
+# [🏢️ My projects](#-My-projects)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my projects</b></p></summary>
 
 ***
 
-### Website modules
+### [🕸️ Website modules](#-Website-modules)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2127,39 +2162,28 @@ These website modules are used for maintaining GitHub functionality elsewhere.
 
 </details>
 
-### Templates
+### [🗞️ Templates](#-Templates)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 These templates are used to increase the efficiency of starting GitHub projects (the latest version takes nearly 4 hours of development time off from a single new project)
 
-[Git Template (V8)](https://github.com/seanpm2001/Git-Template_V8/) - The modern Git template used for automating several project types.
-
-[Template: GitHub Pages (V1)](https://github.com/seanpm2001/Template_GitHubPages_V1/) - Historical; my first template for automating GitHub pages. It was superceded by the V2 GitHub pages template.
-
-[Template: GitHub Pages (V2)](https://github.com/seanpm2001/Template_GitHubPages_V2/) - Historical; my second template for automating GitHub pages. It was superceded by the V3 GitHub pages template.
-
-[Template: GitHub Pages (V3)](https://github.com/seanpm2001/Template_GitHubPages_V3/) - Historical; my third template for automating GitHub pages. It was superceded by the V4 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V4)](https://github.com/seanpm2001/Template_GitHubPages_Default_V4/) - Historical; my fourth template for automating GitHub pages in the default style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Language page) (V4)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V4/) - Historical; my fourth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V5)](https://github.com/seanpm2001/Template_GitHubPages_Default_V5/) - Historical; my fifth template for automating GitHub pages in the default style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
-
-* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V5)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V5/) - Historical; my fifth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V6)](https://github.com/seanpm2001/Template_GitHubPages_Default_V6/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
-
-* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V6)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V6/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
-
-[Template: GitHub Pages (Default) (V7)](https://github.com/seanpm2001/Template_GitHubPages_Default_V7/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V8 GitHub template (with 12+ variants)
-
-* **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V7)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V7/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V8 GitHub template (with 12+ variants)
+- [Git Template (V8)](https://github.com/seanpm2001/Git-Template_V8/) - The modern Git template used for automating several project types.
+- [Template: GitHub Pages (V1)](https://github.com/seanpm2001/Template_GitHubPages_V1/) - Historical; my first template for automating GitHub pages. It was superceded by the V2 GitHub pages template.
+- [Template: GitHub Pages (V2)](https://github.com/seanpm2001/Template_GitHubPages_V2/) - Historical; my second template for automating GitHub pages. It was superceded by the V3 GitHub pages template.
+- [Template: GitHub Pages (V3)](https://github.com/seanpm2001/Template_GitHubPages_V3/) - Historical; my third template for automating GitHub pages. It was superceded by the V4 GitHub pages template (with 2 variants: default, and language page)
+- [Template: GitHub Pages (Default) (V4)](https://github.com/seanpm2001/Template_GitHubPages_Default_V4/) - Historical; my fourth template for automating GitHub pages in the default style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
+- [Template: GitHub Pages (Language page) (V4)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V4/) - Historical; my fourth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V5 GitHub pages template (with 2 variants: default, and language page)
+- [Template: GitHub Pages (Default) (V5)](https://github.com/seanpm2001/Template_GitHubPages_Default_V5/) - Historical; my fifth template for automating GitHub pages in the default style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
+- **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V5)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V5/) - Historical; my fifth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V6 GitHub pages template (with 2 variants: default, and language page)
+- [Template: GitHub Pages (Default) (V6)](https://github.com/seanpm2001/Template_GitHubPages_Default_V6/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
+- **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V6)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V6/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V7 GitHub pages template (with 2 variants: default, and language page)
+- [Template: GitHub Pages (Default) (V7)](https://github.com/seanpm2001/Template_GitHubPages_Default_V7/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V8 GitHub template (with 12+ variants)
+- **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V7)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V7/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V8 GitHub template (with 12+ variants)
 
 </details>
 
-### Other
+### [*️⃣️ Other](#-Other)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2171,13 +2195,13 @@ Other uncategorized projects.
 
 ***
 
-## Platforms I develop for
+## [🔌️ Platforms I develop for](#-Platforms-I-develop-for)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 This is a list of the platforms I develop for:
 
-### Linux platform support
+### [🐧️ Linux platform support](#-Linux-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2191,7 +2215,7 @@ This is a list of the platforms I develop for:
 
 </details>
 
-### BSD platform support
+### [🐡️ BSD platform support](#-BSD-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2202,7 +2226,7 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 
 </details>
 
-### Windows platform support
+### [🪟️ Windows platform support](#-Windows-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2224,7 +2248,7 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 
 </details>
 
-### Other platform support
+### [🔰️ Other platform support](#-Other-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2239,7 +2263,7 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 
 ***
 
-### What I'm currently working on
+### [〽️ What I'm currently working on](#-What-I-m-currently-working-on)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2249,7 +2273,7 @@ My major projects include:
 
 ---
 
-#### Major project: SNU
+#### [💿️ Major project: SNU](#-Major-project--SNU)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2288,7 +2312,7 @@ My major projects include:
 
 ---
 
-#### Major project: MEDOS (Operating System)
+#### [💿️ Major project: MEDOS (Operating System)](#-Major-project--MEDOS--Operating-System-)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2314,7 +2338,7 @@ My major projects include:
 
 ---
 
-#### Major project: Meadows (Operating System)
+#### [💿️ Major project: Meadows (Operating System)](#-Major-project--Meadows--Operating-System-)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2342,7 +2366,7 @@ My major projects include:
 
 ---
 
-#### Major project: WacOS (Operating System)
+#### [💿️ Major project: WacOS (Operating System)](#-Major-project--WacOS--Operating-System-)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2400,7 +2424,7 @@ My major projects include:
 
 ---
 
-#### Major project: AI2001
+#### [💿️ Major project: AI2001](#-Major-project--AI2001)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2438,7 +2462,7 @@ My major projects include:
 
 ---
 
-#### Major project: SeansLifeArchive
+#### [💿️ Major project: SeansLifeArchive](#-Major-project--SeansLifeArchive)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2489,7 +2513,7 @@ My major projects include:
 
 ---
 
-#### Major project: Linux Defender
+#### [💿️ Major project: Linux Defender](#-Major-project--Linux-Defender)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2528,7 +2552,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Anime Studio
+#### [💿️ Major project: Anime Studio](#-Major-project--Anime-Studio)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2572,7 +2596,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Candroid Framework
+#### [💿️ Major project: Candroid Framework](#-Major-project--Candroid-Framework)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2610,7 +2634,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: DeGoogle your Life
+#### [💿️ Major project: DeGoogle your Life](#-Major-project--DeGoogle-your-Life)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2640,7 +2664,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Ukraine History Simulator
+#### [💿️ Major project: Ukraine History Simulator](#-Major-project--Ukraine-History-Simulator)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2669,7 +2693,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: SDE
+#### [💿️ Major project: SDE](#-Major-project--SDE)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2698,7 +2722,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Learn
+#### [💿️ Major project: Learn](#-Major-project--Learn)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2730,7 +2754,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Android x32x64x128
+#### [💿️ Major project: Android x32x64x128](#-Major-project--Android-x32x64x128)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2766,7 +2790,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: BlazeOS (Operating System)
+#### [💿️ Major project: BlazeOS (Operating System)](#-Major-project--BlazeOS--Operating-System-)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2811,7 +2835,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Bliss Browser
+#### [💿️ Major project: Bliss Browser](#-Major-project--Bliss-Browser)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2847,7 +2871,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Software LIBraries
+#### [💿️ Major project: Software LIBraries](#-Major-project--Software-LIBraries)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2889,7 +2913,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Computing languages
+#### [💿️ Major project: Computing languages](#-Major-project--Computing-languages)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2928,7 +2952,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Joke projects
+#### [💿️ Major project: Joke projects](#-Major-project--Joke-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2969,7 +2993,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
-#### Major project: Other projects
+#### [💿️ Major project: Other projects](#-Major-project--Other-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2996,7 +3020,7 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ***
 
-## Key projects by megaproject category
+## [🔑️ Key projects by megaproject category](#-Key-projects-by-megaproject-category)
 
 This is a sorted list of key projects by mega project categories.
 
@@ -3004,7 +3028,7 @@ This is a sorted list of key projects by mega project categories.
 	
 ***
 
-### Degoogle-your-life project
+### [🚫️ Degoogle-your-life project](#-DeGoogle-your-life-project)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3017,7 +3041,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### Image projects
+### [🏞️ Image projects](#-Image-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3030,7 +3054,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### Life archive projects
+### [🗄️ Life archive projects](#-Life-archive-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3040,7 +3064,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### Joke projects
+### [🎭️ Joke projects](#-Joke-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3048,7 +3072,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### Game projects
+### [🕹️ Game projects](#-Game-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3060,7 +3084,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### Research projects
+### [🔎️ Research projects](#-Research-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3070,7 +3094,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### Operating system projects
+### [💽️ Operating system projects](#-Operating-system-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3078,7 +3102,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### SNU projects
+### [🌐️ SNU projects](#-SNU-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3087,7 +3111,7 @@ This is a sorted list of key projects by mega project categories.
 
 </details>
 
-### Other projects
+### [⁉️ Other projects](#-Other-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3099,7 +3123,7 @@ This is a sorted list of key projects by mega project categories.
 
 ---
 
-## Repository of the day (coming soon)
+## [🌟️ Repository of the day (coming soon)](#-Repository-of-the-day--coming-soon-)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3142,7 +3166,7 @@ _No other projects currently listed._
 
 ***
 
-## My goals
+## [🥅️ My goals](#-My-goals)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my goals</b></p></summary>
 
@@ -3152,7 +3176,7 @@ Section is currently empty
 
 ***
 
-## Documentation
+## [📚️ Documentation](#-Documentation)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my documentatoion</b></p></summary>
 
@@ -3162,7 +3186,7 @@ This is one of my most important repositories. It is a portal to all of my docum
 
 ***
 
-## README Usage
+## [📄️ README usage](#-README-usage)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3205,7 +3229,7 @@ See my year in review for:
 
 [Year 1 (2020-2021)](/Special/Year-in-Review/2020-2021/) [Year 2 (2021-2022) **coming soon**](/Special/Year-in-Review/2021-2022/) 
 
-## Software status
+## [🆓️ Software status](#-Software-status)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3223,7 +3247,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 </details>
 
-### Feature requests for GitHub
+### [🪄️ Feature requests for GitHub](#-Feature-requests-for-GitHub)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3231,11 +3255,11 @@ There are some features that would be nice for GitHub. They include:
 
 **Entries marked with `⭐` are highest priority**
 
-> * The ability to follow organizations ⭐
+> * The ability to follow organizations ⭐ (added to the site on 2022, March 21st) ✅️
 
 > * An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
 
-<!-- > * A built-in dark mode, along with other modes (if needed) This was added over 6 months ago, and should now be commented out) !-->
+> * A built-in dark mode, along with other modes (if needed) (added to the site around 2021) ✅️
 
 > * Adding back the ability to hover over and see commit percentages ⭐
 
@@ -3255,13 +3279,13 @@ _End of documentation section._
 
 ***
 
-# About this page
+# [📃️ About this page](#-About-this-page)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about this page</b></p></summary>
 
 ***
 
-## Workflows (seanpm2001/seanpm2001)
+## [⚙️ Workflows (seanpm2001/seanpm2001)](#-Workflows--seanpm2001-seanpm2001)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3286,7 +3310,7 @@ _End of documentation section._
 
 <details open><summary><H3>🗄️ Explore this repo:</H3></summary>
 
-### GitHub:seanpm2001/seanpm2001
+### [📘️ GitHub:seanpm2001/seanpm2001](#-GitHub-seanpm2001-seanpm2001)
 
 Outdated, as of 2023, Friday, May 26th
 
@@ -3330,16 +3354,16 @@ Outdated, as of 2023, Friday, May 26th
 
 ***
 
-# File info
+# [ℹ️ File info](#-File-info)
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `77 (2023, Sunday, March 24th at 04:21 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,166`
-- **Word count:** `037,655`
-- **Character count (with spaces):** `0,261,071 characters (264.738 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,228,282 characters (264.738 kilobytes, due to special character usage)`
+- **File version:** `78 (2024, Monday, March 25th at 04:07 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,252`
+- **Word count:** `038,995`
+- **Character count (with spaces):** `0,271,230 characters (275.766 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,237,552 characters (275.766 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -3352,7 +3376,7 @@ Outdated, as of 2023, Friday, May 26th
 
 ***
 
-# File version history
+# [📜️ File version history](#-File-version-history)
 
 <!-- This section is commented out to enable better scrolling. Fork/download the project to view the source code, or "view raw" to see the file history !-->
 
@@ -5100,13 +5124,31 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 78 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 78 (2024, Monday, March 25th at 04:07 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fourth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a long time to make, and the daily goal of just 3 changes was ignored, I made lots of changes. It took a couple hours to make this update._
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 78
+- [x] Updated every section
+- - [x] Added anchor links to all headings
+- - [x] Added Emojis to all headings
+- - [x] Did some updates to documentation in various specific sections
+- [x] Updated information on the remodel of this project
+- [x] Updated the Ukraine section
+- [x] Merged 12 sections into a megasection
+- [x] Added the Footer megasection
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 78
+- [ ] No other changes in version 78
 
 </details>
 
@@ -5999,9 +6041,45 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 155 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 155
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 156 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 156
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
+
+***
+
+# [🏗️ Remodel history](#-Remodel-history)
+
+<details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
+
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 25th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-25th)
+
+- [Link to remodel section (separate file)](/Remodels/2024/README.md)
+
+</details>
+
+_End of remodel history section._
 
 ***
 
@@ -6011,9 +6089,15 @@ _End of about this page section._
 
 ***
 
+_End of profile body._
+
+</details>
+
+***
+
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-# Everyone who has interacted with me (via issue, discussion, or pull request) on GitHub since 2020 May 25th
+# [🗣️ Everyone who has interacted with me (via issue, discussion, or pull request) on GitHub since 2020 May 25th](#-Everyone-who-has-interacted-with-me--via-issue-discussion-or-pull-rwquest--on-GitHub-since-2020-May-25th)
 
 <!-- > **Note** **The count comes out to 30 people and 1 bot, 28 people and 1 bot when not counting me** !-->
 
@@ -6028,7 +6112,7 @@ When not me:
   
 [![People who have interacted with me here](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 
-## Contributors ✨
+## [✨ Contributors](#-Contributors)
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -6099,7 +6183,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-# [Optimizing this page](#Optimizing-this-page)
+# [💨️ Optimizing this page](#-Optimizing-this-page)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -6113,7 +6197,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 
 ***
 
-# [Developer limits](#Developer-limits)
+# [⚠️ Developer limits](#-Developer-limits)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -6138,13 +6222,15 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 
 </details>
 
+***
+
 | `Preceeded by` | `Preceeded by` | `Preceeded by` | `Preceeded by` | **Current** | `Succeeded by` |
 |--------------|--------------|--------------|---------|--------------|--------------|
 | ***Position established*** | **@Seanspokane2015** | **@SeanTRM** | [:octocat: `@seanwallawalla`](https://github.com/seanwallawalla/) | **@seanpm2001** | ***Incumbent*** |
 
 ***
 
-# [Footer](#Footer)
+# [🦶️ Footer](#-Footer)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -6158,8 +6244,8 @@ You have reached the end of this page.
 
 **🄯 Copyleft [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
 
-### [End of file](#End-of-file)
+### [🔚️ End of file](#-End-of-file)
 
-###### [EOF](#EOF)
+###### [🔚️ EOF](#-EOF)
 
 ***
