@@ -25,6 +25,7 @@
 /Notes/
 /OldVersions/
 /Pronouns/
+/Remodels/
 /RepoData/
 /RepoData_Notes/
 /RepoList/
