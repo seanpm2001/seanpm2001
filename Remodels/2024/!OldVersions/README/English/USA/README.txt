@@ -6,7 +6,7 @@
 
 | **4 year anniversary update** |
 |---------------------------|
-| Beta 4 - 2024, March 25th |
+| Beta 5 - 2024, March 26th |
 | Final release day: 2024, May 25th |
 | Please report formatting bugs [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
@@ -14,10 +14,10 @@
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
 
-I am in the process of remodeling my GitHub profile page. Since I am not actively working on it, this may take a while. Remodeling started on 2024, Saturday March 23rd. I will not be implementing them today, as I am just brainstorming ideas for now. Here are my current goals
+I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. Here are my current goals
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 3 days down, as of 2024, Monday, March 25th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 4 days down, as of 2024, Tuesday, March 256h)_
 
 ***
 
@@ -31,22 +31,11 @@ I am in the process of remodeling my GitHub profile page. Since I am not activel
 
 ```
 todo with seanpm2001/seanpm2001
-
 Résumé at top
 Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
-Best ever GitHub Stats A runs
-
 Improvements to guestbook display
-
 - Dropdown of people who have signed
 - More links
-
-GitHub social statistics section
-
-Follower milestones
-
-1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
-
 Notes about calendar
 Notes about municipalities, etc
 CCM (Commit Count Milestones) listing
@@ -58,7 +47,6 @@ New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Update to document limits
 Section about upcoming projects
-Some new generated statistics (experimental)
 Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
 Information on project difficulties
 Information on complexity
@@ -81,8 +69,6 @@ Raspberry Pi information
 Sponsor information
 SeansOSData information
 Self hosting plans for the future
-Mastodon information
-Recent social media usage (Twitter deletion plans, Instagram account deleted)
 New style (custom headings, as images)
 Improvements to language translation process, and info on this
 AUTOMATE2001 information
@@ -90,17 +76,13 @@ Centering various tables and text
 Internet status and speedtest link
 anti-Google | to go under: stances
 100 private repositories (as of 2024, Saturday, March 23rd)
-Labels
 Blockchain, web -3
 Information on forks, how to find source, and the problem with forks on GitHub
-Alt account info
 Discussions for /seanpm2001/seanpm2001/
 Getting started
 Favorite works
 Style guides
-FreeCodeCamp
 History research + my areas of research
-Wikipedia and Wikipedia accounts, with source
 Public domain gallery of myself
 Timeline (2015-2024)
 Forks and browsing forks
@@ -122,23 +104,11 @@ Music section
 | AudioDB, bandcamp
 Certificates
 Learn repository
-Pets
-| Goats
-| Chickens
-| Horses
-| Fish
-| | Marine Biology repo
-| Dogs
-| Cats
 UnSaaSS project
-Align administrator section to the left
-Add administrator image (stop hand nuvola)
-Collapse the 12 mega sections into a giga section
-Add "under construction" icons to remodel page
 Update the file tree, and link to ROOTFILES.base
-Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
 Update information about Windows and MacOS support
-Make lead section collapse-capable
+Give identity theft a better name, and update the link in the guestbook section with this newly named section
+Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 ```
 
 </details>
@@ -213,6 +183,26 @@ Make lead section collapse-capable
 Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
 Add anchor links to all headings
 More Emojis
+Best ever GitHub Stats A runs
+GitHub social statistics section
+
+Follower milestones
+
+1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
+Pets
+| Goats
+| Chickens
+| Horses
+| Fish
+| | Marine Biology repo
+| Dogs
+| Cats
+FreeCodeCamp
+Wikipedia and Wikipedia accounts, with source
+Alt account info
+Mastodon information
+Recent social media usage (Twitter deletion plans, Instagram account deleted)
+Labels
 ```
 
 </details>
