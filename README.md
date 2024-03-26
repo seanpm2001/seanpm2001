@@ -293,7 +293,8 @@ This guestbook is for basic interaction, and communications. For further communi
 
 Temporarily removed until a replacement is made
 
-<!--
+<details><summary><p><b>Click/tap here to expand/collapse the old, outdated index</b></p></summary>
+
 [00.0 - Top](#Top)
 
 > [00.1 - GitHub:seanpm2001/seanpm2001](#seanpm2001/seanpm2001)
@@ -486,7 +487,7 @@ Temporarily removed until a replacement is made
 
 [34.0 - Contributors ✨](#Contributors-)
 
-!-->
+</details>
 
 </details>
 
@@ -525,7 +526,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |---------------------------|
-| Beta 4 - 2024, March 25th |
+| Beta 5 - 2024, March 26th |
 | Final release day: 2024, May 25th |
 | Please report formatting bugs [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
@@ -533,10 +534,10 @@ _This section was added on 2024, Saturday, March 23rd._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
 
-I am in the process of remodeling my GitHub profile page. Since I am not actively working on it, this may take a while. Remodeling started on 2024, Saturday March 23rd. I will not be implementing them today, as I am just brainstorming ideas for now. Here are my current goals
+I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. Here are my current goals
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 3 days down, as of 2024, Monday, March 25th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 4 days down, as of 2024, Tuesday, March 256h)_
 
 ***
 
@@ -550,22 +551,11 @@ I am in the process of remodeling my GitHub profile page. Since I am not activel
 
 ```
 todo with seanpm2001/seanpm2001
-
 Résumé at top
 Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
-Best ever GitHub Stats A runs
-
 Improvements to guestbook display
-
 - Dropdown of people who have signed
 - More links
-
-GitHub social statistics section
-
-Follower milestones
-
-1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
-
 Notes about calendar
 Notes about municipalities, etc
 CCM (Commit Count Milestones) listing
@@ -577,7 +567,6 @@ New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Update to document limits
 Section about upcoming projects
-Some new generated statistics (experimental)
 Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
 Information on project difficulties
 Information on complexity
@@ -600,8 +589,6 @@ Raspberry Pi information
 Sponsor information
 SeansOSData information
 Self hosting plans for the future
-Mastodon information
-Recent social media usage (Twitter deletion plans, Instagram account deleted)
 New style (custom headings, as images)
 Improvements to language translation process, and info on this
 AUTOMATE2001 information
@@ -609,17 +596,13 @@ Centering various tables and text
 Internet status and speedtest link
 anti-Google | to go under: stances
 100 private repositories (as of 2024, Saturday, March 23rd)
-Labels
 Blockchain, web -3
 Information on forks, how to find source, and the problem with forks on GitHub
-Alt account info
 Discussions for /seanpm2001/seanpm2001/
 Getting started
 Favorite works
 Style guides
-FreeCodeCamp
 History research + my areas of research
-Wikipedia and Wikipedia accounts, with source
 Public domain gallery of myself
 Timeline (2015-2024)
 Forks and browsing forks
@@ -641,23 +624,11 @@ Music section
 | AudioDB, bandcamp
 Certificates
 Learn repository
-Pets
-| Goats
-| Chickens
-| Horses
-| Fish
-| | Marine Biology repo
-| Dogs
-| Cats
 UnSaaSS project
-Align administrator section to the left
-Add administrator image (stop hand nuvola)
-Collapse the 12 mega sections into a giga section
-Add "under construction" icons to remodel page
 Update the file tree, and link to ROOTFILES.base
-Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
 Update information about Windows and MacOS support
-Make lead section collapse-capable
+Give identity theft a better name, and update the link in the guestbook section with this newly named section
+Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 ```
 
 </details>
@@ -732,6 +703,26 @@ Make lead section collapse-capable
 Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
 Add anchor links to all headings
 More Emojis
+Best ever GitHub Stats A runs
+GitHub social statistics section
+
+Follower milestones
+
+1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
+Pets
+| Goats
+| Chickens
+| Horses
+| Fish
+| | Marine Biology repo
+| Dogs
+| Cats
+FreeCodeCamp
+Wikipedia and Wikipedia accounts, with source
+Alt account info
+Mastodon information
+Recent social media usage (Twitter deletion plans, Instagram account deleted)
+Labels
 ```
 
 </details>
@@ -784,13 +775,28 @@ _End of remodel information_
 
 </details>
 
+<!-- *** !-->
+
 </details> <!-- End of lead section !-->
 
-***
+<!-- *** !-->
 
 > **Note** Everything else on this page is collapsed, and under a dropdown menu. You must click/tap the sections to expand/collapse them
 
+***
+
 <details><summary><H1>🚨️ Click/tap here to expand/collapse my profile</H1></summary>
+
+<div align="center">
+    <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" width="480" height="480"> !-->
+    <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="412" height="267"> !-->
+    
+   <img src="/Graphics/Profile-Avatar/65933340.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="460" height="460">
+   
+   | @Seanpm2001 / @seanwallawalla |
+   |---------------------|
+   | Sean Patrick Myrick |
+</div>
 
 ***
 
@@ -913,6 +919,16 @@ I also can't work on projects that are related to your school work. Please do no
 I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3, Java, C, C++, or JavaScript. I won't be able to help as well with projects written in other languages.
 
 No other limitations listed at the moment.
+
+</details>
+
+***
+
+## [🏷️ Labels](#-Labels)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+[:octocat: `My labels can be found here`](https://github.com/seanpm2001/Labels/)
 
 </details>
 
@@ -1098,11 +1114,9 @@ I have been using GitHub for software development since May 25th 2020, but I hav
 
 On December 21st 2020, I created accounts on SourceForge, GitLab, and BitBucket. I currently don't maintain any projects there at the moment, GitHub still is the powerhouse.
 
-[SourceForge link](https://sourceforge.net/u/seanpm2001/profile/)
-
-[GitLab link](https://gitlab.com/seanpm2001/)
-
-[BitBucket link](https://bitbucket.org/seanpm2001/)
+- [SourceForge link](https://sourceforge.net/u/seanpm2001/profile/)
+- [GitLab link](https://gitlab.com/seanpm2001/)
+- [BitBucket link](https://bitbucket.org/seanpm2001/)
 
 When I joined GitHub, I also intended to use other platforms as well, as something could always go wrong with my account or GitHub itself, and it isn't smart to rely on a single source for everything.
 
@@ -1136,22 +1150,65 @@ To avoid possible identity theft, I will link to all the services I use here.
 
 I am on the following platforms
 
+-[]()
+
 - [Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
+
+-[]()
+
 - [Discord](#How-to-reach-me) - Note: I stopped using Discord full time in 2021 February, but I still use it.
 
 > * SeanWallaWalla#1709 (my original Discord account)
 > * seanpm2001#4906 (my newest Discord account)
 
-- [GitHub](https://github.com/seanpm2001) <!-- - Obviously !-->
+- [Wikipedia (old, blanked page)](https://en.wikipedia.org/wiki/User:Seanwallawalla?&useskin=monobook)
+- [Wikipedia (newer user page)](https://en.wikipedia.org/wiki/User:Seanpm2001?&useskin=monobook)
+
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+-[]()
+
+- [GitHub](https://github.com/seanpm2001/) <!-- - Obviously !-->
+- [GitHub Alt account](https://github.com/seanwallawalla/)
+
+-[]()
+
 - [YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
 
 * [YouTube second channel](#Identity-theft)
 
 * Other
 
+![]()
+
+- [FreeCodeCamp](https://www.freecodecamp.org/Seanpm2001)
+
+- I work with FreeCodeCamp daily.
+- - Further information: [:octocat: `/seanpm2001/FreeCodeCamp_Seanpm2001/`](https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001/)
+
+![]()
+
 - [Mastodon](https://techhub.social/@seanpm2001)
-- [Mozilla](#Identity-theft)
+
+- I post on Mastodon weekly (at least once per week)
+
+![]()
+
+- [Mozilla](#Identity-theft) - I no longer have a Mozilla account
+
+![]()
+
 - [Twitter](https://www.twitter.com/@seanwallawalla) - No longer use as of 2018, slightly cringy, but not too bad
+- Account list
+- [`@seanwallawalla`](https://twitter.com/seanwallawalla/) **Main account**
+- [`@seanwallawallaa`](https://twitter.com/seanwallawallaa/) **Animation account**
+- [`@seanwallawallab`](https://twitter.com/seanwallawallab/) **Business account**
+- [`@seanwallawallae`](https://twitter.com/seanwallawallae/) **Electronic library account**
+- [`@seanwallawallal`](https://twitter.com/seanwallawallal/) **Live stream account**
+- [`@seanwallawalla2`](https://twitter.com/seanwallawalla2/) **"2nd" twitter account**
+- I currently plan on deleting these accounts once they have been crawled by the Wayback machine, or until the algorithm deletes them, whichever comes first
+- - Further information: [:octocat: `/seanpm2001/Twitter/`](https://github.com/seanpm2001/Twitter/)
+
 - [Scratch](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
 - [Scratch attempted main account](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
 
@@ -1169,6 +1226,7 @@ Not F'd
 
 This sticker is supported by [Richard Stallman](https://stallman.org/) to protest Facebook, Instagram, WhatsApp, and other Facebook products.
 
+- [Instagram](https://github.com/seanpm2001/Instagram/) - My account was suspended and deleted for "illegally harvesting user data" 4 days after I used the data takeout tool provided by Instagram itself.
 - [Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
 - [Yelp](#Identit-theft) - Link is incomplete
 - [Tumblr](https://tumblr.com) - Link is incomplete
@@ -1585,13 +1643,12 @@ _No other about me sections available._
 
 I have some personal opinions on GitHub. I am working on keeping them contained inside 3 repositories:
 
-[Opinions](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
-
-[Politics](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
+- [Opinions](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
+- [Politics](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
 
 > Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
 
-[Sexuality center](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
+- [Sexuality center](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
 
 On GitHub, I have a lot of other personal projects, under the category of a life archive project, which I have been working on extra hard since 2016.
 
@@ -2064,6 +2121,26 @@ _End of GitHub Skyline section._
 
 ***
 
+### [📊️ GitHub social statistics](#-GitHub-social-statistics)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+#### [👁️ Follower milestones](#-Follower-milestones)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- 1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k, as of 2024, March 26th)
+
+</details>
+
+***
+
+End of GitHub social statistics
+
+</details>
+
+***
+
 _No other statistics sections available._
 
 </details>
@@ -2086,23 +2163,120 @@ _No other statistics sections available._
 
 `@Microsoft`
 
-[Channa-My](https://github.com/channa-my)
-
-[Lindsay-My](https://github.com/lindsmy)
+- [Channa-My](https://github.com/channa-my)
+- [Lindsay-My](https://github.com/lindsmy)
 
 `@Close`
 
-[Chrism2282](https://github.com/chrism2282)
-
-[Inverno4](https://github.com/inverno4)
-
-[Memewallawalla](https://github.com/memewallawalla)
+- [Chrism2282](https://github.com/chrism2282)
+- [Inverno4](https://github.com/inverno4)
+- [Memewallawalla](https://github.com/memewallawalla)
 
 `@alt_accounts`
 
-[Seanwallawalla](https://github.com/seanwallawalla)
+- [Seanwallawalla](https://github.com/seanwallawalla)
 
 </details>
+
+***
+
+### [🐾️ Pets](#-Pets)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Basic information on my pets, current and former.
+
+---
+
+#### [🐈️ Cats](#-Cats)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Currently, my family has 2 cats
+
+- Cocoa (a very talkative and athletic calico cat)
+- BB (nickname: Princess Leia) (a very shy, but friendly cat that gets along really well with miniature shnauzers. Will occassionally let you pet her, but not for very long)
+
+</details> <!-- End of cats section !-->
+
+---
+
+#### [🐔️ Chickens](#-Chickens)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Currently, my family has 14 chickens, this number fluctuates a lot, as they are of various ages. They are mostly decoration and lawn care (eating bugs) but we give their eggs to neighbors and friends frequently)
+
+</details> <!-- End of chickens section !-->
+
+---
+
+#### [🐶️ Dogs](#-Dogs)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Currently, my family has 4 dogs, which include 3 miniature schnauzers, and one other (I don't remember the breed)
+
+Shnauzers:
+
+- Gringo (nickname: Ginky) (I was not the one who named him) a very playful Shnauzer, and the successor to Guinea
+- Sparky (nickname: Barky)
+- Jiji (nickname: Jackie)
+
+Other
+
+- Kitty (no nickname) (I gave her the name, it is an odd name for a dog, but she really reminds me of a cat, and acts similarly to one)
+
+Past dogs
+
+- Guinea
+- Milly
+- Mila
+- Jack
+- Zoey
+- Corey
+
+</details> <!-- End of dogs section !-->
+
+---
+
+#### [🐠️ Fish](#-Fish)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+See my [:octocat: `Marine Biology repo`](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/)
+
+</details> <!-- End of fish section !-->
+
+---
+
+#### [🐐️ Goats](#-Goats)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+My family bought 2 goats around 2020. We bred them with other goats, which resulted in 2 baby goats. We later bred those 2 goats, with other goats, and now we have 6. My family gave them a Flintstones naming scheme, but stopped this with the second set of baby goats
+
+- Oldest: Betty, Wilma
+- Middle: Pebbles, Bambam
+- Youngest: Q-Tip, Taco
+
+</details> <!-- End of goats section !-->
+
+---
+
+#### [🐎️ Horses](#-Horses)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+My family owns 2 horses, Mocha and Shamen. We have had them since 2014. Sometimes, we ride them, and with our AirBnB, we let other people interact with them (feed them, clean them, and ride them)
+
+</details> <!-- End of horses section !-->
+
+***
+
+End of pets section
+
+</details> <!-- End of pets section !-->
 
 ***
 
@@ -2122,23 +2296,21 @@ _No other family sections available._
 
 `@friends`
 
-[Torokati44](https://github.com/torokati44) - My first friend gained when developing with them on Ruffle-rs
+- [Torokati44](https://github.com/torokati44) - My first friend gained when developing with them on Ruffle-rs
 
 The friend ship is now departing. Destination: everywhere.
 
 `@tech_idols`
 
-[Linus Torvalds](https://github.com/torvalds)
+- [Linus Torvalds](https://github.com/torvalds)
 
-#### Subscriptions
+#### [👀️ Subscriptions](#-Subscriptions)
 
 Projects I am actively monitoring:
 
-[Linux kernel](https://github.com/torvalds/linux) - The Linux kernel
-
-[Ruffle-rs](https://github.com/ruffle-rs/ruffle) - Ruffle, the open source flash player emulator
-
-[CPython](https://github.com/python/cpython) - The Python programming language
+- [Linux kernel](https://github.com/torvalds/linux) - The Linux kernel
+- [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - Ruffle, the open source flash player emulator
+- [CPython](https://github.com/python/cpython) - The Python programming language
 
 </details>
 
@@ -3359,11 +3531,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `78 (2024, Monday, March 25th at 04:07 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,252`
-- **Word count:** `038,995`
-- **Character count (with spaces):** `0,271,230 characters (275.766 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,237,552 characters (275.766 kilobytes, due to special character usage)`
+- **File version:** `79 (2024, Tuesday, March 26th at 04:54 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,482`
+- **Word count:** `040,091`
+- **Character count (with spaces):** `0,279,270 characters (283.861 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,244,484 characters (283.861 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5154,13 +5326,43 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 79 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 79 (2024, Tuesday, March 26th at 04:54 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fifth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a while to make, and more than 6 changes were made._
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 79
+- [x] Updated the index
+- [x] Updated information on the remodel of this project
+- [x] Updated the profile gigasection dropdown section
+- - [x] Added a centered profile picture
+- [x] Updated the `projects on other platforms` section
+- [x] Updated the `Identity theft` section
+- [x] Added the `GitHub social statistics` section
+- - [x] Added the `Follower milestones` subsection
+- [x] Updated the `Contacts` section
+- - [x] Updated the `GitHub contacts (family)` section
+- [x] Added the `Pets` section
+- - [x] Added the `cats` subsection
+- - [x] Added the `chickens` subsection
+- - [x] Added the `dogs` subsection
+- - [x] Added the `fish` subsection
+- - [x] Added the `goats` subsection
+- - [x] Added the `horses` subsection
+- [x] Updated the `Subscriptions` section
+- [x] Added the `Labels` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 79
+- [ ] No other changes in version 79
 
 </details>
 
@@ -6063,6 +6265,28 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 157 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 157
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 158 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 158
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
@@ -6076,6 +6300,12 @@ _End of file version history_
 ## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 25th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-25th)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
+
+- - [Link to remodel section version 1 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md)
+- - [Link to remodel section version 2 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md)
+- - [Link to remodel section version 3 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md)
+- - [Link to remodel section version 4 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md)
+- - [Link to remodel section version 5 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md)
 
 </details>
 
