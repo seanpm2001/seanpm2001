@@ -1,4 +1,8 @@
 
+***
+
+<details open><summary><p><b>Collapse this entire page</b></p></summary>
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -143,7 +147,6 @@ To add your statistics to your GitHub Profile README, copy and paste the followi
 ```
 
 </details>
-
 
 ***
 
@@ -525,10 +528,10 @@ _This section was added on 2024, Saturday, March 23rd._
 <img src="/Graphics/Under-construction/Under_construction_icon-green.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 | **4 year anniversary update** |
-|---------------------------|
-| Beta 5 - 2024, March 26th |
-| Final release day: 2024, May 25th |
-| Please report formatting bugs [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/) |
+|-------------------------------|
+| `Beta 6 - 2024, Wednesday, March 27th` |
+| **Final release day:** `2024, May 25th` |
+| **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
 <img src="/Graphics/Under-construction/Under_construction_icon-orange.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="right" style="margin-right: 30px">
 
@@ -537,7 +540,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. Here are my current goals
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 4 days down, as of 2024, Tuesday, March 256h)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 5 days down, as of 2024, Wednesday, March 27th)_
 
 ***
 
@@ -552,7 +555,6 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 ```
 todo with seanpm2001/seanpm2001
 Résumé at top
-Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
 Improvements to guestbook display
 - Dropdown of people who have signed
 - More links
@@ -561,7 +563,6 @@ Notes about municipalities, etc
 CCM (Commit Count Milestones) listing
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
-Mention of RepoData
 Update to file tree (more entries, and condense new+existing ones)
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
@@ -570,7 +571,6 @@ Section about upcoming projects
 Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
 Information on project difficulties
 Information on complexity
-License information and CLA
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
 George Floyd memorial and information on join dates for my online accounts
@@ -582,9 +582,7 @@ Information on GitHub profile achievements
 Region related software
 Dream projects (Meadows, Bliss Browser)
 Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
-A section about notable remodels, and links to affected versions (version ranges included)
 My setup
-More pictures (year 23 monument)
 Raspberry Pi information
 Sponsor information
 SeansOSData information
@@ -601,10 +599,8 @@ Information on forks, how to find source, and the problem with forks on GitHub
 Discussions for /seanpm2001/seanpm2001/
 Getting started
 Favorite works
-Style guides
 History research + my areas of research
 Public domain gallery of myself
-Timeline (2015-2024)
 Forks and browsing forks
 Tabs and tab video (plus a sample, speed it up if needed)
 My server and server plans + request for help
@@ -723,6 +719,13 @@ Alt account info
 Mastodon information
 Recent social media usage (Twitter deletion plans, Instagram account deleted)
 Labels
+A section about notable remodels, and links to affected versions (version ranges included)
+Timeline (2015-2024)
+Mention of RepoData
+Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
+License information and CLA
+More pictures (year 23 monument)
+Style guides
 ```
 
 </details>
@@ -744,6 +747,15 @@ _End of remodel section._
 _End of remodel information_
 
 </details>
+
+***
+
+<!-- TODO: Add a title to this section, a dropdown, and center the graphics better (perhaps a table or two) !-->
+
+<div align="center">
+    <img src="/Graphics/Icons/Star/Star_Emoji1.png" alt="Placeholder" title="Stars" width="128" height="128"> <img src="/Graphics/Icons/Fork/Forking-Git.gif" alt="Placeholder" title="Forks" width="128" height="128"> <img src="/Graphics/Icons/Follow/Followers-Icon.png" alt="Placeholder" title="Follows" width="128" height="128"> <img src="/Graphics/Icons/Watch/WatchEye.png" alt="Placeholder" title="Watch" width="128" height="128">
+    <p><a href="https://github.com/seanpm2001/GitHub_Starlist/">Stars on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Forklist/">Forks on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Followlist/">Follows on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Watchlist/">Watching on GitHub</a> </p>
+</div>
 
 ***
 
@@ -793,7 +805,7 @@ _End of remodel information_
     
    <img src="/Graphics/Profile-Avatar/65933340.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="460" height="460">
    
-   | @Seanpm2001 / @seanwallawalla |
+   | ( `@Seanpm2001` / `@seanwallawalla` ) |
    |---------------------|
    | Sean Patrick Myrick |
 </div>
@@ -808,7 +820,7 @@ _End of remodel information_
 
 ## [🧠️ What I'm currently learning](#-What-I-m-currently-learning)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 It isn't exact, I have many interests. What I am always learning include:
 
@@ -828,7 +840,7 @@ It isn't exact, I have many interests. What I am always learning include:
 
 ### [🚀️ What I'm looking to collaborate on](#-What-I-m-looking-to-collaborate-on)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I currently need a technical job. I am willing to work on any ethical computer project, as long as it is written in a language I know well (Python, HTML, Java, JavaScript, CSS, Lisp, Markdown, XML, Shell, or any/all of the ones listed)
 
@@ -874,7 +886,7 @@ Companies I am currently considering include:
 
 #### [🗼️ What I have collaborated on](#-What-I-have-collaborated-on)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I have collaborated on a few projects on GitHub, including
 
@@ -900,7 +912,7 @@ I have collaborated on a few projects on GitHub, including
 
 ### [👀️ What I'm looking to help with](#-What-I-m-looking-to-help-with)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I will do free technical support for you, or programming related work in my scope of knowledge. I do this on my own time, so I can only help a certain amount of people a day. Before trying to ask for my technical support, try the following to troubleshoot:
 
@@ -930,7 +942,149 @@ No other limitations listed at the moment.
 
 [:octocat: `My labels can be found here`](https://github.com/seanpm2001/Labels/)
 
-</details>
+</details> <!-- End of labels section !-->
+
+***
+
+## [↔️ My timeline](#-My-timeline)
+
+Timeline of my career.
+
+---
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| `Preceeded by` | `Preceeded by` | `Preceeded by` | `Preceeded by` | **Current** | `Succeeded by` |
+|--------------|--------------|--------------|---------|--------------|--------------|
+| ***Position established*** | **@Seanspokane2015** | **@SeanTRM** | [:octocat: `@seanwallawalla`](https://github.com/seanwallawalla/) | **@seanpm2001** | ***Incumbent*** |
+
+---
+
+### [🔵️ Timeline 2015](#-Timeline-2015)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanspokane2015` `@seantrm` `@seanwallawalla`
+
+- 2015 February - Created Scratch account, start of online presence
+- 2015 May 15th - Created first public YouTube channel (@seanwallawalla)
+
+</details> <!-- End of timeline 2015 section !-->
+
+---
+
+### [🔵️ Timeline 2016](#-Timeline-2016)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seantrm` `@seanwallawalla`
+
+- Coming soon
+
+</details> <!-- End of timeline 2016 section !-->
+
+---
+
+### [🔵️ Timeline 2017](#-Timeline-2017)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanwallawalla`
+
+- Coming soon
+
+</details> <!-- End of timeline 2017 section !-->
+
+---
+
+### [🔵️ Timeline 2018](#-Timeline-2018)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanwallawalla`
+
+- 2018 August - YouTube channel abandoned
+
+</details> <!-- End of timeline 2018 section !-->
+
+---
+
+### [🔵️ Timeline 2019](#-Timeline-2019)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanwallawalla`
+
+- Very limited online presence
+
+</details> <!-- End of timeline 2019 section !-->
+
+---
+
+### [🔵️ Timeline 2020](#-Timeline-2020)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanpm2001`
+
+- 2020, May 25th - GitHub account created
+
+</details> <!-- End of timeline 2020 section !-->
+
+---
+
+### [🔵️ Timeline 2021](#-Timeline-2021)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanpm2001`
+
+- Coming soon
+
+</details> <!-- End of timeline 2021 section !-->
+
+---
+
+### [🔵️ Timeline 2022](#-Timeline-2022)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanpm2001`
+
+- 2022, July 19th - Main GitHub account suspended
+- 2022, August 26th - GitHub account restored
+
+</details> <!-- End of timeline 2022 section !-->
+
+---
+
+### [🔵️ Timeline 2023](#-Timeline-2023)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanpm2001`
+
+- Coming soon
+
+</details> <!-- End of timeline 2023 section !-->
+
+---
+
+### [🔵️ Timeline 2024](#-Timeline-2024)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Eras:** `@seanpm2001`
+
+- Coming soon
+
+</details> <!-- End of timeline 2024 section !-->
+
+---
+
+_End of my career timeline_
+
+</details> <!-- End of my timeline section !-->
 
 ***
 
@@ -940,31 +1094,59 @@ This is a list of my other hobbies
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+---
+
 ### [📷️ Photography](#-Photography)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original photography profile picture failed to load. Click/tap here to attempt to view it" src="/Media/CameraIcon2.png" width="100"/> 
 
 I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
 
+</details> <!-- End of photography section !-->
+
+---
+
 ### [🏊️ Swimming](#-Swimming)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original swimming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/WaterDropletCool.png" width="100"/> 
 
 I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
 
+</details> <!-- End of swimming section !-->
+
+---
+
 ### [🎮️ Gaming](#-Gaming)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original gaming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/VideoGameController_Icon1.png" width="100"/> 
 
 I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
 
+</details> <!-- End of gaming section !-->
+
+---
+
 ### [🎨️ Graphic design](#-Graphic-design)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original graphic design profile picture failed to load. Click/tap here to attempt to view it" src="/Media/GraphicDesignICON.png" width="100"/> 
 
 I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
 
+</details> <!-- End of graphic design section !-->
+
+---
+
 ### [🈯️ Linguistics](#-Linguistics)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Linguistics1.jpeg" width="100"/>  <img alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" width="100"/> 
 
@@ -972,7 +1154,13 @@ I have been a linguist since my early childhood. I jokingly changed my middle na
 
 I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't write completely in a language other than English, Python, HTML, or markdown.
 
+</details> <!-- End of linguistics section !-->
+
+---
+
 ### [⌛️ History buff](#-History-buff)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original history buff profile picture failed to load. Click/tap here to attempt to view it" src="/Media/FortressBase.png" width="100"/> 
 
@@ -980,7 +1168,13 @@ I am a history buff, with knowledge of history spanning back over 13.8 billion y
 
 I owe my interest in history to my first High School history teacher, who was really enthusiastic about what he was teaching, and was just a general awesome and nice history teacher. I would no doubt make him teacher of the year for that year of High School. Past history classes never got me too into the subject of history, but this one really opened my mind to history.
 
+</details> <!-- End of history buff section !-->
+
+---
+
 ### [🐠️ Marine biology](#-Marine-biology)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original marine biology profile picture failed to load. Click/tap here to attempt to view it" src="/Media/BlackMooreGoldfish.jpeg" width="100"/> 
 
@@ -988,7 +1182,13 @@ I recently got back into Marine Biology on March 23rd 2021, and have been learni
 
 [Learn more about it here](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/tree/main/Marine%20Biology)
 
+</details> <!-- End of marine biology section !-->
+
+---
+
 ### [✍️ Journaling](#Journaling)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original journaling profile picture failed to load. Click/tap here to attempt to view it" src="/Media/JournalIcon1.png" width="100"/> 
 
@@ -1000,7 +1200,13 @@ As of August 7th 2021, the main journal has over 7 million words. I average betw
 
 I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain related media, and certain templates are public, but several terabytes of data is private (the full journal takes up over 8 gigabytes of space, just for the journal, due to usage of images over a ~5 year period)
 
+</details> <!-- End of journaling section !-->
+
+---
+
 ### [🇸🇲️ Vexillology](#-Vexillology)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Original fotw profile picture failed to load. Click/tap here to attempt to view it" src="/Media/fotw-pgr.gif" width="100"/> 
 
@@ -1023,6 +1229,26 @@ Some other cool sites:
 [Flagwaver (krikinoid.github.io)](https://krikienoid.github.io/flagwaver/) - Turn any image into a waving flag
 
 > [View the source code on GitHub](https://github.com/krikienoid/flagwaver/)
+
+</details> <!-- End of vexillology section !-->
+
+***
+
+_End of other hobbies section_
+
+</details>
+
+***
+
+## [🏡️ Residence](#-Residence)
+
+<details><summary>[Click/tap here to expand/collapse this section]</summary>
+
+Entrance to core headquarters
+
+<img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181839.jpg" alt="Year 23 monument" title="Room sign 2001 (aka: Year 23 monument)" width="403" height="302"> <img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181839.jpg" alt="Year 23 monument" title="Room sign 2001 (aka: Year 23 monument)" width="403" height="302">
+
+<img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181728.jpg" alt="Year 23 monument sign (front)" title="Room sign 2001 (front)" width="403" height="302"> <img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181738.jpg" alt="Year 23 monument sign (reverse)" title="Room sign 2001 (reverse)" width="403" height="302">
 
 </details>
 
@@ -1827,6 +2053,14 @@ _End of Technology section._
 
 ---
 
+#### [🅰️ GitHub Stats A](#-GitHubp-Stats-A)
+
+Stats generated from [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+---
+
 #### [📉️ Overview statistics](#-Overview-statistics)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -1867,7 +2101,27 @@ _Still the best run, as of 2024, Sunday, March 24th._
 
 Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/)
 
+---
+
 </details>
+
+</details> <!-- End of GitHub Stats A !-->
+
+---
+
+#### [🅱️ GitHub Stats B](#-GitHub-Stats-B)
+
+Stats generated from [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_A/)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+These stats are largely experimental. As of 2024, Wednesday, March 27th, I have not gotten any of them to successfully generate yet.
+
+---
+
+Full statistics are available at [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_B/)
+
+</details> <!-- End of GitHub Stats B !-->
 
 ---
 
@@ -3358,6 +3612,52 @@ This is one of my most important repositories. It is a portal to all of my docum
 
 ***
 
+## [💳️ License](#-License)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+The majority of my repositories use the GNU General Public License version 3. I very rarely use other licenses. The second most common is the Unlicense, the third most common is the Vim license.
+
+I renounce all Copyright to my projects, regardless of their license, and replaced that Copyright with Copyleft.
+
+- [:octocat: `Contributor License Agreement (CLA)`](https://github.com/seanpm2001/CLA/)
+
+</details> <!-- End of license section !-->
+
+***
+
+## [🖌️ Style guides](#-Style-guides)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+My repositories follow various style guides, which can be found [:octocaT: `here`](https://github.com/seanpm2001/Seanpm2001-StyleGuides/)
+
+</details> <!-- End of Style guides section !-->
+
+***
+
+## [🌱️ RepoData](#-Repodata)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+RepoData for this repository is located [`here`](/RepoData/)
+
+RepoData is hard copy information of a repositories attributes, such as its description, tags, URL, and name. It is located on almost all of my repositories, although the majority currently only show the descriptiom.
+
+### [📓️ RepoData notes](#-RepoData-notes)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Repository data notes are located in this repository [`at this location`](/RepoData_Notes/)
+
+This is a series of notes regarding the title and description of repositories. I have been using it to set up new repositories.
+
+</details> <!-- End of RepoData Notes section !-->
+
+</details> <!-- ENd of RepoData section !-->
+
+***
+
 ## [📄️ README usage](#-README-usage)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -3531,11 +3831,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `79 (2024, Tuesday, March 26th at 04:54 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,482`
-- **Word count:** `040,091`
-- **Character count (with spaces):** `0,279,270 characters (283.861 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,244,484 characters (283.861 kilobytes, due to special character usage)`
+- **File version:** `80 (2024, Wednesday, March 27th at 04:30 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,789`
+- **Word count:** `041,663`
+- **Character count (with spaces):** `0,290,565 characters (295.245 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,254,271 characters (295.245 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5368,13 +5668,44 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 80 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 80 (2024, Wednesday, March 27th at 04:30 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the sixth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while more than 6 changes were made. This project has been quite addicting lately, and I have really enjoyed working on it._
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 80
+- [x] Added an option to collapse the entire page
+- [x] Updated information on the remodel of this project
+- [x] Added an untitled section for GitHub stars, forks, follows, and watching
+- [x] Updated the profile gigasection dropdown section
+- - [x] Updated the centered profile picture table
+- [x] Updated the hobbies section
+- - [x] Made all sections collapse-able
+- [x] Added the `Timeline` section
+- [x] Added the `RepoData` section
+- - [x] Added the `RepoData Notes` sub-section
+- [x] Added the `Residence` section
+- [x] Added the `License information and CLA` section
+- [x] Added the `GitHub Stats B` section
+- [x] Updated the `Remodel history` section
+- [x] Added the `GitHub Stats A` section
+- [x] Added the `GitHub Stats B` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 80
+- - [x] Added blank entries for versions 159 and 160
+- - [x] Corrected formatting in entries for versions 81 to 129
+- [x] Collapsed the developer limits section
+- [x] Collapsed the optimizing this page section
+- [x] Collapsed the contributors section
+- [ ] No other changes in version 80
 
 </details>
 
@@ -5384,9 +5715,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 81
+- [ ] Coming soon
+- [ ] No other changes in version 81
 
 </details>
 
@@ -5396,9 +5726,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 82
+- [ ] Coming soon
+- [ ] No other changes in version 82
 
 </details>
 
@@ -5408,9 +5737,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 83
+- [ ] Coming soon
+- [ ] No other changes in version 83
 
 </details>
 
@@ -5420,9 +5748,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 84
+- [ ] Coming soon
+- [ ] No other changes in version 84
 
 </details>
 
@@ -5432,9 +5759,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 85
+- [ ] Coming soon
+- [ ] No other changes in version 85
 
 </details>
 
@@ -5444,9 +5770,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 86
+- [ ] Coming soon
+- [ ] No other changes in version 86
 
 </details>
 
@@ -5456,9 +5781,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 87
+- [ ] Coming soon
+- [ ] No other changes in version 87
 
 </details>
 
@@ -5468,9 +5792,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 88
+- [ ] Coming soon
+- [ ] No other changes in version 88
 
 </details>
 
@@ -5480,9 +5803,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 89
+- [ ] Coming soon
+- [ ] No other changes in version 89
 
 </details>
 
@@ -5492,9 +5814,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 90
+- [ ] Coming soon
+- [ ] No other changes in version 90
 
 </details>
 
@@ -5504,9 +5825,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 91
+- [ ] Coming soon
+- [ ] No other changes in version 91
 
 </details>
 
@@ -5516,9 +5836,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 92
+- [ ] Coming soon
+- [ ] No other changes in version 92
 
 </details>
 
@@ -5528,9 +5847,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 93
+- [ ] Coming soon
+- [ ] No other changes in version 93
 
 </details>
 
@@ -5540,9 +5858,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 94
+- [ ] Coming soon
+- [ ] No other changes in version 94
 
 </details>
 
@@ -5552,9 +5869,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 95
+- [ ] Coming soon
+- [ ] No other changes in version 95
 
 </details>
 
@@ -5564,9 +5880,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 96
+- [ ] Coming soon
+- [ ] No other changes in version 96
 
 </details>
 
@@ -5576,9 +5891,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 97
+- [ ] Coming soon
+- [ ] No other changes in version 97
 
 </details>
 
@@ -5588,9 +5902,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 98
+- [ ] Coming soon
+- [ ] No other changes in version 98
 
 </details>
 
@@ -5600,9 +5913,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 99
+- [ ] Coming soon
+- [ ] No other changes in version 99
 
 </details>
 
@@ -5612,9 +5924,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 100
+- [ ] Coming soon
+- [ ] No other changes in version 100
 
 </details>
 
@@ -5624,9 +5935,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 101
+- [ ] Coming soon
+- [ ] No other changes in version 101
 
 </details>
 
@@ -5636,9 +5946,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 102
+- [ ] Coming soon
+- [ ] No other changes in version 102
 
 </details>
 
@@ -5648,9 +5957,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 103
+- [ ] Coming soon
+- [ ] No other changes in version 103
 
 </details>
 
@@ -5660,9 +5968,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 104
+- [ ] Coming soon
+- [ ] No other changes in version 104
 
 </details>
 
@@ -5672,9 +5979,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 105
+- [ ] Coming soon
+- [ ] No other changes in version 105
 
 </details>
 
@@ -5684,9 +5990,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 106
+- [ ] Coming soon
+- [ ] No other changes in version 106
 
 </details>
 
@@ -5696,9 +6001,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 107
+- [ ] Coming soon
+- [ ] No other changes in version 107
 
 </details>
 
@@ -5708,9 +6012,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 108
+- [ ] Coming soon
+- [ ] No other changes in version 108
 
 </details>
 
@@ -5720,9 +6023,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 109
+- [ ] Coming soon
+- [ ] No other changes in version 109
 
 </details>
 
@@ -5732,9 +6034,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 110
+- [ ] Coming soon
+- [ ] No other changes in version 110
 
 </details>
 
@@ -5744,9 +6045,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 111
+- [ ] Coming soon
+- [ ] No other changes in version 111
 
 </details>
 
@@ -5756,9 +6056,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 112
+- [ ] Coming soon
+- [ ] No other changes in version 112
 
 </details>
 
@@ -5768,9 +6067,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 113
+- [ ] Coming soon
+- [ ] No other changes in version 113
 
 </details>
 
@@ -5780,9 +6078,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 114
+- [ ] Coming soon
+- [ ] No other changes in version 114
 
 </details>
 
@@ -5792,9 +6089,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 115
+- [ ] Coming soon
+- [ ] No other changes in version 115
 
 </details>
 
@@ -5804,9 +6100,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 116
+- [ ] Coming soon
+- [ ] No other changes in version 116
 
 </details>
 
@@ -5816,9 +6111,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 117
+- [ ] Coming soon
+- [ ] No other changes in version 117
 
 </details>
 
@@ -5828,9 +6122,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 118
+- [ ] Coming soon
+- [ ] No other changes in version 118
 
 </details>
 
@@ -5840,9 +6133,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 119
+- [ ] Coming soon
+- [ ] No other changes in version 119
 
 </details>
 
@@ -5852,9 +6144,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 120
+- [ ] Coming soon
+- [ ] No other changes in version 120
 
 </details>
 
@@ -5864,9 +6155,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 121
+- [ ] Coming soon
+- [ ] No other changes in version 121
 
 </details>
 
@@ -5876,9 +6166,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 122
+- [ ] Coming soon
+- [ ] No other changes in version 122
 
 </details>
 
@@ -5888,9 +6177,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 123
+- [ ] Coming soon
+- [ ] No other changes in version 123
 
 </details>
 
@@ -5900,9 +6188,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 124
+- [ ] Coming soon
+- [ ] No other changes in version 124
 
 </details>
 
@@ -5912,9 +6199,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 125
+- [ ] Coming soon
+- [ ] No other changes in version 125
 
 </details>
 
@@ -5924,9 +6210,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 126
+- [ ] Coming soon
+- [ ] No other changes in version 126
 
 </details>
 
@@ -5936,9 +6221,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 127
+- [ ] Coming soon
+- [ ] No other changes in version 127
 
 </details>
 
@@ -5948,9 +6232,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 128
+- [ ] Coming soon
+- [ ] No other changes in version 128
 
 </details>
 
@@ -5960,9 +6243,8 @@ Outdated, as of 2023, Friday, May 26th
 
 > Changes:
 
-> * Coming soon
-
-> * No other changes in version 129
+- [ ] Coming soon
+- [ ] No other changes in version 129
 
 </details>
 
@@ -6287,6 +6569,28 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 159 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 159
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 160 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 160
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
@@ -6297,7 +6601,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 25th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-25th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 27th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-27th)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -6306,8 +6610,11 @@ _End of file version history_
 - - [Link to remodel section version 3 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md)
 - - [Link to remodel section version 4 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md)
 - - [Link to remodel section version 5 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md)
+- - [Link to remodel section version 6 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md)
 
 </details>
+
+---
 
 _End of remodel history section._
 
@@ -6343,6 +6650,8 @@ When not me:
 [![People who have interacted with me here](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 
 ## [✨ Contributors](#-Contributors)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the contributors list</b></p></summary>
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -6409,13 +6718,15 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
+</details> <!-- End of contributors section !-->
+
 </details>
 
 ***
 
 # [💨️ Optimizing this page](#-Optimizing-this-page)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals include:
 
@@ -6429,7 +6740,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 
 # [⚠️ Developer limits](#-Developer-limits)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 [`This page`](/README.md) has some limits to speed up performance, especially for users with lower bandwidth.
 
@@ -6450,13 +6761,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Bandwidth goal:** `10 mbps` - 1 second
 - **RAM goal:** `>32MB per tab` (Firefox, SeaMonkey, DuckDuckGo, Konqueror, Pale Moon, IceCat) `>256MB per tab (Brave, Google Chrome, Microsoft Edge, Opera, Vivaldi, Google Chromium) ?b per tab (Other)
 
-</details>
-
-***
-
-| `Preceeded by` | `Preceeded by` | `Preceeded by` | `Preceeded by` | **Current** | `Succeeded by` |
-|--------------|--------------|--------------|---------|--------------|--------------|
-| ***Position established*** | **@Seanspokane2015** | **@SeanTRM** | [:octocat: `@seanwallawalla`](https://github.com/seanwallawalla/) | **@seanpm2001** | ***Incumbent*** |
+</details> <!-- End of developer limits !-->
 
 ***
 
@@ -6470,12 +6775,14 @@ You have reached the end of this page.
 
 ( [Return to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to GistHub (Gist.github.com)](https://gist.github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
 
-</details>
+</details> <!-- End of footer !-->
 
 **🄯 Copyleft [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
 
 ### [🔚️ End of file](#-End-of-file)
 
 ###### [🔚️ EOF](#-EOF)
+
+</details> <!-- End of profile README !-->
 
 ***
