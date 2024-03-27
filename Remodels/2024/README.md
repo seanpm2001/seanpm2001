@@ -5,10 +5,10 @@
 <img src="/Graphics/Under-construction/Under_construction_icon-green.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 | **4 year anniversary update** |
-|---------------------------|
-| Beta 5 - 2024, March 26th |
-| Final release day: 2024, May 25th |
-| Please report formatting bugs [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/) |
+|-------------------------------|
+| `Beta 6 - 2024, Wednesday, March 27th` |
+| **Final release day:** `2024, May 25th` |
+| **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
 <img src="/Graphics/Under-construction/Under_construction_icon-orange.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="right" style="margin-right: 30px">
 
@@ -17,7 +17,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. Here are my current goals
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 4 days down, as of 2024, Tuesday, March 256h)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 5 days down, as of 2024, Wednesday, March 27th)_
 
 ***
 
@@ -32,7 +32,6 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 ```
 todo with seanpm2001/seanpm2001
 Résumé at top
-Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
 Improvements to guestbook display
 - Dropdown of people who have signed
 - More links
@@ -41,7 +40,6 @@ Notes about municipalities, etc
 CCM (Commit Count Milestones) listing
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
-Mention of RepoData
 Update to file tree (more entries, and condense new+existing ones)
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
@@ -50,7 +48,6 @@ Section about upcoming projects
 Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
 Information on project difficulties
 Information on complexity
-License information and CLA
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
 George Floyd memorial and information on join dates for my online accounts
@@ -62,9 +59,7 @@ Information on GitHub profile achievements
 Region related software
 Dream projects (Meadows, Bliss Browser)
 Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
-A section about notable remodels, and links to affected versions (version ranges included)
 My setup
-More pictures (year 23 monument)
 Raspberry Pi information
 Sponsor information
 SeansOSData information
@@ -81,10 +76,8 @@ Information on forks, how to find source, and the problem with forks on GitHub
 Discussions for /seanpm2001/seanpm2001/
 Getting started
 Favorite works
-Style guides
 History research + my areas of research
 Public domain gallery of myself
-Timeline (2015-2024)
 Forks and browsing forks
 Tabs and tab video (plus a sample, speed it up if needed)
 My server and server plans + request for help
@@ -203,6 +196,13 @@ Alt account info
 Mastodon information
 Recent social media usage (Twitter deletion plans, Instagram account deleted)
 Labels
+A section about notable remodels, and links to affected versions (version ranges included)
+Timeline (2015-2024)
+Mention of RepoData
+Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
+License information and CLA
+More pictures (year 23 monument)
+Style guides
 ```
 
 </details>
