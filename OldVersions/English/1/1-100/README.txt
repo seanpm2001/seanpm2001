@@ -529,18 +529,18 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 6 - 2024, Wednesday, March 27th` |
-| **Final release day:** `2024, May 25th` |
+| `Beta 7 - 2024, Thursday, March 28th` |
+| **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
 <img src="/Graphics/Under-construction/Under_construction_icon-orange.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="right" style="margin-right: 30px">
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
 
-I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. Here are my current goals
+I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 5 days down, as of 2024, Wednesday, March 27th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 6 days down, as of 2024, Thursday, March 28th)_
 
 ***
 
@@ -560,7 +560,6 @@ Improvements to guestbook display
 - More links
 Notes about calendar
 Notes about municipalities, etc
-CCM (Commit Count Milestones) listing
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
 Update to file tree (more entries, and condense new+existing ones)
@@ -574,41 +573,23 @@ Information on complexity
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
 George Floyd memorial and information on join dates for my online accounts
-Information on Takeout Tuesdays and the TRDLF
-Information about 2001, and the core region
-Information on Linux user groups (coming soon section)
-Awards (Saltine cracker)
-Information on GitHub profile achievements
-Region related software
-Dream projects (Meadows, Bliss Browser)
 Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
 My setup
-Raspberry Pi information
-Sponsor information
-SeansOSData information
 Self hosting plans for the future
-New style (custom headings, as images)
+New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
-AUTOMATE2001 information
 Centering various tables and text
 Internet status and speedtest link
 anti-Google | to go under: stances
-100 private repositories (as of 2024, Saturday, March 23rd)
-Blockchain, web -3
-Information on forks, how to find source, and the problem with forks on GitHub
 Discussions for /seanpm2001/seanpm2001/
 Getting started
 Favorite works
-History research + my areas of research
 Public domain gallery of myself
 Forks and browsing forks
 Tabs and tab video (plus a sample, speed it up if needed)
 My server and server plans + request for help
 GistHub
 Graphic design info (programs used)
-Virtual machine info
-Artificial Intelligence projects
-Anime section
 vCard and identification section (vCard may not be possible)
 My web stack
 Rework of index
@@ -619,12 +600,15 @@ Government section
 Music section
 | AudioDB, bandcamp
 Certificates
-Learn repository
 UnSaaSS project
 Update the file tree, and link to ROOTFILES.base
 Update information about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
+Public Media Gallery
+Major project section: BlueberryOS
+Major project section: LocksmithOS
+Major project section: MailOS
 ```
 
 </details>
@@ -637,7 +621,7 @@ They are a work in progress.
 
 ***
 
-<img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
+<img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 **Implemented so far:**
 
@@ -726,6 +710,26 @@ Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
 License information and CLA
 More pictures (year 23 monument)
 Style guides
+CCM (Commit Count Milestones) listing
+Information on Takeout Tuesdays and the TRDLF
+Information about 2001, and the core region
+Information on Linux user groups (coming soon section)
+Awards (Saltine cracker)
+Information on GitHub profile achievements
+Region related software
+Raspberry Pi information
+Sponsor information
+SeansOSData information
+100 private repositories (as of 2024, Saturday, March 23rd)
+Blockchain, web -3
+Information on forks, how to find source, and the problem with forks on GitHub
+AUTOMATE2001 information
+Dream projects (Meadows, Bliss Browser)
+Learn repository
+Virtual machine info
+Artificial Intelligence projects
+Anime section
+History research + my areas of research
 ```
 
 </details>
@@ -1168,6 +1172,77 @@ I am a history buff, with knowledge of history spanning back over 13.8 billion y
 
 I owe my interest in history to my first High School history teacher, who was really enthusiastic about what he was teaching, and was just a general awesome and nice history teacher. I would no doubt make him teacher of the year for that year of High School. Past history classes never got me too into the subject of history, but this one really opened my mind to history.
 
+**My areas of research:**
+
+Pretty much anything, but mainly:
+
+- Europe
+- World War I
+- World War II
+- American Revolutionary War
+- American Civil War
+- Napoleonic Wars
+- Ukraine
+- Russia
+- Belarus
+- Poland
+- Korea (both North and South)
+- Japan
+- China
+- Germany
+- Russo-Ukrainian war
+- France
+- Sudan
+- Egypt and Ancient Egypt
+- Syria
+- Palestine
+- Israel
+- Taiwan
+- Cold war one
+- Cold war two
+- Hundred Years War
+- Northern war
+- The Great Northern war
+- Vietnam war
+- Myanmar Civil War
+- Yemeni Civil War
+- Syrian Civil War
+- Central African Republic Civil War
+- Chad Civil War
+- Ethiopian Civil War
+- Tigray conflict
+- Kurdish conflict
+- War of 1812
+- Sudanese civil wars
+- South Sudan
+- Winter War
+- Finland
+- Polish-Ukrainian war
+- Polish-Soviet war
+- Iraq war
+- The Soviet Union
+- The Russian Empire
+- Brazil
+- The Holocaust
+- Slavic studies
+- Mongol conquest of Eurasia
+- Punic Wars
+- Alexander the Great
+- Pre-history
+- Geological time periods of Earth
+- The Cambrian Explosion
+- Roman Empire
+- Byzantine Empire
+- Sparta
+- The Internet
+- Web browsers and the browser wars
+- Logo history
+- Art history
+- Computers
+- Operating System interfaces
+- Programming languages
+- and many more
+
 </details> <!-- End of history buff section !-->
 
 ---
@@ -1231,6 +1306,20 @@ Some other cool sites:
 > [View the source code on GitHub](https://github.com/krikienoid/flagwaver/)
 
 </details> <!-- End of vexillology section !-->
+
+---
+
+### [👁️ Anime](#-Anime)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img src="" alt="" width="100"/>
+
+I rarely watch Anime, but I do like it. There aren't any Anime series I have completed to date. I don't mind if its a sub or a dub.
+
+- [:octocaT: `seanpm2001/Anime`](https://github.com/seanpm2001/Anime/)
+
+</details> <!-- End of Anime section !-->
 
 ***
 
@@ -2122,6 +2211,18 @@ These stats are largely experimental. As of 2024, Wednesday, March 27th, I have 
 Full statistics are available at [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_B/)
 
 </details> <!-- End of GitHub Stats B !-->
+
+---
+
+#### [Ⓜ️ Commit Count Milestones](#-Commit-Count-Milestones)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This repository records my commit count milestones: [:octocat: `seanpm2001/Commit-Count-Milestones`](https://github.com/seanpm2001/Commit-Count-Milestones/)
+
+**This section needs expansion**
+
+</details>
 
 ---
 
@@ -3636,6 +3737,214 @@ My repositories follow various style guides, which can be found [:octocaT: `here
 
 ***
 
+## [📥️ Takeout Tuesdays](#-Takeout-Tuesdays)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Takeout Tuesdays is a personal event of mine, where data takeout is prioritized once a week on Tuesday. This tradition started for me on 2023, Tuesday, June 6th. You can adopt the tradition as well if you want.
+
+I started doing it to do a data takeout of my Twitter accounts, so that I could safely have them deleted. I realized the importance of weekly backups, and turned it into a tradition, as doing a takeout of your website data is just as important as backing up your computers hard drive.
+
+For further information, go to the official [:octocat: `Takeout Tuesdays repository`](https://github.com/seanpm2001/Takeout_Tuesdays/)
+
+There is a related project that gets fed data from Takeout Tuesday, which is known as [:octocat: `The REAL Data Liberation Front (TRDLF)`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front/) which is a continuation of Googles Data Liberation Front, but with a stronger goal, and better commitment. It mostly documents the capability of doing data takeouts on other websites, and promotes a 30-31 day data takeout time, rather than a 4 to 7 day takeout time.
+
+The justification for this is that some accounts for social media can be multiple terabytes in size, and data takeout cannot be done comfortably in 4 to 7 days when you have 8 terabytes of data, especially if you have weak Internet (it is hard even with Gigabit Internet, as you have to swap out hard drives, constantly download, and hope the power/Internet doesn't go out. Plus, even with fiberoptic Internet, the provider is usually slower than the Internet speed. Example: archive.org downloads at average between 400 kilobytes per second and 12 megabytes per second, even on a 900+ megabyte download speed connection)
+
+</details> <!-- End of Takeout Tuesdays section !-->
+
+***
+
+## [🇺🇳️ Region related software](#-Region-related-software)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+A small repository of mine that showcases repositories that are based around a specific region (state, country, city)
+
+For further information, go to the official [:octocat: `Region-related software repository`](https://github.com/seanpm2001/Region-related-software/)
+
+</details> <!-- End of region related software !-->
+
+***
+
+## [🎓️ Learn](#-Learn)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+![/Graphics/Icons/Learn/LetterL_10Colors.gif](/Graphics/Icons/Learn/LetterL_10Colors.gif)
+
+[:octocat: `seanpm2001/Learn`](https://github.com/seanpm2001/Learn/)
+
+Learn is a repository of mine that showcases my knowledge of various programming languages. I am a langage collector, and for the majority of these languages, I only know the very basics.
+
+**This section needs expansion**
+
+</details> <!-- End of Learn !-->
+
+***
+
+## [🔴️ AUTOMATE2001](#-AUTOMATE2001)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+[:octocat: `seanpm2001/AUTOMATE-2001`](https://github.com/Seanpm2001/AUTOMATE-2001/)
+
+AUTOMATE2001 is my personal automation tool. It is a major work in progress.
+
+**This section needs expansion**
+
+</details> <!-- End of AUTOMATE2001 !-->
+
+***
+
+## [🔒️ Private repositories](#-Private-repositories)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Some of my repositories are temporarily private, as they are completely unready to be seen. I have to resolve some issues before I can release them. Information on which projects are private can be found through my [:octocat: `REDACTED`](https://github.com/seanpm2001/REDACTED/) repository.
+
+As of 2024, Saturday, March 23rd, I have 100 private repositories.
+
+**This section needs expansion**
+
+</details> <!-- End of private repositories !-->
+
+***
+
+## [🥧️ Raspberry Pi](#-Raspberry-Pi)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I own a Raspberry Pi 4 (CanaKit) and keep a repository related to documentation and scripts for it. This repository hosts my Raspberry Pi daily blog.
+
+- [:octocat: `Raspberry Pi repository`](https://github.com/seanpm2001/Raspberry-Pi-Network-Setup/)
+
+Every month, the archive repository of the blog is updated with new data:
+
+- [:octocat: `Raspberry Pi blog repository`](https://github.com/seanpm2001/RaspberryPi-Blog/)
+
+**This section needs expansion**
+
+</details> <!-- End of Raspberry Pi section !-->
+
+***
+
+## [🫁️ Artificial Intelligence projects](#-Artificial-Intelligence-projects)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I had previously feared Artificial Intelligence, as I didn't know much about it. In 2020, I began to experiment with Artificial Intelligence, and by 2022, I had created the [:octocat: `AI2001 repository`](https://github.com/seanpm2001/AI2001/) due to the AI boom caused by ChatGPT. I felt that a more customized AI tool didn't exist, but more importantly, there were no ethical AI projects that I could find. Ethical AI has to be completely open source, and ChatGPT wasn't.
+
+**This section needs expansion**
+
+</details> <!-- End of Artificial Intelligence projects section !-->
+
+***
+
+## [💽️ SeansOSData project](#-SeansOSData-project)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I have a project that documents my operating system data and usage (not individual files, but their structure, along with the operating system and its settings) data is kept in a unique way, with each operating system family gaining its own galaxy within a universe.
+
+The project can be found [:octocat: `here`](https://github.com/seanpm2001/SeansOSData/)
+
+**This section needs expansion**
+
+</details> <!-- End of SeansOSData project section !-->
+
+***
+
+## [👾️ Virtual machine information](#-Virtual-machine-information)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I absolutely love virtual machines and emulators. It is one of my favorite things in computing. I have had many virtual machines with VirtualBox, but I have had difficulties in maintaining them. I hope to try out other virtual machines in the future.
+
+**This section needs expansion**
+
+</details> <!-- End of Virtual Machine Information section !-->
+
+***
+
+## [💙️ Dream projects](#-Dream-projects)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+My dream project is a quantum computer operating system known as [:octocat: `Meadows`](https://github.com/seanpm2001/QMeadows/). I have a big vision for it (which I am having difficulty properly displaying) it is one of the projects I want to see functional before I die. A project goes alongside it, which is known as [:octocat: `Bliss Browser`](https://github.com/seanpm2001/bliss_browser/) these projects are part of my big computing dream that I hope to come true.
+
+**This section needs expansion**
+
+</details> <!-- End of dream projects section !-->
+
+***
+
+## [💷️ Thoughts on Blockchain and Web -3](#-Thoughts-on-Blockchain-and-Web-3)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Web -3 began to gain popularity around the time I joined GitHub. I was a little gullible around this time, and tried creating related projects without knowing the full context. The more I researched it, the more I disliked it.
+
+The thing I hate the most about it are NFTs, and the audacity for this movement to call itself the 3rd iteration of the web. I prefer calling it [:octocat: `Web negative three`](https://github.com/seanpm2001/Web-negative-3/)
+
+Blockchain and crypto mining is bad for the environment, and it is actively hurting the name of crypto (which stands for cryptography, **not** cryptocurrency)
+
+Nonetheless, due to my follow for follow promise, I still follow a lot of NFT/cryptocurrency bots that follow me.
+
+</details> <!-- End of thoughts on blockchain and web -3 section !-->
+
+***
+
+## [🌈️ GitHub profile achievements](#-GitHub-profile-achievements)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+GitHub released achievements in 2020, with the arctic code vault achievement, and later the mars rover achievement. More mainstream achievements were added in 2022. I have earned some of them, but don't actively seek them. I have helped with documentation on other peoples repositories regarding achievements.
+
+**This section needs expansion**
+
+</details> <!-- End of GitHUb profile achievements section !-->
+
+***
+
+## [🔘️ 2001 and the core](#-2001-and-the-core)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I refer to my headquarters as the core, and 2001 is its number. 2001 holds a lot of meaning to me. It is the year I was born, and a lot happened on that year. I embrace it as an identity, and have projects named after it (such as seanpm2001, AI2001, the 2001 archive. and more)
+
+**This section needs expansion**
+
+</details> <!-- End of 2001 and the core section !-->
+
+***
+
+## [🍴️ Forks](#-Forks)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I actively fork repositories on GitHub to act as an archive of repositories I have come across, and less often, repositories that I actively use. There is a problem that started with GitHub around 2022 regarding forks that I don't like:
+
+Previously, if the account of a fork got suspended/deleted, you could still see "forked from johndoe/myrepository" at the top of the screen. It would be a dead link, but it would at least attribute the user. Nowadays, when this happens, the forked repository is instead turned into a source repository, which makes the suggestion that I created this repository, and it really messes with my timeline.
+
+**This section needs expansion**
+
+</details> <!-- End of forks section !-->
+
+***
+
+## [🐧️ Linux User Groups](#-Linux-User-Groups)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I am working on starting my own GNU/Linux User Group. It is a work in progress.
+
+**This section needs expansion**
+
+</details> <!-- End of Linux user groups section !-->
+
+***
+
 ## [🌱️ RepoData](#-Repodata)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
@@ -3655,6 +3964,30 @@ This is a series of notes regarding the title and description of repositories. I
 </details> <!-- End of RepoData Notes section !-->
 
 </details> <!-- ENd of RepoData section !-->
+
+***
+
+## [🎖️ Awards](#-Awards)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Awards I have earned/awards that I give out include:
+
+---
+
+### [🍘️ Saltine Cracker Award](#-Saltine-Cracker-Award)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I give out Saltine Cracker Awards. See the criteria and information about them [:octocat: `here`](https://github.com/seanpm2001/Saltine-Cracker-Award/)
+
+</details>
+
+---
+
+_End of awards section_
+
+</details>
 
 ***
 
@@ -3831,11 +4164,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `80 (2024, Wednesday, March 27th at 04:30 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,789`
-- **Word count:** `041,663`
-- **Character count (with spaces):** `0,290,565 characters (295.245 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,254,271 characters (295.245 kilobytes, due to special character usage)`
+- **File version:** `81 (2024, Thursday, March 28th at 04:22 pm PST)`
+- **Line count (including blank lines and compiler line):** `07,179`
+- **Word count:** `043,967`
+- **Character count (with spaces):** `0,305,925 characters (310.702 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,267,335 characters (310.702 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5711,11 +6044,45 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 81 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 81 (2024, Thursday, March 28th at 04:22 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the seventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while more than 19 changes were made. This project has been quite addicting lately, and I have really enjoyed working on it. I fear I may run out of material faster now._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Documentation` section
+- - [x] Added the `Takeout Tuesdays` subsection
+- - [x] Added the `Region-related software` subsection
+- - [x] Added the `Learn` subsection
+- - [x] Added the `AUTOMATE2001` subsection
+- - [x] Added the `Private repositories` subsection
+- - [x] Added the `Raspberry Pi` subsection
+- - [x] Added the `Artificial Intelligence` subsection
+- - [x] Added the `SeansOSData` subsection
+- - [x] Added the `Virtual machine information` subsection
+- - [x] Added the `Dream projects` subsection
+- - [x] Added the `Thoughts on Blockchain and web -3` subsection
+- - [x] Added the `GitHub achievements` subsection
+- - [x] Added the `2001 and core region` subsection
+- - [x] Added the `Linux user groups` subsection
+- - [x] Added the `Forks` subsection
+- [x] Updated the `Statistics` section
+- - [x] Added the `Commit Count Milestones` section
+- [x] Updated the `Hobbies` section
+- - [x] Updated the `History` section
+- - [x] Added the `Anime` subsection
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 81
+- - [x] Added blank entries for versions 161 and 162
 - [ ] No other changes in version 81
 
 </details>
@@ -6591,6 +6958,28 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 161 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 161
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 162 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 162
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
@@ -6601,7 +6990,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 27th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-27th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 28th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-28th)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -6611,6 +7000,7 @@ _End of file version history_
 - - [Link to remodel section version 4 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md)
 - - [Link to remodel section version 5 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md)
 - - [Link to remodel section version 6 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md)
+- - [Link to remodel section version 7 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md)
 
 </details>
 
