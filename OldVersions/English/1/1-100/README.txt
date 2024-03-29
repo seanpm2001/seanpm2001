@@ -529,7 +529,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 7 - 2024, Thursday, March 28th` |
+| `Beta 8 - 2024, Friday, March 29th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -540,7 +540,29 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 6 days down, as of 2024, Thursday, March 28th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 7 days down, as of 2024, Friday, March 29th)_
+
+<details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
+
+<div align="center">
+
+| Timeline |
+|----------|
+
+| Version | Date | Day # |
+|---------|------|-------|
+| Beta 1 | 2024, Saturday, March 23rd | 01 |
+| Beta 2 | 2024, Saturday, March 23rd | 01 |
+| Beta 3 | 2024, Sunday, March 24th | 02 |
+| Beta 4 | 2024, Monday, March 25th | 03 |
+| Beta 5 | 2024, Tuesday, March 26th | 04 |
+| Beta 6 | 2024, Wednesday, March 27th | 05 |
+| Beta 7 | 2024, Thursday, March 28th | 06 |
+| Beta 8 | 2024, Friday, March 29th | 07 |
+
+</div>
+
+</detailS>
 
 ***
 
@@ -606,9 +628,37 @@ Update information about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 Public Media Gallery
-Major project section: BlueberryOS
-Major project section: LocksmithOS
-Major project section: MailOS
+Model project information
+Updates to Legend
+Collectives listing
+Operating Systems collective
+Video games collective
+Software LIBraries collective
+Communications collective
+Major project: EMAIL 2.0
+Major project: EMAIL -3.0
+Major project: DMail
+Full repository listing WIP
+Nicknames (SEAN9000)
+File history removal notice at V101
+Reference fork style guide in #forks
+Model projects and model project status repository link
+Major project: CranberryOS
+Major project: NUNIX
+Major project: BootDown
+Major project: MetroTechno
+Major project: AquariOS
+Major project: BathhouseOS
+Major project: MCPYE
+Major project: Tetris128
+Major project: LibreFlock
+Major project: Miscellaneous
+Major project: DMAIL
+Major project: uOffice
+Major project: Hospital defender
+Major project: PNC English
+Fix existing mega project section: MEDOS
+Fix existing mega project section: Other projects
 ```
 
 </details>
@@ -730,6 +780,9 @@ Virtual machine info
 Artificial Intelligence projects
 Anime section
 History research + my areas of research
+Major project section: BlueberryOS
+Major project section: LocksmithOS
+Major project section: MailOS
 ```
 
 </details>
@@ -2733,6 +2786,46 @@ This is a list of the platforms I develop for:
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [x] Ubuntu (12.04 and up)
+- - [x] Ubuntu 4.10 (supported due to a special case)
+- - [ ] Ubuntu 5.04 (not supported)
+- - [ ] Ubuntu 5.10 (not supported)
+- - [ ] Ubuntu 6.06 (not supported)
+- - [ ] Ubuntu 6.10 (not supported)
+- - [ ] Ubuntu 7.04 (not supported)
+- - [ ] Ubuntu 7.10 (not supported)
+- - [ ] Ubuntu 8.04 (not supported)
+- - [ ] Ubuntu 8.10 (not supported)
+- - [ ] Ubuntu 9.04 (not supported)
+- - [ ] Ubuntu 9.10 (not supported)
+- - [ ] Ubuntu 10.04 (not supported)
+- - [x] Ubuntu 10.10 (supported due to a special case)
+- - [ ] Ubuntu 11.04 (not supported)
+- - [ ] Ubuntu 11.10 (not supported)
+- - [x] Ubuntu 12.04
+- - [x] Ubuntu 12.10
+- - [x] Ubuntu 13.04
+- - [x] Ubuntu 13.10
+- - [x] Ubuntu 14.04
+- - [x] Ubuntu 14.10
+- - [x] Ubuntu 15.04
+- - [x] Ubuntu 15.10
+- - [x] Ubuntu 16.04
+- - [x] Ubuntu 16.10
+- - [x] Ubuntu 17.04
+- - [x] Ubuntu 17.10
+- - [x] Ubuntu 18.04
+- - [x] Ubuntu 18.10
+- - [x] Ubuntu 19.04
+- - [x] Ubuntu 19.10
+- - [x] Ubuntu 20.04 (main support)
+- - [x] Ubuntu 20.10 (major support)
+- - [x] Ubuntu 21.04 (major support)
+- - [x] Ubuntu 21.10 (major support)
+- - [x] Ubuntu 22.04 (main support)
+- - [x] Ubuntu 22.10 (major support)
+- - [x] Ubuntu 23.04 (major support)
+- - [x] Ubuntu 23.10 (major support)
+- - [ ] Ubuntu 24.04 (not yet supported)
 - [x] RaspbianOS (Python and Mathematica only at the moment)
 - [ ] Fedora Linux (coming soon)
 - [ ] Gentoo Linux (coming soon)
@@ -2767,11 +2860,17 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 - [x] Windows 9x (Windows 95, Windows 98, Windows ME)
 - [x] Windows 2000
 - [x] Windows XP
+- [ ] Windows Server 2003 (not yet supported, virtual machine setup issues)
 - [x] Windows Vista
+- [ ] Windows Server 2008 (not yet supported, virtual machine setup issues)
 - [x] Windows 7
+- [ ] Windows Server 2012 (not yet supported, virtual machine setup issues)
 - [x] Windows 8/8.1
+- [ ] Windows Server 2016 (not yet supported, virtual machine setup issues)
 - [x] Windows 10
-- [ ] Windows 11 (not yet supported)
+- [ ] Windows Server 2019 (not yet supported, virtual machine setup issues)
+- [x] Windows 11
+- [ ] Windows Server 2022 (not yet supported, virtual machine setup issues)
 
 </details>
 
@@ -2796,7 +2895,39 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 
 I have many repositories. The majority of them are sub-projects to a main project (SNU)
 
+My major projects are sorted into collectives. As of 2024, Friday, March 29th (the day collectives were established) there were 13 collectives, which include:
+
+- [ ] Framework collective
+- [ ] Core collective
+- [ ] Security
+- [ ] Productive
+- [ ] Video game
+- [ ] Desktop Environment
+- [ ] Documentation
+- [ ] Operating Systems
+- [ ] Web Browser
+- [ ] LIBrary
+- [ ] Linguistics
+- [ ] Comedy
+- [ ] Miscellaneous
+
+Collectives are divided down by major projects, which are then divided down by project groups, then by repositories.
+
 My major projects include:
+
+---
+
+#### [📑️ Framework Collective](#-Framework-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my framework projects.
+
+- **🏠️ Home repository:** [:octocat: `Framework Collective`](https://github.com/seanpm2001/Framework-Collective/)
+- **🔵️ Project categories:** `Frameworks` `Web development` `Google alternative` `Android alternative`
+- **🪢️ Major projects:** `SNU` `Candroid framework` `AI2001`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
 
 ---
 
@@ -2834,6 +2965,712 @@ My major projects include:
 | [SNU Mascot Center](https://github.com/seanpm2001/SNU_MascotCenter/) | [SNU Modes](https://github.com/seanpm2001/SNU_Modes/) | [SNU OSKillers](https://github.com/seanpm2001/SNU_OSKillers/) | [SNU Peer to Peer section](https://github.com/seanpm2001/SNU_P2PSection/) | [SNU Playback Settings](https://github.com/seanpm2001/SNU_PlaybackSettings/) | [SNU Privacy Initiative](https://github.com/seanpm2001/SNU_PrivacyInitiative/) | [SNU Project Timeline](https://github.com/seanpm2001/SNU_ProjectTimeline/) | [SNU Protest ToolKit](https://github.com/seanpm2001/SNU_ProtestToolkit/) |
 | [SNU RSS Reader](https://github.com/seanpm2001/SNU_RSS/) | [SNU Internet Front](https://github.com/seanpm2001/SNU_InternetFront/) | [SNU Sound Settings](https://github.com/seanpm2001/SNU_SoundSettings/) | [SNU StartAScript](https://github.com/seanpm2001/SNU_StartAScript/) | [SNU Ancestry](https://github.com/seanpm2001/SNU_Ancestry/) | [SNU Family Tree](https://github.com/seanpm2001/SNU_FamilyTree/) | [SNU Porn](https://github.com7/seanpm2001/SNU_2D_Porn/) | [SNU Erotica](https://github.com/seanpm2001/SNU_2D_Erotica/) |
 | [SNU CloudDrive](https://github.com/seanpm2001/SNU_2D_CloudDrive/) | [SNU Keyboard](https://github.com/seanpm2001/SNU_Keyboard/) | [SNU Sports](https://github.com/seanpm2001/SNU_2D_Sports/) | [SNU eSports](https://github.com/seanpm2001/SNU_2D_eSports/) | [SNU DeepSwap](https://github.com/seanpm2001/SNU_DeepSwap/) | [SNU Urban Dictionary mode](https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode/) | [SNU TextEngine](https://github.com/seanpm2001/SNU_TextEngine/) | 99+ projects not listed |
+
+</details>
+
+---
+
+#### [💿️ Major project: Candroid Framework](#-Major-project--Candroid-Framework)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="150" height="150" align="left" style="margin-right: 30px"> **Candroid:** _A framework for DeGoogling and alternating from the Android operating system._
+
+<!--
+<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="256" height="256"/> [:octocat: `Candroid project`](https://github.com/seanpm2001/Candroid/) - A framework for DeGoogling and alternating from the Android operating system.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)
+- **🔵️ Project categories:** `Android (Operating System)` `Android (OS) Alternative` `DeGoogle` `Framework` `Application set` `Mobile computing`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Google Go (no longer used)` |
+| 02 | `HTML5` |
+| 03 | `Java` |
+| 04 | `Python` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/) | [:octocat: `Candroid Docs`](https://github.com/seanpm2001/Candroid-Docs/) | [:octocat: `Candroid Catalogue`](https://github.com/seanpm2001/Candroid-Catalogue/) | [:octocat: `Candroid App Store`](https://github.com/seanpm2001/Candroid-App-Store/) | [:octocat: `Candroid Assistant`](https://github.com/seanpm2001/Candroid-Assistant/) | [:octocat: `Candroid Battery Monitor`](https://github.com/seanpm2001/Candroid-Battery-Monitor/) |
+| [:octocat: `Candroid Browser`](https://github.com/seanpm2001/Candroid-Browser/) | [:octocat: `Candroid Calculator`](https://github.com/seanpm2001/Candroid-Calculator/) | [:octocat: `Candroid Calendar`](https://github.com/seanpm2001/Candroi-Calendar/) | [:octocat: `Candroid Camera`](https://github.com/seanpm2001/Candroid-Calendar/) | [:octocat: `Candroid Clock `](https://github.com/seanpm2001/Candroid-Clock/) | [:octocat: `Candroid Contacts`](https://github.com/seanpm2001/Candroid-Contacts/) |
+| [:octocat: `Candroid Debug`](https://github.com/seanpm2001/Candroid-Debug/) | [:octocat: [`Candroid Easter Egg`](https://github.com/seanpm2001/Candroid-Easter-Egg/) | [:octocat: `Candroid File Cabinet`](https://github.com/seanpm2001/Candroid-FileCabinet/) | [:octocat: `Candroid Flashlight`](https://github.com/seanpm2001/Candroid-Flashlight/) | [:octocat: `Candroid Keyboard`](https://github.com/seanpm2001/Candroid-Keyboard/) | [:octocat: `Candroid Market`](https://github.com/seanpm2001/Candroid-Market/) |
+| [:octocat: `Candroid Mail`](https://github.com/seanpm2001/Candroid-Mail/) | [:octocat: `Candroid Notepad`](https://github.com/seanpm2001/Candroid-Notepad/) | [:octocat: `Candroid Phone`](https://github.com/seanpm2001/Candroid-Phone/) | [:octocat: `Candroid Photo Viewer`](https://github.com/seanpm2001/Candroid-Photo-Viewer/)O | [:octocat: `Candroid Rotate`](https://github.com/seanpm2001/Candroid-Rotate/) | [:octocat: `Candroid Settings`](https://github.com/seanpm2001/Candroid-Settings/) |
+| [:octocat: `Candroid Tube`](https://github.com/seanpm2001/Candroid-Tube/) | [:octocat: `Candroid TV`](https://github.com/seanpm2001/Candroid-TV/) | [:octocat: `Candroid Video`](https://github.com/seanpm2001/Candroid-Video/) | [:octocat: `Candroid Voicemail`](https://github.com/seanpm2001/Candroid-Voicemail/) | [:octocat: `Candroid Wallpaper`](https://github.com/seanpm2001/Candroid-Wallpaper/) | `🤖️` |
+
+</details>
+
+---
+
+#### [💿️ Major project: AI2001](#-Major-project--AI2001)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="AI2001 MediaSphere logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AI2001/Logo/PNG/MediaSphere1.png" width="150" height="150" align="left" style="margin-right: 30px"> **AI2001:** _An artificial Intelligence toolchain written in R, RMarkdown, Julia, Cython, Prolog, Python, and C._
+
+- **🏠️ Home repository:** [:oct-ocat: `AI2001`](https://github.com/seanpm2001/AI2001/)
+- **🔵️ Project categories:** `Artificial Intelligence (AI)` `Artificial Neural Networks (ANN)` `Datasets`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+<!--
+<img alt="AI2001 MediaSphere logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AI2001/Logo/PNG/MediaSphere1.png" width="256" height="256"/> [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) - An artificial Intelligence toolchain written in R, RMarkdown, Julia, Cython, Prolog, Python, and C.
+!-->
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `Cython` |
+| 03 | `Julia` |
+| 04 | `Prolog` |
+| 05 | `Python` |
+| 06 | `R` |
+| 07 | `RMarkdown` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `AI2001 Docs`](https://github.com/seanpm2001/AI2001_Docs/) | [:octocat: `AI2001 Category: Documents`](https://github.com/seanpm2001/AI2001_Category-Documents/) | [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/) | [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/) | [:octocat: `AI2001 Category: Videos`](https://github.com/seanpm2001/AI2001_Category-Videos/) |
+| [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/) | [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/) | [:octocat: `AI2001 Category: Meta (Coming soon)`](https://github.com/seanpm2001/AI2001_Category-Meta/) | [:octocat: `AI2001 Category: Documents, Subcategory: Wiki`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis/) | [:octocat: `AI2001 Category: Documents, Subcategory: Books`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Books/) | [:octocat: `AI2001 Category: Documents, Subcategory: Articles`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Articles/)
+
+</details>
+
+---
+
+To add:
+
+- [ ] Other
+
+_End of framework collective._
+
+</details>
+
+---
+
+#### [🔘️ Core Collective](#-Core-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my core-related projects.
+
+- **🏠️ Home repository:** [:octocat: `Core Collective`](https://github.com/seanpm2001/Core-Collective/)
+- **🔵️ Project categories:** `Personal` `Core`
+- **🪢️ Major projects:** `Seanpm2001 Life Archive (SeansLifeArchive)`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~2` **(as of 2024, Friday, March 29th)**
+
+---
+
+#### [💿️ Major project: SeansLifeArchive](#-Major-project--SeansLifeArchive)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="150" height="150" align="left" style="margin-right: 30px"> **SeansLifeArchive:** _A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th_
+
+<!--
+<img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="256" height="256"/> [:octocat: `Journaling/Seanpm2001 Life Archive project`](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th
+!-->
+
+- **🏠️ Home repository:** [:octocat: `seanpm2001`](https://github.com/seanpm2001/seanpm2001/)
+- **🔵️ Project categories:** `Personal` `Documentation` `Graphic Design` `Autobiography` `Blog`
+- **💰️ Current monthly budget:** `$05.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `~2` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Mixed, some projects are complete and don't need help, some projects are incomplete, but don't need help, and some may require help._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Ada` |
+| 02 | `CSS` |
+| 03 | `desktop` |
+| 04 | `HTML` |
+| 05 | `INI` |
+| 06 | `JavaScript` |
+| 07 | `JSON` |
+| 08 | `Less` |
+| 09 | `Markdown` |
+| 10 | `Objective-J` |
+| 11 | `PostScript` |
+| 12 | `Python` |
+| 13 | `reStructuredText` |
+| 14 | `Rich Text Format` |
+| 15 | `SVG` |
+| 16 | `Text (plain)` |
+| 17 | `XML` |
+| 18 | `YAML` |
+
+> **Note** _I am only showing the top 18 languages here, as otherwise, there would be too many to list_
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Daily articles`](https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/) | [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB/) | [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) | [:octocat: `Daily Desktop Screenshots`](https://github.com/seanpm2001/Daily-desktop-screenshots/) | [:octocat: `Video directory`](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/) | [:octocat: `Images:GitHub`](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub/) |
+| [:octocat: `Images:GitHub (2022)`](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2022/) | [:octocat: `Images:Journaling development`](https://github.com/seanpm20017/SeansLifeArchive_Images_Journaling-development/) | [:octocat: `Seanpm2001 GitHub profile repository`](https://github.com/seanpm2001/seanpm2001/) | [:octocat: `Khan Academy data`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/) | Over 300 entries not yet listed | `📖️` |
+
+</details>
+
+---
+
+To add:
+
+- [ ] Merge other projects
+- [ ] Other
+
+_End of core collective._
+
+</details>
+
+---
+
+#### [🛡️ Security Collective](#-Security-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my computer security projects.
+
+- **🏠️ Home repository:** [:octocat: `Security Collective`](https://github.com/seanpm2001/Security-Collective/)
+- **🔵️ Project categories:** `Linux` `Security` `Anti-virus` `Antimalware`
+- **🪢️ Major projects:** `Linux Defender` `Hospital Defender`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
+#### [💿️ Major project: Linux Defender](#-Major-project--Linux-Defender)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="105" height="150" align="left" style="margin-right: 30px"> **Linux Defender:** _An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you._
+
+<!--
+<img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="267" height="380"/> [:octocat: `Linux Defender project`](https://github.com/seanpm2001/Linux_Defender/) - An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Linux Defender`](https://github.com/seanpm2001/Linux_Defender/)
+- **🔵️ Project categories:** `Linux` `Anti-malware` `Anti-virus` `Anti-spyware` `Anti-Ransomware` `Rulesets` `Security`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `CSS` |
+| 03 | `Less` |
+| 04 | `Python` |
+| 05 | `SCSS` |
+| 06 | `Shell` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Linux Defender (home repository)`](https://github.com/seanpm2001/Linux_Defender/) | [:octocat: `Linux Defender for Raspberry Pi`](https://github.com/seanpm2001/
+Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](https://github.com/seanpm2001/Linux_Defender_For_Ubuntu/) | [:octocat: `Linux Defender for Trisquel`](https://github.com/seanpm2001/Linux_Defender_For_Trisquel/) | [Linux Defender for CentOS](https://github.com/seanpm2001/Linux_Defender_For_CentOS/) | [Linux Defender for Arch](https://github.com/seanpm2001/Linux_Defender_For_Arch_Linux/) |
+| [:octocat: `Linux Defender for Debian`](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) | [:octocat: `Linux Defender for ReplicantOS`](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) | [:octocat: `Linux Defender for Fedora Linux`](https://github.com/seanpm2001/Linux_Defender_For_Fedora-Linux/) | [:octocat: `Linux Defender for Android`](https://github.com/seanpm2001/Linux_Defender_For_Android/) | [:octocat: `Linux Defender for RemixOS`](https://github.com/seanpm2001/Linux_Defender_For_RemixOS/) | [:octocat: `Linux Defender for Alpine Linux`](https://github.com/seanpm2001/Linux_Defender_For_Alpine_Linux/) |
+<!-- | `🐧️` | `🐧️` | `🐧️` | `🐧️` | `🐧️` | `🐧️` | !-->
+
+</details>
+
+---
+
+To add:
+
+- [ ] Hospital defender
+- [ ] Other
+
+_End of security collective._
+
+</details>
+
+---
+
+#### [🏢️ Productivity Collective](#-Productive-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my productivity software projects.
+
+- **🏠️ Home repository:** [:octocat: `Productivity Collective`](https://github.com/seanpm2001/Productivity-Collective/)
+- **🔵️ Project categories:** `Production` `Productivity` `Multimedia` `Graphic design` `Anime` `Video` `Image`
+- **🪢️ Major projects:** `Anime Studio` `DMAIL` `uOffice`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
+#### [💿️ Major project: Anime Studio](#-Major-project--Anime-Studio)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Anime Studio logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Anime_Studio/Logo/PNG/RedEyeMin.png" width="150" height="150" align="left" style="margin-right: 30px"> **Anime Studio:** _A software studio optimized for the production and viewing of Anime and Manga._
+
+<!--
+| <img alt="Anime Studio logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Anime_Studio/Logo/PNG/RedEyeMin.png" width="256" height="256"/> [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/) - A software studio optimized for the production and viewing of Anime and Manga.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/)
+- **🔵️ Project categories:** `Anime` `Manga` `Graphic Design` `Video Editing` `Visual Novels` `Artificial Intelligence (AI)` `Subtitles` `Dubbing` `Hentai`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages:** |
+|----|---|
+| 01 | `C` |
+| 02 | `Gosu` |
+| 03 | `Markdown` |
+| 04 | `Prolog` |
+| 05 | `Raku` |
+| 06 | `Red` |
+| 07 | `Ren'Py` |
+| 08 | `Ruby` |
+| 09 | `WebVTT` |
+| 10 | `WikiText` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/) | [:octocat: `Anime Studio Docs`](https://github.com/seanpm2001/Anime_Studio_Docs/) | [:octocat: `OpenAnime`](https://github.com/seanpm2001/Anime_Studio_OpenAnime/) | [:octocat: `AnimAI`](https://github.com/seanpm2001/Anime_Studio_AnimAI/) | [:octocat: `Manga Studio`](https://github.com/seanpm2001/Anime_Studio_Manga-Studio/) | [:octocat: `Subs and Dubs`](https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs/) |
+| [:octocat: `Video Editor`](https://github.com/seanpm2001/Anime_Studio_Video-Editor/) | [:octocat: `Application Core`](https://github.com/seanpm2001/Anime_Studio_ApplicationCore/) | [:octocat: `Hentai`](https://github.com/seanpm2001/Anime_Studio_Hentai/) | [:octocat: `Avatar Studio`](https://github.com/seanpm2001/Anime_Studio_AvatarStudio/) | [:octocat: `Style Manager`](https://github.com/seanpm2001/Anime_Studio_StyleManager/) | [:octocat: `Media Library`](https://github.com/seanpm2001/Anime_Studio_Library/) |
+| [:octocat: `Exporter`](https://github.com/seanpm2001/Anime_Studio_Exporter/) | [:octocat: `Image editor`](https://github.com/seanpm2001/Anime_Studio_Image-Editor/) | [:octocat: `Audio Editor`](https://github.com/seanpm2001/Anime_Studio_Audio-Editor/) | [:octocat: `SocialShare`](https://github.com/seanpm2001/Anime_Studio_SocialShare/) | [:octocat: `Website`](https://github.com/seanpm2001/Anime_Studio_Website/) | [:octocat: `ChatBot`](https://github.com/seanpm2001/Anime_Studio_ChatBot/) |
+| [:octocat: `Subtitle Tool`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/) | [:octocat: `Game Studio`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/) | [:octocat: `*.manga File Format`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/) | [:octocat: `Woodblock printer`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/) | [:octocat: `Dictionary`](https://github.com/seanpm2001/Anime_Studio_Dictionary/) | [:octocat: `Encyclopedia`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/) |
+| [:octocat: `Glossary`](https://github.com/seanpm2001/Anime_Studio_Glossary/) | [:octocat: `Wiki`](https://github.com/seanpm2001/Anime_Studio_Wiki/) | `👁️` | `👁️` | `👁️` | `👁️` |
+
+</details>
+
+---
+
+To add:
+
+- [ ] DMAIL
+- [ ] uOffice
+
+_End of productive collective._
+
+</details>
+
+---
+
+#### [🕹️ Video Game Collective](#-Video-Game-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my video game projects.
+
+- **🏠️ Home repository:** [:octocat: `Video Game Collective`](https://github.com/seanpm2001/Video-Game-Collective/)
+- **🔵️ Project categories:** `Video games` `Free games` `Linux gaming` `Simulator games` `History games` `Video games`
+- **🪢️ Major projects:** `Ukraine History Simulator` `MCPYE` `LibreFlock` `Tetris128`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
+#### [💿️ Major project: Ukraine History Simulator](#-Major-project--Ukraine-History-Simulator)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Ukraine History Simulator logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Ukraine-History-Simulator/Logo/PNG/UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **Ukraine History Simulator** _A history simulator that covers the entire history (pre-history to the modern day) of the European country, Ukraine._
+
+- **🏠️ Home repository:** [:octocat: `Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/)
+- **🔵️ Project categories:** `History` `European History` `Ukraine History` `Ukraine` `Europe` `Video Game` `GoDot` `History Simulator`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Python` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/) | [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/) | [:octocat: `UHS DatasSets: Soundtrack: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/) | [:octocat: `UHS Datasets: Oblasts: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/) | [:octocat: `UHS DataSets: Raions: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/) | [:octocat: UHS Datasets: Hromadas: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/) |
+| [:octocat: `UHS Datasets: Heraldry: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Vexillology: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Leaders: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine/) | [:octocat: `UHS Datasets: Generals: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine/) | `🇺🇦️` | `🇺🇦️` |
+
+</details>
+
+---
+
+To add:
+
+- [ ] MCPYE
+- [ ] Tetris128
+- [ ] LibreFlock
+- [ ] Miscellaneous
+
+_End of video game collective._
+
+</details>
+
+---
+
+#### [💺️ Desktop Environment Collective](#-Desktop-Environment-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my Desktop Environment (DE) projects.
+
+- **🏠️ Home repository:** [:octocat: `Desktop Environment Collective`](https://github.com/seanpm2001/Desktop-Environment-Collective/)
+- **🔵️ Project categories:** `Desktop Environment` `DE` `WM` `Linux` `UI` `GUI` `UX`
+- **🪢️ Major projects:** `Linux Defender`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
+#### [💿️ Major project: SDE](#-Major-project--SDE)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="SDE logo failed to load. Click/tap here to attempt to view it" src="/Graphics/SDE/Logo/PNG/SDE.png" width="150" height="150" align="left" style="margin-right: 30px"> **SDE** _A highly customizable desktop environment with Skeuomorphism._
+
+- **🏠️ Home repository:** [:octocat: `Skeuwie`](https://github.com/seanpm2001/Skeuwie/)
+- **🔵️ Project categories:** `Desktop Environment` `Skeuomorphism` `Application set`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C++` |
+| 02 | `Python` |
+| 03 | `Shell` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Skeuwie`](https://github.com/seanpm2001/Skeuwie/) | [:octocat: `SDE`](https://github.com/seanpm2001/SDE/) | [:octocat: `iCandy`](https://github.com/seanpm2001/iCandy/) | [:octocat: `Coloress`](https://github.com/seanpm2001/Coloress/) | [:octocat: `SDE Merry`](https://github.com/seanpm2001/SDE_Merry/) | [:octocat: `Slick LM`](https://github.com/seanpm2001/Slick-LM/) |
+
+</details>
+
+---
+
+To add:
+
+- [ ] Other
+
+_End of desktop environment collective._
+
+</details>
+
+---
+
+#### [📖️ Documentation Collective](#-Documentation-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my majority documentation projects.
+
+- **🏠️ Home repository:** [:octocat: `Documentation Collective`](https://github.com/seanpm2001/Documentation-Collective/)
+- **🔵️ Project categories:** `Docs` `Documentation` `DeGoogle` `Articles`
+- **🪢️ Major projects:** `DeGoogle your Life` `Learn`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~4` **(as of 2024, Friday, March 29th)**
+
+---
+
+#### [💿️ Major project: DeGoogle your Life](#-Major-project--DeGoogle-your-Life)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Anti-Google logo failed to load. Click/tap here to attempt to view it" src="/Graphics/DeGoogle-your-Life/Logo/PNG/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **DeGoogle your Life:** _A collection of articles and documentation regarding alternating from Google._
+
+- **🏠️ Home repository:** [:octocat: `DeGoogle-your-Life`](https://github.com/seanpm2001/DeGoogle-your-Life/)
+- **🔵️ Project categories:** `Privacy` `Awareness` `Activism` `Security` `DeGoogle` `Documentation` `Articles` `Criticism of Google` `Criticism` `Anti-Google`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `~4` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Functional, but needs lots of improvement._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `HTML` |
+| 02 | `Markdown` |
+| 03 | `URLL` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `DeGoogle-your-Life`](https://github.com/seanpm2001/DeGoogle-your-Life/) | [:octocat: `It's time to cut WideVine DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) | [:octocat: `DeGoogle your Life Full Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/) | [:octocat: `DeGoogle your Life Current Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue/) | :octocat: [`DeGoogle your Life Graveyard Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue/) | [:octocat: `DeGoogled Android Phone VM Research`](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/) |
+| [:octocat: `Why you should stop using Google Chrome`](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/) | [:octocat: `Google Performance Issues`](https://github.com/seanpm2001/Google-performance-issues/) | [:octocat: `Google is a Monopoly`](https://github.com/seanpm2001/Google-is-a-monopoly/) | [:octocat: `Alternating from YouTube`](https://github.com/seanpm2001/Alternating-from-YouTube/) | [:octocat: `Stop Googling: Why you should stop using Google Search`](https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search/) | [:octocat: `DeGoogle Ranking Scale`](https://github.com/seanpm2001/DeGoogle-Ranking-Scale/) |
+
+</details>
+
+---
+
+#### [💿️ Major project: Learn](#-Major-project--Learn)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Logo/PNG/Letter+L+blue.png" width="150" height="150" align="left" style="margin-right: 30px"> **Learn:** _A collection of documentation showcasing my collective knowledge of various programming/computing languages._
+
+- **🏠️ Home repository:** [:octocat: `Learn`](https://github.com/seanpm2001/Learn/)
+- **🔵️ Project categories:** `Polyglot` `Education` `Knowledge database` `Programming languages` `Articles` `Documentation`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `~3` **(as of 2023, Saturday, May 27th)**
+
+<!--
+<img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Logo/PNG/Letter+L+blue.png" width="256" height="256"/> [:octocat: `Learn project`](https://github.com/seanpm2001/Learn/) - A collection of documentation showcasing my collective knowledge of various programming/computing languages.
+!-->
+
+**Development status:** _Not functional and highly incomplete. Self project, some developers needed_
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Too many to list` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Learn`](https://github.com/seanpm2001/Learn/) | [:octocat: `Learn Python`](https://github.com/seanpm2001/Learn-Python/) | [:octocat: `Learn HTML`](https://github.com/seanpm2001/Learn-HTML/) | [:octocat: `Learn Java`](https://github.com/seanpm2001/Learn-Java/) | [:octocat: `Learn C`](https://github.com/seanpm2001/Learn-C/) |
+| [:octocat: `Learn Markdown`](https://github.com/seanpm2001/Learn-Markdown/) | [:octocat: `Learn Vala`](https://github.com/seanpm2001/Learn-Vala/) | [:octocat: `Learn Shell`](https://github.com/seanpm2001/Learn-Shell/) | [:octocat: `Learn R`](https://github.com/seanpm2001/Learn-R/) | [:octocat: `Learn JavaScript`](https://github.com/seanpm2001/Learn-JavaScript/) | [:octocat: `Learn D`](https://github.com/seanpm2001/Learn-D/) |
+
+</details>
+
+---
+
+To add:
+
+- [ ] Other
+
+_End of documentation collective._
+
+</details>
+
+---
+
+#### [🅾️ Operating System Collective](#-Operating-System-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my Operating System projects.
+
+- **🏠️ Home repository:** [:octocat: `Operating System Collective`](https://github.com/seanpm2001/Operating-System-Collective/)
+- **🔵️ Project categories:** `Operating System` `Linux` `Niche`
+- **🪢️ Major projects:** `Android x32x64x128` `BlazeOS` `BlueberryOS` `MEDOS` `Meadows` `WacOS` `LocksmithOS` `MailOS` `CranberryOS` `NUNIX` `BootDown` `MetroTechno`  `AquariOS` `BathhouseOS`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
+##### [💿️ Major project: Android x32x64x128](#-Major-project--Android-x32x64x128)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x32x64x128/Logo/PNG/Android_Logo_HighDetail.png" width="150" height="150" align="left" style="margin-right: 30px"> **Android x32x64x128:** _A collection of Android forks that can provide Android support outside of the Google Ecosystem, with vanilla, LiveCD, DeGoogled, and heavy variants for every version of Android. It pairs with [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)_
+
+<!--
+<img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x32x64x128/Logo/PNG/Android_Logo_HighDetail.png" width="256" height="256"/> [:octocat: `Android x32 project`](https://github.com/seanpm2001/Android-x32/), [:octocat: `Android x64 project`](https://github.com/seanpm2001/Android-x64/), [:octocat: `Android x128 project`](https://github.com/seanpm2001/Android-x128/) - A collection of Android forks that can provide Android support outside of the Google Ecosystem, with vanilla, LiveCD, DeGoogled, and heavy variants for every version of Android. It pairs with [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)
+!-->
+
+- **🏠️ Home repository:** [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/)
+- **🔵️ Project categories:** `Android` `Android fork` `Operating System` `DeGoogle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Assembly` |
+| 02 | `C` |
+| 03 | `HTML` |
+| 04 | `Java` |
+| 05 | `Markdown` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Android x32 project`](https://github.com/seanpm2001/Android-x32/) | [:octocat: `Android x64 project`](https://github.com/seanpm2001/Android-x64/) | [:octocat: `Android x128 project`](https://github.com/seanpm2001/Android-x128/) | [:octocat: `Android x64 Android 5.0 Heavy Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_Heavy_Edition/) | [:octocat: `Android x64 Android 5.0 Vanilla Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition/) | [:octocat: `Android x64 Android 5.0 DeGoogled Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition/) |
+| [:octocat: `Android x64 Android 5.0 LiveCD Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition/) | [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/) | [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/) | [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x32_Docs/) | [:octocat: `Android x64 Workspace (Firefox)`](https://github.com/seanpm2001/Android-x64_Workspace_Firefox/) | `🤖️` |
+
+</details>
+
+---
+
+#### [💿️ Major project: BlazeOS (Operating System)](#-Major-project--BlazeOS--Operating-System-)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="BlazeOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlazeOS/Logo/JPEG/BlazeOS_LOGO1.jpeg" width="150" height="150" align="left" style="margin-right: 30px"> **BlazeOS:** _An operating system and service alternative to Amazon FireOS, and Amazon Web Services (AWS)_
+
+<!--
+<img alt="BlazeOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlazeOS/Logo/JPEG/BlazeOS_LOGO1.jpeg" width="256" height="256"/> [:octocat: `BlazeOS project`](https://github.com/seanpm2001/BlazeOS/) - An operating system and service alternative to Amazon FireOS, and Amazon Web Services (AWS)
+!-->
+
+- **🏠️ Home repository:** [:octocat: `BlazeOS`](https://github.com/seanpm2001/BlazeOS/)
+- **🔵️ Project categories:** `Amazon` `AWS alternative` `Amazon alternative` `Operating System` `Framework` `Server hardware`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Assembly` |
+| 02 | `BibTeX` |
+| 03 | `C` |
+| 04 | `C++` |
+| 05 | `desktop` |
+| 06 | `Groovy` |
+| 07 | `HTML` |
+| 08 | `INI` |
+| 09 | `JSON` |
+| 10 | `Kotlin` |
+| 11 | `Markdown` |
+| 12 | `YAML` |
+ 
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `BlazeOS`](https://github.com/seanpm2001/BlazeOS/) | [:octocat: `BlazeOS Docs`](https://github.com/seanpm2001/BlazeOS_Docs/) | [:octocat: `BlazeOS Peak`](https://github.com/seanpm2001/BlazeOS_Peak/) | [:octocat: `BlazeOS Userland`](https://github.com/seanpm2001/BlazeOS_Userland/) | [:octocat: `Silkworm Web Browser`](https://github.com/seanpm2001/Silkworm_web_browser/) | [:octocat: `BWS`](https://github.com/seanpm2001/BWS/) |
+| [:octocat: `Blazed Café`](https://github.com/seanpm2001/Blazed_Cafe/) | [:octocat: `IgniteBook`](https://github.com/seanpm2001/IgniteBook/) | [:octocat: `.mobi Dick`](https://github.com/seanpm2001/Mobi_Dick/) | [:octocat: `BlazeOS bPage`](https://github.com/seanpm2001/BlazeOS_bpage/) | [:octocat: `BlazeOS ePubStation`](https://github.com/seanpm2001/BlazeOS_ePubStation/) | [:octocat: `BlAPK`](https://github.com/seanpm2001/BlAPK/) |
+| [:octocat: `BlazeOS App Store`](https://github.com/seanpm2001/BlazeOS_App_Store/) | [:octocat: `BWS Zamboni`](https://github.com/seanpm2001/BWS_Zamboni/) | [:octocat: `BWS IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/) | [:octocat: `BWS IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/) | [:octocat: `BWS IceCube`](https://github.com/seanpm2001/BWS_IceCube/) | [:octocat: `BWS Icicle`](https://github.com/seanpm2001/BWS_Icicle/) |
+| [:octocat: `BWS Hardware Ice`](https://github.com/seanpm2001/BWS_Hardware_Ice/) | [:octocat: `BWS Hardware`](https://github.com/seanpm2001/BWS_Hardware/) | [:octocat: `BlazeOS Peak Video`](https://github.com/seanpm2001/BlazeOS_Peak_Video/) | `🔥️` | `🔥️` | `🔥️` |
+
+</details>
+
+---
+
+#### [💿️ Major project: BlueberryOS](#-Major-project--BlueberryOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="BlueberryOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlueberryOS/Logo/Blueberry1.png" title="Black(berry) and Blue(berry)" width="150" height="150" align="left" style="margin-right: 30px"> **BlueberryOS:** _An open source alternative to BlackberryOS._
+
+- **🏠️ Home repository:** [:octocat: `BlueberryOS`](https://github.com/seanpm2001/BlueberryOS/)
+- **🔵️ Project categories:** `Blackberry` `Blackberry alternative` `C++ based system` `Java based system` `Operating System` `Mobile operating system`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Friday, March 29th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C++` |
+| 02 | `Java` |
+| 03 | `C` |
+| 04 | `Markdown` |
+| 05 | `HTML` |
+| 06 | `desktop` |
+| 07 | `INI` |
+| 08 | `JSON` |
+| 09 | `YAML` |
+ 
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `BlueberryOS`](https://github.com/seanpm2001/BlueberryOS/) | [:octocat: `BlueberryOS packages`](https://github.com/seanpm2001/BlueberryOS_Packages/) | [:octocat: `BlueberryOS JVM`](https://github.com/seanpm2001/BlueberryOS_JVM/) | [:octocat: `BlueberryOS Desktop`](https://github.com/seanpm2001/BlueberryOS_Desktop/) | [:octocat: `BlueberryOS Apps`](https://github.com/seanpm2001/BlueberryOS_Apps/) | [:octocat: `BlueberryOS Apps: Blueberry Messenger`](https://github.com/seanpm2001/BlueberryOS_Apps_BlueberryMessenger/)
+| [:octocat: `BlueberryOS`](https://github.com/seanpm2001/BlueberryOS_Docs/) | [:octocat: `BlueberryOS packages`](https://github.com/seanpm2001/BlueberryOS_Packages_Docs/) | [:octocat: `BlueberryOS JVM`](https://github.com/seanpm2001/BlueberryOS_JVM_Docs/) | [:octocat: `BlueberryOS Desktop`](https://github.com/seanpm2001/BlueberryOS_Desktop_Docs/) | [:octocat: `BlueberryOS Apps`](https://github.com/seanpm2001/BlueberryOS_Apps_Docs/) | [:octocat: `BlueberryOS Apps: Blueberry Messenger`](https://github.com/seanpm2001/BlueberryOS_Apps_BlueberryMessenger_Docs/) |
+| [:octocat: `BlueberryOS Apps: File Manager`](https://github.com/seanpm2001/BlueberryOS_Apps_FileManager/) | [:octocat: `BlueberryOS Apps: Clock`](https://github.com/seanpm2001/BlueberryOS_Apps_Clock/) | [:octocat: `BlueberryOS Apps: Calculator`](https://github.com/seanpm2001/BlueberryOS_Apps_Calculator/) | [:octocat: `BlueberryOS Apps: Calendar`](https://github.com/seanpm2001/BlueberryOS_Apps_Calendar/) | [:octocat: `BlueberryOS Apps: Market`](https://github.com/seanpm2001/BlueberryOS_Apps_Market/) | [:octocat: `BlueberryOS Apps: Notepad`](https://github.com/seanpm2001/BlueberryOS_Apps_Notepad/) |
+| [:octocat: `BlueberryOS Apps: File Manager Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_FileManager_Docs/) | [:octocat: `BlueberryOS Apps: Clock Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Clock_Docs/) | [:octocat: `BlueberryOS Apps: Calculator Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Calculator_Docs/) | [:octocat: `BlueberryOS Apps: Calendar Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Calendar_Docs/) | [:octocat: `BlueberryOS Apps: Market Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Market_Docs/) | [:octocat: `BlueberryOS Apps: Notepad Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Notepad_Docs/) |
+| [:octocat: `BlueberryOS Apps: Pictures`](https://github.com/seanpm2001/BlueberryOS_Apps_Pictures/) | [:octocat: `BlueberryOS Apps: Phone`](https://github.com/seanpm2001/BlueberryOS_Apps_Phone/) | [:octocat: `BlueberryOS Apps: Ringtones`](https://github.com/seanpm2001/BlueberryOS_Apps_Ringtones/) | [:octocat: `BlueberryOS Apps: Videos`](https://github.com/seanpm2001/BlueberryOS_Apps_Videos/) | [:octocat: `BlueberryOS Apps: Voice Notes`](https://github.com/seanpm2001/BlueberryOS_Apps_Voice-Notes/) | [:octocat: `BlueberryOS Apps: Podcasts`](https://github.com/seanpm2001/BlueberryOS_Apps_Podcasts/) |
+| [:octocat: `BlueberryOS Apps: Pictures Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Pictures_Docs/) | [:octocat: `BlueberryOS Apps: Phone Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Phone_Docs/) | [:octocat: `BlueberryOS Apps: Ringtones Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Ringtones_Docs/) | [:octocat: `BlueberryOS Apps: Videos Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Videos_Docs/) | [:octocat: `BlueberryOS Apps: Voice Notes Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Voice-Notes_Docs/) | [:octocat: `BlueberryOS Apps: Podcasts Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Podcasts_Docs/) |
+| [:octocat: `BlueberryOS Apps: Contacts`](https://github.com/seanpm2001/BlueberryOS_Apps_Contacts/) | [:octocat: `BlueberryOS Apps: Options`](https://github.com/seanpm2001/BlueberryOS_Apps_Options/) | [:octocat: `BlueberryOS Apps: Messages`](https://github.com/seanpm2001/BlueberryOS_Apps_Messages/) | [:octocat: `BlueberryOS Apps: Maps`](https://github.com/seanpm2001/BlueberryOS_Apps_Maps/) | [:octocat: `BlueberryOS Apps: Visual Voicemail`](https://github.com/seanpm2001/BlueberryOS_Apps_Visual-Voicemai/) | [:octocat: `BlueberryOS Apps: Browser`](https://github.com/seanpm2001/BlueberryOS_Apps_Browser/) |
+| [:octocat: `BlueberryOS Apps: Contacts Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Contacts_Docs/) | [:octocat: `BlueberryOS Apps: Options Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Options_Docs/) | [:octocat: `BlueberryOS Apps: Messages Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Messages_Docs/) | [:octocat: `BlueberryOS Apps: Maps Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Maps_Docs/) | [:octocat: `BlueberryOS Apps: Visual Voicemail Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Visual-Voicemai_Docs/) | [:octocat: `BlueberryOS Apps: Browser Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Browser_Docs/) |
+| [:octocat: `BlueberryOS Apps: SocialFeeds`](https://github.com/seanpm2001/BlueberryOS_Apps_SocialFeeds/) | [:octocat: `BlueberryOS Apps: Wallpapers`](https://github.com/seanpm2001/BlueberryOS_Apps_Wallpapers/) | [:octocat: `BlueberryOS Apps: Weather`](https://github.com/seanpm2001/BlueberryOS_Apps_Weather/) | [:octocat: `BlueberryOS Apps: Media`](https://github.com/seanpm2001/BlueberryOS_Apps_Media/) | 🫐️ | 🫐️ |
+| [:octocat: `BlueberryOS Apps: SocialFeeds Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_SocialFeeds_Docs/) | [:octocat: `BlueberryOS Apps: Wallpapers Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Wallpapers_Docs/) | [:octocat: `BlueberryOS Apps: Weather Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Weather_Docs/) | [:octocat: `BlueberryOS Apps: Media Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Media_Docs/) | 🫐️ | 🫐️ |
+| 🫐️ | 🫐️ | 🫐️ | 🫐️ | 🫐️ | 🫐️ |
+
+</details>
+
+---
+
+#### [💿️ Major project: MailOS](#-Major-project--MailOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="MailOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/MailOS/Logo/MailOS_Logo_1024px_V1_HighCompression.png" title="Email Operating System, MailOS logo" width="150" height="150" align="left" style="margin-right: 30px"> **MailOS:** _An operating system solely designed for emails._
+
+- **🏠️ Home repository:** [:octocat: `MailOS`](https://github.com/seanpm2001/MailOS/)
+- **🔵️ Project categories:** `EMAIL` `EMAIL 2` `Niche`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Friday, March 29th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `D` |
+| 03 | `PHP` |
+| 04 | `Rust`
+| 05 | `HTML` |
+| 06 | `Markdown` |
+| 07 | `desktop` |
+| 08 | `INI` |
+| 09 | `JSON` |
+| 10 | `YAML` |
+ 
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `MailOS`](https://github.com/seanpm2001/MailOS/) | [:octocat: `MailOS Server`](https://github.com/seanpm2001/MailOS_Server/) | [:octocat: `MailOS Post Office`](https://github.com/seanpm2001/MailOS_PostOffice/) | [:octocat: `MailOS Package Manager`](https://github.com/seanpm2001/MailOS_PackageManager) | [:octocat: `MailOS Web`](https://github.com/seanpm2001/MailOS_Web/) | 📧️ |
+| [:octocat: `MailOS Docs`](https://github.com/seanpm2001/MailOS_Docs/) | [:octocat: `MailOS Server Docs`](https://github.com/seanpm2001/MailOS_Server_Docs/) | [:octocat: `MailOS Post Office Docs`](https://github.com/seanpm2001/MailOS_PostOffice_Docs/) | [:octocat: `MailOS Package Manager Docs`](https://github.com/seanpm2001/MailOS_PackageManager) | [:octocat: `MailOS Web Docs`](https://github.com/seanpm2001/MailOS_Web_Docs/) | 📧️ |
+| 📧️ | 📧️ | 📧️ | 📧️ | 📧️ | 📧️ |
+
+</details>
+
+---
+
+#### [💿️ Major project: LocksmithOS](#-Major-project--LocksmithOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="LocksmithOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LocksmithOS/Logo/LocksmithOS_1500pxLogo_V1_HighCompression.png" title="LocksmithOS logo" width="150" height="150" align="left" style="margin-right: 30px"> **LocksmithOS:** _An operating system solely designed for storing sensitive credentials and passwords, and acting as a key._
+
+- **🏠️ Home repository:** [:octocat: `LocksmithOS`](https://github.com/seanpm2001/LocksmithOS/)
+- **🔵️ Project categories:** `Password` `Credentials` `Storage` `Offline` `Keys` `Niche`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Friday, March 29th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `Python` |
+| 03 | `Markdown` |
+| 04 | `INI` |
+| 05 | `JSON` |
+| 06 | `YAML` |
+ 
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `LocksmithOS`](https://github.com/seanpm2001/LocksmithOS/) | [:octocat: `LocksmithOS PassKey`](https://github.com/seanpm2001/LocksmithOS_Passkey/) | [:octocat: `LocksmithOS USB`](https://github.com/seanpm2001/LocksmithOS_USB/) | [:octocat: `LocksmithOS Physical Key`](https://github.com/seanpm2001/LocksmithOS_PhysicalKey/) | [:octocat: `LocksmithOS KeyDB`](https://github.com/seanpm2001/LocksmithOS_KeyDB/) | [:octocat: `LocksmithOS Access Tokens`](https://github.com/seanpm2001/LocksmithOS_AccessTokens/) |
+| [:octocat: `LocksmithOS Docs`](https://github.com/seanpm2001/LocksmithOS_Docs/) | [:octocat: `LocksmithOS PassKey Docs`](https://github.com/seanpm2001/LocksmithOS_Passkey_Docs/) | [:octocat: `LocksmithOS USB Docs`](https://github.com/seanpm2001/LocksmithOS_USB_Docs/) | [:octocat: `LocksmithOS Physical Key Docs`](https://github.com/seanpm2001/LocksmithOS_PhysicalKey_Docs/) | [:octocat: `LocksmithOS KeyDB Docs`](https://github.com/seanpm2001/LocksmithOS_KeyDB_Docs/) | [:octocat: `LocksmithOS Access Tokens Docs`](https://github.com/seanpm2001/LocksmithOS_AccessTokens_Docs/) |
+| [:octocat: `LocksmithOS Passwords`](https://github.com/seanpm2001/LocksmithOS_Passwords/) | [:octocat: `LocksmithOS MFA`](https://github.com/seanpm2001/LocksmithOS_MFA/) | [:octocat: `LocksmithOS Password Managers`](https://github.com/seanpm2001/LocksmithOS_PasswordManagers/) | [:octocat: `LocksmithOS Desktop`](https://github.com/seanpm2001/LocksmithOS_Desktop/) | [:octocat: `LocksmithOS PGP`](https://github.com/seanpm2001/LocksmithOS_PGP/) | [:octocat: `LocksmithOS Encryption`](https://github.com/seanpm2001/LocksmithOS_Encryption/) |
+| [:octocat: `LocksmithOS Passwords Docs`](https://github.com/seanpm2001/LocksmithOS_Passwords_Docs/) | [:octocat: `LocksmithOS MFA Docs`](https://github.com/seanpm2001/LocksmithOS_MFA_Docs/) | [:octocat: `LocksmithOS Password Managers Docs`](https://github.com/seanpm2001/LocksmithOS_PasswordManagers_Docs/) | [:octocat: `LocksmithOS Desktop Docs`](https://github.com/seanpm2001/LocksmithOS_Desktop_Docs/) | [:octocat: `LocksmithOS PGP Docs`](https://github.com/seanpm2001/LocksmithOS_PGP_Docs/) | [:octocat: `LocksmithOS Encryption Docs`](https://github.com/seanpm2001/LocksmithOS_Encryption_Docs/) |
+| [:octocat: `LocksmithOS Product Keys`](https://github.com/seanpm2001/LocksmithOS_ProductKeys/) | [:octocat: `LocksmithOS PassKeys`](https://github.com/seanpm2001/LocksmithOS_PassKeys/) | [:octocat: `LocksmithOS Users`](https://github.com/seanpm2001/LocksmithOS_Users/) | 🔐️ | 🔐️ | 🔐️ |
+| [:octocat: `LocksmithOS Product Keys Docs`](https://github.com/seanpm2001/LocksmithOS_ProductKeysDocs/) | [:octocat: `LocksmithOS PassKeys Docs`](https://github.com/seanpm2001/LocksmithOS_PassKeysDocs/) | [:octocat: `LocksmithOS Users Docs`](https://github.com/seanpm2001/LocksmithOS_UsersDocs/) | 🔐️ | 🔐️ | 🔐️ |
+| 🔑️ | 🔑️ | 🔑️ | 🔑️ | 🔑️ | 🔑️ |
 
 </details>
 
@@ -2951,414 +3788,33 @@ My major projects include:
 
 ---
 
-#### [💿️ Major project: AI2001](#-Major-project--AI2001)
+To add:
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+- [ ] CranberryOS
+- [ ] NUNIX
+- [ ] BootDown
+- [ ] MetroTechno
+- [ ] AquariOS
+- [ ] BathhouseOS
+- [ ] Other
 
-<img alt="AI2001 MediaSphere logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AI2001/Logo/PNG/MediaSphere1.png" width="150" height="150" align="left" style="margin-right: 30px"> **AI2001:** _An artificial Intelligence toolchain written in R, RMarkdown, Julia, Cython, Prolog, Python, and C._
-
-- **🏠️ Home repository:** [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/)
-- **🔵️ Project categories:** `Artificial Intelligence (AI)` `Artificial Neural Networks (ANN)` `Datasets`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-<!--
-<img alt="AI2001 MediaSphere logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AI2001/Logo/PNG/MediaSphere1.png" width="256" height="256"/> [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) - An artificial Intelligence toolchain written in R, RMarkdown, Julia, Cython, Prolog, Python, and C.
-!-->
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `C` |
-| 02 | `Cython` |
-| 03 | `Julia` |
-| 04 | `Prolog` |
-| 05 | `Python` |
-| 06 | `R` |
-| 07 | `RMarkdown` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `AI2001 Docs`](https://github.com/seanpm2001/AI2001_Docs/) | [:octocat: `AI2001 Category: Documents`](https://github.com/seanpm2001/AI2001_Category-Documents/) | [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/) | [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/) | [:octocat: `AI2001 Category: Videos`](https://github.com/seanpm2001/AI2001_Category-Videos/) |
-| [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/) | [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/) | [:octocat: `AI2001 Category: Meta (Coming soon)`](https://github.com/seanpm2001/AI2001_Category-Meta/) | [:octocat: `AI2001 Category: Documents, Subcategory: Wiki`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis/) | [:octocat: `AI2001 Category: Documents, Subcategory: Books`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Books/) | [:octocat: `AI2001 Category: Documents, Subcategory: Articles`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Articles/)
+_End of Operating System Collective._
 
 </details>
 
 ---
 
-#### [💿️ Major project: SeansLifeArchive](#-Major-project--SeansLifeArchive)
+#### [🌐️ Web Browser Collective](#-Web-Browser-Collective)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="150" height="150" align="left" style="margin-right: 30px"> **SeansLifeArchive:** _A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th_
-
-<!--
-<img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="256" height="256"/> [:octocat: `Journaling/Seanpm2001 Life Archive project`](https://github.com/seanpm2001/SeanPatrickMyrick2001_LifeStory/) - A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th
-!-->
-
-- **🏠️ Home repository:** [:octocat: `seanpm2001`](https://github.com/seanpm2001/seanpm2001/)
-- **🔵️ Project categories:** `Personal` `Documentation` `Graphic Design` `Autobiography` `Blog`
-- **💰️ Current monthly budget:** `$05.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `~2` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Mixed, some projects are complete and don't need help, some projects are incomplete, but don't need help, and some may require help._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `Ada` |
-| 02 | `CSS` |
-| 03 | `desktop` |
-| 04 | `HTML` |
-| 05 | `INI` |
-| 06 | `JavaScript` |
-| 07 | `JSON` |
-| 08 | `Less` |
-| 09 | `Markdown` |
-| 10 | `Objective-J` |
-| 11 | `PostScript` |
-| 12 | `Python` |
-| 13 | `reStructuredText` |
-| 14 | `Rich Text Format` |
-| 15 | `SVG` |
-| 16 | `Text (plain)` |
-| 17 | `XML` |
-| 18 | `YAML` |
-
-> **Note** _I am only showing the top 18 languages here, as otherwise, there would be too many to list_
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Daily articles`](https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/) | [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB/) | [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) | [:octocat: `Daily Desktop Screenshots`](https://github.com/seanpm2001/Daily-desktop-screenshots/) | [:octocat: `Video directory`](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/) | [:octocat: `Images:GitHub`](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub/) |
-| [:octocat: `Images:GitHub (2022)`](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2022/) | [:octocat: `Images:Journaling development`](https://github.com/seanpm20017/SeansLifeArchive_Images_Journaling-development/) | [:octocat: `Seanpm2001 GitHub profile repository`](https://github.com/seanpm2001/seanpm2001/) | [:octocat: `Khan Academy data`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/) | Over 300 entries not yet listed | `📖️` |
-
-</details>
-
----
-
-#### [💿️ Major project: Linux Defender](#-Major-project--Linux-Defender)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="105" height="150" align="left" style="margin-right: 30px"> **Linux Defender:** _An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you._
-
-<!--
-<img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="267" height="380"/> [:octocat: `Linux Defender project`](https://github.com/seanpm2001/Linux_Defender/) - An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you.
-!-->
-
-- **🏠️ Home repository:** [:octocat: `Linux Defender`](https://github.com/seanpm2001/Linux_Defender/)
-- **🔵️ Project categories:** `Linux` `Anti-malware` `Anti-virus` `Anti-spyware` `Anti-Ransomware` `Rulesets` `Security`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `C` |
-| 02 | `CSS` |
-| 03 | `Less` |
-| 04 | `Python` |
-| 05 | `SCSS` |
-| 06 | `Shell` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Linux Defender (home repository)`](https://github.com/seanpm2001/Linux_Defender/) | [:octocat: `Linux Defender for Raspberry Pi`](https://github.com/seanpm2001/
-Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](https://github.com/seanpm2001/Linux_Defender_For_Ubuntu/) | [:octocat: `Linux Defender for Trisquel`](https://github.com/seanpm2001/Linux_Defender_For_Trisquel/) | [Linux Defender for CentOS](https://github.com/seanpm2001/Linux_Defender_For_CentOS/) | [Linux Defender for Arch](https://github.com/seanpm2001/Linux_Defender_For_Arch_Linux/) |
-| [:octocat: `Linux Defender for Debian`](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) | [:octocat: `Linux Defender for ReplicantOS`](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) | [:octocat: `Linux Defender for Fedora Linux`](https://github.com/seanpm2001/Linux_Defender_For_Fedora-Linux/) | [:octocat: `Linux Defender for Android`](https://github.com/seanpm2001/Linux_Defender_For_Android/) | [:octocat: `Linux Defender for RemixOS`](https://github.com/seanpm2001/Linux_Defender_For_RemixOS/) | [:octocat: `Linux Defender for Alpine Linux`](https://github.com/seanpm2001/Linux_Defender_For_Alpine_Linux/) |
-<!-- | `🐧️` | `🐧️` | `🐧️` | `🐧️` | `🐧️` | `🐧️` | !-->
-
-</details>
-
----
-
-#### [💿️ Major project: Anime Studio](#-Major-project--Anime-Studio)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="Anime Studio logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Anime_Studio/Logo/PNG/RedEyeMin.png" width="150" height="150" align="left" style="margin-right: 30px"> **Anime Studio:** _A software studio optimized for the production and viewing of Anime and Manga._
-
-<!--
-| <img alt="Anime Studio logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Anime_Studio/Logo/PNG/RedEyeMin.png" width="256" height="256"/> [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/) - A software studio optimized for the production and viewing of Anime and Manga.
-!-->
-
-- **🏠️ Home repository:** [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/)
-- **🔵️ Project categories:** `Anime` `Manga` `Graphic Design` `Video Editing` `Visual Novels` `Artificial Intelligence (AI)` `Subtitles` `Dubbing` `Hentai`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages:** |
-|----|---|
-| 01 | `C` |
-| 02 | `Gosu` |
-| 03 | `Markdown` |
-| 04 | `Prolog` |
-| 05 | `Raku` |
-| 06 | `Red` |
-| 07 | `Ren'Py` |
-| 08 | `Ruby` |
-| 09 | `WebVTT` |
-| 10 | `WikiText` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Anime Studio`](https://github.com/seanpm2001/Anime_Studio/) | [:octocat: `Anime Studio Docs`](https://github.com/seanpm2001/Anime_Studio_Docs/) | [:octocat: `OpenAnime`](https://github.com/seanpm2001/Anime_Studio_OpenAnime/) | [:octocat: `AnimAI`](https://github.com/seanpm2001/Anime_Studio_AnimAI/) | [:octocat: `Manga Studio`](https://github.com/seanpm2001/Anime_Studio_Manga-Studio/) | [:octocat: `Subs and Dubs`](https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs/) |
-| [:octocat: `Video Editor`](https://github.com/seanpm2001/Anime_Studio_Video-Editor/) | [:octocat: `Application Core`](https://github.com/seanpm2001/Anime_Studio_ApplicationCore/) | [:octocat: `Hentai`](https://github.com/seanpm2001/Anime_Studio_Hentai/) | [:octocat: `Avatar Studio`](https://github.com/seanpm2001/Anime_Studio_AvatarStudio/) | [:octocat: `Style Manager`](https://github.com/seanpm2001/Anime_Studio_StyleManager/) | [:octocat: `Media Library`](https://github.com/seanpm2001/Anime_Studio_Library/) |
-| [:octocat: `Exporter`](https://github.com/seanpm2001/Anime_Studio_Exporter/) | [:octocat: `Image editor`](https://github.com/seanpm2001/Anime_Studio_Image-Editor/) | [:octocat: `Audio Editor`](https://github.com/seanpm2001/Anime_Studio_Audio-Editor/) | [:octocat: `SocialShare`](https://github.com/seanpm2001/Anime_Studio_SocialShare/) | [:octocat: `Website`](https://github.com/seanpm2001/Anime_Studio_Website/) | [:octocat: `ChatBot`](https://github.com/seanpm2001/Anime_Studio_ChatBot/) |
-| [:octocat: `Subtitle Tool`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/) | [:octocat: `Game Studio`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/) | [:octocat: `*.manga File Format`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/) | [:octocat: `Woodblock printer`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/) | [:octocat: `Dictionary`](https://github.com/seanpm2001/Anime_Studio_Dictionary/) | [:octocat: `Encyclopedia`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/) |
-| [:octocat: `Glossary`](https://github.com/seanpm2001/Anime_Studio_Glossary/) | [:octocat: `Wiki`](https://github.com/seanpm2001/Anime_Studio_Wiki/) | `👁️` | `👁️` | `👁️` | `👁️` |
-
-</details>
-
----
-
-#### [💿️ Major project: Candroid Framework](#-Major-project--Candroid-Framework)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="150" height="150" align="left" style="margin-right: 30px"> **Candroid:** _A framework for DeGoogling and alternating from the Android operating system._
-
-<!--
-<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="256" height="256"/> [:octocat: `Candroid project`](https://github.com/seanpm2001/Candroid/) - A framework for DeGoogling and alternating from the Android operating system.
-!-->
-
-- **🏠️ Home repository:** [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)
-- **🔵️ Project categories:** `Android (Operating System)` `Android (OS) Alternative` `DeGoogle` `Framework` `Application set` `Mobile computing`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `Google Go (no longer used)` |
-| 02 | `HTML5` |
-| 03 | `Java` |
-| 04 | `Python` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/) | [:octocat: `Candroid Docs`](https://github.com/seanpm2001/Candroid-Docs/) | [:octocat: `Candroid Catalogue`](https://github.com/seanpm2001/Candroid-Catalogue/) | [:octocat: `Candroid App Store`](https://github.com/seanpm2001/Candroid-App-Store/) | [:octocat: `Candroid Assistant`](https://github.com/seanpm2001/Candroid-Assistant/) | [:octocat: `Candroid Battery Monitor`](https://github.com/seanpm2001/Candroid-Battery-Monitor/) |
-| [:octocat: `Candroid Browser`](https://github.com/seanpm2001/Candroid-Browser/) | [:octocat: `Candroid Calculator`](https://github.com/seanpm2001/Candroid-Calculator/) | [:octocat: `Candroid Calendar`](https://github.com/seanpm2001/Candroi-Calendar/) | [:octocat: `Candroid Camera`](https://github.com/seanpm2001/Candroid-Calendar/) | [:octocat: `Candroid Clock `](https://github.com/seanpm2001/Candroid-Clock/) | [:octocat: `Candroid Contacts`](https://github.com/seanpm2001/Candroid-Contacts/) |
-| [:octocat: `Candroid Debug`](https://github.com/seanpm2001/Candroid-Debug/) | [:octocat: [`Candroid Easter Egg`](https://github.com/seanpm2001/Candroid-Easter-Egg/) | [:octocat: `Candroid File Cabinet`](https://github.com/seanpm2001/Candroid-FileCabinet/) | [:octocat: `Candroid Flashlight`](https://github.com/seanpm2001/Candroid-Flashlight/) | [:octocat: `Candroid Keyboard`](https://github.com/seanpm2001/Candroid-Keyboard/) | [:octocat: `Candroid Market`](https://github.com/seanpm2001/Candroid-Market/) |
-| [:octocat: `Candroid Mail`](https://github.com/seanpm2001/Candroid-Mail/) | [:octocat: `Candroid Notepad`](https://github.com/seanpm2001/Candroid-Notepad/) | [:octocat: `Candroid Phone`](https://github.com/seanpm2001/Candroid-Phone/) | [:octocat: `Candroid Photo Viewer`](https://github.com/seanpm2001/Candroid-Photo-Viewer/)O | [:octocat: `Candroid Rotate`](https://github.com/seanpm2001/Candroid-Rotate/) | [:octocat: `Candroid Settings`](https://github.com/seanpm2001/Candroid-Settings/) |
-| [:octocat: `Candroid Tube`](https://github.com/seanpm2001/Candroid-Tube/) | [:octocat: `Candroid TV`](https://github.com/seanpm2001/Candroid-TV/) | [:octocat: `Candroid Video`](https://github.com/seanpm2001/Candroid-Video/) | [:octocat: `Candroid Voicemail`](https://github.com/seanpm2001/Candroid-Voicemail/) | [:octocat: `Candroid Wallpaper`](https://github.com/seanpm2001/Candroid-Wallpaper/) | `🤖️` |
-
-</details>
-
----
-
-#### [💿️ Major project: DeGoogle your Life](#-Major-project--DeGoogle-your-Life)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="Anti-Google logo failed to load. Click/tap here to attempt to view it" src="/Graphics/DeGoogle-your-Life/Logo/PNG/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **DeGoogle your Life:** _A collection of articles and documentation regarding alternating from Google._
-
-- **🏠️ Home repository:** [:octocat: `DeGoogle-your-Life`](https://github.com/seanpm2001/DeGoogle-your-Life/)
-- **🔵️ Project categories:** `Privacy` `Awareness` `Activism` `Security` `DeGoogle` `Documentation` `Articles` `Criticism of Google` `Criticism` `Anti-Google`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `~4` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Functional, but needs lots of improvement._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `HTML` |
-| 02 | `Markdown` |
-| 03 | `URLL` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `DeGoogle-your-Life`](https://github.com/seanpm2001/DeGoogle-your-Life/) | [:octocat: `It's time to cut WideVine DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) | [:octocat: `DeGoogle your Life Full Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/) | [:octocat: `DeGoogle your Life Current Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue/) | :octocat: [`DeGoogle your Life Graveyard Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue/) | [:octocat: `DeGoogled Android Phone VM Research`](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/) |
-| [:octocat: `Why you should stop using Google Chrome`](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/) | [:octocat: `Google Performance Issues`](https://github.com/seanpm2001/Google-performance-issues/) | [:octocat: `Google is a Monopoly`](https://github.com/seanpm2001/Google-is-a-monopoly/) | [:octocat: `Alternating from YouTube`](https://github.com/seanpm2001/Alternating-from-YouTube/) | [:octocat: `Stop Googling: Why you should stop using Google Search`](https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search/) | [:octocat: `DeGoogle Ranking Scale`](https://github.com/seanpm2001/DeGoogle-Ranking-Scale/) |
-
-</details>
-
----
-
-#### [💿️ Major project: Ukraine History Simulator](#-Major-project--Ukraine-History-Simulator)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="Ukraine History Simulator logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Ukraine-History-Simulator/Logo/PNG/UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **Ukraine History Simulator** _A history simulator that covers the entire history (pre-history to the modern day) of the European country, Ukraine._
-
-- **🏠️ Home repository:** [:octocat: `Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/)
-- **🔵️ Project categories:** `History` `European History` `Ukraine History` `Ukraine` `Europe` `Video Game` `GoDot` `History Simulator`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `GDScript` |
-| 02 | `Python` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/) | [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/) | [:octocat: `UHS DatasSets: Soundtrack: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/) | [:octocat: `UHS Datasets: Oblasts: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/) | [:octocat: `UHS DataSets: Raions: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/) | [:octocat: UHS Datasets: Hromadas: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/) |
-| [:octocat: `UHS Datasets: Heraldry: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Vexillology: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Leaders: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine/) | [:octocat: `UHS Datasets: Generals: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine/) | `🇺🇦️` | `🇺🇦️` |
-
-</details>
-
----
-
-#### [💿️ Major project: SDE](#-Major-project--SDE)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="SDE logo failed to load. Click/tap here to attempt to view it" src="/Graphics/SDE/Logo/PNG/SDE.png" width="150" height="150" align="left" style="margin-right: 30px"> **SDE** _A highly customizable desktop environment with Skeuomorphism._
-
-- **🏠️ Home repository:** [:octocat: `Skeuwie`](https://github.com/seanpm2001/Skeuwie/)
-- **🔵️ Project categories:** `Desktop Environment` `Skeuomorphism` `Application set`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `C++` |
-| 02 | `Python` |
-| 03 | `Shell` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Skeuwie`](https://github.com/seanpm2001/Skeuwie/) | [:octocat: `SDE`](https://github.com/seanpm2001/SDE/) | [:octocat: `iCandy`](https://github.com/seanpm2001/iCandy/) | [:octocat: `Coloress`](https://github.com/seanpm2001/Coloress/) | [:octocat: `SDE Merry`](https://github.com/seanpm2001/SDE_Merry/) | [:octocat: `Slick LM`](https://github.com/seanpm2001/Slick-LM/) |
-
-</details>
-
----
-
-#### [💿️ Major project: Learn](#-Major-project--Learn)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Logo/PNG/Letter+L+blue.png" width="150" height="150" align="left" style="margin-right: 30px"> **Learn:** _A collection of documentation showcasing my collective knowledge of various programming/computing languages._
-
-- **🏠️ Home repository:** [:octocat: `Learn`](https://github.com/seanpm2001/Learn/)
-- **🔵️ Project categories:** `Polyglot` `Education` `Knowledge database` `Programming languages` `Articles` `Documentation`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `~3` **(as of 2023, Saturday, May 27th)**
-
-<!--
-<img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Logo/PNG/Letter+L+blue.png" width="256" height="256"/> [:octocat: `Learn project`](https://github.com/seanpm2001/Learn/) - A collection of documentation showcasing my collective knowledge of various programming/computing languages.
-!-->
-
-**Development status:** _Not functional and highly incomplete. Self project, some developers needed_
-
-| ## | **Languages** |
-|----|---|
-| 01 | `Too many to list` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Learn`](https://github.com/seanpm2001/Learn/) | [:octocat: `Learn Python`](https://github.com/seanpm2001/Learn-Python/) | [:octocat: `Learn HTML`](https://github.com/seanpm2001/Learn-HTML/) | [:octocat: `Learn Java`](https://github.com/seanpm2001/Learn-Java/) | [:octocat: `Learn C`](https://github.com/seanpm2001/Learn-C/) |
-| [:octocat: `Learn Markdown`](https://github.com/seanpm2001/Learn-Markdown/) | [:octocat: `Learn Vala`](https://github.com/seanpm2001/Learn-Vala/) | [:octocat: `Learn Shell`](https://github.com/seanpm2001/Learn-Shell/) | [:octocat: `Learn R`](https://github.com/seanpm2001/Learn-R/) | [:octocat: `Learn JavaScript`](https://github.com/seanpm2001/Learn-JavaScript/) | [:octocat: `Learn D`](https://github.com/seanpm2001/Learn-D/) |
-
-</details>
-
----
-
-#### [💿️ Major project: Android x32x64x128](#-Major-project--Android-x32x64x128)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x32x64x128/Logo/PNG/Android_Logo_HighDetail.png" width="150" height="150" align="left" style="margin-right: 30px"> **Android x32x64x128:** _A collection of Android forks that can provide Android support outside of the Google Ecosystem, with vanilla, LiveCD, DeGoogled, and heavy variants for every version of Android. It pairs with [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)_
-
-<!--
-<img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x32x64x128/Logo/PNG/Android_Logo_HighDetail.png" width="256" height="256"/> [:octocat: `Android x32 project`](https://github.com/seanpm2001/Android-x32/), [:octocat: `Android x64 project`](https://github.com/seanpm2001/Android-x64/), [:octocat: `Android x128 project`](https://github.com/seanpm2001/Android-x128/) - A collection of Android forks that can provide Android support outside of the Google Ecosystem, with vanilla, LiveCD, DeGoogled, and heavy variants for every version of Android. It pairs with [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)
-!-->
-
-- **🏠️ Home repository:** [:octocat: `Android x32`](https://github.com/seanpm2001/Android-x32/)
-- **🔵️ Project categories:** `Android` `Android fork` `Operating System` `DeGoogle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `Assembly` |
-| 02 | `C` |
-| 03 | `HTML` |
-| 04 | `Java` |
-| 05 | `Markdown` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `Android x32 project`](https://github.com/seanpm2001/Android-x32/) | [:octocat: `Android x64 project`](https://github.com/seanpm2001/Android-x64/) | [:octocat: `Android x128 project`](https://github.com/seanpm2001/Android-x128/) | [:octocat: `Android x64 Android 5.0 Heavy Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_Heavy_Edition/) | [:octocat: `Android x64 Android 5.0 Vanilla Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition/) | [:octocat: `Android x64 Android 5.0 DeGoogled Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition/) |
-| [:octocat: `Android x64 Android 5.0 LiveCD Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition/) | [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/) | [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/) | [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x32_Docs/) | [:octocat: `Android x64 Workspace (Firefox)`](https://github.com/seanpm2001/Android-x64_Workspace_Firefox/) | `🤖️` |
-
-</details>
-
----
-
-#### [💿️ Major project: BlazeOS (Operating System)](#-Major-project--BlazeOS--Operating-System-)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<img alt="BlazeOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlazeOS/Logo/JPEG/BlazeOS_LOGO1.jpeg" width="150" height="150" align="left" style="margin-right: 30px"> **BlazeOS:** _An operating system and service alternative to Amazon FireOS, and Amazon Web Services (AWS)_
-
-<!--
-<img alt="BlazeOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlazeOS/Logo/JPEG/BlazeOS_LOGO1.jpeg" width="256" height="256"/> [:octocat: `BlazeOS project`](https://github.com/seanpm2001/BlazeOS/) - An operating system and service alternative to Amazon FireOS, and Amazon Web Services (AWS)
-!-->
-
-- **🏠️ Home repository:** [:octocat: `BlazeOS`](https://github.com/seanpm2001/BlazeOS/)
-- **🔵️ Project categories:** `Amazon` `AWS alternative` `Amazon alternative` `Operating System` `Framework` `Server hardware`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `Assembly` |
-| 02 | `BibTeX` |
-| 03 | `C` |
-| 04 | `C++` |
-| 05 | `desktop` |
-| 06 | `Groovy` |
-| 07 | `HTML` |
-| 08 | `INI` |
-| 09 | `JSON` |
-| 10 | `Kotlin` |
-| 11 | `Markdown` |
-| 12 | `YAML` |
- 
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `BlazeOS`](https://github.com/seanpm2001/BlazeOS/) | [:octocat: `BlazeOS Docs`](https://github.com/seanpm2001/BlazeOS_Docs/) | [:octocat: `BlazeOS Peak`](https://github.com/seanpm2001/BlazeOS_Peak/) | [:octocat: `BlazeOS Userland`](https://github.com/seanpm2001/BlazeOS_Userland/) | [:octocat: `Silkworm Web Browser`](https://github.com/seanpm2001/Silkworm_web_browser/) | [:octocat: `BWS`](https://github.com/seanpm2001/BWS/) |
-| [:octocat: `Blazed Café`](https://github.com/seanpm2001/Blazed_Cafe/) | [:octocat: `IgniteBook`](https://github.com/seanpm2001/IgniteBook/) | [:octocat: `.mobi Dick`](https://github.com/seanpm2001/Mobi_Dick/) | [:octocat: `BlazeOS bPage`](https://github.com/seanpm2001/BlazeOS_bpage/) | [:octocat: `BlazeOS ePubStation`](https://github.com/seanpm2001/BlazeOS_ePubStation/) | [:octocat: `BlAPK`](https://github.com/seanpm2001/BlAPK/) |
-| [:octocat: `BlazeOS App Store`](https://github.com/seanpm2001/BlazeOS_App_Store/) | [:octocat: `BWS Zamboni`](https://github.com/seanpm2001/BWS_Zamboni/) | [:octocat: `BWS IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/) | [:octocat: `BWS IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/) | [:octocat: `BWS IceCube`](https://github.com/seanpm2001/BWS_IceCube/) | [:octocat: `BWS Icicle`](https://github.com/seanpm2001/BWS_Icicle/) |
-| [:octocat: `BWS Hardware Ice`](https://github.com/seanpm2001/BWS_Hardware_Ice/) | [:octocat: `BWS Hardware`](https://github.com/seanpm2001/BWS_Hardware/) | [:octocat: `BlazeOS Peak Video`](https://github.com/seanpm2001/BlazeOS_Peak_Video/) | `🔥️` | `🔥️` | `🔥️` |
-
-</details>
+A collective of my Web Browser projects.
+
+- **🏠️ Home repository:** [:octocat: `Web Browser Collective`](https://github.com/seanpm2001/Web-Browser-Collective/)
+- **🔵️ Project categories:** `Meadows` `Web browser` `Desktop browser` `Mobile browser` `Bliss Browser`
+- **🪢️ Major projects:** `Bliss Browser`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
 
 ---
 
@@ -3395,6 +3851,31 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 <!-- | `🌐️`  | `🌐️`  | `🌐️`  | `🌐️`  | `🌐️`  | `🌐️` | !-->
 
 </details>
+
+---
+
+To add:
+
+- [ ] Addons
+- [ ] Miscellaneous
+
+_End of web browser collective._
+
+</details>
+
+---
+
+#### [📚️ LIBrary Collective](#-LIBrary-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my software LIBrary projects.
+
+- **🏠️ Home repository:** [:octocat: `LIBrary Collective`](https://github.com/seanpm2001/LIBrary-Collective/)
+- **🔵️ Project categories:** `LIB` `Software LIBrary` `Plugins` `Addons`
+- **🪢️ Major projects:** `Software LIBraries`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
 
 ---
 
@@ -3440,6 +3921,30 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
+To add:
+
+- [ ] Miscellaneous
+
+_End of LIbrary collective._
+
+</details>
+
+---
+
+#### [🗣️ Linguistics Collective](#-Linguistics-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my linguistics software projects.
+
+- **🏠️ Home repository:** [:octocat: `Linguistics Collective`](https://github.com/seanpm2001/Linguistics-Collective/)
+- **🔵️ Project categories:** `Linguistics` `Language` `Accessibility` `Programming` `Web development`
+- **🪢️ Major projects:** `Computing languages` `Post Neo Classical English`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
 #### [💿️ Major project: Computing languages](#-Major-project--Computing-languages)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -3476,6 +3981,32 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 | :octocat: `URLL VSCode`](https://github.com/seanpm2001/URLL-VSCode/) | [:octocat: `URLL Docs`](https://github.com/seanpm2001/URLL_Docs/) | [:octocat: `URLL Specification`](https://github.com/seanpm2001/URLL-Specification/) | [:octocat: `DSergeant VSCode`](https://github.com/seanpm2001/DSergeant-VSCode/) | 
 
 </details>
+
+---
+
+To add:
+
+- [ ] Voice synthesis
+- [ ] PNC English
+- [ ] Other
+
+_End of lingustics collective._
+
+</details>
+
+---
+
+#### [😆️ Comedy Collective](#-Comedy-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my comedic projects.
+
+- **🏠️ Home repository:** [:octocat: `Comedy Collective`](https://github.com/seanpm2001/Comedy-Collective/)
+- **🔵️ Project categories:** `Joke program` `Comedy` `Computer culture`
+- **🪢️ Major projects:** `Joke projects`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
 
 ---
 
@@ -3520,6 +4051,32 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 
 ---
 
+To add:
+
+- [ ] Other
+
+_End of comedy collective._
+
+</details>
+
+---
+
+---
+
+#### [🦄️ Miscellaneous Collective](#-Miscellaneous-Collective)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+A collective of my miscellaneous projects.
+
+- **🏠️ Home repository:** [:octocat: `Miscellaneous Collective`](https://github.com/seanpm2001/Miscellaneous-Collective/)
+- **🔵️ Project categories:** `Miscellaneous` `Misc`
+- **🪢️ Major projects:** `Other projects`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
 #### [💿️ Major project: Other projects](#-Major-project--Other-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -3542,6 +4099,20 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 - [:octocat: `SNU 2D Programming tools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - The most developed programming module for the SNU Website. <!-- Want to see all the modules separately? [This organization has all of them as separate repositories](https://github.com/SNU-Programming-Tools) !-->
 
 </details>
+
+---
+
+To add:
+
+- [ ] Other
+
+_End of miscellaneous collective._
+
+</details>
+
+---
+
+_End of collective listing._
 
 </details>
 
@@ -4164,11 +4735,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `81 (2024, Thursday, March 28th at 04:22 pm PST)`
-- **Line count (including blank lines and compiler line):** `07,179`
-- **Word count:** `043,967`
-- **Character count (with spaces):** `0,305,925 characters (310.702 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,267,335 characters (310.702 kilobytes, due to special character usage)`
+- **File version:** `82 (2024, Friday, March 29th at 04:29 pm PST)`
+- **Line count (including blank lines and compiler line):** `07,807`
+- **Word count:** `047,400`
+- **Character count (with spaces):** `0,334,536 characters (340.008 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,292,514 characters (340.008 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6089,11 +6660,45 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 82 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 82 (2024, Friday, March 29th at 4:29 pm PST)</b></summary>
+
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while only 3 listed changes were made. I gave myself an hour today, but the tasks I took on took much longer. I also no longer fear running out of ideas too early._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Linux platform support` section
+- [x] Updated the `What I'm working on` section
+- - [x] Improved the introduction
+- - [x] Organized projects into 13 collectives
+- - - [x] Added section: `Framework collective`
+- - - [x] Added section: `Core collective`
+- - - [x] Added section: `Security collective`
+- - - [x] Added section: `Productive collective`
+- - - [x] Added section: `Video game collective`
+- - - [x] Added section: `Desktop Environment collective`
+- - - [x] Added section: `Documentation collective`
+- - - [x] Added section: `Operating Systems collective`
+- - - - [x] Added section: `Mega project: BlueberryOS`
+- - - - [x] Added section: `Mega project: MailOS`
+- - - - [x] Added section: `Mega project: LocksmithOS`
+- - - [x] Added section: `Web Browser collective`
+- - - [x] Added section: `LIBrary collective`
+- - - [x] Added section: `Linguistics collective`
+- - - [x] Added section: `Comedy collective`
+- - - [x] Added section: `Miscellaneous collective`
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 82
+- - [x] Added blank entries for versions 163 and 164
 - [ ] No other changes in version 82
 
 </details>
@@ -6980,6 +7585,28 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 163 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 163
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 164 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 164
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
@@ -6990,7 +7617,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 28th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-28th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, March 29th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-March-29th)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -7001,6 +7628,7 @@ _End of file version history_
 - - [Link to remodel section version 5 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md)
 - - [Link to remodel section version 6 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md)
 - - [Link to remodel section version 7 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md)
+- - [Link to remodel section version 8 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md)
 
 </details>
 
