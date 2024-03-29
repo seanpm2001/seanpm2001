@@ -6,7 +6,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 7 - 2024, Thursday, March 28th` |
+| `Beta 8 - 2024, Friday, March 29th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -17,7 +17,29 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 6 days down, as of 2024, Thursday, March 28th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 7 days down, as of 2024, Friday, March 29th)_
+
+<details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
+
+<div align="center">
+
+| Timeline |
+|----------|
+
+| Version | Date | Day # |
+|---------|------|-------|
+| Beta 1 | 2024, Saturday, March 23rd | 01 |
+| Beta 2 | 2024, Saturday, March 23rd | 01 |
+| Beta 3 | 2024, Sunday, March 24th | 02 |
+| Beta 4 | 2024, Monday, March 25th | 03 |
+| Beta 5 | 2024, Tuesday, March 26th | 04 |
+| Beta 6 | 2024, Wednesday, March 27th | 05 |
+| Beta 7 | 2024, Thursday, March 28th | 06 |
+| Beta 8 | 2024, Friday, March 29th | 07 |
+
+</div>
+
+</detailS>
 
 ***
 
@@ -83,9 +105,37 @@ Update information about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 Public Media Gallery
-Major project section: BlueberryOS
-Major project section: LocksmithOS
-Major project section: MailOS
+Model project information
+Updates to Legend
+Collectives listing
+Operating Systems collective
+Video games collective
+Software LIBraries collective
+Communications collective
+Major project: EMAIL 2.0
+Major project: EMAIL -3.0
+Major project: DMail
+Full repository listing WIP
+Nicknames (SEAN9000)
+File history removal notice at V101
+Reference fork style guide in #forks
+Model projects and model project status repository link
+Major project: CranberryOS
+Major project: NUNIX
+Major project: BootDown
+Major project: MetroTechno
+Major project: AquariOS
+Major project: BathhouseOS
+Major project: MCPYE
+Major project: Tetris128
+Major project: LibreFlock
+Major project: Miscellaneous
+Major project: DMAIL
+Major project: uOffice
+Major project: Hospital defender
+Major project: PNC English
+Fix existing mega project section: MEDOS
+Fix existing mega project section: Other projects
 ```
 
 </details>
@@ -207,6 +257,9 @@ Virtual machine info
 Artificial Intelligence projects
 Anime section
 History research + my areas of research
+Major project section: BlueberryOS
+Major project section: LocksmithOS
+Major project section: MailOS
 ```
 
 </details>
