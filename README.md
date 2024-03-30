@@ -529,7 +529,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 8 - 2024, Friday, March 29th` |
+| `Beta 9 - 2024, Saturday, March 30th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -540,25 +540,27 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 7 days down, as of 2024, Friday, March 29th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 8 days down, as of 2024, Saturday, March 30th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
 <div align="center">
 
-| Timeline |
-|----------|
+| 📈️ **Timeline** 📉️ |
+|---------------------|
 
-| Version | Date | Day # |
-|---------|------|-------|
-| Beta 1 | 2024, Saturday, March 23rd | 01 |
-| Beta 2 | 2024, Saturday, March 23rd | 01 |
-| Beta 3 | 2024, Sunday, March 24th | 02 |
-| Beta 4 | 2024, Monday, March 25th | 03 |
-| Beta 5 | 2024, Tuesday, March 26th | 04 |
-| Beta 6 | 2024, Wednesday, March 27th | 05 |
-| Beta 7 | 2024, Thursday, March 28th | 06 |
-| Beta 8 | 2024, Friday, March 29th | 07 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|--------------------|-----------------|------------------|
+| [Beta 1](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
+| [Beta 2](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
+| [Beta 3](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
+| [Beta 4](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md) | 2024, Monday, March 25th | 03 |
+| [Beta 5](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md) | 2024, Tuesday, March 26th | 04 |
+| [Beta 6](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md) | 2024, Wednesday, March 27th | 05 |
+| [Beta 7](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
+| [Beta 8](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
+| [Beta 9](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
+| Beta 10 | Coming soon | 09 |
 
 </div>
 
@@ -624,7 +626,7 @@ Music section
 Certificates
 UnSaaSS project
 Update the file tree, and link to ROOTFILES.base
-Update information about Windows and MacOS support
+Update in/formation about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 Public Media Gallery
@@ -635,15 +637,11 @@ Operating Systems collective
 Video games collective
 Software LIBraries collective
 Communications collective
-Major project: EMAIL 2.0
-Major project: EMAIL -3.0
-Major project: DMail
 Full repository listing WIP
 Nicknames (SEAN9000)
 File history removal notice at V101
 Reference fork style guide in #forks
 Model projects and model project status repository link
-Major project: CranberryOS
 Major project: NUNIX
 Major project: BootDown
 Major project: MetroTechno
@@ -651,12 +649,9 @@ Major project: AquariOS
 Major project: BathhouseOS
 Major project: MCPYE
 Major project: Tetris128
-Major project: LibreFlock
 Major project: Miscellaneous
-Major project: DMAIL
-Major project: uOffice
-Major project: Hospital defender
 Major project: PNC English
+Major project: PDSNet++
 Fix existing mega project section: MEDOS
 Fix existing mega project section: Other projects
 ```
@@ -783,6 +778,13 @@ History research + my areas of research
 Major project section: BlueberryOS
 Major project section: LocksmithOS
 Major project section: MailOS
+Major project: EMAIL 2.0
+Major project: EMAIL -3.0
+Major project: DMail
+Major project: CranberryOS
+Major project: uOffice
+Major project: Hospital defender
+Major project: LibreFlock
 ```
 
 </details>
@@ -2899,17 +2901,17 @@ My major projects are sorted into collectives. As of 2024, Friday, March 29th (t
 
 - [ ] Framework collective
 - [ ] Core collective
-- [ ] Security
-- [ ] Productive
-- [ ] Video game
-- [ ] Desktop Environment
-- [ ] Documentation
-- [ ] Operating Systems
-- [ ] Web Browser
-- [ ] LIBrary
-- [ ] Linguistics
-- [ ] Comedy
-- [ ] Miscellaneous
+- [ ] Security collective
+- [ ] Productive collective
+- [ ] Video game collective
+- [ ] Desktop Environment collective
+- [ ] Documentation collective
+- [ ] Operating Systems collective
+- [ ] Web Browser collective
+- [ ] LIBrary collective
+- [ ] Linguistics collective
+- [ ] Comedy collective
+- [ ] Miscellaneous collective
 
 Collectives are divided down by major projects, which are then divided down by project groups, then by repositories.
 
@@ -2925,7 +2927,7 @@ A collective of my framework projects.
 
 - **🏠️ Home repository:** [:octocat: `Framework Collective`](https://github.com/seanpm2001/Framework-Collective/)
 - **🔵️ Project categories:** `Frameworks` `Web development` `Google alternative` `Android alternative`
-- **🪢️ Major projects:** `SNU` `Candroid framework` `AI2001`
+- **🪢️ Major projects:** `SNU` `Candroid framework` `AI2001` `EMAIL 2` `EMAIL -3`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
 - **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
 
@@ -2966,7 +2968,7 @@ A collective of my framework projects.
 | [SNU RSS Reader](https://github.com/seanpm2001/SNU_RSS/) | [SNU Internet Front](https://github.com/seanpm2001/SNU_InternetFront/) | [SNU Sound Settings](https://github.com/seanpm2001/SNU_SoundSettings/) | [SNU StartAScript](https://github.com/seanpm2001/SNU_StartAScript/) | [SNU Ancestry](https://github.com/seanpm2001/SNU_Ancestry/) | [SNU Family Tree](https://github.com/seanpm2001/SNU_FamilyTree/) | [SNU Porn](https://github.com7/seanpm2001/SNU_2D_Porn/) | [SNU Erotica](https://github.com/seanpm2001/SNU_2D_Erotica/) |
 | [SNU CloudDrive](https://github.com/seanpm2001/SNU_2D_CloudDrive/) | [SNU Keyboard](https://github.com/seanpm2001/SNU_Keyboard/) | [SNU Sports](https://github.com/seanpm2001/SNU_2D_Sports/) | [SNU eSports](https://github.com/seanpm2001/SNU_2D_eSports/) | [SNU DeepSwap](https://github.com/seanpm2001/SNU_DeepSwap/) | [SNU Urban Dictionary mode](https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode/) | [SNU TextEngine](https://github.com/seanpm2001/SNU_TextEngine/) | 99+ projects not listed |
 
-</details>
+</details> <!-- End of major project: SNU !-->
 
 ---
 
@@ -3004,7 +3006,7 @@ A collective of my framework projects.
 | [:octocat: `Candroid Mail`](https://github.com/seanpm2001/Candroid-Mail/) | [:octocat: `Candroid Notepad`](https://github.com/seanpm2001/Candroid-Notepad/) | [:octocat: `Candroid Phone`](https://github.com/seanpm2001/Candroid-Phone/) | [:octocat: `Candroid Photo Viewer`](https://github.com/seanpm2001/Candroid-Photo-Viewer/)O | [:octocat: `Candroid Rotate`](https://github.com/seanpm2001/Candroid-Rotate/) | [:octocat: `Candroid Settings`](https://github.com/seanpm2001/Candroid-Settings/) |
 | [:octocat: `Candroid Tube`](https://github.com/seanpm2001/Candroid-Tube/) | [:octocat: `Candroid TV`](https://github.com/seanpm2001/Candroid-TV/) | [:octocat: `Candroid Video`](https://github.com/seanpm2001/Candroid-Video/) | [:octocat: `Candroid Voicemail`](https://github.com/seanpm2001/Candroid-Voicemail/) | [:octocat: `Candroid Wallpaper`](https://github.com/seanpm2001/Candroid-Wallpaper/) | `🤖️` |
 
-</details>
+</details> <!-- End of major project: Candroid framework !-->
 
 ---
 
@@ -3042,7 +3044,88 @@ A collective of my framework projects.
 | [:octocat: `AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `AI2001 Docs`](https://github.com/seanpm2001/AI2001_Docs/) | [:octocat: `AI2001 Category: Documents`](https://github.com/seanpm2001/AI2001_Category-Documents/) | [:octocat: `AI2001 Category: Source Code`](https://github.com/seanpm2001/AI2001_Category-Source_code/) | [:octocat: `AI2001 Category: Images`](https://github.com/seanpm2001/AI2001_Category-Images/) | [:octocat: `AI2001 Category: Videos`](https://github.com/seanpm2001/AI2001_Category-Videos/) |
 | [:octocat: `AI2001 Category: Audio`](https://github.com/seanpm2001/AI2001_Category-Audio/) | [:octocat: `AI2001 Category: Linguistics`](https://github.com/seanpm2001/AI2001_Category-Linguistics/) | [:octocat: `AI2001 Category: Meta (Coming soon)`](https://github.com/seanpm2001/AI2001_Category-Meta/) | [:octocat: `AI2001 Category: Documents, Subcategory: Wiki`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Wikis/) | [:octocat: `AI2001 Category: Documents, Subcategory: Books`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Books/) | [:octocat: `AI2001 Category: Documents, Subcategory: Articles`](https://github.com/seanpm2001/AI2001_Category-Documents-SC-Articles/)
 
-</details>
+</details> <!-- End of major project: AI2001 !-->
+
+---
+
+#### [💿️ Major project: EMAIL 2](#-Major-project--EMAIL-2)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="EMAIL 2 placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/EMAIL-2/Logo/Placeholder/MailBox-icon.png" width="150" height="150" align="left" style="margin-right: 30px"> **EMAIL 2:** _A set of standards for the next generation of EMAIL. An EMAIL revolution!_
+
+<!--
+<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="256" height="256"/> [:octocat: `Candroid project`](https://github.com/seanpm2001/Candroid/) - A framework for DeGoogling and alternating from the Android operating system.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `EMAIL_2.0`](https://github.com/seanpm2001/EMAIL_2.0/)
+- **🔵️ Project categories:** `EMAIL` `Web2` `EMAIL 2` `Specification` `Internet` `Mail`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `JavaScript` |
+| 02 | `Markdown` |
+| 03 | `Bikeshed` |
+| 04 | `WebAssembly` |
+| 05 | `GLSL` |
+| 06 | `YAML` |
+| 07 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `EMAIL 2.0`](https://github.com/seanpm2001/EMAIL_2.0/) | [:octocat: `EMAIL 2.0 Stamps`](https://github.com/seanpm2001/EMAIL_2.0_Stamps/) | [:octocat: `EMAIL 2.0 EmailFX`](https://github.com/seanpm2001/EMAIL_2.0_EmailFX/) | [:octocat: `EMAIL 2.0 FancyInbox`](https://github.com/seanpm2001/EMAIL_2.0_FancyInbox/) | [:octocat: `VRMail`](https://github.com/seanpm2001/EMAIL_2.0_VRMail/) | [:octocat: `EMAIL 2.0 TackleBox`](https://github.com/seanpm2001/EMAIL_2.0_TackleBox/) |
+| [:octocat: `EMAIL 2.0 Docs`])https://github.com/seanpm2001/EMAIL_2.0_Docs/) | [:octocat: `EMAIL 2.0 Stamps Docs`])https://github.com/seanpm2001/EMAIL_2.0_Stamps_Docs/) | [:octocat: `EMAIL 2.0 EmailFX Docs`])https://github.com/seanpm2001/EMAIL_2.0_EmailFX_Docs/) | [:octocat: `EMAIL 2.0 FancyInbox Docs`])https://github.com/seanpm2001/EMAIL_2.0_FancyInbox_Docs/) | [:octocat: `VRMail Docs`])https://github.com/seanpm2001/EMAIL_2.0_VRMail_Docs/) | [:octocat: `EMAIL 2.0 TackleBox Docs`])https://github.com/seanpm2001/EMAIL_2.0_TackleBox_Docs/) |
+| [:octocat: `EMAIL 2.0 SpamCan`](https://github.com/seanpm2001/EMAIL_2.0_SpamCan/) | [:octocat: `EMAIL 2.0 PostOffice`](https://github.com/seanpm2001/EMAIL_2.0_PostOffice/) | [:octocat: `EMAIL 2.0 VMail`](https://github.com/seanpm2001/EMAIL_2.0_VMail/) | [:octocat: `EMAIL 2.0 StampCollection`](https://github.com/seanpm2001/EMAIL_2.0_StampCollection/) | [:octocat: `EMAIL 2.0 STMP file`](https://github.com/seanpm2001/EMAIL_2.0_STMP_File/) | [:octocat: `EMAIL 2.0 MailManager`](https://github.com/seanpm2001/EMAIL_2.0_MailManager/) |
+| [:octocat: `EMAIL 2.0 SpamCan Docs`])https://github.com/seanpm2001/EMAIL_2.0_SpamCan_Docs/) | [:octocat: `EMAIL 2.0 PostOffice Docs`])https://github.com/seanpm2001/EMAIL_2.0_PostOffice_Docs/) | [:octocat: `EMAIL 2.0 VMail Docs`])https://github.com/seanpm2001/EMAIL_2.0_VMail_Docs/) | [:octocat: `EMAIL 2.0 StampCollection Docs`])https://github.com/seanpm2001/EMAIL_2.0_StampCollection_Docs/) | [:octocat: `EMAIL 2.0 STMP file Docs`])https://github.com/seanpm2001/EMAIL_2.0_STMP_File_Docs/) | [:octocat: `EMAIL 2.0 MailManager Docs`])https://github.com/seanpm2001/EMAIL_2.0_MailManager_Docs/) |
+| [:octocat: `EMAIL 2.0 PerformanceTest`](https://github.com/seanpm2001/EMAIL_2.0_PerformanceTest/) | [:octocat: `EMAIL 2 Tester`](https://github.com/seanpm2001/EMAIL2_Tester/) | [:octocat: `EMAIL 2 Version Control System`](https://github.com/seanpm2001/EMAIL_2_VersionControlSystem/) | [:octocat: `EMAIL 2 Automation Tools`](https://github.com/seanpm2001/EMAIL_2_AutomationTools/) | [:octocat: `EMAIL 2 Blackmail`](https://github.com/seanpm2001/EMAIL_2_Blackmail/) | [:octocat: `EMAIL 2 Self Hosting`](https://github.com/seanpm2001/EMAIL_2_SelfHosting/) |
+| [:octocat: `EMAIL 2.0 PerformanceTest Docs`])https://github.com/seanpm2001/EMAIL_2.0_PerformanceTest_Docs/) | [:octocat: `EMAIL 2 Tester Docs`])https://github.com/seanpm2001/EMAIL2_Tester_Docs/) | [:octocat: `EMAIL 2 Version Control System Docs`])https://github.com/seanpm2001/EMAIL_2_VersionControlSystem_Docs/) | [:octocat: `EMAIL 2 Automation Tools Docs`])https://github.com/seanpm2001/EMAIL_2_AutomationTools_Docs/) | [:octocat: `EMAIL 2 Blackmail Docs`])https://github.com/seanpm2001/EMAIL_2_Blackmail_Docs/) | [:octocat: `EMAIL 2 Self Hosting Docs`])https://github.com/seanpm2001/EMAIL_2_SelfHosting_Docs/) |
+| 📧️ | 📧️ | 📧️ | 📧️ | 📧️ | 📧️ |
+
+</details> <!-- End of major project: EMAIL 2 !-->
+
+---
+
+#### [💿️ Major project: EMAIL -3](#-Major-project--EMAIL--3)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="EMAIL -3 placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/EMAIL_-3/Logo/Placeholder/MailBox-icon.png" width="150" height="150" align="left" style="margin-right: 30px"> **EMAIL -3:** _An optional addon set to EMAIL 2 for Blockchain and Web -3.0 functionalities._
+
+<!--
+<img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="256" height="256"/> [:octocat: `Candroid project`](https://github.com/seanpm2001/Candroid/) - A framework for DeGoogling and alternating from the Android operating system.
+!-->
+
+- **🏠️ Home repository:** [:octocat: `EMAIL -3.0`](https://github.com/seanpm2001/EMAIL_-3.0/)
+- **🔵️ Project categories:** `EMAIL` `Web -3` `EMAIL -3` `Specification` `Internet` `Mail` `Blockchain`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `JavaScript` |
+| 02 | `Markdown` |
+| 03 | `Bikeshed` |
+| 04 | `WebAssembly` |
+| 05 | `GLSL` |
+| 06 | `YAML` |
+| 07 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `EMAIL -3.0`](https://github.com/seanpm2001/EMAIL_-3.0/) | [:octocat: `EMAIL -3.0 WG`](https://github.com/seanpm2001/EMAIL_-3.0_WG/) | [:octocat: `EMAIL -3.0 Stamps Blockchain`](https://github.com/seanpm2001/EMAIL_-3.0_Stamps_Blockchain/) | [:octocat: `EMAIL -3.0 EmailFX Blockchain`](https://github.com/seanpm2001/EMAIL_-3.0_EmailFX_Blockchain/) | [:octocat: `EMAIL -3 Tester`](https://github.com/seanpm2001/EMAIL-3_Tester/) | [:octocat: `EMAIL -3.0 WG: Blockchain`](https://github.com/seanpm2001/EMAIL_-3.0_WG_Blockchain/) |
+| [:octocat: `EMAIL -3.0 WG: Standardization`](https://github.com/seanpm2001/EMAIL_-3.0_WG_Standardization/) | [:octocat: `EMAIL -3.0 Docs`](https://github.com/seanpm2001/EMAIL_-3.0_Docs/) | [:octocat: `EMAIL -3.0 Stamps Blockchain Docs`](https://github.com/seanpm2001/EMAIL_-3.0_Stamps_Blockchain_Docs/) | [:octocat: `EMAIL -3.0 EmailFX Blockchain Docs`](https://github.com/seanpm2001/EMAIL_-3.0_EmailFX_Blockchain_Docs/) | ✉️ | ✉️ |
+
+</details> <!-- End of major project: EMAIL -3 !-->
 
 ---
 
@@ -3052,7 +3135,7 @@ To add:
 
 _End of framework collective._
 
-</details>
+</details> <!-- End of framework collective !-->
 
 ---
 
@@ -3117,7 +3200,7 @@ A collective of my core-related projects.
 | [:octocat: `Daily articles`](https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/) | [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB/) | [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) | [:octocat: `Daily Desktop Screenshots`](https://github.com/seanpm2001/Daily-desktop-screenshots/) | [:octocat: `Video directory`](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/) | [:octocat: `Images:GitHub`](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub/) |
 | [:octocat: `Images:GitHub (2022)`](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2022/) | [:octocat: `Images:Journaling development`](https://github.com/seanpm20017/SeansLifeArchive_Images_Journaling-development/) | [:octocat: `Seanpm2001 GitHub profile repository`](https://github.com/seanpm2001/seanpm2001/) | [:octocat: `Khan Academy data`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/) | Over 300 entries not yet listed | `📖️` |
 
-</details>
+</details> <!-- End of major project: SeansLifeArchive !-->
 
 ---
 
@@ -3128,7 +3211,7 @@ To add:
 
 _End of core collective._
 
-</details>
+</details> <!-- End of core collective !-->
 
 ---
 
@@ -3181,18 +3264,52 @@ Linux_Defender_For_Raspberry_Pi/) | [:octocat: `Linux Defender for Ubuntu`](http
 | [:octocat: `Linux Defender for Debian`](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) | [:octocat: `Linux Defender for ReplicantOS`](https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS/) | [:octocat: `Linux Defender for Fedora Linux`](https://github.com/seanpm2001/Linux_Defender_For_Fedora-Linux/) | [:octocat: `Linux Defender for Android`](https://github.com/seanpm2001/Linux_Defender_For_Android/) | [:octocat: `Linux Defender for RemixOS`](https://github.com/seanpm2001/Linux_Defender_For_RemixOS/) | [:octocat: `Linux Defender for Alpine Linux`](https://github.com/seanpm2001/Linux_Defender_For_Alpine_Linux/) |
 <!-- | `🐧️` | `🐧️` | `🐧️` | `🐧️` | `🐧️` | `🐧️` | !-->
 
-</details>
+</details>  <!-- End of major project: Linux Defender !-->
+
+---
+
+#### [💿️ Major project: Hospital Defender](#-Major-project--Hospital-Defender)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="Hosital Defender logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Hospital-Defender/Logo/SwissFlagJButton.png" width="150" height="150" align="left" style="margin-right: 30px"> **Hospital Defender** _Security tools and software optimized for hospitals._
+
+- **🏠️ Home repository:** [:octocat: `Hospital Defender`](https://github.com/seanpm2001/Hospital_Defender/)
+- **🔵️ Project categories:** `Medical` `Security` `Anti-virus` `Anti-malware` `Hospital` `Health`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `Python` |
+| 03 | `Shell` |
+| 04 | `Assembly` |
+| 05 | `Markdown` |
+| 06 | `HTML` |
+| 07 | `YAML` |
+| 08 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Hospital Defender`](https://github.com/seanpm2001/Hospital_Defender/) | [:octocat: `TrueEEG`](https://github.com/seanpm2001/TrueEEG/) | [:octocat: `HT Messenger`](https://github.com/seanpm2001/HT-Messenger/) | [:octocat: `RNAssistant`](https://github.com/seanpm2001/RNAssistant/) | [:octocat: `Hospital Defender Docs`](https://github.com/seanpm2001/Hospital_Defender_Docs/) | 🇨🇭️ |
+
+</details> <!-- End of major project: Hospital Defender !-->
 
 ---
 
 To add:
 
-- [ ] Hospital defender
+- [x] Hospital defender
 - [ ] Other
 
 _End of security collective._
 
-</details>
+</details> <!-- End of security collective !-->
 
 ---
 
@@ -3250,18 +3367,95 @@ A collective of my productivity software projects.
 | [:octocat: `Subtitle Tool`](https://github.com/seanpm2001/Anime_Studio_SubtitleTool/) | [:octocat: `Game Studio`](https://github.com/seanpm2001/Anime_Studio_Game-Studio/) | [:octocat: `*.manga File Format`](https://github.com/seanpm2001/Anime_Studio_Manga-File-Format/) | [:octocat: `Woodblock printer`](https://github.com/seanpm2001/Anime_Studio_Woodblock_Printer/) | [:octocat: `Dictionary`](https://github.com/seanpm2001/Anime_Studio_Dictionary/) | [:octocat: `Encyclopedia`](https://github.com/seanpm2001/Anime_Studio_Encyclopedia/) |
 | [:octocat: `Glossary`](https://github.com/seanpm2001/Anime_Studio_Glossary/) | [:octocat: `Wiki`](https://github.com/seanpm2001/Anime_Studio_Wiki/) | `👁️` | `👁️` | `👁️` | `👁️` |
 
-</details>
+</details> <!-- End of major project; Anime Studio !-->
+
+---
+
+#### [💿️ Major project: DMAIL/DSuite](#-Major-project--DMAIL-DSuite)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="DMAIL Wordmark logo failed to load. Click/tap here to attempt to view it" src="/Graphics/DMAIL/Logo/Wordmark/DMailWordmark.png" width="150" height="150" align="left" style="margin-right: 30px"> **DMAIL/DSuite** _An EMAIL client pertaining to the @seanpm2001 philosophy. Stands for Digital MAIL. Also part of a productivity suite known as DSuite_
+
+- **🏠️ Home repository:** [:octocat: `DSuite`](https://github.com/seanpm2001/DSuite/)
+- **🔵️ Project categories:** `EMAIL` `DMAIL` `EMAIL2` `Mail` `Client` `DSuite` `Calendar`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `D` |
+| 02 | `Red` |
+| 03 | `Markdown` |
+| 04 | `HTML` |
+| 05 | `CSS` |
+| 06 | `YAML` |
+| 07 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `SNU DMailClient`](https://github.com/seanpm2001/SNU_2D_DMailClient/) | [:octocat: `DMail`](https://github.com/seanpm2001/DMail/) | [:octocat: `DCalendar`](https://github.com/seanpm2001/DCalendar/) | [:octocat: `DMAIL TackleBox`](https://github.com/seanpm2001/DMail_Tacklebox/) | [:octocat: `Tacklebox Email Component`](https://github.com/seanpm2001/TackleBox_Email_Component/) | [:octocat: `DMAIL SpamBox`](https://github.com/seanpm2001/DMail_SpamBox/) |
+| [:octocat: `DMAIL Migrator`](https://github.com/seanpm2001/DMail_Migrator/) | [:octocat: `DSuite`](https://github.com/seanpm2001/DSuite/) | [:octocat: `DMAIL Stamps`](https://github.com/seanpm2001/DMAIL_Stamps/) | [:octocat: `DMAIL Stamps Docs`](https://github.com/seanpm2001/DMAIL_Stamps_Docs/) | [:octocat: `DMAIL Settings`](https://github.com/seanpm2001/DMAIL_Settings/) | [:octocat: `DMAIL EmailFX`](https://github.com/seanpm2001/DMAIL_EmailFX/) |
+| [:octocat: `DMAIL Docs`](https://github.com/seanpm2001/DMail_Docs/) | [:octocat: `DMAIL SpamCan Docs`](https://github.com/seanpm2001/DMAIL_SpamCan_Docs/) | [:octocat: `DMAIL PostOffice`](https://github.com/seanpm2001/DMAIL_PostOffice/) | [:octocat: `DMAIL PostOffice Docs`](https://github.com/seanpm2001/DMAIL_PostOffice_Docs/) | [:octocat: `DMAIL VMail`](https://github.com/seanpm2001/DMAIL_VMail/) | [:octocat `DMAIL MailMapper Docs`](https://github.com/seanpm2001/DMail_MailMapper_Docs/) |
+| [:octocat: `DMAIL FancyInbox Docs`](https://github.com/seanpm2001/DMAIL_FancyInbox_Docs/) | [:octocat: `DMAIL VRMail`](https://github.com/seanpm2001/DMAIL_VRMail/) | [:octocat: `DMAIL VRMail Docs`](https://github.com/seanpm2001/DMAIL_VRMail_Docs/) | [:octocat: `DMAIL Tacklebox Docs`](https://github.com/seanpm2001/DMAIL_TackleBox_Docs/) | [:octocat: `DMAIL MailMapper`](https://github.com/seanpm2001/DMail_MailMapper/) | [:octocat: `DMAIL SpamCan`](https://github.com/seanpm2001/DMAIL_SpamCan/) |
+| [:octocat: `DMAIL VMail Docs`](https://github.com/seanpm2001/DMAIL_VMail_Docs/) | [:octocat: `DMAIL StampCollection`](https://github.com/seanpm2001/DMAIL_StampCollection/) | [:octocat: `DMAIL MailManager Docs`](https://github.com/seanpm2001/DMAIL_MailManager_Docs/) | [:octocat: `DMAIL StampCollection Docs`](https://github.com/seanpm2001/DMAIL_StampCollection_Docs/) | [:octocat: `DMAIL MailManager`](https://github.com/seanpm2001/DMAIL_MailManager/) | [:octocat: `DMAIL Version Control System`](https://github.com/seanpm2001/DMAIL_VersionControlSystem/) |
+| [:octocat: `DMAIL Version Control System Docs`](https://github.com/seanpm2001/DMAIL_VersionControlSystem_Docs/) | [:octocat: `DMAIL AutomationTools`](https://github.com/seanpm2001/DMAIL_AutomationTools/) | [:octocat: `DMAIL AutomationTools Docs`](https://github.com/seanpm2001/DMAIL_AutomationTools_Docs/) | [:octocat: `DMAIL Blackmail`](https://github.com/seanpm2001/DMAIL_Blackmail/) | [:octocat: `DMAIL Blackmail Docs`](https://github.com/seanpm2001/DMAIL_Blackmail_Docs/) | [:octocat: `DMAIL Self Host`](https://github.com/seanpm2001/DMAIL_SelfHost/) |
+| [:octocat: `DMAIL SelfHost Docs`](https://github.com/seanpm2001/DMAIL_SelfHost_Docs/) | [:octocat: `DMAIL SelfHosting`](https://github.com/seanpm2001/DMAIL_SelfHosting/) | [:octocat: `DMAIL SelfHosting Docs`](https://github.com/seanpm2001/DMAIL_SelfHosting_Docs/) | [:octocat: `DMAIL FancyInbox`](https://github.com/seanpm2001/DMAIL_FancyInbox/) | [:octocat: `DMAIL MailEffects`](https://github.com/seanpm2001/DMAIL_MailEffects/) | [:octocat: `DMAIL MailEffects Docs`](https://github.com/seanpm2001/DMAIL_MailEffects_Docs/) |
+| 🇩 | 🇩 | 🇩 | 🇩 | 🇩 | 🇩 |
+
+</details> <!-- End of major project: DMAIL/DSuite !-->
+
+---
+
+#### [💿️ Major project: uOffice/uSuite](#-Major-project--uOffice-uSuite)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="uOffice placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/uOffice/Logo/Placeholder/OpenOfficeIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **uOffice** _An office suite that aims to push the limits of computing._
+
+- **🏠️ Home repository:** [:octocat: `uOffice`](https://github.com/seanpm2001/uOffice/)
+- **🔵️ Project categories:** `Productivity` `Rich Text Editor` `Document handler` `Calculator` `Suite` `Password Generator` `Compass` `Tools`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Python` |
+| 02 | `Markdown` |
+| 03 | `Diff` |
+| 04 | `HTML` |
+| 05 | `Java` |
+| 06 | `VBScript` |
+| 07 | `Haskell` |
+| 08 | `YAML` |
+| 09 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `uOffice`](https://github.com/seanpm2001/uOffice/) | [:octocat: `uOffice Docs`](https://github.com/seanpm2001/uOffice_Docs/) | [:octocat: `uOffice LIBrary DVCS`](https://github.com/seanpm2001/uOffice_LIBrary_DVCS/) | [:octocat: `uOffice Spellcheck`](https://github.com/seanpm2001/uOffice_SpellCheck/) | [:octocat: `uOffice Joke Programs: PieMan`](https://github.com/seanpm2001/uOffice_JokePrograms_PieMan/) | [:octocat: `UCALC`](https://github.com/seanpm2001/UCALC/) |
+| [:octocat: `UCALC Docs`](https://github.com/seanpm2001/UCALC_Docs/) | [:octocat: `UltraCompass`](https://github.com/seanpm2001/UltraCompass/) | [:octocat: `Password Generator Ultimate`](https://github.com/seanpm2001/Password_Generator_Ultimate/) | [:octocat: `Password Generator Ultimate Docs`](https://github.com/seanpm2001/Password_Generator_Ultimate_Docs/) | 🏢️ | 🏢️ |
+
+</details> <!-- End of major project: uOffice/uSuite !-->
 
 ---
 
 To add:
 
-- [ ] DMAIL
-- [ ] uOffice
+- [x] DMAIL
+- [x] uOffice
+- [ ] Other
 
 _End of productive collective._
 
-</details>
+</details> <!-- End of productive collective !-->
 
 ---
 
@@ -3304,20 +3498,121 @@ A collective of my video game projects.
 | [:octocat: `Ukraine History Simulator`](https://github.com/seanpm2001/Ukraine-History-Simulator/) | [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/) | [:octocat: `UHS DatasSets: Soundtrack: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine/) | [:octocat: `UHS Datasets: Oblasts: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine/) | [:octocat: `UHS DataSets: Raions: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine/) | [:octocat: UHS Datasets: Hromadas: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine/) |
 | [:octocat: `UHS Datasets: Heraldry: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Vexillology: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine/) | [:octocat: `UHS Datasets: Leaders: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine/) | [:octocat: `UHS Datasets: Generals: Ukraine`](https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine/) | `🇺🇦️` | `🇺🇦️` |
 
-</details>
+</details> <!-- End of major project: Ukraine History Simulator !-->
 
 ---
+
+#### [💿️ Major project: LibreFlock](#-Major-project--LibreFlock)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/) | [:octocat: `LibreFlock Classic`](https://github.com/seanpm2001/LibreFlock_Classic/) | [:octocat: `LibreFlock Docs`](https://github.com/seanpm2001/LibreFlock_Docs/) | [:octocat: `LibreFlock Space`](https://github.com/seanpm2001/LibreFlock_Space/) | [:octocat: `LibreFlock Brazil`](https://github.com/seanpm2001/LibreFlock_Brazil/) | [:octocat: `LibreFlock Seasonal`](https://github.com/seanpm2001/LibreFlock_Seasonal/) |
+| [:octocat: `LibreFlock Community`](https://github.com/seanpm2001/LibreFlock_Community/) | 🪶️ | 🪶️ | 🪶️ | 🪶️ | 🪶️ |
+
+</details> <!-- End of major project: LibreFlock !-->
+
+---
+
+#### [💿️ Major project: MCPYE](#-Major-project--MCPYE)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: MCPYE !-->
+
+---
+
+#### [💿️ Major project: Tetris128](#-Major-project--Tetris128)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: Tetris128 !-->
+
+---
+
 
 To add:
 
 - [ ] MCPYE
 - [ ] Tetris128
-- [ ] LibreFlock
+- [x] LibreFlock
 - [ ] Miscellaneous
 
 _End of video game collective._
 
-</details>
+</details> <!-- End of video game collective !-->
 
 ---
 
@@ -3360,7 +3655,7 @@ A collective of my Desktop Environment (DE) projects.
 |---|---|---|---|---|---|
 | [:octocat: `Skeuwie`](https://github.com/seanpm2001/Skeuwie/) | [:octocat: `SDE`](https://github.com/seanpm2001/SDE/) | [:octocat: `iCandy`](https://github.com/seanpm2001/iCandy/) | [:octocat: `Coloress`](https://github.com/seanpm2001/Coloress/) | [:octocat: `SDE Merry`](https://github.com/seanpm2001/SDE_Merry/) | [:octocat: `Slick LM`](https://github.com/seanpm2001/Slick-LM/) |
 
-</details>
+</details> <!-- End of major projects: SDE !-->
 
 ---
 
@@ -3370,7 +3665,7 @@ To add:
 
 _End of desktop environment collective._
 
-</details>
+</details> <!-- End of desktop environment collective !-->
 
 ---
 
@@ -3414,7 +3709,7 @@ A collective of my majority documentation projects.
 | [:octocat: `DeGoogle-your-Life`](https://github.com/seanpm2001/DeGoogle-your-Life/) | [:octocat: `It's time to cut WideVine DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) | [:octocat: `DeGoogle your Life Full Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue/) | [:octocat: `DeGoogle your Life Current Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue/) | :octocat: [`DeGoogle your Life Graveyard Catalogue`](https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue/) | [:octocat: `DeGoogled Android Phone VM Research`](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/) |
 | [:octocat: `Why you should stop using Google Chrome`](https://github.com/seanpm2001/Why-you-should-stop-using-Chrome/) | [:octocat: `Google Performance Issues`](https://github.com/seanpm2001/Google-performance-issues/) | [:octocat: `Google is a Monopoly`](https://github.com/seanpm2001/Google-is-a-monopoly/) | [:octocat: `Alternating from YouTube`](https://github.com/seanpm2001/Alternating-from-YouTube/) | [:octocat: `Stop Googling: Why you should stop using Google Search`](https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search/) | [:octocat: `DeGoogle Ranking Scale`](https://github.com/seanpm2001/DeGoogle-Ranking-Scale/) |
 
-</details>
+</details> <!-- End of major project: DeGoogle your Life !-->
 
 ---
 
@@ -3446,7 +3741,7 @@ A collective of my majority documentation projects.
 | [:octocat: `Learn`](https://github.com/seanpm2001/Learn/) | [:octocat: `Learn Python`](https://github.com/seanpm2001/Learn-Python/) | [:octocat: `Learn HTML`](https://github.com/seanpm2001/Learn-HTML/) | [:octocat: `Learn Java`](https://github.com/seanpm2001/Learn-Java/) | [:octocat: `Learn C`](https://github.com/seanpm2001/Learn-C/) |
 | [:octocat: `Learn Markdown`](https://github.com/seanpm2001/Learn-Markdown/) | [:octocat: `Learn Vala`](https://github.com/seanpm2001/Learn-Vala/) | [:octocat: `Learn Shell`](https://github.com/seanpm2001/Learn-Shell/) | [:octocat: `Learn R`](https://github.com/seanpm2001/Learn-R/) | [:octocat: `Learn JavaScript`](https://github.com/seanpm2001/Learn-JavaScript/) | [:octocat: `Learn D`](https://github.com/seanpm2001/Learn-D/) |
 
-</details>
+</details> <!-- End of major project: Learn !-->
 
 ---
 
@@ -3456,7 +3751,7 @@ To add:
 
 _End of documentation collective._
 
-</details>
+</details> <!-- End of documentation collective !-->
 
 ---
 
@@ -3506,7 +3801,7 @@ A collective of my Operating System projects.
 | [:octocat: `Android x32 project`](https://github.com/seanpm2001/Android-x32/) | [:octocat: `Android x64 project`](https://github.com/seanpm2001/Android-x64/) | [:octocat: `Android x128 project`](https://github.com/seanpm2001/Android-x128/) | [:octocat: `Android x64 Android 5.0 Heavy Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_Heavy_Edition/) | [:octocat: `Android x64 Android 5.0 Vanilla Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition/) | [:octocat: `Android x64 Android 5.0 DeGoogled Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition/) |
 | [:octocat: `Android x64 Android 5.0 LiveCD Edition`](https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition/) | [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/) | [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/) | [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x32_Docs/) | [:octocat: `Android x64 Workspace (Firefox)`](https://github.com/seanpm2001/Android-x64_Workspace_Firefox/) | `🤖️` |
 
-</details>
+</details> <!-- End of major project: Android x32x64x128 !-->
 
 ---
 
@@ -3551,7 +3846,7 @@ A collective of my Operating System projects.
 | [:octocat: `BlazeOS App Store`](https://github.com/seanpm2001/BlazeOS_App_Store/) | [:octocat: `BWS Zamboni`](https://github.com/seanpm2001/BWS_Zamboni/) | [:octocat: `BWS IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/) | [:octocat: `BWS IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/) | [:octocat: `BWS IceCube`](https://github.com/seanpm2001/BWS_IceCube/) | [:octocat: `BWS Icicle`](https://github.com/seanpm2001/BWS_Icicle/) |
 | [:octocat: `BWS Hardware Ice`](https://github.com/seanpm2001/BWS_Hardware_Ice/) | [:octocat: `BWS Hardware`](https://github.com/seanpm2001/BWS_Hardware/) | [:octocat: `BlazeOS Peak Video`](https://github.com/seanpm2001/BlazeOS_Peak_Video/) | `🔥️` | `🔥️` | `🔥️` |
 
-</details>
+</details> <!-- End of major project: BlazeOS !-->
 
 ---
 
@@ -3593,10 +3888,10 @@ A collective of my Operating System projects.
 | [:octocat: `BlueberryOS Apps: Contacts`](https://github.com/seanpm2001/BlueberryOS_Apps_Contacts/) | [:octocat: `BlueberryOS Apps: Options`](https://github.com/seanpm2001/BlueberryOS_Apps_Options/) | [:octocat: `BlueberryOS Apps: Messages`](https://github.com/seanpm2001/BlueberryOS_Apps_Messages/) | [:octocat: `BlueberryOS Apps: Maps`](https://github.com/seanpm2001/BlueberryOS_Apps_Maps/) | [:octocat: `BlueberryOS Apps: Visual Voicemail`](https://github.com/seanpm2001/BlueberryOS_Apps_Visual-Voicemai/) | [:octocat: `BlueberryOS Apps: Browser`](https://github.com/seanpm2001/BlueberryOS_Apps_Browser/) |
 | [:octocat: `BlueberryOS Apps: Contacts Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Contacts_Docs/) | [:octocat: `BlueberryOS Apps: Options Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Options_Docs/) | [:octocat: `BlueberryOS Apps: Messages Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Messages_Docs/) | [:octocat: `BlueberryOS Apps: Maps Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Maps_Docs/) | [:octocat: `BlueberryOS Apps: Visual Voicemail Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Visual-Voicemai_Docs/) | [:octocat: `BlueberryOS Apps: Browser Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Browser_Docs/) |
 | [:octocat: `BlueberryOS Apps: SocialFeeds`](https://github.com/seanpm2001/BlueberryOS_Apps_SocialFeeds/) | [:octocat: `BlueberryOS Apps: Wallpapers`](https://github.com/seanpm2001/BlueberryOS_Apps_Wallpapers/) | [:octocat: `BlueberryOS Apps: Weather`](https://github.com/seanpm2001/BlueberryOS_Apps_Weather/) | [:octocat: `BlueberryOS Apps: Media`](https://github.com/seanpm2001/BlueberryOS_Apps_Media/) | 🫐️ | 🫐️ |
-| [:octocat: `BlueberryOS Apps: SocialFeeds Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_SocialFeeds_Docs/) | [:octocat: `BlueberryOS Apps: Wallpapers Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Wallpapers_Docs/) | [:octocat: `BlueberryOS Apps: Weather Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Weather_Docs/) | [:octocat: `BlueberryOS Apps: Media Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Media_Docs/) | 🫐️ | 🫐️ |
+| [:octocat: `BlueberryOS Apps: SocialFeeds Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_SocialFeeds_Docs/) | [:octocat: `BlueberryOS Apps: Wallpapers Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Wallpapers_Docs/) | [:octocat: `BlueberryOS Apps: Weather Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Weather_Docs/) | [:octocat: `BlueberryOS Apps: Media Docs`](https://github.com/seanpm2001/BlueberryOS_Apps_Media_Docs/) | [:octocat: `Black and Blue Friday`](https://github.com/seanpm2001/Black-and-blue-Friday/) | 🫐️ |
 | 🫐️ | 🫐️ | 🫐️ | 🫐️ | 🫐️ | 🫐️ |
 
-</details>
+</details> <!-- End of major project: BlueberryOS !-->
 
 ---
 
@@ -3634,7 +3929,7 @@ A collective of my Operating System projects.
 | [:octocat: `MailOS Docs`](https://github.com/seanpm2001/MailOS_Docs/) | [:octocat: `MailOS Server Docs`](https://github.com/seanpm2001/MailOS_Server_Docs/) | [:octocat: `MailOS Post Office Docs`](https://github.com/seanpm2001/MailOS_PostOffice_Docs/) | [:octocat: `MailOS Package Manager Docs`](https://github.com/seanpm2001/MailOS_PackageManager) | [:octocat: `MailOS Web Docs`](https://github.com/seanpm2001/MailOS_Web_Docs/) | 📧️ |
 | 📧️ | 📧️ | 📧️ | 📧️ | 📧️ | 📧️ |
 
-</details>
+</details> <!-- End of major project: MailOS !-->
 
 ---
 
@@ -3672,7 +3967,43 @@ A collective of my Operating System projects.
 | [:octocat: `LocksmithOS Product Keys Docs`](https://github.com/seanpm2001/LocksmithOS_ProductKeysDocs/) | [:octocat: `LocksmithOS PassKeys Docs`](https://github.com/seanpm2001/LocksmithOS_PassKeysDocs/) | [:octocat: `LocksmithOS Users Docs`](https://github.com/seanpm2001/LocksmithOS_UsersDocs/) | 🔐️ | 🔐️ | 🔐️ |
 | 🔑️ | 🔑️ | 🔑️ | 🔑️ | 🔑️ | 🔑️ |
 
-</details>
+</details> <!-- End of major project: LocksmithOS !-->
+
+---
+
+#### [💿️ Major project: CranberryOS](#-Major-project--CranberryOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="CranberryOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/CranberryOS/Logo/CranberryOS_1024pxLogo_V1_HighCompression.png" title="CranberryOS logo" width="150" height="150" align="left" style="margin-right: 30px"> **CranberryOS:** _An operating system solely designed for single jamming._
+
+- **🏠️ Home repository:** [:octocat: `LocksmithOS`](https://github.com/seanpm2001/LocksmithOS/)
+- **🔵️ Project categories:** `Law enforcement` `Single jamming` `Operating System`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Friday, March 29th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `Tcl` |
+| 03 | `Verilog` |
+| 04 | `Assembly` |
+| 05 | `Shell` |
+| 06 | `VHDL` |
+| 07 | `Markdown` |
+| 08 | `INI` |
+| 09 | `JSON` |
+| 10 | `YAML` |
+ 
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `CranberryOS`](https://github.com/seanpm2001/CranberryOS/) | [:octocat: `CranberryOS Docs`](https://github.com/seanpm2001/CranberryOS_Docs/) | [:octocat: `Cranberry Jammer`](https://github.com/seanpm2001/Cranberry-Jammer/) | [:octocat: `Cranberry Jammer Docs`](https://github.com/seanpm2001/Cranberry-Jammer_Docs/) | ☄️ | ☄️ |
+
+</details> <!-- End of major project: CranberryOS !-->
 
 ---
 
@@ -3698,7 +4029,7 @@ A collective of my Operating System projects.
 |---|---|---|---|---|---|---|---|
 | [MEDOS Home repository](https://github.com/seanpm2001/MEDOS/) | [MEDOS Hard Disk Drive](https://github.com/seanpm2001/MEDOS_HDD/) | [MEDOS Floppy/Virtual floppy Diskette](https://github.com/seanpm2001/MEDOS_Floppy/) | [MEDOS Solid State Drive](https://github.com/seanpm2001/MEDOS_SSD/) | [MEDOS Android App](https://github.com/seanpm2001/MEDOS_AndroidApp/) | [MEDOS Images](https://github.com/seanpm2001/SeansLifeArchive_Images_MEDOS/) | [(Bandcamp) MEDOS System sound effects (free soundtrack, incomplete)](https://seanwallawalla.bandcamp.com/album/medos-beta-4-sound-effects/) | No other results to show here |
 
-</details>
+</details> <!-- End of major project: MEDOS !-->
 
 ---
 
@@ -3726,7 +4057,7 @@ A collective of my Operating System projects.
 | [Notifications for Meadows](https://github.com/seanpm2001/Meadows_Mod_NotificationCenter/) | [Meadows drive manager](https://github.com/seanpm2001/Meadows_Mod_Drives/) | [Module list for Meadows](https://github.com/seanpm2001/Meadows_Modules/) | [Program list for Meadows](https://github.com/seanpm2001/Meadows_Programs/) | [Meadows Mode manager](https://github.com/seanpm2001/Meadows_Mod_ModeManager/) | [Meadows Virtual Machine manager](https://github.com/seanpm2001/Meadows_Mod_Mode_VM_center_mode/) | [Meadows System settings](https://github.com/seanpm2001/Meadows_Mod_Settings/) | [Meadows battery manager](https://github.com/seanpm2001/Meadows_Mod_Battery_and_power/) |
 | [Meadows EAS](https://github.com/seanpm2001/Meadows_Emergency-Alert-System/) | [Meadows user profile manager](https://github.com/seanpm2001/Meadows_Mod_Profile/) | [Meadows scrolling engine](https://github.com/seanpm2001/Meadows_Scroll_Engine/) | [Meadows UI changer](https://github.com/seanpm2001/Meadows_UI_Mode/) | [Meadows "Quantum defragmentor"](https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter/) |
 
-</details>
+</details> <!-- End of major project: Meadows !-->
 
 ---
 
@@ -3784,13 +4115,183 @@ A collective of my Operating System projects.
 | [wOS 11](https://github.com/seanpm2001/wOS_11/) | [wOS 12](https://github.com/seanpm2001/wOS_12/) | [wOS 13](https://github.com/seanpm2001/wOS_13/) | [wOS 14](https://github.com/seanpm2001/wOS_14/) | [wOS 15](https://github.com/seanpm2001/wOS_15/) | [wOS 16](https://github.com/seanpm2001/wOS_16/) | [BaSYS 1](https://github.com/seanpm2001/WacOS_BaSYS_1/) | [BaSYS 2](https://github.com/seanpm2001/WacOS_BaSYS_2/) |
 | [BaSYS 3](https://github.com/seanpm2001/WacOS_BaSYS_3/) | [BaSYS 4](https://github.com/seanpm2001/WacOS_BaSYS_4/) | [BaSYS 5](https://github.com/seanpm2001/WacOS_BaSYS_5/) | [BaSYS 6](https://github.com/seanpm2001/WacOS_BaSYS_6/) | [4-bit DOS mode](https://github.com/seanpm2001/WacOS_4-Bit_DOSMode/) | [8-bit DOS mode](https://github.com/seanpm2001/WacOS_8-Bit_DOSMode) | [wOS Calculator](https://github.com/seanpm2001/WacOS_wOS_Software_Calculator/) | Many other entries not yet listed |
 
-</details>
+</details> <!-- End of major project: WacOS !-->
+
+---
+
+#### [💿️ Major project: NUNIX](#-Major-project--NUNIX)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: NUNIX !--> 
+
+---
+
+#### [💿️ Major project: BootDown](#-Major-project--BootDown)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: BootDown !-->
+
+---
+
+#### [💿️ Major project: MetroTechno](#-Major-project--MetroTechno)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: MetroTechno !-->
+
+---
+
+#### [💿️ Major project: AquariOS](#-Major-project--AquariOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: AquariOS !-->
+
+---
+
+#### [💿️ Major project: BathhouseOS](#-Major-project--BathhouseOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: BathHouseOS !-->
 
 ---
 
 To add:
 
-- [ ] CranberryOS
+- [x] CranberryOS
 - [ ] NUNIX
 - [ ] BootDown
 - [ ] MetroTechno
@@ -3800,7 +4301,7 @@ To add:
 
 _End of Operating System Collective._
 
-</details>
+</details> <!-- End of Operating Systems Collective !-->
 
 ---
 
@@ -3850,7 +4351,7 @@ A collective of my Web Browser projects.
 | [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/) | [:octocat: `Bliss Browser Core`](https://github.com/seanpm2001/Bliss_Browser_Core/) | [:octocat: `Bliss Browser Language Support`](https://github.com/seanpm2001/Bliss_Browser_Languages/) | [:octocat: `Bliss Browser OSMode`](https://github.com/seanpm2001/Bliss_Browser_OSMode/) | [:octocat: `Bliss Browser Settings`](https://github.com/seanpm2001/Bliss_Browser_Settings/) | [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/) |
 <!-- | `🌐️`  | `🌐️`  | `🌐️`  | `🌐️`  | `🌐️`  | `🌐️` | !-->
 
-</details>
+</details> <!-- End of major project: Bliss Browser !-->
 
 ---
 
@@ -3861,7 +4362,7 @@ To add:
 
 _End of web browser collective._
 
-</details>
+</details> <!-- End of web browser collective !-->
 
 ---
 
@@ -3915,9 +4416,10 @@ A collective of my software LIBrary projects.
 | [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) | [:octocat: `Blazed Café`](https://github.com/seanpm2001/Blazed_Cafe/) | [:octocat: `.mobi Dick`](https://github.com/seanpm2001/Mobi_Dick/) | [:octocat: `BlazeOS bPage`](https://github.com/seanpm2001/BlazeOS_bpage/) | [:octocat: `VLCSV`](https://github.com/seanpm2001/VLCSV/) | [:octocat: `WacOS Sherman`](https://github.com/seanpm2001/WacOS_Sherman/) |
 | [:octocat: `AcroSlideXLIBrary`](https://github.com/seanpm2001/AcroSlideXLIBrary/) | [:octocat: `SlideXMagic`](https://github.com/seanpm2001/SlideXMagic/) | [:octocat: `SNU BrowserNose`](https://github.com/seanpm2001/SNU_BrowserNose/) | [:octocat: `uOffice LIBrary DVCS`](https://github.com/seanpm2001/uOffice_LIBrary_DVCS/) | [:octocat: `SWave Starter`](https://github.com/seanpm2001/SWave_Starter/) | [:octocat: `ProTraApp`](https://github.com/seanpm2001/ProTraApp/) |
 | [:octocat: `SVG Video`](https://github.com/seanpm2001/SVG_Video/) | [:octocat: `ShareBoxLIBrary`](https://github.com/seanpm2001/ShareBoxLIBrary/) | [:octocat: `README Desktop LIBrary`](https://github.com/seanpm2001/README-Desktop-LIBrary/) | [:octocat: `Stock Elevator LIBrary`](https://github.com/seanpm2001/Stock-Elevator-LIBrary/) | [:octocat: `CottonTree LIBrary`](https://github.com/seanpm2001/CottonTree-LIBrary/) | [:octocat: `PrestigePreview`](https://github.com/seanpm2001/PrestigePreview/) |
-| [:octocat: `Backup Automation Build Bot Y`](https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/) | [:octocat: `LargeNumber ULIB`](https://github.com/seanpm2001/LargeNumber_ULIB/) | [:octocat: `Reasonable Overflow LIBrary`](https://github.com/seanpm2001/ReasonableOverflow_LIBrary/) | [:octocat: `SNU Font LIBrary`](https://github.com/seanpm2001/SNU_FontLIBrary/) | [:octocat: `SNU TextEngine`](https://github.com/seanpm2001/SNU_TextEngine/) | `📚️` |
+| [:octocat: `Backup Automation Build Bot Y`](https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/) | [:octocat: `LargeNumber ULIB`](https://github.com/seanpm2001/LargeNumber_ULIB/) | [:octocat: `Reasonable Overflow LIBrary`](https://github.com/seanpm2001/ReasonableOverflow_LIBrary/) | [:octocat: `SNU Font LIBrary`](https://github.com/seanpm2001/SNU_FontLIBrary/) | [:octocat: `SNU TextEngine`](https://github.com/seanpm2001/SNU_TextEngine/) | [:octocat: `DLLinux`](https://github.com/seanpm2001/DLLinux/) |
+| `📚️` | `📚️` | `📚️` | `📚️` | `📚️` | `📚️` |
 
-</details>
+</details> <!-- End of major project: Software LIBraries !-->
 
 ---
 
@@ -3927,7 +4429,7 @@ To add:
 
 _End of LIbrary collective._
 
-</details>
+</details> <!-- End of LIBrary collective !-->
 
 ---
 
@@ -3980,7 +4482,75 @@ A collective of my linguistics software projects.
 | [:octocat: `MCPYE Command Language`](https://github.com/seanpm2001/MCPYE_CommandLanguage/) | [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) | [:octocat: `Objective-C#`](https://github.com/seanpm2001/Objective-CSharp/) | [:octocat: `Objective-J#`](https://github.com/seanpm2001/Objective-JSharp/) | [:octocat: `Objective-J++`](https://github.com/seanpm2001/Objective-JPP/) | [:octocat: `URLL`](https://github.com/seanpm2001/URLL/) |
 | :octocat: `URLL VSCode`](https://github.com/seanpm2001/URLL-VSCode/) | [:octocat: `URLL Docs`](https://github.com/seanpm2001/URLL_Docs/) | [:octocat: `URLL Specification`](https://github.com/seanpm2001/URLL-Specification/) | [:octocat: `DSergeant VSCode`](https://github.com/seanpm2001/DSergeant-VSCode/) | 
 
-</details>
+</details> <!-- End of major project: Computing languages !-->
+
+---
+
+#### [💿️ Major project: Voice Synthesis](#-Major-project--Voice-Synthesis)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: Voice Synthesis !-->
+
+---
+
+#### [💿️ Major project: PNC English](#-Major-project--PNC-English)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!--
+<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+
+- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `GDScript` |
+| 02 | `Markdown` |
+| 03 | `HTML` |
+| 04 | `YAML` |
+| 05 | `INI` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+!-->
+
+Section coming soon
+
+</details> <!-- End of major project: PNC English !-->
 
 ---
 
@@ -3992,7 +4562,7 @@ To add:
 
 _End of lingustics collective._
 
-</details>
+</details> <!-- End of linguistics collective !-->
 
 ---
 
@@ -4047,7 +4617,7 @@ A collective of my comedic projects.
 | [:octocat: `Oh Hi Mark(down)`](https://github.com/seanpm2001/Oh_Hi_MarkDown/) | [:octocat: `Code Distancing`](https://github.com/seanpm2001/Code-Distancing/) | [:octocat: `Branch Ranch`](https://github.com/seanpm2001/Branch-Ranch/) | [:octocat: `WinFSCK`](https://github.com/seanpm2001/WinFSCK/) | [:octocat: `KeyStroke`](https://github.com/seanpm2001/KeyStroke/) | [:octocat: `Seanpm2001-JokePrograms`](https://github.com/seanpm2001/Seanpm2001-JokePrograms/) |
 | [:octocat: `SeanWallaWalla Joke Programs`](https://github.com/seanpm2001/SeanWallaWalla-JokePrograms/) | [:octocat: `SNU 0DMode`](https://github.com/seanpm2001/SNU_0DMode/) | [:octocat: `SNU 2D: Download More RAM`](https://github.com/seanpm2001/SNU_2D_DownloadMoreRAM_JokePage_/) | `🔷️` | `🔷️` | `🔷️` |
 
-</details>
+</details> <!-- End of major projects: Joke programs !-->
 
 ---
 
@@ -4057,9 +4627,7 @@ To add:
 
 _End of comedy collective._
 
-</details>
-
----
+</details> <!-- End of comedy collective !-->
 
 ---
 
@@ -4098,7 +4666,7 @@ A collective of my miscellaneous projects.
 - [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB) - A place where I store a copy of my personal music collection. Due to file size and copyright reasons, the majority of songs and files cannot be uploaded here. I work on adding 3 new playlists on a daily basis.
 - [:octocat: `SNU 2D Programming tools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - The most developed programming module for the SNU Website. <!-- Want to see all the modules separately? [This organization has all of them as separate repositories](https://github.com/SNU-Programming-Tools) !-->
 
-</details>
+</details> <!-- End of major project: Other projects !-->
 
 ---
 
@@ -4108,13 +4676,13 @@ To add:
 
 _End of miscellaneous collective._
 
-</details>
+</details> <!-- End of miscellaneous collective !-->
 
 ---
 
 _End of collective listing._
 
-</details>
+</details> <!-- End of all collectives !-->
 
 ***
 
@@ -4735,11 +5303,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `82 (2024, Friday, March 29th at 04:29 pm PST)`
-- **Line count (including blank lines and compiler line):** `07,807`
-- **Word count:** `047,400`
-- **Character count (with spaces):** `0,334,536 characters (340.008 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,292,514 characters (340.008 kilobytes, due to special character usage)`
+- **File version:** `83 (2024, Saturday, March 30th at 03:47 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,437`
+- **Word count:** `051,848`
+- **Character count (with spaces):** `0,370,219 characters (376.339 kilobytes, due to special character usage)`
+- **Character count (without spaces)** `0,323,936 characters (376.339 kilobytes, due to special character usage)`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6662,7 +7230,6 @@ Outdated, as of 2023, Friday, May 26th
 
 <details><summary><b lang="en">Version 82 (2024, Friday, March 29th at 4:29 pm PST)</b></summary>
 
-
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > **Note** _This is the eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while only 3 listed changes were made. I gave myself an hour today, but the tasks I took on took much longer. I also no longer fear running out of ideas too early._
@@ -6705,11 +7272,51 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 83 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 83 (2024, Saturday, March 30th at 03:47 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the ninth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took more time to make, while only 7 listed changes were made. I gave myself a couple hours today._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `What I'm working on` section
+- - [x] Improved the introduction
+- - - [x] Updated section: `Framework collective`
+- - - - [x] Added source code comments to all dropdown sections !-->
+- - - - [x] Added subsection: `Major project: EMAIL 2`
+- - - - [x] Added subsection: `Major project: EMAIL -3`
+- - - [x] Updated section: `Security collective`
+- - - - [x] Added subsection: `Major project: Hospital Defender`
+- - - [x] Updated section: `Productive collective`
+- - - - [x] Added subsection: `Major project: DMAIL`
+- - - - [x] Added subsection: `Major project: uOffice`
+- - - [x] Updated section: `Video game collective`
+- - - - [x] Added subsection: `Major project: LibreFlock`
+- - - - [x] Added placeholder for: `Major project: MCPYE`
+- - - - [x] Added placeholder for: `Major project: Tetris128`
+- - - [x] Updated section: `Operating Systems collective`
+- - - - [x] Updated the `Major project: BlueberryOS` subsection
+- - - - [x] Added subsection: `Major project: CranberryOS`
+- - - - [x] Added placeholder for: `Major project: AquariOS`
+- - - - [x] Added placeholder for: `Major project: BootDown`
+- - - - [x] Added placeholder for: `Major project: MetroTechno`
+- - - - [x] Added placeholder for: `Major project: NUNIX`
+- - - - [x] Added placeholder for: `Major project: BathhouseOS`
+- - - [x] Updated section: `LIBraries collective`
+- - - - [x] Updated the `Major project: Software LIBraries` subsection
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 83
+- - [x] Added blank entries for versions 165 and 166
 - [ ] No other changes in version 83
 
 </details>
@@ -7607,6 +8214,28 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 165 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 165
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 166 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 166
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
@@ -7617,7 +8246,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, March 29th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-March-29th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, March 30th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-March-30th)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -7629,6 +8258,7 @@ _End of file version history_
 - - [Link to remodel section version 6 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md)
 - - [Link to remodel section version 7 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md)
 - - [Link to remodel section version 8 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md)
+- - [Link to remodel section version 9 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md)
 
 </details>
 
@@ -7772,7 +8402,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `2048`
 - - **Current emoji count:** `Uncounted`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** `246,980`
+- - **Current character count (in bytes):** (as of V83: `376,339` / `524,288` (`071.780%`))
 
 > Memory
 
