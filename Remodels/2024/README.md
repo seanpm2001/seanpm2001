@@ -6,7 +6,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 9 - 2024, Saturday, March 30th` |
+| `Beta 10 - 2024, Sunday, March 31st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -17,7 +17,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 8 days down, as of 2024, Saturday, March 30th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 9 days down, as of 2024, Sunday, March 31st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -37,7 +37,8 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 7](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
 | [Beta 8](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
 | [Beta 9](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
-| Beta 10 | Coming soon | 09 |
+| [Beta 10](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
+| Beta 11 | Coming soon | 10 |
 
 </div>
 
@@ -107,7 +108,6 @@ Update in/formation about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 Public Media Gallery
-Model project information
 Updates to Legend
 Collectives listing
 Operating Systems collective
@@ -116,21 +116,17 @@ Software LIBraries collective
 Communications collective
 Full repository listing WIP
 Nicknames (SEAN9000)
-File history removal notice at V101
 Reference fork style guide in #forks
 Model projects and model project status repository link
-Major project: NUNIX
 Major project: BootDown
-Major project: MetroTechno
 Major project: AquariOS
 Major project: BathhouseOS
 Major project: MCPYE
 Major project: Tetris128
 Major project: Miscellaneous
-Major project: PNC English
-Major project: PDSNet++
-Fix existing mega project section: MEDOS
 Fix existing mega project section: Other projects
+Fix existing mega project section: Meadows
+Fix existing mega project section: WacOS
 ```
 
 </details>
@@ -262,6 +258,13 @@ Major project: CranberryOS
 Major project: uOffice
 Major project: Hospital defender
 Major project: LibreFlock
+Major project: PDSNet++
+Major project: NUNIX
+Major project: MetroTechno
+Fix existing mega project section: MEDOS
+Major project: PNC English
+Model project information
+File history removal notice at V101
 ```
 
 </details>
