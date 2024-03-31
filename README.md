@@ -529,7 +529,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 9 - 2024, Saturday, March 30th` |
+| `Beta 10 - 2024, Sunday, March 31st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -540,7 +540,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 8 days down, as of 2024, Saturday, March 30th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 9 days down, as of 2024, Sunday, March 31st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -560,7 +560,8 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 7](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
 | [Beta 8](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
 | [Beta 9](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
-| Beta 10 | Coming soon | 09 |
+| [Beta 10](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
+| Beta 11 | Coming soon | 10 |
 
 </div>
 
@@ -630,7 +631,6 @@ Update in/formation about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 Public Media Gallery
-Model project information
 Updates to Legend
 Collectives listing
 Operating Systems collective
@@ -639,21 +639,17 @@ Software LIBraries collective
 Communications collective
 Full repository listing WIP
 Nicknames (SEAN9000)
-File history removal notice at V101
 Reference fork style guide in #forks
 Model projects and model project status repository link
-Major project: NUNIX
 Major project: BootDown
-Major project: MetroTechno
 Major project: AquariOS
 Major project: BathhouseOS
 Major project: MCPYE
 Major project: Tetris128
 Major project: Miscellaneous
-Major project: PNC English
-Major project: PDSNet++
-Fix existing mega project section: MEDOS
 Fix existing mega project section: Other projects
+Fix existing mega project section: Meadows
+Fix existing mega project section: WacOS
 ```
 
 </details>
@@ -785,6 +781,13 @@ Major project: CranberryOS
 Major project: uOffice
 Major project: Hospital defender
 Major project: LibreFlock
+Major project: PDSNet++
+Major project: NUNIX
+Major project: MetroTechno
+Fix existing mega project section: MEDOS
+Major project: PNC English
+Model project information
+File history removal notice at V101
 ```
 
 </details>
@@ -4011,18 +4014,24 @@ A collective of my Operating System projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**This section needs work:**
+<img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/MEDOS4_Logo.bmp" title="MEDOS Logo" width="150" height="150" align="left" style="margin-right: 30px"> **MEDOS:** _A small variant of the Meadows Operating System designed to run entirely from external storage. Old description: An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed._
 
-- [x] Added a development status note
-- [ ] Add a language list
-- [ ] Add `:octocat:` and ` ` formatting to all hyperlink previews
-- [ ] Reformat list to only 6 columns (A-F)
-- [ ] Re-adjust image size (256x256) once previous tasks are done (to indicate that it is done)
-
-![Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it](/Media/MEDOS4_Logo.bmp) [`MEDOS`](https://github.com/seanpm2001/MEDOS/) - An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed.
+- **🏠️ Home repository:** [:octocat: `MEDOS`](https://github.com/seanpm2001/MEDOS/)
+- **🔵️ Project categories:** `DOS` `Operating System` `External storage operating system` `Meadows` `Linux` `Niche`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Sunday, March 31st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Sunday, March 31st)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
+| ## | **Languages** |
+|----|---|
+| 01 | `Python` |
+| 02 | `C` |
+| 03 | `Rich Text Format` |
+| 04 | `INI` |
+| 05 | `SVG` |
+| 06 | `Markdown` |
+ 
 **Core repositories:**
 
 | A | B | C | D | E | F | G | H |
@@ -4123,31 +4132,38 @@ A collective of my Operating System projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="NUNIX placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/NUNIX/Logo/Placeholder/TECHNOBRAIN.jpeg" title="Technobrain (NUNIX Placeholder logo)" width="150" height="150" align="left" style="margin-right: 30px"> **NUNIX** _An open source and extensive operating system for the human brain_
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **🏠️ Home repository:** [:octocat: `NUNIX`](https://github.com/seanpm2001/NUNIX/)
+- **🔵️ Project categories:** `Neural` `Neural Operating System` `Transhumanism` `Brain operating system`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Sunday, March 31st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Sunday, March 31st)**
 
-**Development status:** _Not functional and highly incomplete. Developers needed._
+**Development status:** _Not functional and highly incomplete. Developers needed. The technology needed to test the project also does not yet exist._
 
 | ## | **Languages** |
 |----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 01 | `C` |
+| 02 | `Python` |
+| 03 | `Markdown` |
+| 04 | `HTML` |
+| 05 | `TeX` |
+| 06 | `YAML` |
+| 07 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `NUNIX`](https://github.com/seanpm2001/NUNIX/) | [:octocat: `NUNIX SurvivalMode`](https://github.com/seanpm2001/NUNIX_SurvivalMode/) | [:octocat: `NUNIX SurvivalMode HungerE`](https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE/) | [:octocat: `NUNIX SurvivalMode Safety`](https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety/) | [:octocat: `NUNIX VoiceBox`](https://github.com/seanpm2001/NUNIX_VoiceBox/) | [:octocat: `NUNIX VoiceBox Accent Beyond`](https://github.com/seanpm2001/NUNIX_VoiceBox_AccentBeyond/) |
+| [:octocat: `NUNIX Docs`](https://github.com/seanpm2001/NUNIX_Docs/) | [:octocat: `NUNIX SurvivalMode Docs`](https://github.com/seanpm2001/NUNIX_SurvivalMode_Docs/) | [:octocat: `NUNIX SurvivalMode HungerE Docs`](https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE_Docs/) | [:octocat: `NUNIX SurvivalMode Safety Docs`](https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety_Docs/) | [:octocat: `NUNIX VoiceBox Docs`](https://github.com/seanpm2001/NUNIX_VoiceBox_Docs/) | [:octocat: `NUNIX VoiceBox Accent Beyond Docs`](https://github.com/seanpm2001/NUNIX_VoiceBox_AccentBeyond_Docs/) |
+| [:octocat: `NUNIX Nose`](https://github.com/seanpm2001/NUNIX_Nose/) | [:octocat: `NUNIX Mouth`](https://github.com/seanpm2001/NUNIX_Mouth/) | [:octocat: `NUNIX MemoryManager`](https://github.com/seanpm2001/NUNIX_MemoryManager/) | [:octocat: `NUNIX MediaEssentials`](https://github.com/seanpm2001/NUNIX_MediaEssentials/) | [:octocat: `NUNIX HAP`](https://github.com/seanpm2001/NUNIX_HAP/) | [:octocat: `NUNIX HAP DreamScene`](https://github.com/seanpm2001/NUNIX-HAP_DreamScene/) |
+| [:octocat: `NUNIX Nose Docs`](https://github.com/seanpm2001/NUNIX_Nose_Docs/) | [:octocat: `NUNIX Mouth Docs`](https://github.com/seanpm2001/NUNIX_Mouth_Docs/) | [:octocat: `NUNIX MemoryManager Docs`](https://github.com/seanpm2001/NUNIX_MemoryManager_Docs/) | [:octocat: `NUNIX MediaEssentials Docs`](https://github.com/seanpm2001/NUNIX_MediaEssentials_Docs/) | [:octocat: `NUNIX HAP Docs`](https://github.com/seanpm2001/NUNIX_HAP_Docs/) | [:octocat: `NUNIX HAP DreamScene Docs`](https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs/) |
+| [:octocat: `NUNIX Ethics`](https://github.com/seanpm2001/NUNIX-Ethics/) | [:octocat: `NUNIX Guidelines`](https://github.com/seanpm2001/NUNIX-Guidelines/) | [:octocat: `NUNIX Kernel`](https://github.com/seanpm2001/NUNIX_Kernel/) | [:octocat: `NUNIX MediaEssentials Literature`](https://github.com/seanpm2001/NUNIX_MediaEssentials_Literature/) | [:octocat: `NUNIX ManuType`](https://github.com/seanpm2001/NUNIX_ManuType/) | [:octocat: `NUNIX NXBClock`](https://github.com/seanpm2001/NUNIX_NXBClock/) |
+| [:octocat: `NUNIX Ethics Docs`](https://github.com/seanpm2001/NUNIX-Ethics_Docs/) | [:octocat: `NUNIX Guidelines Docs`](https://github.com/seanpm2001/NUNIX-Guidelines_Docs/) | [:octocat: `NUNIX Kernel Docs`](https://github.com/seanpm2001/NUNIX_Kernel_Docs/) | [:octocat: `NUNIX MediaEssentials Literature Docs`](https://github.com/seanpm2001/NUNIX_MediaEssentials_Literature_Docs/) | [:octocat: `NUNIX ManuType Docs`](https://github.com/seanpm2001/NUNIX_ManuType_Docs/) | [:octocat: `NUNIX NXBClock Docs`](https://github.com/seanpm2001/NUNIX_NXBClock_Docs/) |
+| [:octocat: `NUNIX Datasets`](https://github.com/seanpm2001/NUNIX-Datasets/) | [:octocat: `NUNIX Programs`](https://github.com/seanpm2001/NUNIX-Programs/) | 🧠️ | 🧠️ | 🧠️ | 🧠️ |
+| [:octocat: `NUNIX Datasets Docs`](https://github.com/seanpm2001/NUNIX-Datasets_Docs/) | [:octocat: `NUNIX Programs Docs`](https://github.com/seanpm2001/NUNIX-Programs_Docs/) | 🧠️ | 🧠️ | 🧠️ | 🧠️ |
+| 🧠️ | 🧠️ | 🧠️ | 🧠️ | 🧠️ | 🧠️ |
 
 </details> <!-- End of major project: NUNIX !--> 
 
@@ -4191,31 +4207,40 @@ Section coming soon
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="MetroTechno logo failed to load. Click/tap here to attempt to view it" src="/Graphics/MetroTechno/Logo/MetroTechno_1024pxIcon_V1_HighCompression.png" width="150" height="150" align="left" title="MetroTechno logo" style="margin-right: 30px"> **MetroTechno** _A collection of mini Operating Systems for various functions of a transportation system (such as traffic lights, speed signs, parking meters, and more)_
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **🏠️ Home repository:** [:octocat: `MetroTechno`](https://github.com/seanpm2001/MetroTechno/)
+- **🔵️ Project categories:** `Operating System` `Mini Operating System` `Niche` `Transportation` `Embedded systems`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Sunday, March 31st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Sunday, March 31st)**
 
-**Development status:** _Not functional and highly incomplete. Developers needed._
+**Development status:** _Not functional and highly incomplete. Developers needed. Low priority project._
 
 | ## | **Languages** |
 |----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 01 | `Python` |
+| 02 | `SystemVerilog` |
+| 03 | `C` |
+| 04 | `Verilog` |
+| 05 | `Assembly` |
+| 06 | `Prolog` |
+| 07 | `Tcl` |
+| 08 | `nesC` |
+| 09 | `Markdown` |
+| 10 | `SVG` |
+| 11 | `HTML` |
+| 12 | `YAML` |
+| 13 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `MetroTechno`](https://github.com/seanpm2001/MetroTechno/) | [:octocat: `MetroTechno Traffic Light`](https://github.com/seanpm2001/MetroTechno_TrafficLight/) | [:octocat: `MetroTechno Crosswalk`](https://github.com/seanpm2001/MetroTechno_Crosswalk/) | [:octocat: `MetroTechno Parking Meter`](https://github.com/seanpm2001/MetroTechno_ParkingMeter/) | [:octocat: `MetroTechno SpeedSign`](https://github.com/seanpm2001/MetroTechno_SpeedSign/) | [:octocat: `MetroTechno Speed Violations`](https://github.com/seanpm2001/MetroTechno_SpeedViolations/) |
+| [:octocat: `MetroTechno Docs`](https://github.com/seanpm2001/MetroTechno_Docs/) | [:octocat: `MetroTechno Traffic Light Docs`](https://github.com/seanpm2001/MetroTechno_TrafficLight_Docs/) | [:octocat: `MetroTechno Crosswalk Docs`](https://github.com/seanpm2001/MetroTechno_Crosswalk_Docs/) | [:octocat: `MetroTechno Parking Meter Docs`](https://github.com/seanpm2001/MetroTechno_ParkingMeter_Docs/) | [:octocat: `MetroTechno SpeedSign Docs`](https://github.com/seanpm2001/MetroTechno_SpeedSign_Docs/) | [:octocat: `MetroTechno Speed Violations Docs`](https://github.com/seanpm2001/MetroTechno_SpeedViolations_Docs/) |
+[ :octocat: `MetroTechno Core`](https://github.com/seanpm2001/MetroTechno_Core/) | [:octocat: `MetroTechno Incident Reporter`](https://github.com/seanpm2001/MetroTechno_IncidentReporter/) | 🚘️ | 🚘️ | 🚘️ | 🚘️ |
+[ :octocat: `MetroTechno Core Docs`](https://github.com/seanpm2001/MetroTechno_Core_Docs/) | [:octocat: `MetroTechno Incident Reporter Docs`](https://github.com/seanpm2001/MetroTechno_IncidentReporter_Docs/) | 🚘️ | 🚘️ | 🚘️ | 🚘️ |
+| 🚘️ | 🚘️ | 🚘️ | 🚘️ | 🚘️ | 🚘️ |
 
 </details> <!-- End of major project: MetroTechno !-->
 
@@ -4324,10 +4349,6 @@ A collective of my Web Browser projects.
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Bliss_Browser/Logo/PNG/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> **Bliss Browser:** _An extremely powerful and customizable web browser written in Python. It is also capable of being an alternative to ChromeOS via its OSMode (where you can turn the browser into a shell on top of an existing operating system) customizable down to the last pixel, you can even disable all HTML tags if you really wanted to (this breaks the majority of websites, but it is still an option)_
-
-<!--
-<img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Bliss_Browser/Logo/PNG/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="256" height="256"/> [:octocat: `Bliss Browser project`](https://github.com/seanpm2001/Bliss_Browser/) - An extremely powerful and customizable web browser written in Python. It is also capable of being an alternative to ChromeOS via its OSMode (where you can turn the browser into a shell on top of an existing operating system) customizable down to the last pixel, you can even disable all HTML tags if you really wanted to (this breaks the majority of websites, but it is still an option)
-!-->
 
 - **🏠️ Home repository:** [:octocat: `Bliss Browser`](https://github.com/seanpm2001/Bliss_Browser/)
 - **🔵️ Project categories:** `Web Browser`
@@ -4524,31 +4545,29 @@ Section coming soon
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="Post-Neo-Classical English logo failed to load. Click/tap here to attempt to view it" src="/Graphics/PNCE/Logo/Placeholder/EN_ENGLISH_Icon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **Post-Neo-Classical-English (PNCE/PNC English)** _A dialect of the English language, with improvements, and macros to work with._
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
+- **🏠️ Home repository:** [:octocat: `Post-Neo-Classical-English`](https://github.com/seanpm2001/Post-Neo-Classical-English/)
 - **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Sunday, March 31st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Sunday, March 31st)**
 
-**Development status:** _Not functional and highly incomplete. Developers needed._
+**Development status:** _Partially functional, but incomplete. Developers needed._
 
 | ## | **Languages** |
 |----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 01 | `BASIC` |
+| 02 | `VBScript` |
+| 03 | `Markdown` |
+| 04 | `HTML` |
+| 05 | `YAML` |
+| 06 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `Post-Neo-Classical-English`](https://github.com/seanpm2001/Post-Neo-Classical-English/) | [:octocat: `Post-Neo-Classical-English Docs`](https://github.com/seanpm2001/Post-Neo-Classical-English_Docs/) | 🏴󠁧󠁢󠁥󠁮󠁧󠁿️ | 🏴󠁧󠁢󠁥󠁮󠁧󠁿️ | 🏴󠁧󠁢󠁥󠁮󠁧󠁿️ | 🏴󠁧󠁢󠁥󠁮󠁧󠁿️ |
 
 </details> <!-- End of major project: PNC English !-->
 
@@ -4557,7 +4576,7 @@ Section coming soon
 To add:
 
 - [ ] Voice synthesis
-- [ ] PNC English
+- [x] PNC English
 - [ ] Other
 
 _End of lingustics collective._
@@ -4642,6 +4661,40 @@ A collective of my miscellaneous projects.
 - **🪢️ Major projects:** `Other projects`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
 - **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
+
+---
+
+#### [💿️ Major project: PDNet++](#-Major-project--PDNet--)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img alt="PDNet++ placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/PDSNet-Plus-Plus/Logo/Placeholder/540px-Disney-infinite-copyright-Anti.png" width="150" height="150" align="left" title="PDSNET++ logo" style="margin-right: 30px"> **PDNet++/PDSNet++** _A streaming service for Public Domain media, especially those that were under Copyright for far too long, such as old Disney content._
+
+- **🏠️ Home repository:** [:octocat: `PDNet-Plus-Plus`](https://github.com/seanpm2001/PDNet-Plus-Plus/)
+- **🔵️ Project categories:** `Public Domain` `Media streaming` `Streaming service` `P2P` `DRM-free streaming` `Subscription-free streaming` `Video streaming`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Sunday, March 31st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Sunday, March 31st)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Ruby` |
+| 02 | `RDoc` |
+| 03 | `PHP` |
+| 04 | `JavaScript` |
+| 05 | `TypeScript` |
+| 06 | `CSS` |
+| 07 | `Markdown` |
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `PDNet Plus Plus`](https://github.com/seanpm2001/PDNet-Plus-Plus/) | [:octocat: `PDNet Plus Plus Docs`](https://github.com/seanpm2001/PDNet-Plus-Plus_Docs/) | [:octocat: `PDNet Plus Plus Channels`](https://github.com/seanpm2001/PDNet-Plus-Plus_Channels/) | [:octocat: `PDNet Plus Plus Channels Docs`](https://github.com/seanpm2001/PDNet-Plus-Plus_Channels_Docs/) | [:octocat: [`PDNet Plus Plus Channel: Disney`](https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_Disney/) | [:octocat: [`PDNet Plus Plus Channel: Disney Docs`](https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_Disney_Docs/) |
+| 🄯 | 🄯 | 🄯 | 🄯 | 🄯 | 🄯 |
+
+</details> <!-- End of major project: PDNet++ !-->
 
 ---
 
@@ -4873,6 +4926,34 @@ I renounce all Copyright to my projects, regardless of their license, and replac
 My repositories follow various style guides, which can be found [:octocaT: `here`](https://github.com/seanpm2001/Seanpm2001-StyleGuides/)
 
 </details> <!-- End of Style guides section !-->
+
+***
+
+## [🎴️ Model project information](#-Model-project-information)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+Some of my repositories are so well-developed that they serve as models to others. Not very many projects have achieved model project status.
+
+> **Current model projects (2022-2024)**
+
+- [:octocat: `seanpm2001:seanpm2001`](https://github.com/seanpm2001/seanpm2001/)
+- [:octocat: `seanpm2001:GitHub_Organization_Info`](https://github.com/seanpm2001/GitHub_Organization_Info/)
+- [:octocat: `seanpm2001:SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB/)
+- [:octocat: `seanpm2001:SNU`](https://github.com/seanpm2001/SNU/)
+- [:octocat: `seanpm2001:SNU_2D_ProgrammingTools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/)
+- [:octocat: `seanpm2001:Git-Templates`](https://github.com/seanpm2001/Git-Templates/)
+- [:octocat: `seanpm2001:DeGoogle-your-life`](https://github.com/seanpm2001/Degoogle-your-life/)
+- [:octocat: `seanpm2001:WacOS`](https://github.com/seanpm2001/WacOS/)
+- [:octocat: `seanpm2001:Code-distancing`](https://github.com/seanpm2001/Code-distancing/)
+- [:octocat: `seanpm2001:Its-time-to-cut-WideVine-DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/)
+- [:octocat: `seanpm2001:MCPYE`](https://github.com/seanpm2001/MCPYE/)
+- [:octocat: `seanpm2001:SeansLifeArchive`](https://github.com/seanpm2001/SeansLifeArchive/)
+- [:octocat: `seanpm2001:My-Linux-setup`](https://github.com/seanpm2001/My-Linux-setup/)
+
+> [:octocat: `More information`](https://github.com/seanpm2001/Model_Project_Info/)
+
+</details> <!-- End of model project information section !-->
 
 ***
 
@@ -5303,11 +5384,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `83 (2024, Saturday, March 30th at 03:47 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,437`
-- **Word count:** `051,848`
-- **Character count (with spaces):** `0,370,219 characters (376.339 kilobytes, due to special character usage)`
-- **Character count (without spaces)** `0,323,936 characters (376.339 kilobytes, due to special character usage)`
+- **File version:** `84 (2024, Sunday, March 31st at 04:10 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,570`
+- **Word count:** `053,228`
+- **Character count (with spaces):** `0,381,661 characters`
+- **Character count (without spaces)** `0,334,300 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5325,6 +5406,8 @@ Outdated, as of 2023, Friday, May 26th
 <!-- This section is commented out to enable better scrolling. Fork/download the project to view the source code, or "view raw" to see the file history !-->
 
 <details><summary><H1>View file history (Click/tap here)</H1></summary>
+
+- Starting with version 101, the entries for versions 1-100 have been removed. To view them, [`browse old versions (1-100)`](/OldVersions/English/1/1-100/)
 
 ---
 
@@ -7284,7 +7367,7 @@ Outdated, as of 2023, Friday, May 26th
 - [x] Updated the `What I'm working on` section
 - - [x] Improved the introduction
 - - - [x] Updated section: `Framework collective`
-- - - - [x] Added source code comments to all dropdown sections !-->
+- - - - [x] Added source code comments to all dropdown sections
 - - - - [x] Added subsection: `Major project: EMAIL 2`
 - - - - [x] Added subsection: `Major project: EMAIL -3`
 - - - [x] Updated section: `Security collective`
@@ -7323,11 +7406,38 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 84 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 84 (2024, Sunday, March 31st at 4:10 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the tenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while only 7 listed changes were made. I gave myself a little over an hour today._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `What I'm working on` section
+- - [x] Updated section: `Operating Systems collective`
+- - - [x] Updated the `Major project: MEDOS` subsection
+- - - [x] Updated the `Major project: NUNIX` subsection
+- - - [x] Updated the `Major project: MetroTechno` subsection
+- - [x] Updated section: `Linguistics collective`
+- - - [x] Updated the `Major project: PNCE` subsection
+- - [x] Updated section: `Miscellaneous collective`
+- - - [x] Added the `Major project: PDNet++` subsection
+- [x] Updated the `Documentation` section
+- [x] Added the `Model project status` subsection
+- [x] Updated the `File info` section
+- - [x] Added information about browsing old versions (in preparation for V101)
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 84
+- - [x] Added blank entries for versions 167 and 168
 - [ ] No other changes in version 84
 
 </details>
@@ -8236,6 +8346,28 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 167 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 167
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 168 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 168
+
+</details>
+
+---
+
 _End of file version history_
 
 </details>
@@ -8246,7 +8378,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, March 30th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-March-30th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, March 31st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-March-31st)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -8259,6 +8391,7 @@ _End of file version history_
 - - [Link to remodel section version 7 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md)
 - - [Link to remodel section version 8 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md)
 - - [Link to remodel section version 9 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md)
+- - [Link to remodel section version 10 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md)
 
 </details>
 
@@ -8402,7 +8535,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `2048`
 - - **Current emoji count:** `Uncounted`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V83: `376,339` / `524,288` (`071.780%`))
+- - **Current character count (in bytes):** (as of V84: `388,091` / `524,288` (`074.022%`))
 
 > Memory
 
