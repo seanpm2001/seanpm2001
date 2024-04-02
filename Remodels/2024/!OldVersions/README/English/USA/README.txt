@@ -6,7 +6,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 10 - 2024, Sunday, March 31st` |
+| `Beta 11 - 2024, Monday, April 1st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -17,7 +17,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 9 days down, as of 2024, Sunday, March 31st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 10 days down, 54 days to go, as of 2024, Monday, April 1st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -26,8 +26,13 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📈️ **Timeline** 📉️ |
 |---------------------|
 
+| 0️⃣️3️⃣️ 2024 March |
+|---|
+
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
+
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-|--------------------|-----------------|------------------|
+|---|---|---|
 | [Beta 1](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
 | [Beta 2](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
 | [Beta 3](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
@@ -38,11 +43,87 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 8](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
 | [Beta 9](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
 | [Beta 10](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
-| Beta 11 | Coming soon | 10 |
+
+</details> <!-- End of 2024 March release timeline table !-->
+
+| 0️⃣️4️⃣️ 2024 April |
+|---|
+
+<details open><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
+
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|---|---|---|
+| [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
+| Beta 12 | Coming soon | 11 |
+| Beta 13 | Coming soon | 12 |
+| Beta 14 | Coming soon | 13 |
+| Beta 15 | Coming soon | 14 |
+| Beta 16 | Coming soon | 15 |
+| Beta 17 | Coming soon | 16 |
+| Beta 18 | Coming soon | 17 |
+| Beta 19 | Coming soon | 18 |
+| Beta 20 | Coming soon | 19 |
+| Beta 21 | Coming soon | 20 |
+| Beta 22 | Coming soon | 21 |
+| Beta 23 | Coming soon | 22 |
+| Beta 24 | Coming soon | 23 |
+| Beta 25 | Coming soon | 24 |
+| Beta 26 | Coming soon | 25 |
+| Beta 27 | Coming soon | 26 |
+| Beta 28 | Coming soon | 27 |
+| Beta 29 | Coming soon | 28 |
+| Beta 30 | Coming soon | 29 |
+| Beta 31 | Coming soon | 30 |
+| Beta 32 | Coming soon | 31 |
+| Beta 33 | Coming soon | 32 |
+| Beta 34 | Coming soon | 33 |
+| Beta 35 | Coming soon | 34 |
+| Beta 36 | Coming soon | 35 |
+| Beta 37 | Coming soon | 36 |
+| Beta 38 | Coming soon | 37 |
+| Beta 39 | Coming soon | 38 |
+| Beta 40 | Coming soon | 39 |
+
+</details> <!-- End of 2024 April release timeline table !-->
+
+| 0️⃣️5️⃣️ 2024 May |
+|---|
+
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
+
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|---|---|---|
+| Beta 41 | Coming soon | 40 |
+| Beta 42 | Coming soon | 40 |
+| Beta 43 | Coming soon | 41 |
+| Beta 44 | Coming soon | 42 |
+| Beta 45 | Coming soon | 43 |
+| Beta 46 | Coming soon | 44 |
+| Beta 47 | Coming soon | 45 |
+| Beta 48 | Coming soon | 46 |
+| Beta 49 | Coming soon | 47 |
+| Beta 50 | Coming soon | 48 |
+| Beta 51 | Coming soon | 49 |
+| Beta 52 | Coming soon | 50 |
+| Beta 53 | Coming soon | 51 |
+| Beta 54 | Coming soon | 52 |
+| Beta 55 | Coming soon | 53 |
+| Beta 56 | Coming soon | 54 |
+| Beta 57 | Coming soon | 55 |
+| Beta 58 | Coming soon | 56 |
+| Beta 59 | Coming soon | 57 |
+| Beta 60 | Coming soon | 58 |
+| Beta 61 | Coming soon | 59 |
+| Beta 62 | Coming soon | 60 |
+| Beta 63 | Coming soon | 61 |
+| Beta 64 | Coming soon | 62 |
+| 4 year anniversary update | Coming soon | 63 |
+
+</details> <!-- End of 2024 May release timeline table !-->
 
 </div>
 
-</detailS>
+</details> <!-- End of release timeline section !-->
 
 ***
 
@@ -55,7 +136,6 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-todo with seanpm2001/seanpm2001
 Résumé at top
 Improvements to guestbook display
 - Dropdown of people who have signed
@@ -64,29 +144,19 @@ Notes about calendar
 Notes about municipalities, etc
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
-Update to file tree (more entries, and condense new+existing ones)
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Update to document limits
 Section about upcoming projects
-Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
-Information on project difficulties
-Information on complexity
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
-George Floyd memorial and information on join dates for my online accounts
-Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
 My setup
 Self hosting plans for the future
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 Centering various tables and text
 Internet status and speedtest link
-anti-Google | to go under: stances
-Discussions for /seanpm2001/seanpm2001/
-Getting started
 Favorite works
-Public domain gallery of myself
 Forks and browsing forks
 Tabs and tab video (plus a sample, speed it up if needed)
 My server and server plans + request for help
@@ -103,33 +173,28 @@ Music section
 | AudioDB, bandcamp
 Certificates
 UnSaaSS project
+Update to file tree (more entries, and condense new+existing ones)
 Update the file tree, and link to ROOTFILES.base
-Update in/formation about Windows and MacOS support
+Update information about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
-Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
-Public Media Gallery
 Updates to Legend
-Collectives listing
-Operating Systems collective
-Video games collective
-Software LIBraries collective
-Communications collective
 Full repository listing WIP
 Nicknames (SEAN9000)
-Reference fork style guide in #forks
 Model projects and model project status repository link
-Major project: BootDown
-Major project: AquariOS
-Major project: BathhouseOS
-Major project: MCPYE
-Major project: Tetris128
 Major project: Miscellaneous
 Fix existing mega project section: Other projects
 Fix existing mega project section: Meadows
 Fix existing mega project section: WacOS
+Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
+Information on necroposting and project development cycle (in years)
+Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
+Add title attribute to all images
+Replace all Markdown style images with HTML style images
+Add comment markers to all details tags
+
 ```
 
-</details>
+</details> <!-- End of current remodel goals section !-->
 
 These are the current goals of the remodel.
 
@@ -265,9 +330,30 @@ Fix existing mega project section: MEDOS
 Major project: PNC English
 Model project information
 File history removal notice at V101
+Collectives listing
+Operating Systems collective
+Video games collective
+Software LIBraries collective
+Communications collective
+Public Media Gallery
+Public domain gallery of myself
+Discussions for /seanpm2001/seanpm2001/
+Major project: BootDown
+Major project: AquariOS
+Major project: BathhouseOS
+Major project: MCPYE
+Major project: Tetris128
+Reference fork style guide in #forks
+Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
+anti-Google | to go under: stances
+Information on complexity
+Information on project difficulties
+George Floyd memorial and information on join dates for my online accounts
+Getting started
+Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 ```
 
-</details>
+</details> <!-- End of completed remodel goals section !-->
 
 These are the completed goals of the remodel.
 
