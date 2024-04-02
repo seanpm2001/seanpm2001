@@ -3,10 +3,11 @@
 
 <details open><summary><p><b>Collapse this entire page</b></p></summary>
 
+<!-- Obsolete !-->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
+<!-- [![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-) !-->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-↑ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them.
+<!-- ↑ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them. !-->
 
 ###### [🔝️ Top](#-Top)
 
@@ -531,7 +532,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 11 - 2024, Monday, April 1st` |
+| `Beta 12 - 2024, Tuesday, April 2nd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -542,7 +543,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 10 days down, 54 days to go, as of 2024, Monday, April 1st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 11 days down, 53 days to go, as of 2024, Tuesday, April 2nd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -579,7 +580,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
 | [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
-| Beta 12 | Coming soon | 11 |
+| [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
 | Beta 13 | Coming soon | 12 |
 | Beta 14 | Coming soon | 13 |
 | Beta 15 | Coming soon | 14 |
@@ -656,7 +657,12 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 <img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-**Current tasks todo**
+| 📋️ Task completion progress ☑️ |
+|---|
+| `100` **/** `145` **tasks** _(068.96%)_ |
+| _as of 2024, Tuesday, April 2nd_ |
+
+**Current tasks todo (45 tasks, as of 2024, Tuesday, April 2nd)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -665,13 +671,10 @@ Résumé at top
 Improvements to guestbook display
 - Dropdown of people who have signed
 - More links
-Notes about calendar
-Notes about municipalities, etc
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
-Update to document limits
 Section about upcoming projects
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
@@ -683,7 +686,6 @@ Centering various tables and text
 Internet status and speedtest link
 Favorite works
 Forks and browsing forks
-Tabs and tab video (plus a sample, speed it up if needed)
 My server and server plans + request for help
 GistHub
 Graphic design info (programs used)
@@ -692,8 +694,6 @@ My web stack
 Rework of index
 | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 New icon to center at the top
-New flags
-Government section
 Music section
 | AudioDB, bandcamp
 Certificates
@@ -716,7 +716,6 @@ Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Univer
 Add title attribute to all images
 Replace all Markdown style images with HTML style images
 Add comment markers to all details tags
-
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -731,7 +730,7 @@ They are a work in progress.
 
 <img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-**Implemented so far:**
+**Implemented so far (100 tasks, as of 2024, Tuesday, April 2nd):**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -876,6 +875,16 @@ Information on project difficulties
 George Floyd memorial and information on join dates for my online accounts
 Getting started
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
+Rename section: GitHub interactions
+| Move sections: GitHub interactions, Optimizing this page, and Developer limits into: About this page
+Add section: what's with all of the Emojis
+| With answer based on these terms: Navigation, design, use of almost every Emoji (or as many as possible) in a unique way
+Notes about calendar
+Notes about municipalities, etc
+Tabs and tab video (plus a sample, speed it up if needed)
+Update to document limits
+New flags
+Government section
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -1043,8 +1052,6 @@ Companies I am currently considering include:
 
 </details>
 
-</details>
-
 ***
 
 #### [🗼️ What I have collaborated on](#-What-I-have-collaborated-on)
@@ -1066,6 +1073,8 @@ I have collaborated on a few projects on GitHub, including
 [Nea/Markdown++](https://github.com/nea/MarkdownViewerPlusPlus) 100% issues (2021) [1](https://github.com/nea/MarkdownViewerPlusPlus/issues/138)
 
 [Jmdugan/Blocklists](https://github.com/jmdugan/blocklists) 100% issues (2021) [1](https://github.com/jmdugan/blocklists/issues/80)
+
+</details>
 
 </details>
 
@@ -1565,7 +1574,7 @@ I was a fan of Windows up until Windows 10. I began to try to switch to Linux fr
 
 My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
 
-</details>
+</details> <!-- End of Linux section !-->
 
 ***
 
@@ -1575,7 +1584,17 @@ My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04
 
 My projects are very complex. I prefer it this way, as I see beauty in complexity, even when it is conflicting with the KISS (Keep It Simple, Stupid) principle
 
-</details>
+</details> <!-- End of complexity section !-->
+
+***
+
+## [🗓️ Calendar](#-Calendar)
+
+<details><summary>[Click/tap here to expand/collapse this section]</summary>
+
+I keep a very complex calendar to organize my projects. It was started in 2022 December, when I upgraded my ProtonMail account.
+
+</details> <!-- End of calendar section !-->
 
 ***
 
@@ -1585,7 +1604,7 @@ My projects are very complex. I prefer it this way, as I see beauty in complexit
 
 Due to the quantity and complexity of my projects, I have difficulty maintaining it all. I never intended to do this all alone, and I desire developers wherever possible.
 
-</details>
+</details> <!-- End of project difficulties section !-->
 
 ***
 
@@ -1947,8 +1966,8 @@ These projects are information articles regarding my work on Git and GitHub.
 Since nobody has asked any questions yet, I will list some common ones here:
 
 <details><summary>[Click/tap here to expand/collapse the Frequently Asked Questions board list]</summary>
-	
-***
+
+---
 
 ### [❔️ Why is Python your favorite programming language?](#-Why-is-Python-your-favorite-programming-language-)
 
@@ -1956,7 +1975,9 @@ Since nobody has asked any questions yet, I will list some common ones here:
 
 See below for the full store. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
 
-</details>
+</details> <!-- End of answer for: Why is Python your favorite programming language? !-->
+
+---
 
 ### [❔️ What got you into programming?](#-What-got-you-into-programming-)
 
@@ -1966,7 +1987,9 @@ In 2015, I was switched from an incorrect class to a class I was supposed to be 
 
 Although the class mainly just used Scratch, this is where my interest skyrocketed. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
 
-</details>
+</details> <!-- End of answer for: What got you into programming? !-->
+
+---
 
 ### [❔️ How well can you program in Java?](#-How-well-can-you-program-in-Java-)
 
@@ -1974,7 +1997,9 @@ Although the class mainly just used Scratch, this is where my interest skyrocket
 
 I took an AP Java class, but I was missing too many stepping stones to fully get it. I did get several concepts of it, and this class familiarized me with Java quite a bit, along with using IDEs (Eclipse) I am not too good at Java, but I can do some basic stuff, not just Hello World programs. I can't write an entire program in Java though, I feel like my knowledge of Java basics and intermediate is 2.8%
 
-</details>
+</details> <!-- End of answer for: How well can you program in Java? !-->
+
+---
 
 ### [❔️ Why do you use so many different programming languages?](#-Why-do-you-use-so-many-different-programming-languages-)
 
@@ -1982,7 +2007,9 @@ I took an AP Java class, but I was missing too many stepping stones to fully get
 
 I have always been a linguist. I like the looks of all the different programming languages and their syntax. Also, some projects are dependant on some languages. When I create an IDE out of a language, I prefer to use that language to emulate that language.
 
-</details>
+</details> <!-- End of answer for: Why do you use so many different programming languages? !-->
+
+---
 
 ### [❔️ Do you actually know all those languages?](#-Do-you-actually-know-all-those-languages-)
 
@@ -1990,7 +2017,9 @@ I have always been a linguist. I like the looks of all the different programming
 
 I know a few, but can't do more than the very basics in most. Languages I am good at include Python, BASH/Shell, HTML5, JavaScript, and Java.
 
-</details>
+</details> <!-- End of answer for: Do you actually know all those languages? !-->
+
+---
 
 ### [❔️ Why do you put so much info out?](#-Why-do-you-put-so-much-info-out-)
 
@@ -1998,7 +2027,9 @@ I know a few, but can't do more than the very basics in most. Languages I am goo
 
 I have had years of decisions on what info I put out and what I don't put out. All data put out is thought out for 30 minutes to 5 years beforehand.
 
-</details>
+</details> <!-- End of answer for: Why do you put so much info out? !-->
+
+---
 
 ### [❔️ Why do you have image projects? Doesn't that defeat the point of GitHub?](#-Why-do-you-have-image-projects-Doesn-t-that-defeat-the-point-of-GitHub-)
 
@@ -2006,7 +2037,9 @@ I have had years of decisions on what info I put out and what I don't put out. A
 
 It does in a way, but I don't have any good image platforms. Since GitHub is a version control site, and I add in content besides images, it fits pretty well, other than proper image viewing without downloading the repository.
 
-</details>
+</details> <!-- End of answer for: Why do you have image projects? Doesn't that defeat the point of GitHub? !-->
+
+---
 
 ### [❔️ Why are so many projects of yours so underdeveloped?](#-Why-are-so-many-projects-of-yours-so-underdeveloped-)
 
@@ -2014,7 +2047,9 @@ It does in a way, but I don't have any good image platforms. Since GitHub is a v
 
 I joined GitHub with the goal of collaboration. I am still building a following, and hope to have developers contributing to these projects based on their interest level in the project. There are so many of them, as I have been going through and adding new ideas as they come up.
 
-</details>
+</details> <!-- End of answer for: Why are so many projects of yours so underdeveloped? !-->
+
+---
 
 ### [❔️ How are you profitable?](#-How-are-you-profitable)
 
@@ -2022,7 +2057,9 @@ I joined GitHub with the goal of collaboration. I am still building a following,
 
 I am not profitable yet, but I am working on it. Since I work in the FOSS industry, I rely on donations and sponsors. I will try to limit my usage of ads (and I will not make sketchy, crappy ads like Playrix's homescape, gardenscape, etc. ads, or ads like about 99.998% of the ads on Google Play)
 
-</details>
+</details> <!-- End of answer for: How are you profitable? !-->
+
+---
 
 ### [❔️ Why did you switch to Linux?](#-Why-did-you-switch-to-Linux-)
 
@@ -2030,7 +2067,9 @@ I am not profitable yet, but I am working on it. Since I work in the FOSS indust
 
 Linux is great. I have had a really, really horrible experience with Windows 10, there is too much to get into. I intended to start with Fedora Linux, but I had to go with Ubuntu 20.04, as I feared that I might void my laptops warranty (which I don't want to do, since this laptop costs over $1.4K)
 
-</details>
+</details> <!-- End of answer for: Why did you switch to Linux? !-->
+
+---
 
 ### [❔️ What is the purpose of the life archive project?](#-What-is-the-purpose-of-the-life-archive-project)
 
@@ -2038,7 +2077,9 @@ Linux is great. I have had a really, really horrible experience with Windows 10,
 
 My life archive project is a full-time hobby project where I archive my entire life.
 
-</details>
+</details> <!-- End of answer for: What is the purpose of the life archive project? !-->
+
+---
 
 ### [❔️ Why did you follow over 1000 users one night?](#-Why-did-you-follow-over-1000-users-one-night-)
 
@@ -2048,7 +2089,9 @@ I have been trying to gain followers on GitHub so that I eventually get someone 
 
 I got my account suspended 3 days later, and along with other reasons, I decided not to do this again. All I had to do to unsuspend my account was re-verify my email address.
 
-</details>
+</details> <!-- End of answer for: Why did you follow over 1000 users one night? !-->
+
+---
 
 ### [❔️ Why do you have so many tabs open?]#-Why-do-you-have-so-many-tabs-open-)
 
@@ -2056,7 +2099,9 @@ I got my account suspended 3 days later, and along with other reasons, I decided
 
 I have a lot of different projects. I have to manage lots of different projects. I have over 70 different Firefox profiles, each one containing their own set of tabs, however I only keep 1-3 profiles open at once. I close out of these when I finish with them for now.
 
-</details>
+</details> <!-- End of answer for: Why do you have so many tabs open? !-->
+
+---
 
 ### [❔️ Why do you use Wikipedia so much?](#-Why-do-you-use-Wikipedia-so-much-)
 
@@ -2064,7 +2109,9 @@ I have a lot of different projects. I have to manage lots of different projects.
 
 Wikipedia is one of my most used sites, GitHub is second. I find Wikipedia to be a great resource, and good for researching programming, chemistry, history, and more. I intend to start donating money to Wikipedia monthly some day. 
 
-</details>
+</details> <!-- End of answer for: Why do you use Wikipedia so much? !-->
+
+---
 
 ### [❔️ Why do you play so many different games?](#Why-do-you-play-so-many-different-games-)
 
@@ -2072,7 +2119,9 @@ Wikipedia is one of my most used sites, GitHub is second. I find Wikipedia to be
 
 I like to have balance in my life, and have periods to relax from programming. I come up with new ideas during this time period as well, and do other things, such as chores around the house.
 
-</details>
+</details> <!-- End of answer for: Why do you play so many different games? !-->
+
+---
 
 ### [❔️ Why do you play kids games?](#Why-do-you-play-kids-games-)
 
@@ -2080,7 +2129,9 @@ I like to have balance in my life, and have periods to relax from programming. I
 
 I play games that have a general target of kids, but are also just past-time games. Examples include Restaurant/Bakery/Pet Shop/Fashion/Farm/City story, and Merge Plane. These games can be for both kids and adults. I played these games in my childhood, and have nostalgic ties to them. Some of them are just genuinely fun to begin with.
 
-</details>
+</details> <!-- End of answer for: Why do you play kids games? !-->
+
+---
 
 ### [❔️ Why do you hate Google so much?](#-Why-do-you-hate-Google-so-much-)
 
@@ -2088,7 +2139,9 @@ I play games that have a general target of kids, but are also just past-time gam
 
 Google has a long history of privacy invasion, hypocrasy, being a monopoly, killing off parts of the Internet, and more. I turned against Google in 2018.
 
-</details>
+</details> <!-- End of answer for: Why do you hate Google so much? !-->
+
+---
 
 ### [❔️ Why do some of your projects use Go, Dart, or Flutter when you hate Google?](#-Why-do-some-of-your-projects-use-Go-Dart-or-Flutter-when-you-hate-Google-)
 
@@ -2100,13 +2153,25 @@ Also, a few projects are written in Go! (a language that came out over 4 years b
 
 Since Go! (2004) and Go (2008/2009) both use the .go file extension, GitHub's lingust feature identifies it as Go instead of Go! Both languages vary significantly in Syntax.
 
-</details>
+</details> <!-- End of answer for: Why do some of your projects use Go, Dart, or Flutter when you hate Google? !-->
+
+---
+
+### [❔️ what's with all of the Emojis?](#-What-s-with-all-of-the-Emojis-)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
+
+On my GitHub profile page, I am using Emojis for navigation, and design purposes. I am trying to make use of almost every Emoji (or as many as possible) in a unique way.
+
+On my other projects, they are done for the same purposes.
+
+</details> <!-- End of answer for: What's with all of the Emojis !-->
 
 ---
 
 _End of frequently asked questions._
 
-</details>
+</details> <!-- End of Frequently Asked Questions section !-->
 
 ---
 
@@ -2490,13 +2555,13 @@ Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com
 
 #### [🅱️ GitHub Stats B](#-GitHub-Stats-B)
 
-Stats generated from [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_A/)
+Stats generated from [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_B/)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 > I need help getting this workflow to run.
 
-These stats are largely experimental. As of 2024, Monday, April 1st, I have not gotten any of them to successfully generate yet.
+These stats are largely experimental. As of 2024, Tuesday, April 2nd, I have not gotten any of them to successfully generate yet.
 
 | 🔧️ Maintenance | Maintenance 🔧️ |
 |---|---|
@@ -2506,35 +2571,62 @@ These stats are largely experimental. As of 2024, Monday, April 1st, I have not 
 
 | 📈️ Chart/graph 📊️  | ℹ️ Description ℹ️ |
 |---|---|
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2020.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2020) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2020)"> | `GitHub Skyline for the year 2020` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2021.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2021) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2021)"> | `GitHub Skyline for the year 2021` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2022.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2022) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2022)"> | `GitHub Skyline for the year 2022` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2023.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2023) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2023)"> | `GitHub Skyline for the year 2023` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2024) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2024)"> | `GitHub Skyline for the year 2024` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2020.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2020) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2020)"> | `GitHub City for the year 2020` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2021.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2021) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2021)"> | `GitHub City for the year 2021` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2022.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2022) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2022)"> | `GitHub City for the year 2022` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2023.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2023) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2023)"> | `GitHub City for the year 2023` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2024) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2024)"> | `GitHub City for the year 2024` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001-GitHub-Discussions.svg" alt="GitHub Stats B: Seanpm2001 Discussions" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub discussions"> | `GitHub discussions statistics` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_HalfYear_IsometricCalendar.svg" alt="GitHub Stats B: Seanpm2001 Commit Calendar (last 6 months) isometric view" width="640" height="480" title="[GitHub Stats B@seanpm2001] Seanpm2001 Commit Calendar (last 6 months) isometric view"> | `GitHub commit heatmap for the last 6 months (isometric view)` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_FullYear_IsometricCalendar.svg" alt="GitHub Stats B: Seanpm2001 Commit Calendar (last 12 months) isometric view" width="640" height="480" title="[GitHub Stats B@seanpm2001] Seanpm2001 Commit Calendar (last 12 months) isometric view"> | `GitHub commit heatmap for the last 12 months (isometric view)` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Labels_20.svg" alt="GitHub Stats B: Seanpm2001 Starred topic labels (20)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub starred topic labels (x20)"> | `Top 20 GitHub starred topics labels` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Icons_60.svg" alt="GitHub Stats B: Seanpm2001 GitHub Starred topics icons (60x)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub starred topic icons (x60)"> | `Top 60 GitHub starred topics icons` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Sponsorships.svg" alt="GitHub Stats B: Seanpm2001 GitHub Sponsorship statistics" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub sponsorship statistics"> | `GitHub sponsorship information for @seanpm2001` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Calendar_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub calendar (2024)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub commit calendar heatmap (2024)"> | `GitHub commit calendar heatmap for @seanpm2001 in 2024` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Calendar_2020-Present.svg" alt="GitHub Stats B: Seanpm2001 GitHub calendar (2020 to present)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub commit calendar heatmap (2020-present)"> | `GitHub commit calendar heatmap for @seanpm2001 from 2020 to the present` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Achievements.svg" alt="GitHub Stats B: Seanpm2001 GitHub achievements" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub achievements"> | `GitHub achievements statistics for @seanpm2001` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Stargazers_Graph.svg" alt="GitHub Stats B: Seanpm2001 GitHub stargazers graph" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub stargazers graph"> | `GitHub stargazers graph for @seanpm2001` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Stargazers_Cjart.svg" alt="GitHub Stats B: Seanpm2001 GitHub stargazers chart" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub stargazers chart"> | `GitHub stargazers chart for @seanpm2001` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Licenses_Overview.svg" alt="GitHub Stats B: License overview for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] License usage overview"> | `GitHub license usage overview for @seanpm2001` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Licenses_Ratio.svg" alt="GitHub Stats B: License ratio for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] License ratio"> | `GitHub license ratio for @seanpm2001` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Repository_Traffic.svg" alt="GitHub Stats B: Repository traffic statistics for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub repository traffic statistics"> | `GitHub repoitory traffic statistics for @seanpm2001` |
-| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Languages.svg" alt="GitHub Stats B: GitHub general statistics for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] General GitHub statistics"> | `General GitHub statistics for @seanpm2001 (including language usage` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2020.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2020) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2020)"> | `GitHub Skyline for the year 2020` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2021.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2021) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2021)"> | `GitHub Skyline for the year 2021` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2022.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2022) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2022)"> | `GitHub Skyline for the year 2022` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2023.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2023) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2023)"> | `GitHub Skyline for the year 2023` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2024) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2024)"> | `GitHub Skyline for the year 2024` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2020.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2020) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2020)"> | `GitHub City for the year 2020` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2021.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2021) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2021)"> | `GitHub City for the year 2021` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2022.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2022) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2022)"> | `GitHub City for the year 2022` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2023.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2023) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2023)"> | `GitHub City for the year 2023` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2024) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2024)"> | `GitHub City for the year 2024` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001-GitHub-Discussions.svg" alt="GitHub Stats B: Seanpm2001 Discussions" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub discussions"> | `GitHub discussions statistics` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_HalfYear_IsometricCalendar.svg" alt="GitHub Stats B: Seanpm2001 Commit Calendar (last 6 months) isometric view" width="640" height="480" title="[GitHub Stats B@seanpm2001] Seanpm2001 Commit Calendar (last 6 months) isometric view"> | `GitHub commit heatmap for the last 6 months (isometric view)` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_FullYear_IsometricCalendar.svg" alt="GitHub Stats B: Seanpm2001 Commit Calendar (last 12 months) isometric view" width="640" height="480" title="[GitHub Stats B@seanpm2001] Seanpm2001 Commit Calendar (last 12 months) isometric view"> | `GitHub commit heatmap for the last 12 months (isometric view)` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Labels_20.svg" alt="GitHub Stats B: Seanpm2001 Starred topic labels (20)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub starred topic labels (x20)"> | `Top 20 GitHub starred topics labels` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Icons_60.svg" alt="GitHub Stats B: Seanpm2001 GitHub Starred topics icons (60x)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub starred topic icons (x60)"> | `Top 60 GitHub starred topics icons` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Sponsorships.svg" alt="GitHub Stats B: Seanpm2001 GitHub Sponsorship statistics" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub sponsorship statistics"> | `GitHub sponsorship information for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Calendar_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub calendar (2024)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub commit calendar heatmap (2024)"> | `GitHub commit calendar heatmap for @seanpm2001 in 2024` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Calendar_2020-Present.svg" alt="GitHub Stats B: Seanpm2001 GitHub calendar (2020 to present)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub commit calendar heatmap (2020-present)"> | `GitHub commit calendar heatmap for @seanpm2001 from 2020 to the present` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Achievements.svg" alt="GitHub Stats B: Seanpm2001 GitHub achievements" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub achievements"> | `GitHub achievements statistics for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Stargazers_Graph.svg" alt="GitHub Stats B: Seanpm2001 GitHub stargazers graph" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub stargazers graph"> | `GitHub stargazers graph for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Stargazers_Cjart.svg" alt="GitHub Stats B: Seanpm2001 GitHub stargazers chart" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub stargazers chart"> | `GitHub stargazers chart for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Licenses_Overview.svg" alt="GitHub Stats B: License overview for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] License usage overview"> | `GitHub license usage overview for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Licenses_Ratio.svg" alt="GitHub Stats B: License ratio for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] License ratio"> | `GitHub license ratio for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Repository_Traffic.svg" alt="GitHub Stats B: Repository traffic statistics for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub repository traffic statistics"> | `GitHub repoitory traffic statistics for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Languages.svg" alt="GitHub Stats B: GitHub general statistics for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] General GitHub statistics"> | `General GitHub statistics for @seanpm2001 (including language usage` |
 
 </details> <!-- End of GitHub Stats B table !-->
 
 <!--
+
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2020.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2021.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2022.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2023.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2024.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2020.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2021.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2022.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2023.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_City_2024.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001-GitHub-Discussions.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_HalfYear_IsometricCalendar.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_FullYear_IsometricCalendar.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Labels_20.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Icons_60.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Sponsorships.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Calendar_2024.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Calendar_2020-Present.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Achievements.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Stargazers_Graph.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Stargazers_Chart.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Licenses_Overview.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Licenses_Ratio.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Repository_Traffic.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/generated/GitHub_Stats_B_GitHub_Languages.svg
+
 https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2021.svg
 https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2022.svg
 https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2023.svg
@@ -5249,6 +5341,141 @@ The justification for this is that some accounts for social media can be multipl
 
 ***
 
+## [📑️ Browser tabs](#-Browser-tabs)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+In order to maintain these projects, I have a lot of tabs open, so that I can work with them when needed, have faster access, and have the ability to queue tasks. This video showcases my nightly process of recording tabs, at a record point in 2024, March (where I had 1,242 tabs open) since I am not using a Chromium-based browser, it is easier to have this many tabs open, especially light ones. It requires nearly 40 gigabytes of RAM to have 1242 tabs open at once.
+
+<details open><summary><p><b>Click/tap here to expand/collapse the tab video</b></p></summary>
+
+https://github.com/seanpm2001/seanpm2001/assets/65933340/689bd442-8f3a-4eb2-9ec8-0ddc61d3bd66
+
+<!-- Link has to be formatted like this, or it won't load as a preview !-->
+
+| ![TabTourVideo1_2024March13th_1080p.webm](https://github.com/seanpm2001/seanpm2001/assets/65933340/689bd442-8f3a-4eb2-9ec8-0ddc61d3bd66) |
+|---|
+| 2024, Wednesday, March 13th tab video (1080p, `video/WebM`) |
+
+</details> <!-- End of tab video section !-->
+
+<details open><summary><p><b>Click/tap here to expand/collapse the tab video download section</b></p></summary>
+
+| 📥️ **Download video** 🎞️ |
+|---|
+
+> **Note** The GitHub link isn't permanent, and the file is too large to upload to the repository, so ProtonDrive versions are available. The original uncut video is not yet available, due to it exposing private projects.
+
+| 1️⃣️ | 2️⃣️ | 3️⃣️ | 4️⃣️ |
+|---|---|---|---|
+| [Download in WebM (1080p) (48 MB)](https://drive.proton.me/urls/JW8FSCCJKM#pMCKz4ekwqAT) | [Download in MP4 (1080p) (142 MB)](https://drive.proton.me/urls/632J0CQX5M#WRow4ZZWyJNg) | [Download in WebM (720p) (41 MB)](https://drive.proton.me/urls/KH82MD5G18#0WwkACLYs6x8) | [Original uncut video (not yet available)](https://www.example.com/) |
+
+</details> <!-- End of tab video download section !-->
+
+The amount of tabs I have open as of April 1st is 1,144. I try to reduce them, but they build up rapidly.
+
+</details> <!-- End of Browser Tabs section !-->
+
+***
+
+## [🌃️ Administrative units](#-Administrative-units)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I organize my projects with administrative units, which are heavily inspired by those of the countries of the world.
+
+Here is the current draft for the structure:
+
+- Level A: Undefined (reserved)
+- - Other names: None
+- Level B: Undefined (reserved)
+- - Other names: None
+- Level C: Undefined (reserved)
+- - Other names: None
+- Level D: Undefined (reserved)
+- - Other names: None
+- Level E: Undefined (reserved)
+- - Other names: None
+- Level F: Union of Unions
+- - Other names: None
+- Level zero: Multiverse (reserved)
+- - Other names: None
+- First level: Omniverse (everything)
+- - Other names: None
+- Second level: Universe (all, including projects outside my own)
+- - Other names: None
+- Third level: Galaxy (all)
+- - Other names: None
+- Fourth level: Planet (currently undefined)
+- - Other names: None
+- Fifth level: Continent (currently undefined)
+- - Other names: Empire, software empire
+- Sixth level: Clan (usergroup)
+- - Other names: Tribe (should working groups be moved up here?)
+- Seventh level: Leader/Developer (user)
+- - Other names: Developer, writer, artist, president, chancellor, prime minister
+- Eighth level: Metropolis (currently undefined)
+- - Other names: region, megapolis
+- Ninth level: Republic (currently undefined)
+- - Other names: None
+- Tenth level: Province (currently undefined)
+- - Other names: Wilayat, Governorate, State, Oblast, Voblast
+- Eleventh level: District (currently undefined)
+- - Other names: Raion, County
+- Twelfth level: Subdistrict (currently undefined)
+- - Other names: Outskirts
+- Thirteenth level: Community (currently undefined)
+- - Other names: Hromada, rural
+- Fourteenth level: Commitee (currently undefined)
+- - Other names: Task force
+- Fifteenth level: Working group (currently undefined)
+- - Other names: WG, club, charter
+- Sixteenth level: Repository (repository)
+- - Other names: Repo
+- Seventeenth level: Branch (git branch)
+- - Other names: Tree branch
+- Eighteenth level: Directory/vagrant files (folder/dir, and vagrant files outside)
+- - Other names: Folder, file
+- Nineteenth level: Source code, Binary files (self-explanatory)
+- - Other names: Blob
+- Twentieth level: level: Bits and bytes ("atoms")
+- - Other names: Tryte, octet, kilobyte, kibibyte, megabyte, mebibyte, gigabyte, gibibyte
+- Twenty-first level: Nothing
+- - Other names: Void, null, zero, abyss, non-existent
+
+There are some new terms I need to account for:
+
+- Collective
+- Arrondissements
+- Commune
+- Communal sections
+- Departments
+- Selo
+
+</details> <!-- End of Administrative Units section !-->
+
+***
+
+## [🇮🇪️ Government](#-Government)
+
+<details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
+
+I am part of my own small government. It has flags for its positions. The government and its structure is currently a work in progress.
+
+| 🔺️ Position | 🎌️ Flag |
+|---|---|
+| Leadership | <img src="/Graphics/Government/Flags/Leader/Independent-Republic-of-Sean_RFlag_2400x1600_V1_HighCompression.png" alt="Flag of the Independent Republic of Sean failed to load" title="Leadership (Flag of the Independent Republic of Sean" width="240" height="160"> |
+| Clan | <img src="/Graphics/Government/Flags/Other/Llewellyn_Family_Flag.svg" alt="Llewellyn family flag failed to load" title="Llewellyn clan flag" width="400" height="240"> |
+| Congress | <img src="/Graphics/Government/Flags/Congress/Flag_of_the_Netherlands.svg" alt="Flag of the Netherlands failed to load" title="Congress" width="300" height="200"> |
+| Union | <img src="/Graphics/Government/Flags/Union/Autonomous-Republic-of-Sean_RFlag_1800x1200_V1_HighCompression.png" alt="Autonomous Republic flag failed to load" title="Flag of the Autonomous Republic of Sean" width="600" heght="400"> |
+| Finland territories | <img src="/Graphics/Government/Flags/Territories/Finland/Flag_of_Finland.svg" alt="Flag of Finland failed to load" title="Finland" width="600" height="366"> |
+| American territories | <img src="/Graphics/Government/Flags/Territories/United-States-of-America/Flag_of_the_United_States_(DoS_ECA_Color_Standard).svg" alt="USA flag failed to load" title="USA" width="411" height="216"> |
+| Other | <img src="/Graphics/Government/Flags/Other/Flag_of_Ireland.svg" alt="Flag of Ireland failed to load" title="Ireland" width="400" height="200"> |
+
+</details> <!-- End of government section !-->
+
+***
+
 ## [🇺🇳️ Region related software](#-Region-related-software)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
@@ -5660,11 +5887,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `85 (2024, Monday, April 1st at 05:42 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,907`
-- **Word count:** `057,171`
-- **Character count (with spaces):** `0,408,521 characters`
-- **Character count (without spaces)** `0,358,038 characters`
+- **File version:** `86 (2024, Tuesday, April 2nd at 04:10 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,195`
+- **Word count:** `059,533`
+- **Character count (with spaces):** `0,424,449 characters`
+- **Character count (without spaces)** `0,371,975 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7030,7 +7257,7 @@ Outdated, as of 2023, Friday, May 26th
 - [x] Updated the contributors section, adding [`@ckp95`](https://github.com/ckp95/)
 - [ ] No other changes in version 66
 
-</details>
+</details> <!-- End of V66 !-->
 
 ---
 
@@ -7043,7 +7270,7 @@ Outdated, as of 2023, Friday, May 26th
 - [x] Updated the contributors section, adding [`@JustAnotherArchivist`](https://github.com/JustAnotherArchivist/)
 - [ ] No other changes in version 67
 
-</details>
+</details> <!-- End of V67 !-->
 
 ---
 
@@ -7064,7 +7291,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 68
 - [ ] No other changes in version 68
 
-</details>
+</details> <!-- End of V68 !-->
 
 ---
 
@@ -7077,7 +7304,7 @@ Outdated, as of 2023, Friday, May 26th
 - [x] Updated the contributors section, adding [`@Mani-1436`](https://github.com/Mani-1436/)
 - [ ] No other changes in version 69
 
-</details>
+</details> <!-- End of V69 !-->
 
 ---
 
@@ -7090,7 +7317,7 @@ Outdated, as of 2023, Friday, May 26th
 - [x] Updated the contributors section, adding [`@BTCLaravel`](https://github.com/BTCLaravel/)
 - [ ] No other changes in version 70
 
-</details>
+</details> <!-- End of V70 !-->
 
 ---
 
@@ -7116,7 +7343,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 71
 - [ ] No other changes in version 71
 
-</details>
+</details> <!-- End of V71 !-->
 
 ---
 
@@ -7240,7 +7467,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 72
 - [ ] No other changes in version 72
 
-</details>
+</details> <!-- End of V72 !-->
 
 ---
 
@@ -7302,7 +7529,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 73
 - [ ] No other changes in version 73
 
-</details>
+</details> <!-- End of V73 !-->
 
 ---
 
@@ -7335,7 +7562,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 74
 - [ ] No other changes in version 74
 
-</details>
+</details> <!-- End of V74 !-->
 
 ---
 
@@ -7357,7 +7584,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Fixed some errors in the entries for versions 72, 73, and 74
 - [ ] No other changes in version 75
 
-</details>
+</details> <!-- End of V675 !-->
 
 ---
 
@@ -7386,7 +7613,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added Copyleft notice and link to license file
 - [ ] No other changes in version 76
 
-</details>
+</details> <!-- End of V76 !-->
 
 ---
 
@@ -7423,7 +7650,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 77
 - [ ] No other changes in version 77
 
-</details>
+</details> <!-- End of V77 !-->
 
 ---
 
@@ -7453,7 +7680,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 78
 - [ ] No other changes in version 78
 
-</details>
+</details> <!-- End of V78 !-->
 
 ---
 
@@ -7495,7 +7722,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added an entry for version 79
 - [ ] No other changes in version 79
 
-</details>
+</details> <!-- End of V79 !-->
 
 ---
 
@@ -7538,7 +7765,7 @@ Outdated, as of 2023, Friday, May 26th
 - [x] Collapsed the contributors section
 - [ ] No other changes in version 80
 
-</details>
+</details> <!-- End of V80 !-->
 
 ---
 
@@ -7583,7 +7810,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added blank entries for versions 161 and 162
 - [ ] No other changes in version 81
 
-</details>
+</details> <!-- End of V81 !-->
 
 ---
 
@@ -7627,7 +7854,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added blank entries for versions 163 and 164
 - [ ] No other changes in version 82
 
-</details>
+</details> <!-- End of V82 !-->
 
 ---
 
@@ -7678,7 +7905,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added blank entries for versions 165 and 166
 - [ ] No other changes in version 83
 
-</details>
+</details> <!-- End of V83 !-->
 
 ---
 
@@ -7716,7 +7943,7 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added blank entries for versions 167 and 168
 - [ ] No other changes in version 84
 
-</details>
+</details> <!-- End of V84 !-->
 
 ---
 
@@ -7764,18 +7991,51 @@ Outdated, as of 2023, Friday, May 26th
 - - [x] Added blank entries for versions 169 and 170
 - [ ] No other changes in version 85
 
-</details>
+</details> <!-- End of V85 !-->
 
 ---
 
-<details><summary><b lang="en">Version 86 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 86 (2024, Tuesday, April 2nd at 4:10 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the twelfth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while 10 listed changes were made. I gave myself a little over an hour today. I am rapidly approaching the README size limit._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Added the `Getting started` section
+- [x] Updated the `About me` subsection
+- - [x] Added the `Calendar` sub-subsection
+- - [x] Added the `Administrative units` sub-subsection
+- - [x] Added the `Browser tabs` sub-subsection
+- - [x] Updated the `FAQ` section
+- - - [x] New dividers and source code comments
+- - - [x] Added a question about Emoji usage
+- [x] Updated the `Statistics` section
+- - [x] Updated the `GitHub Stats B` subsection
+- - - [x] Fixed a broken link
+- - - [x] Updated 25 other links
+- [x] Updated the `Documentation` section
+- - [x] Added the `Government` subsection
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Renamed the `Everyone who has interacted with me on GitHub...` section to `GitHub interactions`
+- [x] Moved the `GitHub interactions` section into the `Getting started` section
+- [x] Moved the `Optimizing this page` section into the `Getting started` section
+- [x] Moved the `Developer` section into the `Getting started` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 86
+- - [x] Added blank entries for versions 171 and 172
 - [ ] No other changes in version 86
 
-</details>
+</details> <!-- End of V86 !-->
 
 ---
 
@@ -8701,6 +8961,27 @@ Outdated, as of 2023, Friday, May 26th
 
 </details>
 
+---
+
+<details><summary><b lang="en">Version 171 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 171
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 172 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 172
+
+</details>
 
 ---
 
@@ -8714,7 +8995,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 1st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-1st)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 2nd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-2nd)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -8729,6 +9010,7 @@ _End of file version history_
 - - [Link to remodel section version 9 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md)
 - - [Link to remodel section version 10 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md)
 - - [Link to remodel section version 11 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md)
+- - [Link to remodel section version 12 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md)
 
 </details>
 
@@ -8738,25 +9020,17 @@ _End of remodel history section._
 
 ***
 
-_End of about this page section._
-
-</details>
-
-***
-
-_End of profile body._
-
-</details>
-
-***
-
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-# [🗣️ Everyone who has interacted with me (via issue, discussion, or pull request) on GitHub since 2020 May 25th](#-Everyone-who-has-interacted-with-me--via-issue-discussion-or-pull-rwquest--on-GitHub-since-2020-May-25th)
+## [🗣️ GitHub Interactions](#-GitHub-interactions)
+
+**Alt title:** `🗣️ Everyone who has interacted with me via issue discussion or pull request on GitHub since 2020 May 25th`
+
+This section is obsolete, but is kept for historical purposes.
 
 <!-- > **Note** **The count comes out to 30 people and 1 bot, 28 people and 1 bot when not counting me** !-->
 
-This section may have to be moved in the future.
+<!-- This section may have to be moved in the future. !-->
 
 <!--
 When not me:
@@ -8767,7 +9041,7 @@ When not me:
   
 [![People who have interacted with me here](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 
-## [✨ Contributors](#-Contributors)
+### [✨ Contributors](#-Contributors)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the contributors list</b></p></summary>
 
@@ -8842,7 +9116,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-# [💨️ Optimizing this page](#-Optimizing-this-page)
+## [💨️ Optimizing this page](#-Optimizing-this-page)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -8856,7 +9130,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 
 ***
 
-# [⚠️ Developer limits](#-Developer-limits)
+## [⚠️ Developer limits](#-Developer-limits)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -8865,21 +9139,35 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 > Quantity
 
 - **Maximum amount of videos:** `1`
-- - **Current video count:** `0`
-- **Maximum amount of images:** `128` 
-- - **Current image count:** `47` (excluding `all-contributors` section)
-- - - **Current image count (all):** `83`
-- **Maximum amount of emojis:** `2048`
-- - **Current emoji count:** `Uncounted`
+- - **Current video count:** `1`
+- **Maximum amount of images:** `256` 
+- - **Current image count:** `~102` (excluding `all-contributors` section)
+- - - **Current image count (all):** `~138`
+- **Maximum amount of emojis:** `4096`
+- - **Current emoji count:** `~1695`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V85: `415,217` / `524,288` (`079.196%`))
+- - **Current character count (in bytes):** (as of V86: `431,230` / `524,288` (`082.250%`))
 
 > Memory
 
-- **Bandwidth goal:** `10 mbps` - 1 second
+- **Bandwidth goal:** `60 mbps` - 2 seconds for page to load
 - **RAM goal:** `>32MB per tab` (Firefox, SeaMonkey, DuckDuckGo, Konqueror, Pale Moon, IceCat) `>256MB per tab (Brave, Google Chrome, Microsoft Edge, Opera, Vivaldi, Google Chromium) ?b per tab (Other)
 
+The limits have been raised on April 2nd to account for significant changes. 
+
 </details> <!-- End of developer limits !-->
+
+***
+
+_End of about this page section._
+
+</details>
+
+***
+
+_End of profile body._
+
+</details>
 
 ***
 
