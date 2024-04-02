@@ -519,6 +519,8 @@ Temporarily removed until a replacement is made
 - `🇺🇦️ Glory to Ukraine! Slava Ukraini! Слава Україні!`
 - `🇺🇦️ Glory to the heroes! Heroiam slava! Героям слава!`
 
+- [:octocat: `seanpm2001:Ukraine`](https://github.com/seanpm2001/Ukraine/)
+
 _This section was added on 2024, Saturday, March 23rd._
 
 ***
@@ -529,7 +531,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 10 - 2024, Sunday, March 31st` |
+| `Beta 11 - 2024, Monday, April 1st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -540,7 +542,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 9 days down, as of 2024, Sunday, March 31st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 10 days down, 54 days to go, as of 2024, Monday, April 1st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -549,8 +551,13 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📈️ **Timeline** 📉️ |
 |---------------------|
 
+| 0️⃣️3️⃣️ 2024 March |
+|---|
+
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
+
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-|--------------------|-----------------|------------------|
+|---|---|---|
 | [Beta 1](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
 | [Beta 2](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
 | [Beta 3](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
@@ -561,11 +568,87 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 8](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
 | [Beta 9](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
 | [Beta 10](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
-| Beta 11 | Coming soon | 10 |
+
+</details> <!-- End of 2024 March release timeline table !-->
+
+| 0️⃣️4️⃣️ 2024 April |
+|---|
+
+<details open><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
+
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|---|---|---|
+| [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
+| Beta 12 | Coming soon | 11 |
+| Beta 13 | Coming soon | 12 |
+| Beta 14 | Coming soon | 13 |
+| Beta 15 | Coming soon | 14 |
+| Beta 16 | Coming soon | 15 |
+| Beta 17 | Coming soon | 16 |
+| Beta 18 | Coming soon | 17 |
+| Beta 19 | Coming soon | 18 |
+| Beta 20 | Coming soon | 19 |
+| Beta 21 | Coming soon | 20 |
+| Beta 22 | Coming soon | 21 |
+| Beta 23 | Coming soon | 22 |
+| Beta 24 | Coming soon | 23 |
+| Beta 25 | Coming soon | 24 |
+| Beta 26 | Coming soon | 25 |
+| Beta 27 | Coming soon | 26 |
+| Beta 28 | Coming soon | 27 |
+| Beta 29 | Coming soon | 28 |
+| Beta 30 | Coming soon | 29 |
+| Beta 31 | Coming soon | 30 |
+| Beta 32 | Coming soon | 31 |
+| Beta 33 | Coming soon | 32 |
+| Beta 34 | Coming soon | 33 |
+| Beta 35 | Coming soon | 34 |
+| Beta 36 | Coming soon | 35 |
+| Beta 37 | Coming soon | 36 |
+| Beta 38 | Coming soon | 37 |
+| Beta 39 | Coming soon | 38 |
+| Beta 40 | Coming soon | 39 |
+
+</details> <!-- End of 2024 April release timeline table !-->
+
+| 0️⃣️5️⃣️ 2024 May |
+|---|
+
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
+
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|---|---|---|
+| Beta 41 | Coming soon | 40 |
+| Beta 42 | Coming soon | 40 |
+| Beta 43 | Coming soon | 41 |
+| Beta 44 | Coming soon | 42 |
+| Beta 45 | Coming soon | 43 |
+| Beta 46 | Coming soon | 44 |
+| Beta 47 | Coming soon | 45 |
+| Beta 48 | Coming soon | 46 |
+| Beta 49 | Coming soon | 47 |
+| Beta 50 | Coming soon | 48 |
+| Beta 51 | Coming soon | 49 |
+| Beta 52 | Coming soon | 50 |
+| Beta 53 | Coming soon | 51 |
+| Beta 54 | Coming soon | 52 |
+| Beta 55 | Coming soon | 53 |
+| Beta 56 | Coming soon | 54 |
+| Beta 57 | Coming soon | 55 |
+| Beta 58 | Coming soon | 56 |
+| Beta 59 | Coming soon | 57 |
+| Beta 60 | Coming soon | 58 |
+| Beta 61 | Coming soon | 59 |
+| Beta 62 | Coming soon | 60 |
+| Beta 63 | Coming soon | 61 |
+| Beta 64 | Coming soon | 62 |
+| 4 year anniversary update | Coming soon | 63 |
+
+</details> <!-- End of 2024 May release timeline table !-->
 
 </div>
 
-</detailS>
+</details> <!-- End of release timeline section !-->
 
 ***
 
@@ -578,7 +661,6 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-todo with seanpm2001/seanpm2001
 Résumé at top
 Improvements to guestbook display
 - Dropdown of people who have signed
@@ -587,29 +669,19 @@ Notes about calendar
 Notes about municipalities, etc
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
-Update to file tree (more entries, and condense new+existing ones)
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Update to document limits
 Section about upcoming projects
-Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
-Information on project difficulties
-Information on complexity
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
-George Floyd memorial and information on join dates for my online accounts
-Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
 My setup
 Self hosting plans for the future
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 Centering various tables and text
 Internet status and speedtest link
-anti-Google | to go under: stances
-Discussions for /seanpm2001/seanpm2001/
-Getting started
 Favorite works
-Public domain gallery of myself
 Forks and browsing forks
 Tabs and tab video (plus a sample, speed it up if needed)
 My server and server plans + request for help
@@ -626,33 +698,28 @@ Music section
 | AudioDB, bandcamp
 Certificates
 UnSaaSS project
+Update to file tree (more entries, and condense new+existing ones)
 Update the file tree, and link to ROOTFILES.base
-Update in/formation about Windows and MacOS support
+Update information about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
-Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
-Public Media Gallery
 Updates to Legend
-Collectives listing
-Operating Systems collective
-Video games collective
-Software LIBraries collective
-Communications collective
 Full repository listing WIP
 Nicknames (SEAN9000)
-Reference fork style guide in #forks
 Model projects and model project status repository link
-Major project: BootDown
-Major project: AquariOS
-Major project: BathhouseOS
-Major project: MCPYE
-Major project: Tetris128
 Major project: Miscellaneous
 Fix existing mega project section: Other projects
 Fix existing mega project section: Meadows
 Fix existing mega project section: WacOS
+Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
+Information on necroposting and project development cycle (in years)
+Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
+Add title attribute to all images
+Replace all Markdown style images with HTML style images
+Add comment markers to all details tags
+
 ```
 
-</details>
+</details> <!-- End of current remodel goals section !-->
 
 These are the current goals of the remodel.
 
@@ -788,9 +855,30 @@ Fix existing mega project section: MEDOS
 Major project: PNC English
 Model project information
 File history removal notice at V101
+Collectives listing
+Operating Systems collective
+Video games collective
+Software LIBraries collective
+Communications collective
+Public Media Gallery
+Public domain gallery of myself
+Discussions for /seanpm2001/seanpm2001/
+Major project: BootDown
+Major project: AquariOS
+Major project: BathhouseOS
+Major project: MCPYE
+Major project: Tetris128
+Reference fork style guide in #forks
+Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
+anti-Google | to go under: stances
+Information on complexity
+Information on project difficulties
+George Floyd memorial and information on join dates for my online accounts
+Getting started
+Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
 ```
 
-</details>
+</details> <!-- End of completed remodel goals section !-->
 
 These are the completed goals of the remodel.
 
@@ -817,6 +905,14 @@ _End of remodel information_
 <div align="center">
     <img src="/Graphics/Icons/Star/Star_Emoji1.png" alt="Placeholder" title="Stars" width="128" height="128"> <img src="/Graphics/Icons/Fork/Forking-Git.gif" alt="Placeholder" title="Forks" width="128" height="128"> <img src="/Graphics/Icons/Follow/Followers-Icon.png" alt="Placeholder" title="Follows" width="128" height="128"> <img src="/Graphics/Icons/Watch/WatchEye.png" alt="Placeholder" title="Watch" width="128" height="128">
     <p><a href="https://github.com/seanpm2001/GitHub_Starlist/">Stars on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Forklist/">Forks on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Followlist/">Follows on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Watchlist/">Watching on GitHub</a> </p>
+</div>
+
+<div align="center">
+
+| Discussions | Discussions |
+|---|---|
+| [:octocat: `Discuss this repository`](https://github.com/seanpm2001/seanpm2001/discussions/) | [:octocat: `Discussions (general)`](https://github.com/seanpm2001/Discussion/) |
+
 </div>
 
 ***
@@ -859,17 +955,22 @@ _End of remodel information_
 
 ***
 
-<details><summary><H1>🚨️ Click/tap here to expand/collapse my profile</H1></summary>
+# [↗️ Getting started](#-Getting-started)
+
+**The bulk of my profile resides here.**
+
+<details><summary><H2>🚨️ Click/tap here to expand/collapse my profile</H2></summary>
 
 <div align="center">
-    <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" width="480" height="480"> !-->
-    <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="412" height="267"> !-->
-    
+   
+   <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" width="480" height="480"> !-->
+   <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="412" height="267"> !-->
    <img src="/Graphics/Profile-Avatar/65933340.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="460" height="460">
    
    | ( `@Seanpm2001` / `@seanwallawalla` ) |
    |---------------------|
-   | Sean Patrick Myrick |
+   | **Sean Patrick Myrick (SPM)** |
+
 </div>
 
 ***
@@ -1005,6 +1106,22 @@ No other limitations listed at the moment.
 [:octocat: `My labels can be found here`](https://github.com/seanpm2001/Labels/)
 
 </details> <!-- End of labels section !-->
+
+***
+
+## [🏛️ Public Media Gallery](#-Public-Media-Gallery)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| [:octocat: `View gallery`](https://github.com/seanpm2001/Seanpm2001-Public-Media-Gallery/)
+
+This is Seanpm2001s gallery of public media. It is recommended to use media from this gallery when reporting about Seanpm2001. If you feel an image outside of the gallery fits better, feel free to use it. All images of Sean (inside and outside of the public media gallery) are public domain and Copyright-free, and can be used freely without any risks, so long as you don't plagiarize them.
+
+This is a public domain gallery of myself.
+
+- [:octocat: `Public Media Gallery specification`](https://github.com/seanpm2001/Public-Media-Gallery/)
+
+</details>
 
 ***
 
@@ -1425,6 +1542,19 @@ Senior picture (used to identify myself and to have a better profile picture, st
 
 ***
 
+## [🆕️ Join date](#-Join-date)
+
+<details><summary>[Click/tap here to expand/collapse my join date information]</summary>
+
+- I joined Scratch in 2015. My account was private at the time, but this marked the start of my online presence
+- My online presence became stronger when I joined YouTube on 2015, May 14th
+- LIST OTHER JOIN DATES HERE
+- I joined GitHub on 2020, May 25th. This was the same day that George Floyd died. This was not intentional. I am working on a memorial for him, it is planned to be released 2024, May 25th. [:octocat: `George Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/)
+
+</details>
+
+***
+
 ## [🐧️ Linux](#-Linux)
 
 <details><summary>[Click/tap here to expand/collapse my Linux story]</summary>
@@ -1434,6 +1564,26 @@ I was a fan of Windows up until Windows 10. I began to try to switch to Linux fr
 ![20200709_124359.jpg](/Media/20200709_124359.jpg)
 
 My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
+
+</details>
+
+***
+
+## [🗜️ Complexity](#-Complexity)
+
+<details><summary>[Click/tap here to expand/collapse this section]</summary>
+
+My projects are very complex. I prefer it this way, as I see beauty in complexity, even when it is conflicting with the KISS (Keep It Simple, Stupid) principle
+
+</details>
+
+***
+
+## [📛️ Project difficulties](#-Project-difficulties)
+
+<details><summary>[Click/tap here to expand/collapse this section]</summary>
+
+Due to the quantity and complexity of my projects, I have difficulty maintaining it all. I never intended to do this all alone, and I desire developers wherever possible.
 
 </details>
 
@@ -1788,7 +1938,7 @@ These projects are information articles regarding my work on Git and GitHub.
 
 [Health project](https://github.com/seanpm2001/GitHub-Health-Project-Article/) - Information regarding my contributions and improvements to open source medical health software.
 
--</details>
+</details>
 
 ***
 
@@ -2029,6 +2179,88 @@ On GitHub, I have a lot of other personal projects, under the category of a life
 
 ***
 
+## [⚖️ Stances](#-Stances)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+My stances on some issues:
+
+| ✔️ For |
+|---|
+| Things I am for (incomplete list) |
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
+
+<table>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/For/Copyleft/Copyleft.svg" width="128" height="128"></td>
+        <td align="center">I support Copyleft</td>
+        <td align="center"><img src="/Graphics/Stances/For/Fediverse/Fediverse_logo_proposal.svg" width="128" height="128"></td>
+        <td align="center">I support the Fediverse</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/For/Free-Culture/Definition_of_Free_Cultural_Works_logo_notext.svg" width="128" height="128"></td>
+        <td align="center">I support Free Culture/The Free Culture Movement</td>
+        <td align="center"><img src="/Graphics/Stances/For/Kopimism/Kopimi_k.svg" width="128" height="128"></td>
+        <td align="center">I support Kopimism/the Anti-Copyright movement</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/For/Privacy/padlock-22.png" width="128" height="128"></td>
+        <td align="center">I support user privacy</td>
+        <td align="center"><img src="/Graphics/Stances/For/Public-Domain/PD-icon-black.svg" width="128" height="128"></td>
+        <td align="center">I support the Public Domain</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/For/Remix-Culture/Remix.svg" width="128" height="128"></td>
+        <td align="center">I support Remix Culture</td>
+        <td align="center"><img src="/Graphics/Stances/For/Skeuomorphism/Shiny_steel_ball.png" width="128" height="128"></td>
+        <td align="center">I support Skeuomorphism</td>
+    </tr>
+</table>
+
+</details> <!-- End of for table !-->
+
+---
+
+| ❌️ Against |
+|---|
+| Things I am against (incomplete list) |
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
+
+<table>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/Against/Copyright/No-Copyright-Symbol.png" width="128" height="128"></td>
+        <td align="center">I am against Copyright</td>
+        <td align="center"><img src="/Graphics/Stances/Against/Disney-Copyright/Anti-Disney-infinite-copyright.svg" width="128" height="128"></td>
+        <td align="center">I am against the excessively long Copyright terms (especially those created by Disney)</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/Against/DRM/DRM-free_label.en.svg" width="128" height="128"></td>
+        <td align="center">I am against DRM (Digital Restrictions Management/Digital Restrictive Measures)</td>
+        <td align="center"><img src="/Graphics/Stances/Against/Flat-Design/Google_Material_Design_Logo.svg" width="128" height="128"></td>
+        <td align="center">I am against Flat Design</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/Against/Global-Surveillance/Globe_eye_icon.png" width="128" height="128"></td>
+        <td align="center">I am against Global Surveillance/Mass Surveillance</td>
+        <td align="center"><img src="/Graphics/Stances/Against/Google/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="128" height="128"></td>
+        <td align="center">I am against Google</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="/Graphics/Stances/Against/War/Castle_Romeo.jpeg" width="128" height="128"></td>
+        <td align="center">I am against War</td>
+        <td align="center"><img src="/Graphics/Stances/" width="128" height="128"></td>
+        <td align="center">More entries coming soon</td>
+    </tr>
+</table>
+
+</details> <!-- End of anti table !-->
+
+</details>
+
+***
+
 ## [♾️ Autism](#-Autism)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -2262,7 +2494,72 @@ Stats generated from [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-These stats are largely experimental. As of 2024, Wednesday, March 27th, I have not gotten any of them to successfully generate yet.
+> I need help getting this workflow to run.
+
+These stats are largely experimental. As of 2024, Monday, April 1st, I have not gotten any of them to successfully generate yet.
+
+| 🔧️ Maintenance | Maintenance 🔧️ |
+|---|---|
+| [▶️ View workflow](https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/.github/workflows/github-stats-b.yml/) | [🪵️ View logs](https://github.com/seanpm2001/GitHub_Stats_B/tree/GitHub_Stats_B_Main-dev/Logs/) |
+
+<details><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
+
+| 📈️ Chart/graph 📊️  | ℹ️ Description ℹ️ |
+|---|---|
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2020.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2020) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2020)"> | `GitHub Skyline for the year 2020` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2021.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2021) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2021)"> | `GitHub Skyline for the year 2021` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2022.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2022) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2022)"> | `GitHub Skyline for the year 2022` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2023.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2023) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2023)"> | `GitHub Skyline for the year 2023` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub Skyline (2024) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub Skyline (2024)"> | `GitHub Skyline for the year 2024` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2020.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2020) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2020)"> | `GitHub City for the year 2020` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2021.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2021) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2021)"> | `GitHub City for the year 2021` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2022.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2022) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2022)"> | `GitHub City for the year 2022` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2023.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2023) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2023)"> | `GitHub City for the year 2023` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub City (2024) failed to load" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub City (2024)"> | `GitHub City for the year 2024` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001-GitHub-Discussions.svg" alt="GitHub Stats B: Seanpm2001 Discussions" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub discussions"> | `GitHub discussions statistics` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_HalfYear_IsometricCalendar.svg" alt="GitHub Stats B: Seanpm2001 Commit Calendar (last 6 months) isometric view" width="640" height="480" title="[GitHub Stats B@seanpm2001] Seanpm2001 Commit Calendar (last 6 months) isometric view"> | `GitHub commit heatmap for the last 6 months (isometric view)` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_FullYear_IsometricCalendar.svg" alt="GitHub Stats B: Seanpm2001 Commit Calendar (last 12 months) isometric view" width="640" height="480" title="[GitHub Stats B@seanpm2001] Seanpm2001 Commit Calendar (last 12 months) isometric view"> | `GitHub commit heatmap for the last 12 months (isometric view)` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Labels_20.svg" alt="GitHub Stats B: Seanpm2001 Starred topic labels (20)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub starred topic labels (x20)"> | `Top 20 GitHub starred topics labels` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Icons_60.svg" alt="GitHub Stats B: Seanpm2001 GitHub Starred topics icons (60x)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub starred topic icons (x60)"> | `Top 60 GitHub starred topics icons` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Sponsorships.svg" alt="GitHub Stats B: Seanpm2001 GitHub Sponsorship statistics" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub sponsorship statistics"> | `GitHub sponsorship information for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Calendar_2024.svg" alt="GitHub Stats B: Seanpm2001 GitHub calendar (2024)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub commit calendar heatmap (2024)"> | `GitHub commit calendar heatmap for @seanpm2001 in 2024` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Calendar_2020-Present.svg" alt="GitHub Stats B: Seanpm2001 GitHub calendar (2020 to present)" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub commit calendar heatmap (2020-present)"> | `GitHub commit calendar heatmap for @seanpm2001 from 2020 to the present` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Achievements.svg" alt="GitHub Stats B: Seanpm2001 GitHub achievements" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub achievements"> | `GitHub achievements statistics for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Stargazers_Graph.svg" alt="GitHub Stats B: Seanpm2001 GitHub stargazers graph" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub stargazers graph"> | `GitHub stargazers graph for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Stargazers_Cjart.svg" alt="GitHub Stats B: Seanpm2001 GitHub stargazers chart" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub stargazers chart"> | `GitHub stargazers chart for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Licenses_Overview.svg" alt="GitHub Stats B: License overview for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] License usage overview"> | `GitHub license usage overview for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Licenses_Ratio.svg" alt="GitHub Stats B: License ratio for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] License ratio"> | `GitHub license ratio for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Repository_Traffic.svg" alt="GitHub Stats B: Repository traffic statistics for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] GitHub repository traffic statistics"> | `GitHub repoitory traffic statistics for @seanpm2001` |
+| <img src="https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Languages.svg" alt="GitHub Stats B: GitHub general statistics for @seanpm2001" width="640" height="480" title="[GitHub Stats B@seanpm2001] General GitHub statistics"> | `General GitHub statistics for @seanpm2001 (including language usage` |
+
+</details> <!-- End of GitHub Stats B table !-->
+
+<!--
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2021.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2022.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2023.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_Skyline_2024.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2020.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2021.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2022.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2023.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_City_2024.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001-GitHub-Discussions.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_HalfYear_IsometricCalendar.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_FullYear_IsometricCalendar.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Labels_20.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_Seanpm2001_GitHub_StarredTopics_Icons_60.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Sponsorships.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Calendar_2024.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Calendar_2020-Present.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Achievements.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Stargazers_Graph.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Stargazers_Chart.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Licenses_Overview.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Licenses_Ratio.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Repository_Traffic.svg
+https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub_Stats_B_GitHub_Languages.svg
+!-->
 
 ---
 
@@ -2298,11 +2595,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008/)
-
-[View STL file](/Special/GitHub_Skyline/2008/seanpm2001-2008.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008/)
+- [View STL file](/Special/GitHub_Skyline/2008/seanpm2001-2008.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2312,11 +2607,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009/)
-
-[View STL file](/Special/GitHub_Skyline/2009/seanpm2001-2009.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009/)
+- [View STL file](/Special/GitHub_Skyline/2009/seanpm2001-2009.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2326,11 +2619,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010/)
-
-[View STL file](/Special/GitHub_Skyline/2010/seanpm2001-2010.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010/)
+- [View STL file](/Special/GitHub_Skyline/2010/seanpm2001-2010.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2340,11 +2631,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011/)
-
-[View STL file](/Special/GitHub_Skyline/2011/seanpm2001-2011.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011/)
+- [View STL file](/Special/GitHub_Skyline/2011/seanpm2001-2011.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2354,11 +2643,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012/)
-
-[View STL file](/Special/GitHub_Skyline/2012/seanpm2001-2012.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012/)
+- [View STL file](/Special/GitHub_Skyline/2012/seanpm2001-2012.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2368,11 +2655,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013/)
-
-[View STL file](/Special/GitHub_Skyline/2013/seanpm2001-2013.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013/)
+- [View STL file](/Special/GitHub_Skyline/2013/seanpm2001-2013.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2382,11 +2667,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014/)
-
-[View STL file](/Special/GitHub_Skyline/2014/seanpm2001-2014.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014/)
+- [View STL file](/Special/GitHub_Skyline/2014/seanpm2001-2014.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2396,11 +2679,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015/)
-
-[View STL file](/Special/GitHub_Skyline/2015/seanpm2001-2015.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015/)
+- [View STL file](/Special/GitHub_Skyline/2015/seanpm2001-2015.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2410,11 +2691,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016/)
-
-[View STL file](/Special/GitHub_Skyline/2016/seanpm2001-2016.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016/)
+- [View STL file](/Special/GitHub_Skyline/2016/seanpm2001-2016.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2424,11 +2703,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017/)
-
-[View STL file](/Special/GitHub_Skyline/2017/seanpm2001-2017.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017/)
+- [View STL file](/Special/GitHub_Skyline/2017/seanpm2001-2017.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2438,11 +2715,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018/)
-
-[View STL file](/Special/GitHub_Skyline/2018/seanpm2001-2018.stl)
-
-**Note: no data for this year, I started in 2020.**
+- [View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018/)
+- [View STL file](/Special/GitHub_Skyline/2018/seanpm2001-2018.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </details>
 
@@ -2452,11 +2727,9 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Note: no data for this year, I started in 2020.**
-
-[View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019/)
-
-[View STL file](/Special/GitHub_Skyline/2019/seanpm2001-2019.stl)
+- [View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019/)
+- [View STL file](/Special/GitHub_Skyline/2019/seanpm2001-2019.stl)
+- **Note: no data for this year, I started in 2020.**
 
 </detials>
 
@@ -2466,9 +2739,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020/)
-
-[View STL file](/Special/GitHub_Skyline/2020/seanpm2001-2020.stl)
+- [View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020/)
+- [View STL file](/Special/GitHub_Skyline/2020/seanpm2001-2020.stl)
 
 </details>
 
@@ -2478,9 +2750,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021/)
-
-[View STL file](/Special/GitHub_Skyline/2021/seanpm2001-2021.stl)
+- [View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021/)
+- [View STL file](/Special/GitHub_Skyline/2021/seanpm2001-2021.stl)
 
 </details>
 
@@ -2490,9 +2761,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2022 via GitHub skyline](https://skyline.github.com/seanpm2001/2022/)
-
-[View STL file](/Special/GitHub_Skyline/2022/seanpm2001-2022.stl)
+- [View skyline 2022 via GitHub skyline](https://skyline.github.com/seanpm2001/2022/)
+- [View STL file](/Special/GitHub_Skyline/2022/seanpm2001-2022.stl)
 
 </details>
 
@@ -2502,9 +2772,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2023 via GitHub skyline](https://skyline.github.com/seanpm2001/2023/)
-
-[View STL file (coming soon)](/Special/GitHub_Skyline/2023/seanpm2001-2023.stl)
+- [View skyline 2023 via GitHub skyline](https://skyline.github.com/seanpm2001/2023/)
+- [View STL file (coming soon)](/Special/GitHub_Skyline/2023/seanpm2001-2023.stl)
 
 </details> <!-- End of Skyline 2023 !-->
 
@@ -2514,9 +2783,8 @@ My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[View skyline 2024 via GitHub skyline](https://skyline.github.com/seanpm2001/2024/)
-
-[View STL file (coming soon)]/Special/GitHub_Skyline/2024/)
+- [View skyline 2024 via GitHub skyline](https://skyline.github.com/seanpm2001/2024/)
+- [View STL file (coming soon)]/Special/GitHub_Skyline/2024/)
 
 </details> <!-- End of Skyline 2024 !-->
 
@@ -3541,31 +3809,35 @@ A collective of my video game projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="MCPYE placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/MCPYE/Logo/Placeholder/MCPYE_Icon_LowQuality.png" width="150" height="150" align="left" style="margin-right: 30px"> **MCPYE** _An open source alternative to Minecraft and Minetest, written almost entirely in Python._
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **🏠️ Home repository:** [:octocat: `MCPYE`](https://github.com/seanpm2001/MCPYE/)
+- **🔵️ Project categories:** `Voxel` `Video games` `Sandbox` `Python`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Monday, April 1st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Monday, April 1st)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
 | ## | **Languages** |
 |----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 01 | `Python` |
+| 02 | `mcfunction` |
+| 03 | `DenizenScript` |
+| 04 | `ZenScript` |
+| 05 | `C++` |
+| 06 | `Markdown` |
+| 07 | `HTML` |
+| 08 | `reStructuredText` |
+| 09 | `YAML` |
+| 10 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `MCPYE`](https://github.com/seanpm2001/MCPYE/) | [:octocat: `MCPYE Docs`](https://github.com/seanpm2001/MCPYE_Docs/) | [:octocat: `SNU 3D Minecraft Python Edition Alpha`](https://github.com/seanpm2001/SNU_3D_Minecraft_Python_Edition_Alpha/) | [:octocat: `SeansLifeArchive/MinecraftPE/Backup/Worlds/MCPYE_BEDROCK_TEST1`](https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_MCPYE_BEDROCK_TEST1/) | [:octocat: `MCPYE Wiki 2021`](https://github.com/seanpm2001/MCPYE_Wiki_2021/) | [:octocat: `MCPYE Command Language`](https://github.com/seanpm2001/MCPYE_CommandLanguage/) |
+| [:octocat: `Learn MCPYE Command Language`](https://github.com/seanpm2001/Learn-MCPYE-Command-Language/) | [:octocat: `SNU 2D ProgrammingTools IDE MCPYE Command Language`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MCPYE-Command-Language/) | [:octocat: `MCPYE DenizenScript`](https://github.com/seanpm2001/MCPYE_DenizenScript/) | [:octocat: `MCPYE DenizenScript Docs`](https://github.com/seanpm2001/MCPYE_DenizenScript_Docs/) | [:octocat: `MCPYE ZenScript`](https://github.com/seanpm2001/MCPYE_ZenScript/) | [:octocat: `MCPYE ZenScript Docs`](https://github.com/seanpm2001/MCPYE_ZenScript_Docs/) |
+| [:octocat: `MCPYE mcfunction`](https://github.com/seanpm2001/MCPYE_mcfunction/) | [:octocat: `MCPYE mcfunction Docs`](https://github.com/seanpm2001/MCPYE_mcfunction_Docs/) | 🟫️ | 🟩️ | 🟫️ | 🟩️ |
 
 </details> <!-- End of major project: MCPYE !-->
 
@@ -3575,31 +3847,33 @@ Section coming soon
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="Tetris128 placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Tetris128/Logo/Placeholder/Tetris128Logo_LowQuality.png" width="150" height="150" align="left" style="margin-right: 30px"> **Tetris128** _An open source, very powerful version of Tetris, with several new game modes, and top notch graphics. The game is 128 bit, but can also run on 64 bit systems._
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **🏠️ Home repository:** [:octocat: `Tetris128`](https://github.com/seanpm2001/Tetris128/)
+- **🔵️ Project categories:** `Tetris` `Falling block game` `128 bit` `Video games` 
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Monday, April 1st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Monday, April 1st)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
 | ## | **Languages** |
 |----|---|
 | 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 02 | `Python` |
+| 03 | `C++` |
+| 04 | `C` |
+| 05 | `GLSL` |
+| 06 | `Rust` |
+| 07 | `Markdown` |
+| 08 | `HTML` |
+| 09 | `YAML` |
+| 10 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `Tetris128`](https://github.com/seanpm2001/Tetris128/) | [:octocat: `Tetris128 Docs`](https://github.com/seanpm2001/Tetris128_Docs/) | 💠️ | 💠️ | 💠️ | 💠️ |
 
 </details> <!-- End of major project: Tetris128 !-->
 
@@ -3608,8 +3882,8 @@ Section coming soon
 
 To add:
 
-- [ ] MCPYE
-- [ ] Tetris128
+- [x] MCPYE
+- [x] Tetris128
 - [x] LibreFlock
 - [ ] Miscellaneous
 
@@ -4173,31 +4447,31 @@ A collective of my Operating System projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="Bootdown placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BootDown/Logo/Placeholder/BootDownLogo.png" width="150" height="150" align="left" style="margin-right: 30px"> **BootDown** _An open source, experimental operating system that runs at the BIOs level_
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **🏠️ Home repository:** [:octocat: `BootDown`](https://github.com/seanpm2001/BootDown/)
+- **🔵️ Project categories:** `BIOs` `Operating System` `Tiny operating system` `Niche`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Monday, April 1st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Monday, April 1st)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
 | ## | **Languages** |
 |----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 01 | `Assembly` |
+| 02 | `Verilog` |
+| 03 | `SystemVerilog` |
+| 04 | `VHDL` |
+| 05 | `Markdown` |
+| 06 | `HTML` |
+| 07 | `YAML` |
+| 08 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `BootDown`](https://github.com/seanpm2001/BootDown/) | [:octocat: `BootDown Docs`](https://github.com/seanpm2001/BootDown_Docs/) | 🥾️ | 🥾️ | 🥾️ | 🥾️ |
 
 </details> <!-- End of major project: BootDown !-->
 
@@ -4250,31 +4524,30 @@ Section coming soon
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="AquariOS placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AquariOS/Logo/Placeholder/Aquarius_symbol_(bold).svg" width="150" height="150" align="left" style="margin-right: 30px"> **AquariOS** _An open source operating system for an automated aquarium._
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **🏠️ Home repository:** [:octocat: `AquariOS`](https://github.com/seanpm2001/AquariOS/)
+- **🔵️ Project categories:** `Operating System` `Tiny operating system` `Niche` `Aquarium`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Monday, April 1st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Monday, April 1st)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
 | ## | **Languages** |
 |----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 01 | `nesC` |
+| 02 | `Verilog` |
+| 03 | `API Blueprint` |
+| 04 | `Markdown` |
+| 05 | `HTML` |
+| 06 | `YAML` |
+| 07 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `AquariOS`](https://github.com/seanpm2001/AquariOS/) | [:octocat: `AquariOS Docs`](https://github.com/seanpm2001/AquariOS_Docs/) | [:octocat: `Project Aquarius`](https://github.com/seanpm2001/Project-Aquarius/) | [:octocat: `Project Aquarius Docs`](https://github.com/seanpm2001/Project-Aquarius_Docs/) | 🐠️ | 🐠️ |
 
 </details> <!-- End of major project: AquariOS !-->
 
@@ -4284,31 +4557,32 @@ Section coming soon
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
+<img alt="BathHouseOS placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BathHouseOS/Logo/Placeholder/BathHouseOS.jpeg" width="150" height="150" align="left" style="margin-right: 30px"> **BathHouseOS** _An open source collection of operating systems for an automated bathroom._
 
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+- **🏠️ Home repository:** [:octocat: `BathHouseOS`](https://github.com/seanpm2001/BathHouseOS/)
+- **🔵️ Project categories:** `Operating System` `Tiny operating system` `Niche` `Bathroom` `Automation`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Monday, April 1st)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Monday, April 1st)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
 | ## | **Languages** |
 |----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
+| 01 | `nesC` |
+| 02 | `Verilog` |
+| 03 | `API Blueprint` |
+| 04 | `Markdown` |
+| 05 | `HTML` |
+| 06 | `YAML` |
+| 07 | `INI` |
 
 **Core repositories:**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-!-->
-
-Section coming soon
+| [:octocat: `BathHouseOS`](https://github.com/seanpm2001/BathHouseOS/) | [:octocat: `BathHouseOS Docs`](https://github.com/seanpm2001/BathHouseOS_Docs/) | [:octocat: `SankOS`](https://github.com/seanpm2001/SankOS/) | [:octocat: `SankOS Docs`](https://github.com/seanpm2001/SankOS_Docs/) | [:octocat: `UriOS`](https://github.com/seanpm2001/UriOS/) | [:octocat: `UriOS Docs`](https://github.com/seanpm2001/UriOS_Docs/) |
+| [:octocat: `MaprilOS`](https://github.com/seanpm2001/MaprilOS/) | [:octocat: `MaprilOS Docs`](https://github.com/seanpm2001/MaprilOS_Docs/) | [:octocat: `BathOS`](https://github.com/seanpm2001/BathOS/) | [:octocat: `BathOS Docs`](https://github.com/seanpm2001/BathOS_Docs/) | [:octocat: `BathHouseOS Core Control Panel`](https://github.com/seanpm2001/BathHouseOS_Core_ControlPanel/) | [:octocat: `ThroneOS`](https://github.com/seanpm2001/ThroneOS/) |
+| [:octocat: `ThroneOS Docs`](https://github.com/seanpm2001/ThroneOS/) | 🚽️ | 🛀️ | 🚿️ | 🪠️ | 🧼️ |
 
 </details> <!-- End of major project: BathHouseOS !-->
 
@@ -4317,11 +4591,11 @@ Section coming soon
 To add:
 
 - [x] CranberryOS
-- [ ] NUNIX
-- [ ] BootDown
-- [ ] MetroTechno
-- [ ] AquariOS
-- [ ] BathhouseOS
+- [x] NUNIX
+- [x] BootDown
+- [x] MetroTechno
+- [x] AquariOS
+- [x] BathhouseOS
 - [ ] Other
 
 _End of Operating System Collective._
@@ -5143,6 +5417,8 @@ I refer to my headquarters as the core, and 2001 is its number. 2001 holds a lot
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
+- **See also:** [:octocat: `Seanpm2001 Fork Style Guide`](https://github.com/seanpm2001/Seanpm2001_Fork_Style-Guide/)
+
 I actively fork repositories on GitHub to act as an archive of repositories I have come across, and less often, repositories that I actively use. There is a problem that started with GitHub around 2022 regarding forks that I don't like:
 
 Previously, if the account of a fork got suspended/deleted, you could still see "forked from johndoe/myrepository" at the top of the screen. It would be a dead link, but it would at least attribute the user. Nowadays, when this happens, the forked repository is instead turned into a source repository, which makes the suggestion that I created this repository, and it really messes with my timeline.
@@ -5384,11 +5660,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `84 (2024, Sunday, March 31st at 04:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,570`
-- **Word count:** `053,228`
-- **Character count (with spaces):** `0,381,661 characters`
-- **Character count (without spaces)** `0,334,300 characters`
+- **File version:** `85 (2024, Monday, April 1st at 05:42 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,907`
+- **Word count:** `057,171`
+- **Character count (with spaces):** `0,408,521 characters`
+- **Character count (without spaces)** `0,358,038 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7444,11 +7720,48 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 85 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 85 (2024, Monday, April 1st at 5:42 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the eleventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a long time to make, while 16 listed changes were made. I gave myself a little over 2 hours today._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `GitHub skyline` section
+- [x] Added links to discussions for this repository, and for my GitHub account in general (2 links)
+- [x] Updated the forks section to include a link to my fork style guide
+- [x] Added the `Getting started` section
+- [x] Updated the `About me` subsection
+- - [x] Added the `Public Media Gallery` subsection
+- - [x] Added the `Complexity` subsection
+- - [x] Added the `Project difficulties` subsection
+- - [x] Added the `Join date` subsection
+- [x] Updated the `Life` section
+- - [x] Added the `Stances` subsection
+- - - [x] Added the `For` sub-subsection
+- - - [x] Added the `Against` sub-subsection
+- - [x] Updated section: `Operating Systems collective`
+- - - [x] Updated the `Major project: BootDown` subsection
+- - - [x] Updated the `Major project: AquariOS` subsection
+- - - [x] Updated the `Major project: BathhouseOS` subsection
+- - [x] Updated section: `Video games collective`
+- - - [x] Updated the `Major project: MCPYE` subsection
+- - - [x] Updated the `Major project: Tetris128` subsection
+- [x] Updated the `Statistics` section
+- - [x] Massive update to the `GitHub Stats B` subsection
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 85
+- - [x] Added blank entries for versions 169 and 170
 - [ ] No other changes in version 85
 
 </details>
@@ -8368,6 +8681,29 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
+<details><summary><b lang="en">Version 169 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 169
+
+</details>
+
+---
+
+<details><summary><b lang="en">Version 170 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 170
+
+</details>
+
+
+---
+
 _End of file version history_
 
 </details>
@@ -8378,7 +8714,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, March 31st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-March-31st)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 1st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-1st)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -8392,6 +8728,7 @@ _End of file version history_
 - - [Link to remodel section version 8 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md)
 - - [Link to remodel section version 9 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md)
 - - [Link to remodel section version 10 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md)
+- - [Link to remodel section version 11 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md)
 
 </details>
 
@@ -8535,7 +8872,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `2048`
 - - **Current emoji count:** `Uncounted`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V84: `388,091` / `524,288` (`074.022%`))
+- - **Current character count (in bytes):** (as of V85: `415,217` / `524,288` (`079.196%`))
 
 > Memory
 
