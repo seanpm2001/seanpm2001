@@ -6,7 +6,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 11 - 2024, Monday, April 1st` |
+| `Beta 12 - 2024, Tuesday, April 2nd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -17,7 +17,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 10 days down, 54 days to go, as of 2024, Monday, April 1st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 11 days down, 53 days to go, as of 2024, Tuesday, April 2nd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -54,7 +54,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
 | [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
-| Beta 12 | Coming soon | 11 |
+| [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
 | Beta 13 | Coming soon | 12 |
 | Beta 14 | Coming soon | 13 |
 | Beta 15 | Coming soon | 14 |
@@ -131,7 +131,12 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 <img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-**Current tasks todo**
+| 📋️ Task completion progress ☑️ |
+|---|
+| `100` **/** `145` **tasks** _(068.96%)_ |
+| _as of 2024, Tuesday, April 2nd_ |
+
+**Current tasks todo (45 tasks, as of 2024, Tuesday, April 2nd)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -140,13 +145,10 @@ Résumé at top
 Improvements to guestbook display
 - Dropdown of people who have signed
 - More links
-Notes about calendar
-Notes about municipalities, etc
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
-Update to document limits
 Section about upcoming projects
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
@@ -158,7 +160,6 @@ Centering various tables and text
 Internet status and speedtest link
 Favorite works
 Forks and browsing forks
-Tabs and tab video (plus a sample, speed it up if needed)
 My server and server plans + request for help
 GistHub
 Graphic design info (programs used)
@@ -167,8 +168,6 @@ My web stack
 Rework of index
 | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 New icon to center at the top
-New flags
-Government section
 Music section
 | AudioDB, bandcamp
 Certificates
@@ -191,7 +190,6 @@ Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Univer
 Add title attribute to all images
 Replace all Markdown style images with HTML style images
 Add comment markers to all details tags
-
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -206,7 +204,7 @@ They are a work in progress.
 
 <img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-**Implemented so far:**
+**Implemented so far (100 tasks, as of 2024, Tuesday, April 2nd):**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -351,6 +349,16 @@ Information on project difficulties
 George Floyd memorial and information on join dates for my online accounts
 Getting started
 Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
+Rename section: GitHub interactions
+| Move sections: GitHub interactions, Optimizing this page, and Developer limits into: About this page
+Add section: what's with all of the Emojis
+| With answer based on these terms: Navigation, design, use of almost every Emoji (or as many as possible) in a unique way
+Notes about calendar
+Notes about municipalities, etc
+Tabs and tab video (plus a sample, speed it up if needed)
+Update to document limits
+New flags
+Government section
 ```
 
 </details> <!-- End of completed remodel goals section !-->
