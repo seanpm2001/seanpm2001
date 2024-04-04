@@ -6,7 +6,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 12 - 2024, Tuesday, April 2nd` |
+| `Beta 13 - 2024, Wednesday, April 3rd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -17,7 +17,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 11 days down, 53 days to go, as of 2024, Tuesday, April 2nd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 12 days down, 52 days to go, as of 2024, Wednesday, April 3rd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -55,7 +55,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 |---|---|---|
 | [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
 | [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
-| Beta 13 | Coming soon | 12 |
+| [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
 | Beta 14 | Coming soon | 13 |
 | Beta 15 | Coming soon | 14 |
 | Beta 16 | Coming soon | 15 |
@@ -131,20 +131,18 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 <img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-| 📋️ Task completion progress ☑️ |
+| 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `100` **/** `145` **tasks** _(068.96%)_ |
-| _as of 2024, Tuesday, April 2nd_ |
+| `39` **/** `145` **tasks** _(026.90%)_ |
+| _as of 2024, Wednesday, April 3rd_ |
 
-**Current tasks todo (45 tasks, as of 2024, Tuesday, April 2nd)**
+- **Current tasks to do (39 tasks, as of 2024, Wednesday, April 3rd)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
 Résumé at top
-Improvements to guestbook display
-- Dropdown of people who have signed
-- More links
+Improvements to guestbook display - Dropdown of people who have signed - More links
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
 New translation methods
@@ -158,6 +156,7 @@ New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 Centering various tables and text
 Internet status and speedtest link
+Information on necroposting and project development cycle (in years)
 Favorite works
 Forks and browsing forks
 My server and server plans + request for help
@@ -165,31 +164,22 @@ GistHub
 Graphic design info (programs used)
 vCard and identification section (vCard may not be possible)
 My web stack
-Rework of index
-| Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 New icon to center at the top
-Music section
-| AudioDB, bandcamp
+Music section | AudioDB, bandcamp
 Certificates
 UnSaaSS project
-Update to file tree (more entries, and condense new+existing ones)
-Update the file tree, and link to ROOTFILES.base
 Update information about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Updates to Legend
-Full repository listing WIP
+Full repository listin (WIP)
 Nicknames (SEAN9000)
-Model projects and model project status repository link
 Major project: Miscellaneous
-Fix existing mega project section: Other projects
-Fix existing mega project section: Meadows
-Fix existing mega project section: WacOS
 Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
-Information on necroposting and project development cycle (in years)
 Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
-Add title attribute to all images
-Replace all Markdown style images with HTML style images
-Add comment markers to all details tags
+Add title attribute to all images (WIP)
+Replace all Markdown style images with HTML style images (WIP)
+Add comment markers to all details tags (WIP)
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -204,7 +194,12 @@ They are a work in progress.
 
 <img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-**Implemented so far (100 tasks, as of 2024, Tuesday, April 2nd):**
+| ✅️ ***Task completion progress*** 📋️ |
+|---|
+| `106` **/** `145` **tasks** _(073.10%)_ |
+| _as of 2024, Wednesday, April 3rd_ |
+
+- **Implemented so far (106 tasks, as of 2024, Wednesday, April 3rd):**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -359,6 +354,12 @@ Tabs and tab video (plus a sample, speed it up if needed)
 Update to document limits
 New flags
 Government section
+Model projects and model project status repository link
+Fix existing mega project section: Other projects
+Fix existing mega project section: Meadows
+Fix existing mega project section: WacOS
+Update to file tree (more entries, and condense new+existing ones)
+Update the file tree, and link to ROOTFILES.base
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -373,12 +374,12 @@ They have been implemented.
 
 _End of remodel section._
 
-</details>
+</details> <!-- End of remodel section !-->
 
 ---
 
 _End of remodel information_
 
-</details>
+</details> <!-- End of remodel information section !-->
 
 ***
