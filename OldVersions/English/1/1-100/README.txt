@@ -43,6 +43,8 @@
 | ![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
 !-->
 
+---
+
 <details><summary><p><b>Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info) click/tap here to expand/collapse this section</b></p></summary>
 
 [All contributors (requires installation)](https://github.com/apps/allcontributors/installations/new)
@@ -147,7 +149,13 @@ To add your statistics to your GitHub Profile README, copy and paste the followi
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ```
 
-</details>
+</details> <!-- End of main statistics dropdown section !-->
+
+***
+
+_End of main statistics section._
+
+</details> <!-- End of main statistics section !-->
 
 ***
 
@@ -165,7 +173,7 @@ _Further instructions not yet available._
 
 - [`www.example.com`](https://www.example.com)
 
-</details>
+</details> <!-- End of Administrator section !-->
 
 ***
 
@@ -245,7 +253,7 @@ And also not like this:
 
 🏁️ **End of flag guide** 🏁️
 
-</details>
+</details> <!-- End of language legend section !-->
 
 ***
 
@@ -265,11 +273,11 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 **Languages segment version:** `4 (2022, Monday, March 14th at 1:59 pm)`
 
-</details>
+</details> <!-- End of language legend developer notes section !-->
 
 ***
 
-</details>
+</details> <!-- End of language switch section !-->
 
 _End of translation section._
 
@@ -287,7 +295,7 @@ _End of translation section._
 
 This guestbook is for basic interaction, and communications. For further communication, try [looking for a form of communication here](#Identity-theft)
 
-</details>
+</details> <!-- End of guestbook section !-->
 
 ***
 
@@ -491,13 +499,15 @@ Temporarily removed until a replacement is made
 
 [34.0 - Contributors ✨](#Contributors-)
 
-</details>
+</details> <!-- End of outdated index section !-->
 
-</details>
+</details> <!-- End of index section !-->
 
 ***
 
 ## [🇺🇦️ Ukraine](#-Ukraine)
+
+<details open><summary><b>[Click/tap here to expand/collapse the Ukraine section]</b></summary>
 
 [![Stand With Ukraine banner failed to load](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://savelife.in.ua/en/)
 
@@ -524,6 +534,8 @@ Temporarily removed until a replacement is made
 
 _This section was added on 2024, Saturday, March 23rd._
 
+</details> <!-- End of Ukraine section !-->
+
 ***
 
 # [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
@@ -532,7 +544,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 12 - 2024, Tuesday, April 2nd` |
+| `Beta 13 - 2024, Wednesday, April 3rd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -543,7 +555,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 11 days down, 53 days to go, as of 2024, Tuesday, April 2nd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 12 days down, 52 days to go, as of 2024, Wednesday, April 3rd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -581,7 +593,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 |---|---|---|
 | [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
 | [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
-| Beta 13 | Coming soon | 12 |
+| [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
 | Beta 14 | Coming soon | 13 |
 | Beta 15 | Coming soon | 14 |
 | Beta 16 | Coming soon | 15 |
@@ -657,20 +669,18 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 <img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-| 📋️ Task completion progress ☑️ |
+| 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `100` **/** `145` **tasks** _(068.96%)_ |
-| _as of 2024, Tuesday, April 2nd_ |
+| `39` **/** `145` **tasks** _(026.90%)_ |
+| _as of 2024, Wednesday, April 3rd_ |
 
-**Current tasks todo (45 tasks, as of 2024, Tuesday, April 2nd)**
+- **Current tasks to do (39 tasks, as of 2024, Wednesday, April 3rd)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
 Résumé at top
-Improvements to guestbook display
-- Dropdown of people who have signed
-- More links
+Improvements to guestbook display - Dropdown of people who have signed - More links
 Many modifications to existing text throughout the document
 Condensing the list a little bit, through dropdowns
 New translation methods
@@ -684,6 +694,7 @@ New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 Centering various tables and text
 Internet status and speedtest link
+Information on necroposting and project development cycle (in years)
 Favorite works
 Forks and browsing forks
 My server and server plans + request for help
@@ -691,31 +702,22 @@ GistHub
 Graphic design info (programs used)
 vCard and identification section (vCard may not be possible)
 My web stack
-Rework of index
-| Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 New icon to center at the top
-Music section
-| AudioDB, bandcamp
+Music section | AudioDB, bandcamp
 Certificates
 UnSaaSS project
-Update to file tree (more entries, and condense new+existing ones)
-Update the file tree, and link to ROOTFILES.base
 Update information about Windows and MacOS support
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Updates to Legend
-Full repository listing WIP
+Full repository listin (WIP)
 Nicknames (SEAN9000)
-Model projects and model project status repository link
 Major project: Miscellaneous
-Fix existing mega project section: Other projects
-Fix existing mega project section: Meadows
-Fix existing mega project section: WacOS
 Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
-Information on necroposting and project development cycle (in years)
 Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
-Add title attribute to all images
-Replace all Markdown style images with HTML style images
-Add comment markers to all details tags
+Add title attribute to all images (WIP)
+Replace all Markdown style images with HTML style images (WIP)
+Add comment markers to all details tags (WIP)
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -730,7 +732,12 @@ They are a work in progress.
 
 <img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
-**Implemented so far (100 tasks, as of 2024, Tuesday, April 2nd):**
+| ✅️ ***Task completion progress*** 📋️ |
+|---|
+| `106` **/** `145` **tasks** _(073.10%)_ |
+| _as of 2024, Wednesday, April 3rd_ |
+
+- **Implemented so far (106 tasks, as of 2024, Wednesday, April 3rd):**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -885,6 +892,12 @@ Tabs and tab video (plus a sample, speed it up if needed)
 Update to document limits
 New flags
 Government section
+Model projects and model project status repository link
+Fix existing mega project section: Other projects
+Fix existing mega project section: Meadows
+Fix existing mega project section: WacOS
+Update to file tree (more entries, and condense new+existing ones)
+Update the file tree, and link to ROOTFILES.base
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -899,13 +912,13 @@ They have been implemented.
 
 _End of remodel section._
 
-</details>
+</details> <!-- End of remodel section !-->
 
 ---
 
 _End of remodel information_
 
-</details>
+</details> <!-- End of remodel information section !-->
 
 ***
 
@@ -933,7 +946,7 @@ _End of remodel information_
 - :octocat: - Indicates that a link is directed at [`https://github.com/`](https://github.com/)
 - Legend is incomplete.
 
-</details>
+</details> <!-- End of Legend section !-->
 
 ```
 | Lead (header)
@@ -951,10 +964,6 @@ _End of remodel information_
 ```
 
 ***
-
-</details>
-
-<!-- *** !-->
 
 </details> <!-- End of lead section !-->
 
@@ -1006,7 +1015,7 @@ It isn't exact, I have many interests. What I am always learning include:
 - Current world problems
 - Other (non-culinary)
 
-</details>
+</details> <!-- End of What I'm currently learning section !-->
 
 ***
 
@@ -1050,7 +1059,7 @@ Companies I am currently considering include:
 
 > No other companies currently listed
 
-</details>
+</details> <!-- End of Further collaboration info section !-->
 
 ***
 
@@ -1074,11 +1083,19 @@ I have collaborated on a few projects on GitHub, including
 
 [Jmdugan/Blocklists](https://github.com/jmdugan/blocklists) 100% issues (2021) [1](https://github.com/jmdugan/blocklists/issues/80)
 
-</details>
+</details> <!-- End of List of projects I have helped develop subsection !-->
 
-</details>
+***
 
-</details>
+_End of What I have collaborated on subsection._
+
+</details> <!-- End of What I have collaborated on subsection !-->
+
+***
+
+_End of What I'm looking to collaborate on section._
+
+</details> <!-- End of What I'm willing to collaborate on section !-->
 
 ***
 
@@ -1104,7 +1121,7 @@ I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3,
 
 No other limitations listed at the moment.
 
-</details>
+</details> <!-- End of What I'm looking to help with section !-->
 
 ***
 
@@ -1130,7 +1147,7 @@ This is a public domain gallery of myself.
 
 - [:octocat: `Public Media Gallery specification`](https://github.com/seanpm2001/Public-Media-Gallery/)
 
-</details>
+</details> <!-- End of Public Media Gallery section !-->
 
 ***
 
@@ -4397,7 +4414,7 @@ A collective of my Operating System projects.
 | 04 | `INI` |
 | 05 | `SVG` |
 | 06 | `Markdown` |
- 
+
 **Core repositories:**
 
 | A | B | C | D | E | F | G | H |
@@ -4412,25 +4429,37 @@ A collective of my Operating System projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**This section needs work:**
+<img alt="Original Meadows logo placeholder failed to load. Click/tap here to attempt to view it" src="/Media/QMDS.png" title="Meadows Logo" width="150" height="150" align="left" style="margin-right: 30px"> **Meadows:** _My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing._
 
-- [x] Added a development status note
-- [ ] Add a language list
-- [ ] Add `:octocat:` and ` ` formatting to all hyperlink previews
-- [ ] Reformat list to only 6 columns (A-F)
-- [ ] Re-adjust image size (256x256) once previous tasks are done (to indicate that it is done)
-
-<img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/QMDS.png" width="100"/> [`Meadows`](https://github.com/seanpm2001/Meadows/) - My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing/
+- **🏠️ Home repository:** [:octocat: `QMeadows`](https://github.com/seanpm2001/QMeadows/)
+- **🔵️ Project categories:** `Quantum` `Quantum computing` `Operating Systems` `Dream project`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Wednesday, April 3rd)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Wednesday, April 3rd)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
+| ## | **Languages** |
+|----|---|
+| 01 | `Python` |
+| 02 | `C` |
+| 03 | `Markdown` |
+| 04 | `Rich Text Format` |
+| 05 | `OpenQASM` |
+| 06 | `Q#` |
+| 07 | `HTML`
+| 08 | `INI` |
+| 09 | `SVG` |
+| 10 | `YAML` |
+
 **Core repositories:**
 
-| A | B | C | D | E | F | G | H |
-|---|---|---|---|---|---|---|---|
-| [qMeadows (home repository)](https://github.com/seanpm2001/qMeadows/) | [Meadows (old home repository)](https://github.com/seanpm2001/Meadows) | [Meadows Begin](https://github.com/seanpm2001/Meadows_Begin/) | [Meadows Clock & Calendar](https://github.com/seanpm2001/Meadows_Programs_Clock_and_Calendar/) | [qMeadows file cabinet](https://github.com/seanpm2001/qMeadows_fileCabinet/) | [Meadows installer](https://github.com/seanpm2001/Meadows_Mod_Installation_and_Setup/) | [2010s Documentation for Meadows](https://github.com/seanpm2001/Meadows_2010sDocumentation/) | [2020s Documentation for Meadows](https://github.com/seanpm2001/Meadows_2020sDocumentation/) |
-| [Notifications for Meadows](https://github.com/seanpm2001/Meadows_Mod_NotificationCenter/) | [Meadows drive manager](https://github.com/seanpm2001/Meadows_Mod_Drives/) | [Module list for Meadows](https://github.com/seanpm2001/Meadows_Modules/) | [Program list for Meadows](https://github.com/seanpm2001/Meadows_Programs/) | [Meadows Mode manager](https://github.com/seanpm2001/Meadows_Mod_ModeManager/) | [Meadows Virtual Machine manager](https://github.com/seanpm2001/Meadows_Mod_Mode_VM_center_mode/) | [Meadows System settings](https://github.com/seanpm2001/Meadows_Mod_Settings/) | [Meadows battery manager](https://github.com/seanpm2001/Meadows_Mod_Battery_and_power/) |
-| [Meadows EAS](https://github.com/seanpm2001/Meadows_Emergency-Alert-System/) | [Meadows user profile manager](https://github.com/seanpm2001/Meadows_Mod_Profile/) | [Meadows scrolling engine](https://github.com/seanpm2001/Meadows_Scroll_Engine/) | [Meadows UI changer](https://github.com/seanpm2001/Meadows_UI_Mode/) | [Meadows "Quantum defragmentor"](https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter/) |
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `qMeadows (home repository)`](https://github.com/seanpm2001/qMeadows/) | [:octocat: `Meadows (old home repository)`](https://github.com/seanpm2001/Meadows) | [:octocat: `Meadows Begin`](https://github.com/seanpm2001/Meadows_Begin/) | [:octocat: `Meadows Clock & Calendar`](https://github.com/seanpm2001/Meadows_Programs_Clock_and_Calendar/) | [:octocat: `qMeadows file cabinet`](https://github.com/seanpm2001/qMeadows_fileCabinet/) | [:octocat: `Meadows installer`](https://github.com/seanpm2001/Meadows_Mod_Installation_and_Setup/) |
+| [:octocat: `2010s Documentation for Meadows``](https://github.com/seanpm2001/Meadows_2010sDocumentation/) | [:octocat: `2020s Documentation for Meadows`](https://github.com/seanpm2001/Meadows_2020sDocumentation/) | [:octocat: `Notifications for Meadows`](https://github.com/seanpm2001/Meadows_Mod_NotificationCenter/) | [:octocat: `Meadows drive manager`](https://github.com/seanpm2001/Meadows_Mod_Drives/) | [:octocat: `Module list for Meadows`](https://github.com/seanpm2001/Meadows_Modules/) | [Program list for Meadows](https://github.com/seanpm2001/Meadows_Programs/) |
+| [:octocat: `Meadows Mode manager`](https://github.com/seanpm2001/Meadows_Mod_ModeManager/) | [:octocat: `Meadows Virtual Machine manager`](https://github.com/seanpm2001/Meadows_Mod_Mode_VM_center_mode/) | [:octocat: `Meadows System settings`](https://github.com/seanpm2001/Meadows_Mod_Settings/) | [:octocat: `Meadows battery manager`](https://github.com/seanpm2001/Meadows_Mod_Battery_and_power/) | [:octocat: `Meadows EAS`](https://github.com/seanpm2001/Meadows_Emergency-Alert-System/) | [:octocat: `Meadows user profile manager`](https://github.com/seanpm2001/Meadows_Mod_Profile/) |
+| [:octocat: `Meadows scrolling engine`](https://github.com/seanpm2001/Meadows_Scroll_Engine/) | [:octocat: `Meadows UI changer`](https://github.com/seanpm2001/Meadows_UI_Mode/) | [:octocat: `Meadows "Quantum defragmentor"`](https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter/) | ⚛️ | ⚛️ | ⚛️ |
+| ⚛️ | ⚛️ | ⚛️ | ⚛️ | ⚛️ | ⚛️ |
 
 </details> <!-- End of major project: Meadows !-->
 
@@ -4440,15 +4469,12 @@ A collective of my Operating System projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**This section needs work:**
+<img alt="Original WOAHS X profile picture failed to load. Click/tap here to attempt to view it" src="/Media/W_WOAH_HighCompression.png" title="WacOS (WOAHS-X) Logo" width="150" height="150" align="left" style="margin-right: 30px"> **WacOS:** _An operating system megaproject: creating a free, libre, and open source alternative to every Apple system, while maintaining better functionality, and similar feels. No hackintosh needed._
 
-- [x] Added a development status note
-- [x] Add a language list
-- [ ] Add `:octocat:` and ` ` formatting to all hyperlink previews
-- [ ] Reformat list to only 6 columns (A-F)
-- [ ] Re-adjust image size (256x256) once previous tasks are done (to indicate that it is done)
-
-<img alt="Original WOAHS X profile picture failed to load. Click/tap here to attempt to view it" src="/Media/W_WOAH_HighCompression.png" width="100"/> [`WacOS`](https://github.com/seanpm2001/WacOS/) - An operating system megaproject: creating a free, libre, and open source alternative to every Apple system, while maintaining better functionality, and similar feels. No hackintosh needed.
+- **🏠️ Home repository:** [:octocat: `WacOS`](https://github.com/seanpm2001/WacOS/)
+- **🔵️ Project categories:** `Apple` `Operating System` `Alternative`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Wednesday, April 3rd)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Wednesday, April 3rd)**
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -4477,18 +4503,23 @@ A collective of my Operating System projects.
 
 **Core repositories:**
 
-| A | B | C | D | E | F | G | H |
-|---|---|---|---|---|---|---|---|
-| [WacOS (home repository)](https://github.com/seanpm2001/WacOS) | [WacOS X](https://github.com/seanpm2001/WacOS_X/) | [WOAHS-X](https://github.com/seanpm2001/WOAHS-X/) | [WacOS Java Runtime Environment (JRE)](https://github.com/seanpm2001/WacOS_JRE/) | [WacOS Wiki (2021 archive)](https://github.com/seanpm2001/WacOS_Wiki_2021/) | [WacOS API](https://github.com/seanpm2001/WacOS_API/) | [WacOS In Ease (At Ease alternative)](https://github.com/seanpm2001/WacOS_In_Ease/) | [Wac OS X Public "Beta"](https://github.com/seanpm2001/WacOS_X_Public_-Beta-/) |
-| [WacOS OnESTEP (NeXTSTEP/OpenSTEP alternative)](https://github.com/seanpm2001/WacOS_OnESTEP/) | [WacOS OpenGS (GS/OS alternative)](https://github.com/seanpm2001/WacOS_OpenGS/) | [WacOS DOS Mode (4 bit and 8 bit)](https://github.com/seanpm2001/WacOS_DOSMode/) | [WacOS Cloud](https://github.com/seanpm2001/WacOS_Cloud/) | [WacOS OpenCyberdog (Cyberdog alternative)](https://github.com/seanpm2001/WacOS_OpenCyberdog_Browser/) | [WacOS Sherman (M4 library)](https://github.com/seanpm2001/WacOS_Sherman/) | [WacOS WAMMY](https://github.com/seanpm2001/WacOS_WAMMY/) | [WacOS AMD Drivers](https://github.com/seanpm2001/WacOS_AMD-Drivers/) |
-| [WacOS Manpages (`$ man wacos`)](https://github.com/seanpm2001/WacOS_ManPages/) | [WacOS Hardware Blueprints](https://github.com/seanpm2001/WacOS_Hardware_Blueprints/) | [WacOS Savannah Browser (Safari alternative)](https://github.com/seanpm2001/WacOS_Savannah_Browser/) | [WacOS OpenAPFS (APFS alternative)](https://github.com/seanpm2001/WacOS_OpenAPFS/) | [Wac OS X 10.0](https://github.com/seanpm2001/WacOS_X_10.0/) | [Wac OS X 10.1](https://github.com/seanpm2001/WacOS_X_10.1/) | [Wac OS X 10.2](https://github.com/seanpm2001/WacOS_X_10.2/) | [Wac OS X 10.3](https://github.com/seanpm2001/WacOS_X_10.3/) |
-| [Wac OS X 10.4](https://github.com/seanpm2001/WacOS_X_10.4/) | [Wac OS X 10.5](https://github.com/seanpm2001/WacOS_X_10.5/) | [Wac OS X 10.6](https://github.com/seanpm2001/WacOS_X_10.6/) | [WOAHS-X 10.7](https://github.com/seanpm2001/WOAHS-X_10.7/) | [WOAHS-X 10.8](https://github.com/seanpm2001/WOAHS-X_10.8/) | [WOAHS-X 10.9](https://github.com/seanpm2001/WOAHS-X_10.9/) | [WOAHS-X 10.10](https://github.com/seanpm2001/WOAHS-X_10.10/) | [WOAHS-X 10.11](https://github.com/seanpm2001/WOAHS-X_10.11/) |
-| [WOAHS-X](https://github.com/seanpm2001/WOAHS-X/) | [WOAHS-X Software portal](https://github.com/seanpm2001/WacOS_WOAHS-X_Software/) | [WOAHS-X Calculator](https://github.com/seanpm2001/WOAHS-X_Software_Calculator/) | [WacPaint (alternative to MacPaint](https://github.com/seanpm2001/WacPaint/) | [WacWrite (alternative to MacWrite)](https://github.com/seanpm2001/WacWrite/) | [WacOS 10.12](https://github.com/seanpm2001/WacOS_10.12/) | [WacOS 10.13](https://github.com/seanpm2001/WacOS_10.13/) | [WacOS 10.14](https://github.com/seanpm2001/WacOS_10.14/) |
-| [WacOS 10.15](https://github.com/seanpm2001/WacOS_10.15/) | [WacOS 11](https://github.com/seanpm2001/WacOS_11/) | [WacOS 12](https://github.com/seanpm2001/WacOS_12/) | [WacOS 13](https://github.com/seanpm2001/WacOS_13/) | [WacOS BaSYS](https://github.com/seanpm2001/WacOS_BaSYS/) | [WacOS BaSYS Calculator](https://github.com/seanpm2001/WacOS_BaSYS_Software_Calculator/) | [whyPhoneOS calculator](https://github.com/seanpm2001/WacOS_whyPhoneOS_Software_Calculator/) | [Modern WacOS Calculator](https://github.com/seanpm2001/WacOS_WacOS_Calculator/) | 
-| [whyPhoneOS 1](https://github.com/seanpm2001/WhyPhoneOS_1/) | [whyPhoneOS 2](https://github.com/seanpm2001/WhyPhoneOS_2/) | [whyPhoneOS 3](https://github.com/seanpm2001/WhyPhoneOS_3/) | [whyPhoneOS](https://github.com/seanpm2001/WhyPhoneOS/) | [whyPadOS](https://github.com/seanpm2001/WhyPadOS/) | [whyPadOS 13](https://github.com/seanpm2001/WhyPadOS_13/) | [whyPadOS 14](https://github.com/seanpm2001/WhyPadOS_14/) |[whyPadOS 15](https://github.com/seanpm2001/WhyPadOS_15/) |
-| [whyPadOS 16](https://github.com/seanpm2001/WhyPadOS_16/) | [wOS 4](https://github.com/seanpm2001/wOS_4/) | [wOS 5](https://github.com/seanpm2001/wOS_5/) | [wOS 6](https://github.com/seanpm2001/wOS_6/) | [wOS 7](https://github.com/seanpm2001/wOS_7/) | [wOS 8](https://github.com/seanpm2001/wOS_8/) | [wOS 9](https://github.com/seanpm2001/wOS_9/) | [wOS 10](https://github.com/seanpm2001/wOS_10/) |
-| [wOS 11](https://github.com/seanpm2001/wOS_11/) | [wOS 12](https://github.com/seanpm2001/wOS_12/) | [wOS 13](https://github.com/seanpm2001/wOS_13/) | [wOS 14](https://github.com/seanpm2001/wOS_14/) | [wOS 15](https://github.com/seanpm2001/wOS_15/) | [wOS 16](https://github.com/seanpm2001/wOS_16/) | [BaSYS 1](https://github.com/seanpm2001/WacOS_BaSYS_1/) | [BaSYS 2](https://github.com/seanpm2001/WacOS_BaSYS_2/) |
-| [BaSYS 3](https://github.com/seanpm2001/WacOS_BaSYS_3/) | [BaSYS 4](https://github.com/seanpm2001/WacOS_BaSYS_4/) | [BaSYS 5](https://github.com/seanpm2001/WacOS_BaSYS_5/) | [BaSYS 6](https://github.com/seanpm2001/WacOS_BaSYS_6/) | [4-bit DOS mode](https://github.com/seanpm2001/WacOS_4-Bit_DOSMode/) | [8-bit DOS mode](https://github.com/seanpm2001/WacOS_8-Bit_DOSMode) | [wOS Calculator](https://github.com/seanpm2001/WacOS_wOS_Software_Calculator/) | Many other entries not yet listed |
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `WacOS (home repository)`](https://github.com/seanpm2001/WacOS/) | [:octocat: `WacOS X`](https://github.com/seanpm2001/WacOS_X/) | [:octocat: `WOAHS-X`](https://github.com/seanpm2001/WOAHS-X/) | [:octocat: `WacOS Java Runtime Environment (JRE)`](https://github.com/seanpm2001/WacOS_JRE/) | [:octocat: `WacOS Wiki (2021 archive)`](https://github.com/seanpm2001/WacOS_Wiki_2021/) | [:octocat: `WacOS API`](https://github.com/seanpm2001/WacOS_API/) |
+| [:octocat: `WacOS In Ease (At Ease alternative)`](https://github.com/seanpm2001/WacOS_In_Ease/) | [:octocat: `Wac OS X Public "Beta"`](https://github.com/seanpm2001/WacOS_X_Public_-Beta-/) | [:octocat: `WacOS OnESTEP (NeXTSTEP/OpenSTEP alternative)`](https://github.com/seanpm2001/WacOS_OnESTEP/) | [:octocat: `WacOS OpenGS (GS/OS alternative)`](https://github.com/seanpm2001/WacOS_OpenGS/) | [:octocat: `WacOS DOS Mode (4 bit and 8 bit)`](https://github.com/seanpm2001/WacOS_DOSMode/) | [:octocat: `WacOS Cloud`](https://github.com/seanpm2001/WacOS_Cloud/) |
+| [:octocat: `WacOS OpenCyberdog (Cyberdog alternative)`](https://github.com/seanpm2001/WacOS_OpenCyberdog_Browser/) | [:octocat: `WacOS Sherman (M4 library)`](https://github.com/seanpm2001/WacOS_Sherman/) | [:octocat: `WacOS WAMMY`](https://github.com/seanpm2001/WacOS_WAMMY/) | [:octocat: `WacOS AMD Drivers`](https://github.com/seanpm2001/WacOS_AMD-Drivers/) | [:octocat: `WacOS Manpages (`$ man wacos`)`](https://github.com/seanpm2001/WacOS_ManPages/) | [:octocat: `WacOS Hardware Blueprints`](https://github.com/seanpm2001/WacOS_Hardware_Blueprints/) |
+| [:octocat: `WacOS Savannah Browser (Safari alternative)`](https://github.com/seanpm2001/WacOS_Savannah_Browser/) | [:octocat: `WacOS OpenAPFS (APFS alternative)`](https://github.com/seanpm2001/WacOS_OpenAPFS/) | [:octocat: `Wac OS X 10.0`](https://github.com/seanpm2001/WacOS_X_10.0/) | [:octocat: `Wac OS X 10.1`](https://github.com/seanpm2001/WacOS_X_10.1/) | [:octocat: `Wac OS X 10.2`](https://github.com/seanpm2001/WacOS_X_10.2/) | [:octocat: `Wac OS X 10.3`](https://github.com/seanpm2001/WacOS_X_10.3/) |
+| [:octocat: `Wac OS X 10.4`](https://github.com/seanpm2001/WacOS_X_10.4/) | [:octocat: `Wac OS X 10.5`](https://github.com/seanpm2001/WacOS_X_10.5/) | [:octocat: `Wac OS X 10.6`](https://github.com/seanpm2001/WacOS_X_10.6/) | [:octocat: `WOAHS-X 10.7`](https://github.com/seanpm2001/WOAHS-X_10.7/) | [:octocat: `WOAHS-X 10.8`](https://github.com/seanpm2001/WOAHS-X_10.8/) | [:octocat: `WOAHS-X 10.9`](https://github.com/seanpm2001/WOAHS-X_10.9/) |
+| [:octocat: `WOAHS-X 10.10`](https://github.com/seanpm2001/WOAHS-X_10.10/) | [:octocat: `WOAHS-X 10.11`](https://github.com/seanpm2001/WOAHS-X_10.11/) |
+| [:octocat: `WOAHS-X`](https://github.com/seanpm2001/WOAHS-X/) | [:octocat: `WOAHS-X Software portal`](https://github.com/seanpm2001/WacOS_WOAHS-X_Software/) | [:octocat: `WOAHS-X Calculator`](https://github.com/seanpm2001/WOAHS-X_Software_Calculator/) | [:octocat: `WacPaint (alternative to MacPaint`](https://github.com/seanpm2001/WacPaint/) |
+| [:octocat: `WacWrite (alternative to MacWrite)`](https://github.com/seanpm2001/WacWrite/) | [:octocat: `WacOS 10.12`](https://github.com/seanpm2001/WacOS_10.12/) | [:octocat: `WacOS 10.13`](https://github.com/seanpm2001/WacOS_10.13/) | [:octocat: `WacOS 10.14`](https://github.com/seanpm2001/WacOS_10.14/) | [:octocat: `WacOS 10.15`](https://github.com/seanpm2001/WacOS_10.15/) | [:octocat: `WacOS 11`](https://github.com/seanpm2001/WacOS_11/) |
+| [:octocat: `WacOS 12`](https://github.com/seanpm2001/WacOS_12/) | [:octocat: `WacOS 13`](https://github.com/seanpm2001/WacOS_13/) | [:octocat: `WacOS BaSYS`](https://github.com/seanpm2001/WacOS_BaSYS/) | [:octocat: `WacOS BaSYS Calculator`](https://github.com/seanpm2001/WacOS_BaSYS_Software_Calculator/) | [:octocat: `whyPhoneOS calculator`](https://github.com/seanpm2001/WacOS_whyPhoneOS_Software_Calculator/) | [:octocat: `Modern WacOS Calculator`](https://github.com/seanpm2001/WacOS_WacOS_Calculator/) | 
+| [:octocat: `whyPhoneOS 1`](https://github.com/seanpm2001/WhyPhoneOS_1/) | [:octocat: `whyPhoneOS 2`](https://github.com/seanpm2001/WhyPhoneOS_2/) | [:octocat: `whyPhoneOS 3`](https://github.com/seanpm2001/WhyPhoneOS_3/) | [:octocat: `whyPhoneOS`](https://github.com/seanpm2001/WhyPhoneOS/) | [:octocat: `whyPadOS`](https://github.com/seanpm2001/WhyPadOS/) | [:octocat: `whyPadOS 13`](https://github.com/seanpm2001/WhyPadOS_13/) |
+| [:octocat: `whyPadOS 14`](https://github.com/seanpm2001/WhyPadOS_14/) |[whyPadOS 15`](https://github.com/seanpm2001/WhyPadOS_15/) | [:octocat: `whyPadOS 16`](https://github.com/seanpm2001/WhyPadOS_16/) | [:octocat: `wOS 4`](https://github.com/seanpm2001/wOS_4/) | [:octocat: `wOS 5`](https://github.com/seanpm2001/wOS_5/) | [:octocat: `wOS 6`](https://github.com/seanpm2001/wOS_6/) |
+| [:octocat: `wOS 7`](https://github.com/seanpm2001/wOS_7/) | [:octocat: `wOS 8`](https://github.com/seanpm2001/wOS_8/) | [:octocat: `wOS 9`](https://github.com/seanpm2001/wOS_9/) | [:octocat: `wOS 10`](https://github.com/seanpm2001/wOS_10/) | [:octocat: `wOS 11`](https://github.com/seanpm2001/wOS_11/) | [:octocat: `wOS 12`](https://github.com/seanpm2001/wOS_12/) |
+| [:octocat: `wOS 13`](https://github.com/seanpm2001/wOS_13/) | [:octocat: `wOS 14`](https://github.com/seanpm2001/wOS_14/) | [:octocat: `wOS 15`](https://github.com/seanpm2001/wOS_15/) | [:octocat: `wOS 16`](https://github.com/seanpm2001/wOS_16/) | [:octocat: `BaSYS 1`](https://github.com/seanpm2001/WacOS_BaSYS_1/) | [:octocat: `BaSYS 2`](https://github.com/seanpm2001/WacOS_BaSYS_2/) |
+| [:octocat: `BaSYS 3`](https://github.com/seanpm2001/WacOS_BaSYS_3/) | [:octocat: `BaSYS 4`](https://github.com/seanpm2001/WacOS_BaSYS_4/) | [:octocat: `BaSYS 5`](https://github.com/seanpm2001/WacOS_BaSYS_5/) | [:octocat: `BaSYS 6`](https://github.com/seanpm2001/WacOS_BaSYS_6/) | [:octocat: `4-bit DOS mode`](https://github.com/seanpm2001/WacOS_4-Bit_DOSMode/) | [:octocat: `8-bit DOS mode`](https://github.com/seanpm2001/WacOS_8-Bit_DOSMode) |
+| [:octocat: `wOS Calculator`](https://github.com/seanpm2001/WacOS_wOS_Software_Calculator/) | Many other entries not yet listed | 🍏️ | 🍏️ | 🍏️ | 🍏️ |
 
 </details> <!-- End of major project: WacOS !-->
 
@@ -5068,22 +5099,52 @@ A collective of my miscellaneous projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Other projects:**
+<img alt="Other logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="150" height="150" align="left" style="margin-right: 30px"> **Other projects** _Other projects by me that aren't listed in their own mega/major category._
 
-( [Health projects](https://github.com/Seanwallawalla-health) | [CompuSmell project](https://github.com/CompuSmell) | [Degoogle campaign](https://github.com/Degoogle-your-life) | [Myrick family archive](https://github.com/Myrick-family-archive) | [Nostalgia Project](https://github.com/Nostalgia-project) | [Other operating system projects](https://github.com/seanwallawalla-operating-systems) | [Bot projects](https://github.com/seanwallawalla-bots) | [Software security projects](https://github.com/seanwallawalla-security) | [Audio projects](https://github.com/seanwallawalla-audio) | [Open Source Video games](https://github.com/seanwallawalla-gaming) | [Malware projects (ONLY FOR USE IN VIRTUAL MACHINES)](https://github.com/seanwallawalla-malware) | **Other projects (100+) aren't listed yet** )
+> **Note:** _This is the place to put projects that don't belong to their own category. The listing here is highly incomplete_
 
-**Key projects:**
+- **🏠️ Home repository:** [:octocat: `Other-projects`](https://github.com/seanpm2001/Other-projects/)
+- **🔵️ Project categories:** `Other`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Wednesday, April 3rd)**
+- **🧑‍💻️ Total # of contributors:** `?` **(as of 2024, Sunday, April 3rd)**
 
-- [:octocat: `.github`](https://github.com/seanpm2001/.github/) - GitHub information and configuration repository
-- [:octocat: `.gitlab`](https://github.com/seanpm2001/.gitLab/) - GitLab information and configuration repository
-- [:octocat: `Commit Count Milestones`](https://github.com/seanpm2001/Commit-Count-Milestones/) - Abbreviated CCM, contains information regarding repository commit counts/
-- [:octocat: `Documentation`](https://github.com/seanpm2001/Documentation/) - My core documentation repository
-- [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) - My core GitHub organization documentation repository.
-- [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/) - Contains organized and detailed, comprehensive statistics for my GitHub profile.
-- [:octocat: `Git-Templates`](https://github.com/seanpm2001/Git-Templates/) - My core Git-Template repository.
-- [:octocat: `Git-Template_V8`](https://github.com/seanpm2001/Git-Template_V8/) - The template that is used to create most of my repositories.
-- [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB) - A place where I store a copy of my personal music collection. Due to file size and copyright reasons, the majority of songs and files cannot be uploaded here. I work on adding 3 new playlists on a daily basis.
-- [:octocat: `SNU 2D Programming tools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - The most developed programming module for the SNU Website. <!-- Want to see all the modules separately? [This organization has all of them as separate repositories](https://github.com/SNU-Programming-Tools) !-->
+**Development status:** _Varies. Most are not functional and highly incomplete. Developers needed._
+
+| ## | **Languages** |
+|----|---|
+| 01 | `Python` |
+| 02 | `Markdown` |
+| 03 | `C` |
+| 04 | `JavaScript` |
+| 05 | `C++` |
+| 06 | `HTML` |
+| 07 | `Lua` |
+| 08 | `Java` |
+| 09 | `GDScript` |
+| 10 | `Vala` |
+| 11 | `Assembly` |
+| 12 | `Rust` |
+| 13 | `PHP` |
+| 14 | `MoonScript` |
+| 15 | `C#` |
+| 16 | `Kotlin` |
+| 17 | `VBScript` |
+| 18 | `Batchfile` |
+| 19 | `Scheme` |
+| 20 | `Genie` |
+| 21 | `Gherkin` |
+| 22 | `Liquid` |
+| 23 | `Ruby` |
+| 24 | `RDoc` |
+| 25 | `Pascal` |
+| xx | `Many not listed` |
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `Health projects`](https://github.com/seanpm2001/Seanwallawalla-health) | [:octocat: `CompuSmell project`](https://github.com/seanpm2001/CompuSmell) | [:octocat: `Degoogle campaign`](https://github.com/seanpm2001/Degoogle-your-life) | [:octocat: `Myrick family archive`](https://github.com/Myrick-family-archive) | [:octocat: `Nostalgia Project`](https://github.com/seanpm2001/Nostalgia-project) | [:octocat: `Other operating system projects](https://github.com/seanpm2001/seanwallawalla-operating-systems) |
+| [:octocat: `Bot projects`](https://github.com/seanpm2001/seanwallawalla-bots) | [:octocat: `Software security projects`](https://github.com/seanpm2001/seanwallawalla-security) | [:octocat: `Audio projects`](https://github.com/seanpm2001/seanwallawalla-audio) | [:octocat: `Open Source Video games`](https://github.com/seanpm2001/seanwallawalla-gaming) | [:octocat: `Malware projects (ONLY FOR USE IN VIRTUAL MACHINES)`](https://github.com/seanpm2001/seanwallawalla-malware) | [:octocat: `DISK-O Jockey`](https://github.com/seanpm2001/DISK-O-Jockey/) |
+| [:octocat: `Kotlint`](https://github.com/seanpm2001/Kotlint/) | [:octocat: `WichCraft`](https://github.com/seanpm2001/WichCraft/) | [:octocat: `iStonk`](https://github.com/seanpm2001/iStonk/) | **Other projects (100+) aren't listed yet** | ⭕️ | ⭕️ |
+| ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of major project: Other projects !-->
 
@@ -5204,6 +5265,19 @@ This is a sorted list of key projects by mega project categories.
 - [BluPhone](https://github.com/seanpm2001/BluPhone) - BluPhone is a powerful Bluetooth device client for Linux, MacOS, Android, iOS, Windows, FreeBSD, and more. It gives you tons of control over any bluetooth headphone set you connect.
 - [LinkLax](https://github.com/seanpm2001/LinkLax) - LinkLax is a very colorful and beautiful URL (hyperlink) styler program that can make your web browsing experience much more colorful.
 
+**Key projects:**
+
+- [:octocat: `.github`](https://github.com/seanpm2001/.github/) - GitHub information and configuration repository
+- [:octocat: `.gitlab`](https://github.com/seanpm2001/.gitLab/) - GitLab information and configuration repository
+- [:octocat: `Commit Count Milestones`](https://github.com/seanpm2001/Commit-Count-Milestones/) - Abbreviated CCM, contains information regarding repository commit counts/
+- [:octocat: `Documentation`](https://github.com/seanpm2001/Documentation/) - My core documentation repository
+- [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) - My core GitHub organization documentation repository.
+- [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/) - Contains organized and detailed, comprehensive statistics for my GitHub profile.
+- [:octocat: `Git-Templates`](https://github.com/seanpm2001/Git-Templates/) - My core Git-Template repository.
+- [:octocat: `Git-Template_V8`](https://github.com/seanpm2001/Git-Template_V8/) - The template that is used to create most of my repositories.
+- [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB) - A place where I store a copy of my personal music collection. Due to file size and copyright reasons, the majority of songs and files cannot be uploaded here. I work on adding 3 new playlists on a daily basis.
+- [:octocat: `SNU 2D Programming tools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - The most developed programming module for the SNU Website. <!-- Want to see all the modules separately? [This organization has all of them as separate repositories](https://github.com/SNU-Programming-Tools) !-->
+
 </details>
 
 ---
@@ -5318,6 +5392,9 @@ Some of my repositories are so well-developed that they serve as models to other
 - [:octocat: `seanpm2001:My-Linux-setup`](https://github.com/seanpm2001/My-Linux-setup/)
 
 > [:octocat: `More information`](https://github.com/seanpm2001/Model_Project_Info/)
+
+- [/MODEL_PROJECT_STATUS.py](/MODEL_PROJECT_STATUS.py) - Information on the model project status of this repository (executable)
+- [/MODEL_PROJECT_STATUS.xhtml](/MODEL_PROJECT_STATUS.xhtml) - Information on the model project status of this repository (markup)
 
 </details> <!-- End of model project information section !-->
 
@@ -5832,53 +5909,240 @@ _End of documentation section._
 
 [View workflow files](https://github.com/seanpm2001/seanpm2001/actions/workflows/)
 
-</details>
+</details> <!-- End of About this page: workflows subsection !-->
+
+---
 
 ⬆️ Above [(seanpm2001/seanpm2001)](https://github.com/seanpm2001/seanpm2001) - The repository hosting this profile README file
+
+---
 
 <details open><summary><H3>🗄️ Explore this repo:</H3></summary>
 
 ### [📘️ GitHub:seanpm2001/seanpm2001](#-GitHub-seanpm2001-seanpm2001)
 
-Outdated, as of 2023, Friday, May 26th
-
-===
-
-- 📂 [ .github](/.github/.github_README.md) - The GitHub configuration folder.
-- 📂 [DailyStatus](/DailyStatus/README.md) - An archive of my daily status posts.
-- 📂 [Extermal](/Extermal/) - Stores external data (ProjectWiki, other)
-- 📂 [External](/External/) - Stores external data (ProjectWiki, other) this time with the correct name
-- 📂 [FFTechSupport](/FFTechSupport/) - Stores emergency tech support data, originally for Firefox.
-- 📂 [Fun stuff](/FunStuff/) - A collection of fun extras.
-- 📂 [GitHub Commits](/GitHub_Commits/) - Original location of [daily GitHub images](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub).
-- 📂 [Jumping Text](/JumpingText/) - Jumping text like the Minecraft title screen, only available if moddable through GitHub.
-- 📂 [Kiosk](/Kiosk/) - Various CSV Kiosk data for personal use.
-- 📂 [Media](/Media/) - Miscellaneous images used for the README file you are currently reading.
-- 📂 [Notes](/Notes/) - The original location of [daily GitHub notes](https://github.com/seanpm2001/Git-Templates/).
-- 📂 [OldVersions](/OldVersions/) - Old versions of the README file you are currently reading.
-- 📂 [Sandbox](/Sandbox/) - A test sandbox for testing out certain GitHub functionality.
-- 📂 [Schedule](/Schedule/) - A collection of my schedules.
-- 📂 [Special](/Special/) - Stores special project data
+- [`View list`](/ROOTFILES.base)
 
 ---
 
-- 📜 [.gitignore](.gitignore) - A random .gitignore file.
-- 📜 [.readme_update_plans.md](.readme_update_plans.md) - For plans regarding updating the README file (starting with version 9)
-- 📜 [CONTRIBUTING.md](CONTRIBUTING.md) - The `CONTRIBUTING.md` file for this project, containing info on how you can contribute.
-- 📜 [DRM-free_label.en.svg](DRM-free_label.en.svg) - The image file telling you that this project does not contain DRM.
-- 📜 [LANG1.py](LANG1.py) - The first project language file for this project.
-- 📜 [LANG1_V1.py](LANG1_V1.py) - An archive of the first version of the first project language file for this project.
-- 📜 [LANG2.html](LANG2.html) - The second project language file for this project.
-- 📜 [LANG2_V1.html](LANG2_V1.html) - An archive of the first version of the second project language file for this project.
-- 📜 [LICENSE.txt](LICENSE.txt) - The license for this project (GNU General Public License v3.0)
-- 📜 [README.md](README.md) - The README file you are currently reading. (clicking this link will likely reload the page)
-- 📜 [SECRET.md](SECRET.md) - Original text of the GitHub profile secret.
-- 📜 [SeniorPhotoFullQuality.jpeg](SeniorPhotoFullQuality.jpeg) - The full version of my senior photo, used as my profile picture.
-- 📜 [SponsorButton.png](SponsorButton.png) - A graphical copy of the sponsor button for this project.
+<details open><summary><b>Click/tap here to expand/collapse the legend</b></summary>
 
-===
+| Classic file view |
+|---|
+| No longer used (for now) |
+| Removed in version 87 |
 
-</details>
+| Symbol | Legend |
+|---|---|
+| 📁️ | Folder/directory |
+| 📜️ | File (vagrant) |
+
+| GitLab inspired file view |
+|---|
+| Currently in use |
+| Added in version 87 |
+
+| Symbol | Legend | 
+|---|---|
+| 📂️ | Folder |
+| ⚙️ | Dotfile |
+| 📄️ | Plain text file |
+| 📃️ | Rich text file/Markup file |
+| 🖼️ | Image file |
+| 👥️ | Citation/authorship file |
+| 🔨️ | Configuration file |
+| 🐍️ | Python source file |
+| 📰️ | News file |
+| ⚖️ | License file |
+| 💿️ | Copy information file |
+| ☕️ | Java source file |
+| 💎️ | Ruby source file |
+| 🐚️ | Shell script |
+| 🗄️ | CSV file |
+| ⭐️ | Most important file |
+| ㊙️ | Information about a secret file |
+| 🈴️ | Translation file |
+| 🛡️ | Security information file |
+
+</details> <!-- End of legend !-->
+
+---
+
+<details open><summary><b>Click/tap here to expand/collapse the directory tree</b></summary>
+
+| 📁️ Folder/directory | ℹ️ Description |
+|---|---|
+| 📂 [ .github](/.github/.github_README.md) | The GitHub configuration folder. |
+| 📂 [ .gitlab](/.gitlab/) | The GitLab configuration folder. |
+| 📂 [Achievements](/Achievements/) | Information on GitHub achievements. |
+| 📂 [Actions](/Actions/) | Custom GitHub actions for this project. |
+| 📂 [Badges](/Badges/) | Information on badges used on this project. |
+| 📂 [Branches](/Branches/) | Information on the branches of this repository |
+| 📂 [Citation](/Citation/) | Information on citing this repository |
+| 📂 [DailyStatus](/DailyStatus/README.md) | An archive of my daily status posts. |
+| 📂 [Docs](/Docs/) | Core documentation for this repository |
+| 📂 [Employment_Status](/Employment_Status/) | Information on employment status on the @seanpm2001 profile |
+| 📂 [Extermal](/Extermal/) | Stores external data (ProjectWiki, other) (the name is incorrect, but is kept for historical purposes) |
+| 📂 [External](/External/) | Stores external data (ProjectWiki, other) this time with the correct name |
+| 📂 [External_Commits](/External_Commits/) | Information on commits made to other repositories |
+| 📂 [FFTechSupport](/FFTechSupport/) | Stores emergency tech support data, originally for Firefox. |
+| 📂 [Follows](/Follows/) | Information on GitHub following/followers |
+| 📂 [Forks](/Forks/) | Information on GitHub forks |
+| 📂 [Fun stuff](/FunStuff/) | A collection of fun extras. |
+| 📂 [GitHub Commits](/GitHub_Commits/) | Original location of [daily GitHub images](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub) |
+| 📂 [Graphics](/Graphics/) | Stores the main graphics for this repository |
+| 📂 [Inspirations](/Achievements/) | Information on things that inspire me |
+| 📂 [Jumping Text](/JumpingText/) | Jumping text like the Minecraft title screen, only available if moddable through GitHub. |
+| 📂 [Kiosk](/Kiosk/) | Various CSV Kiosk data for personal use. |
+| 📂 [Location](/Location/) | Information on location data |
+| 📂 [Media](/Media/) | Miscellaneous images used for the README file you are currently reading. |
+| 📂 [Notes](/Notes/) | The original location of [daily GitHub notes](https://github.com/seanpm2001/Git-Templates/). |
+| 📂 [OldVersions](/OldVersions/) | Old versions of the README file you are currently reading. |
+| 📂 [Pronouns](/Pronouns/) | Information on pronoun usage |
+| 📂 [Remodels](/Remodels/) | Information on remodels of this repository |
+| 📂 [RepoData](/RepoData/) | Holds repository data for this repository |
+| 📂 [RepoData_Notes](/RepoData_Notes/) | Information on RepoData usage for this repository |
+| 📂 [RepoList](/RepoList/) | Holds a list of all of my repositories |
+| 📂 [Sandbox](/Sandbox/) | A test sandbox for testing out certain GitHub functionality. |
+| 📂 [Schedule](/Schedule/) | A collection of my schedules. |
+| 📂 [Segments](/Segments/) | Holds segments of code for this project |
+| 📂 [Social-LInks](/Social-Links/) | Holds data on social links set up for the @seanpm2001 profile |
+| 📂 [Special](/Special/) | Stores special project data |
+| 📂 [Sponsors](/Sponsors/) | Information on GitHub sponsors |
+| 📂 [Stars](/Stars/) | Information on GitHub stars |
+| 📂 [Watch](/Watch/) | Information on GitHub watching |
+
+</details> <!-- End of directory tree !-->
+
+---
+
+<details open><summary><b>Click/tap here to expand/collapse the file tree</b></summary>
+
+| 📜️ File | ℹ️ Description |
+|---|---|
+| ⚙️ [/.all-contributorsrc](/.all-contributorsrc) | Unlabeled version of the all-contributors file for this project. |
+| ⚙️ [/.all-contributorsrc.json](/.all-contributorsrc.json) | JSON version of the all-contributors file for this project. |
+| ⚙️ [/.editorconfig](/.editorconfig) | The .editorconfig configuration file for this project. |
+| ⚙️ [/.gitattributes](/.gitattributes)	 | The .gitattributes configuration file for this project. |
+| ⚙️ [/.gitignore](/.gitignore) | A random .gitignore file. |
+| ⚙️ [/.readme_update_plans.md](/.readme_update_plans.md) | For plans regarding updating the README file (starting with version 9) |
+| 📃️ [/404.html](/404.html) | The 404 page for this project. |
+| 🖼️ [/404.jpeg](/404.jpeg) | Image displayed on the 404 page for this project |
+| 📃️ [/404.md](/404.md) | The Jekyll 404 page for this project. |
+| 👥️ [/AUTHORS](/AUTHORS) | Unlabeled version of information about the authors of this project |
+| 📃️ [/AUTHORS.md](/AUTHORS.md) | Markdown version of information about the authors of this project |
+| 🔨️ [/AUTOMATE2001.yaml](/AUTOMATE2001.yaml) | Configuration file for [:octocat: `AUTOMATE2001`](https://github.com/seanpm2001/AUTOMATE-2001/) to work with this repository |
+| 🔨️ [/AUTOMATE2001.yml](/AUTOMATE2001.yml) | Configuration file for [:octocat: `AUTOMATE2001`](https://github.com/seanpm2001/AUTOMATE-2001/) to work with this repository |
+| 🐍️ [/BUILD_INFO.py](/BUILD_INFO.py) | Information on building this project (executable) |
+| 📰️ [/CHANGELOG](/CHANGELOG) | Unlabeled version of the changelog for this repository |
+| 📰️ [/CHANGELOG.md](/CHANGELOG.md) | Markdown version of the changelog for this repository |
+| 👥️ [/CITATION.cff](/CITATION.cff) | Citation template for citing this repository |
+| 📃️ [/CONTRIBUTING.md](/CONTRIBUTING.md) | The `CONTRIBUTING.md` file for this project, containing info on how you can contribute. |
+| 💿️ [/COPYINGL](/COPYINGL) | Information on copying files. |
+| 👥️ [/CREDITS](/CREDITS) | Unlabeled credits file for this project. |
+| 📃️ [/CREDITS.wiki](/CREDITS.wiki) | WikiText version of the credits file for this project. |
+| 🖼️ [/DRM-free_label.en.svg](/DRM-free_label.en.svg) | The image file telling you that this project does not contain DRM. |
+| 🔨️ [/INSTALL](/INSTALL) | Unlabeled installation instructions file for this project |
+| 📃️ [/INSTALL.rst](/INSTALL.rst) | reStructuredText version of the installation instructions file for this project. |
+| 🔨️ [/K.desktop](/K.desktop) | KDE desktop entry file for this repository |
+| ⚖️ [/LICENSE-GPL.java](/LICENSE-GPL.java) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.py](/LICENSE-GPL.py) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.py3](/LICENSE-GPL.py3) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.pyt](/LICENSE-GPL.pyt) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.pyw](/LICENSE-GPL.pyw) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.rb](/LICENSE-GPL.rb) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.ruby](/LICENSE-GPL.ruby) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.sh](/LICENSE-GPL.sh) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL.txt](/LICENSE-GPL.txt) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.java](/LICENSE-GPL3.java) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.py](/LICENSE-GPL3.py) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.py3](/LICENSE-GPL3.py3) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.pyt](/LICENSE-GPL3.pyt) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.pyw](/LICENSE-GPL3.pyw) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.rb](/LICENSE-GPL3.rb) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.ruby](/LICENSE-GPL3.ruby) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.sh](/LICENSE-GPL3.sh) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE-GPL3.txt](/LICENSE-GPL3.txt) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.java](/LICENSE.java) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.py](/LICENSE.py) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.py3](/LICENSE.py3) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.pyt](/LICENSE.pyt) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.pyw](/LICENSE.pyw) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.rb](/LICENSE.rb) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.ruby](/LICENSE.ruby) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.sh](/LICENSE.sh) | The license for this project (GNU General Public License v3.0) |
+| ⚖️ [/LICENSE.txt](/LICENSE.txt) | The license for this project (GNU General Public License v3.0) |
+| 🐍️ [/MODEL_PROJECT_STATUS.py](/MODEL_PROJECT_STATUS.py) | Information on the model project status of this repository (executable) |
+| 📃️ [/MODEL_PROJECT_STATUS.xhtml](/MODEL_PROJECT_STATUS.xhtml) | Information on the model project status of this repository (markup) |
+| 🐍️ [/PROJECT_LANG_1.py](/PROJECT_LANG_1.py) | The first project language file for this project. |
+| 🐍️ [/PROJECT_LANG_1.py3](/PROJECT_LANG_1.py3) | The first project language file for this project. |
+| 🐍️ [/PROJECT_LANG_1.pyt](/PROJECT_LANG_1.pyt) | The first project language file for this project. |
+| 🐍️ [/PROJECT_LANG_1.pyw](/PROJECT_LANG_1.pyw) | The first project language file for this project. |
+| 🔨️ [/PROJECT_LANG_10.yaml](/PROJECT_LANG_10.yaml) | The tenth project language file for this project. |
+| 🔨️ [/PROJECT_LANG_10.yml](/PROJECT_LANG_10.yml) | The tenth project language file for this project. |
+| 📃️ [/PROJECT_LANG_11.markdown](/PROJECT_LANG_11.markdown) | The eleventh project language file for this project. |
+| 📃️ [/PROJECT_LANG_11.md](/PROJECT_LANG_11.md) | The eleventh project language file for this project. |
+| 📃️ [/PROJECT_LANG_11.mdown](/PROJECT_LANG_11.mdown) | The eleventh project language file for this project. |
+| 📃️ [/PROJECT_LANG_11.mkd](/PROJECT_LANG_11.mkd) | The eleventh project language file for this project. |
+| 📄️ [/PROJECT_LANG_12.txt](/PROJECT_LANG_12.txt) | The twelfth project language file for this project. |
+| 📃️ [/PROJECT_LANG_13.rst](/PROJECT_LANG_13.rst) | The thirteenth project language file for this project. |
+| 📃️ [/PROJECT_LANG_14.wiki](/PROJECT_LANG_14.wiki) | The fourteenth project language file for this project. |
+| 👥️ [/PROJECT_LANG_15.bib](/PROJECT_LANG_15.bib) | The fifteenth project language file for this project. |
+| 💎️ [/PROJECT_LANG_16.gem](/PROJECT_LANG_16.gem) | The sixteenth project language file for this project. |
+| 💎️ [/PROJECT_LANG_16.rake](/PROJECT_LANG_16.rake) | The sixteenth project language file for this project. |
+| 💎️ [/PROJECT_LANG_16.rb](/PROJECT_LANG_16.rb) | The sixteenth project language file for this project. |
+| 💎️ [/PROJECT_LANG_16.rbx](/PROJECT_LANG_16.rbx) | The sixteenth project language file for this project. |
+| 💎️ [/PROJECT_LANG_16.ruby](/PROJECT_LANG_16.ruby) | The sixteenth project language file for this project. |
+| ☕️ [/PROJECT_LANG_17.java](/PROJECT_LANG_17.java) | The seventeenth project language file for this project. |
+| 📃️ [/PROJECT_LANG_2.htm](/PROJECT_LANG_2.htm) | The second project language file for this project. |
+| 📃️ [/PROJECT_LANG_2.html](/PROJECT_LANG_2.html) | The second project language file for this project. |
+| 📃️ [/PROJECT_LANG_2.mhtm](/PROJECT_LANG_2.mhtm) | The second project language file for this project. |
+| 📃️ [/PROJECT_LANG_2.mhtml](/PROJECT_LANG_2.mhtml) | The second project language file for this project. |
+| 📃️ [/PROJECT_LANG_2.xhtm](/PROJECT_LANG_2.xhtm) | The second project language file for this project. |
+| 📃️ [/PROJECT_LANG_2.xhtml](/PROJECT_LANG_2.xhtml) | The second project language file for this project. |
+| 🐚️ [/PROJECT_LANG_3.sh](/PROJECT_LANG_3.sh) | The third project language file for this project. |
+| 🗄️ [/PROJECT_LANG_4.csv](/PROJECT_LANG_4.csv) | The fourth project language file for this project. |
+| 🔨️ [/PROJECT_LANG_5.mak](/PROJECT_LANG_5.mak) | The fifth project language file for this project. |
+| 🔨️ [/PROJECT_LANG_5.make](/PROJECT_LANG_5.make) | The fifth project language file for this project. |
+| 🔨️ [/PROJECT_LANG_5.mk](/PROJECT_LANG_5.mk) | The fifth project language file for this project. |
+| 📃️ [/PROJECT_LANG_6.tex](/PROJECT_LANG_6.tex) | The sixth project language file for this project. |
+| 🔨️ [/PROJECT_LANG_7.cfg](/PROJECT_LANG_7.cfg) | The seventh project language file for this project. |
+| 🔨️ [/PROJECT_LANG_7.ini](/PROJECT_LANG_7.ini) | The seventh project language file for this project. |
+| 🔨️ [/PROJECT_LANG_8.desktop](/PROJECT_LANG_8.desktop) | The eighth project language file for this project. |
+| 🔨️ [/PROJECT_LANG_9.json](/PROJECT_LANG_9.json) | The ninth project language file for this project. |
+| ⭐️ [/README.md](/README.md) | **The core [README.md](#README-MD) file for this project.** |
+| 📃️ [/REPOLIST.urll](/REPOLIST.urll) | A file that lists all of my repositories |
+| 📄️ [/REQUIREMENTS.txt](/REQUIREMENTS.txt) | Information on the requirements for installing this repository |
+| 📃️ [/ROOTFILES.base](/ROOTFILES.base) | A plain text view of all of the files and folders at the trunk/root of this repository |
+| ㊙️ [/SECRET.md](/SECRET.md) | Original text of the GitHub profile secret. |
+| 🛡️ [/SECURITY.md](/SECURITY.md) | Security information for this repository |
+| 🖼️ [/SeniorPhotoFullQuality.jpeg](/SeniorPhotoFullQuality.jpeg) | The full version of my senior photo, used as my profile picture. |
+| 🖼️ [/SponsorButton.png](/SponsorButton.png) | A graphical copy of the sponsor button for this project. |
+| 🈴️ [/TRANSLATION.md](/TRANSLATION.md) | Information on translating this project |
+| 🔨️ [/_config.yml](/_config.yml) | Jekyll configuration file for this repository |
+| 🔨️ [/desktop.ini](/desktop.ini) | Windows desktop entry file for this repository |
+| 🔨️ [/makefile.mk](/makefile.mk) | GNU Make build file for this repository |
+| 📃️ [/pull_request_template.md](/pull_request_template.md) | Pull request template for this repository |
+
+</details> <!-- End of file tree !-->
+
+---
+
+#### Footnotes
+
+<details open><summary><b>Click/tap here to expand/collapse the footnotes section</b></summary>
+
+###### README MD
+
+[The README file you are currently reading. (clicking this link will likely reload the page)](/README.md)
+
+</details> <!-- End of footnotes section !-->
+
+---
+
+_End of explore this repository section._
+
+</details> <!-- End of Explore this Repository section !-->
 
 ***
 
@@ -5887,11 +6151,11 @@ Outdated, as of 2023, Friday, May 26th
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `86 (2024, Tuesday, April 2nd at 04:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,195`
-- **Word count:** `059,533`
-- **Character count (with spaces):** `0,424,449 characters`
-- **Character count (without spaces)** `0,371,975 characters`
+- **File version:** `87 (2024, Wednesday, April 3rd at 06:00 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,512`
+- **Word count:** `062,652`
+- **Character count (with spaces):** `0,448,212 characters`
+- **Character count (without spaces)** `0,392,037 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5900,7 +6164,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-</details>
+</details> <!-- End of File info section !-->
 
 ***
 
@@ -5940,7 +6204,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 1
 
-</details>
+</details> <!-- End of V1 !-->
 
 ---
 
@@ -5966,7 +6230,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 2
 
-</details>
+</details> <!-- End of V2 !-->
 
 ---
 
@@ -5992,7 +6256,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 3
 
-</details>
+</details> <!-- End of V3 !-->
 
 ---
 
@@ -6014,7 +6278,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 4
 
-</details>
+</details> <!-- End of V4 !-->
 
 ---
 
@@ -6034,7 +6298,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 5
 
-</details>
+</details> <!-- End of V5 !-->
 
 ---
 
@@ -6066,7 +6330,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 6
 
-</details>
+</details> <!-- End of V6 !-->
 
 ---
 
@@ -6118,7 +6382,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 7
 
-</details>
+</details> <!-- End of V7 !-->
 
 ---
 
@@ -6144,7 +6408,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 8
 
-</details>
+</details> <!-- End of V8 !-->
 
 ---
 
@@ -6174,7 +6438,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 9
 
-</details>
+</details> <!-- End of V9 !-->
 
 ---
 
@@ -6204,7 +6468,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 10
 
-</details>
+</details> <!-- End of V10 !-->
 
 ---
 
@@ -6222,7 +6486,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 11
 
-</details>
+</details> <!-- End of V11 !-->
 
 ---
 
@@ -6240,7 +6504,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 12
 
-</details>
+</details> <!-- End of V12 !-->
 
 ---
 
@@ -6262,7 +6526,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 13
 
-</details>
+</details> <!-- End of V13 !-->
 
 ---
 
@@ -6294,7 +6558,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 14
 
-</details>
+</details> <!-- End of V14 !-->
 
 ---
 
@@ -6318,7 +6582,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 15
 
-</details>
+</details> <!-- End of V15 !-->
 
 ---
 
@@ -6338,7 +6602,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 16
 
-</details>
+</details> <!-- End of V16 !-->
 
 ---
 
@@ -6356,7 +6620,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 17
 
-</details>
+</details> <!-- End of V17 !-->
 
 ---
 
@@ -6374,7 +6638,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 18
 
-</details>
+</details> <!-- End of V18 !-->
 
 ---
 
@@ -6392,7 +6656,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 19
 
-</details>
+</details> <!-- End of V19 !-->
 
 ---
 
@@ -6410,7 +6674,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 20
 
-</details>
+</details> <!-- End of V20 !-->
 
 ---
 
@@ -6428,7 +6692,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 21
 
-</details>
+</details> <!-- End of V21 !-->
 
 ---
 
@@ -6446,7 +6710,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 22
 
-</details>
+</details> <!-- End of V22 !-->
 
 ---
 
@@ -6464,7 +6728,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 23
 
-</details>
+</details> <!-- End of V23 !-->
 
 ---
 
@@ -6482,7 +6746,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 24
 
-</details>
+</details> <!-- End of V24 !-->
 
 ---
 
@@ -6500,7 +6764,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 25
 
-</details>
+</details> <!-- End of V25 !-->
 
 ---
 
@@ -6518,7 +6782,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 26
 
-</details>
+</details> <!-- End of V26 !-->
 
 ---
 
@@ -6536,7 +6800,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 27
 
-</details>
+</details> <!-- End of V27 !-->
 
 ---
 
@@ -6554,7 +6818,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 28
 
-</details>
+</details> <!-- End of V28 !-->
 
 ---
 
@@ -6572,7 +6836,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 29
 
-</details>
+</details> <!-- End of V29 !-->
 
 ---
 
@@ -6590,7 +6854,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 30
 
-</details>
+</details> <!-- End of V30 !-->
 
 ---
 
@@ -6608,7 +6872,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 31
 
-</details>
+</details> <!-- End of V31 !-->
 
 ---
 
@@ -6626,7 +6890,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 32
 
-</details>
+</details> <!-- End of V32 !-->
 
 ---
 
@@ -6644,7 +6908,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 33
 
-</details>
+</details> <!-- End of V33 !-->
 
 ---
 
@@ -6662,7 +6926,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 34
 
-</details>
+</details> <!-- End of V34 !-->
 
 ---
 
@@ -6680,7 +6944,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 35
 
-</details>
+</details> <!-- End of V35 !-->
 
 ---
 
@@ -6698,7 +6962,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 36
 
-</details>
+</details> <!-- End of V36 !-->
 
 ---
 
@@ -6716,7 +6980,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 37
 
-</details>
+</details> <!-- End of V37 !-->
 
 ---
 
@@ -6734,7 +6998,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 38
 
-</details>
+</details> <!-- End of V38 !-->
 
 ---
 
@@ -6758,7 +7022,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 39
 
-</details>
+</details> <!-- End of V39 !-->
 
 ---
 
@@ -6778,7 +7042,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 40
 
-</details>
+</details> <!-- End of V40 !-->
 
 ---
 
@@ -6796,7 +7060,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 41
 
-</details>
+</details> <!-- End of V41 !-->
 
 ---
 
@@ -6816,7 +7080,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 42
 
-</details>
+</details> <!-- End of V42 !-->
 
 ---
 
@@ -6834,7 +7098,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 43
 
-</details>
+</details> <!-- End of V43 !-->
 
 ---
 
@@ -6852,7 +7116,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 44
 
-</details>
+</details> <!-- End of V44 !-->
 
 ---
 
@@ -6870,7 +7134,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 45
 
-</details>
+</details> <!-- End of V45 !-->
 
 ---
 
@@ -6888,7 +7152,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 46
 
-</details>
+</details> <!-- End of V46 !-->
 
 ---
 
@@ -6906,7 +7170,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 47
 
-</details>
+</details> <!-- End of V47 !-->
 
 ---
 
@@ -6928,7 +7192,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 48
 
-</details>
+</details> <!-- End of V48 !-->
 
 ---
 
@@ -6954,7 +7218,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 49
 
-</details>
+</details> <!-- End of V49 !-->
 
 ---
 
@@ -6976,7 +7240,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 50
 
-</details>
+</details> <!-- End of V50 !-->
 
 ---
 
@@ -6998,7 +7262,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 51
 
-</details>
+</details> <!-- End of V51 !-->
 
 ---
 
@@ -7016,7 +7280,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 52
 
-</details>
+</details> <!-- End of V52 !-->
 
 ---
 
@@ -7028,7 +7292,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 53
 
-</details>
+</details> <!-- End of V53 !-->
 
 ---
 
@@ -7046,7 +7310,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 54
 
-</details>
+</details> <!-- End of V54 !-->
 
 ---
 
@@ -7060,7 +7324,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 55
 
-</details>
+</details> <!-- End of V55 !-->
 
 ---
 
@@ -7074,7 +7338,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 56
 
-</details>
+</details> <!-- End of V56 !-->
 
 ---
 
@@ -7088,7 +7352,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 57
 
-</details>
+</details> <!-- End of V57 !-->
 
 ---
 
@@ -7106,7 +7370,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 58
 
-</details>
+</details> <!-- End of V58 !-->
 
 ---
 
@@ -7120,7 +7384,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 59
 
-</details>
+</details> <!-- End of V59 !-->
 
 ---
 
@@ -7142,7 +7406,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 60
 
-</details>
+</details> <!-- End of V60 !-->
 
 ---
 
@@ -7162,7 +7426,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 61
 
-</details>
+</details> <!-- End of V61 !-->
 
 ---
 
@@ -7176,7 +7440,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 62
 
-</details>
+</details> <!-- End of V62 !-->
 
 ---
 
@@ -7202,7 +7466,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 63
 
-</details>
+</details> <!-- End of V63 !-->
 
 ---
 
@@ -7222,7 +7486,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 64
 
-</details>
+</details> <!-- End of V64 !-->
 
 ---
 
@@ -7244,7 +7508,7 @@ Outdated, as of 2023, Friday, May 26th
 
 > * No other changes in version 65
 
-</details>
+</details> <!-- End of V65 !-->
 
 ---
 
@@ -7533,7 +7797,7 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 74 (2023, Saturday, May 27th at 8:00 pm PST)</b></summary>
+<details><summary><b lang="en">Version 74 (2023, Saturday, May 27th at 08:00 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -7566,7 +7830,7 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 75 (2024, Saturday, March 23rd at 5:40 pm PST)</b></summary>
+<details><summary><b lang="en">Version 75 (2024, Saturday, March 23rd at 05:40 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -7814,7 +8078,7 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 82 (2024, Friday, March 29th at 4:29 pm PST)</b></summary>
+<details><summary><b lang="en">Version 82 (2024, Friday, March 29th at 04:29 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -7909,7 +8173,7 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 84 (2024, Sunday, March 31st at 4:10 pm PST)</b></summary>
+<details><summary><b lang="en">Version 84 (2024, Sunday, March 31st at 04:10 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -7947,7 +8211,7 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 85 (2024, Monday, April 1st at 5:42 pm PST)</b></summary>
+<details><summary><b lang="en">Version 85 (2024, Monday, April 1st at 05:42 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -7995,7 +8259,7 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 86 (2024, Tuesday, April 2nd at 4:10 pm PST)</b></summary>
+<details><summary><b lang="en">Version 86 (2024, Tuesday, April 2nd at 04:10 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -8039,14 +8303,40 @@ Outdated, as of 2023, Friday, May 26th
 
 ---
 
-<details><summary><b lang="en">Version 87 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 87 (2024, Wednesday, April 3rd at 06:00 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a lot more time to make than I expected, while only 6 listed changes were made. I gave myself a little over 2 hours today._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated many sections with slight improvements visually, and also source code comments on the end of each `<details>` tag
+- [x] Updated the `Major projects` section
+- - [x] Updated the `Other projects` subsection
+- - [x] Updated the `Meadows` subsection
+- - [x] Updated the `WacOS` subsection
+- [x] Significant update to the file tree (explore this repository section)
+- - [x] Moved to a table version with Emojis for every file
+- - [x] Added a GitLab inspired Emoji theme, with a legend
+- - [x] Brought the section up to date with the latest file structure
+- [x] Updated the `Model project` section
+- - [x] Added links to the 2 Model Project status files for this repository.
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 87
+- - [x] Added blank entries for versions 173 and 174
 - [ ] No other changes in version 87
 
-</details>
+</details> <!-- End of V87 !-->
 
 ---
 
@@ -8057,7 +8347,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 88
 
-</details>
+</details> <!-- End of V88 !-->
 
 ---
 
@@ -8068,7 +8358,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 89
 
-</details>
+</details> <!-- End of V89 !-->
 
 ---
 
@@ -8079,7 +8369,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 90
 
-</details>
+</details> <!-- End of V90 !-->
 
 ---
 
@@ -8090,7 +8380,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 91
 
-</details>
+</details> <!-- End of V91 !-->
 
 ---
 
@@ -8101,7 +8391,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 92
 
-</details>
+</details> <!-- End of V92 !-->
 
 ---
 
@@ -8112,7 +8402,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 93
 
-</details>
+</details> <!-- End of V93 !-->
 
 ---
 
@@ -8123,7 +8413,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 94
 
-</details>
+</details> <!-- End of V94 !-->
 
 ---
 
@@ -8134,7 +8424,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 95
 
-</details>
+</details> <!-- End of V95 !-->
 
 ---
 
@@ -8145,7 +8435,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 96
 
-</details>
+</details> <!-- End of V96 !-->
 
 ---
 
@@ -8156,7 +8446,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 97
 
-</details>
+</details> <!-- End of V97 !-->
 
 ---
 
@@ -8167,7 +8457,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 98
 
-</details>
+</details> <!-- End of V98 !-->
 
 ---
 
@@ -8178,7 +8468,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 99
 
-</details>
+</details> <!-- End of V99 !-->
 
 ---
 
@@ -8189,7 +8479,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 100
 
-</details>
+</details> <!-- End of V100 !-->
 
 ---
 
@@ -8200,7 +8490,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 101
 
-</details>
+</details> <!-- End of V101 !-->
 
 ---
 
@@ -8211,7 +8501,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 102
 
-</details>
+</details> <!-- End of V102 !-->
 
 ---
 
@@ -8222,7 +8512,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 103
 
-</details>
+</details> <!-- End of V103 !-->
 
 ---
 
@@ -8233,7 +8523,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 104
 
-</details>
+</details> <!-- End of V104 !-->
 
 ---
 
@@ -8244,7 +8534,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 105
 
-</details>
+</details> <!-- End of V105 !-->
 
 ---
 
@@ -8255,7 +8545,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 106
 
-</details>
+</details> <!-- End of V106 !-->
 
 ---
 
@@ -8266,7 +8556,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 107
 
-</details>
+</details> <!-- End of V107 !-->
 
 ---
 
@@ -8277,7 +8567,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 108
 
-</details>
+</details> <!-- End of V108 !-->
 
 ---
 
@@ -8288,7 +8578,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 109
 
-</details>
+</details> <!-- End of V109 !-->
 
 ---
 
@@ -8299,7 +8589,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 110
 
-</details>
+</details> <!-- End of V110 !-->
 
 ---
 
@@ -8310,7 +8600,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 111
 
-</details>
+</details> <!-- End of V111 !-->
 
 ---
 
@@ -8321,7 +8611,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 112
 
-</details>
+</details> <!-- End of V112 !-->
 
 ---
 
@@ -8332,7 +8622,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 113
 
-</details>
+</details> <!-- End of V113 !-->
 
 ---
 
@@ -8343,7 +8633,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 114
 
-</details>
+</details> <!-- End of V114 !-->
 
 ---
 
@@ -8354,7 +8644,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 115
 
-</details>
+</details> <!-- End of V115 !-->
 
 ---
 
@@ -8365,7 +8655,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 116
 
-</details>
+</details> <!-- End of V116 !-->
 
 ---
 
@@ -8376,7 +8666,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 117
 
-</details>
+</details> <!-- End of V117 !-->
 
 ---
 
@@ -8387,7 +8677,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 118
 
-</details>
+</details> <!-- End of V118 !-->
 
 ---
 
@@ -8398,7 +8688,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 119
 
-</details>
+</details> <!-- End of V119 !-->
 
 ---
 
@@ -8409,7 +8699,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 120
 
-</details>
+</details> <!-- End of V120 !-->
 
 ---
 
@@ -8420,7 +8710,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 121
 
-</details>
+</details> <!-- End of V121 !-->
 
 ---
 
@@ -8431,7 +8721,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 122
 
-</details>
+</details> <!-- End of V122 !-->
 
 ---
 
@@ -8442,7 +8732,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 123
 
-</details>
+</details> <!-- End of V123 !-->
 
 ---
 
@@ -8453,7 +8743,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 124
 
-</details>
+</details> <!-- End of V124 !-->
 
 ---
 
@@ -8464,7 +8754,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 125
 
-</details>
+</details> <!-- End of V125 !-->
 
 ---
 
@@ -8475,7 +8765,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 126
 
-</details>
+</details> <!-- End of V126 !-->
 
 ---
 
@@ -8486,7 +8776,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 127
 
-</details>
+</details> <!-- End of V127 !-->
 
 ---
 
@@ -8497,7 +8787,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 128
 
-</details>
+</details> <!-- End of V128 !-->
 
 ---
 
@@ -8508,7 +8798,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 129
 
-</details>
+</details> <!-- End of V129 !-->
 
 ---
 
@@ -8519,7 +8809,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 130
 
-</details>
+</details> <!-- End of V130 !-->
 
 ---
 
@@ -8530,7 +8820,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 131
 
-</details>
+</details> <!-- End of V131 !-->
 
 ---
 
@@ -8541,7 +8831,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 132
 
-</details>
+</details> <!-- End of V132 !-->
 
 ---
 
@@ -8552,7 +8842,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 133
 
-</details>
+</details> <!-- End of V133 !-->
 
 ---
 
@@ -8563,7 +8853,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 134
 
-</details>
+</details> <!-- End of V134 !-->
 
 ---
 
@@ -8574,7 +8864,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 135
 
-</details>
+</details> <!-- End of V135 !-->
 
 ---
 
@@ -8585,7 +8875,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 136
 
-</details>
+</details> <!-- End of V136 !-->
 
 ---
 
@@ -8596,7 +8886,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 137
 
-</details>
+</details> <!-- End of V137 !-->
 
 ---
 
@@ -8607,7 +8897,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 138
 
-</details>
+</details> <!-- End of V138 !-->
 
 ---
 
@@ -8618,7 +8908,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 139
 
-</details>
+</details> <!-- End of V139 !-->
 
 ---
 
@@ -8629,7 +8919,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 140
 
-</details>
+</details> <!-- End of V140 !-->
 
 ---
 
@@ -8640,7 +8930,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 141
 
-</details>
+</details> <!-- End of V141 !-->
 
 ---
 
@@ -8651,7 +8941,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 142
 
-</details>
+</details> <!-- End of V142 !-->
 
 ---
 
@@ -8662,7 +8952,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 143
 
-</details>
+</details> <!-- End of V143 !-->
 
 ---
 
@@ -8673,7 +8963,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 144
 
-</details>
+</details> <!-- End of V144 !-->
 
 ---
 
@@ -8684,7 +8974,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 145
 
-</details>
+</details> <!-- End of V145 !-->
 
 ---
 
@@ -8695,7 +8985,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 146
 
-</details>
+</details> <!-- End of V146 !-->
 
 ---
 
@@ -8706,7 +8996,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 147
 
-</details>
+</details> <!-- End of V147 !-->
 
 ---
 
@@ -8717,7 +9007,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 148
 
-</details>
+</details> <!-- End of V148 !-->
 
 ---
 
@@ -8728,7 +9018,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 149
 
-</details>
+</details> <!-- End of V149 !-->
 
 ---
 
@@ -8739,7 +9029,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 150
 
-</details>
+</details> <!-- End of V150 !-->
 
 ---
 
@@ -8750,7 +9040,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 151
 
-</details>
+</details> <!-- End of V151 !-->
 
 ---
 
@@ -8761,7 +9051,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 152
 
-</details>
+</details> <!-- End of V152 !-->
 
 ---
 
@@ -8772,7 +9062,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 153
 
-</details>
+</details> <!-- End of V153 !-->
 
 ---
 
@@ -8783,7 +9073,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 154
 
-</details>
+</details> <!-- End of V154 !-->
 
 ---
 
@@ -8794,7 +9084,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 155
 
-</details>
+</details> <!-- End of V155 !-->
 
 ---
 
@@ -8805,7 +9095,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 156
 
-</details>
+</details> <!-- End of V156 !-->
 
 ---
 
@@ -8816,7 +9106,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 157
 
-</details>
+</details> <!-- End of V157 !-->
 
 ---
 
@@ -8827,7 +9117,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 158
 
-</details>
+</details> <!-- End of V158 !-->
 
 ---
 
@@ -8838,7 +9128,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 159
 
-</details>
+</details> <!-- End of V159 !-->
 
 ---
 
@@ -8849,7 +9139,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 160
 
-</details>
+</details> <!-- End of V160 !-->
 
 ---
 
@@ -8860,7 +9150,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 161
 
-</details>
+</details> <!-- End of V161 !-->
 
 ---
 
@@ -8871,7 +9161,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 162
 
-</details>
+</details> <!-- End of V162 !-->
 
 ---
 
@@ -8882,7 +9172,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 163
 
-</details>
+</details> <!-- End of V163 !-->
 
 ---
 
@@ -8893,7 +9183,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 164
 
-</details>
+</details> <!-- End of V164 !-->
 
 ---
 
@@ -8904,7 +9194,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 165
 
-</details>
+</details> <!-- End of V165 !-->
 
 ---
 
@@ -8915,7 +9205,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 166
 
-</details>
+</details> <!-- End of V166 !-->
 
 ---
 
@@ -8926,7 +9216,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 167
 
-</details>
+</details> <!-- End of V167 !-->
 
 ---
 
@@ -8937,7 +9227,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 168
 
-</details>
+</details> <!-- End of V168 !-->
 
 ---
 
@@ -8948,7 +9238,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 169
 
-</details>
+</details> <!-- End of V169 !-->
 
 ---
 
@@ -8959,7 +9249,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 170
 
-</details>
+</details> <!-- End of V170 !-->
 
 ---
 
@@ -8970,7 +9260,7 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 171
 
-</details>
+</details> <!-- End of V171 !-->
 
 ---
 
@@ -8981,13 +9271,35 @@ Outdated, as of 2023, Friday, May 26th
 - [ ] Coming soon
 - [ ] No other changes in version 172
 
-</details>
+</details> <!-- End of V172 !-->
+
+---
+
+<details><summary><b lang="en">Version 173 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 173
+
+</details> <!-- End of V173 !-->
+
+---
+
+<details><summary><b lang="en">Version 174 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 174
+
+</details> <!-- End of V174 !-->
 
 ---
 
 _End of file version history_
 
-</details>
+</details> <!-- End of file history section !-->
 
 ***
 
@@ -8995,7 +9307,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 2nd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-2nd)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 3rd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-3rd)
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -9011,8 +9323,9 @@ _End of file version history_
 - - [Link to remodel section version 10 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md)
 - - [Link to remodel section version 11 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md)
 - - [Link to remodel section version 12 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md)
+- - [Link to remodel section version 13 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md)
 
-</details>
+</details> <!-- End of remodel history section !-->
 
 ---
 
@@ -9112,7 +9425,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 </details> <!-- End of contributors section !-->
 
-</details>
+---
+
+_End of GitHub interactions section_
+
+</details> <!-- End of GitHub interactions section !-->
 
 ***
 
@@ -9126,7 +9443,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - [ ] Removing as much whitespace as comfortably possible
 - [ ] Improving quality of content
 
-</details>
+</details> <!-- End of Optimizing this page section !-->
 
 ***
 
@@ -9144,9 +9461,9 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1695`
+- - **Current emoji count:** `~1895`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V86: `431,230` / `524,288` (`082.250%`))
+- - **Current character count (in bytes):** (as of V87: `455,795` / `524,288` (`086.935%`))
 
 > Memory
 
@@ -9161,13 +9478,13 @@ The limits have been raised on April 2nd to account for significant changes.
 
 _End of about this page section._
 
-</details>
+</details> <!-- End of About this page section !-->
 
 ***
 
 _End of profile body._
 
-</details>
+</details> <!-- End of Getting Started section !-->
 
 ***
 
