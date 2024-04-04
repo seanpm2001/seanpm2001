@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <filter id="c">
+    <feGaussianBlur stdDeviation="3.17"/>
+  </filter>
+  <linearGradient id="a" x2="150" y1="977.36" y2="977.36" gradientTransform="translate(902.36 -1052.4)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#9cf"/>
+    <stop offset="1" stop-color="#09c"/>
+  </linearGradient>
+  <radialGradient id="b" cx="75" cy="996.11" r="72.73" fy="1049.1" gradientTransform="matrix(1 0 0 .7422 1.04 257.85)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#9cf"/>
+    <stop offset="1" stop-color="#09c" stop-opacity=".6"/>
+  </radialGradient>
+  <g transform="translate(-1.04 -903.4)">
+    <rect width="144.91" height="144.91" x="904.9" y="-147.46" fill="#09c" stroke="#069" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" rx="25" transform="rotate(90 0 1.04)"/>
+    <rect width="144.91" height="144.91" x="904.9" y="-147.46" fill="url(#a)" stroke="#069" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" rx="25" transform="rotate(90 0 1.04)"/>
+    <path fill="url(#b)" d="M148.77 980.68v50.55c0 11-11.2 19.9-25.09 19.9H28.41c-13.9 0-25.1-8.88-25.09-19.9v-88.05c38.3 45.2 98.4 63.7 145.45 37.5z" filter="url(#c)"/>
+    <path fill="#eef" stroke="#069" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M33.77 1014.5c0-4.64 1.49-9.34 4.47-14.1s7.32-8.7 13.04-11.83c5.71-3.12 12.4-4.69 20-4.69 7.08 0 13.3 1.31 18.75 3.92 5.42 2.61 9.61 6.16 12.56 10.66a26.18 26.18 0 0 1 4.43 14.65c0 4.15-.84 7.79-2.53 10.91a33.15 33.15 0 0 1-6.01 8.09 434.36 434.36 0 0 1-12.49 11.46 49.61 49.61 0 0 0-3.99 3.99 16 16 0 0 0-2.23 3.15c-.49.95-.87 1.9-1.14 2.86-.27.95-.67 2.62-1.21 5.02-.93 5.08-3.83 7.62-8.72 7.62a8.9 8.9 0 0 1-6.41-2.49c-1.73-1.66-2.6-4.13-2.6-7.4 0-4.1.64-7.65 1.9-10.66 1.27-3 2.95-5.64 5.05-7.91a114.2 114.2 0 0 1 8.5-8.09c3.12-2.73 5.38-4.8 6.77-6.19a21.25 21.25 0 0 0 3.52-4.65 11.27 11.27 0 0 0 1.43-5.57c0-3.91-1.45-7.2-4.36-9.89s-6.65-4.03-11.24-4.03c-5.37 0-9.33 1.36-11.87 4.07s-4.69 6.7-6.45 11.98c-1.66 5.52-4.81 8.28-9.45 8.28a9.29 9.29 0 0 1-6.92-2.89c-1.88-1.93-2.82-4.02-2.82-6.26zm35.74 80.27c-2.98 0-5.58-.96-7.8-2.89s-3.33-4.63-3.33-8.09a10.4 10.4 0 0 1 3.22-7.76 10.9 10.9 0 0 1 7.91-3.15c3.08 0 5.66 1.05 7.76 3.15s3.15 4.69 3.15 7.76c0 3.42-1.1 6.1-3.3 8.06a11.15 11.15 0 0 1-7.62 2.93z" transform="matrix(1.198 0 0 1.0618 -8.28 -125.23)"/>
+  </g>
+</svg>
