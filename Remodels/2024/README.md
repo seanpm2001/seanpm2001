@@ -6,7 +6,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 13 - 2024, Wednesday, April 3rd` |
+| `Beta 14 - 2024, Thursday, April 4th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -17,7 +17,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 12 days down, 52 days to go, as of 2024, Wednesday, April 3rd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 13 days down, 51 days to go, as of 2024, Thursday, April 4th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -56,7 +56,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
 | [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
 | [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
-| Beta 14 | Coming soon | 13 |
+| [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
 | Beta 15 | Coming soon | 14 |
 | Beta 16 | Coming soon | 15 |
 | Beta 17 | Coming soon | 16 |
@@ -94,30 +94,30 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
 | Beta 41 | Coming soon | 40 |
-| Beta 42 | Coming soon | 40 |
-| Beta 43 | Coming soon | 41 |
-| Beta 44 | Coming soon | 42 |
-| Beta 45 | Coming soon | 43 |
-| Beta 46 | Coming soon | 44 |
-| Beta 47 | Coming soon | 45 |
-| Beta 48 | Coming soon | 46 |
-| Beta 49 | Coming soon | 47 |
-| Beta 50 | Coming soon | 48 |
-| Beta 51 | Coming soon | 49 |
-| Beta 52 | Coming soon | 50 |
-| Beta 53 | Coming soon | 51 |
-| Beta 54 | Coming soon | 52 |
-| Beta 55 | Coming soon | 53 |
-| Beta 56 | Coming soon | 54 |
-| Beta 57 | Coming soon | 55 |
-| Beta 58 | Coming soon | 56 |
-| Beta 59 | Coming soon | 57 |
-| Beta 60 | Coming soon | 58 |
-| Beta 61 | Coming soon | 59 |
-| Beta 62 | Coming soon | 60 |
-| Beta 63 | Coming soon | 61 |
-| Beta 64 | Coming soon | 62 |
-| 4 year anniversary update | Coming soon | 63 |
+| Beta 42 | Coming soon | 41 |
+| Beta 43 | Coming soon | 42 |
+| Beta 44 | Coming soon | 43 |
+| Beta 45 | Coming soon | 44 |
+| Beta 46 | Coming soon | 45 |
+| Beta 47 | Coming soon | 46 |
+| Beta 48 | Coming soon | 47 |
+| Beta 49 | Coming soon | 48 |
+| Beta 50 | Coming soon | 49 |
+| Beta 51 | Coming soon | 50 |
+| Beta 52 | Coming soon | 51 |
+| Beta 53 | Coming soon | 52 |
+| Beta 54 | Coming soon | 53 |
+| Beta 55 | Coming soon | 54 |
+| Beta 56 | Coming soon | 55 |
+| Beta 57 | Coming soon | 56 |
+| Beta 58 | Coming soon | 57 |
+| Beta 59 | Coming soon | 58 |
+| Beta 60 | Coming soon | 59 |
+| Beta 61 | Coming soon | 60 |
+| Beta 62 | Coming soon | 61 |
+| Beta 63 | Coming soon | 62 |
+| Beta 64 | Coming soon | 63 |
+| 4 year anniversary update | Coming soon | 64 |
 
 </details> <!-- End of 2024 May release timeline table !-->
 
@@ -133,10 +133,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `39` **/** `145` **tasks** _(026.90%)_ |
-| _as of 2024, Wednesday, April 3rd_ |
+| `38` **/** `162` **tasks** _(023.46%)_ |
+| _as of 2024, Thursday, April 4th_ |
 
-- **Current tasks to do (39 tasks, as of 2024, Wednesday, April 3rd)**
+- **Current tasks to do (38 tasks, as of 2024, Thursday, April 4th)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -174,12 +174,11 @@ Give identity theft a better name, and update the link in the guestbook section 
 Updates to Legend
 Full repository listin (WIP)
 Nicknames (SEAN9000)
-Major project: Miscellaneous
-Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
-Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
-Add comment markers to all details tags (WIP)
+Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out))
+Fix section: Major project: SNU
+Fix section: Major project: Voice Synthesis
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -196,10 +195,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `106` **/** `145` **tasks** _(073.10%)_ |
-| _as of 2024, Wednesday, April 3rd_ |
+| `124` **/** `162` **tasks** _(076.54%)_ |
+| _as of 2024, Thursday, April 4th_ |
 
-- **Implemented so far (106 tasks, as of 2024, Wednesday, April 3rd):**
+- **Implemented so far (123 tasks, as of 2024, Thursday, April 4th)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -360,6 +359,13 @@ Fix existing mega project section: Meadows
 Fix existing mega project section: WacOS
 Update to file tree (more entries, and condense new+existing ones)
 Update the file tree, and link to ROOTFILES.base
+Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
+Major project: Miscellaneous
+Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
+Make all language sections in major projects sections into dropdown sections
+Make all general information sections in major projects sections into dropdown sections
+Make all repository listing sections in major projects sections into dropdown sections
+Add comment markers to all details tags
 ```
 
 </details> <!-- End of completed remodel goals section !-->
