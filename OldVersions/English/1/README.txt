@@ -1,15 +1,18 @@
 
 ***
 
-<details open><summary><p><b>Collapse this entire page</b></p></summary>
-
-<!-- Obsolete !-->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<!-- [![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-) !-->
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- ↑ This is the number of people I have interacted with. Click the button to go and see their faces/meet up with them. !-->
+<details open><summary><p><b>🔻️[Collapse this entire page] 🔻️</b></p></summary>
 
 ###### [🔝️ Top](#-Top)
+
+- [`View this section separately`](/Segments/Top/README.md)
+
+<!--
+| [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
+|---|
+| Version ? |
+| ?DATE? |
+!-->
 
 # [@Seanpm2001](https://github.com/seanpm2001/) on GitHub
 
@@ -36,124 +39,11 @@
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my top 5 languages. They are more accurate than the new counter on most days. |
 | <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) There are some problems with the data set, you should read the docs for further information. Common problems include: the numbers going down when they should be going up, not all data being represented (only the past 365 days of activity) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only) |
 
-<!-- The new statistics have not been working since 2022, December 13th (as of 2023, Saturday, January 21st) here are the record statistics:
+Most of this section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-| 2022, December 12th stats | 2022, December 12th languages |
-|---|---|
-| ![2022.12.12 Stats](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](https://github.com/seanpm2001/GitHub_Stats_A/blob/master/Seasons/6/SVG/Languages_GitHubStatsA_2022December12th.svg) |
-!-->
+For now, it can be viewed [here instead](/Segments/Main-Statistics/README.md)
 
 ---
-
-<details><summary><p><b>Do you want to have these counters on your profile? They are pretty easy to set up. You can go directly to the projects (contains in-depth info) click/tap here to expand/collapse this section</b></p></summary>
-
-[All contributors (requires installation)](https://github.com/apps/allcontributors/installations/new)
-
-> Helpful link: [all contributors website](https://allcontributors.org/en/)
-
-> Helpful link: [Emoji guide](https://allcontributors.org/docs/en/emoji-key/)
-
-- [Profile views](https://github.com/antonkomarev/github-profile-views-counter/)
-- [GitHub Streaks (consecutive days)](https://github.com/DenverCoder1/github-readme-streak-stats/)
-- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats/)
-
-> * [Top languages](https://github.com/anuraghazra/github-readme-stats#demo-1)
-
-[GitHub profile README generator](https://github.com/rahuldkjain/github-profile-readme-generator/)
-
-- [New GitHub profile stats (requires installation, read more here)](https://github.com/jstrieb/github-stats)
-
-Or you can copy my setup and make your way from there (or do both)
-
-**Contributor count**
-
-```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-) 
-```
-
-**Profile views**
-
-```markdown
-![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
-```
-
-**GitHub streaks**
-
-```markdown
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats)
-```
-
-**GitHub Stats**
-
-```markdown
-[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) 
-```
-
-**Top languages**
-
-```markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-**New statistics**
-
-To add your statistics to your GitHub Profile README, copy and paste the following lines of code into your markdown content. Change the username value to your GitHub username.
-
-```
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-```
-
-```
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-```
-
- **The entire setup (with timestamps)**
-
-```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-) - This counter was added on 2021 December 29th
-
-![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - This counter was added on 2021 December 29th
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats) - This counter was added on 2021 December 29th
-
-[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 29th
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) - This counter was added on 2021 December 30th
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-```
-
-**The entire setup (without timestamps)**
-
-```markdown
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
-
-![Profile views](https://komarev.com/ghpvc/?username=seanpm2001)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seanpm2001&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-```
-
-</details> <!-- End of main statistics dropdown section !-->
-
-***
-
-_End of main statistics section._
 
 </details> <!-- End of main statistics section !-->
 
@@ -163,12 +53,18 @@ _End of main statistics section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-- On 2024, Thursday, April 4th, the document surpassed 500 kilobytes in size. The file no longer is previewable on GitHub while editing, making debugging a lot harder. This document is close to reaching the GitHub 524.288 kilobyte size limit, so the bottom segments of the page may no longer load.
+| <img src="/Graphics/4-Year-Anniversary-Update/Errors/4YearAnniversaryUpdate_Beta14_Issue.png" alt="This repository is taking too long to load image" width="800" height="140"> |
+|---|
+| **This issue started with beta 14 of the 4 year anniversary update** |
+
+- [2024.04.04] On 2024, Thursday, April 4th, the document surpassed 500 kilobytes in size. The file no longer is previewable on GitHub while editing, making debugging a lot harder. This document is close to reaching the GitHub 524.288 kilobyte size limit, so the bottom segments of the page may no longer load.
+- [2024.04.05] The amount has dropped down with the 2024, Friday, April 5th update, but I still can't get the document to render now
+
+- [`View this section separately`](/Segments/Size-warning/README.md)
 
 </details> <!-- End of size warning section !-->
 
 ***
-
 
 # [🛑️ Administrator section](#-Administrator-section)
 
@@ -183,6 +79,8 @@ _End of main statistics section._
 _Further instructions not yet available._
 
 - [`www.example.com`](https://www.example.com)
+
+- [`View this section separately`](/Segments/Administrator-section/README.md)
 
 </details> <!-- End of Administrator section !-->
 
@@ -292,6 +190,8 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 _End of translation section._
 
+- [`View this section separately`](/Segments/Language-Switch/README.md)
+
 <!-- End of translation segment !-->
 
 ***
@@ -306,6 +206,8 @@ _End of translation section._
 
 This guestbook is for basic interaction, and communications. For further communication, try [looking for a form of communication here](#Identity-theft)
 
+- [`View this section separately`](/Segments/Guestbook/README.md)
+
 </details> <!-- End of guestbook section !-->
 
 ***
@@ -314,203 +216,9 @@ This guestbook is for basic interaction, and communications. For further communi
 
 <details open><summary><H3>[Click/tap here to expand/collapse the index]</H3></summary>
 
-Temporarily removed until a replacement is made
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-<details><summary><p><b>Click/tap here to expand/collapse the old, outdated index</b></p></summary>
-
-[00.0 - Top](#Top)
-
-> [00.1 - GitHub:seanpm2001/seanpm2001](#seanpm2001/seanpm2001)
-
-> [00.2 - README Usage](#README-Usage)
-
-> [00.3 - Title](#Welcome-to-my-GitHub-profile)
-
-> [00.4 - Administrator section](#Administrator-section)
-
-> [00.5 - ](#Read-in-a-different-language)
-
-> [00.6 - Index](#Index)
-
-[01.0 - What I'm currently working on](#What-I'm-currently-working-on)
-
-> [01.0.1 - Key projects by megaproject category](#Key-projects-by-megaproject-category)
-
-> > [01.0.1.1 - Degoogle your life project](#Degoogle-your-life-project)
-
-> > [01.0.1.2 - Image projects](#Image-projects)
-
-> > [01.0.1.3 - Life archive projects](#Life-archive-projects)
-
-> > [01.0.1.4 - Joke projects](#Joke-projects)
-
-> > [01.0.1.5 - Game projects](#Game-projects)
-
-> > [01.0.1.6 - Research projects](#Research-projects)
-
-> > [01.0.1.7 - Operating system projects](#Operating-system-projects)
-
-> > [01.0.1.8 - SNU projects](#SNU-projects)
-
-> > [01.0.1.9 - Other projects](#Other-projects)
-
-[02.0 - Free software isn't free to develop](#Free-software-isn't-free-to-develop)
-
-[03.0 - Frequently-Asked-Questions-(FAQ)](#Frequently-Asked-Questions-(FAQ))
-
-> [03.0.1 - Why is Python your favorite programming language?](#Why-is-Python-your-favorite-programming-language)
-
-> [03.0.2 - What got you into programming?](#What-got-you-into-programming)
-
-> [03.0.3 - How well can you program in Java?](#How-well-can-you-program-in-Java)
-
-> [03.0.4 - Why do you use so many different programming languages?](#Why-do-you-use-so-many-different-programming-languages)
-
-> [03.0.5 - Do you actually know all those languages?](#Do-you-actually-know-all-those-languages)
-
-> [03.0.6 - Why do you put so much info out?](#Why-do-you-put-so-much-info-out)
-
-> [03.0.7 - Why do you have image projects? Doesn't that defeat the point of GitHub?](#Why-do-you-have-image-projects?-Doesn't-that-defeat-the-point-of-GitHub)
-
-> [03.0.8 - How are you profitable?](#How-are-you-profitable)
-
-> [03.0.9 - Why did you switch to Linux?](#Why-did-you-switch-to-Linux)
-
-> [03.1.0 - What is the purpose of the life archive project?](#What-is-the-purpose-of-the-life-archive-project)
-
-> [03.1.1 - Why did you follow over 1000 users one night?](#Why-did-you-follow-over-1000-users-one-night)
-
-> [03.1.2 - Why do you have so many tabs open?](#Why-do-you-have-so-many-tabs-open)
-
-> [03.1.3 - Why do you use Wikipedia so much?](#Why-do-you-use-Wikipedia-so-much)
-
-> [03.1.4 - Why do you play so many different games?](#Why-do-you-play-so-many-different-games)
-
-> [03.1.5 - Why do you play kids games?](#Why-do-you-play-kids-games)
-
-> [03.1.6 - Why do you hate Google so much?](#Why-do-you-hate-Google-so-much)
-
-> [03.1.7 - Why do some of your projects use Go, Dart, or Flutter when you hate Google?](#Why-do-some-of-your-projects-use-Go,-Dart,-or-Flutter-when-you-hate-Google)
-
-[04.0 - My current setup](#My-current-setup)
-
-> [04.1 - Current hardware](#Current-hardware)
-
-> [04.2 - Current software](#Current-software)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - What I'm currently learning](#What-I'm-currently-learning)
-
-[07.0 - What I'm looking to collaborate on](#What-I'm-looking-to-collaborate-on)
-
-> [07.0.1 - What I have collaborated on](#What-I-have-collaborated-on)
-
-[08.0 - What I'm looking to help with](#What-I'm-looking-to-help-with)
-
-[09.0 - GitHub contacts](#GitHub-contacts)
-
-> [09.0.1 - Family](#Family)
-
-> [09.0.2 - Subscriptions](#Subscriptions)
-
-[10.0 - Feature requests for GitHub](#Feature-requests-for-GitHub)
-
-[11.0 - Ask me about](#Ask-me-about)
-
-[12.0 - How to reach me](#How-to-reach-me)
-
-[13.0 - Projects on other platforms](#Projects-on-other-platforms)
-
-[14.0 - Identity theft](#Identity-theft)
-
-[15.0 - Personal](#Personal)
-
-[16.0 - Autism](#Autism)
-
-[17.0 - Profile picture history](#Profile-picture-history)
-
-[18.0 - Linux](#Linux)
-
-[19.0 - Sponsor info](#Sponsor-info)
-
-[20.0 - Submissions](#Submissions)
-
-[21.0 - Other hobbies](#Other-hobbies)
-
-> [21.0.1 - Photography](#Photography)
-
-> [21.0.2 - Swimming](#Swimming)
-
-> [21.0.3 - Gaming](#Gaming)
-
-> [21.0.4 - Graphic design](#Graphic-design)
-
-> [21.0.5 - Linguist](#Linguist)
-
-> [21.0.6 - History buff](#History-buff)
-
-> [21.0.7 - Marine biology](#Marine-biology)
-
-> [21.0.8 - Journaling](#Journaling)
-
-> [21.0.9 - Vexillology](#Vexillology)
-
-[22.0 - Teams: blue](#Blue-team)
-
-[23.0 - Teams: green](#Green-team)
-
-[24.0 - Computer user type](#Computer-user-type)
-
-[25.0 - Education](#Education)
-
-[26.0 - GitHub developer program](#GitHub-developer-program)
-
-> [26.1 - Extensions](#Extensions)
-
-> [26.2 - Marketplace](#Marketplace)
-
-> [26.3 - My actions](#My-actions)
-
-> > [26.3.1 - My CI workflows](#My-CI-workflows)
-
-> [26.4 - Information](#Information)
-
-> [26.5 - Website modules](#Website-modules)
-
-> [26.6 - Templates](#Templates)
-
-> [26.7 - Other](#Other)
-
-[27.0 - Email information](#Email-information)
-
-[28.0 - Platforms I develop for](#Platforms-I-develop-for)
-
-> [28.1 - Linux platform support](#Linux-platform-support)
-
-> [28.2 - BSD platform support](#BSD-platform-support)
-
-> [28.3 - Windows platform support](#Windows-platform-support)
-
-> [28.4 - Other platform support](#Other-platform-support)
-
-[29.0 - Workflows (seanpm2001/seanpm2001)](#Workflows-(seanpm2001/seanpm2001))
-
-[30.0 - Special](#Special)
-
-> [30.0.1 - Skyline](#Skyline)
-
-[31.0 - File info](#File-info)
-
-[32.0 - File version history (hidden by default, view source code to view)](#File-version-history)
-
-[33.0 - Footer](#Footer)
-
-> [33.9 - End of file](#End-of-file)
-
-[34.0 - Contributors ✨](#Contributors-)
-
-</details> <!-- End of outdated index section !-->
+For now, it can be viewed [here instead](/Segments/Index/README.md)
 
 </details> <!-- End of index section !-->
 
@@ -545,6 +253,8 @@ Temporarily removed until a replacement is made
 
 _This section was added on 2024, Saturday, March 23rd._
 
+- [`View this section separately`](/Segments/Ukraine/README.md)
+
 </details> <!-- End of Ukraine section !-->
 
 ***
@@ -555,7 +265,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 14 - 2024, Thursday, April 4th` |
+| `Beta 15 - 2024, Friday, April 5th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -566,7 +276,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 13 days down, 51 days to go, as of 2024, Thursday, April 4th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 14 days down, 50 days to go, as of 2024, Friday, April 5th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -606,7 +316,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
 | [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
 | [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
-| Beta 15 | Coming soon | 14 |
+| [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
 | Beta 16 | Coming soon | 15 |
 | Beta 17 | Coming soon | 16 |
 | Beta 18 | Coming soon | 17 |
@@ -682,10 +392,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `38` **/** `162` **tasks** _(023.46%)_ |
-| _as of 2024, Thursday, April 4th_ |
+| `40` **/** `164` **tasks** _(024.40%)_ |
+| _as of 2024, Friday, April 5th_ |
 
-- **Current tasks to do (38 tasks, as of 2024, Thursday, April 4th)**
+- **Current tasks to do (39 tasks, as of 2024, Friday, April 5th)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -728,6 +438,8 @@ Replace all Markdown style images with HTML style images (WIP)
 Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out))
 Fix section: Major project: SNU
 Fix section: Major project: Voice Synthesis
+Fix rendering issue
+Add a link to the segment file for each section
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -744,10 +456,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `124` **/** `162` **tasks** _(076.54%)_ |
-| _as of 2024, Thursday, April 4th_ |
+| `124` **/** `164` **tasks** _(075.60%)_ |
+| _as of 2024, Friday, April 5th_ |
 
-- **Implemented so far (123 tasks, as of 2024, Thursday, April 4th)**
+- **Implemented so far (124 tasks, as of 2024, Friday, April 5th)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -930,6 +642,8 @@ They have been implemented.
 _End of remodel section._
 
 </details> <!-- End of remodel section !-->
+
+- [`View this section separately`](/Segments/Remodel-in-progress/README.md)
 
 ---
 
@@ -1166,145 +880,20 @@ This is a public domain gallery of myself.
 
 </details> <!-- End of Public Media Gallery section !-->
 
+
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
+
+For now, it can be viewed [here instead](/Segments/Index/README.md)
+
 ***
 
 ## [↔️ My timeline](#-My-timeline)
 
-Timeline of my career.
-
----
-
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| `Preceeded by` | `Preceeded by` | `Preceeded by` | `Preceeded by` | **Current** | `Succeeded by` |
-|--------------|--------------|--------------|---------|--------------|--------------|
-| ***Position established*** | **@Seanspokane2015** | **@SeanTRM** | [:octocat: `@seanwallawalla`](https://github.com/seanwallawalla/) | **@seanpm2001** | ***Incumbent*** |
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
----
-
-### [🔵️ Timeline 2015](#-Timeline-2015)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanspokane2015` `@seantrm` `@seanwallawalla`
-
-- 2015 February - Created Scratch account, start of online presence
-- 2015 May 15th - Created first public YouTube channel (@seanwallawalla)
-
-</details> <!-- End of timeline 2015 section !-->
-
----
-
-### [🔵️ Timeline 2016](#-Timeline-2016)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seantrm` `@seanwallawalla`
-
-- Coming soon
-
-</details> <!-- End of timeline 2016 section !-->
-
----
-
-### [🔵️ Timeline 2017](#-Timeline-2017)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanwallawalla`
-
-- Coming soon
-
-</details> <!-- End of timeline 2017 section !-->
-
----
-
-### [🔵️ Timeline 2018](#-Timeline-2018)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanwallawalla`
-
-- 2018 August - YouTube channel abandoned
-
-</details> <!-- End of timeline 2018 section !-->
-
----
-
-### [🔵️ Timeline 2019](#-Timeline-2019)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanwallawalla`
-
-- Very limited online presence
-
-</details> <!-- End of timeline 2019 section !-->
-
----
-
-### [🔵️ Timeline 2020](#-Timeline-2020)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanpm2001`
-
-- 2020, May 25th - GitHub account created
-
-</details> <!-- End of timeline 2020 section !-->
-
----
-
-### [🔵️ Timeline 2021](#-Timeline-2021)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanpm2001`
-
-- Coming soon
-
-</details> <!-- End of timeline 2021 section !-->
-
----
-
-### [🔵️ Timeline 2022](#-Timeline-2022)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanpm2001`
-
-- 2022, July 19th - Main GitHub account suspended
-- 2022, August 26th - GitHub account restored
-
-</details> <!-- End of timeline 2022 section !-->
-
----
-
-### [🔵️ Timeline 2023](#-Timeline-2023)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanpm2001`
-
-- Coming soon
-
-</details> <!-- End of timeline 2023 section !-->
-
----
-
-### [🔵️ Timeline 2024](#-Timeline-2024)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-**Eras:** `@seanpm2001`
-
-- Coming soon
-
-</details> <!-- End of timeline 2024 section !-->
-
----
-
-_End of my career timeline_
+For now, it can be viewed [here instead](/Segments/My-timeline/README.md)
 
 </details> <!-- End of my timeline section !-->
 
@@ -1551,11 +1140,9 @@ _End of other hobbies section_
 
 <details><summary>[Click/tap here to expand/collapse this section]</summary>
 
-Entrance to core headquarters
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-<img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181839.jpg" alt="Year 23 monument" title="Room sign 2001 (aka: Year 23 monument)" width="403" height="302"> <img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181839.jpg" alt="Year 23 monument" title="Room sign 2001 (aka: Year 23 monument)" width="403" height="302">
-
-<img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181728.jpg" alt="Year 23 monument sign (front)" title="Room sign 2001 (front)" width="403" height="302"> <img src="/Graphics/Monuments/Year-23-monument/2024.03.21/20240321_181738.jpg" alt="Year 23 monument sign (reverse)" title="Room sign 2001 (reverse)" width="403" height="302">
+For now, it can be viewed [here instead](/Segments/Residence/README.md)
 
 </details> <!-- End of residence section !-->
 
@@ -2021,209 +1608,9 @@ Since nobody has asked any questions yet, I will list some common ones here:
 
 <details><summary>[Click/tap here to expand/collapse the Frequently Asked Questions board list]</summary>
 
----
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-### [❔️ Why is Python your favorite programming language?](#-Why-is-Python-your-favorite-programming-language-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-See below for the full store. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
-
-</details> <!-- End of answer for: Why is Python your favorite programming language? !-->
-
----
-
-### [❔️ What got you into programming?](#-What-got-you-into-programming-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-In 2015, I was switched from an incorrect class to a class I was supposed to be in, which changed my life completely: my 2015 Middle School computer programming class.
-
-Although the class mainly just used Scratch, this is where my interest skyrocketed. I was a big user of Scratch, and eventually got into real programming after transitioning to Python in my first AP computer science class. I really came to love Python, and I have the most knowledge in it out of other programming languages (markdown and markup languages (like HTML or Markdown) are not included in this summary)
-
-</details> <!-- End of answer for: What got you into programming? !-->
-
----
-
-### [❔️ How well can you program in Java?](#-How-well-can-you-program-in-Java-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I took an AP Java class, but I was missing too many stepping stones to fully get it. I did get several concepts of it, and this class familiarized me with Java quite a bit, along with using IDEs (Eclipse) I am not too good at Java, but I can do some basic stuff, not just Hello World programs. I can't write an entire program in Java though, I feel like my knowledge of Java basics and intermediate is 2.8%
-
-</details> <!-- End of answer for: How well can you program in Java? !-->
-
----
-
-### [❔️ Why do you use so many different programming languages?](#-Why-do-you-use-so-many-different-programming-languages-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I have always been a linguist. I like the looks of all the different programming languages and their syntax. Also, some projects are dependant on some languages. When I create an IDE out of a language, I prefer to use that language to emulate that language.
-
-</details> <!-- End of answer for: Why do you use so many different programming languages? !-->
-
----
-
-### [❔️ Do you actually know all those languages?](#-Do-you-actually-know-all-those-languages-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I know a few, but can't do more than the very basics in most. Languages I am good at include Python, BASH/Shell, HTML5, JavaScript, and Java.
-
-</details> <!-- End of answer for: Do you actually know all those languages? !-->
-
----
-
-### [❔️ Why do you put so much info out?](#-Why-do-you-put-so-much-info-out-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I have had years of decisions on what info I put out and what I don't put out. All data put out is thought out for 30 minutes to 5 years beforehand.
-
-</details> <!-- End of answer for: Why do you put so much info out? !-->
-
----
-
-### [❔️ Why do you have image projects? Doesn't that defeat the point of GitHub?](#-Why-do-you-have-image-projects-Doesn-t-that-defeat-the-point-of-GitHub-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-It does in a way, but I don't have any good image platforms. Since GitHub is a version control site, and I add in content besides images, it fits pretty well, other than proper image viewing without downloading the repository.
-
-</details> <!-- End of answer for: Why do you have image projects? Doesn't that defeat the point of GitHub? !-->
-
----
-
-### [❔️ Why are so many projects of yours so underdeveloped?](#-Why-are-so-many-projects-of-yours-so-underdeveloped-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I joined GitHub with the goal of collaboration. I am still building a following, and hope to have developers contributing to these projects based on their interest level in the project. There are so many of them, as I have been going through and adding new ideas as they come up.
-
-</details> <!-- End of answer for: Why are so many projects of yours so underdeveloped? !-->
-
----
-
-### [❔️ How are you profitable?](#-How-are-you-profitable)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I am not profitable yet, but I am working on it. Since I work in the FOSS industry, I rely on donations and sponsors. I will try to limit my usage of ads (and I will not make sketchy, crappy ads like Playrix's homescape, gardenscape, etc. ads, or ads like about 99.998% of the ads on Google Play)
-
-</details> <!-- End of answer for: How are you profitable? !-->
-
----
-
-### [❔️ Why did you switch to Linux?](#-Why-did-you-switch-to-Linux-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-Linux is great. I have had a really, really horrible experience with Windows 10, there is too much to get into. I intended to start with Fedora Linux, but I had to go with Ubuntu 20.04, as I feared that I might void my laptops warranty (which I don't want to do, since this laptop costs over $1.4K)
-
-</details> <!-- End of answer for: Why did you switch to Linux? !-->
-
----
-
-### [❔️ What is the purpose of the life archive project?](#-What-is-the-purpose-of-the-life-archive-project)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-My life archive project is a full-time hobby project where I archive my entire life.
-
-</details> <!-- End of answer for: What is the purpose of the life archive project? !-->
-
----
-
-### [❔️ Why did you follow over 1000 users one night?](#-Why-did-you-follow-over-1000-users-one-night-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I have been trying to gain followers on GitHub so that I eventually get someone to help interact with me on my projects. It has been a very slow process.
-
-I got my account suspended 3 days later, and along with other reasons, I decided not to do this again. All I had to do to unsuspend my account was re-verify my email address.
-
-</details> <!-- End of answer for: Why did you follow over 1000 users one night? !-->
-
----
-
-### [❔️ Why do you have so many tabs open?]#-Why-do-you-have-so-many-tabs-open-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I have a lot of different projects. I have to manage lots of different projects. I have over 70 different Firefox profiles, each one containing their own set of tabs, however I only keep 1-3 profiles open at once. I close out of these when I finish with them for now.
-
-</details> <!-- End of answer for: Why do you have so many tabs open? !-->
-
----
-
-### [❔️ Why do you use Wikipedia so much?](#-Why-do-you-use-Wikipedia-so-much-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-Wikipedia is one of my most used sites, GitHub is second. I find Wikipedia to be a great resource, and good for researching programming, chemistry, history, and more. I intend to start donating money to Wikipedia monthly some day. 
-
-</details> <!-- End of answer for: Why do you use Wikipedia so much? !-->
-
----
-
-### [❔️ Why do you play so many different games?](#Why-do-you-play-so-many-different-games-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I like to have balance in my life, and have periods to relax from programming. I come up with new ideas during this time period as well, and do other things, such as chores around the house.
-
-</details> <!-- End of answer for: Why do you play so many different games? !-->
-
----
-
-### [❔️ Why do you play kids games?](#Why-do-you-play-kids-games-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I play games that have a general target of kids, but are also just past-time games. Examples include Restaurant/Bakery/Pet Shop/Fashion/Farm/City story, and Merge Plane. These games can be for both kids and adults. I played these games in my childhood, and have nostalgic ties to them. Some of them are just genuinely fun to begin with.
-
-</details> <!-- End of answer for: Why do you play kids games? !-->
-
----
-
-### [❔️ Why do you hate Google so much?](#-Why-do-you-hate-Google-so-much-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-Google has a long history of privacy invasion, hypocrasy, being a monopoly, killing off parts of the Internet, and more. I turned against Google in 2018.
-
-</details> <!-- End of answer for: Why do you hate Google so much? !-->
-
----
-
-### [❔️ Why do some of your projects use Go, Dart, or Flutter when you hate Google?](#-Why-do-some-of-your-projects-use-Go-Dart-or-Flutter-when-you-hate-Google-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-I don't write the entire project in this language, and in the cases I do, it is required for archiving the data and making an IDE (SNU_2D_Programming_Tools) or just a general pun. The 1 project that uses it but is using a degoogled version [(Candroid)](https://github.com/seanpm2001/Candroid)
-
-Also, a few projects are written in Go! (a language that came out over 4 years before Go) its creator got steamrolled and no-one ever really looks at his language due to Googles claim that Go! won't be confused with Go, and that "lots of other projects and languages have the same name" which is not true, Google. You steamrolled him.
-
-Since Go! (2004) and Go (2008/2009) both use the .go file extension, GitHub's lingust feature identifies it as Go instead of Go! Both languages vary significantly in Syntax.
-
-</details> <!-- End of answer for: Why do some of your projects use Go, Dart, or Flutter when you hate Google? !-->
-
----
-
-### [❔️ what's with all of the Emojis?](#-What-s-with-all-of-the-Emojis-)
-
-<details><summary><p><b>[Click/tap here to expand/collapse the answer]</b></p></summary>
-
-On my GitHub profile page, I am using Emojis for navigation, and design purposes. I am trying to make use of almost every Emoji (or as many as possible) in a unique way.
-
-On my other projects, they are done for the same purposes.
-
-</details> <!-- End of answer for: What's with all of the Emojis !-->
-
----
-
-_End of frequently asked questions._
+For now, it can be viewed [here instead](/Segments/Frequently-Asked-Questions-FAQ/README.md)
 
 </details> <!-- End of Frequently Asked Questions section !-->
 
@@ -2233,29 +1620,9 @@ _End of frequently asked questions._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the GitHub profile template section]</b></p></summary>
 
-```markdown
-**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-```
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-- **Work in progress**
-
-- 🔭 I’m currently working on _a variety of projects_
-- 🌱 I’m currently learning _..._
-- 👯 I’m looking to collaborate on _..._
-- 🤔 I’m looking for help with _..._
-- 💬 Ask me about _..._
-- 📫 How to reach me: _[social media list, email](#How-to-reach-me)_
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: _..._
+For now, it can be viewed [here instead](/Segments/GitHub-Profile-Template/README.md)
 
 </details> <!-- End of GitHub profile template section !-->
 
@@ -2300,79 +1667,9 @@ On GitHub, I have a lot of other personal projects, under the category of a life
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-My stances on some issues:
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-| ✔️ For |
-|---|
-| Things I am for (incomplete list) |
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
-
-<table>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/For/Copyleft/Copyleft.svg" width="128" height="128"></td>
-        <td align="center">I support Copyleft</td>
-        <td align="center"><img src="/Graphics/Stances/For/Fediverse/Fediverse_logo_proposal.svg" width="128" height="128"></td>
-        <td align="center">I support the Fediverse</td>
-    </tr>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/For/Free-Culture/Definition_of_Free_Cultural_Works_logo_notext.svg" width="128" height="128"></td>
-        <td align="center">I support Free Culture/The Free Culture Movement</td>
-        <td align="center"><img src="/Graphics/Stances/For/Kopimism/Kopimi_k.svg" width="128" height="128"></td>
-        <td align="center">I support Kopimism/the Anti-Copyright movement</td>
-    </tr>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/For/Privacy/padlock-22.png" width="128" height="128"></td>
-        <td align="center">I support user privacy</td>
-        <td align="center"><img src="/Graphics/Stances/For/Public-Domain/PD-icon-black.svg" width="128" height="128"></td>
-        <td align="center">I support the Public Domain</td>
-    </tr>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/For/Remix-Culture/Remix.svg" width="128" height="128"></td>
-        <td align="center">I support Remix Culture</td>
-        <td align="center"><img src="/Graphics/Stances/For/Skeuomorphism/Shiny_steel_ball.png" width="128" height="128"></td>
-        <td align="center">I support Skeuomorphism</td>
-    </tr>
-</table>
-
-</details> <!-- End of for table !-->
-
----
-
-| ❌️ Against |
-|---|
-| Things I am against (incomplete list) |
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
-
-<table>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/Against/Copyright/No-Copyright-Symbol.png" width="128" height="128"></td>
-        <td align="center">I am against Copyright</td>
-        <td align="center"><img src="/Graphics/Stances/Against/Disney-Copyright/Anti-Disney-infinite-copyright.svg" width="128" height="128"></td>
-        <td align="center">I am against the excessively long Copyright terms (especially those created by Disney)</td>
-    </tr>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/Against/DRM/DRM-free_label.en.svg" width="128" height="128"></td>
-        <td align="center">I am against DRM (Digital Restrictions Management/Digital Restrictive Measures)</td>
-        <td align="center"><img src="/Graphics/Stances/Against/Flat-Design/Google_Material_Design_Logo.svg" width="128" height="128"></td>
-        <td align="center">I am against Flat Design</td>
-    </tr>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/Against/Global-Surveillance/Globe_eye_icon.png" width="128" height="128"></td>
-        <td align="center">I am against Global Surveillance/Mass Surveillance</td>
-        <td align="center"><img src="/Graphics/Stances/Against/Google/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="128" height="128"></td>
-        <td align="center">I am against Google</td>
-    </tr>
-    <tr>
-        <td align="center"><img src="/Graphics/Stances/Against/War/Castle_Romeo.jpeg" width="128" height="128"></td>
-        <td align="center">I am against War</td>
-        <td align="center"><img src="/Graphics/Stances/" width="128" height="128"></td>
-        <td align="center">More entries coming soon</td>
-    </tr>
-</table>
-
-</details> <!-- End of anti table !-->
+For now, it can be viewed [here instead](/Segments/Stances/README.md)
 
 </details> <!-- End of stances section !-->
 
@@ -2382,11 +1679,9 @@ My stances on some issues:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-I am on the Autism spectrum. I am on the high functioning part of the spectrum, only suffering from socialization issues (which have gotten much better over my lifetime)
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-I don't consider my Autism to be a handicap. I feel like it is what makes me, me, and what makes me so outgoing, creative, and smart.
-
-However, there are less fortunate people with Autism who have much more problems due to their position on the spectrum. That is why I have created the [United Autism Rights organization](https://avatars.githubusercontent.com/u/80805036?s=60&v=4) as [A](https://en.wikipedia.org/wiki/Autism_Speaks#View_of_autism_as_a_disease)[u](https://en.wikipedia.org/wiki/Autism_Speaks#Cure_Autism_Now)[t](https://autisticadvocacy.org/2009/10/disability-community-condemns-autism-speaks/)[i](https://www.theguardian.com/society/2007/aug/07/health.medicineandhealth)[s](https://www.vox.com/2015/8/31/9233295/autism-rights-kanner-asperger)[m](http://www.thedailybeast.com/articles/2015/02/25/they-don-t-want-an-autism-cure.html) [S](https://www.latimes.com/opinion/op-ed/la-oe-0824-silberman-autism-speaks-20150824-story.html)[p](https://www.psychologytoday.com/gb/blog/aspergers-alive/201311/reporters-guide-the-autism-speaks-debacle)[e](https://web.archive.org/web/20180615032203/https://www.autismspeaks.org/blog/2015/08/25/call-unity)[a](https://web.archive.org/web/20070630013301/http://www.gettingthewordout.org/home.php)[k](https://web.archive.org/web/20071018030910/http://gettingthetruthout.org/)[s](https://www.newscientist.com/channel/being-human/mg19726414.300-voices-of-autism-silenced-by-charity.html) is NOT helpful at all, and the other alternates currently aren't that effective.
+For now, it can be viewed [here instead](/Segments/Autism/README.md)
 
 </details> <!-- End of Autism section !-->
 
@@ -2733,218 +2028,9 @@ This repository records my commit count milestones: [:octocat: `seanpm2001/Commi
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-My GitHub skyline (via [skyline.github.com](https://skyline.github.com))
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-<details><summary><H3>[Click/tap here to expand/collapse the GitHub skyline data list]</H3></summary>
-
----
-
-##### [🏙️ Skyline 2008](#-Skyline-2008)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2008 via GitHub skyline](https://skyline.github.com/seanpm2001/2008/)
-- [View STL file](/Special/GitHub_Skyline/2008/seanpm2001-2008.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2008 section !-->
-
----
-
-##### [🏙️ Skyline 2009](#-Skyline-2009)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2009 via GitHub skyline](https://skyline.github.com/seanpm2001/2009/)
-- [View STL file](/Special/GitHub_Skyline/2009/seanpm2001-2009.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2009 section !-->
-
----
-
-##### [🏙️ Skyline 2010](#-Skyline-2010)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2010 via GitHub skyline](https://skyline.github.com/seanpm2001/2010/)
-- [View STL file](/Special/GitHub_Skyline/2010/seanpm2001-2010.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2010 section !-->
-
----
-
-##### [🏙️ Skyline 2011](#-Skyline-2011)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2011 via GitHub skyline](https://skyline.github.com/seanpm2001/2011/)
-- [View STL file](/Special/GitHub_Skyline/2011/seanpm2001-2011.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2011 section !-->
-
----
-
-##### [🏙️ Skyline 2012](#-Skyline-2012)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2012 via GitHub skyline](https://skyline.github.com/seanpm2001/2012/)
-- [View STL file](/Special/GitHub_Skyline/2012/seanpm2001-2012.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2012 section !-->
-
----
-
-##### [🏙️ Skyline 2013](#-Skyline-2013)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2013 via GitHub skyline](https://skyline.github.com/seanpm2001/2013/)
-- [View STL file](/Special/GitHub_Skyline/2013/seanpm2001-2013.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2013 section !-->
-
----
-
-##### [🏙️ Skyline 2014](#-Skyline-2014)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2014 via GitHub skyline](https://skyline.github.com/seanpm2001/2014/)
-- [View STL file](/Special/GitHub_Skyline/2014/seanpm2001-2014.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2014 section !-->
-
----
-
-##### [🏙️ Skyline 2015](#-Skyline-2015)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2015 via GitHub skyline](https://skyline.github.com/seanpm2001/2015/)
-- [View STL file](/Special/GitHub_Skyline/2015/seanpm2001-2015.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2015 section !-->
-
----
-
-##### [🏙️ Skyline 2016](#-Skyline-2016)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2016 via GitHub skyline](https://skyline.github.com/seanpm2001/2016/)
-- [View STL file](/Special/GitHub_Skyline/2016/seanpm2001-2016.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2016 section !-->
-
----
-
-##### [🏙️ Skyline 2017](#-Skyline-2017)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2017 via GitHub skyline](https://skyline.github.com/seanpm2001/2017/)
-- [View STL file](/Special/GitHub_Skyline/2017/seanpm2001-2017.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2017 section !-->
-
----
-
-##### [🏙️ Skyline 2018](#-Skyline-2018)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2018 via GitHub skyline](https://skyline.github.com/seanpm2001/2018/)
-- [View STL file](/Special/GitHub_Skyline/2018/seanpm2001-2018.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</details> <!-- End of Skyline 2018 section !-->
-
----
-
-##### [🏙️ Skyline 2019](#-Skyline-2019)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2019 via GitHub skyline](https://skyline.github.com/seanpm2001/2019/)
-- [View STL file](/Special/GitHub_Skyline/2019/seanpm2001-2019.stl)
-- **Note: no data for this year, I started in 2020.**
-
-</detials> <!-- End of Skyline 2019 section !-->
-
----
-
-##### [🏙️ Skyline 2020](#-Skyline-2020)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2020 via GitHub skyline](https://skyline.github.com/seanpm2001/2020/)
-- [View STL file](/Special/GitHub_Skyline/2020/seanpm2001-2020.stl)
-
-</details> <!-- End of Skyline 2020 section !-->
-
----
-
-##### [🏙️ Skyline 2021](#-Skyline-2021)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2021 via GitHub skyline](https://skyline.github.com/seanpm2001/2021/)
-- [View STL file](/Special/GitHub_Skyline/2021/seanpm2001-2021.stl)
-
-</details> <!-- End of Skyline 2021 section !-->
-
----
-
-##### [🏙️ Skyline 2022](#-Skyline-2022)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2022 via GitHub skyline](https://skyline.github.com/seanpm2001/2022/)
-- [View STL file](/Special/GitHub_Skyline/2022/seanpm2001-2022.stl)
-
-</details> <!-- End of Skyline 2022 section !-->
-
----
-
-##### [🏙️ Skyline 2023](#-Skyline-2023)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2023 via GitHub skyline](https://skyline.github.com/seanpm2001/2023/)
-- [View STL file (coming soon)](/Special/GitHub_Skyline/2023/seanpm2001-2023.stl)
-
-</details> <!-- End of Skyline 2023 !-->
-
----
-
-##### [🏙️ Skyline 2024](#-Skyline-2024)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-- [View skyline 2024 via GitHub skyline](https://skyline.github.com/seanpm2001/2024/)
-- [View STL file (coming soon)]/Special/GitHub_Skyline/2024/)
-
-</details> <!-- End of Skyline 2024 !-->
-
----
-
-_End of GitHub Skyline data listing._
-
-</details> <!-- End of Skyline data list !-->
-
-_End of GitHub Skyline section._
-
----
+For now, it can be viewed [here instead](/Segments/GitHub-Skyline/README.md)
 
 </details> <!-- End of skyline section !-->
 
@@ -3013,97 +2099,9 @@ _No other statistics sections available._
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-Basic information on my pets, current and former.
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
----
-
-#### [🐈️ Cats](#-Cats)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Currently, my family has 2 cats
-
-- Cocoa (a very talkative and athletic calico cat)
-- BB (nickname: Princess Leia) (a very shy, but friendly cat that gets along really well with miniature shnauzers. Will occassionally let you pet her, but not for very long)
-
-</details> <!-- End of cats section !-->
-
----
-
-#### [🐔️ Chickens](#-Chickens)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Currently, my family has 14 chickens, this number fluctuates a lot, as they are of various ages. They are mostly decoration and lawn care (eating bugs) but we give their eggs to neighbors and friends frequently)
-
-</details> <!-- End of chickens section !-->
-
----
-
-#### [🐶️ Dogs](#-Dogs)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-Currently, my family has 4 dogs, which include 3 miniature schnauzers, and one other (I don't remember the breed)
-
-Shnauzers:
-
-- Gringo (nickname: Ginky) (I was not the one who named him) a very playful Shnauzer, and the successor to Guinea
-- Sparky (nickname: Barky)
-- Jiji (nickname: Jackie)
-
-Other
-
-- Kitty (no nickname) (I gave her the name, it is an odd name for a dog, but she really reminds me of a cat, and acts similarly to one)
-
-Past dogs
-
-- Guinea
-- Milly
-- Mila
-- Jack
-- Zoey
-- Corey
-
-</details> <!-- End of dogs section !-->
-
----
-
-#### [🐠️ Fish](#-Fish)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-See my [:octocat: `Marine Biology repo`](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/)
-
-</details> <!-- End of fish section !-->
-
----
-
-#### [🐐️ Goats](#-Goats)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-My family bought 2 goats around 2020. We bred them with other goats, which resulted in 2 baby goats. We later bred those 2 goats, with other goats, and now we have 6. My family gave them a Flintstones naming scheme, but stopped this with the second set of baby goats
-
-- Oldest: Betty, Wilma
-- Middle: Pebbles, Bambam
-- Youngest: Q-Tip, Taco
-
-</details> <!-- End of goats section !-->
-
----
-
-#### [🐎️ Horses](#-Horses)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-My family owns 2 horses, Mocha and Shamen. We have had them since 2014. Sometimes, we ride them, and with our AirBnB, we let other people interact with them (feed them, clean them, and ride them)
-
-</details> <!-- End of horses section !-->
-
-***
-
-End of pets section
+For now, it can be viewed [here instead](/Segments/Pets/README.md)
 
 </details> <!-- End of pets section !-->
 
@@ -3334,7 +2332,7 @@ My major projects are sorted into collectives. As of 2024, Friday, March 29th (t
 - [ ] Productive collective
 - [ ] Video game collective
 - [ ] Desktop Environment collective
-- [ ] Documentation collective
+- [ ] Documen-tation collective
 - [ ] Operating Systems collective
 - [ ] Web Browser collective
 - [ ] LIBrary collective
@@ -3424,6 +2422,10 @@ _End of SNU project section._
 | <img alt="Candroid logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Candroid/Logo/PNG/Candroid.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Candroid:** _A framework for DeGoogling and alternating from the Android operating system._ |
 |---|---|
 
+</details> <!-- End of logo section for major project section: Candroid Framework !-->
+
+---
+
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the major project: Candroid Framework</b></p></summary>
 
 ---
@@ -3483,7 +2485,7 @@ _End of Candroid Framework project section._
 | <img alt="AI2001 MediaSphere logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AI2001/Logo/PNG/MediaSphere1.png" width="150" height="150" align="left" style="margin-right: 30px"> | **AI2001:** _An artificial Intelligence toolchain written in R, RMarkdown, Julia, Cython, Prolog, Python, and C._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: AI2001 !-->
+</details> <!-- End of logo section for major project section: AI2001 !-->
 
 ---
 
@@ -3546,7 +2548,7 @@ _End of AI2001 project section._
 | <img alt="EMAIL 2 placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/EMAIL-2/Logo/Placeholder/MailBox-icon.png" width="150" height="150" align="left" style="margin-right: 30px"> | **EMAIL 2:** _A set of standards for the next generation of EMAIL. An EMAIL revolution!_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: EMAIL 2.0 !-->
+</details> <!-- End of logo section for major project section: EMAIL 2.0 !-->
 
 ---
 
@@ -3614,7 +2616,7 @@ _End of EMAIL 2.0 project section._
 | <img alt="EMAIL -3 placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/EMAIL_-3/Logo/Placeholder/MailBox-icon.png" width="150" height="150" align="left" style="margin-right: 30px"> | **EMAIL -3.0:** _An optional addon set to EMAIL 2 for Blockchain and Web -3.0 functionalities._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: EMAIL -3.0 !-->
+</details> <!-- End of logo section for major project section: EMAIL -3.0 !-->
 
 ---
 
@@ -3707,7 +2709,7 @@ A collective of my core-related projects.
 | <img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="150" height="150" align="left" style="margin-right: 30px"> | **SeansLifeArchive:** _A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: SeansLifeArchive !-->
+</details> <!-- End of logo section for major project section: SeansLifeArchive !-->
 
 ---
 
@@ -3816,7 +2818,7 @@ A collective of my computer security projects.
 | <img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="105" height="150" align="left" style="margin-right: 30px"> | **Linux Defender:** _An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Linux Defender !-->
+</details> <!-- End of logo section for major project section: Linux Defender !-->
 
 ---
 
@@ -3880,7 +2882,7 @@ _End of Linux Defender project section._
 | <img alt="Hosital Defender logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Hospital-Defender/Logo/SwissFlagJButton.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Hospital Defender** _Security tools and software optimized for hospitals._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Hospital Defender !-->
+</details> <!-- End of logo section for major project section: Hospital Defender !-->
 
 ---
 
@@ -3974,7 +2976,7 @@ A collective of my productivity software projects.
 | <img alt="Anime Studio logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Anime_Studio/Logo/PNG/RedEyeMin.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Anime Studio:** _A software studio optimized for the production and viewing of Anime and Manga._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Anime Studio !-->
+</details> <!-- End of logo section for major project section: Anime Studio !-->
 
 ---
 
@@ -4043,7 +3045,7 @@ _End of Anime Studio project section._
 | <img alt="DMAIL Wordmark logo failed to load. Click/tap here to attempt to view it" src="/Graphics/DMAIL/Logo/Wordmark/DMailWordmark.png" width="150" height="150" align="left" style="margin-right: 30px"> | **DMAIL/DSuite** _An EMAIL client pertaining to the @seanpm2001 philosophy. Stands for Digital MAIL. Also part of a productivity suite known as DSuite_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: DMAIL/DSuite !-->
+</details> <!-- End of logo section for major project section: DMAIL/DSuite !-->
 
 ---
 
@@ -4112,7 +3114,7 @@ _End of DMAIL/DSuite project section._
 | <img alt="uOffice placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/uOffice/Logo/Placeholder/OpenOfficeIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> | **uOffice** _An office suite that aims to push the limits of computing._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: uOffice/uSuite !-->
+</details> <!-- End of logo section for major project section: uOffice/uSuite !-->
 
 ---
 
@@ -4209,7 +3211,7 @@ A collective of my video game projects.
 | <img alt="Ukraine History Simulator logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Ukraine-History-Simulator/Logo/PNG/UkraineHistorySimulator_Logo_1024px_V2_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Ukraine History Simulator** _A history simulator that covers the entire history (pre-history to the modern day) of the European country, Ukraine._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Ukraine History Simulator !-->
+</details> <!-- End of logo section for major project section: Ukraine History Simulator !-->
 
 ---
 
@@ -4269,7 +3271,7 @@ _End of Ukraine History Simulator project section._
 | <img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> | **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: LibreFlock !-->
+</details> <!-- End of logo section for major project section: LibreFlock !-->
 
 ---
 
@@ -4330,7 +3332,7 @@ _End of LibreFlock project section._
 | <img alt="MCPYE placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/MCPYE/Logo/Placeholder/MCPYE_Icon_LowQuality.png" width="150" height="150" align="left" style="margin-right: 30px"> | **MCPYE** _An open source alternative to Minecraft and Minetest, written almost entirely in Python._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: MCPYE !-->
+</details> <!-- End of logo section for major project section: MCPYE !-->
 
 ---
 
@@ -4397,7 +3399,7 @@ _End of MCPYE project section._
 | <img alt="Tetris128 placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Tetris128/Logo/Placeholder/Tetris128Logo_LowQuality.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Tetris128** _An open source, very powerful version of Tetris, with several new game modes, and top notch graphics. The game is 128 bit, but can also run on 64 bit systems._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Tetris128 !-->
+</details> <!-- End of logo section for major project section: Tetris128 !-->
 
 ---
 
@@ -4495,7 +3497,7 @@ A collective of my Desktop Environment (DE) projects.
 | <img alt="SDE logo failed to load. Click/tap here to attempt to view it" src="/Graphics/SDE/Logo/PNG/SDE.png" width="150" height="150" align="left" style="margin-right: 30px"> | **SDE** _A highly customizable desktop environment with Skeuomorphism._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: SDE !-->
+</details> <!-- End of logo section for major project section: SDE !-->
 
 ---
 
@@ -4583,7 +3585,7 @@ A collective of my majority documentation projects.
 | <img alt="Anti-Google logo failed to load. Click/tap here to attempt to view it" src="/Graphics/DeGoogle-your-Life/Logo/PNG/Anti-Google_Icon2015_1024px_V1_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> | **DeGoogle your Life:** _A collection of articles and documentation regarding alternating from Google._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: DeGoogle your Life !-->
+</details> <!-- End of logo section for major project section: DeGoogle your Life !-->
 
 ---
 
@@ -4642,7 +3644,7 @@ _End of DeGoogle your Life project section._
 | <img alt="Learn logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Learn/Logo/PNG/Letter+L+blue.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Learn:** _A collection of documentation showcasing my collective knowledge of various programming/computing languages._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Learn !-->
+</details> <!-- End of logo section for major project section: Learn !-->
 
 ---
 
@@ -4729,7 +3731,7 @@ A collective of my Operating System projects.
 | <img alt="Android logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Android-x32x64x128/Logo/PNG/Android_Logo_HighDetail.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Android x32x64x128:** _A collection of Android forks that can provide Android support outside of the Google Ecosystem, with vanilla, LiveCD, DeGoogled, and heavy variants for every version of Android. It pairs with [:octocat: `Candroid`](https://github.com/seanpm2001/Candroid/)_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Android x32x64x128 !-->
+</details> <!-- End of logo section for major project section: Android x32x64x128 !-->
 
 ---
 
@@ -4790,7 +3792,7 @@ _End of PNCE project section._
 | <img alt="BlazeOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlazeOS/Logo/JPEG/BlazeOS_LOGO1.jpeg" width="150" height="150" align="left" style="margin-right: 30px"> | **BlazeOS:** _An operating system and service alternative to Amazon FireOS, and Amazon Web Services (AWS)_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: BlazeOS !-->
+</details> <!-- End of logo section for major project section: BlazeOS !-->
 
 ---
 
@@ -4860,7 +3862,7 @@ _End of BlazeOS project section._
 | <img alt="BlueberryOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BlueberryOS/Logo/Blueberry1.png" title="Black(berry) and Blue(berry)" width="150" height="150" align="left" style="margin-right: 30px"> | **BlueberryOS:** _An open source alternative to BlackberryOS._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: BlueberryOS !-->
+</details> <!-- End of logo section for major project section: BlueberryOS !-->
 
 ---
 
@@ -4934,7 +3936,7 @@ _End of BlueberryOS project section._
 | <img alt="MailOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/MailOS/Logo/MailOS_Logo_1024px_V1_HighCompression.png" title="Email Operating System, MailOS logo" width="150" height="150" align="left" style="margin-right: 30px"> | **MailOS:** _An operating system solely designed for emails._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: MailOS !-->
+</details> <!-- End of logo section for major project section: MailOS !-->
 
 ---
 
@@ -5001,7 +4003,7 @@ _End of MailOS project section._
 | <img alt="LocksmithOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LocksmithOS/Logo/LocksmithOS_1500pxLogo_V1_HighCompression.png" title="LocksmithOS logo" width="150" height="150" align="left" style="margin-right: 30px"> | **LocksmithOS:** _An operating system solely designed for storing sensitive credentials and passwords, and acting as a key._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: LocksmithOS !-->
+</details> <!-- End of logo section for major project section: LocksmithOS !-->
 
 ---
 
@@ -5068,7 +4070,7 @@ _End of LocksmithOS project section._
 | <img alt="CranberryOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/CranberryOS/Logo/CranberryOS_1024pxLogo_V1_HighCompression.png" title="CranberryOS logo" width="150" height="150" align="left" style="margin-right: 30px"> | **CranberryOS:** _An operating system solely designed for single jamming._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: CranberryOS !-->
+</details> <!-- End of logo section for major project section: CranberryOS !-->
 
 ---
 
@@ -5133,7 +4135,7 @@ _End of CranberryPS project section._
 | <img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/MEDOS4_Logo.bmp" title="MEDOS Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **MEDOS:** _A small variant of the Meadows Operating System designed to run entirely from external storage. Old description: An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: MEDOS !-->
+</details> <!-- End of logo section for major project section: MEDOS !-->
 
 ---
 
@@ -5194,7 +4196,7 @@ _End of MEDOS project section._
 | <img alt="Original Meadows logo placeholder failed to load. Click/tap here to attempt to view it" src="/Media/QMDS.png" title="Meadows Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **Meadows:** _My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Meadows !-->
+</details> <!-- End of logo section for major project section: Meadows !-->
 
 ---
 
@@ -5263,7 +4265,7 @@ _End of Meadows project section._
 | <img alt="Original WOAHS X profile picture failed to load. Click/tap here to attempt to view it" src="/Media/W_WOAH_HighCompression.png" title="WacOS (WOAHS-X) Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **WacOS:** _An operating system megaproject: creating a free, libre, and open source alternative to every Apple system, while maintaining better functionality, and similar feels. No hackintosh needed._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: WacOS !-->
+</details> <!-- End of logo section for major project section: WacOS !-->
 
 ---
 
@@ -5352,7 +4354,7 @@ _End of WacOS project section._
 | <img alt="NUNIX placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/NUNIX/Logo/Placeholder/TECHNOBRAIN.jpeg" title="Technobrain (NUNIX Placeholder logo)" width="150" height="150" align="left" style="margin-right: 30px"> | **NUNIX** _An open source and extensive operating system for the human brain_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: NUNIX !-->
+</details> <!-- End of logo section for major project section: NUNIX !-->
 
 ---
 
@@ -5422,7 +4424,7 @@ _End of NUNIX project section._
 | <img alt="Bootdown placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BootDown/Logo/Placeholder/BootDownLogo.png" width="150" height="150" align="left" style="margin-right: 30px"> | **BootDown** _An open source, experimental operating system that runs at the BIOs level_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: BootDown !-->
+</details> <!-- End of logo section for major project section: BootDown !-->
 
 ---
 
@@ -5485,7 +4487,7 @@ _End of BootDown project section._
 | <img alt="MetroTechno logo failed to load. Click/tap here to attempt to view it" src="/Graphics/MetroTechno/Logo/MetroTechno_1024pxIcon_V1_HighCompression.png" width="150" height="150" align="left" title="MetroTechno logo" style="margin-right: 30px"> | **MetroTechno** _A collection of mini Operating Systems for various functions of a transportation system (such as traffic lights, speed signs, parking meters, and more)_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: MetroTechno !-->
+</details> <!-- End of logo section for major project section: MetroTechno !-->
 
 ---
 
@@ -5557,7 +4559,7 @@ _End of MetroTechno project section._
 | <img alt="AquariOS placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/AquariOS/Logo/Placeholder/Aquarius_symbol_(bold).svg" width="150" height="150" align="left" style="margin-right: 30px"> | **AquariOS** _An open source operating system for an automated aquarium._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: AquariOS !-->
+</details> <!-- End of logo section for major project section: AquariOS !-->
 
 ---
 
@@ -5620,7 +4622,7 @@ _End of AquariOS project section._
 | <img alt="BathHouseOS placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/BathHouseOS/Logo/Placeholder/BathHouseOS.jpeg" width="150" height="150" align="left" style="margin-right: 30px"> | **BathHouseOS** _An open source collection of operating systems for an automated bathroom._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: BathHouseOS !-->
+</details> <!-- End of logo section for major project section: BathHouseOS !-->
 
 ---
 
@@ -5720,7 +4722,7 @@ A collective of my Web Browser projects.
 | <img alt="Bliss Browser logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Bliss_Browser/Logo/PNG/Bliss_Browser_Logo1_V1_1024pxIcon_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Bliss Browser:** _An extremely powerful and customizable web browser written in Python. It is also capable of being an alternative to ChromeOS via its OSMode (where you can turn the browser into a shell on top of an existing operating system) customizable down to the last pixel, you can even disable all HTML tags if you really wanted to (this breaks the majority of websites, but it is still an option)_ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Bliss Browser !-->
+</details> <!-- End of logo section for major project section: Bliss Browser !-->
 
 ---
 
@@ -5812,7 +4814,7 @@ A collective of my software LIBrary projects.
 | <img alt="Software LIBraries logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Software-LIBraries/Icon/PNG/Seanpm2001-libraries_LowQualityIcon.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Software LIBraries:** _Notable software libraries created by me._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Software LIBraries !-->
+</details> <!-- End of logo section for major project section: Software LIBraries !-->
 
 ---
 
@@ -5914,7 +4916,7 @@ A collective of my linguistics software projects.
 | <img alt="Python logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Computing-Languages/Logo/Python/PNG/LowQuality_Seanpm2001-Languages_Icon.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Computing languages** _Programming, configuration, and markup languages by me._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Computing languages !-->
+</details> <!-- End of logo section for major project section: Computing languages !-->
 
 ---
 
@@ -6016,7 +5018,7 @@ Section coming soon
 | <img alt="Post-Neo-Classical English logo failed to load. Click/tap here to attempt to view it" src="/Graphics/PNCE/Logo/Placeholder/EN_ENGLISH_Icon1.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Post-Neo-Classical-English (PNCE/PNC English)** _A dialect of the English language, with improvements, and macros to work with._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: PNCE !-->
+</details> <!-- End of logo section for major project section: PNCE !-->
 
 ---
 
@@ -6111,7 +5113,7 @@ A collective of my comedic projects.
 | <img alt="Comedy logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Joke-Projects/Logo/PNG/LowQuality_Seanwallawalla-jokeprograms_Icon.png" width="150" height="150" align="left" style="margin-right: 30px"> | **Joke projects** _Joke programs by me._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: Joke projects !-->
+</details> <!-- End of logo section for major project section: Joke projects !-->
 
 ---
 
@@ -6211,7 +5213,7 @@ A collective of my miscellaneous projects.
 | <img alt="PDNet++ placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/PDSNet-Plus-Plus/Logo/Placeholder/540px-Disney-infinite-copyright-Anti.png" width="150" height="150" align="left" title="PDSNET++ logo" style="margin-right: 30px"> | **PDNet++/PDSNet++** _A streaming service for Public Domain media, especially those that were under Copyright for far too long, such as old Disney content._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: PDNet++ !-->
+</details> <!-- End of logo section for major project section: PDNet++ !-->
 
 ---
 
@@ -6274,7 +5276,7 @@ _End of PDNet++ project section._
 | <img alt="Other logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="150" height="150" align="left" style="margin-right: 30px"> | **Other projects** _Other projects by me that aren't listed in their own mega/major category._ |
 |---|---|
 
-<details> <!-- End of logo section for major project section: other projects !-->
+</details> <!-- End of logo section for major project section: other projects !-->
 
 ---
 
@@ -6332,6 +5334,8 @@ _End of PDNet++ project section._
 
 Work with this entry (different spelling of an existing entry) https://github.com/seanpm2001/Tap_Pet_Hotel_Open
 
+Note to self: Make sure to also check each repository to see if a separate documentation repository exists or not
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Other projects</b></p></summary>
@@ -6354,15 +5358,15 @@ Work with this entry (different spelling of an existing entry) https://github.co
 | [:octocat: `Open Source Security Camera`](https://github.com/seanpm2001/Open-source-security-camera/) | [:octocat: `Portal Voice Assistant`](https://github.com/seanpm2001/Portal-Voice-Assistant/) | [:octocat: `StartFsck`](https://github.com/seanpm2001/StartFsck/) | [:octocat: `Nost Gia OS`](https://github.com/seanpm2001/Nost_Gia_OS/) | [:octocat: `Nostalgii`](https://github.com/seanpm2001/Nostalgii/) | [:octocat: `YKDefender`](https://github.com/seanpm2001/YKDefenderVM/) |
 | [:octocat: `Bosky`](https://github.com/seanpm2001/Bosky/) | [:octocat: `AdBool`](https://github.com/seanpm2001/AdBool/) | [:octocat: `Bluecalm theme`](https://github.com/seanpm2001/BlueCalm_Theme/) | [:octocat: `AudiBass Manager`](https://github.com/seanpm2001/AudiBass_Manager/) | [:octocat: `Keyoff`](https://github.com/seanpm2001/Keyoff/) | [:octocat: `iCandy`](https://github.com/seanpm2001/iCandy/) |
 | [:octocat: `SDE Merry (Carousel)`](https://github.com/seanpm2001/SDE_Merry/) | [:octocat: `404 day`](https://github.com/seanpm2001/404Day/) | [:octocat: `Bad code collection`](https://github.com/seanpm2001/Bad-Code-Collection/) | [:octocat: `Git attributes collection`](https://github.com/seanpm2001/GitAttributes-Collection/) | [:octocat: `RecursionBot`](https://github.com/seanpm2001/RecursionBot/) | [:octocat: `SociaShame`](https://github.com/seanpm2001/SociaShame/) |
-| Branch Ranch | Backup Automation Build Bot Y | AUTOMATE-2001 | Timeout Toolkit | Desklocker | Year of the Linux Desktop |
-| LargeNumbers ULIB | Health Meter Maximum | Dentalbar Whitetooth Pro | ChromaTags forGit | Advanced Eye Chart | UI Tour Guide |
-| App Backpack | iBlast | FINF-DB | Reactop | LapLight | WakeNote |
-| StealthGeo | Computing Longevity | 3D Webpage Inspector | PolyGlot | DeciCube | OVPVMO site |
-| Lightspeed Relay Technologies | LANChair | UTPM | -ibibyte_Mathematical_Reference | GratyBot | BASH.sh |
-| Gaslight Galactica | DCalendar | GoDot Launcher | GNU Car | GeniBlock | FreeGenie |
-| Halloween Assistant | Turkey Stories | Santa Software Suite | NimbleBit Glossary | Ratiyo | Profa or Antifa |
-| uDonate | 4096 | MadLibby | Goodbye World | Dronemap | Password Generator Ultimate |
-| SVG Video | BluPhoneOS | GK-Keyboard | Computer-cursor-tech-support | Self Replicating Machine Research | Snapshot Version Control System |
+| [:octocat: `Branch Ranch`](https://github.com/seanpm2001/Branch-Ranch/) | [:octocat: `Backup Automation Build Bot Y`](https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/) | [:octocat: `AUTOMATE-2001`](https://github.com/seanpm2001/AUTOMATE-2001/) | [:octocat: `Timeout Toolkit`](https://github.com/seanpm2001/TimeoutToolkit/) | [:octocat: `Desklocker`](https://github.com/seanpm2001/DeskLocker/) | [:octocat: `Year of the Linux Desktop`](https://github.com/seanpm2001/Year-of-the-Linux-desktop/) |
+| [:octocat: `LargeNumbers ULIB`](https://github.com/seanpm2001/LargeNumber_ULIB/) | [:octocat: `HealthMeterMaximum`](https://github.com/seanpm2001/HealthMeterMaximum/) | [:octocat: `Dentalbar Whitetooth Pro`](https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro/) | [:octocat: `ChromaTags forGit`](https://github.com/seanpm2001/ChromaTags_ForGit/) | [:octocat: `Advanced Eye Chart`](https://github.com/seanpm2001/Advanced_Eye_Chart/) | [:octocat: `UI Tour Guide`](https://github.com/seanpm2001/UI_Tour_Guide/) |
+| [:octocat: `App Backpack`](https://github.com/seanpm2001/App-backpack/) | [:octocat: `iBlast`](https://github.com/seanpm2001/iBlast/) | [:octocat: `FINF-DB`](https://github.com/seanpm2001/FINF-DB/) | [:octocat: `Reactop`](https://github.com/seanpm2001/Reactop/) | [:octocat: `LapLight`](https://github.com/seanpm2001/LapLight/) | [:octocat: `WakeNote`](https://github.com/seanpm2001/WakeNote/) |
+| [:octocat: `StealthGeo`](https://github.com/seanpm2001/StealthGeo_Font/) | [:octocat: `Computing Longevity`](https://github.com/seanpm2001/Computing-Longevity/) | [:octocat: `3D Webpage Inspector`](https://github.com/seanpm2001/3D-WebPage-Inspector/) | [:octocat: `PolyGlot`](https://github.com/seanpm2001/PolyGlot/) | [:octocat: `DeciCube`](https://github.com/seanpm2001/DeciCube/) | [:octocat: `OVPVMO site`](https://github.com/seanpm2001/OVPVMO-site/) |
+| [`Lightspeed Relay Technologies`](https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/) | [:octocat: `LANChair`](https://github.com/seanpm2001/LANChair/) | [:octocat: `UTPM`](https://github.com/seanpm2001/UTPM/) | [:octocat: `-ibibyte Mathematical Reference`](https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/) | [:octocat: `GratyBot`](https://github.com/seanpm2001/GratyBot/) | [:octocat: `BASH.sh`](https://github.com/seanpm2001/BASH.sh/) |
+| [:octocat: `Gaslight Galactica`](https://github.com/seanpm2001/Gaslight-Galactica/) | [:octocat: `DCalendar`](https://github.com/seanpm2001/DCalendar/) | [:octocat: `GoDot Launcher`](https://github.com/seanpm2001/GoDot_Launcher/) | [:octocat: `GNU Car`](https://github.com/seanpm2001/GNU_Car/) | [:octocat: `GeniBlock`](https://github.com/seanpm2001/GeniBlock/) | [:octocat: `FreeGenie`](https://github.com/seanpm2001/FreeGenie/) |
+| [:octocat: `Halloween Assistant`](https://github.com/seanpm2001/Halloween-Assistant/) | [:octocat: `Turkey Stories`](https://github.com/seanpm2001/Turkey-Stories/) | [:octocat: `Santa Software Suite`](https://github.com/seanpm2001/Santa_Software_Suite_Core/) | [:octocat: `NimbleBit Glossary`](https://github.com/seanpm2001/NimbleBit-Glossary/) | [:octocat: `Ratiyo`](https://github.com/seanpm2001/Ratiyo/) | [:octocat: `Profa or Antifa`](https://github.com/seanpm2001/Profa_Or_Antifa/) |
+| [:octocat: `uDonate`](https://github.com/seanpm2001/uDonate/) | [:octocat: `4096`](https://github.com/seanpm2001/4096/) | [:octocat: `MadLibby`](https://github.com/seanpm2001/MadLibby/) | [:octocat: `Goodbye World`](https://github.com/seanpm2001/Goodbye-World/) | [:octocat: `Dronemap`](https://github.com/seanpm2001/DroneMap/) | [:octocat: `Password Generator Ultimate`](https://github.com/seanpm2001/Password_Generator_Ultimate/) |
+| [:octocat: `SVG Video`](https://github.com/seanpm2001/SVG_Video/) | [:octocat: `BluPhoneOS`](https://github.com/seanpm2001/BluPhoneOS/) | [:octocat: `GK-Keyboard`](https://github.com/seanpm2001/GK-Keyboard/) | [:octocat: `Computer cursor tech support`](https://github.com/seanpm2001/Computer-cursor-tech-support/) | [:octocat: `Self Replicating Machine Research`](https://github.com/seanpm2001/Self-replicating-machine-research/) | [:octocat: `Snapshot Version Control System`](https://github.com/seanpm2001/Snapshot-version-control-system/) |
 | The-Dystopian-Dictionary | Git-image | TuxBot Operating System | OS Census | Senior Design | IGNORE file |
 | Boilerplate Cabinet | NexxFetch | Count Mausoleum | Project1001 | Fortran fortress | Input Police |
 | README Desktop LIBrary | ShareBox LIBrary | Easy-E IDE | Zag | The Bandwidth Band | Camera Privacy Specification |
@@ -6383,7 +5387,8 @@ Work with this entry (different spelling of an existing entry) https://github.co
 | Ultra Image Studio | OuterVM | V-Reshot | DOS-Buddy | VirtualHome | FBI Roleplay Simulator |
 | LinFsck | Kevin Macleod Software Radio | Linux Marketshare Ping Tool | PVZ Custom | IE6 flavored markdown | Cyborg System Monitor |
 | Unblur tool | UnSaaSS | UnIoT | 2001 project | SeansOSData | Chaccaron Maccaron type |
-| Public Media Gallery | meme generator ultimate | Jscribe | UltraSwitch | **Some other projects aren't listed yet** | ⭕️ |
+| Public Media Gallery | meme generator ultimate | Jscribe | UltraSwitch | RegAggregate | SafeWINE |
+| WinWalla | SDE MobileServer | HT Messenger | GitMan | Nuclear ad bombs specification | **Some other projects aren't listed yet** |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of core repository list section for the major project: Other Projects section !-->
@@ -6587,8 +5592,6 @@ These will be the featured repositories for the time being.
 
 _No other projects currently listed._
 
-</details>
-
 ***
 
 ## [🥅️ My goals](#-My-goals)
@@ -6639,28 +5642,9 @@ My repositories follow various style guides, which can be found [:octocaT: `here
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-Some of my repositories are so well-developed that they serve as models to others. Not very many projects have achieved model project status.
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-> **Current model projects (2022-2024)**
-
-- [:octocat: `seanpm2001:seanpm2001`](https://github.com/seanpm2001/seanpm2001/)
-- [:octocat: `seanpm2001:GitHub_Organization_Info`](https://github.com/seanpm2001/GitHub_Organization_Info/)
-- [:octocat: `seanpm2001:SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB/)
-- [:octocat: `seanpm2001:SNU`](https://github.com/seanpm2001/SNU/)
-- [:octocat: `seanpm2001:SNU_2D_ProgrammingTools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools/)
-- [:octocat: `seanpm2001:Git-Templates`](https://github.com/seanpm2001/Git-Templates/)
-- [:octocat: `seanpm2001:DeGoogle-your-life`](https://github.com/seanpm2001/Degoogle-your-life/)
-- [:octocat: `seanpm2001:WacOS`](https://github.com/seanpm2001/WacOS/)
-- [:octocat: `seanpm2001:Code-distancing`](https://github.com/seanpm2001/Code-distancing/)
-- [:octocat: `seanpm2001:Its-time-to-cut-WideVine-DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/)
-- [:octocat: `seanpm2001:MCPYE`](https://github.com/seanpm2001/MCPYE/)
-- [:octocat: `seanpm2001:SeansLifeArchive`](https://github.com/seanpm2001/SeansLifeArchive/)
-- [:octocat: `seanpm2001:My-Linux-setup`](https://github.com/seanpm2001/My-Linux-setup/)
-
-> [:octocat: `More information`](https://github.com/seanpm2001/Model_Project_Info/)
-
-- [/MODEL_PROJECT_STATUS.py](/MODEL_PROJECT_STATUS.py) - Information on the model project status of this repository (executable)
-- [/MODEL_PROJECT_STATUS.xhtml](/MODEL_PROJECT_STATUS.xhtml) - Information on the model project status of this repository (markup)
+For now, it can be viewed [here instead](/Segments/Model-Project-Information/README.md)
 
 </details> <!-- End of model project information section !-->
 
@@ -6670,15 +5654,9 @@ Some of my repositories are so well-developed that they serve as models to other
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-Takeout Tuesdays is a personal event of mine, where data takeout is prioritized once a week on Tuesday. This tradition started for me on 2023, Tuesday, June 6th. You can adopt the tradition as well if you want.
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-I started doing it to do a data takeout of my Twitter accounts, so that I could safely have them deleted. I realized the importance of weekly backups, and turned it into a tradition, as doing a takeout of your website data is just as important as backing up your computers hard drive.
-
-For further information, go to the official [:octocat: `Takeout Tuesdays repository`](https://github.com/seanpm2001/Takeout_Tuesdays/)
-
-There is a related project that gets fed data from Takeout Tuesday, which is known as [:octocat: `The REAL Data Liberation Front (TRDLF)`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front/) which is a continuation of Googles Data Liberation Front, but with a stronger goal, and better commitment. It mostly documents the capability of doing data takeouts on other websites, and promotes a 30-31 day data takeout time, rather than a 4 to 7 day takeout time.
-
-The justification for this is that some accounts for social media can be multiple terabytes in size, and data takeout cannot be done comfortably in 4 to 7 days when you have 8 terabytes of data, especially if you have weak Internet (it is hard even with Gigabit Internet, as you have to swap out hard drives, constantly download, and hope the power/Internet doesn't go out. Plus, even with fiberoptic Internet, the provider is usually slower than the Internet speed. Example: archive.org downloads at average between 400 kilobytes per second and 12 megabytes per second, even on a 900+ megabyte download speed connection)
+For now, it can be viewed [here instead](/Segments/Takeout-Tuesdays/README.md)
 
 </details> <!-- End of Takeout Tuesdays section !-->
 
@@ -6688,36 +5666,9 @@ The justification for this is that some accounts for social media can be multipl
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-In order to maintain these projects, I have a lot of tabs open, so that I can work with them when needed, have faster access, and have the ability to queue tasks. This video showcases my nightly process of recording tabs, at a record point in 2024, March (where I had 1,242 tabs open) since I am not using a Chromium-based browser, it is easier to have this many tabs open, especially light ones. It requires nearly 40 gigabytes of RAM to have 1242 tabs open at once.
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-<details open><summary><p><b>Click/tap here to expand/collapse the tab video</b></p></summary>
-
-Tab video removed on 2024, April 4th, due to memory issues, and problems following my own standard on archival. Once I can upload 50+ megabyte files to the core of my repository, I will add it back. For now, use the links provided below.
-
-<!-- https://github.com/seanpm2001/seanpm2001/assets/65933340/689bd442-8f3a-4eb2-9ec8-0ddc61d3bd66 !-->
-
-<!-- Link has to be formatted like this, or it won't load as a preview !-->
-
-| ![TabTourVideo1_2024March13th_1080p.webm](https://github.com/seanpm2001/seanpm2001/assets/65933340/689bd442-8f3a-4eb2-9ec8-0ddc61d3bd66) |
-|---|
-| 2024, Wednesday, March 13th tab video (1080p, `video/WebM`) |
-
-</details> <!-- End of tab video section !-->
-
-<details open><summary><p><b>Click/tap here to expand/collapse the tab video download section</b></p></summary>
-
-| 📥️ **Download video** 🎞️ |
-|---|
-
-> **Note** The GitHub link isn't permanent, and the file is too large to upload to the repository, so ProtonDrive versions are available. The original uncut video is not yet available, due to it exposing private projects.
-
-| 1️⃣️ | 2️⃣️ | 3️⃣️ | 4️⃣️ |
-|---|---|---|---|
-| [Download in WebM (1080p) (48 MB)](https://drive.proton.me/urls/JW8FSCCJKM#pMCKz4ekwqAT) | [Download in MP4 (1080p) (142 MB)](https://drive.proton.me/urls/632J0CQX5M#WRow4ZZWyJNg) | [Download in WebM (720p) (41 MB)](https://drive.proton.me/urls/KH82MD5G18#0WwkACLYs6x8) | [Original uncut video (not yet available)](https://www.example.com/) |
-
-</details> <!-- End of tab video download section !-->
-
-The amount of tabs I have open as of April 1st is 1,144. I try to reduce them, but they build up rapidly.
+For now, it can be viewed [here instead](/Segments/Browser-Tabs/README.md)
 
 </details> <!-- End of Browser Tabs section !-->
 
@@ -6727,75 +5678,9 @@ The amount of tabs I have open as of April 1st is 1,144. I try to reduce them, b
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-I organize my projects with administrative units, which are heavily inspired by those of the countries of the world.
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-Here is the current draft for the structure:
-
-- Level A: Undefined (reserved)
-- - Other names: None
-- Level B: Undefined (reserved)
-- - Other names: None
-- Level C: Undefined (reserved)
-- - Other names: None
-- Level D: Undefined (reserved)
-- - Other names: None
-- Level E: Undefined (reserved)
-- - Other names: None
-- Level F: Union of Unions
-- - Other names: None
-- Level zero: Multiverse (reserved)
-- - Other names: None
-- First level: Omniverse (everything)
-- - Other names: None
-- Second level: Universe (all, including projects outside my own)
-- - Other names: None
-- Third level: Galaxy (all)
-- - Other names: None
-- Fourth level: Planet (currently undefined)
-- - Other names: None
-- Fifth level: Continent (currently undefined)
-- - Other names: Empire, software empire
-- Sixth level: Clan (usergroup)
-- - Other names: Tribe (should working groups be moved up here?)
-- Seventh level: Leader/Developer (user)
-- - Other names: Developer, writer, artist, president, chancellor, prime minister
-- Eighth level: Metropolis (currently undefined)
-- - Other names: region, megapolis
-- Ninth level: Republic (currently undefined)
-- - Other names: None
-- Tenth level: Province (currently undefined)
-- - Other names: Wilayat, Governorate, State, Oblast, Voblast
-- Eleventh level: District (currently undefined)
-- - Other names: Raion, County
-- Twelfth level: Subdistrict (currently undefined)
-- - Other names: Outskirts
-- Thirteenth level: Community (currently undefined)
-- - Other names: Hromada, rural
-- Fourteenth level: Commitee (currently undefined)
-- - Other names: Task force
-- Fifteenth level: Working group (currently undefined)
-- - Other names: WG, club, charter
-- Sixteenth level: Repository (repository)
-- - Other names: Repo
-- Seventeenth level: Branch (git branch)
-- - Other names: Tree branch
-- Eighteenth level: Directory/vagrant files (folder/dir, and vagrant files outside)
-- - Other names: Folder, file
-- Nineteenth level: Source code, Binary files (self-explanatory)
-- - Other names: Blob
-- Twentieth level: level: Bits and bytes ("atoms")
-- - Other names: Tryte, octet, kilobyte, kibibyte, megabyte, mebibyte, gigabyte, gibibyte
-- Twenty-first level: Nothing
-- - Other names: Void, null, zero, abyss, non-existent
-
-There are some new terms I need to account for:
-
-- Collective
-- Arrondissements
-- Commune
-- Communal sections
-- Departments
-- Selo
+For now, it can be viewed [here instead](/Segments/Administrative-units/README.md)
 
 </details> <!-- End of Administrative Units section !-->
 
@@ -6805,17 +5690,9 @@ There are some new terms I need to account for:
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-I am part of my own small government. It has flags for its positions. The government and its structure is currently a work in progress.
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-| 🔺️ Position | 🎌️ Flag |
-|---|---|
-| Leadership | <img src="/Graphics/Government/Flags/Leader/Independent-Republic-of-Sean_RFlag_2400x1600_V1_HighCompression.png" alt="Flag of the Independent Republic of Sean failed to load" title="Leadership (Flag of the Independent Republic of Sean" width="240" height="160"> |
-| Clan | <img src="/Graphics/Government/Flags/Other/Llewellyn_Family_Flag.svg" alt="Llewellyn family flag failed to load" title="Llewellyn clan flag" width="400" height="240"> |
-| Congress | <img src="/Graphics/Government/Flags/Congress/Flag_of_the_Netherlands.svg" alt="Flag of the Netherlands failed to load" title="Congress" width="300" height="200"> |
-| Union | <img src="/Graphics/Government/Flags/Union/Autonomous-Republic-of-Sean_RFlag_1800x1200_V1_HighCompression.png" alt="Autonomous Republic flag failed to load" title="Flag of the Autonomous Republic of Sean" width="600" heght="400"> |
-| Finland territories | <img src="/Graphics/Government/Flags/Territories/Finland/Flag_of_Finland.svg" alt="Flag of Finland failed to load" title="Finland" width="600" height="366"> |
-| American territories | <img src="/Graphics/Government/Flags/Territories/United-States-of-America/Flag_of_the_United_States_(DoS_ECA_Color_Standard).svg" alt="USA flag failed to load" title="USA" width="411" height="216"> |
-| Other | <img src="/Graphics/Government/Flags/Other/Flag_of_Ireland.svg" alt="Flag of Ireland failed to load" title="Ireland" width="400" height="200"> |
+For now, it can be viewed [here instead](/Segments/Government/README.md)
 
 </details> <!-- End of government section !-->
 
@@ -7164,26 +6041,11 @@ _End of documentation section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-[![CodeQL](https://github.com/seanpm2001/seanpm2001/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/codeql-analysis.yml)
-[![Django CI](https://github.com/seanpm2001/seanpm2001/actions/workflows/django.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/django.yml)
-[![Jekyll site CI](https://github.com/seanpm2001/seanpm2001/actions/workflows/jekyll.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/jekyll.yml)
-[![Lint Code Base](https://github.com/seanpm2001/seanpm2001/actions/workflows/super-linter.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/super-linter.yml)
-[![Makefile CI](https://github.com/seanpm2001/seanpm2001/actions/workflows/makefile.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/makefile.yml)
-[![Pylint](https://github.com/seanpm2001/seanpm2001/actions/workflows/pylint.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/pylint.yml)
-[![Python Package using Conda](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package-conda.yml)
-[![Python application](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-app.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-app.yml)
-[![Python package](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-package.yml)
-[![Shell Lint](https://github.com/seanpm2001/seanpm2001/actions/workflows/shell-lint.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/shell-lint.yml)
-[![Upload Python Package](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-publish.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/python-publish.yml)
-[![YAML Lint](https://github.com/seanpm2001/seanpm2001/actions/workflows/yaml-lint.yml/badge.svg)](https://github.com/seanpm2001/seanpm2001/actions/workflows/yaml-lint.yml)
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-[View workflow files](https://github.com/seanpm2001/seanpm2001/actions/workflows/)
+For now, it can be viewed [here instead](/Segments/Workflows-Seanpm2001/README.md)
 
 </details> <!-- End of About this page: workflows subsection !-->
-
----
-
-⬆️ Above [(seanpm2001/seanpm2001)](https://github.com/seanpm2001/seanpm2001) - The repository hosting this profile README file
 
 ---
 
@@ -7193,224 +6055,9 @@ _End of documentation section._
 
 - [`View list`](/ROOTFILES.base)
 
----
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-<details open><summary><b>Click/tap here to expand/collapse the legend</b></summary>
-
-| Classic file view |
-|---|
-| No longer used (for now) |
-| Removed in version 87 |
-
-| Symbol | Legend |
-|---|---|
-| 📁️ | Folder/directory |
-| 📜️ | File (vagrant) |
-
-| GitLab inspired file view |
-|---|
-| Currently in use |
-| Added in version 87 |
-
-| Symbol | Legend | 
-|---|---|
-| 📂️ | Folder |
-| ⚙️ | Dotfile |
-| 📄️ | Plain text file |
-| 📃️ | Rich text file/Markup file |
-| 🖼️ | Image file |
-| 👥️ | Citation/authorship file |
-| 🔨️ | Configuration file |
-| 🐍️ | Python source file |
-| 📰️ | News file |
-| ⚖️ | License file |
-| 💿️ | Copy information file |
-| ☕️ | Java source file |
-| 💎️ | Ruby source file |
-| 🐚️ | Shell script |
-| 🗄️ | CSV file |
-| ⭐️ | Most important file |
-| ㊙️ | Information about a secret file |
-| 🈴️ | Translation file |
-| 🛡️ | Security information file |
-
-</details> <!-- End of legend !-->
-
----
-
-<details open><summary><b>Click/tap here to expand/collapse the directory tree</b></summary>
-
-| 📁️ Folder/directory | ℹ️ Description |
-|---|---|
-| 📂 [ .github](/.github/.github_README.md) | The GitHub configuration folder. |
-| 📂 [ .gitlab](/.gitlab/) | The GitLab configuration folder. |
-| 📂 [Achievements](/Achievements/) | Information on GitHub achievements. |
-| 📂 [Actions](/Actions/) | Custom GitHub actions for this project. |
-| 📂 [Badges](/Badges/) | Information on badges used on this project. |
-| 📂 [Branches](/Branches/) | Information on the branches of this repository |
-| 📂 [Citation](/Citation/) | Information on citing this repository |
-| 📂 [DailyStatus](/DailyStatus/README.md) | An archive of my daily status posts. |
-| 📂 [Docs](/Docs/) | Core documentation for this repository |
-| 📂 [Employment_Status](/Employment_Status/) | Information on employment status on the @seanpm2001 profile |
-| 📂 [Extermal](/Extermal/) | Stores external data (ProjectWiki, other) (the name is incorrect, but is kept for historical purposes) |
-| 📂 [External](/External/) | Stores external data (ProjectWiki, other) this time with the correct name |
-| 📂 [External_Commits](/External_Commits/) | Information on commits made to other repositories |
-| 📂 [FFTechSupport](/FFTechSupport/) | Stores emergency tech support data, originally for Firefox. |
-| 📂 [Follows](/Follows/) | Information on GitHub following/followers |
-| 📂 [Forks](/Forks/) | Information on GitHub forks |
-| 📂 [Fun stuff](/FunStuff/) | A collection of fun extras. |
-| 📂 [GitHub Commits](/GitHub_Commits/) | Original location of [daily GitHub images](https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub) |
-| 📂 [Graphics](/Graphics/) | Stores the main graphics for this repository |
-| 📂 [Inspirations](/Achievements/) | Information on things that inspire me |
-| 📂 [Jumping Text](/JumpingText/) | Jumping text like the Minecraft title screen, only available if moddable through GitHub. |
-| 📂 [Kiosk](/Kiosk/) | Various CSV Kiosk data for personal use. |
-| 📂 [Location](/Location/) | Information on location data |
-| 📂 [Media](/Media/) | Miscellaneous images used for the README file you are currently reading. |
-| 📂 [Notes](/Notes/) | The original location of [daily GitHub notes](https://github.com/seanpm2001/Git-Templates/). |
-| 📂 [OldVersions](/OldVersions/) | Old versions of the README file you are currently reading. |
-| 📂 [Pronouns](/Pronouns/) | Information on pronoun usage |
-| 📂 [Remodels](/Remodels/) | Information on remodels of this repository |
-| 📂 [RepoData](/RepoData/) | Holds repository data for this repository |
-| 📂 [RepoData_Notes](/RepoData_Notes/) | Information on RepoData usage for this repository |
-| 📂 [RepoList](/RepoList/) | Holds a list of all of my repositories |
-| 📂 [Sandbox](/Sandbox/) | A test sandbox for testing out certain GitHub functionality. |
-| 📂 [Schedule](/Schedule/) | A collection of my schedules. |
-| 📂 [Segments](/Segments/) | Holds segments of code for this project |
-| 📂 [Social-LInks](/Social-Links/) | Holds data on social links set up for the @seanpm2001 profile |
-| 📂 [Special](/Special/) | Stores special project data |
-| 📂 [Sponsors](/Sponsors/) | Information on GitHub sponsors |
-| 📂 [Stars](/Stars/) | Information on GitHub stars |
-| 📂 [Watch](/Watch/) | Information on GitHub watching |
-
-</details> <!-- End of directory tree !-->
-
----
-
-<details open><summary><b>Click/tap here to expand/collapse the file tree</b></summary>
-
-| 📜️ File | ℹ️ Description |
-|---|---|
-| ⚙️ [/.all-contributorsrc](/.all-contributorsrc) | Unlabeled version of the all-contributors file for this project. |
-| ⚙️ [/.all-contributorsrc.json](/.all-contributorsrc.json) | JSON version of the all-contributors file for this project. |
-| ⚙️ [/.editorconfig](/.editorconfig) | The .editorconfig configuration file for this project. |
-| ⚙️ [/.gitattributes](/.gitattributes)	 | The .gitattributes configuration file for this project. |
-| ⚙️ [/.gitignore](/.gitignore) | A random .gitignore file. |
-| ⚙️ [/.readme_update_plans.md](/.readme_update_plans.md) | For plans regarding updating the README file (starting with version 9) |
-| 📃️ [/404.html](/404.html) | The 404 page for this project. |
-| 🖼️ [/404.jpeg](/404.jpeg) | Image displayed on the 404 page for this project |
-| 📃️ [/404.md](/404.md) | The Jekyll 404 page for this project. |
-| 👥️ [/AUTHORS](/AUTHORS) | Unlabeled version of information about the authors of this project |
-| 📃️ [/AUTHORS.md](/AUTHORS.md) | Markdown version of information about the authors of this project |
-| 🔨️ [/AUTOMATE2001.yaml](/AUTOMATE2001.yaml) | Configuration file for [:octocat: `AUTOMATE2001`](https://github.com/seanpm2001/AUTOMATE-2001/) to work with this repository |
-| 🔨️ [/AUTOMATE2001.yml](/AUTOMATE2001.yml) | Configuration file for [:octocat: `AUTOMATE2001`](https://github.com/seanpm2001/AUTOMATE-2001/) to work with this repository |
-| 🐍️ [/BUILD_INFO.py](/BUILD_INFO.py) | Information on building this project (executable) |
-| 📰️ [/CHANGELOG](/CHANGELOG) | Unlabeled version of the changelog for this repository |
-| 📰️ [/CHANGELOG.md](/CHANGELOG.md) | Markdown version of the changelog for this repository |
-| 👥️ [/CITATION.cff](/CITATION.cff) | Citation template for citing this repository |
-| 📃️ [/CONTRIBUTING.md](/CONTRIBUTING.md) | The `CONTRIBUTING.md` file for this project, containing info on how you can contribute. |
-| 💿️ [/COPYINGL](/COPYINGL) | Information on copying files. |
-| 👥️ [/CREDITS](/CREDITS) | Unlabeled credits file for this project. |
-| 📃️ [/CREDITS.wiki](/CREDITS.wiki) | WikiText version of the credits file for this project. |
-| 🖼️ [/DRM-free_label.en.svg](/DRM-free_label.en.svg) | The image file telling you that this project does not contain DRM. |
-| 🔨️ [/INSTALL](/INSTALL) | Unlabeled installation instructions file for this project |
-| 📃️ [/INSTALL.rst](/INSTALL.rst) | reStructuredText version of the installation instructions file for this project. |
-| 🔨️ [/K.desktop](/K.desktop) | KDE desktop entry file for this repository |
-| ⚖️ [/LICENSE-GPL.java](/LICENSE-GPL.java) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.py](/LICENSE-GPL.py) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.py3](/LICENSE-GPL.py3) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.pyt](/LICENSE-GPL.pyt) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.pyw](/LICENSE-GPL.pyw) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.rb](/LICENSE-GPL.rb) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.ruby](/LICENSE-GPL.ruby) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.sh](/LICENSE-GPL.sh) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL.txt](/LICENSE-GPL.txt) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.java](/LICENSE-GPL3.java) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.py](/LICENSE-GPL3.py) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.py3](/LICENSE-GPL3.py3) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.pyt](/LICENSE-GPL3.pyt) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.pyw](/LICENSE-GPL3.pyw) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.rb](/LICENSE-GPL3.rb) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.ruby](/LICENSE-GPL3.ruby) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.sh](/LICENSE-GPL3.sh) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE-GPL3.txt](/LICENSE-GPL3.txt) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.java](/LICENSE.java) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.py](/LICENSE.py) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.py3](/LICENSE.py3) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.pyt](/LICENSE.pyt) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.pyw](/LICENSE.pyw) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.rb](/LICENSE.rb) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.ruby](/LICENSE.ruby) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.sh](/LICENSE.sh) | The license for this project (GNU General Public License v3.0) |
-| ⚖️ [/LICENSE.txt](/LICENSE.txt) | The license for this project (GNU General Public License v3.0) |
-| 🐍️ [/MODEL_PROJECT_STATUS.py](/MODEL_PROJECT_STATUS.py) | Information on the model project status of this repository (executable) |
-| 📃️ [/MODEL_PROJECT_STATUS.xhtml](/MODEL_PROJECT_STATUS.xhtml) | Information on the model project status of this repository (markup) |
-| 🐍️ [/PROJECT_LANG_1.py](/PROJECT_LANG_1.py) | The first project language file for this project. |
-| 🐍️ [/PROJECT_LANG_1.py3](/PROJECT_LANG_1.py3) | The first project language file for this project. |
-| 🐍️ [/PROJECT_LANG_1.pyt](/PROJECT_LANG_1.pyt) | The first project language file for this project. |
-| 🐍️ [/PROJECT_LANG_1.pyw](/PROJECT_LANG_1.pyw) | The first project language file for this project. |
-| 🔨️ [/PROJECT_LANG_10.yaml](/PROJECT_LANG_10.yaml) | The tenth project language file for this project. |
-| 🔨️ [/PROJECT_LANG_10.yml](/PROJECT_LANG_10.yml) | The tenth project language file for this project. |
-| 📃️ [/PROJECT_LANG_11.markdown](/PROJECT_LANG_11.markdown) | The eleventh project language file for this project. |
-| 📃️ [/PROJECT_LANG_11.md](/PROJECT_LANG_11.md) | The eleventh project language file for this project. |
-| 📃️ [/PROJECT_LANG_11.mdown](/PROJECT_LANG_11.mdown) | The eleventh project language file for this project. |
-| 📃️ [/PROJECT_LANG_11.mkd](/PROJECT_LANG_11.mkd) | The eleventh project language file for this project. |
-| 📄️ [/PROJECT_LANG_12.txt](/PROJECT_LANG_12.txt) | The twelfth project language file for this project. |
-| 📃️ [/PROJECT_LANG_13.rst](/PROJECT_LANG_13.rst) | The thirteenth project language file for this project. |
-| 📃️ [/PROJECT_LANG_14.wiki](/PROJECT_LANG_14.wiki) | The fourteenth project language file for this project. |
-| 👥️ [/PROJECT_LANG_15.bib](/PROJECT_LANG_15.bib) | The fifteenth project language file for this project. |
-| 💎️ [/PROJECT_LANG_16.gem](/PROJECT_LANG_16.gem) | The sixteenth project language file for this project. |
-| 💎️ [/PROJECT_LANG_16.rake](/PROJECT_LANG_16.rake) | The sixteenth project language file for this project. |
-| 💎️ [/PROJECT_LANG_16.rb](/PROJECT_LANG_16.rb) | The sixteenth project language file for this project. |
-| 💎️ [/PROJECT_LANG_16.rbx](/PROJECT_LANG_16.rbx) | The sixteenth project language file for this project. |
-| 💎️ [/PROJECT_LANG_16.ruby](/PROJECT_LANG_16.ruby) | The sixteenth project language file for this project. |
-| ☕️ [/PROJECT_LANG_17.java](/PROJECT_LANG_17.java) | The seventeenth project language file for this project. |
-| 📃️ [/PROJECT_LANG_2.htm](/PROJECT_LANG_2.htm) | The second project language file for this project. |
-| 📃️ [/PROJECT_LANG_2.html](/PROJECT_LANG_2.html) | The second project language file for this project. |
-| 📃️ [/PROJECT_LANG_2.mhtm](/PROJECT_LANG_2.mhtm) | The second project language file for this project. |
-| 📃️ [/PROJECT_LANG_2.mhtml](/PROJECT_LANG_2.mhtml) | The second project language file for this project. |
-| 📃️ [/PROJECT_LANG_2.xhtm](/PROJECT_LANG_2.xhtm) | The second project language file for this project. |
-| 📃️ [/PROJECT_LANG_2.xhtml](/PROJECT_LANG_2.xhtml) | The second project language file for this project. |
-| 🐚️ [/PROJECT_LANG_3.sh](/PROJECT_LANG_3.sh) | The third project language file for this project. |
-| 🗄️ [/PROJECT_LANG_4.csv](/PROJECT_LANG_4.csv) | The fourth project language file for this project. |
-| 🔨️ [/PROJECT_LANG_5.mak](/PROJECT_LANG_5.mak) | The fifth project language file for this project. |
-| 🔨️ [/PROJECT_LANG_5.make](/PROJECT_LANG_5.make) | The fifth project language file for this project. |
-| 🔨️ [/PROJECT_LANG_5.mk](/PROJECT_LANG_5.mk) | The fifth project language file for this project. |
-| 📃️ [/PROJECT_LANG_6.tex](/PROJECT_LANG_6.tex) | The sixth project language file for this project. |
-| 🔨️ [/PROJECT_LANG_7.cfg](/PROJECT_LANG_7.cfg) | The seventh project language file for this project. |
-| 🔨️ [/PROJECT_LANG_7.ini](/PROJECT_LANG_7.ini) | The seventh project language file for this project. |
-| 🔨️ [/PROJECT_LANG_8.desktop](/PROJECT_LANG_8.desktop) | The eighth project language file for this project. |
-| 🔨️ [/PROJECT_LANG_9.json](/PROJECT_LANG_9.json) | The ninth project language file for this project. |
-| ⭐️ [/README.md](/README.md) | **The core [README.md](#README-MD) file for this project.** |
-| 📃️ [/REPOLIST.urll](/REPOLIST.urll) | A file that lists all of my repositories |
-| 📄️ [/REQUIREMENTS.txt](/REQUIREMENTS.txt) | Information on the requirements for installing this repository |
-| 📃️ [/ROOTFILES.base](/ROOTFILES.base) | A plain text view of all of the files and folders at the trunk/root of this repository |
-| ㊙️ [/SECRET.md](/SECRET.md) | Original text of the GitHub profile secret. |
-| 🛡️ [/SECURITY.md](/SECURITY.md) | Security information for this repository |
-| 🖼️ [/SeniorPhotoFullQuality.jpeg](/SeniorPhotoFullQuality.jpeg) | The full version of my senior photo, used as my profile picture. |
-| 🖼️ [/SponsorButton.png](/SponsorButton.png) | A graphical copy of the sponsor button for this project. |
-| 🈴️ [/TRANSLATION.md](/TRANSLATION.md) | Information on translating this project |
-| 🔨️ [/_config.yml](/_config.yml) | Jekyll configuration file for this repository |
-| 🔨️ [/desktop.ini](/desktop.ini) | Windows desktop entry file for this repository |
-| 🔨️ [/makefile.mk](/makefile.mk) | GNU Make build file for this repository |
-| 📃️ [/pull_request_template.md](/pull_request_template.md) | Pull request template for this repository |
-
-</details> <!-- End of file tree !-->
-
----
-
-#### Footnotes
-
-<details open><summary><b>Click/tap here to expand/collapse the footnotes section</b></summary>
-
-###### README MD
-
-[The README file you are currently reading. (clicking this link will likely reload the page)](/README.md)
-
-</details> <!-- End of footnotes section !-->
-
----
-
-_End of explore this repository section._
+For now, it can be viewed [here instead](/Segments/Explore-this-repository/README.md)
 
 </details> <!-- End of Explore this Repository section !-->
 
@@ -7421,11 +6068,11 @@ _End of explore this repository section._
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `88 (2024, Thursday, April 4th at 04:09 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,827`
-- **Word count:** `070,076`
-- **Character count (with spaces):** `0,502,191 characters`
-- **Character count (without spaces)** `0,438,626 characters`
+- **File version:** `89 (2024, Friday, April 5th at 12:00 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,622`
+- **Word count:** `057,380`
+- **Character count (with spaces):** `0,414,929 characters`
+- **Character count (without spaces)** `0,362,296 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9612,7 +8259,6 @@ _End of explore this repository section._
 
 <details><summary><b lang="en">Version 88 (2024, Thursday, April 4th at 04:09 pm PST)</b></summary>
 
-
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > **Note** _This is the fourteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a lot more time to make than I expected, while only 6 listed changes were made. I gave myself a little over 2 hours today. The document is getting so long that it is no longer possible for me to preview while editing, making debugging harder._
@@ -9621,6 +8267,7 @@ _End of explore this repository section._
 
 - [x] Updated information on the remodel of this project
 - [x] Updated many sections with slight improvements visually, and also source code comments on the end of each `<details>` tag
+- [x] Added the `Size warning` section
 - [x] Updated the `Major projects` section
 - - [x] Updated the `Every section`
 - - - [x] Made dropdown links for project logos, project descriptions, project languages, and project listings.
@@ -9643,11 +8290,52 @@ _End of explore this repository section._
 
 ---
 
-<details><summary><b lang="en">Version 89 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 89 (2024, Friday, April 5th at 12:00 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fifteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 4th to 2024, April 5th. The document is getting so long that it is no longer possible for me to preview while editing, making debugging harder. It is a major issue, as now the README won't render, and I have been trying hard to fix it. I feel it may have to do with the number of `<details>` tags, and the complexity in rendering, but it doesn't make sense that it still does this after removing over 40 kilobytes, and bringing the `<details>` tag count down by over 50. I eventually found that around 36 details tags were not closed, and this was causing the issue._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `Major projects` section
+- - [x] Updated the `Other projects` section
+- - - [x] Extensive update to include all other projects (more links)
+- [x] Removed the `GitHub Interactions` section to ease page loading
+- [x] Removed the `Explore this repository` section to ease page loading
+- [x] Removed the `GitHub Skyline` section to ease page loading
+- [x] Removed the `Frequently Asked Questions (FAQ)` section to ease page loading
+- [x] Removed the `Browser Tabs` section to ease page loading
+- [x] Removed the `Administrative Units` section to ease page loading
+- [x] Removed the `Government` section to ease page loading
+- [x] Removed the `Workflows (seanpm2001)` section to ease page loading
+- [x] Removed the `Stances` section to ease page loading
+- [x] Removed the `GitHub Profile Template` section to ease page loading
+- [x] Removed the `Index` section to ease page loading
+- [x] Removed the `My timeline` section to ease page loading
+- [x] Removed the `Pets` section to ease page loading
+- [x] Modified the `Main Statistics` section to ease page loading
+- [x] Modified the `Administrator section` section to ease page loading
+- [x] Modified the `Guestbook` section to ease page loading
+- [x] Modified the `Language switch` section to ease page loading
+- [x] Modified the `Takeout Tuesdays` section to ease page loading
+- [x] Modified the `Model Project Information` section to ease page loading
+- [x] Modified the `Ukraine` section to ease page loading
+- [x] Modified the `Top` section to ease page loading
+- [x] Eventually found and fixed the bug that caused the rendering to fail (several `<details>` tags were not closed)
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 89
+- - [x] Removed blank entries for versions 103 to 176 to ease page loading
 - [ ] No other changes in version 89
 
 </details> <!-- End of V89 !-->
@@ -9797,831 +8485,19 @@ _End of explore this repository section._
 
 ---
 
-<details><summary><b lang="en">Version 103 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 103
-
-</details> <!-- End of V103 !-->
-
----
-
-<details><summary><b lang="en">Version 104 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 104
-
-</details> <!-- End of V104 !-->
-
----
-
-<details><summary><b lang="en">Version 105 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 105
-
-</details> <!-- End of V105 !-->
-
----
-
-<details><summary><b lang="en">Version 106 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 106
-
-</details> <!-- End of V106 !-->
-
----
-
-<details><summary><b lang="en">Version 107 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 107
-
-</details> <!-- End of V107 !-->
-
----
-
-<details><summary><b lang="en">Version 108 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 108
-
-</details> <!-- End of V108 !-->
-
----
-
-<details><summary><b lang="en">Version 109 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 109
-
-</details> <!-- End of V109 !-->
-
----
-
-<details><summary><b lang="en">Version 110 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 110
-
-</details> <!-- End of V110 !-->
-
----
-
-<details><summary><b lang="en">Version 111 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 111
-
-</details> <!-- End of V111 !-->
-
----
-
-<details><summary><b lang="en">Version 112 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 112
-
-</details> <!-- End of V112 !-->
-
----
-
-<details><summary><b lang="en">Version 113 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 113
-
-</details> <!-- End of V113 !-->
-
----
-
-<details><summary><b lang="en">Version 114 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 114
-
-</details> <!-- End of V114 !-->
-
----
-
-<details><summary><b lang="en">Version 115 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 115
-
-</details> <!-- End of V115 !-->
-
----
-
-<details><summary><b lang="en">Version 116 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 116
-
-</details> <!-- End of V116 !-->
-
----
-
-<details><summary><b lang="en">Version 117 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 117
-
-</details> <!-- End of V117 !-->
-
----
-
-<details><summary><b lang="en">Version 118 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 118
-
-</details> <!-- End of V118 !-->
-
----
-
-<details><summary><b lang="en">Version 119 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 119
-
-</details> <!-- End of V119 !-->
-
----
-
-<details><summary><b lang="en">Version 120 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 120
-
-</details> <!-- End of V120 !-->
-
----
-
-<details><summary><b lang="en">Version 121 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 121
-
-</details> <!-- End of V121 !-->
-
----
-
-<details><summary><b lang="en">Version 122 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 122
-
-</details> <!-- End of V122 !-->
-
----
-
-<details><summary><b lang="en">Version 123 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 123
-
-</details> <!-- End of V123 !-->
-
----
-
-<details><summary><b lang="en">Version 124 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 124
-
-</details> <!-- End of V124 !-->
-
----
-
-<details><summary><b lang="en">Version 125 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 125
-
-</details> <!-- End of V125 !-->
-
----
-
-<details><summary><b lang="en">Version 126 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 126
-
-</details> <!-- End of V126 !-->
-
----
-
-<details><summary><b lang="en">Version 127 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 127
-
-</details> <!-- End of V127 !-->
-
----
-
-<details><summary><b lang="en">Version 128 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 128
-
-</details> <!-- End of V128 !-->
-
----
-
-<details><summary><b lang="en">Version 129 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 129
-
-</details> <!-- End of V129 !-->
-
----
-
-<details><summary><b lang="en">Version 130 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 130
-
-</details> <!-- End of V130 !-->
-
----
-
-<details><summary><b lang="en">Version 131 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 131
-
-</details> <!-- End of V131 !-->
-
----
-
-<details><summary><b lang="en">Version 132 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 132
-
-</details> <!-- End of V132 !-->
-
----
-
-<details><summary><b lang="en">Version 133 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 133
-
-</details> <!-- End of V133 !-->
-
----
-
-<details><summary><b lang="en">Version 134 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 134
-
-</details> <!-- End of V134 !-->
-
----
-
-<details><summary><b lang="en">Version 135 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 135
-
-</details> <!-- End of V135 !-->
-
----
-
-<details><summary><b lang="en">Version 136 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 136
-
-</details> <!-- End of V136 !-->
-
----
-
-<details><summary><b lang="en">Version 137 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 137
-
-</details> <!-- End of V137 !-->
-
----
-
-<details><summary><b lang="en">Version 138 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 138
-
-</details> <!-- End of V138 !-->
-
----
-
-<details><summary><b lang="en">Version 139 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 139
-
-</details> <!-- End of V139 !-->
-
----
-
-<details><summary><b lang="en">Version 140 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 140
-
-</details> <!-- End of V140 !-->
-
----
-
-<details><summary><b lang="en">Version 141 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 141
-
-</details> <!-- End of V141 !-->
-
----
-
-<details><summary><b lang="en">Version 142 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 142
-
-</details> <!-- End of V142 !-->
-
----
-
-<details><summary><b lang="en">Version 143 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 143
-
-</details> <!-- End of V143 !-->
-
----
-
-<details><summary><b lang="en">Version 144 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 144
-
-</details> <!-- End of V144 !-->
-
----
-
-<details><summary><b lang="en">Version 145 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 145
-
-</details> <!-- End of V145 !-->
-
----
-
-<details><summary><b lang="en">Version 146 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 146
-
-</details> <!-- End of V146 !-->
-
----
-
-<details><summary><b lang="en">Version 147 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 147
-
-</details> <!-- End of V147 !-->
-
----
-
-<details><summary><b lang="en">Version 148 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 148
-
-</details> <!-- End of V148 !-->
-
----
-
-<details><summary><b lang="en">Version 149 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 149
-
-</details> <!-- End of V149 !-->
-
----
-
-<details><summary><b lang="en">Version 150 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 150
-
-</details> <!-- End of V150 !-->
-
----
-
-<details><summary><b lang="en">Version 151 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 151
-
-</details> <!-- End of V151 !-->
-
----
-
-<details><summary><b lang="en">Version 152 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 152
-
-</details> <!-- End of V152 !-->
-
----
-
-<details><summary><b lang="en">Version 153 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 153
-
-</details> <!-- End of V153 !-->
-
----
-
-<details><summary><b lang="en">Version 154 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 154
-
-</details> <!-- End of V154 !-->
-
----
-
-<details><summary><b lang="en">Version 155 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 155
-
-</details> <!-- End of V155 !-->
-
----
-
-<details><summary><b lang="en">Version 156 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 156
-
-</details> <!-- End of V156 !-->
-
----
-
-<details><summary><b lang="en">Version 157 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 157
-
-</details> <!-- End of V157 !-->
-
----
-
-<details><summary><b lang="en">Version 158 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 158
-
-</details> <!-- End of V158 !-->
-
----
-
-<details><summary><b lang="en">Version 159 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 159
-
-</details> <!-- End of V159 !-->
-
----
-
-<details><summary><b lang="en">Version 160 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 160
-
-</details> <!-- End of V160 !-->
-
----
-
-<details><summary><b lang="en">Version 161 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 161
-
-</details> <!-- End of V161 !-->
-
----
-
-<details><summary><b lang="en">Version 162 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 162
-
-</details> <!-- End of V162 !-->
-
----
-
-<details><summary><b lang="en">Version 163 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 163
-
-</details> <!-- End of V163 !-->
-
----
-
-<details><summary><b lang="en">Version 164 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 164
-
-</details> <!-- End of V164 !-->
-
----
-
-<details><summary><b lang="en">Version 165 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 165
-
-</details> <!-- End of V165 !-->
-
----
-
-<details><summary><b lang="en">Version 166 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 166
-
-</details> <!-- End of V166 !-->
-
----
-
-<details><summary><b lang="en">Version 167 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 167
-
-</details> <!-- End of V167 !-->
-
----
-
-<details><summary><b lang="en">Version 168 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 168
-
-</details> <!-- End of V168 !-->
-
----
-
-<details><summary><b lang="en">Version 169 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 169
-
-</details> <!-- End of V169 !-->
-
----
-
-<details><summary><b lang="en">Version 170 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 170
-
-</details> <!-- End of V170 !-->
-
----
-
-<details><summary><b lang="en">Version 171 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 171
-
-</details> <!-- End of V171 !-->
-
----
-
-<details><summary><b lang="en">Version 172 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 172
-
-</details> <!-- End of V172 !-->
-
----
-
-<details><summary><b lang="en">Version 173 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 173
-
-</details> <!-- End of V173 !-->
-
----
-
-<details><summary><b lang="en">Version 174 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 174
-
-</details> <!-- End of V174 !-->
-
----
-
-<details><summary><b lang="en">Version 175 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 175
-
-</details> <!-- End of V175 !-->
-
----
-
-<details><summary><b lang="en">Version 176 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
-- [ ] No other changes in version 176
-
-</details> <!-- End of V176 !-->
-
----
-
 _End of file version history_
 
 </details> <!-- End of file history section !-->
 
 ***
 
-# [🏗️ Remodel history](#-Remodel-history)
+## [🏗️ Remodel history](#-Remodel-history)
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 4th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-4th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 5th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-5th)
+
+<!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
 - [Link to remodel section (separate file)](/Remodels/2024/README.md)
 
@@ -10639,6 +8515,7 @@ _End of file version history_
 - - [Link to remodel section version 12 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md)
 - - [Link to remodel section version 13 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md)
 - - [Link to remodel section version 14 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md)
+- - [Link to remodel section version 15 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -10648,99 +8525,13 @@ _End of remodel history section._
 
 ***
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
 ## [🗣️ GitHub Interactions](#-GitHub-interactions)
 
-**Alt title:** `🗣️ Everyone who has interacted with me via issue discussion or pull request on GitHub since 2020 May 25th`
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-This section is obsolete, but is kept for historical purposes.
+This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
-<!-- > **Note** **The count comes out to 30 people and 1 bot, 28 people and 1 bot when not counting me** !-->
-
-<!-- This section may have to be moved in the future. !-->
-
-<!--
-When not me:
-1: @all-contributors (bot)
-2: @seanpm2001 (primary)
-3: @seanwallawalla (alt)
-!-->
-  
-[![People who have interacted with me here](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
-
-### [✨ Contributors](#-Contributors)
-
-<details open><summary><p><b>Click/tap here to expand/collapse the contributors list</b></p></summary>
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3"><img src="https://avatars.githubusercontent.com/u/65933340?v=4?s=100" width="100px;" alt="Sean P. Myrick V19.1.7.2"/><br /><sub><b>Sean P. Myrick V19.1.7.2</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=seanpm2001" title="Code">💻</a> <a href="https://github.com/seanpm2001/seanpm2001/commits?author=seanpm2001" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001" title="Project Management">📆</a> <a href="#security-seanpm2001" title="Security">🛡️</a> <a href="#data-seanpm2001" title="Data">🔣</a> <a href="#content-seanpm2001" title="Content">🖋</a> <a href="#design-seanpm2001" title="Design">🎨</a> <a href="#maintenance-seanpm2001" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=all-contributors" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://composed.nu/peterhil"><img src="https://avatars.githubusercontent.com/u/70079?v=4?s=100" width="100px;" alt="Peter H."/><br /><sub><b>Peter H.</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=peterhil" title="Code">💻</a> <a href="#design-peterhil" title="Design">🎨</a> <a href="#content-peterhil" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://gaurpeeyush.github.io/PeeyushGaur/"><img src="https://avatars.githubusercontent.com/u/81735768?v=4?s=100" width="100px;" alt="Peeyush Gaur"/><br /><sub><b>Peeyush Gaur</b></sub></a><br /><a href="#design-GaurPeeyush" title="Design">🎨</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/channa-my"><img src="https://avatars.githubusercontent.com/u/3336451?v=4?s=100" width="100px;" alt="channa-my"/><br /><sub><b>channa-my</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=channa-my" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/nihalkarne/"><img src="https://avatars.githubusercontent.com/u/34483500?v=4?s=100" width="100px;" alt="Nihal Karne"/><br /><sub><b>Nihal Karne</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=NihalKarne" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/demostanis"><img src="https://avatars.githubusercontent.com/u/40673815?v=4?s=100" width="100px;" alt="demostanis"/><br /><sub><b>demostanis</b></sub></a><br /><a href="#mentoring-demostanis" title="Mentoring">🧑‍🏫</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Struow"><img src="https://avatars.githubusercontent.com/u/61907178?v=4?s=100" width="100px;" alt="Struow"/><br /><sub><b>Struow</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/issues?q=author%3AStruow" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Davisogunsina"><img src="https://avatars.githubusercontent.com/u/87503255?v=4?s=100" width="100px;" alt="Davis Iyanuoluwa Ogunsina "/><br /><sub><b>Davis Iyanuoluwa Ogunsina </b></sub></a><br /><a href="#talk-Davisogunsina" title="Talks">📢</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MRBlazed90"><img src="https://avatars.githubusercontent.com/u/57635920?v=4?s=100" width="100px;" alt="MRBlazed90"/><br /><sub><b>MRBlazed90</b></sub></a><br /><a href="#question-MRBlazed90" title="Answering Questions">💬</a> <a href="#talk-MRBlazed90" title="Talks">📢</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://zirk.eu"><img src="https://avatars.githubusercontent.com/u/20053454?v=4?s=100" width="100px;" alt="Christian Chaux"/><br /><sub><b>Christian Chaux</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3AXwilarg" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Coriiander"><img src="https://avatars.githubusercontent.com/u/2283894?v=4?s=100" width="100px;" alt="Cor Schols"/><br /><sub><b>Cor Schols</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3ACoriiander" title="Reviewed Pull Requests">👀</a> <a href="#translation-Coriiander" title="Translation">🌍</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/uafr"><img src="https://avatars.githubusercontent.com/u/10113555?v=4?s=100" width="100px;" alt="Wolfgang Becker"/><br /><sub><b>Wolfgang Becker</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Auafr" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-uafr" title="Mentoring">🧑‍🏫</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ioistired"><img src="https://avatars.githubusercontent.com/u/538336?v=4?s=100" width="100px;" alt="ioistired"/><br /><sub><b>ioistired</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Aioistired" title="Reviewed Pull Requests">👀</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/torokati44"><img src="https://avatars.githubusercontent.com/u/288816?v=4?s=100" width="100px;" alt="TÖRÖK Attila"/><br /><sub><b>TÖRÖK Attila</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Atorokati44" title="Reviewed Pull Requests">👀</a> <a href="#talk-torokati44" title="Talks">📢</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/krikienoid"><img src="https://avatars.githubusercontent.com/u/8528227?v=4?s=100" width="100px;" alt="krikienoid"/><br /><sub><b>krikienoid</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Akrikienoid" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://robwu.nl/"><img src="https://avatars.githubusercontent.com/u/1365071?v=4?s=100" width="100px;" alt="Rob Wu"/><br /><sub><b>Rob Wu</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3ARob--W" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-Rob--W" title="Mentoring">🧑‍🏫</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/caitmuenster"><img src="https://avatars.githubusercontent.com/u/23342476?v=4?s=100" width="100px;" alt="Caitlin Neiman"/><br /><sub><b>Caitlin Neiman</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=caitmuenster" title="Documentation">📖</a> <a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Acaitmuenster" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-caitmuenster" title="Mentoring">🧑‍🏫</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/madsmtm"><img src="https://avatars.githubusercontent.com/u/10577181?v=4?s=100" width="100px;" alt="Mads Marquart"/><br /><sub><b>Mads Marquart</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Amadsmtm" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kmeisthax"><img src="https://avatars.githubusercontent.com/u/108736?v=4?s=100" width="100px;" alt="kmeisthax"/><br /><sub><b>kmeisthax</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Akmeisthax" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-kmeisthax" title="Mentoring">🧑‍🏫</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://tilde.town/~herschel"><img src="https://avatars.githubusercontent.com/u/36278?v=4?s=100" width="100px;" alt="Mike Welsh"/><br /><sub><b>Mike Welsh</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3AHerschel" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-Herschel" title="Mentoring">🧑‍🏫</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.kaico.biz"><img src="https://avatars.githubusercontent.com/u/4155390?v=4?s=100" width="100px;" alt="kai wuffy"/><br /><sub><b>kai wuffy</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Akaiwulf" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-kaiwulf" title="Mentoring">🧑‍🏫</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/stavpup"><img src="https://avatars.githubusercontent.com/u/10577035?v=4?s=100" width="100px;" alt="stavpup"/><br /><sub><b>stavpup</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Astavpup" title="Reviewed Pull Requests">👀</a> <a href="#question-stavpup" title="Answering Questions">💬</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lindsmy"><img src="https://avatars.githubusercontent.com/u/81666350?v=4?s=100" width="100px;" alt="lindsmy"/><br /><sub><b>lindsmy</b></sub></a><br /><a href="#projectManagement-lindsmy" title="Project Management">📆</a> <a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Alindsmy" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/chuckchuck2007"><img src="https://avatars.githubusercontent.com/u/74276899?v=4?s=100" width="100px;" alt="chuckchuck2007"/><br /><sub><b>chuckchuck2007</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Achuckchuck2007" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/memewallawalla"><img src="https://avatars.githubusercontent.com/u/74578460?v=4?s=100" width="100px;" alt="memewallawalla"/><br /><sub><b>memewallawalla</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Amemewallawalla" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/inverno4"><img src="https://avatars.githubusercontent.com/u/74582154?v=4?s=100" width="100px;" alt="inverno4"/><br /><sub><b>inverno4</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Ainverno4" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/seanpm2001/seanpm2001"><img src="https://avatars.githubusercontent.com/u/71748021?v=4?s=100" width="100px;" alt="Seanpm2001 Alt account"/><br /><sub><b>Seanpm2001 Alt account</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=seanwallawalla" title="Code">💻</a> <a href="https://github.com/seanpm2001/seanpm2001/commits?author=seanwallawalla" title="Documentation">📖</a> <a href="#projectManagement-seanwallawalla" title="Project Management">📆</a> <a href="#security-seanwallawalla" title="Security">🛡️</a> <a href="#data-seanwallawalla" title="Data">🔣</a> <a href="#content-seanwallawalla" title="Content">🖋</a> <a href="#design-seanwallawalla" title="Design">🎨</a> <a href="#maintenance-seanwallawalla" title="Maintenance">🚧</a> <a href="#ideas-seanwallawalla" title="Ideas, Planning, & Feedback">🤔</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gamer191"><img src="https://avatars.githubusercontent.com/u/83270075?v=4?s=100" width="100px;" alt="gamer191"/><br /><sub><b>gamer191</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=gamer191" title="Documentation">📖</a> <a href="https://github.com/seanpm2001/seanpm2001/issues?q=author%3Agamer191" title="Bug reports">🐛</a> <a href="#mentoring-gamer191" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/seanpm2001/seanpm2001/pulls?q=is%3Apr+reviewed-by%3Agamer191" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/qamberhasnain/"><img src="https://avatars.githubusercontent.com/u/63412921?v=4?s=100" width="100px;" alt="Qamber Hasnain"/><br /><sub><b>Qamber Hasnain</b></sub></a><br /><a href="#design-Qamberhasnain" title="Design">🎨</a> <a href="#content-Qamberhasnain" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://indatawetrust.github.io"><img src="https://avatars.githubusercontent.com/u/6845298?v=4?s=100" width="100px;" alt="Ahmet Simsek"/><br /><sub><b>Ahmet Simsek</b></sub></a><br /><a href="#maintenance-indatawetrust" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Tim79000"><img src="https://avatars.githubusercontent.com/u/100736284?v=4?s=100" width="100px;" alt="tim79000"/><br /><sub><b>tim79000</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/issues?q=author%3Atim79000" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ckp95"><img src="https://avatars.githubusercontent.com/u/43073868?v=4?s=100" width="100px;" alt="ckp95"/><br /><sub><b>ckp95</b></sub></a><br /><a href="#talk-ckp95" title="Talks">📢</a> <a href="#question-ckp95" title="Answering Questions">💬</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JustAnotherArchivist"><img src="https://avatars.githubusercontent.com/u/29556373?v=4?s=100" width="100px;" alt="JustAnotherArchivist"/><br /><sub><b>JustAnotherArchivist</b></sub></a><br /><a href="#talk-JustAnotherArchivist" title="Talks">📢</a> <a href="#question-JustAnotherArchivist" title="Answering Questions">💬</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mani-1436"><img src="https://avatars.githubusercontent.com/u/127879823?v=4?s=100" width="100px;" alt="Mani-1436"/><br /><sub><b>Mani-1436</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=Mani-1436" title="Code">💻</a> <a href="#content-Mani-1436" title="Content">🖋</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BTCLaravel"><img src="https://avatars.githubusercontent.com/u/125593588?v=4?s=100" width="100px;" alt="BTCLaravel"/><br /><sub><b>BTCLaravel</b></sub></a><br /><a href="https://github.com/seanpm2001/seanpm2001/commits?author=BTCLaravel" title="Code">💻</a> <a href="#maintenance-BTCLaravel" title="Maintenance">🚧</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-</details> <!-- End of contributors section !-->
-
----
+For now, it can be viewed [here instead](/Segments/GitHub-Interactions/README.md)
 
 _End of GitHub interactions section_
 
@@ -10778,7 +8569,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `4096`
 - - **Current emoji count:** `~1898`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V88: `509,783` / `524,288` (`097.233%`))
+- - **Current character count (in bytes):** (as of V89: `421,169` / `524,288` (`080.331%`))
 
 > Memory
 
@@ -10820,6 +8611,10 @@ You have reached the end of this page.
 ### [🔚️ End of file](#-End-of-file)
 
 ###### [🔚️ EOF](#-EOF)
+
+| :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
+|---|---|
+| **Version 89** | _2024, Friday, April 5th_ |
 
 </details> <!-- End of profile README !-->
 
