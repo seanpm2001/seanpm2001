@@ -1,3 +1,4 @@
+
 ***
 
 # [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
@@ -6,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 14 - 2024, Thursday, April 4th` |
+| `Beta 15 - 2024, Friday, April 5th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -17,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 13 days down, 51 days to go, as of 2024, Thursday, April 4th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 14 days down, 50 days to go, as of 2024, Friday, April 5th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -57,7 +58,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
 | [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
 | [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
-| Beta 15 | Coming soon | 14 |
+| [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
 | Beta 16 | Coming soon | 15 |
 | Beta 17 | Coming soon | 16 |
 | Beta 18 | Coming soon | 17 |
@@ -133,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `38` **/** `162` **tasks** _(023.46%)_ |
-| _as of 2024, Thursday, April 4th_ |
+| `40` **/** `164` **tasks** _(024.40%)_ |
+| _as of 2024, Friday, April 5th_ |
 
-- **Current tasks to do (38 tasks, as of 2024, Thursday, April 4th)**
+- **Current tasks to do (39 tasks, as of 2024, Friday, April 5th)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -179,6 +180,8 @@ Replace all Markdown style images with HTML style images (WIP)
 Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out))
 Fix section: Major project: SNU
 Fix section: Major project: Voice Synthesis
+Fix rendering issue
+Add a link to the segment file for each section
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -195,10 +198,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `124` **/** `162` **tasks** _(076.54%)_ |
-| _as of 2024, Thursday, April 4th_ |
+| `124` **/** `164` **tasks** _(075.60%)_ |
+| _as of 2024, Friday, April 5th_ |
 
-- **Implemented so far (123 tasks, as of 2024, Thursday, April 4th)**
+- **Implemented so far (124 tasks, as of 2024, Friday, April 5th)**
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -381,6 +384,8 @@ They have been implemented.
 _End of remodel section._
 
 </details> <!-- End of remodel section !-->
+
+- [`View this section separately`](/Segments/Remodel-in-progress/README.md)
 
 ---
 
