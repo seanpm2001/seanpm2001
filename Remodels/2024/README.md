@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 15 - 2024, Friday, April 5th` |
+| `Beta 16 - 2024, Saturday, April 6th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 14 days down, 50 days to go, as of 2024, Friday, April 5th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 16 days down, 48/49 days to go, as of 2024, Saturday, April 6th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -27,7 +27,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📈️ **Timeline** 📉️ |
 |---------------------|
 
-| 0️⃣️3️⃣️ 2024 March |
+| 0️⃣️3️⃣️ **2024 March** |
 |---|
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
@@ -47,7 +47,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 </details> <!-- End of 2024 March release timeline table !-->
 
-| 0️⃣️4️⃣️ 2024 April |
+| 0️⃣️4️⃣️ ***2024 April*** |
 |---|
 
 <details open><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
@@ -59,7 +59,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
 | [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
 | [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
-| Beta 16 | Coming soon | 15 |
+| [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
 | Beta 17 | Coming soon | 16 |
 | Beta 18 | Coming soon | 17 |
 | Beta 19 | Coming soon | 18 |
@@ -87,7 +87,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 </details> <!-- End of 2024 April release timeline table !-->
 
-| 0️⃣️5️⃣️ 2024 May |
+| 0️⃣️5️⃣️ **2024 May** |
 |---|
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
@@ -134,10 +134,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `40` **/** `164` **tasks** _(024.40%)_ |
-| _as of 2024, Friday, April 5th_ |
+| `39` **/** `204` **tasks** _(019.11%)_ |
+| _as of 2024, Saturday, April 6th_ |
 
-- **Current tasks to do (39 tasks, as of 2024, Friday, April 5th)**
+- **Current tasks to do (39 tasks, as of 2024, Saturday, April 6th)**
+- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -177,11 +178,10 @@ Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
-Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out))
 Fix section: Major project: SNU
 Fix section: Major project: Voice Synthesis
-Fix rendering issue
 Add a link to the segment file for each section
+Add note about geography interests
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -198,10 +198,11 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `124` **/** `164` **tasks** _(075.60%)_ |
-| _as of 2024, Friday, April 5th_ |
+| `165` **/** `204` **tasks** _(080.89%)_ |
+| _as of 2024, Saturday, April 6th_ |
 
-- **Implemented so far (124 tasks, as of 2024, Friday, April 5th)**
+- **Tasks implemented so far (165 tasks, as of 2024, Saturday, April 6th)**
+- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -369,6 +370,8 @@ Make all language sections in major projects sections into dropdown sections
 Make all general information sections in major projects sections into dropdown sections
 Make all repository listing sections in major projects sections into dropdown sections
 Add comment markers to all details tags
+Fix rendering issue (2024.04.05)
+Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out)) finished much earlier than planned
 ```
 
 </details> <!-- End of completed remodel goals section !-->
