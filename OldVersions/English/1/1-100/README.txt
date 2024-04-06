@@ -1,18 +1,11 @@
 
 ***
 
-<details open><summary><p><b>🔻️[Collapse this entire page] 🔻️</b></p></summary>
+<details open><summary><p><b>↕️ [Expand/collapse this entire page (seanpm2001/seanpm2001)] ↕️</b></p></summary>
 
 ###### [🔝️ Top](#-Top)
 
 - [`View this section separately`](/Segments/Top/README.md)
-
-<!--
-| [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
-|---|
-| Version ? |
-| ?DATE? |
-!-->
 
 # [@Seanpm2001](https://github.com/seanpm2001/) on GitHub
 
@@ -49,23 +42,6 @@ For now, it can be viewed [here instead](/Segments/Main-Statistics/README.md)
 
 ***
 
-# [💣️ Size warning](#-Size-warning)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-| <img src="/Graphics/4-Year-Anniversary-Update/Errors/4YearAnniversaryUpdate_Beta14_Issue.png" alt="This repository is taking too long to load image" width="800" height="140"> |
-|---|
-| **This issue started with beta 14 of the 4 year anniversary update** |
-
-- [2024.04.04] On 2024, Thursday, April 4th, the document surpassed 500 kilobytes in size. The file no longer is previewable on GitHub while editing, making debugging a lot harder. This document is close to reaching the GitHub 524.288 kilobyte size limit, so the bottom segments of the page may no longer load.
-- [2024.04.05] The amount has dropped down with the 2024, Friday, April 5th update, but I still can't get the document to render now
-
-- [`View this section separately`](/Segments/Size-warning/README.md)
-
-</details> <!-- End of size warning section !-->
-
-***
-
 # [🛑️ Administrator section](#-Administrator-section)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -83,6 +59,24 @@ _Further instructions not yet available._
 - [`View this section separately`](/Segments/Administrator-section/README.md)
 
 </details> <!-- End of Administrator section !-->
+
+***
+
+# [💣️ Size warning](#-Size-warning)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/4-Year-Anniversary-Update/Errors/4YearAnniversaryUpdate_Beta14_Issue.png" alt="This repository is taking too long to load image" width="800" height="140"> |
+|---|
+| **This issue started with beta 14 of the 4 year anniversary update, and was fixed with beta 15** |
+
+- [2024.04.04] On 2024, Thursday, April 4th, the document surpassed 500 kilobytes in size. The file no longer is previewable on GitHub while editing, making debugging a lot harder. This document is close to reaching the GitHub 524.288 kilobyte size limit, so the bottom segments of the page may no longer load.
+- [2024.04.05] The amount has dropped down with the 2024, Friday, April 5th update, but I still can't get the document to render now
+- [2024.04.06] The file is back to normal standing, and the rendering issue has been fixed. I am still working on keeping the file under 524,289 bytes
+
+- [`View this section separately`](/Segments/Size-warning/README.md)
+
+</details> <!-- End of size warning section !-->
 
 ***
 
@@ -265,7 +259,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 15 - 2024, Friday, April 5th` |
+| `Beta 16 - 2024, Saturday, April 6th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -276,7 +270,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 14 days down, 50 days to go, as of 2024, Friday, April 5th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 16 days down, 48/49 days to go, as of 2024, Saturday, April 6th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -285,7 +279,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📈️ **Timeline** 📉️ |
 |---------------------|
 
-| 0️⃣️3️⃣️ 2024 March |
+| 0️⃣️3️⃣️ **2024 March** |
 |---|
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
@@ -305,7 +299,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 </details> <!-- End of 2024 March release timeline table !-->
 
-| 0️⃣️4️⃣️ 2024 April |
+| 0️⃣️4️⃣️ ***2024 April*** |
 |---|
 
 <details open><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
@@ -317,7 +311,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
 | [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
 | [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
-| Beta 16 | Coming soon | 15 |
+| [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
 | Beta 17 | Coming soon | 16 |
 | Beta 18 | Coming soon | 17 |
 | Beta 19 | Coming soon | 18 |
@@ -345,7 +339,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 </details> <!-- End of 2024 April release timeline table !-->
 
-| 0️⃣️5️⃣️ 2024 May |
+| 0️⃣️5️⃣️ **2024 May** |
 |---|
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
@@ -392,10 +386,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `40` **/** `164` **tasks** _(024.40%)_ |
-| _as of 2024, Friday, April 5th_ |
+| `39` **/** `204` **tasks** _(019.11%)_ |
+| _as of 2024, Saturday, April 6th_ |
 
-- **Current tasks to do (39 tasks, as of 2024, Friday, April 5th)**
+- **Current tasks to do (39 tasks, as of 2024, Saturday, April 6th)**
+- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -435,11 +430,10 @@ Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
-Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out))
 Fix section: Major project: SNU
 Fix section: Major project: Voice Synthesis
-Fix rendering issue
 Add a link to the segment file for each section
+Add note about geography interests
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -456,10 +450,11 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `124` **/** `164` **tasks** _(075.60%)_ |
-| _as of 2024, Friday, April 5th_ |
+| `165` **/** `204` **tasks** _(080.89%)_ |
+| _as of 2024, Saturday, April 6th_ |
 
-- **Implemented so far (124 tasks, as of 2024, Friday, April 5th)**
+- **Tasks implemented so far (165 tasks, as of 2024, Saturday, April 6th)**
+- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -627,6 +622,8 @@ Make all language sections in major projects sections into dropdown sections
 Make all general information sections in major projects sections into dropdown sections
 Make all repository listing sections in major projects sections into dropdown sections
 Add comment markers to all details tags
+Fix rendering issue (2024.04.05)
+Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out)) finished much earlier than planned
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -2058,9 +2055,7 @@ End of GitHub social statistics
 
 _No other statistics sections available._
 
-</details>
-
-</details>
+</details> <!-- End of statistics section !-->
 
 ***
 
@@ -2343,6 +2338,10 @@ My major projects are sorted into collectives. As of 2024, Friday, March 29th (t
 Collectives are divided down by major projects, which are then divided down by project groups, then by repositories.
 
 My major projects include:
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Collectives (13)**
 
 ---
 
@@ -4685,6 +4684,11 @@ To add:
 - [x] BathhouseOS
 - [ ] Other
 
+Currently being decided on:
+
+- [ ] LennyOS
+- [ ] VRedroomOS
+
 _End of Operating System Collective._
 
 </details> <!-- End of Operating Systems Collective !-->
@@ -5367,28 +5371,29 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | [:octocat: `Halloween Assistant`](https://github.com/seanpm2001/Halloween-Assistant/) | [:octocat: `Turkey Stories`](https://github.com/seanpm2001/Turkey-Stories/) | [:octocat: `Santa Software Suite`](https://github.com/seanpm2001/Santa_Software_Suite_Core/) | [:octocat: `NimbleBit Glossary`](https://github.com/seanpm2001/NimbleBit-Glossary/) | [:octocat: `Ratiyo`](https://github.com/seanpm2001/Ratiyo/) | [:octocat: `Profa or Antifa`](https://github.com/seanpm2001/Profa_Or_Antifa/) |
 | [:octocat: `uDonate`](https://github.com/seanpm2001/uDonate/) | [:octocat: `4096`](https://github.com/seanpm2001/4096/) | [:octocat: `MadLibby`](https://github.com/seanpm2001/MadLibby/) | [:octocat: `Goodbye World`](https://github.com/seanpm2001/Goodbye-World/) | [:octocat: `Dronemap`](https://github.com/seanpm2001/DroneMap/) | [:octocat: `Password Generator Ultimate`](https://github.com/seanpm2001/Password_Generator_Ultimate/) |
 | [:octocat: `SVG Video`](https://github.com/seanpm2001/SVG_Video/) | [:octocat: `BluPhoneOS`](https://github.com/seanpm2001/BluPhoneOS/) | [:octocat: `GK-Keyboard`](https://github.com/seanpm2001/GK-Keyboard/) | [:octocat: `Computer cursor tech support`](https://github.com/seanpm2001/Computer-cursor-tech-support/) | [:octocat: `Self Replicating Machine Research`](https://github.com/seanpm2001/Self-replicating-machine-research/) | [:octocat: `Snapshot Version Control System`](https://github.com/seanpm2001/Snapshot-version-control-system/) |
-| The-Dystopian-Dictionary | Git-image | TuxBot Operating System | OS Census | Senior Design | IGNORE file |
-| Boilerplate Cabinet | NexxFetch | Count Mausoleum | Project1001 | Fortran fortress | Input Police |
-| README Desktop LIBrary | ShareBox LIBrary | Easy-E IDE | Zag | The Bandwidth Band | Camera Privacy Specification |
-| ARCHIVE My robot friend | Setup-Go2004-GitHubAction | Vim Autoscroller | Kommunism | SlideXMagic | AcroSlideX |
-| r-seanpm2001 | Scarlet Oven | API-2001 | HerdSpeak | The Graeyt Macro | MalNotch |
-| FloweredNotch | Notchware | DIFFicult | VirtualBox Plus Plus | Firefox Version Number Fix | TclTorture |
-| FireDiamondSuite | SmartZIP | ls.txt | CMilk | Java the Hutt | AZWS Encryption |
-| OpenGovernment | Sbubbway Generator | Pen People | Polyworks SquareOff | Petland | Oh Hi Markdown |
-| SearchKX | Rasple | BerryBoot | Fedorable | iWill | OpenPassport |
-| Outside | Domainiac | Er | AutoPeer | WarmWelcome | Sugar Shop  |
-| HyperSlice | 3FakeIM | WYII | Twit-Tac-Toe | LennyOS | Techlaration |
-| TrueTorrent | Slaveworks | SWave Starter | MarkDownDownDown | KeyStroke | Perl Harbor |
-| PYVM | Pri-Fiy | NetM | VOI Manor | Stock Elevator LIbrary | ChargeFX |
-| Virtual VHS | Rick | Cottontree LIBrary | SeansOSDat | Mobile Potions | MicroMiniwave |
-| PhoneHome | SafeT | TrueCalm | Team8 Collection | CrossCompatXU | CH3-c-K |
-| ScreenTeX | LinkLax | 3DE | V7Tags | SOurceBase | Browsniffica |
-| Talla Browser | GitHubby | NimbleBook | NimbleByte | TrueEEG | UShortcut Pro |
-| Ultra Image Studio | OuterVM | V-Reshot | DOS-Buddy | VirtualHome | FBI Roleplay Simulator |
-| LinFsck | Kevin Macleod Software Radio | Linux Marketshare Ping Tool | PVZ Custom | IE6 flavored markdown | Cyborg System Monitor |
-| Unblur tool | UnSaaSS | UnIoT | 2001 project | SeansOSData | Chaccaron Maccaron type |
-| Public Media Gallery | meme generator ultimate | Jscribe | UltraSwitch | RegAggregate | SafeWINE |
-| WinWalla | SDE MobileServer | HT Messenger | GitMan | Nuclear ad bombs specification | **Some other projects aren't listed yet** |
+| [:octocat: `The Dystopian Dictionary`](https://github.com/seanpm2001/The-Dystopian-Dictionary/) | [:octocat: `Git-image`](https://github.com/seanpm2001/Git-image/) | [:octocat: `TuxBot Operating System`](https://github.com/seanpm2001/TuxBot-OperatingSystem/) | [:octocat: `OS Census`](https://github.com/seanpm2001/OS_Census/) | [:octocat: `Senior Design`](https://github.com/seanpm2001/Senior_Design/) | [:octocat: `IGNORE file`](https://github.com/seanpm2001/IGNORE_File/) |
+| [:octocat: `Boilerplate Cabinet`](https://github.com/seanpm2001/Boilerplate-cabinet/) | [:octocat: `NexxFetch`](https://github.com/seanpm2001/NexxFetch/) | [:octocat: `Count Mausoleum`](https://github.com/seanpm2001/CountMausoleum/) | [:octocat: `Project1001`](https://github.com/seanpm2001/Project_1001/) | [:octocat: `Fortran fortress`](https://github.com/seanpm2001/Fortran-fortress/) | [:octocat: `Input Police`](https://github.com/seanpm2001/Input-police/) |
+| [:octocat: `README Desktop LIBrary`](https://github.com/seanpm2001/README-Desktop-LIBrary/) | [:octocat: `ShareBox LIBrary`](https://github.com/seanpm2001/ShareBoxLIBrary/) | [:octocat: `Easy-E IDE`](https://github.com/seanpm2001/Easy-E-IDE/) | [:octocat: `Zag`](https://github.com/seanpm2001/Zag/) | [:octocat: `The Bandwidth Band`](https://github.com/seanpm2001/The_Bandwidth_Band/) | [:octocat: `Camera Privacy Specification`](https://github.com/seanpm2001/Camera-privacy-specification/) |
+| [:octocat: `ARCHIVE My robot friend`](https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend/) | [:octocat: `Setup-Go2004-GitHubAction`](https://github.com/seanpm2001/Setup-Go2004-GitHubAction/) | [:octocat: `Vim Autoscroller`](https://github.com/seanpm2001/Vim-Autoscroller/) | [:octocat: `Kommunism`](https://github.com/seanpm2001/Kommunism/) | [:octocat: `SlideXMagic`](https://github.com/seanpm2001/SlideXMagic/) | [:octocat: `AcroSlideX LIBrary`](https://github.com/seanpm2001/AcroSlideXLIBrary/) |
+| [:octocat: `r/seanpm2001`](https://github.com/seanpm2001/r-seanpm2001/) | [:octocat: `Scarlet Oven`](https://github.com/seanpm2001/Scarlet-Oven/) | [:octocat: `API-2001`](https://github.com/seanpm2001/API-2001/) | [:octocat: `HerdSpeak`](https://github.com/seanpm2001/HerdSpeak/) | [:octocat: `The Graeyt Macro`](https://github.com/seanpm2001/The-Graeyt-Macro/) | [:octocat: `MalNotch`](https://github.com/seanpm2001/MalNotch/) |
+| [:octocat: `FloweredNotch`](https://github.com/seanpm2001/FloweredNotch/) | [:octocat: `Notchware`](https://github.com/seanpm2001/Notchware/) | [:octocat: `DIFFicult`](https://github.com/seanpm2001/DIFFicult/) | [:octocat: `VirtualBox Plus Plus`](https://github.com/seanpm2001/VirtualBox_PlusPlus/) | [:octocat: `Firefox Version Number Fix`](https://github.com/seanpm2001/Firefox-version-number-fix/) | [:octocat: `TclTorture`](https://github.com/seanpm2001/TclTorture/) |
+| [:octocat: `FireDiamondSuite`](https://github.com/seanpm2001/FireDiamondSuite/) | [:octocat: `SmartZIP`](https://github.com/seanpm2001/SmartZIP/) | [:octocat: `ls.txt`](https://github.com/seanpm2001/ls.txt/) | [:octocat: `CMilk`](https://github.com/seanpm2001/CMilk/) | [:octocat: `Java the Hutt`](https://github.com/seanpm2001/Java_The_Hutt/) | [:octocat: `AZWS Encryption`](https://github.com/seanpm2001/AZWS_Encryption/) |
+| [:octocat: `OpenGovernment`](https://github.com/seanpm2001/OpenGov/) | [:octocat: `Sbubbway Generator`](https://github.com/seanpm2001/Sbubbway-generator/) | [:octocat: `Pen People`](https://github.com/seanpm2001/Pen-People/) | [:octocat: `Polyworks SquareOff`](https://github.com/seanpm2001/Polyworks-SquareOff/) | [:octocat: `Petland`](https://github.com/seanpm2001/PetLand-Software/) | [:octocat: `Oh Hi Markdown`](https://github.com/seanpm2001/Oh_Hi_MarkDown/) |
+| [:octocat: `SearchKX`](https://github.com/seanpm2001/SearchKX/) | [:octocat: `Rasple`](https://github.com/seanpm2001/Rasple/) | [:octocat: `BerryBoot`](https://github.com/seanpm2001/BerryBoot/) | [:octocat: `Fedorable`](https://github.com/seanpm2001/Fedorable/) | [:octocat: `iWill`](https://github.com/seanpm2001/iWill/) | [:octocat: `OpenPassport`](https://github.com/seanpm2001/OpenPassport/) |
+| [:octocat: `Outside`](https://github.com/seanpm2001/Outside/) | [:octocat: `Domainiac`](https://github.com/seanpm2001/Domainiac/) | [:octocat: `Er`](https://github.com/seanpm2001/Er/) | [:octocat: `AutoPeer`](https://github.com/seanpm2001/AutoPeer/) | [:octocat: `WarmWelcome`](https://github.com/seanpm2001/WarmWelcome/) | [:octocat: `Sugar Shop`](https://github.com/seanpm2001/Sugar_Shop/)  |
+| [:octocat: `HyperSlice`](https://github.com/seanpm2001/HyperSlice/) | [:octocat: `3FakeIM`](https://github.com/seanpm2001/3FakeIM/) | [:octocat: `WYII`](https://github.com/seanpm2001/WYII/) | [:octocat: `Twit-Tac-Toe`](https://github.com/seanpm2001/Twit-Tac-Toe/) | [:octocat: `LennyOS`](https://github.com/seanpm2001/LennyOS/) | [:octocat: `Techlaration`](https://github.com/seanpm2001/Techlaration/) |
+| [:octocat: `TrueTorrent`](https://github.com/seanpm2001/TrueTorrent/) | [:octocat: `Slaveworks`](https://github.com/seanpm2001/SlaveWorks/) | [:octocat: `SWave Starter`](https://github.com/seanpm2001/SWave_Starter/) | [:octocat: `MarkDownDownDown`](https://github.com/seanpm2001/MarkDownDownDown/) | [:octocat: `KeyStroke`](https://github.com/seanpm2001/KeyStroke/) | [:octocat: `Perl Harbor`](https://github.com/seanpm2001/Perl_Harbor/) |
+| [:octocat: `PYVM`](https://github.com/seanpm2001/PYVM/) | [:octocat: `Pri-Fiy`](https://github.com/seanpm2001/Pri-Fiy/) | [:octocat: `NetM`](https://github.com/seanpm2001/NetM/) | [:octocat: `VOI Manor`](https://github.com/seanpm2001/VOI-Manor/) | [:octocat: `Stock Elevator LIBrary`](https://github.com/seanpm2001/Stock-Elevator-LIBrary/) | [:octocat: `ChargeFX`](https://github.com/seanpm2001/ChargeFX/) |
+| [:octocat: `Virtual VHS`](https://github.com/seanpm2001/Virtual-VHS/) | [:octocat: `Rick`](https://github.com/seanpm2001/Rick/) | [:octocat: `Cottontree LIBrary`](https://github.com/seanpm2001/CottonTree-LIBrary/) | [:octocat: `SeansOSData`](https://github.com/seanpm2001/SeansOSData/) | [:octocat: `Mobile Potions`](https://github.com/seanpm2001/Mobile_Potions/) | [:octocat: `MicroMiniwave`](https://github.com/seanpm2001/-microMiniwave/) |
+| [:octocat: `PhoneHome`](https://github.com/seanpm2001/PhoneHome/) | [:octocat: `SafeT`](https://github.com/seanpm2001/SafeT/) | [:octocat: `TrueCalm`](https://github.com/seanpm2001/TrueCalm/) | [:octocat: `Team8 Collection`](https://github.com/seanpm2001/Team8_Collection/) | [:octocat: `CrossCompatXU`](https://github.com/seanpm2001/CrossCompatXU/) | [:octocat: `CH3-c-K`](https://github.com/seanpm2001/CH3-c-K/) |
+| [:octocat: `ScreenTeX`](https://github.com/seanpm2001/ScreenTeX/) | [:octocat: `LinkLax`](https://github.com/seanpm2001/LinkLax/) | [:octocat: `3DE`](https://github.com/seanpm2001/3DE/) | [:octocat: `V7Tags`](https://github.com/seanpm2001/V7Tags/) | [:octocat: `SourceBase`](https://github.com/seanpm2001/SourceBase/) | [:octocat: `Browsniffica`](https://github.com/seanpm2001/Browsniffica/) |
+| [:octocat: `Talla Browser`](https://github.com/seanpm2001/Talla-Browser/) | [:octocat: `GitHubby`](https://github.com/seanpm2001/GitHubby/) | [:octocat: `NimbleBook`](https://github.com/seanpm2001/NimbleBook/) | [:octocat: `NimbleByte`](https://github.com/seanpm2001/NimbleByte/) | [:octocat: `TrueEEG`](https://github.com/seanpm2001/TrueEEG/) | [:octocat: `UShortcut Pro`](https://github.com/seanpm2001/UShortcut_Pro/) |
+| [:octocat: `Ultra Image Studio`](https://github.com/seanpm2001/Ultra-Image-Studio/) | [:octocat: `OuterVM`](https://github.com/seanpm2001/OuterVM/) | [:octocat: `V-ReShot`](https://github.com/seanpm2001/V_ReShot/) | [:octocat: `DOS-Buddy`](https://github.com/seanpm2001/DOS-Buddy/) | [:octocat: `VirtualHome`](https://github.com/seanpm2001/VirtualHome/) | [:octocat: `FBI Roleplay Simulator`](https://github.com/seanpm2001/FBI_RoleplaySimulator/) |
+| [:octocat: `LinFsck`](https://github.com/seanpm2001/LinFsck/) | [:octocat: `Kevin Macleod Software Radio`](https://github.com/seanpm2001/Kevin-MacLeod_SoftwareRadioLIBrary/) | [:octocat: `Linux Marketshare Ping Tool`](https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool/) | [:octocat: `PVZ Custom`](https://github.com/seanpm2001/PVZ_Custom/) | [:octocat: `IE6 flavored markdown`](https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown/) | [:octocat: `Cyborg System Monitor`](https://github.com/seanpm2001/Cyborg-System-Monitor/) |
+| [:octocat: `Unblur tool`](https://github.com/seanpm2001/Unblur-tool/) | [:octocat: `UnSaaSS`](https://github.com/seanpm2001/UnSaaSS/) | [:octocat: `UnIoT`](https://github.com/seanpm2001/UnIoT/) | [:octocat: `2001 project`](https://github.com/seanpm2001/2001-Project/) | [:octocat: `Chaccaron Maccaron type`](https://github.com/seanpm2001/ChaccaronMaccaronType/) | [:octocat: `Public Media Gallery`](https://github.com/seanpm2001/Public-Media-Gallery/) |
+| [:octocat: `Meme Machine 2019`](https://github.com/seanpm2001/MemeMachine-2019/) | [:octocat: `Jscribe`](https://github.com/seanpm2001/JScribe/) | [:octocat: `UltraSwitch`](https://github.com/seanpm2001/UltraSwitch/) | [:octocat: `RegAggregate`](https://github.com/seanpm2001/RegAggregate/) | [:octocat: `SafeWINE`](https://github.com/seanpm2001/SafeWINE/) | [:octocat: `WinWalla`](https://github.com/seanpm2001/WinWalla/) |
+| [:octocat: `SDE MobileServer`](https://github.com/seanpm2001/SDE_MobileServer/) | [:octocat: `HT Messenger`](https://github.com/seanpm2001/HT-Messenger/) | [:octocat: `GitMan`](https://github.com/seanpm2001/GitMan/) | [:octovat: `Nuclear ad bombs specification`](https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/) | [:octocat: `Delerium`](https://github.com/seanpm2001/Delerium/) |
+| [:octocat: `B3`](https://github.com/seanpm2001/B3/) | [:octocat: `Mockerfile`](https://github.com/seanpm2001/Mockerfile/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of core repository list section for the major project: Other Projects section !-->
@@ -5419,14 +5424,14 @@ _End of collective listing._
 
 ## [🔑️ Key projects by megaproject category](#-Key-projects-by-megaproject-category)
 
+<details><summary>[Click/tap here to expand/collapse this list]</summary>
+	
 This is a sorted list of key projects by mega project categories.
 
 | ↕️ Move and merge request ↔️ |
 |---|
 | As of 2024, Thursday, April 4th, it has been proposed that this section be **merged** into the `Major projects` section |
 
-<details><summary>[Click/tap here to expand/collapse this list]</summary>
-	
 ***
 
 ### [🚫️ Degoogle-your-life project](#-DeGoogle-your-life-project)
@@ -5553,6 +5558,12 @@ This is a sorted list of key projects by mega project categories.
 
 ---
 
+_End of What I'm currently working on section._
+
+</details> <!-- End of What I'm currently working on !-->
+
+---
+
 ## [🌟️ Repository of the day (coming soon)](#-Repository-of-the-day--coming-soon-)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -5586,11 +5597,11 @@ These will be the featured repositories for the time being.
 
 </details> <!-- End of Repository of the day featured section !-->
 
-</details> <!-- End of Repository of the day section !-->
-
 ***
 
 _No other projects currently listed._
+
+</details> <!-- End of Repository of the day section !-->
 
 ***
 
@@ -6068,11 +6079,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `89 (2024, Friday, April 5th at 12:00 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,622`
-- **Word count:** `057,380`
-- **Character count (with spaces):** `0,414,929 characters`
-- **Character count (without spaces)** `0,362,296 characters`
+- **File version:** `90 (2024, Saturday, April 6th at 01:15 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,661`
+- **Word count:** `058,597`
+- **Character count (with spaces):** `0,424,942 characters`
+- **Character count (without spaces)** `0,371,826 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8342,11 +8353,31 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 90 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 90 (2024, Saturday, April 6th at 01:15 pm PST)</b></summary>
+
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the sixteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 5th to 2024, April 6th. Further formatting issues were fixed, and new data is included._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the header
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `Major projects` section
+- - [x] Updated the `Other projects` section
+- - - [x] Fixed dropdown issues
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 90
 - [ ] No other changes in version 90
 
 </details> <!-- End of V90 !-->
@@ -8495,7 +8526,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 5th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-5th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 6th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-6th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8516,6 +8547,7 @@ _End of file version history_
 - - [Link to remodel section version 13 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md)
 - - [Link to remodel section version 14 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md)
 - - [Link to remodel section version 15 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md)
+- - [Link to remodel section version 16 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8569,7 +8601,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `4096`
 - - **Current emoji count:** `~1898`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V89: `421,169` / `524,288` (`080.331%`))
+- - **Current character count (in bytes):** (as of V90: `431,192` / `524,288` (`082.243%`))
 
 > Memory
 
@@ -8614,7 +8646,14 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 89** | _2024, Friday, April 5th_ |
+| **Version 90** | _2024, Saturday, April 6th_ |
+
+<!--
+| [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
+|---|
+| Version ? |
+| ?DATE? |
+!-->
 
 </details> <!-- End of profile README !-->
 
