@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 16 - 2024, Saturday, April 6th` |
+| `Beta 17 - 2024, Sunday, April 7th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 16 days down, 48/49 days to go, as of 2024, Saturday, April 6th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 17 days down, 47/48 days to go, as of 2024, Sunday, April 7th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -60,7 +60,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
 | [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
 | [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
-| Beta 17 | Coming soon | 16 |
+| [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
 | Beta 18 | Coming soon | 17 |
 | Beta 19 | Coming soon | 18 |
 | Beta 20 | Coming soon | 19 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `39` **/** `204` **tasks** _(019.11%)_ |
-| _as of 2024, Saturday, April 6th_ |
+| `43` **/** `216` **tasks** _(019.90%)_ |
+| _as of 2024, Sunday, April 7th_ |
 
-- **Current tasks to do (39 tasks, as of 2024, Saturday, April 6th)**
+- **Current tasks to do (43 tasks, as of 2024, Sunday, April 7th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -178,10 +178,14 @@ Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
-Fix section: Major project: SNU
-Fix section: Major project: Voice Synthesis
-Add a link to the segment file for each section
-Add note about geography interests
+Add a link to the segment file for each section (WIP)
+Add icons for all social media services used
+Make non-bitmap version of MEDOS 4 logo
+Make use of video: confetti
+Make use of videos: GitHub weird behavior (2020) take 1 and take 2
+Make use of image: Example/GitHub (social preview image)
+Make use of image: Memes/semicolons
+Make use of image: GitHub/Mona
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -198,10 +202,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `165` **/** `204` **tasks** _(080.89%)_ |
-| _as of 2024, Saturday, April 6th_ |
+| `172` **/** `216` **tasks** _(079.10%)_ |
+| _as of 2024, Sunday, April 7th_ |
 
-- **Tasks implemented so far (165 tasks, as of 2024, Saturday, April 6th)**
+- **Tasks implemented so far (172 tasks, as of 2024, Sunday, April 7th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -372,6 +376,13 @@ Make all repository listing sections in major projects sections into dropdown se
 Add comment markers to all details tags
 Fix rendering issue (2024.04.05)
 Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out)) finished much earlier than planned
+Add note about geography interests
+Fix section: Major project: SNU
+Fix section: Major project: Voice Synthesis
+Temporarily remove voice synthesis section
+Add logos for GOI and CCM
+Major project: LennyOS
+Get /Graphics/ versions of all /Media/ media, and give them better filenames
 ```
 
 </details> <!-- End of completed remodel goals section !-->
