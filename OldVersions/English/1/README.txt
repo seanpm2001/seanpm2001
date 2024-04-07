@@ -23,7 +23,7 @@
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-) ![Profile views](https://komarev.com/ghpvc/?username=seanpm2001) - These counters were added on 2021 December 29th
+<img src="https://komarev.com/ghpvc/?username=seanpm2001" alt="Profile views" title="GitHub profile view count" width="128" height="20"> - This counter were added on 2021 December 29th
 
 | GitHub Stats (classic, added on 2021 December 29th) | GitHub Stats (new, improved, added on 2022 June 12th) |
 |---|---|
@@ -73,6 +73,7 @@ _Further instructions not yet available._
 - [2024.04.04] On 2024, Thursday, April 4th, the document surpassed 500 kilobytes in size. The file no longer is previewable on GitHub while editing, making debugging a lot harder. This document is close to reaching the GitHub 524.288 kilobyte size limit, so the bottom segments of the page may no longer load.
 - [2024.04.05] The amount has dropped down with the 2024, Friday, April 5th update, but I still can't get the document to render now
 - [2024.04.06] The file is back to normal standing, and the rendering issue has been fixed. I am still working on keeping the file under 524,289 bytes
+- [2024.04.07] Something may need to be done with the `What I'm currently working on§Major projects` section, as it is the biggest part of this file, yet it can't be shrunk easily. I am still working on keeping the file under 524,289 bytes
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -194,7 +195,7 @@ _End of translation section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| ![animated-book-image.gif](/Graphics/Guestbook/GIF/animated-book-image.gif) | 
+| <img src="/Graphics/Guestbook/GIF/animated-book-image.gif" alt="Animated book GIF failed to load" title="I really like this GIF, and have used it since around 2015-2016. However, sometimes it freezes on the first frame." width="400" height="256"> |
 |---|
 | [:octocat: `Sign the guestbook`](https://github.com/seanpm2001/Guestbook/discussions/new/choose) |
 
@@ -230,7 +231,7 @@ For now, it can be viewed [here instead](/Segments/Index/README.md)
 
 <!-- I feel this message was far overdue to be added to my profile. !-->
 
-![#StandWithUkraine](/Badges/U/Ukraine/StandWithUkraineBanner.svg)
+<img src="/Badges/U/Ukraine/StandWithUkraineBanner.svg" alt="#StandWithUkraine" title="#StandWithUkraine" width="155" height="20">
 
 [`Wikipedia summary`](https://en.wikipedia.org/w/index.php?title=Russian_invasion_of_Ukraine&oldid=1215221241&useskin=monobook)
 
@@ -259,7 +260,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 16 - 2024, Saturday, April 6th` |
+| `Beta 17 - 2024, Sunday, April 7th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -270,7 +271,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 16 days down, 48/49 days to go, as of 2024, Saturday, April 6th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 17 days down, 47/48 days to go, as of 2024, Sunday, April 7th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -312,7 +313,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
 | [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
 | [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
-| Beta 17 | Coming soon | 16 |
+| [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
 | Beta 18 | Coming soon | 17 |
 | Beta 19 | Coming soon | 18 |
 | Beta 20 | Coming soon | 19 |
@@ -386,10 +387,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `39` **/** `204` **tasks** _(019.11%)_ |
-| _as of 2024, Saturday, April 6th_ |
+| `43` **/** `216` **tasks** _(019.90%)_ |
+| _as of 2024, Sunday, April 7th_ |
 
-- **Current tasks to do (39 tasks, as of 2024, Saturday, April 6th)**
+- **Current tasks to do (43 tasks, as of 2024, Sunday, April 7th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -430,10 +431,14 @@ Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
-Fix section: Major project: SNU
-Fix section: Major project: Voice Synthesis
-Add a link to the segment file for each section
-Add note about geography interests
+Add a link to the segment file for each section (WIP)
+Add icons for all social media services used
+Make non-bitmap version of MEDOS 4 logo
+Make use of video: confetti
+Make use of videos: GitHub weird behavior (2020) take 1 and take 2
+Make use of image: Example/GitHub (social preview image)
+Make use of image: Memes/semicolons
+Make use of image: GitHub/Mona
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -450,10 +455,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `165` **/** `204` **tasks** _(080.89%)_ |
-| _as of 2024, Saturday, April 6th_ |
+| `172` **/** `216` **tasks** _(079.10%)_ |
+| _as of 2024, Sunday, April 7th_ |
 
-- **Tasks implemented so far (165 tasks, as of 2024, Saturday, April 6th)**
+- **Tasks implemented so far (172 tasks, as of 2024, Sunday, April 7th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -624,6 +629,13 @@ Make all repository listing sections in major projects sections into dropdown se
 Add comment markers to all details tags
 Fix rendering issue (2024.04.05)
 Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out)) finished much earlier than planned
+Add note about geography interests
+Fix section: Major project: SNU
+Fix section: Major project: Voice Synthesis
+Temporarily remove voice synthesis section
+Add logos for GOI and CCM
+Major project: LennyOS
+Get /Graphics/ versions of all /Media/ media, and give them better filenames
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -650,12 +662,16 @@ _End of remodel information_
 
 ***
 
-<!-- TODO: Add a title to this section, a dropdown, and center the graphics better (perhaps a table or two) !-->
+## [🔗️ Quick links](#-Quick-links)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <div align="center">
     <img src="/Graphics/Icons/Star/Star_Emoji1.png" alt="Placeholder" title="Stars" width="128" height="128"> <img src="/Graphics/Icons/Fork/Forking-Git.gif" alt="Placeholder" title="Forks" width="128" height="128"> <img src="/Graphics/Icons/Follow/Followers-Icon.png" alt="Placeholder" title="Follows" width="128" height="128"> <img src="/Graphics/Icons/Watch/WatchEye.png" alt="Placeholder" title="Watch" width="128" height="128">
     <p><a href="https://github.com/seanpm2001/GitHub_Starlist/">Stars on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Forklist/">Forks on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Followlist/">Follows on GitHub</a> <a href="https://github.com/seanpm2001/GitHub_Watchlist/">Watching on GitHub</a> </p>
 </div>
+
+<!-- Todo: center images better !-->
 
 <div align="center">
 
@@ -664,6 +680,8 @@ _End of remodel information_
 | [:octocat: `Discuss this repository`](https://github.com/seanpm2001/seanpm2001/discussions/) | [:octocat: `Discussions (general)`](https://github.com/seanpm2001/Discussion/) |
 
 </div>
+
+</details> <!-- ENd of Quick Links section !-->
 
 ***
 
@@ -800,16 +818,15 @@ I have collaborated on a few projects on GitHub, including
 <details><summary>[Click/tap here to expand/collapse the list of projects I have helped develop]</summary>
 	
 ***
-	
-![/.github/projects/external/1/LinCity_NG.png](/.github/projects/external/1/LinCity_NG.png) - [LinCity NG](https://github.com/lincity-ng/lincity-ng/) - 100% issues (2020) - [1](https://github.com/lincity-ng/lincity-ng/issues/46)
 
-![/.github/projects/external/1/Ruffle_vector_logo.svg](/.github/projects/external/1/Ruffle_vector_logo.svg) [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - 100% code review (2021) [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177) [7](https://github.com/ruffle-rs/ruffle/pull/3819)
-
-![/Media/Firefox3.5_Logo.png](/Media/Firefox3.5_Logo.png) [Firefox Color](https://github.com/mozilla/FirefoxColor/) 100% issues (2021) [1](https://github.com/mozilla/FirefoxColor/issues/971/) (I am responsible for helping to push the change of adding better documentation to the project for non-extension developers)
-
-[Nea/Markdown++](https://github.com/nea/MarkdownViewerPlusPlus) 100% issues (2021) [1](https://github.com/nea/MarkdownViewerPlusPlus/issues/138)
-
-[Jmdugan/Blocklists](https://github.com/jmdugan/blocklists) 100% issues (2021) [1](https://github.com/jmdugan/blocklists/issues/80)
+| 🪞️ Project logo | 🔳️ Repository | 🔹️ Contribution type | 👋️ Contributions |
+|---|---|---|---|
+| <img src="/Graphics/External-Commits/L/LinCity-NG/LinCity_NG.png" alt="LinCity NG logo failed to load" title="The logo for LinCity NG" width="100" height="100"> | [:octocat: `lincity-ng/LinCity-NG`](https://github.com/lincity-ng/lincity-ng/) | 100% issues (2020) | [1](https://github.com/lincity-ng/lincity-ng/issues/46) |
+| <img src="/Graphics/External-Commits/R/RuffleRS/Ruffle_vector_logo.svg" alt="RuffleRS logo failed to load" title="The logo for Ruffle" width="100" height="100"> | [:octocat: `ruffle-rs/Ruffle`](https://github.com/ruffle-rs/ruffle.) | 100% code review (2021) | [1](https://github.com/ruffle-rs/ruffle/pull/3004) [2](https://github.com/ruffle-rs/ruffle/pull/3117) [3](https://github.com/ruffle-rs/ruffle/pull/3194) [4](https://github.com/ruffle-rs/ruffle/pull/3163) [5](https://github.com/ruffle-rs/ruffle/pull/3176) [6](https://github.com/ruffle-rs/ruffle/pull/3177) [7](https://github.com/ruffle-rs/ruffle/pull/3819) |
+| <img src="/Graphics/Browsers/Firefox/Logo/Firefox3.5_Logo.png" alt="Firefox logo failed to load" title="The logo for version 3.5 of Firefox" width="100" height="100"> | [:octocat: `mozilla/Firefox Color`](https://github.com/mozilla/FirefoxColor/) | 100% issues (2021) | [1](https://github.com/mozilla/FirefoxColor/issues/971/) (I am responsible for helping to push the change of adding better documentation to the project for non-extension developers) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `Nea/MarkdownViewerPlusPlus`](https://github.com/nea/MarkdownViewerPlusPlus) | 100% issues (2021) | [1](https://github.com/nea/MarkdownViewerPlusPlus/issues/138) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `Jmdugan/Blocklists`](https://github.com/jmdugan/blocklists) | 100% issues (2021) | [1](https://github.com/jmdugan/blocklists/issues/80) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `Schweinepriester/github-profile-achievements`](https://github.com/Schweinepriester/github-profile-achievements/) | 100% pull requests (2023) | [1](https://github.com/Schweinepriester/github-profile-achievements/pull/204/) |
 
 </details> <!-- End of List of projects I have helped develop subsection !-->
 
@@ -875,12 +892,11 @@ This is a public domain gallery of myself.
 
 - [:octocat: `Public Media Gallery specification`](https://github.com/seanpm2001/Public-Media-Gallery/)
 
-</details> <!-- End of Public Media Gallery section !-->
-
-
 This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
 For now, it can be viewed [here instead](/Segments/Index/README.md)
+
+</details> <!-- End of Public Media Gallery section !-->
 
 ***
 
@@ -908,7 +924,7 @@ This is a list of my other hobbies
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original photography profile picture failed to load. Click/tap here to attempt to view it" src="/Media/CameraIcon2.png" width="100"/> 
+<img src="/Graphics/Hobbies/Photography/CameraIcon2.png" alt="Original photography profile picture failed to load. Click/tap here to attempt to view it" title="A camera icon" width="100" height="100" align="left"> 
 
 I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
 
@@ -920,9 +936,13 @@ I am a intermediate photographer, and can take really good pictures without the 
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original swimming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/WaterDropletCool.png" width="100"/> 
+<img src="/Graphics/Hobbies/Swimming/WaterDropletCool.png" alt="Original swimming profile picture failed to load. Click/tap here to attempt to view it" title="Water droplet" width="100" height="100" align="left"> 
 
 I have always liked to swim. When I have a pool or hot tub available to me, I normally swim in it.
+
+**This section needs expansion**
+
+**Segment link coming soon**
 
 </details> <!-- End of swimming section !-->
 
@@ -932,9 +952,15 @@ I have always liked to swim. When I have a pool or hot tub available to me, I no
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original gaming profile picture failed to load. Click/tap here to attempt to view it" src="/Media/VideoGameController_Icon1.png" width="100"/> 
+<img src="/Graphics/Hobbies/Gaming/VideoGameController_Icon1.png" alt="Original gaming profile picture failed to load. Click/tap here to attempt to view it" title="Video game controller" width="100" height="100" align="left"> 
 
 I am an avid video game player, playing various video games to pass time, relax, have fun, and come up with new ideas. I am also a card game player, but I need extra help playing most card games due to a learning curve and limited knowledge on card games.
+
+Lately, I mainly play mobile games, but from time to time, I will use a video game console, or RetroPie on my Raspberry Pi.
+
+**This section needs expansion**
+
+**Segment link coming soon**
 
 </details> <!-- End of gaming section !-->
 
@@ -944,9 +970,13 @@ I am an avid video game player, playing various video games to pass time, relax,
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original graphic design profile picture failed to load. Click/tap here to attempt to view it" src="/Media/GraphicDesignICON.png" width="100"/> 
+<img src="/Graphics/Hobbies/Graphic-Design/GraphicDesignICON.png" alt="Original graphic design profile picture failed to load. Click/tap here to attempt to view it" title="Graphic design icon" width="100" height="100" align="left"> 
 
 I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
+
+**This section needs expansion**
+
+**Segment link coming soon**
 
 </details> <!-- End of graphic design section !-->
 
@@ -956,11 +986,17 @@ I am an entry-level graphic designer with a large preference for skeumorphism an
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Linguistics1.jpeg" width="100"/>  <img alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" width="100"/> 
+<img src="/Graphics/Hobbies/Linguistics/Linguistics1.jpeg" alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" title="Linguistics icon 1" width="100" height="100" align="left">
 
 I have been a linguist since my early childhood. I jokingly changed my middle name to `language` in my early childhood, but I think it would fit as a 2nd middle name.
 
-I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't write completely in a language other than English, Python, HTML, or markdown.
+<img src="/Graphics/Hobbies/Linguistics/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" title="Cyrillic text sample" width="100" height="100" align="right"> 
+
+I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't wri-te completely in a language other than English, Python, HTML, or markdown.
+
+**This section needs expansion**
+
+**Segment link coming soon**
 
 </details> <!-- End of linguistics section !-->
 
@@ -970,7 +1006,7 @@ I like the look and sound of various languages, whether they are human spoken or
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original history buff profile picture failed to load. Click/tap here to attempt to view it" src="/Media/FortressBase.png" width="100"/> 
+<img src="/Graphics/Hobbies/History/FortressBase.png" alt="Original history buff profile picture failed to load. Click/tap here to attempt to view it" title="Castle/fortress image"  width="100" height="100" align="left"> 
 
 I am a history buff, with knowledge of history spanning back over 13.8 billion years ago (Big Bang) to the current day. I like to learn about history, and I have knowledge of a large assortment of eras and events, including extensive knowledge of things other than World War I or World War II (but I also still know a lot about the 2 world wars) for Earth history, my knowledge goes back to 8000 BCE in extensive detail, down to 27000 BCE in less detail, and mostly geological events before 27000 BCE. I like to learn all types of history, and not just the history of warfare.
 
@@ -1047,6 +1083,10 @@ Pretty much anything, but mainly:
 - Programming languages
 - and many more
 
+**This section needs expansion**
+
+**Segment link coming soon**
+
 </details> <!-- End of history buff section !-->
 
 ---
@@ -1055,11 +1095,15 @@ Pretty much anything, but mainly:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original marine biology profile picture failed to load. Click/tap here to attempt to view it" src="/Media/BlackMooreGoldfish.jpeg" width="100"/> 
+<img src="/Graphics/Hobbies/Marine-Biology/BlackMooreGoldfish.jpeg" alt="Original marine biology profile picture failed to load. Click/tap here to attempt to view it" title="My favorite goldfish type: Black Moor" width="100" height="100" align="left"> 
 
 I recently got back into Marine Biology on March 23rd 2021, and have been learning the subject part-time again. I find it really calming and nostalgic.
 
 [Learn more about it here](https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology/tree/main/Marine%20Biology)
+
+**This section needs expansion**
+
+**Segment link coming soon**
 
 </details> <!-- End of marine biology section !-->
 
@@ -1069,7 +1113,7 @@ I recently got back into Marine Biology on March 23rd 2021, and have been learni
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original journaling profile picture failed to load. Click/tap here to attempt to view it" src="/Media/JournalIcon1.png" width="100"/> 
+<img src="/Graphics/Hobbies/Journaling/JournalIcon1.png" alt="Original journaling profile picture failed to load. Click/tap here to attempt to view it" title="Journal icon" width="100" height="100" align="left"> 
 
 I keep a daily journal. I have been on and off with this for most of my childhood, until sticking with it every day since September 26th 2016.
 
@@ -1079,6 +1123,10 @@ As of August 7th 2021, the main journal has over 7 million words. I average betw
 
 I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain related media, and certain templates are public, but several terabytes of data is private (the full journal takes up over 8 gigabytes of space, just for the journal, due to usage of images over a ~5 year period)
 
+**This section needs expansion**
+
+**Segment link coming soon**
+
 </details> <!-- End of journaling section !-->
 
 ---
@@ -1087,7 +1135,7 @@ I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain r
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img alt="Original fotw profile picture failed to load. Click/tap here to attempt to view it" src="/Media/fotw-pgr.gif" width="100"/> 
+<img src="/Graphics/Hobbies/Vexillology/GIF/fotw-pgr.gif" alt="Original fotw profile picture failed to load. Click/tap here to attempt to view it" title="Vexillology GIF" width="100" height="100" align="left"> 
 
 This is the flag of the Internet, by [FOTW.info](https://www.fotw.info/flags/fotwprfl.html)
 
@@ -1109,7 +1157,27 @@ Some other cool sites:
 
 > [View the source code on GitHub](https://github.com/krikienoid/flagwaver/)
 
+**This section needs expansion**
+
+**Segment link coming soon**
+
 </details> <!-- End of vexillology section !-->
+
+---
+
+### [🧭️ Geography](#-Geography)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<img src="/Graphics/Hobbies/Geography/Crystal_Project_starthere.png" alt="Geography icon failed to load. Click/tap here to attempt to view it" title="Geography (need a higher resolution (SVG) version of this image)" width="100" height="100" align="left"> 
+
+I have had an increasing interest in geography since 2019. I have increasingly memorized the worlds international borders, and have taken fascination in the terrain and administrative units. In 2024, April, I have become increasigly interested in GPS technology, and as a side project, I am working on a Location Positioning System (LPS) for my house that works offline.
+
+**This section needs expansion**
+
+**Segment link coming soon**
+
+</details> <!-- End of Geography section !-->
 
 ---
 
@@ -1117,11 +1185,46 @@ Some other cool sites:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img src="" alt="" width="100"/>
+<img src="/Graphics/Hobbies/Anime/SVG/Anime_eye.svg" alt="Anime eye vector image failed to load. Click/tap here to attempt to view it" title="Detailed Anime-styled eye" width="100" height="100" align="left">
 
 I rarely watch Anime, but I do like it. There aren't any Anime series I have completed to date. I don't mind if its a sub or a dub.
 
-- [:octocaT: `seanpm2001/Anime`](https://github.com/seanpm2001/Anime/)
+- [:octocat: `seanpm2001/Anime`](https://github.com/seanpm2001/Anime/)
+
+Animes I have watched (not all the way through)
+
+- Sonic X (up to season 3 episode 2) (dub)
+- Konosuba (episode 1 only) (sub)
+- Ninja Kamoi (episode 1 only) (dub)
+- Ghost stories (random clips) (dub)
+- Assassination classroom (episode 1) (dub)
+
+Animes I have watched all of the way through
+
+- Namakura Gotana
+
+Animes I have an interest in:
+
+- Cowboy bebop
+- Bakemonogatari
+- Neon Genesis Evangelion
+- My Neighbor Totoro
+
+Anime games I have played:
+
+- Yandere Simulator
+
+Mangas I have an interest in:
+
+- Is it wrong to pick up girls in a dungeon
+- That time I got reincarnated as a slime
+- Aria
+
+Animes I have heard of, but don't have much interest in
+
+- Adachi and Shimamura
+
+**Segment link coming soon**
 
 </details> <!-- End of Anime section !-->
 
@@ -1153,17 +1256,17 @@ For now, it can be viewed [here instead](/Segments/Residence/README.md)
 	
 Here is a history of my GitHub profile picture:
 
-![Original profile picture failed to load. Click/tap here to attempt to view it](/Media/65933340.png)
+<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/Seanpm2001_original-profile-photo.png" alt="Original profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture" width="440" height="440">
 
-Original (May 25th 2020 to ? 2020)
+> Original (May 25th 2020 to ? 2020)
 
-![Original modified profile picture failed to load. Click/tap here to attempt to view it](/Media/773af859eafc403a8ce6bb3051bd2618 (copy).png)
+<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/Seanpm2001_original-profile-photo-source.png" alt="Original modified profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture source" width="440" height="440">
 
-Original (Windows Explorer transparency glitched version)
+> Original (Windows Explorer transparency glitched version)
 
-![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
+<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/SeniorPhotoFullQuality.jpeg" alt="GitHub Profile picture failed to load. Click here to attempt to view it" title="Senior photo (2020)" width="660" height="428">
 
-Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
+> Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
 
 </details> <!-- End of profile picture history section !-->
 
@@ -1188,7 +1291,7 @@ Senior picture (used to identify myself and to have a better profile picture, st
 
 I was a fan of Windows up until Windows 10. I began to try to switch to Linux from 2018 to 2020. On July 9th 2020, I finally switched to Linux, getting my first Dell laptop with Linux pre-installed.
 
-![20200709_124359.jpg](/Media/20200709_124359.jpg)
+<img src="/Graphics/Photos/Linux/Laptop/20200709_124359.jpg" alt="Linux logo failed to load" title="Linux mascot" width="100" height="100">
 
 My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
 
@@ -1252,7 +1355,7 @@ I have multiple methods of being reached. Currently, I can't answer to phone cal
 
 **Context:**
 
-![Discord_2022.06.21_seanpm_seanpm2001.png](/Media/Discord_Screenshots/2022/June21st/Discord_2022.06.21_seanpm_seanpm2001.png)
+<img src="/Graphics/Social-Media/Discord/Screenclips/Discord_2022.06.21_seanpm_seanpm2001.png" alt="Discord image failed to load" title="Identity theft in progress (on Discord)" width="338" height="78">
 
 On 2022, June 21st, someone joined my Discord server with a username incredibly similar to my own. I had to claim the `seanpm2001` username to prevent an imposter from forming.
 
@@ -1374,7 +1477,7 @@ I am on the following platforms
 
 * Other?
 
-![no-facebook.svg](/Media/no-facebook.svg)
+<img src="/Graphics/Social-Media/Facebook/no-facebook.svg" alt="No facebook vector image failed to load" title="Not F'd, you won't find me on Facebook (GNU Facebook protest)" width="524" height="148">
 
 <details><summary><H4>Transcript (if the image fails to load)</H4></summary>
 
@@ -1415,7 +1518,7 @@ Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Tota
 
 ## [💸️ Sponsor info](#-Sponsor-info)
 
-<img alt="GitHub Sponsor Badge logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Badges/GitHub/Sponsors/PNG/badge-sponsors-small.png" width="256" height="256"/>
+<img src="/Graphics/Badges/GitHub/Sponsors/PNG/badge-sponsors-small.png" alt="GitHub Sponsor Badge logo failed to load. Click/tap here to attempt to view it" title="GitHub sponsor badge" width="256" height="256" align="left">
 
 | [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/) | [:octocat: `Sponsoring`](https://github.com/seanpm2001/Sponsoring/) | [:octocat: `Sponsors`](https://github.com/seanpm2001/Sponsors/)
 |---|---|---|
@@ -1423,7 +1526,7 @@ Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Tota
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-![SponsorButton.png](SponsorButton.png) <-- Don't click this button, it doesn't work
+<img src="/Graphics/GitHub/Sponsors/Button/SponsorButton.png" alt="GitHub sponsor button failed to load" title="GitHub sponsor button" width="72" height="22"> ⬅️ Don't click this button, it doesn't work
 
 You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
 
@@ -1441,7 +1544,7 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 <details open><summary>Click/tap here to expand/collapse the Python logo</summary>
 
-<img alt="Python logo failed to load. Click/tap here to attempt to view it" src="/Media/PythonLogo.png" width="256" height="256"/> 
+<img alt="Python logo failed to load. Click/tap here to attempt to view it" src="/Graphics/Programming/Languages/P/Python/PythonLogo.png" title="Python logo" width="256" height="256"/> 
 
 </details> <!-- End of Python logo !-->
 
@@ -1762,6 +1865,10 @@ Other/unknown
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+| <img src="/Graphics/GOI/GitHubOrganizationIcon_Custom1.png" alt="GOI logo failed to load" title="GitHub Organization Info (GOI) project logo" width="128" height="128"> |
+|---|
+| [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) |
+
 **All organizations** _(As of March 27th 2021)_
 
 This list is not maintained. For complete documentation of my organizations, see the [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info)/ repository.
@@ -1857,7 +1964,7 @@ Stats generated from [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/
 
 | Best of all time (as of 2023, September 21st) (overview) | (languages) |
 |---|---|
-| ![2023.09.21 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/overview_2023September21st.svg) | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/languages_2023September21st.svg) |
+| <img src="(/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/overview_2023September21st.svg" alt="2023.09.21 Stats" title="2023 September 21st GitHub stats (overview)" width="360" height="210"> | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/languages_2023September21st.svg) |
 
 _Still the best run, as of 2024, Sunday, March 24th._
 
@@ -2013,9 +2120,242 @@ Full statistics are available at [:octocat: `GitHub_Stats_B`](https://github.com
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+| <img src="/Graphics/CCM/Icon/CCM_Logo_1024px_V1_HighCompression.png" alt="CCM logo failed to load" title="Commit Count Milestones (CCM) project logo" width="128" height="128"> |
+|---|
+| [:octocat: `Commit Count Milestones (CCM)`](https://github.com/seanpm2001/Commit-Count-Milestones/) |
+
 This repository records my commit count milestones: [:octocat: `seanpm2001/Commit-Count-Milestones`](https://github.com/seanpm2001/Commit-Count-Milestones/)
 
-**This section needs expansion**
+Milestones are listed when a repository reaches:
+
+- 10 commits
+- 16 commits (2^4)
+- 25 commits
+- 32 commits (2^5)
+- 50 commits
+- 64 commits (2^6)
+- 75 commits
+- 100 commits
+- 125 commits
+- 128 commits (2^7)
+- 250 commits
+- 256 commits (2^8)
+- 500 commits
+- 512 commits (2^9)
+- 750 commits
+- 1000 commits
+- 1024 commits (2^10)
+- 2000 commits
+- 2048 commits (2^11)
+- 2500 commits
+- 4096 commits (2^12)
+- 5000 commits
+- 8192 commits (2^13)
+- 10000 commits
+- 15000 commits
+- **16384 commits (2^14)** (current repository record, 2024.04.06)
+- 20000 commits
+- 25000 commits
+- 30000 commits
+- 32768 commits (2^15)
+- 35000 commits
+- 40000 commits
+- 50000 commits
+- 60000 commits
+- 65536 commits (2^16)
+- 70000 commits
+- 75000 commits
+- 80000 commits
+- 90000 commits
+- 100000 commits
+- 120000 commits
+- 125000 commits
+- 128000 commits
+- 131072 commits (2^17)
+- 150000 commits
+- 175000 commits
+- 200000 commits
+- 240000 commits
+- 250000 commits
+- 256000 commits
+- 262144 commits (2^18)
+- 270000 commits
+- 300000 commits
+- 350000 commits
+- 360000 commits
+- **365000 commits** (current account record, 2024.04.06)
+- 400000 commits
+- 450000 commits
+- 480000 commits
+- 500000 commits
+- 512000 commits
+- 524288 commits (2^19)
+- 550000 commits
+- 600000 commits
+- 650000 commits
+- 700000 commits
+- 720000 commits
+- 725000 commits
+- 750000 commits
+- 800000 commits
+- 850000 commits 
+- 900000 commits
+- 950000 commits
+- 1000000 commits
+- 1048576 commits (2^20)
+
+None of my repositories have yet reached 20000 commits (as of 2024, April 6th) and my account as a whole hasn't reached the 400000 commit count (as of 2024, April 6th)
+
+From observing other accounts, I have noted that GitHub repositories get wonky after you reach 17.5 million (showing an ∞ (infinity) sign, instead of the actual number) and from user reports, [:octocat: `GitHub repositories get disabled at 22 million commits`](https://github.com/csm10495/commit-ment/)
+
+New limits (proposed 2024.04.06, WIP)
+
+- 1100000 commits
+- 1111111 commits
+- 1200000 commits
+- 1250000 commits
+- 1280000 commits
+- 1300000 commits
+- 1400000 commits
+- 1440000 commits
+- 1500000 commits
+- 1600000 commits
+- 1700000 commits
+- 1750000 commits
+- 1800000 commits
+- 1900000 commits
+- 2000000 commits
+- 2097152 commits (2^21)
+- 2100000 commits
+- 2200000 commits
+- 2222222 commits
+- 2300000 commits
+- 2400000 commits
+- 2500000 commits
+- 2560000 commits
+- 2600000 commits
+- 2700000 commits
+- 2750000 commits
+- 2800000 commits
+- 2900000 commits
+- 3000000 commits
+- 3100000 commits
+- 3200000 commits
+- 3300000 commits
+- 3333333 commits
+- 3400000 commits
+- 3500000 commits
+- 3600000 commits
+- 3650000 commits
+- 3700000 commits
+- 3750000 commits
+- 3800000 commits
+- 3900000 commits
+- 4000000 commits
+- 4040000 commits
+- 4100000 commits
+- 4194304 commits (2^22)
+- 4200000 commits
+- 4250000 commits
+- 4300000 commits
+- 4400000 commits
+- 4444444 commits
+- 4500000 commits
+- 4600000 commits
+- 4700000 commits
+- 4750000 commits
+- 4800000 commits
+- 4900000 commits
+- 5000000 commits
+- 5100000 commits
+- 5120000 commits
+- 5200000 commits
+- 5250000 commits
+- 5300000 commits
+- 5400000 commits
+- 5500000 commits
+- 5555555 commits
+- 5600000 commits
+- 5700000 commits
+- 5750000 commits
+- 5800000 commits
+- 5900000 commits
+- 6000000 commits
+- 6100000 commits
+- 6200000 commits
+- 6250000 commits
+- 6300000 commits
+- 6400000 commits
+- 6500000 commits
+- 6600000 commits
+- 6666666 commits
+- 6700000 commits
+- 6750000 commits
+- 6800000 commits
+- 6900000 commits
+- 7000000 commits
+- 7100000 commits
+- 7200000 commits
+- 7250000 commits
+- 7300000 commits
+- 7400000 commits
+- 7500000 commits
+- 7600000 commits
+- 7700000 commits
+- 7750000 commits
+- 7777777 commits
+- 7800000 commits
+- 7900000 commits
+- 8000000 commits
+- 8100000 commits
+- 8200000 commits
+- 8250000 commits
+- 8300000 commits
+- 8388608 commits (2^23)
+- 8400000 commits
+- 8500000 commits
+- 8600000 commits
+- 8700000 commits
+- 8750000 commits
+- 8800000 commits
+- 8888888 commits
+- 8900000 commits
+- 9000000 commits
+- 9100000 commits
+- 9200000 commits
+- 9250000 commits
+- 9300000 commits
+- 9400000 commits
+- 9500000 commits
+- 9600000 commits
+- 9700000 commits
+- 9750000 commits
+- 9800000 commits
+- 9900000 commits
+- 9999999 commits
+- 10000000 commits
+- 10101010 commits
+- 11000000 commits
+- 11111111 commits
+- 12000000 commits
+- 12500000 commits
+- 12800000 commits
+- 13000000 commits
+- 14000000 commits
+- 14400000 commits
+- 15000000 commits
+- 16000000 commits
+- 16777216 commits (2^24)
+- 17000000 commits
+- 17200000 commits
+- 17250000 commits
+- 17500000 commits
+- 18000000 commits (∞ commits)
+- 19000000 commits (∞ commits)
+- 20000000 commits (∞ commits)
+- 21000000 commits (∞ commits)
+- 22000000 commits (🔨️ Ban/suspension) (∞ commits)
+- 22222222 commits (🔨️ Ban/suspension) (∞ commits)
 
 </details> <!-- End of CCM section !-->
 
@@ -2369,36 +2709,79 @@ A collective of my framework projects.
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**This section needs work:**
+---
 
-- [x] Added a development status note
-- [ ] Add a language list
-- [ ] Add `:octocat:` and ` ` formatting to all hyperlink previews
-- [ ] Reformat list to only 6 columns (A-F)
-- [ ] Re-adjust image size (256x256) once previous tasks are done (to indicate that it is done)
+<details open><summary><p><b>Click/tap here to expand/collapse the logo for this project (Candroid Framework)</b></p></summary>
 
-<img alt="Original SNU profile picture failed to load. Click/tap here to attempt to view it" src="/Media/71748421.png" width="100"/> [`SNU`](https://github.com/seanpm2001/SNU/) - An advanced website hosting platform, aiming to be the Linux of web development, and an alternate to many sites, including YouTube, Twitter, FaceBook, GitHub, Instagram, Reddit, Discord, and hundreds of thousands more.
+| <img src="/Graphics/SNU/SNU_Blue_and_gold_Legacy_Icon_SVG.svg" alt="Original SNU profile picture failed to load. Click/tap here to attempt to view it" title="SNU logo" width="150" height="150" style="margin-right: 30px"> | **SNU:** _An advanced website hosting platform, aiming to be the Linux of web development, and an alternate to many sites, including YouTube, Twitter, FaceBook, GitHub, Instagram, Reddit, Discord, and hundreds of thousands more._ |
+|---|---|
+
+</details> <!-- End of logo section for major project section: SNU !-->
+
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse the general information section for the major project: SNU</b></p></summary>
+
+---
+
+- **🏠️ Home repository:** [:octocat: `SNU`](https://github.com/seanpm2001/SNU/)
+- **🔵️ Project categories:** `SNU` `Web framework` `Website` `Social media` `Framework` `Federated` `P2P`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, April 6th)**
+- **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Saturday, April 6th)**
 
 **Development status:** _Partially functional, but needs lots of work. Developers needed._
 
+</details> <!-- End of general information section for the major project: SNY section !-->
+
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse the language section for the major project: Candroid Framework</b></p></summary>
+
+| ## | **Languages** |
+|----|---|
+| 01 | `HTML` |
+| 02 | `CSS` |
+| 03 | `JavaScript` |
+| 04 | `Python` |
+| 05 | `Ruby` |
+| 06 | `PHP` |
+| 07 | `Less` |
+| 08 | `JSON` |
+| 09 | `YAML` |
+| 10 | `INI` |
+| 11 | `XML` |
+| 12 | `WebAssembly` |
+| XX | `Not counting at least 500 other languages (used in SNU Programming Tools)` |
+
+</details> <!-- End of language section for the major project: SNU section !-->
+
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: SNU Framework</b></p></summary>
+
 **Core repositories:**
 
-| A | B | C | D | E | F | G | H |
-|---|---|---|---|---|---|---|---|
-| [SNU](https://github.com/seanpm2001/SNU/) | [SNU 2D Programming Tools](https:/github.com/seanpm2001/SNU_2D_ProgrammingTools) | [SNU 3D Universe](https://github.com/seanpm2001/SNU_3D_Universe/) | [SNU 2D Update Log](https://github.com/seanpm2001/SNU_2D_UpdateLog/) | [SNU 2D Translation](https://github.com/seanpm2001/SNU_2D_Translation/) | [SNU Package Manager](https://github.com/seanpm2001/SNU_Package_Manager/) | [SNU 0D Mode](https://github.com/seanpm2001/SNU_0DMode) | [SNU Extras](https://github.com/seanpm2001/SNU_Extras/) |
-| [SNU CardStack](https://github.com/seanpm2001/SNU_CardStack/) |[SNU 1D Mode](https://github.com/seanpm2001/SNU_1D_Mode/) | [SNU 1D](https://github.com/SNU_1D/) | [SNU 2D](https://github.com/seanpm2001/SNU_2D/) | [SNU 3D](https://github.com/seanpm2001/SNU_3D/) | [SNU 4D](https://github.com/seanpm2001/SNU_4D/) | [SNU BrowserNose](https://github.com/SNU_BrowserNose/) | [SNU 2D Beliefs](https://github.com/SNU_2D_Beliefs/) |
-| [SNU Dimensional Converter](https://github.com/seanpm2001/SNU-Dimensional-Converter/) | [SNU Server Essentials](https://github.com/seanpm2001/SNU_ServerEssentials/) | [SNU Video Settings](https://github.com/seanpm2001/SNU_VideoSettings/) | [SNU User History Management](https://github.com/seanpm2001/SNU_UserHistoryManagement/) | [SNU About page and credits](https://github.com/seanpm2001/SNU_About/) | [SNU Accesiblity settings](https://github.com/seanpm2001/SNU_Accessibility/) | [SNU Extras](https://github.com/seanpm2001/SNU_Extras/) | [SNU Account setup](https://github.com/seanpm2001/SNU_AccountSetup/) |
-| [SNU Internet Museum](https://github.com/seanpm2001/SNU_2D_InternetMuseum/) | [SNU PodCast manager (Podcast TriPod)](https://github.com/seanpm2001/SNU_2D_PodcastTriPod/) | [SNU News aggregator](https://github.com/seanpm2001/SNU_2D_News/) | [SNU Supersearch](https://github.com/seanpm2001/SNU_Supersearch/) | [SNU Ethical and 100% optional advertisement system](https://github.com/seanpm2001/SNU_2D_AD_SYS/) | [SNU User dashboard](https://github.com/seanpm2001/SNU_2D_Dashboard/) | [SNU Malware & Virus research and testing](https://github.com/seanpm2001/SNU_2D_MalwareViru_RepoMode/) | [SNU Meme player](https://github.com/seanpm2001/SNU_2D_Memes/) |
-| [SNU IdeaBoard](https://github.com/seanpm2001/SNU_2D_IdeaBoard/) | [SNU Slang Dictionary](https://github.com/seanpm2001/SNU_2D_SlangDictionary/) | [SNU 2D Blog manager](https://github.com/seanpm2001/SNU_2D_SNU_Blogs) | [SNU Books](https://github.com/seanpm2001/SNU_2D_Books/) | [SNU Game Viewer](https://github.com/seanpm2001/SNU_3D_Game_Viewer/) | [SNU Engine Room](https://github.com/seanpm2001/SNU_2D_Engine-room/) | [SNU Film Plaza](https://github.com/seanpm2001/SNU_2D_Film_Plaza/) | [SNU Terror Bay archive center](https://github.com/seanpm2001/SNU_2D_Terror_Bay/) |
-| [SNU Time Machine](https://github.com/seanpm2001/SNU_2D_Time_Machine/) | [SNU ToS](https://github.com/seanpm2001/SNU_2D_TOS/) | [SNU Video Theater](https://github.com/seanpm2001/SNU_2D_Video_Theater/) | [SNU 3D Printing gallery](https://github.com/seanpm2001/SNU_2D_3DPrinting/) | [SNU Algorithm](https://github.com/seanpm2001/SNU_2D_Algorithm/) | [SNU Business manager](https://github.com/seanpm2001/SNU_2D_Business/) | [SNU Phone (Calling Center)](https://github.com/seanpm2001/SNU_2D_Calling_Center/) | [SNU Character support documentation](https://github.com/seanpm2001/SNU_2D_Character_Support/) |
-| [SNU Evidence Locker](https://github.com/seanpm2001/SNU_2D_EvidenceLocker/) | [SNU Disease Research Center](https://github.com/seanpm2001/SNU_2D_DiseaseResearchCenter/) | [SNU Encyclopedia](https://github.com/seanpm2001/SNU_2D_Encyclopedia/) | [SNU eSchool](https://github.com/seanpm2001/SNU_2D_eSchool/) | [SNU File extension info](https://github.com/seanpm2001/SNU_2D_FileExtensionHelp/) | [SNU FontMill](https://github.com/seanpm2001/SNU_2D_FontMill/) | [SNU Fonts](https://github.com/seanpm2001/SNU_2D_Fonts/) | [SNU Health](https://github.com/seanpm2001/SNU_2D_Health/) |
-| [SNU Job finder](https://github.com/seanpm2001/SNU_2D_Jobs/) | [SNU Life Stories](https://github.com/seanpm2001/SNU_2D_LifeStories/) | [SNU LoopG (Vine alternative)](https://github.com/seanpm2001/SNU_2D_LoopG/) | [SNU Puzzle Center](https://github.com/seanpm2001/SNU_2D_PuzzleCenter/) | [SNU Questionarium](https://github.com/seanpm2001/SNU_2D_Questionarium/) | [SNU Software Center](https://github.com/seanpm2001/SNU_2D_Software_Center/) | [SNU Speedruns](https://github.com/seanpm2001/SNU_2D_Speedrunners/) | [SNU Video Streaming](https://github.com/seanpm2001/SNU_2D_Streams/) |
-| [SNU Suicide Prevention](https://github.com/seanpm2001/SNU_2D_SuicidePrevention/) | [SNU TableTop Gamehouse](https://github.com/seanpm2001/SNU_2D_TableTopGameHouse/) | [SNU Torrent center](https://github.com/seanpm2001/SNU_2D_Torrent/) | [SNU TV](https://github.com/seanpm2001/SNU_2D_TV/) | [SNU Typography Docs](https://github.com/seanpm2001/SNU_2D_TypographyDocs/) | [SNU Video](https://github.com/seanpm2001/SNU_2D_Video/) | [SNU Wiki](https://github.com/seanpm2001/SNU_2D_Wiki/) | [SNU Messenger](https://github.com/seanpm2001/SNU_2D_Messenger/) |
-| [SNU VoIP client (Voices)](https://github.com/seanpm2001/SNU_2D_VoicesVoIP/) | [SNU Story BubbleWand (YT/IG story mode)](https://github.com/seanpm2001/SNU_2D_StoryBubbleWand/) | [SNU Dialup Experience](https://github.com/seanpm2001/SNU_2D_DialupExperience/) | [SNU Twitter Mode](https://github.com/seanpm2001/SNU_2D_TwitterMode) | [SNU Virtual Dictionary](https://github.com/seanpm2001/SNU_2D_VDictionary/) | [SNU Virtual Machine center](https://github.com/seanpm2001/SNU_2D_VMCenter) | [SNU YourSpace (MySpace alternative)](https://github.com/seanpm2001/SNU_2D_YourSpace/) | [SNU YouTube mode](https://github.com/seanpm2001/SNU_2D_YouTubeMode/) |
-| [SNU Lobby](https://github.com/seanpm2001/SNU_Lobby/) | [SNU Cursor settings](https://github.com/seanpm2001/SNU_CursorSettings/) | [SNU Server creator](https://github.com/seanpm2001/SNU_CRTSERVR/) | [SNU Call Center](https://github.com/seanpm2001/SNU_CallCenter/) | [SNU BotCoach (Bot manager)](https://github.com/seanpm2001/SNU_BotCoach/) | [SNU Debug Mode](https://github.com/seanpm2001/SNU_DebugMode) | [SNU Device Manager](https://github.com/seanpm2001/SNU_DeviceManager) | [SNU Legal Resource Center](https://github.com/seanpm2001/SNU_LegalResourceCenter/) |
-| [SNU Mascot Center](https://github.com/seanpm2001/SNU_MascotCenter/) | [SNU Modes](https://github.com/seanpm2001/SNU_Modes/) | [SNU OSKillers](https://github.com/seanpm2001/SNU_OSKillers/) | [SNU Peer to Peer section](https://github.com/seanpm2001/SNU_P2PSection/) | [SNU Playback Settings](https://github.com/seanpm2001/SNU_PlaybackSettings/) | [SNU Privacy Initiative](https://github.com/seanpm2001/SNU_PrivacyInitiative/) | [SNU Project Timeline](https://github.com/seanpm2001/SNU_ProjectTimeline/) | [SNU Protest ToolKit](https://github.com/seanpm2001/SNU_ProtestToolkit/) |
-| [SNU RSS Reader](https://github.com/seanpm2001/SNU_RSS/) | [SNU Internet Front](https://github.com/seanpm2001/SNU_InternetFront/) | [SNU Sound Settings](https://github.com/seanpm2001/SNU_SoundSettings/) | [SNU StartAScript](https://github.com/seanpm2001/SNU_StartAScript/) | [SNU Ancestry](https://github.com/seanpm2001/SNU_Ancestry/) | [SNU Family Tree](https://github.com/seanpm2001/SNU_FamilyTree/) | [SNU Porn](https://github.com7/seanpm2001/SNU_2D_Porn/) | [SNU Erotica](https://github.com/seanpm2001/SNU_2D_Erotica/) |
-| [SNU CloudDrive](https://github.com/seanpm2001/SNU_2D_CloudDrive/) | [SNU Keyboard](https://github.com/seanpm2001/SNU_Keyboard/) | [SNU Sports](https://github.com/seanpm2001/SNU_2D_Sports/) | [SNU eSports](https://github.com/seanpm2001/SNU_2D_eSports/) | [SNU DeepSwap](https://github.com/seanpm2001/SNU_DeepSwap/) | [SNU Urban Dictionary mode](https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode/) | [SNU TextEngine](https://github.com/seanpm2001/SNU_TextEngine/) | 99+ projects not listed |
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `SNU`](https://github.com/seanpm2001/SNU/) | [:octocat: `SNU 2D Programming Tools`](https:/github.com/seanpm2001/SNU_2D_ProgrammingTools) | [:octocat: `SNU 3D Universe`](https://github.com/seanpm2001/SNU_3D_Universe/) | [:octocat: `SNU 2D Update Log`](https://github.com/seanpm2001/SNU_2D_UpdateLog/) | [:octocat: `SNU 2D Translation`](https://github.com/seanpm2001/SNU_2D_Translation/) | [:octocat: `SNU Package Manager`](https://github.com/seanpm2001/SNU_Package_Manager/) |
+| [:octocat: `SNU 0D Mode`](https://github.com/seanpm2001/SNU_0DMode) | [:octocat: `SNU Extras`](https://github.com/seanpm2001/SNU_Extras/) | [:octocat: `SNU CardStack`](https://github.com/seanpm2001/SNU_CardStack/) |[SNU 1D Mode`](https://github.com/seanpm2001/SNU_1D_Mode/) | [:octocat: `SNU 1D`](https://github.com/SNU_1D/) | [:octocat: `SNU 2D`](https://github.com/seanpm2001/SNU_2D/) |
+| [:octocat: `SNU 3D`](https://github.com/seanpm2001/SNU_3D/) | [:octocat: `SNU 4D`](https://github.com/seanpm2001/SNU_4D/) | [:octocat: `SNU BrowserNose`](https://github.com/SNU_BrowserNose/) | [:octocat: `SNU 2D Beliefs`](https://github.com/SNU_2D_Beliefs/) | [:octocat: `SNU Dimensional Converter`](https://github.com/seanpm2001/SNU-Dimensional-Converter/) | [:octocat: `SNU Server Essentials`](https://github.com/seanpm2001/SNU_ServerEssentials/) |
+| [:octocat: `SNU Video Settings`](https://github.com/seanpm2001/SNU_VideoSettings/) | [:octocat: `SNU User History Management`](https://github.com/seanpm2001/SNU_UserHistoryManagement/) | [:octocat: `SNU About page and credits`](https://github.com/seanpm2001/SNU_About/) | [:octocat: `SNU Accesiblity settings`](https://github.com/seanpm2001/SNU_Accessibility/) | [:octocat: `SNU Extras`](https://github.com/seanpm2001/SNU_Extras/) | [:octocat: `SNU Account setup`](https://github.com/seanpm2001/SNU_AccountSetup/) |
+| [:octocat: `SNU Internet Museum`](https://github.com/seanpm2001/SNU_2D_InternetMuseum/) | [:octocat: `SNU PodCast manager (Podcast TriPod)`](https://github.com/seanpm2001/SNU_2D_PodcastTriPod/) | [:octocat: `SNU News aggregator`](https://github.com/seanpm2001/SNU_2D_News/) | [:octocat: `SNU Supersearch`](https://github.com/seanpm2001/SNU_Supersearch/) | [:octocat: `SNU Ethical and 100% optional advertisement system`](https://github.com/seanpm2001/SNU_2D_AD_SYS/) | [:octocat: `SNU User dashboard`](https://github.com/seanpm2001/SNU_2D_Dashboard/) |
+| [:octocat: `SNU Malware & Virus research and testing`](https://github.com/seanpm2001/SNU_2D_MalwareViru_RepoMode/) | [:octocat: `SNU Meme player`](https://github.com/seanpm2001/SNU_2D_Memes/) | [:octocat: `SNU IdeaBoard`](https://github.com/seanpm2001/SNU_2D_IdeaBoard/) | [:octocat: `SNU Slang Dictionary`](https://github.com/seanpm2001/SNU_2D_SlangDictionary/) | [:octocat: `SNU 2D Blog manager`](https://github.com/seanpm2001/SNU_2D_SNU_Blogs) | [:octocat: `SNU Books`](https://github.com/seanpm2001/SNU_2D_Books/) |
+| [:octocat: `SNU Game Viewer`](https://github.com/seanpm2001/SNU_3D_Game_Viewer/) | [:octocat: `SNU Engine Room`](https://github.com/seanpm2001/SNU_2D_Engine-room/) | [:octocat: `SNU Film Plaza`](https://github.com/seanpm2001/SNU_2D_Film_Plaza/) | [:octocat: `SNU Terror Bay archive center`](https://github.com/seanpm2001/SNU_2D_Terror_Bay/) | [:octocat: `SNU Time Machine`](https://github.com/seanpm2001/SNU_2D_Time_Machine/) | [:octocat: `SNU ToS`](https://github.com/seanpm2001/SNU_2D_TOS/) |
+| [:octocat: `SNU Video Theater`](https://github.com/seanpm2001/SNU_2D_Video_Theater/) | [:octocat: `SNU 3D Printing gallery`](https://github.com/seanpm2001/SNU_2D_3DPrinting/) | [:octocat: `SNU Algorithm`](https://github.com/seanpm2001/SNU_2D_Algorithm/) | [:octocat: `SNU Business manager`](https://github.com/seanpm2001/SNU_2D_Business/) | [:octocat: `SNU Phone (Calling Center)`](https://github.com/seanpm2001/SNU_2D_Calling_Center/) | [:octocat: `SNU Character support documentation`](https://github.com/seanpm2001/SNU_2D_Character_Support/) |
+| [:octocat: `SNU Evidence Locker`](https://github.com/seanpm2001/SNU_2D_EvidenceLocker/) | [:octocat: `SNU Disease Research Center`](https://github.com/seanpm2001/SNU_2D_DiseaseResearchCenter/) | [:octocat: `SNU Encyclopedia`](https://github.com/seanpm2001/SNU_2D_Encyclopedia/) | [:octocat: `SNU eSchool`](https://github.com/seanpm2001/SNU_2D_eSchool/) | [:octocat: `SNU File extension info`](https://github.com/seanpm2001/SNU_2D_FileExtensionHelp/) | [:octocat: `SNU FontMill`](https://github.com/seanpm2001/SNU_2D_FontMill/) |
+| [:octocat: `SNU Fonts`](https://github.com/seanpm2001/SNU_2D_Fonts/) | [:octocat: `SNU Health`](https://github.com/seanpm2001/SNU_2D_Health/) | [:octocat: `SNU Job finder`](https://github.com/seanpm2001/SNU_2D_Jobs/) | [:octocat: `SNU Life Stories`](https://github.com/seanpm2001/SNU_2D_LifeStories/) | [:octocat: `SNU LoopG (Vine alternative)`](https://github.com/seanpm2001/SNU_2D_LoopG/) | [:octocat: `SNU Puzzle Center`](https://github.com/seanpm2001/SNU_2D_PuzzleCenter/) |
+| [:octocat: `SNU Questionarium`](https://github.com/seanpm2001/SNU_2D_Questionarium/) | [:octocat: `SNU Software Center`](https://github.com/seanpm2001/SNU_2D_Software_Center/) | [:octocat: `SNU Speedruns`](https://github.com/seanpm2001/SNU_2D_Speedrunners/) | [:octocat: `SNU Video Streaming`](https://github.com/seanpm2001/SNU_2D_Streams/) | [:octocat: `SNU Suicide Prevention`](https://github.com/seanpm2001/SNU_2D_SuicidePrevention/) | [:octocat: `SNU TableTop Gamehouse`](https://github.com/seanpm2001/SNU_2D_TableTopGameHouse/) |
+| [:octocat: `SNU Torrent center`](https://github.com/seanpm2001/SNU_2D_Torrent/) | [:octocat: `SNU TV`](https://github.com/sea-npm2001/SNU_2D_TV/) | [:octocat: `SNU Typography Docs`](https://github.com/seanpm2001/SNU_2D_TypographyDocs/) | [:octocat: `SNU Video`](https://github.com/seanpm2001/SNU_2D_Video/) | [:octocat: `SNU Wiki`](https://github.com/seanpm2001/SNU_2D_Wiki/) | [:octocat: `SNU Messenger`](https://github.com/seanpm2001/SNU_2D_Messenger/) |
+| [:octocat: `SNU VoIP client (Voices)`](https://github.com/seanpm2001/SNU_2D_VoicesVoIP/) | [:octocat: `SNU Story BubbleWand (YT/IG story mode)`](https://github.com/seanpm2001/SNU_2D_StoryBubbleWand/) | [:octocat: `SNU Dialup Experience`](https://github.com/seanpm2001/SNU_2D_DialupExperience/) | [:octocat: `SNU Twitter Mode`](https://github.com/seanpm2001/SNU_2D_TwitterMode) | [:octocat: `SNU Virtual Dictionary`](https://github.com/seanpm2001/SNU_2D_VDictionary/) | [:octocat: `SNU Virtual Machine center`](https://github.com/seanpm2001/SNU_2D_VMCenter) |
+| [:octocat: `SNU YourSpace (MySpace alternative)`](https://github.com/seanpm2001/SNU_2D_YourSpace/) | [:octocat: `SNU YouTube mode`](https://github.com/seanpm2001/SNU_2D_YouTubeMode/) | [:octocat: `SNU Lobby`](https://github.com/seanpm2001/SNU_Lobby/) | [:octocat: `SNU Cursor settings`](https://github.com/seanpm2001/SNU_CursorSettings/) | [:octocat: `SNU Server creator`](https://github.com/seanpm2001/SNU_CRTSERVR/) | [:octocat: `SNU Call Center`](https://github.com/seanpm2001/SNU_CallCenter/) |
+| [:octocat: `SNU BotCoach (Bot manager)`](https://github.com/seanpm2001/SNU_BotCoach/) | [:octocat: `SNU Debug Mode`](https://github.com/seanpm2001/SNU_DebugMode) | [:octocat: `SNU Device Manager`](https://github.com/seanpm2001/SNU_DeviceManager) | [:octocat: `SNU Legal Resource Center`](https://github.com/seanpm2001/SNU_LegalResourceCenter/) | [:octocat: `SNU Mascot Center`](https://github.com/seanpm2001/SNU_MascotCenter/) | [:octocat: `SNU Modes`](https://github.com/seanpm2001/SNU_Modes/) |
+| [:octocat: `SNU OSKillers`](https://github.com/seanpm2001/SNU_OSKillers/) | [:octocat: `SNU Peer to Peer section`](https://github.com/seanpm2001/SNU_P2PSection/) | [:octocat: `SNU Playback Settings`](https://github.com/seanpm2001/SNU_PlaybackSettings/) | [:octocat: `SNU Privacy Initiative`](https://github.com/seanpm2001/SNU_PrivacyInitiative/) | [:octocat: `SNU Project Timeline`](https://github.com/seanpm2001/SNU_ProjectTimeline/) | [:octocat: `SNU Protest ToolKit`](https://github.com/seanpm2001/SNU_ProtestToolkit/) |
+ | [:octocat: `SNU RSS Reader`](https://github.com/seanpm2001/SNU_RSS/) | [:octocat: `SNU Internet Front`](https://github.com/seanpm2001/SNU_InternetFront/) | [:octocat: `SNU Sound Settings`](https://github.com/seanpm2001/SNU_SoundSettings/) | [:octocat: `SNU StartAScript`](https://github.com/seanpm2001/SNU_StartAScript/) | [:octocat: `SNU Ancestry`](https://github.com/seanpm2001/SNU_Ancestry/) | [:octocat: `SNU Family Tree`](https://github.com/seanpm2001/SNU_FamilyTree/) | 
+| [:octocat: `SNU Porn`](https://github.com7/seanpm2001/SNU_2D_Porn/) | [:octocat: `SNU Erotica`](https://github.com/seanpm2001/SNU_2D_Erotica/) | [:octocat: `SNU CloudDrive`](https://github.com/seanpm2001/SNU_2D_CloudDrive/) | [:octocat: `SNU Keyboard`](https://github.com/seanpm2001/SNU_Keyboard/) | [:octocat: `SNU Sports`](https://github.com/seanpm2001/SNU_2D_Sports/) | [:octocat: `SNU eSports`](https://github.com/seanpm2001/SNU_2D_eSports/) |
+| [:octocat: `SNU DeepSwap`](https://github.com/seanpm2001/SNU_DeepSwap/) | [:octocat: `SNU Urban Dictionary mode`](https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode/) | [:octocat: `SNU TextEngine`](https://github.com/seanpm2001/SNU_TextEngine/) | 🕸️ | 🕸️ | 99+ projects not listed |
 
 </details> <!-- End of core repository list section for the major project: SNU section !-->
 
@@ -2705,7 +3088,7 @@ A collective of my core-related projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the logo for this project (SeansLifeArchive)</b></p></summary>
 
-| <img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Artikel.png" width="150" height="150" align="left" style="margin-right: 30px"> | **SeansLifeArchive:** _A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th_ |
+| <img alt="Original Article profile picture failed to load. Click/tap here to attempt to view it" src="/Graphics/SeansLifeArchive/Article/Artikel.png" width="150" height="150" align="left" style="margin-right: 30px"> | **SeansLifeArchive:** _A project I have that contains a daily journal (planned upload date: 2040, May 15th) an audio collection, a set of personal projects, and a set of image repostories, along with other elements to make up an archive of my entire life. A complete listing is unavailable as of 2022, Wednesday, June 15th_ |
 |---|---|
 
 </details> <!-- End of logo section for major project section: SeansLifeArchive !-->
@@ -2814,7 +3197,7 @@ A collective of my computer security projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the logo for this project (Linux Defender)</b></p></summary>
 
-| <img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Media/Pax_tux.png" width="105" height="150" align="left" style="margin-right: 30px"> | **Linux Defender:** _An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you._ |
+| <img alt="Original Pax tux profile picture failed to load. Click/tap here to attempt to view it" src="/Graphics/Linux-Defender/Logo/Pax_tux.png" width="105" height="150" align="left" style="margin-right: 30px"> | **Linux Defender:** _An advanced Anti-virus for Linux, designed to look similar to Windows Defender, and be highly customizable if that doesn't suite you._ |
 |---|---|
 
 </details> <!-- End of logo section for major project section: Linux Defender !-->
@@ -4131,7 +4514,7 @@ _End of CranberryPS project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the logo for this project (MEDOS)</b></p></summary>
 
-| <img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Media/MEDOS4_Logo.bmp" title="MEDOS Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **MEDOS:** _A small variant of the Meadows Operating System designed to run entirely from external storage. Old description: An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed._ |
+| <img alt="Original MEDOS B4.0 profile picture failed to load. Click/tap here to attempt to view it" src="/Graphics/MEDOS/Bitmap/MEDOS4_Logo.bmp" title="MEDOS Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **MEDOS:** _A small variant of the Meadows Operating System designed to run entirely from external storage. Old description: An older project for a set of operating systems that run directly off external mediums, and can be remotely accessed._ |
 |---|---|
 
 </details> <!-- End of logo section for major project section: MEDOS !-->
@@ -4192,7 +4575,7 @@ _End of MEDOS project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the logo for this project (Measdows)</b></p></summary>
 
-| <img alt="Original Meadows logo placeholder failed to load. Click/tap here to attempt to view it" src="/Media/QMDS.png" title="Meadows Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **Meadows:** _My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing._ |
+| <img alt="Original Meadows logo placeholder failed to load. Click/tap here to attempt to view it" src="/Graphics/Meadows/Logo/QMDS.png" title="Meadows Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **Meadows:** _My dream operating system I have been planning out since 2013: it will be a Quantum computer operating system with every feature you would ever need for computing._ |
 |---|---|
 
 </details> <!-- End of logo section for major project section: Meadows !-->
@@ -4261,7 +4644,7 @@ _End of Meadows project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the logo for this project (WacOS)</b></p></summary>
 
-| <img alt="Original WOAHS X profile picture failed to load. Click/tap here to attempt to view it" src="/Media/W_WOAH_HighCompression.png" title="WacOS (WOAHS-X) Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **WacOS:** _An operating system megaproject: creating a free, libre, and open source alternative to every Apple system, while maintaining better functionality, and similar feels. No hackintosh needed._ |
+| <img alt="Original WOAHS X profile picture failed to load. Click/tap here to attempt to view it" src="/Graphics/WacOS/Logo/W_WOAH_HighCompression.png" title="WacOS (WOAHS-X) Logo" width="150" height="150" align="left" style="margin-right: 30px"> | **WacOS:** _An operating system megaproject: creating a free, libre, and open source alternative to every Apple system, while maintaining better functionality, and similar feels. No hackintosh needed._ |
 |---|---|
 
 </details> <!-- End of logo section for major project section: WacOS !-->
@@ -4674,6 +5057,71 @@ _End of BathHouseOS project section._
 
 ---
 
+#### [💿️ Major project: LennyOS](#-Major-project--LennyOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img alt="LennyOS logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LennyOS/Logo/LennyOS_1024pxIcon_V1_HighCompression.png" width="150" height="150" align="left" style="margin-right: 30px"> | **LennyOS** _An open source, customizable, and powerful operating system for eyeglass/eyewear._ |
+|---|---|
+
+</details> <!-- End of logo section for major project section: LennyOS !-->
+
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse the general information section for the major project: LennyOS</b></p></summary>
+
+- **🏠️ Home repository:** [:octocat: `LennyOS`](https://github.com/seanpm2001/LennyOS/)
+- **🔵️ Project categories:** `Operating System` `Tiny operating system` `Niche` `Eyeglass` `Eyewear`
+- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, April 7th)**
+- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, April 7th)**
+
+**Development status:** _Not functional and highly incomplete. Developers needed._
+
+</details> <!-- End of general information section for the major project: LennyOS section !-->
+
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse the language section for the major project: LennyOS</b></p></summary>
+
+| ## | **Languages** |
+|----|---|
+| 01 | `C` |
+| 02 | `Assembly` |
+| 03 | `Lua` |
+| 04 | `MoonScript` |
+| 05 | `nesC` |
+| 06 | `Markdown` |
+| 07 | `HTML` |
+| 08 | `YAML` |
+| 09 | `INI` |
+
+</details> <!-- End of language section for the major project: LennyOS section !-->
+
+---
+
+<details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: LennyOS</b></p></summary>
+
+**Core repositories:**
+
+| A | B | C | D | E | F |
+|---|---|---|---|---|---|
+| [:octocat: `LennyOS`](https://github.com/seanpm2001/LennyOS/) | [:octocat: `LennyOS Lens`](https://github.com/seanpm2001/LennyOS_Lens/) | [:octocat: `LennyOS Lasers`](https://github.com/seanpm2001/LennyOS_Lasers/) | [:octocat: `LennyOS Glow`](https://github.com/seanpm2001/LennyOS_Glow/) | [:octocat: `LennyOS Tint`](https://github.com/seanpm2001/LennyOS_Tint/) | [:octocat: `LennyOS Safety`](https://github.com/seanpm2001/LennyOS_Safety/) |
+| [:octocat: `LennyOS Docs](https://github.com/seanpm2001/LennyOS_Docs/) | [:octocat: `LennyOS Lens Docs](https://github.com/seanpm2001/LennyOS_Lens_Docs/) | [:octocat: `LennyOS Lasers Docs](https://github.com/seanpm2001/LennyOS_Lasers_Docs/) | [:octocat: `LennyOS Glow Docs](https://github.com/seanpm2001/LennyOS_Glow_Docs/) | [:octocat: `LennyOS Tint Docs](https://github.com/seanpm2001/LennyOS_Tint_Docs/) | [:octocat: `LennyOS Safety Docs](https://github.com/seanpm2001/LennyOS_Safety_Docs/) |
+| [:octocat: `LennyOS Installer`](https://github.com/seanpm2001/LennyOS_Installer/) | [:octocat: `LennyOS Stickers`](https://github.com/seanpm2001/LennyOS_Stickers/) | [:octocat: `LennyOS Opacity`](https://github.com/seanpm2001/LennyOS_Opacity/) | [:octocat: `LennyOS Prescription`](https://github.com/seanpm2001/LennyOS_Prescription/) | [:octocat: `LennyOS Colors`](https://github.com/seanpm2001/LennyOS_Colors/) | [:octocat: `LennyOS Core`](https://github.com/seanpm2001/LennyOS_Core/)
+| [:octocat: `LennyOS Installer docs`](https://github.com/seanpm2001/LennyOS_Installer_Docs/) | [:octocat: `LennyOS Stickers docs`](https://github.com/seanpm2001/LennyOS_Stickers_Docs/) | [:octocat: `LennyOS Opacity docs`](https://github.com/seanpm2001/LennyOS_Opacity_Docs/) | [:octocat: `LennyOS Prescription docs`](https://github.com/seanpm2001/LennyOS_Prescription_Docs/) | [:octocat: `LennyOS Colors docs`](https://github.com/seanpm2001/LennyOS_Colors_Docs/) | [:octocat: `LennyOS Core docs`](https://github.com/seanpm2001/LennyOS_Core_Docs/)
+| [:octocat: `LennyOS Hardware`](https://github.com/seanpm2001/LennyOS_Hardware/) | [:octocat: `LennyOS TinyOS`](https://github.com/seanpm2001/LennyOS_TinyOS/) | [:octocat: `LennyOS Linux`](https://github.com/seanpm2001/LennyOS_Linux/) | [:octocat: `LennyOS Hardware Docs`](https://github.com/seanpm2001/LennyOS_Hardware_Docs/) | [:octocat: `LennyOS TinyOS Docs`](https://github.com/seanpm2001/LennyOS_TinyOS_Docs/) | [:octocat: `LennyOS Linux Docs`](https://github.com/seanpm2001/LennyOS_Linux_Docs/) |
+| 👓️ | 🕶️ | 👓️ | 🕶️ | 👓️ | 🕶️ |
+
+</details> <!-- End of core repository list section for the major project: LennyOS section !-->
+
+---
+
+_End of LennyOS project section._
+
+</details> <!-- End of major project: LennyOS !-->
+
+---
+
 To add:
 
 - [x] CranberryOS
@@ -4682,11 +5130,11 @@ To add:
 - [x] MetroTechno
 - [x] AquariOS
 - [x] BathhouseOS
+- [x] LennyOS
 - [ ] Other
 
 Currently being decided on:
 
-- [ ] LennyOS
 - [ ] VRedroomOS
 
 _End of Operating System Collective._
@@ -4974,40 +5422,6 @@ A collective of my linguistics software projects.
 _End of Computing Languages project section._
 
 </details> <!-- End of major project: Computing languages !-->
-
----
-
-#### [💿️ Major project: Voice Synthesis](#-Major-project--Voice-Synthesis)
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-<!--
-<img alt="LibreFlock placeholder logo failed to load. Click/tap here to attempt to view it" src="/Graphics/LibreFlock/Logo/Placeholder/LibreFlock_PlaceholderIcon1.png" width="150" height="150" align="left" style="margin-right: 30px"> **LibreFlock** _An open source and expanded version of the classic slingshot puzzle game series, Angry Birds_
-
-- **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
-- **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
-- **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
-- **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
-
-**Development status:** _Not functional and highly incomplete. Developers needed._
-
-| ## | **Languages** |
-|----|---|
-| 01 | `GDScript` |
-| 02 | `Markdown` |
-| 03 | `HTML` |
-| 04 | `YAML` |
-| 05 | `INI` |
-
-**Core repositories:**
-
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-!-->
-
-Section coming soon
-
-</details> <!-- End of major project: Voice Synthesis !-->
 
 ---
 
@@ -5725,7 +6139,7 @@ For further information, go to the official [:octocat: `Region-related software 
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-![/Graphics/Icons/Learn/LetterL_10Colors.gif](/Graphics/Icons/Learn/LetterL_10Colors.gif)
+<img src="/Graphics/Icons/Learn/LetterL_10Colors.gif" alt="Learn GIF failed to load" title="Animated letter L" width="128" height="128">
 
 [:octocat: `seanpm2001/Learn`](https://github.com/seanpm2001/Learn/)
 
@@ -5957,9 +6371,9 @@ _End of awards section_
 	
 ***
 	
-![GitHub Profile picture failed to load. Click here to attempt to view it](SeniorPhotoFullQuality.jpeg)
+<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/SeniorPhotoFullQuality.jpeg" alt="GitHub Profile picture failed to load. Click here to attempt to view it" title="My high school senior photo (2020)" width="600" height="428">
 
-Current profile picture as of March 4th 2021 [Click here to download in full quality (JPEG)](SeniorPhotoFullQuality.jpeg) [Click here to see past profile pictures](#Profile-picture-history)
+Current profile picture as of March 4th 2021 [Click here to download in full quality (JPEG)](/SeniorPhotoFullQuality.jpeg) [Click here to see past profile pictures](#Profile-picture-history)
 
 If you have been sent here through a link through SMS (text messaging) congratulations! You are a close friend, and one of 73 people/bots who have access to my phone number and have been approved by me. If you would like, you can take a quick look at my [texting guidelines](https://github.com/seanpm2001/SMS-Messaging-with-Sean), or to put it simply: don't spam, don't share my number, and feel free to message me and send me anything at any time (even midnight, or 3:22 am) I likely won't respond immediately, but I will get to you when I am awake.
 
@@ -5967,7 +6381,7 @@ If you have been sent here through a link through SMS (text messaging) congratul
 
 ***
 
-[GitHub profile secret info](/SECRET.md)
+- [`GitHub profile secret info`](/SECRET.md)
 
 <!--
 **seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6000,7 +6414,7 @@ See my year in review for:
 
 All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
 
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
+<img src="/DRM-free_label.en.svg" alt="DRM is anti-competitive and pure evil" title="DayAgainstDRM, DRM is very bad" width="100" height="100">
 
 This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
 
@@ -6079,11 +6493,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `90 (2024, Saturday, April 6th at 01:15 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,661`
-- **Word count:** `058,597`
-- **Character count (with spaces):** `0,424,942 characters`
-- **Character count (without spaces)** `0,371,826 characters`
+- **File version:** `91 (2024, Sunday, April 7th at 03:00 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,106`
+- **Word count:** `061,222`
+- **Character count (with spaces):** `0,444,590 characters`
+- **Character count (without spaces)** `0,388,902 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8355,13 +8769,13 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 <details><summary><b lang="en">Version 90 (2024, Saturday, April 6th at 01:15 pm PST)</b></summary>
 
-
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > **Note** _This is the sixteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 5th to 2024, April 6th. Further formatting issues were fixed, and new data is included._
 
 > Changes:
 
+- [x] Created the `Quick links` section
 - [x] Updated the header
 - [x] Updated information on the remodel of this project
 - [x] Updated the `Size warning` section
@@ -8384,11 +8798,41 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 91 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 91 (2024, Sunday, April 7th at 03:00 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the seventeenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 6th to 2024, April 7th. Further formatting issues were fixed, and new data is included._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the header
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- - [x] Moved the `Size warning` section
+- [x] Added the `Geography` section
+- [x] Improvements to the `GitHub Organizations` section
+- [x] Improvements to the `Commit Count Milestones` section
+- [x] Updated the `Major projects` section
+- - [x] Updated the `Framework collective` section
+- - - [x] Fixed issues with the `SNU project` section
+- - [x] Updated the `Linguistics collective` section
+- - - [x] Removed the voice synthesis category for now
+- - [x] Updated the `Operating Systems collective` section
+- - - [x] Added support for `LennyOS`
+- [x] Replaced all `/Media/` links with `/Graphics/` links
+- [x] Began replacing all Markdown image tags with HTML image tags
+- [x] Updated the `Anime` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 91
 - [ ] No other changes in version 91
 
 </details> <!-- End of V91 !-->
@@ -8526,7 +8970,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 6th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-6th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 7th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-7th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8548,6 +8992,7 @@ _End of file version history_
 - - [Link to remodel section version 14 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md)
 - - [Link to remodel section version 15 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md)
 - - [Link to remodel section version 16 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md)
+- - [Link to remodel section version 17 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8601,7 +9046,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `4096`
 - - **Current emoji count:** `~1898`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V90: `431,192` / `524,288` (`082.243%`))
+- - **Current character count (in bytes):** (as of V91: `450,964` / `524,288` (`086.014%`))
 
 > Memory
 
@@ -8646,7 +9091,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 90** | _2024, Saturday, April 6th_ |
+| **Version 91** | _2024, Sunday, April 7th_ |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
