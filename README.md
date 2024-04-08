@@ -66,7 +66,7 @@ _Further instructions not yet available._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/4-Year-Anniversary-Update/Errors/4YearAnniversaryUpdate_Beta14_Issue.png" alt="This repository is taking too long to load image" width="800" height="140"> |
+| <img src="/Graphics/4-Year-Anniversary-Update/Errors/4YearAnniversaryUpdate_Beta14_Issue.png" alt="This repository is taking too long to load image" title="GitHub refuses to render beta 14 due to about 30+ unclosed details tags" width="800" height="140"> |
 |---|
 | **This issue started with beta 14 of the 4 year anniversary update, and was fixed with beta 15** |
 
@@ -74,6 +74,7 @@ _Further instructions not yet available._
 - [2024.04.05] The amount has dropped down with the 2024, Friday, April 5th update, but I still can't get the document to render now
 - [2024.04.06] The file is back to normal standing, and the rendering issue has been fixed. I am still working on keeping the file under 524,289 bytes
 - [2024.04.07] Something may need to be done with the `What I'm currently working on§Major projects` section, as it is the biggest part of this file, yet it can't be shrunk easily. I am still working on keeping the file under 524,289 bytes
+- [2024.04.08] Size wasn't as much of a concern today, but I am still being cautious
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -199,7 +200,7 @@ _End of translation section._
 |---|
 | [:octocat: `Sign the guestbook`](https://github.com/seanpm2001/Guestbook/discussions/new/choose) |
 
-This guestbook is for basic interaction, and communications. For further communication, try [looking for a form of communication here](#Identity-theft)
+This guestbook is for basic interaction, and communications. For further communication, try [looking for a form of communication here](#-Online-Identity)
 
 - [`View this section separately`](/Segments/Guestbook/README.md)
 
@@ -260,7 +261,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 17 - 2024, Sunday, April 7th` |
+| `Beta 18 - 2024, Monday, April 8th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -271,7 +272,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 17 days down, 47/48 days to go, as of 2024, Sunday, April 7th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 18 days down, 46/47 days to go, as of 2024, Monday, April 8th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -314,7 +315,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
 | [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
 | [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
-| Beta 18 | Coming soon | 17 |
+| [Beta 18](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
 | Beta 19 | Coming soon | 18 |
 | Beta 20 | Coming soon | 19 |
 | Beta 21 | Coming soon | 20 |
@@ -387,10 +388,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `43` **/** `216` **tasks** _(019.90%)_ |
-| _as of 2024, Sunday, April 7th_ |
+| `45` **/** `220` **tasks** _(020.45%)_ |
+| _as of 2024, Monday, April 8th_ |
 
-- **Current tasks to do (43 tasks, as of 2024, Sunday, April 7th)**
+- **Current tasks to do (45 tasks, as of 2024, Monday, April 8th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -425,20 +426,22 @@ Music section | AudioDB, bandcamp
 Certificates
 UnSaaSS project
 Update information about Windows and MacOS support
-Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Updates to Legend
 Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
 Add a link to the segment file for each section (WIP)
-Add icons for all social media services used
 Make non-bitmap version of MEDOS 4 logo
 Make use of video: confetti
 Make use of videos: GitHub weird behavior (2020) take 1 and take 2
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
+Properly format all img tags
+Keyword: " src=
+Should be replaced with:
+src="" alt=
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -455,10 +458,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `172` **/** `216` **tasks** _(079.10%)_ |
-| _as of 2024, Sunday, April 7th_ |
+| `175` **/** `220` **tasks** _(079.54%)_ |
+| _as of 2024, Monday, April 8th_ |
 
-- **Tasks implemented so far (172 tasks, as of 2024, Sunday, April 7th)**
+- **Tasks implemented so far (175 tasks, as of 2024, Monday, April 8th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -636,6 +639,9 @@ Temporarily remove voice synthesis section
 Add logos for GOI and CCM
 Major project: LennyOS
 Get /Graphics/ versions of all /Media/ media, and give them better filenames
+Add icons for all social media services used
+Give identity theft a better name, and update the link in the guestbook section with this newly named section
+Improve Online identity section
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -986,15 +992,116 @@ I am an entry-level graphic designer with a large preference for skeumorphism an
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-<img src="/Graphics/Hobbies/Linguistics/Linguistics1.jpeg" alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" title="Linguistics icon 1" width="100" height="100" align="left">
+| <img src="/Graphics/Hobbies/Linguistics/Linguistics1.jpeg" alt="Original linguistics profile picture failed to load. Click/tap here to attempt to view it" title="Linguistics icon 1" width="100" height="100" align="left"> |
+|---|
+| Linguistics |
 
 I have been a linguist since my early childhood. I jokingly changed my middle name to `language` in my early childhood, but I think it would fit as a 2nd middle name.
 
-<img src="/Graphics/Hobbies/Linguistics/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" title="Cyrillic text sample" width="100" height="100" align="right"> 
+| <img src="/Graphics/Hobbies/Linguistics/Cyrillic_letter_Zhe_-_uppercase_and_lowercase.svg" alt="Original linguistics:Cyrillic profile picture failed to load. Click/tap here to attempt to view it" title="Cyrillic text sample" width="100" height="100" align="right"> |
+|---|
+| Cyrillic Zhe sample Ж |
 
-I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't wri-te completely in a language other than English, Python, HTML, or markdown.
+I like the look and sound of various languages, whether they are human spoken or machine instructions. Unfortunately, I can't write completely in a language other than English, Python, HTML, or markdown.
 
-**This section needs expansion**
+| <img src="/Graphics/Linguistics/Georgian/Damts'erloba.svg" alt="Georgian language sample" title="Sample Georgian language text" width="695" height="154" align="left"> |
+|---|
+| Georgian language |
+
+Georgian is an interesting language to me that expanded my interest in Linguistics around 2018-2019.
+
+| <img src="/Graphics/Linguistics/Ancient-Egyptian-Hieroglpyhs/Minnakht_01.jpeg" alt="Ancient Egyptian Hieroglyph sample" title="Ancient Egyptiona Hieroglphy sample" width="1024" height="768" align="right"> |
+|---|
+| Ancient Egyptian Hieroglyphs |
+
+I have interest in hieroglyph languages, Ancient Egyptian was the first one I saw.
+
+| <img src="/Graphics/Linguistics/Berber/Tifinagh_alphabet.png" alt="Berber (Tifinagh) alphabet sample" title="The Tifinagh alphabet" width="928" height="620" align="left"> |
+|---|
+| Tifinagh alphabet (Berber languages) |
+
+I like the aethetics of the Berber language, it was a highlight of mine in 2019. I used to play with the Windows character map looking at languages, and this was one that really caught my eye.
+
+| <img src="/Graphics/Linguistics/Japanese/Nihongo.svg" alt="Japanese language sample" title="Japanese language sample" width="200" height="448"> | <img src="/Graphics/Linguistics/Chinese/Chineselanguage.svg" alt="Chinese language sample" title="Chinese language sample" width="350" height="568"> | <img src="/Graphics/Linguistics/Korean/Hangugeo-Chosonmal.svg" alt="Korean language sample" title="Korean language sample" width="263" height="371"> |
+|---|---|---|
+| Japanese | Chinese | Korean |
+
+I am easily able to tell the difference between the Japanese, Chinese, and Korean languages, although I can't read/write in them, and I only know how to say a handful of words in these languages.
+
+| <img src="/Graphics/Linguistics/Gothic/Wulfila_bibel.jpeg" alt="Gothic language sample" title="Gothic language sample" width="350" height="440" align="left"> |
+|---|
+| Gothic language |
+
+One day, I was browsing Wiktionary, and I discovered the Gothic language. It has a really cool alphabet. My favorite letter in the Gothic alphabet is `𐌸`
+
+| <img src="/Graphics/Linguistics/Greek/Greekalphabet.svg" alt="Greek alphabet" title="The Greek Alphabet" width="450" height="55" align="right"> |
+|---|
+| Greek language |
+
+Greek is another interesting language. I am actively memorizing and researching the language.
+
+| <img src="/Graphics/Linguistics/Icelandic/Icelandic-Alphabet.png" alt="Icelandic alphabet" title="The Icelandic Alphabet" width="1521" height="242" align="center"> |
+|---|
+| Icelandic alphabet |
+
+Functionally speaking, if I were to use another language other than English as my preferred primary language, I would choose Icelandic. It is functional, and fits with me well.
+
+| <img src="/Graphics/Linguistics/Latin/Abecedarium_latinum_clasicum.svg" alt="Latin alphabet" title="The Latin Alphabet" width="438" height="168" align="left"> |
+|---|
+| Latin alphabet |
+
+I know several Latin phrases, but, like most people, I speak a language that uses the Latin script, but not Latin itself. I also know that Latin has a lot more letters than what is typically seen, there are close to 500 Latin letters (when you account acutes, diacritics, and other letters)
+
+| <img src="/Graphics/Linguistics/Ukrainian/Ukrainian_alphabet_in_capital_letters.svg" alt="Ukrainian alphabet" title="The Ukrainian alphabet" width="670" height="360" align="right"> |
+|---|
+| Ukrainian alphabet |
+
+I have been trying to learn the Ukrainian language instead of the Russian language since 2022. I set a goal in 2023 to learn 1 Ukrainian word per day, but unfortunately, I stopped after about 40 days. Ukrainian is very mutually intelligible with the Belarusian and Russian languages.
+
+| <img src="/Graphics/Linguistics/Armenian/Armenian_Alphabet_Uppercase_lowercase_and_transcription.svg" alt="Armenian alphabet" title="The Armenian alphabet" width="670" height="360" align="left"> |
+|---|
+| Armenian alphabet |
+
+Armenian is another unique looking language. I have yet to learn a single word in Armenian.
+
+| <img src="/Graphics/Linguistics/Arabic/Arabic_albayancalligraphy.svg" alt="Arabic calligraphy" title="Arabic sample" width="686" height="302" align="right"> |
+|---|
+| Arabic language |
+
+I know some words in Arabic. It is a hard language for me to learn, as it contains a different script, and the writing direction is right to left, instead of left to right.
+
+| <img src="/Graphics/Linguistics/Cuneiform/Cuneiform_pictographic_signs_(vertical).jpeg" alt="Cuneiform text sample" title="Cuneiform text sample" width="567" height="513" align="left"> | <img src="/Graphics/Linguistics/Cuneiform/Xerxes_Cuneiform_Van.jpeg" alt="Cuneiform carving" title="Cuneiform carving" width="691" height="590"> |
+|---|---|
+| Cuneiform minor | Cuneiform major |
+
+I learned how to write a little bit in Cuneiform. It isn't a skill I use very often, as it is not needed very much nowadays.
+
+| <img src="/Graphics/Linguistics/Hebrew/Alefbet_ivri.svg" alt="Hebrew text sample" title="Hebrew text sample" width="567" height="513" align="right"> |
+|---|
+| Hebrew language |
+
+Hebrew is another right to left language, and has interesting simplicity in its writing system. I know few words in Hebrew.
+
+| <img src="/Graphics/Linguistics/Mongolian/Monggol_kele.svg" alt="Mongolian text sample" title="Mongolian text sample" width="135" height="405" align="left"> |
+|---|
+| Classic Mongolian language |
+
+Mongolian is a unique language, as it is written vertically, instead of horizontally. The modern version of the Mongolian language isn't as unique, as it just uses Cyrillic.
+
+ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ
+
+Unfortunately, Ubuntu 20.04 and 22.04 by default don't support a font that supports the classic Mongolian lannguage.
+
+| Overview |
+|---|
+
+I have a strong interest in linguistics, it doesn't matter the language, the writing system, the age, the history, etc. I just like learning about new languages. This interest also has expanded into programming languages. I divide it up like this:
+
+| Type | Sample |
+|---|---|
+| Human spoken languages | English |
+| Programming language | Python |
+| Markup language | HTML |
 
 **Segment link coming soon**
 
@@ -1405,114 +1512,503 @@ Note: this email address is NOT a mailing list, it is just named like that. The 
 
 ***
 
-## [🆔️ Identity theft](#-Identity-theft)
+## [🆔️ Online Identity](#-Online-Identity)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-To avoid possible identity theft, I will link to all the services I use here.
+**Formerly known as** `Identity theft` (renamed to `Online identity` on 2024, April 8th)
+
+To avoid possible imposters, I will link to all the services I use here.
+
+This section is actively being remodeled. It can also be viewed [here instead](/Segments/Online-Identity/README.md)
+
+TODO
+
+- [ ] Add AspergerExperts
+- [ ] Add ClockTree
+- [ ] Add Growtopia
+- [ ] Add Internet Archive
+- [ ] Add MediaFire
+- [ ] Add Patreon
+- [ ] Add PayPal
+- [ ] Add 3 other GitHub accounts (2 inactive, 1 banned)
+- [ ] Add ProtonMail
+- [ ] Add 2 other Reddit accounts
+- [ ] Add Steam
+- [ ] Add Vimeo
+- [ ] Add OpenCollective
+- [ ] Add Ko-Fi
+- [ ] Add LiberaPay
+- [ ] Add IssueHunt
+- [ ] Add iTunes
+- [ ] Add Google+
+- [ ] Add Minecraft
+- [ ] Add pCloud
+- [ ] Add Degoo
+- [ ] Add OneDrive
+- [ ] Add SUPERCELL
+- [ ] Add Trello
+- [ ] Add Aleks
+- [ ] Add Edhesive
+- [ ] Add Nintendo
+- [ ] Add Pornhub (as a never used site)
+- [ ] Add VK (as a never used site)
+- [ ] Add Amazon
+- [ ] Add Google Play
+- [ ] Add Marco Polo
+- [ ] Add Thingiverse
+- [ ] Add Hulu (family account)
+- [ ] Add Poptropica
+- [ ] Add Kongregate
+- [ ] Add NitroType
+- [ ] Add Code.org
+- [ ] Add Zoom (virtual machine only)
+- [ ] Add Pinterest (as a never used site)
+- [ ] Add AirBnB (family account)
+- [ ] Add VRBO (family account)
+- [ ] Merge `Projects on other platforms`
+- [ ] Merge `Email information`
+- [ ] Merge `How to reach me`
+
+### [🌉️ Platforms I am on](#-Platforms-I-am-on)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I am on the following platforms
 
--[]()
+### [🔔️ Platforms I still use](#-Platforms-I-still-use)
 
-- [Reddit](https://reddit.com/u/seanwallawalla) - Although I don't post very often
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
--[]()
+Platforms I have an account for and still use include:
 
-- [Discord](#How-to-reach-me) - Note: I stopped using Discord full time in 2021 February, but I still use it.
+---
 
-> * SeanWallaWalla#1709 (my original Discord account)
-> * seanpm2001#4906 (my newest Discord account)
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-- [Wikipedia (old, blanked page)](https://en.wikipedia.org/wiki/User:Seanwallawalla?&useskin=monobook)
-- [Wikipedia (newer user page)](https://en.wikipedia.org/wiki/User:Seanpm2001?&useskin=monobook)
+| <img src="/Graphics/Other-sites/Wikipedia/Wikipedia-logo-v2.svg" alt="Wikipedia V2 logo failed to load" title="Logo of Wikipedia" width="206" height="188"> |
+|---|
+| [`Wikipedia`](https://en.wikipedia.org/) |
+
+- [`Wikipedia (old, blanked page) @seanwallawalla`](https://en.wikipedia.org/wiki/User:Seanwallawalla?&useskin=monobook)
+- [`Wikipedia (newer user page @seanpm2001)`](https://en.wikipedia.org/wiki/User:Seanpm2001?&useskin=monobook)
 
 - - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
 
--[]()
+</details> <!-- End of $Wikipedia !-->
 
-- [GitHub](https://github.com/seanpm2001/) <!-- - Obviously !-->
-- [GitHub Alt account](https://github.com/seanwallawalla/)
+---
 
--[]()
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-- [YouTube](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
+| <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub" width="128" height="128"> |
+|---|
+| [:octocat: `GitHub`](https://github.com/) |
 
-* [YouTube second channel](#Identity-theft)
+- [:octocat: `GitHub Main account (@seanpm2001)`](https://github.com/seanpm2001/)
+- [:octocat: `GitHub Alt account (@seanwallawalla)`](https://github.com/seanwallawalla/)
 
-* Other
+</details> <!-- End of $GitHub !-->
 
-![]()
+---
 
-- [FreeCodeCamp](https://www.freecodecamp.org/Seanpm2001)
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-- I work with FreeCodeCamp daily.
-- - Further information: [:octocat: `/seanpm2001/FreeCodeCamp_Seanpm2001/`](https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001/)
+| <img src="/Graphics/Other-sites/FreeCodeCamp/FreeCodeCamp_logo.svg" alt="FreeCodeCamp wordmark failed to load" title="FreeCodeCamp wordmark" width="222" height="26"> |
+|---|
+| [`FreeCodeCamp`](https://www.freecodecamp.org/) |
 
-![]()
+- [`FreeCodeCamp main account @seanpm2001`](https://www.freecodecamp.org/Seanpm2001)
+- - I work with FreeCodeCamp daily.
+- - - Further information: [:octocat: `/seanpm2001/FreeCodeCamp_Seanpm2001/`](https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001/)
 
-- [Mastodon](https://techhub.social/@seanpm2001)
+</details> <!-- End of $FreeCodeCamp !-->
 
-- I post on Mastodon weekly (at least once per week)
+---
 
-![]()
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-- [Mozilla](#Identity-theft) - I no longer have a Mozilla account
+| <img src="/Graphics/Social-Media/Mastodon/Mastodon_logotype_(simple)_new_hue.svg" alt="Mastodon logo failed to load" title="Logo of Mastodon" width="130" height="130"> |
+|---|
+| [`Mastodon`](https://joinmastodon.org/) |
+ 
+- [`Mastodon (techHub.social) @seanpm2001`](https://techhub.social/@seanpm2001)
+- - I post on Mastodon weekly (at least once per week)
 
-![]()
+</details> <!-- End of $Mastodon !-->
 
-- [Twitter](https://www.twitter.com/@seanwallawalla) - No longer use as of 2018, slightly cringy, but not too bad
-- Account list
-- [`@seanwallawalla`](https://twitter.com/seanwallawalla/) **Main account**
-- [`@seanwallawallaa`](https://twitter.com/seanwallawallaa/) **Animation account**
-- [`@seanwallawallab`](https://twitter.com/seanwallawallab/) **Business account**
-- [`@seanwallawallae`](https://twitter.com/seanwallawallae/) **Electronic library account**
-- [`@seanwallawallal`](https://twitter.com/seanwallawallal/) **Live stream account**
-- [`@seanwallawalla2`](https://twitter.com/seanwallawalla2/) **"2nd" twitter account**
-- I currently plan on deleting these accounts once they have been crawled by the Wayback machine, or until the algorithm deletes them, whichever comes first
-- - Further information: [:octocat: `/seanpm2001/Twitter/`](https://github.com/seanpm2001/Twitter/)
+---
 
-- [Scratch](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
-- [Scratch attempted main account](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
+_End of platforms I still use section._
 
-* Other?
+</details> <!-- End of platforms I still use section !-->
 
-<img src="/Graphics/Social-Media/Facebook/no-facebook.svg" alt="No facebook vector image failed to load" title="Not F'd, you won't find me on Facebook (GNU Facebook protest)" width="524" height="148">
+---
+
+### [🔕️ Platforms I no longer use](#-Platforms-I-no-longer-use)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This list is for platforms I have an account for, but no longer use. Unless stated otherwise, there is a chance I may come back to any of this. The list includeS:
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Reddit/Reddit_logo.svg" alt="Reddit logo failed to load" title="Logo of Reddit" width="285" height="81"> |
+|---|
+| [`Reddit`](https://reddit.com/) |
+
+- [`Reddit`](https://reddit.com/u/seanwallawalla) - Although I don't post very often. As of 2023, June, I no longer use Reddit (I was being weighed down by it, and the API change was the final nail in the coffin)
+- [:octocat: `Other Reddit accounts`](https://github.com/seanpm2001/Reddit/)
+
+</details> <!-- End of $Reddit !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Discord/Discord_Color_Text_Logo_(2015-2021).svg" alt="Discord logo failed to load" title="Wordmark of Discord" width="492" height="92"> |
+|---|
+| [`Discord`](https://discord.com/) |
+
+- Note: I stopped using Discord full time in 2021 February, but I still use it.
+- - SeanWallaWalla#1709 (my original Discord account)
+- - seanpm2001#4906 (my newest Discord account)
+
+</details> <!-- End of $Discord !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/YouTube/Logo_of_YouTube_(2006-2011).svg" alt="YouTube wordmark failed to load" title="YouTube wordmark" width="221" height="88"> |
+|---|
+| [`YouTube`](https://www.youtube.com/) |
+
+- [`YouTube main channel @seanwallawalla`](https://www.youtube.com/c/seanwallawalla) - Main channel, abandoned in 2018
+- [:octocat: `YouTube other accounts`](https://github.com/seanpm2001/YouTube/)
+
+</details> <!-- End of $YouTube !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Mozilla/Mozilla_logo.svg" alt="Mozilla wordmark failed to load" title="Mozilla Wordmark" width="280" height="80"> |
+|---|
+| [`Mozilla`](https://www.mozilla.org/en-US/) |
+
+- [`Old Mozilla account u/seanwallawallaofficial`](https://support.mozilla.org/en-US/user/seanwallawallaofficial/)
+- - I no longer have a Mozilla account
+
+</details> <!-- End of $Mozilla !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/GitLab/GitLab_logo.svg" alt="GitLab wordmark failed to load" title="GitLab wordmark" width="202" height="62"> |
+|---|
+| [`GitLab`](https://gitlab.com/) |
+
+- [`GitLab main account @seanpm2001`](https://gitlab.com/seanpm2001/)
+- - Further information: [:octocat: `/seanpm2001/.gitlab/`](https://github.com/seanpm2001/.gitlab/)
+
+</details> <!-- End of $GitLab !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/BitBucket/Bitbucket-blue-logomark-only.svg" alt="BitBucket logo failed to load" title="Logo of BitBucket" width="300" height="300"> |
+|---|
+| [`BitBucket`](https://bitbucket.org/) |
+
+- [`BitBucket main account @seanpm2001`](https://bitbucket.org/seanpm2001/workspace/repositories/)
+- - Further information: [:octocat: `/seanpm2001/BitBucket/`](https://github.com/seanpm2001/BitBucket/)
+
+</details> <!-- End of $BitBucket !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/SourceForge/Sourceforge_logo.svg" alt="SourceForge Wordmark failed to load" title="Wordmark of SourceForge" width="653" height="103"> |
+|---|
+| [`SourceForge`](https://sourceforge.net/) |
+
+- [`SourceForge main account @seanpm2001 (404)`](https://sourceforge.net/user/seanpm2001/)
+- - Further information: [:octocat: `/seanpm2001/SourceForge/`](https://github.com/seanpm2001/SourceForge/)
+
+</details> <!-- End of $SourceForge !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Khan-Academy/Khan_Academy_Logo_Old_version_2015.jpeg" alt="Khan Academy logo failed to load" title="Logo of Khan Academy" width="300" height="300"> |
+|---|
+| [`Khan Academy`](https://www.khanacademy.org/) |
+
+- [`Khan Academy main account @seanwallawallaofficial`](https://www.khanacademy.org/profile/seanwallawallaofficial)
+- - Further information: [:octocat: `/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/)
+
+</details> <!-- End of $KhanAcademy !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Twitter/Logo_of_Twitter.svg" alt="Twitter logo failed to load" title="Logo of Twitter" width="248" height="204"> |
+|---|
+| [`Twitter`](https://www.twitter.com/) |
+
+- [`Twitter @seanwallawalla`](https://twitter.com/seanwallawalla/) **Main account**
+- [`Twitter @seanwallawallaa`](https://twitter.com/seanwallawallaa/) **Animation account**
+- [`Twitter @seanwallawallab`](https://twitter.com/seanwallawallab/) **Business account**
+- [`Twitter @seanwallawallae`](https://twitter.com/seanwallawallae/) **Electronic library account**
+- [`Twitter @seanwallawallal`](https://twitter.com/seanwallawallal/) **Live stream account**
+- [`Twitter @seanwallawalla2`](https://twitter.com/seanwallawalla2/) **"2nd" twitter account**
+- - No longer use as of 2018, slightly cringy, but not too bad
+- - - I currently plan on deleting these accounts once they have been crawled by the Wayback machine, or until the algorithm deletes them, whichever comes first
+- - - - Further information: [:octocat: `/seanpm2001/Twitter/`](https://github.com/seanpm2001/Twitter/)
+
+</details> <!-- End of $Twitter !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Scratch/Scratch_Logo.svg" alt="Scratch wordmark failed to load" title="Wordmark of Scratch" width="214" height="72"> |
+|---|
+| [`Scratch`](https://scratch.mit.edu/) |
+
+- [`Scratch main account @seanspokane2015`](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
+- [`Scratch attempted main account @seanwallawalla`](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
+- [:octocat: `Other Scratch accounts`](https://github.com/seanpm2001/Scratch.)
+
+</details> <!-- End of $Scratch !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Instagram/Instagram_logo_2016.svg" alt="Instagram logo failed to load" title="Logo of Instagram" width="132" height="132"> |
+|---|
+| [`Instagram`](https://www.instagram.com/) |
+
+- [`Instagram @seanpm2001`](https://github.com/seanpm2001/Instagram/)
+- - My account was suspended and deleted for "illegally harvesting user data" 4 days after I used the data takeout tool provided by Instagram itself.
+
+</details> <!-- End of $Instagram !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Facebook/Facebook_Shiny_Icon.svg" alt="Facebook logo failed to load" title="Logo of Facebook" width="128" height="128"> |
+|---|
+| [`Facebook](https://www.facebook.com/) |
+
+- Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
+
+| <img src="/Graphics/Social-Media/Facebook/no-facebook.svg" alt="No facebook vector image failed to load" title="Not F'd, you won't find me on Facebook (GNU Facebook protest)" width="524" height="148"> |
+|---|
+| Say no to Facebook |
 
 <details><summary><H4>Transcript (if the image fails to load)</H4></summary>
 
+```
 You won't find me on Facebook
-
 Not F'd
+```
 
 </details> <!-- End of no facebook transcript section !-->
 
 This sticker is supported by [`Richard Stallman`](https://stallman.org/) to protest Facebook, Instagram, WhatsApp, and other Facebook products.
 
-- [Instagram](https://github.com/seanpm2001/Instagram/) - My account was suspended and deleted for "illegally harvesting user data" 4 days after I used the data takeout tool provided by Instagram itself.
-- [Facebook](#Identity-theft) - Hardly ever used (less than 3 hours total usage) abandoned since 2015 due to a lack of interest, and also forgetting the password
-- [Yelp](#Identit-theft) - Link is incomplete
-- [Tumblr](https://tumblr.com) - Link is incomplete
-- [Bandcamp](https://seanwallawalla.bandcamp.com/releases) - My only way of earning money online at the moment
-- [Quora](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here
-- [Go90](https://www.example.com) - Created an account, barely attempted to use, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
-- [Ditty.it](https://www.example.com) - Created and exported all videos, used daily for a while, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+</details> <!-- End of $Facebook !-->
 
-**List is incomplete. Try bugging me to fix it. I will eventually when I have time, but I might not get to it soon enough.**
+---
 
-However, I am not on other platforms. If you see someone posing on me on other platforms, don't take their word, as they are commiting identity theft. _Identity theft is not a joke Jim. Millions of families suffer every year_ - Dwight Shrute (The Office, US version) [YouTube link is you prefer](https://www.youtube.com/watch?v=5f5ni0zpl5E) [Vimeo link, but without the official video, just audio and text](https://vimeo.com/464892816) in all seriousness, Identity theft is an actual problem.
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-Popular platforms I am not on:
+| <img src="/Graphics/Other-sites/Yelp/Yelp_Logo.svg" alt="Yelp wordmark failed to load" title="Yelp wordmark" width="496" height="200"> |
+|---|
+| [`Yelp`](https://www.yelp.com/) |
 
-[TikTok](https://tiktok.com) - I am not on TikTok for multiple reasons. The 2 main reasons why I never use TikTok are:
+- [`Yelp @seanwallawalla`](https://www.yelp.com/user_details?userid=VyqYgL_sCO5p0fGeKHGMCA)
+
+</details> <!-- End of $Yelp !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Tumblr/Tumblr_Logo.svg" alt="Tumblr wordmark failed to load" title="Tumblr wordmark" width="324" height="67"> |
+|---|
+| [`Tumblr`](https://tumblr.com) |
+
+- [`Tumblr @seanwallawalla`](https://seanwallawalla.tumblr.com/)
+
+</details> <!-- End of $Tumblr !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Bandcamp/Bandcamp-bc-logotype-color.svg" alt="Bandcamp logo failed to load" title="Logo of Bandcamp" width="420" height="138"> |
+|---|
+| [`Bandcamp`](https://bandcamp.com/) |
+
+- [`Bandcamp @seanwallawalla`](https://seanwallawalla.bandcamp.com/releases/) - My only way of earning money online at the moment
+
+</details> <!-- End of $Bandcamp !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Quora/Quora_logo.svg" alt="Quora wordmark failed to load" title="Wordmark of Quora" width="300" height="128"> |
+|---|
+| [`Quora`](https://www.quora.com/) |
+
+- [`Quora @seanwallawalla`](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here anymore
+
+</details> <!-- End of $Quora !-->
+
+---
+
+<!-- **List is incomplete. Try bugging me to fix it. I will eventually when I have time, but I might not get to it soon enough.** !-->
+
+<!-- However, I am not on other platforms. If you see someone posing on me on other platforms, don't take their word, as they are commiting identity theft. _Identity theft is not a joke Jim. Millions of families suffer every year_ - Dwight Shrute (The Office, US version) [YouTube link is you prefer](https://www.youtube.com/watch?v=5f5ni0zpl5E) [Vimeo link, but without the official video, just audio and text](https://vimeo.com/464892816) in all seriousness, Identity theft is an actual problem. !-->
+
+_End of platforms I no longer use section._
+
+</details> <!-- End of platforms I no longer use section !-->
+
+---
+
+_End of platforms I am on section._
+
+</details> <!-- End of Platforms I am on section !-->
+
+---
+
+### [📵️ Platforms I am not on](#-Platforms-I-am-not-on)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+---
+
+#### [🔗️ Never joined](#-Never-joined)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Popular platforms I am not on, and have never joined:
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/TikTok/TikTok_logo.svg" alt="TikTok logo failed to load" title="I am not on TikTok" width="500" height="146"> |
+|---|
+| [`TikTok`](https://tiktok.com) |
+
+- I am not on TikTok for multiple reasons. The 2 main reasons why I never use TikTok are:
 
 1. It has a plethora of privacy issues and is fully owned by a Chinese company
-
 2. I don't have an interest in this type of video platform
+3. It is a trap I would rather not step foot in
 
-Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Total times I viewed TikTok content from another platform (reuploads, but not links, as that would be visiting TikTok directly): `85+`
+- Total times I visited TikTok directly (As of 2024, Sunday, April 7th): `0` Total times I viewed TikTok content from another platform (reuploads, but not links, as that would be visiting TikTok directly): `86+`
 
-</details> <!-- End of Identity theft section !-->
+</details> <!-- End of $TikTok !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/WhatsApp/WhatsApp.svg" alt="WhatsApp logo failed to load" title="I am not on WhatsApp" width="175" height="176"> |
+|---|
+| [`WhatsApp`](https://web.whatsapp.com/) |
+
+- I am not on WhatsApp for multiple reasons.
+
+1. WhatsApp is owned by Facebook, and has a shady history
+2. WhatsApp is proprietary
+3. I have no use for WhatsApp
+
+</details> <!-- End of $WhatsApp !-->
+
+---
+
+_End of platforms I have never joined section._
+
+</details> <!-- End of never joined section !-->
+
+---
+
+### [🧨️ No longer exists](#No-longer-exists)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Platforms I have used in the past, but no longer exist include:
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Go90/Go90_logo.jpeg" alt="Go90 logo failed to load" title="Logo of Go90" width="500" height="282"> |
+|---|
+| [`Go90`](http://web.archive.org/web/2/http://go90.com/) |
+
+</details> <!-- End of $Go90 !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- Created an account, as the app came with my phone, barely attempted to use, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine)
+
+| <img src="/Graphics/Social-Media/Ditty/DittyLogo.png" alt="Ditty.it logo failed to load" title="Logo of Ditty.it" width="249" height="249"> |
+|---|
+| [`Ditty.it`](http://web.archive.org/web/20240000000000*/ditty.it) |
+
+- Created and exported all videos, used daily for a while, but the service has been shut down for over 2 years, so you can't really access it anymore (I doubt it has been crawled by the wayback machine to the depth needed for preservation)
+
+</details> <!-- End of $Ditty !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Periscope/Periscope_Logo.svg" alt="Periscope logo failed to load" title="Logo of Persicope" width="200" height="200"> |
+|---|
+| [`Periscope`](http://web.archive.org/web/20240406230805/https://www.periscope.tv/) |
+
+- - Site no longer exists (shut down by Twitter in 2021)
+
+</details> <!-- End of $Periscope !-->
+
+---
+
+_End of sites that no longer exist section._
+
+</details> <!-- End of no longer exists section !-->
+
+---
+
+_End of platforms I am not on section._
+
+</details> <!-- End of platforms I am not on. !-->
+
+---
+
+_End of online identity section._
+
+</details> <!-- End of Online Identity section !-->
 
 ***
 
@@ -5795,7 +6291,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | [:octocat: `OpenGovernment`](https://github.com/seanpm2001/OpenGov/) | [:octocat: `Sbubbway Generator`](https://github.com/seanpm2001/Sbubbway-generator/) | [:octocat: `Pen People`](https://github.com/seanpm2001/Pen-People/) | [:octocat: `Polyworks SquareOff`](https://github.com/seanpm2001/Polyworks-SquareOff/) | [:octocat: `Petland`](https://github.com/seanpm2001/PetLand-Software/) | [:octocat: `Oh Hi Markdown`](https://github.com/seanpm2001/Oh_Hi_MarkDown/) |
 | [:octocat: `SearchKX`](https://github.com/seanpm2001/SearchKX/) | [:octocat: `Rasple`](https://github.com/seanpm2001/Rasple/) | [:octocat: `BerryBoot`](https://github.com/seanpm2001/BerryBoot/) | [:octocat: `Fedorable`](https://github.com/seanpm2001/Fedorable/) | [:octocat: `iWill`](https://github.com/seanpm2001/iWill/) | [:octocat: `OpenPassport`](https://github.com/seanpm2001/OpenPassport/) |
 | [:octocat: `Outside`](https://github.com/seanpm2001/Outside/) | [:octocat: `Domainiac`](https://github.com/seanpm2001/Domainiac/) | [:octocat: `Er`](https://github.com/seanpm2001/Er/) | [:octocat: `AutoPeer`](https://github.com/seanpm2001/AutoPeer/) | [:octocat: `WarmWelcome`](https://github.com/seanpm2001/WarmWelcome/) | [:octocat: `Sugar Shop`](https://github.com/seanpm2001/Sugar_Shop/)  |
-| [:octocat: `HyperSlice`](https://github.com/seanpm2001/HyperSlice/) | [:octocat: `3FakeIM`](https://github.com/seanpm2001/3FakeIM/) | [:octocat: `WYII`](https://github.com/seanpm2001/WYII/) | [:octocat: `Twit-Tac-Toe`](https://github.com/seanpm2001/Twit-Tac-Toe/) | [:octocat: `LennyOS`](https://github.com/seanpm2001/LennyOS/) | [:octocat: `Techlaration`](https://github.com/seanpm2001/Techlaration/) |
+| [:octocat: `HyperSlice`](https://github.com/seanpm2001/HyperSlice/) | [:octocat: `3FakeIM`](https://github.com/seanpm2001/3FakeIM/) | [:octocat: `WYII`](https://github.com/seanpm2001/WYII/) | [:octocat: `Twit-Tac-Toe`](https://github.com/seanpm2001/Twit-Tac-Toe/) | [:octocat: `Mockerfile`](https://github.com/seanpm2001/Mockerfile/) | [:octocat: `Techlaration`](https://github.com/seanpm2001/Techlaration/) |
 | [:octocat: `TrueTorrent`](https://github.com/seanpm2001/TrueTorrent/) | [:octocat: `Slaveworks`](https://github.com/seanpm2001/SlaveWorks/) | [:octocat: `SWave Starter`](https://github.com/seanpm2001/SWave_Starter/) | [:octocat: `MarkDownDownDown`](https://github.com/seanpm2001/MarkDownDownDown/) | [:octocat: `KeyStroke`](https://github.com/seanpm2001/KeyStroke/) | [:octocat: `Perl Harbor`](https://github.com/seanpm2001/Perl_Harbor/) |
 | [:octocat: `PYVM`](https://github.com/seanpm2001/PYVM/) | [:octocat: `Pri-Fiy`](https://github.com/seanpm2001/Pri-Fiy/) | [:octocat: `NetM`](https://github.com/seanpm2001/NetM/) | [:octocat: `VOI Manor`](https://github.com/seanpm2001/VOI-Manor/) | [:octocat: `Stock Elevator LIBrary`](https://github.com/seanpm2001/Stock-Elevator-LIBrary/) | [:octocat: `ChargeFX`](https://github.com/seanpm2001/ChargeFX/) |
 | [:octocat: `Virtual VHS`](https://github.com/seanpm2001/Virtual-VHS/) | [:octocat: `Rick`](https://github.com/seanpm2001/Rick/) | [:octocat: `Cottontree LIBrary`](https://github.com/seanpm2001/CottonTree-LIBrary/) | [:octocat: `SeansOSData`](https://github.com/seanpm2001/SeansOSData/) | [:octocat: `Mobile Potions`](https://github.com/seanpm2001/Mobile_Potions/) | [:octocat: `MicroMiniwave`](https://github.com/seanpm2001/-microMiniwave/) |
@@ -5807,7 +6303,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | [:octocat: `Unblur tool`](https://github.com/seanpm2001/Unblur-tool/) | [:octocat: `UnSaaSS`](https://github.com/seanpm2001/UnSaaSS/) | [:octocat: `UnIoT`](https://github.com/seanpm2001/UnIoT/) | [:octocat: `2001 project`](https://github.com/seanpm2001/2001-Project/) | [:octocat: `Chaccaron Maccaron type`](https://github.com/seanpm2001/ChaccaronMaccaronType/) | [:octocat: `Public Media Gallery`](https://github.com/seanpm2001/Public-Media-Gallery/) |
 | [:octocat: `Meme Machine 2019`](https://github.com/seanpm2001/MemeMachine-2019/) | [:octocat: `Jscribe`](https://github.com/seanpm2001/JScribe/) | [:octocat: `UltraSwitch`](https://github.com/seanpm2001/UltraSwitch/) | [:octocat: `RegAggregate`](https://github.com/seanpm2001/RegAggregate/) | [:octocat: `SafeWINE`](https://github.com/seanpm2001/SafeWINE/) | [:octocat: `WinWalla`](https://github.com/seanpm2001/WinWalla/) |
 | [:octocat: `SDE MobileServer`](https://github.com/seanpm2001/SDE_MobileServer/) | [:octocat: `HT Messenger`](https://github.com/seanpm2001/HT-Messenger/) | [:octocat: `GitMan`](https://github.com/seanpm2001/GitMan/) | [:octovat: `Nuclear ad bombs specification`](https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/) | [:octocat: `Delerium`](https://github.com/seanpm2001/Delerium/) |
-| [:octocat: `B3`](https://github.com/seanpm2001/B3/) | [:octocat: `Mockerfile`](https://github.com/seanpm2001/Mockerfile/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ |
+| [:octocat: `B3`](https://github.com/seanpm2001/B3/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of core repository list section for the major project: Other Projects section !-->
@@ -6493,7 +6989,7 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `91 (2024, Sunday, April 7th at 03:00 pm PST)`
+- **File version:** `92 (2024, Monday, April 8th at xx:xx pm PST)`
 - **Line count (including blank lines and compiler line):** `09,106`
 - **Word count:** `061,222`
 - **Character count (with spaces):** `0,444,590 characters`
@@ -8839,11 +9335,31 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 92 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 92 (2024, Monday, April 8th at xx:xx pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the eighteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 7th to 2024, April 8th. Further formatting issues were fixed, and new data is included._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the header
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- - [x] Updated the `Miscellaneous collective` section
+- - - [x] Removed LennyOS, as it is already covered in its own section
+- [x] Continued replacing all Markdown image tags with HTML image tags
+- [x] Extensive work on `Identity theft` section, which was also renamed to `Online Identity`
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 92
 - [ ] No other changes in version 92
 
 </details> <!-- End of V92 !-->
@@ -8970,7 +9486,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 7th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-7th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 8th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-8th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8993,6 +9509,7 @@ _End of file version history_
 - - [Link to remodel section version 15 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md)
 - - [Link to remodel section version 16 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md)
 - - [Link to remodel section version 17 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md)
+- - [Link to remodel section version 18 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9046,7 +9563,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `4096`
 - - **Current emoji count:** `~1898`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V91: `450,964` / `524,288` (`086.014%`))
+- - **Current character count (in bytes):** (as of V92: `450,964` / `524,288` (`086.014%`))
 
 > Memory
 
@@ -9091,7 +9608,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 91** | _2024, Sunday, April 7th_ |
+| **Version 92** | _2024, Monday, April 8th_ |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
