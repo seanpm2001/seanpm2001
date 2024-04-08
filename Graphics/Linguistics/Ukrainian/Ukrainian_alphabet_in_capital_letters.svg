@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+width="230px" height="205px" viewBox="0 0 230 205" >
+<title>Russian alpabets in capital letters</title>
+<g font-size="25" stroke="none" fill="black" font-weight="normal" font-family="New Century Schoolbook" text-anchor="middle">
+<text y="25"><tspan x="15">&#x0410;</tspan><tspan x="55">&#x0411;</tspan><tspan x="95">&#x0412;</tspan><tspan x="135">&#x0413;</tspan><tspan x="175">&#x0490;</tspan><tspan x="215">&#x0414;</tspan></text>
+<text y="60"><tspan x="15">&#x0415;</tspan><tspan x="55">&#x0404;</tspan><tspan x="95">&#x0416;</tspan><tspan x="135">&#x0417;</tspan><tspan x="175">&#x0418;</tspan><tspan x="215">&#x0406;</tspan></text>
+<text y="95"><tspan x="15">&#x0407;</tspan><tspan x="55">&#x0419;</tspan><tspan x="95">&#x041a;</tspan><tspan x="135">&#x041b;</tspan><tspan x="175">&#x041c;</tspan><tspan x="215">&#x041d;</tspan></text>
+<text y="130"><tspan x="15">&#x041e;</tspan><tspan x="55">&#x041f;</tspan><tspan x="95">&#x0420;</tspan><tspan x="135">&#x0421;</tspan><tspan x="175">&#x0422;</tspan><tspan x="215">&#x0423;</tspan></text>
+<text y="165"><tspan x="15">&#x0424;</tspan><tspan x="55">&#x0425;</tspan><tspan x="95">&#x0426;</tspan><tspan x="135">&#x0427;</tspan><tspan x="175">&#x0428;</tspan><tspan x="215">&#x0429;</tspan></text>
+<text y="200"><tspan x="15">&#x042c;</tspan><tspan x="55">&#x042e;</tspan><tspan x="95">&#x042f;</tspan></text>
+</g>
+</svg>
