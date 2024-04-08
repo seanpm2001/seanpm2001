@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 17 - 2024, Sunday, April 7th` |
+| `Beta 18 - 2024, Monday, April 8th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 17 days down, 47/48 days to go, as of 2024, Sunday, April 7th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 18 days down, 46/47 days to go, as of 2024, Monday, April 8th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -61,7 +61,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
 | [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
 | [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
-| Beta 18 | Coming soon | 17 |
+| [Beta 18](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
 | Beta 19 | Coming soon | 18 |
 | Beta 20 | Coming soon | 19 |
 | Beta 21 | Coming soon | 20 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `43` **/** `216` **tasks** _(019.90%)_ |
-| _as of 2024, Sunday, April 7th_ |
+| `45` **/** `220` **tasks** _(020.45%)_ |
+| _as of 2024, Monday, April 8th_ |
 
-- **Current tasks to do (43 tasks, as of 2024, Sunday, April 7th)**
+- **Current tasks to do (45 tasks, as of 2024, Monday, April 8th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -172,20 +172,22 @@ Music section | AudioDB, bandcamp
 Certificates
 UnSaaSS project
 Update information about Windows and MacOS support
-Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Updates to Legend
 Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
 Add a link to the segment file for each section (WIP)
-Add icons for all social media services used
 Make non-bitmap version of MEDOS 4 logo
 Make use of video: confetti
 Make use of videos: GitHub weird behavior (2020) take 1 and take 2
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
+Properly format all img tags
+Keyword: " src=
+Should be replaced with:
+src="" alt=
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -202,10 +204,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `172` **/** `216` **tasks** _(079.10%)_ |
-| _as of 2024, Sunday, April 7th_ |
+| `175` **/** `220` **tasks** _(079.54%)_ |
+| _as of 2024, Monday, April 8th_ |
 
-- **Tasks implemented so far (172 tasks, as of 2024, Sunday, April 7th)**
+- **Tasks implemented so far (175 tasks, as of 2024, Monday, April 8th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -383,6 +385,9 @@ Temporarily remove voice synthesis section
 Add logos for GOI and CCM
 Major project: LennyOS
 Get /Graphics/ versions of all /Media/ media, and give them better filenames
+Add icons for all social media services used
+Give identity theft a better name, and update the link in the guestbook section with this newly named section
+Improve Online identity section
 ```
 
 </details> <!-- End of completed remodel goals section !-->
