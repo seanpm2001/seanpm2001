@@ -75,6 +75,7 @@ _Further instructions not yet available._
 - [2024.04.06] The file is back to normal standing, and the rendering issue has been fixed. I am still working on keeping the file under 524,289 bytes
 - [2024.04.07] Something may need to be done with the `What I'm currently working on§Major projects` section, as it is the biggest part of this file, yet it can't be shrunk easily. I am still working on keeping the file under 524,289 bytes
 - [2024.04.08] Size wasn't as much of a concern today, but I am still being cautious
+- [2024.04.09] Size is becoming a concern again, as I have less than 10% capacity for new content here. Also, the file is over 10,000 lines long again.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -272,7 +273,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 18 days down, 46/47 days to go, as of 2024, Monday, April 8th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 19 days down, 45/46 days to go, as of 2024, Monday, April 8th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -316,7 +317,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
 | [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
 | [Beta 18](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
-| Beta 19 | Coming soon | 18 |
+| [Beta 19](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
 | Beta 20 | Coming soon | 19 |
 | Beta 21 | Coming soon | 20 |
 | Beta 22 | Coming soon | 21 |
@@ -389,9 +390,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `45` **/** `220` **tasks** _(020.45%)_ |
-| _as of 2024, Monday, April 8th_ |
+| _as of 2024, Tuesday, April 9th_ |
 
-- **Current tasks to do (45 tasks, as of 2024, Monday, April 8th)**
+- **Current tasks to do (45 tasks, as of 2024, Tuesday, April 9th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -459,9 +460,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `175` **/** `220` **tasks** _(079.54%)_ |
-| _as of 2024, Monday, April 8th_ |
+| _as of 2024, Tuesday, April 9th_ |
 
-- **Tasks implemented so far (175 tasks, as of 2024, Monday, April 8th)**
+- **Tasks implemented so far (175 tasks, as of 2024, Tuesday, April 9th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1092,18 +1093,18 @@ Mongolian is a unique language, as it is written vertically, instead of horizont
 
 Unfortunately, Ubuntu 20.04 and 22.04 by default don't support a font that supports the classic Mongolian lannguage.
 
-| Overview |
+| ⭐️ Overview |
 |---|
 
 I have a strong interest in linguistics, it doesn't matter the language, the writing system, the age, the history, etc. I just like learning about new languages. This interest also has expanded into programming languages. I divide it up like this:
 
-| Type | Sample |
+| ✍️ Type | ℹ️ Sample |
 |---|---|
 | Human spoken languages | English |
 | Programming language | Python |
 | Markup language | HTML |
 
-**Segment link coming soon**
+This section can also be viewed [`here`](/Segments/Linguistics/README.md)
 
 </details> <!-- End of linguistics section !-->
 
@@ -1448,7 +1449,15 @@ Technology, farming, life, language, other.
 
 ## [🛎️ How to reach me](#-How-to-reach-me)
 
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I am most active on Mastodon, GitHub, and email. You can find more information below.
+
+## [🆔️ Online Identity](#-Online-Identity)
+
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+**Formerly known as** `Identity theft` (renamed to `Online identity` on 2024, April 8th)
 
 I have multiple methods of being reached. Currently, I can't answer to phone calls or text messages, as my phones SIM card randomly got corrupted (in early 2022, I also destroyed the SIM/SD slot in my phone due to overuse, so there is no way to fix this now) Here are some ways you can message me:
 
@@ -1472,31 +1481,69 @@ There currently aren't any other ways of messaging me
 
 You can find more info on my personal Gist. [Click/tap here to learn more about me](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
-</details> <!-- End of how to reach me section !-->
+To avoid possible imposters, I will link to all the services I use here.
 
-***
+This section is actively being remodeled. It can also be viewed [here instead](/Segments/Online-Identity/README.md)
 
-## [🪧️ Projects on other platforms](#-Projects-on-other-platforms)
+TODO
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+- [ ] Add AspergerExperts
+- [ ] Add ClockTree
+- [ ] Add MediaFire
+- [ ] Add PayPal
+- [ ] Add ProtonMail
+- [ ] Add iTunes
+- [ ] Add pCloud
+- [ ] Add Degoo
+- [ ] Add OneDrive
+- [ ] Add Trello
+- [ ] Add Aleks
+- [ ] Add Edhesive
+- [ ] Add Nintendo
+- [ ] Add Amazon
+- [ ] Add Google Play
+- [ ] Add Thingiverse
+- [ ] Add Hulu (family account)
+- [ ] Add Code.org
+- [ ] Add Zoom (virtual machine only)
+- [ ] Add VRBO (family account)
+- [ ] Add Dropbox
+- [ ] Add Snapchat (as a never used site)
+- [ ] Add Telegram
+- [ ] Add Signal
+- [x] Add 3 other GitHub accounts (2 inactive, 1 banned)
+- [x] Add 2 other Reddit accounts
+- [x] Add OpenCollective
+- [x] Add Ko-Fi
+- [x] Add LiberaPay
+- [x] Add IssueHunt
+- [x] Add Patreon
+- [x] Add Club penguin
+- [x] Add Steam
+- [x] Add Growtopia
+- [x] Add Roblox
+- [x] Add Poptropica
+- [x] Add Minecraft
+- [x] Add Kongregate
+- [x] Add NitroType
+- [x] Add Happy Wheels
+- [x] Add Marco Polo
+- [x] Add Google+
+- [x] Add Vimeo
+- [x] Add SUPERCELL
+- [x] Add AirBnB (family account)
+- [x] Add Internet Archive
+- [x] Add Pinterest (as a never used site)
+- [x] Add LinkedIn (as a never used site)
+- [x] Add Pornhub (as a never used site)
+- [x] Add VK (as a never used site)
+- [x] Merge `Projects on other platforms`
+- [x] Merge `Email information`
+- [x] Merge `How to reach me`
 
-I have been using GitHub for software development since May 25th 2020, but I have been programming since early 2016.
+---
 
-On December 21st 2020, I created accounts on SourceForge, GitLab, and BitBucket. I currently don't maintain any projects there at the moment, GitHub still is the powerhouse.
-
-- [SourceForge link](https://sourceforge.net/u/seanpm2001/profile/)
-- [GitLab link](https://gitlab.com/seanpm2001/)
-- [BitBucket link](https://bitbucket.org/seanpm2001/)
-
-When I joined GitHub, I also intended to use other platforms as well, as something could always go wrong with my account or GitHub itself, and it isn't smart to rely on a single source for everything.
-
-Now, if GitHub is having problems or if you have problems with GitHub, my projects are viewable on 3 other platforms. Unfortunately, they are still only on GitHub, as I don't have enough developers to manage 4 platforms at once, I will eventually mirror my projects over.
-
-</details> <!-- End of projects on other platforms section !-->
-
-***
-
-## [📧️ Email information](#-Email-information)
+### [📧️ Email information](#-Email-information)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1510,65 +1557,27 @@ Note: this email address is NOT a mailing list, it is just named like that. The 
 
 </details> <!-- End of email information section !-->
 
-***
+---
 
-## [🆔️ Online Identity](#-Online-Identity)
+### [🪧️ Projects on other platforms](#-Projects-on-other-platforms)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Formerly known as** `Identity theft` (renamed to `Online identity` on 2024, April 8th)
+I have been using GitHub for software development since May 25th 2020, but I have been programming since early 2016.
 
-To avoid possible imposters, I will link to all the services I use here.
+On December 21st 2020, I created accounts on SourceForge, GitLab, and BitBucket. I currently don't maintain any projects there at the moment, GitHub still is the powerhouse.
 
-This section is actively being remodeled. It can also be viewed [here instead](/Segments/Online-Identity/README.md)
+- [`SourceForge link`](https://sourceforge.net/u/seanpm2001/profile/)
+- [`GitLab link`](https://gitlab.com/seanpm2001/)
+- [`BitBucket link`](https://bitbucket.org/seanpm2001/)
 
-TODO
+When I joined GitHub, I also intended to use other platforms as well, as something could always go wrong with my account or GitHub itself, and it isn't smart to rely on a single source for everything.
 
-- [ ] Add AspergerExperts
-- [ ] Add ClockTree
-- [ ] Add Growtopia
-- [ ] Add Internet Archive
-- [ ] Add MediaFire
-- [ ] Add Patreon
-- [ ] Add PayPal
-- [ ] Add 3 other GitHub accounts (2 inactive, 1 banned)
-- [ ] Add ProtonMail
-- [ ] Add 2 other Reddit accounts
-- [ ] Add Steam
-- [ ] Add Vimeo
-- [ ] Add OpenCollective
-- [ ] Add Ko-Fi
-- [ ] Add LiberaPay
-- [ ] Add IssueHunt
-- [ ] Add iTunes
-- [ ] Add Google+
-- [ ] Add Minecraft
-- [ ] Add pCloud
-- [ ] Add Degoo
-- [ ] Add OneDrive
-- [ ] Add SUPERCELL
-- [ ] Add Trello
-- [ ] Add Aleks
-- [ ] Add Edhesive
-- [ ] Add Nintendo
-- [ ] Add Pornhub (as a never used site)
-- [ ] Add VK (as a never used site)
-- [ ] Add Amazon
-- [ ] Add Google Play
-- [ ] Add Marco Polo
-- [ ] Add Thingiverse
-- [ ] Add Hulu (family account)
-- [ ] Add Poptropica
-- [ ] Add Kongregate
-- [ ] Add NitroType
-- [ ] Add Code.org
-- [ ] Add Zoom (virtual machine only)
-- [ ] Add Pinterest (as a never used site)
-- [ ] Add AirBnB (family account)
-- [ ] Add VRBO (family account)
-- [ ] Merge `Projects on other platforms`
-- [ ] Merge `Email information`
-- [ ] Merge `How to reach me`
+Now, if GitHub is having problems or if you have problems with GitHub, my projects are viewable on 3 other platforms. Unfortunately, they are still only on GitHub, as I don't have enough developers to manage 4 platforms at once, I will eventually mirror my projects over.
+
+</details> <!-- End of projects on other platforms section !-->
+
+---
 
 ### [🌉️ Platforms I am on](#-Platforms-I-am-on)
 
@@ -1607,6 +1616,9 @@ Platforms I have an account for and still use include:
 
 - [:octocat: `GitHub Main account (@seanpm2001)`](https://github.com/seanpm2001/)
 - [:octocat: `GitHub Alt account (@seanwallawalla)`](https://github.com/seanwallawalla/)
+- [:octocat: `Family account for Vern (@inverno4)`](https://github.com/Inverno4/) [inactive, as of 2022]
+- [:octocat: `Family account for Colleen (@memewallawalla)`](https://github.com/memewallawalla/) [inactive, as of 2022]
+- [:octocat: `Banned GitHub account for Price Computers LLC (@PriceComputersLLC)`](https://github.com/pricecomputersllc/) - I tried to create a GitHub account for my local computer repair store, and was going to give the account to them, but they banned it quickly
 
 </details> <!-- End of $GitHub !-->
 
@@ -1623,6 +1635,48 @@ Platforms I have an account for and still use include:
 - - - Further information: [:octocat: `/seanpm2001/FreeCodeCamp_Seanpm2001/`](https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001/)
 
 </details> <!-- End of $FreeCodeCamp !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Internet-Archive/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive logo failed to load" title="Logo of the Internet Archive" width="300" height="291"> |
+|---|
+| [`Archive.org`](https://archive.org//) |
+
+- [`Old main account @seanwallawalla`](https://archive.org/details/@seanwallawalla/)
+- [`New main account @seanpm2001`](https://archive.org/details/@seanpm2001/) - Created 2024, Monday, April 8th
+- [`Android x64 account @android-x64`](https://archive.org/details/@android-x64/)
+- - - Further information: [:octocat: `/seanpm2001/InternetArchive/`](https://github.com/seanpm2001/InternetArchive/)
+
+</details> <!-- End of $InternetArchive !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/AirBnB/Airbnb_meaningful_logo.svg" alt="AirBnB logo failed to load" title="Logo of AirBnB" width="154" height="154"> |
+|---|
+| [`AirBnB`](https://www.airbnb.com/) |
+
+- [`Family AirBnB page`](https://www.airbnb.com/rooms/29309236)
+- - My family runs an AirBnB out of a fancy barn
+- - - Further information: [:octocat: `/seanpm2001/AirBnB/`](https://github.com/seanpm2001/AirBnB/)
+
+</details> <!-- End of $AirBnB !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/SUPERCELL/Supercell-logo.svg" alt="SUPERCELL logo failed to load" title="Logo of SUPERCELL" width="317" height="258"> |
+|---|
+| [`SUPERCELL`](https://supercell.com/) |
+
+- The account for my Clash of Clans, Boom Beach, Clash Royale, and Hay Day game files.
+- - Further information: [:octocat: `/seanpm2001/SUPERCELL/`](https://github.com/seanpm2001/SUPERCELL/)
+
+</details> <!-- End of $SUPERCELL !-->
 
 ---
 
@@ -1659,7 +1713,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 |---|
 | [`Reddit`](https://reddit.com/) |
 
-- [`Reddit`](https://reddit.com/u/seanwallawalla) - Although I don't post very often. As of 2023, June, I no longer use Reddit (I was being weighed down by it, and the API change was the final nail in the coffin)
+- [`Reddit u/seanwallawalla`](https://reddit.com/u/seanwallawalla) - Although I don't post very often. As of 2023, June, I no longer use Reddit (I was being weighed down by it, and the API change was the final nail in the coffin)
+- [`Reddit u/seanwallawalla2`](https://reddit.com/u/seanwallawalla2)
+- [`Reddit u/crikketmeme2001`](https://reddit.com/u/crikketmeme2001)
 - [:octocat: `Other Reddit accounts`](https://github.com/seanpm2001/Reddit/)
 
 </details> <!-- End of $Reddit !-->
@@ -1721,6 +1777,72 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+| <img src="/Graphics/Other-sites/Patreon/Patreon_logo_with_wordmark.svg" alt="Patreon wordmark failed to load" title="Wordmark of Patreon" width="336" height="77"> |
+|---|
+| [`Patreon`](https://www.patreon.com/) |
+
+- [`Patreon main account @seanpm2001_software`](https://patreon.com/seanpm2001_software/)
+- [`Patreon handler account @seanpm2001`](https://patreon.com/seanpm2001/)
+- - Further information: [:octocat: `/seanpm2001/Patreon/`](https://github.com/seanpm2001/Patreon/)
+
+</details> <!-- End of $Patreon !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-Sites/OpenCollective/Open_Collective_logo_2021.svg" alt="OpenCollective wordmark failed to load" title="Wordmark of OpenCollective" width="456" height="60"> |
+|---|
+| [`OpenCollective`](https://opencollective.com/) |
+
+- [`OpenCollective main account @seanpm2001`](https://opencollective.com/seanpm2001/)
+- - Further information: [:octocat: `/seanpm2001/OpenCollective/`](https://github.com/seanpm2001/OpenCollective/)
+
+</details> <!-- End of $OpenCollective !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Ko-Fi/kofi_s_logo_labeldark.svg" alt="Ko-Fi wordmark failed to load" title="Wordmark of Ko-Fi" width="315" height="90"> |
+|---|
+| [`Ko-Fi`](https://ko-fi.com/) |
+
+- [`Ko-Fi main account @seanpm2001`](https://ko-fi.com/seanpm2001/)
+- - Further information: [:octocat: `/seanpm2001/Ko-Fi/`](https://github.com/seanpm2001/Ko-Fi/)
+
+</details> <!-- End of $Ko-Fi !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/LiberaPay/Liberapay_logo_v2_white-on-yellow.svg" alt="LiberaPay logo failed to load" title="Logo of LiberaPay" width="240" height="240"> |
+|---|
+| [`LiberaPay`](https://liberapay.com/) |
+
+- [`LiberaPay main account @seanpm2001`](https://liberapay.com/seanpm2001/)
+- - Further information: [:octocat: `/seanpm2001/LiberaPay/`](https://github.com/seanpm2001/LiberaPay/)
+
+</details> <!-- End of $LiberaPay !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/IssueHunt/IssueHunt_Logo.png" alt="IssueHunt logo failed to load" title="Logo of IssueHunt" width="300" height="300"> |
+|---|
+| [`IssueHunt`](https://issuehunt.io/) |
+
+- [`IssueHunt main account @seanpm2001`](https://issuehunt.io/r/seanpm2001/)
+- - Further information: [:octocat: `/seanpm2001/IssueHunt/`](https://github.com/seanpm2001/IssueHunt/)
+
+</details> <!-- End of $IssueHunt !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 | <img src="/Graphics/Other-sites/BitBucket/Bitbucket-blue-logomark-only.svg" alt="BitBucket logo failed to load" title="Logo of BitBucket" width="300" height="300"> |
 |---|
 | [`BitBucket`](https://bitbucket.org/) |
@@ -1738,7 +1860,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 |---|
 | [`SourceForge`](https://sourceforge.net/) |
 
-- [`SourceForge main account @seanpm2001 (404)`](https://sourceforge.net/user/seanpm2001/)
+- [`SourceForge main account @seanpm2001 (404)`](https://sourceforge.net/u/seanpm2001/profile/)
 - - Further information: [:octocat: `/seanpm2001/SourceForge/`](https://github.com/seanpm2001/SourceForge/)
 
 </details> <!-- End of $SourceForge !-->
@@ -1755,6 +1877,124 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 - - Further information: [:octocat: `/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/)
 
 </details> <!-- End of $KhanAcademy !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Vimeo/Vimeo_Logo.svg" alt="Vimeo wordmark failed to load" title="Wordmark of Vimeo" width="210" height="30"> |
+|---|
+| [`Vimeo`](https://vimeo.com/) |
+
+- [**Link currently unavailable**](https://vimeo.com/) - I was briefly on Vimeo during the final phase of the 2018 end of my YouTube channel
+- - Further information: [:octocat: `/seanpm2001/Vimeo/`](https://github.com/seanpm2001/Vimeo/)
+
+</details> <!-- End of $Vimeo !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Marci-Polo/Marco-Polo-App-Logo1.png" alt="Marco Polo logo failed to load" title="Logo of Macro Polo" width="256" height="256"> |
+|---|
+| [`Marco Polo`](https://www.marcopolo.me/) |
+
+- [**Link currently unavailable**](https://www.marcopolo.me/) - I briefly used this site, as it was recommended by another family member, since they were on it briefly.
+- - Further information: [:octocat: `/seanpm2001/Marco-Polo/`](https://github.com/seanpm2001/Marco-Polo/)
+
+</details> <!-- End of $Marco-Polo !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Steam/Steam_icon_logo.svg" alt="Steam logo failed to load" title="Logo of Steam" width="220" height="220"> |
+|---|
+| [`Steam`](https://store.steampowered.com/) |
+
+- [`@PootDispensorHere on Steam`](https://steamcommunity.com/id/jaratepyro360/) - My original Steam account
+- [`@seanpm2001 on Steam`](https://steamcommunity.com/id/seanpm2001) - My newer Steam account, mainly for Team Fortress 2, and the soundtracks to Portal 1 and 2
+- - Further information: [:octocat: `/seanpm2001/Steam/`](https://github.com/seanpm2001/Steam/)
+
+</details> <!-- End of $Steam !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Roblox/Roblox_Logo_2016.png" alt="Roblox logo failed to load" title="Logo of Roblox" width="210" height="210"> |
+|---|
+| [`Roblox`](https://www.roblox.com/) |
+
+- I no longer have a Roblox account. I briefly had one in early 2015 when someone was introducing me to it in Middle School, but the account never saw a second day.
+- - Further information: [:octocat: `/seanpm2001/Roblox/`](https://github.com/seanpm2001/Roblox/)
+
+</details> <!-- End of $Roblox !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Poptropica/Poptropica_Logo.svg" alt="Poptropica wordmark failed to load" title="Wordmark of Poptropica" width="222" height="58"> |
+|---|
+| [`Poptropica`](https://www.poptropica.com/) |
+
+- I used to have a Poptropica account between 2009 and 2010, but I no longer have the credentials for it, and doubt it still exists.
+- - Further information: [:octocat: `/seanpm2001/Poptropica/`](https://github.com/seanpm2001/Poptropica/)
+
+</details> <!-- End of $Poptropica !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Nitrotype/NitroType_Wordmark.png" alt="Nitrotype wordmark failed to load" title="Wordmark of Nitrotype" width="207" height="29"> |
+|---|
+| [`NitroType`](https://www.nitrotype.com/) |
+
+- NitroType was a site I used in my first programming class. I was really good at it. I will need to add a link here in the future.
+- - Further information: [:octocat: `/seanpm2001/NitroType/`](https://github.com/seanpm2001/NitroType/)
+
+</details> <!-- End of $NitroType !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Minecraft/Minecraft-Logo1.png" alt="Minecraft logo failed to load" title="Logo of Minecraft" width="240" height="263"> |
+|---|
+| [`Minecraft`](https://www.minecraft.net/) |
+
+- I played MInecraft very extensively between 2012 and 2016, then all of my worlds (1000+) got corrupted, and I couldn't access my account. This was the biggest digital loss in my life to date.
+- - Further information: [:octocat: `/seanpm2001/Minecraft/`](https://github.com/seanpm2001/Minecraft/)
+
+</details> <!-- End of $Minecraft !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Happy-Wheels/Happy_Wheels_Logo.png" alt="Happy Wheels wordmark failed to load" title="Wordmark of Happy Wheels" width="393" height="187"> |
+|---|
+| [`Happy Wheels`](http://www.totaljerkface.com/happy_wheels.tjf) |
+
+- Happy Wheels was a site I used briefly during my YouTube era. I will need to add a link here in the future.
+- - Further information: [:octocat: `/seanpm2001/Happy-Wheels/`](https://github.com/seanpm2001/Happy-Wheels/)
+
+</details> <!-- End of $Happy-Wheels !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Growtopia/Growtopia_Logo.png" alt="Growtopia logo failed to load" title="Logo of Growtopia" width="300" height="300"> |
+|---|
+| [`Growtopia`](https://www.growtopiagame.com/) |
+
+- I was introduced to Growtopia by a childhood friend in 2014, and continued to actively play until 2018, and have played very sporadically since (although I have not played at all in 2024 yet)
+- - Further information: [:octocat: `/seanpm2001/Growtopia/`](https://github.com/seanpm2001/Growtopia/)
+
+</details> <!-- End of $Growtopia !-->
 
 ---
 
@@ -1786,7 +2026,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 - [`Scratch main account @seanspokane2015`](https://scratch.mit.edu/users/seanspokane2015) - No longer use as of 2017
 - [`Scratch attempted main account @seanwallawalla`](https://scratch.mit.edu/users/seanwallawalla) - Also no longer in use
-- [:octocat: `Other Scratch accounts`](https://github.com/seanpm2001/Scratch.)
+- [:octocat: `Other Scratch accounts`](https://github.com/seanpm2001/Scratch/)
 
 </details> <!-- End of $Scratch !-->
 
@@ -1944,6 +2184,74 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Pinterest/Pinterest-Logo1.png" alt="Pinterest logo failed to load" title="I am not on Pinterest" width="250" height="250"> |
+|---|
+| [`Pinterest`](https://www.pinterest.com/) |
+
+- I am not on Pinterest for the following reason:
+
+1. I have no use for Pinterest
+
+</details> <!-- End of $Pinterest !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/LinkedIn/LinkedIn_icon.svg" alt="LinkedIn logo failed to load" title="I am not on LinkedIn" width="250" height="250"> |
+|---|
+| [`Pinterest`](https://www.pinterest.com/) |
+
+- I am not on LinkedIn for the following reasons:
+
+1. I don't have an interest in this type of site
+2. I don't want to become dependent on a site like this
+3. I have no use for LinkedIn
+
+</details> <!-- End of $LinkedIn !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/VK/VK.com-logo.svg" alt="VKontakte logo failed to load" title="I am not on VK/VKontakte" width="256" height="256"> |
+|---|
+| [`VK`](https://vk.com/) |
+
+- I am not on VK for the following reasons:
+
+1. The site is owned by Russia, which is in a major conflict right now
+2. The site is very restricted and censored
+3. The site may have malicious source code
+4. I don't have an interest in this type of site
+5. I don't want to become dependent on a site like this
+6. I have no use for VK
+
+</details> <!-- End of $VK !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Pornhub/Pornhub-logo.svg" alt="Pornhub logo failed to load" title="I am not on Pornhub" width="256" height="256"> |
+|---|
+| [`Pornhub`](https://en.wikipedia.org/wiki/Pornhub/) |
+| I can't include a direct link to PornHub, so the Wikipedia article was used instead. |
+
+- I am not on Pornhub for the following reasons:
+
+1. I am not a pornstar
+2. I don't feel like commenting or accessing certain account-restricted features of Pornhub
+3. I don't have an interest in this type of site
+4. I don't want to become dependent on a site like this
+5. I have no use for Pornhub
+
+</details> <!-- End of $Pornhub !-->
+
+---
+
 _End of platforms I have never joined section._
 
 </details> <!-- End of never joined section !-->
@@ -1994,6 +2302,32 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Google-Plus/Google_Plus_logo_(2015-2019).svg" alt="Google+ logo failed to load" title="Logo of Google+" width="224" height="224"> |
+|---|
+| [`Google+`](https://web.archive.org/web/20240000000000*/http://plus.google.com/) |
+
+- [`@SeanWallaWalla (permanent dead link)`](https://plus.google.com/u/0/SeanWallaWalla/posts/)
+- - Site no longer exists (shut down by Google in 2019)
+
+</details> <!-- End of $GooglePlus !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Online-game-accounts/Club-Penguin/Club_Penguin_Logo_2012_-_2017.png" alt="Club Penguin logo failed to load" title="Logo of Club Penguin" width="460" height="218"> |
+|---|
+| [`Club Penguin`](https://web.archive.org/web/20170225030817/http://www.clubpenguin.com/) |
+
+- I very briefly played Club Penguin during my YouTube era a year before the service shut down permanently, it did not last very long.
+- - Site no longer exists (shut down by Disney in 2017)
+
+</details> <!-- End of $Club-Penguin !-->
+
+---
+
 _End of sites that no longer exist section._
 
 </details> <!-- End of no longer exists section !-->
@@ -2009,6 +2343,12 @@ _End of platforms I am not on section._
 _End of online identity section._
 
 </details> <!-- End of Online Identity section !-->
+
+---
+
+_End of How to reach me section._
+
+</details> <!-- End of how to reach me section !-->
 
 ***
 
@@ -6989,11 +7329,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `92 (2024, Monday, April 8th at xx:xx pm PST)`
-- **Line count (including blank lines and compiler line):** `09,106`
-- **Word count:** `061,222`
-- **Character count (with spaces):** `0,444,590 characters`
-- **Character count (without spaces)** `0,388,902 characters`
+- **File version:** `93 (2024, Tuesday, April 9th at 12:18 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,002`
+- **Word count:** `066,768`
+- **Character count (with spaces):** `0,483,181 characters`
+- **Character count (without spaces)** `0,422,720 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9335,7 +9675,7 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 92 (2024, Monday, April 8th at xx:xx pm PST)</b></summary>
+<details><summary><b lang="en">Version 92 (2024, Monday, April 8th at 02:22 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -9350,6 +9690,7 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 - - - [x] Removed LennyOS, as it is already covered in its own section
 - [x] Continued replacing all Markdown image tags with HTML image tags
 - [x] Extensive work on `Identity theft` section, which was also renamed to `Online Identity`
+- [x] Extensive work on the `Linguistics` section
 - [x] Updated the `File info` section
 - - [x] Updated the `Version number`
 - - [x] Updated the `Line count`
@@ -9366,11 +9707,31 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 93 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 93 (2024, Tuesday, April 9th at 12:18 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the eighteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 7th to 2024, April 8th. Further formatting issues were fixed, and new data is included._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `Online identity` section
+- - [x] Massive update: added information for over 15 sites
+- - [x] Merged the `How to reach me` section into the `Online identity` section
+- - [x] Merged the `Email information` section into the `Online identity` section
+- - [x] Merged the `Projects on other platforms` section into the `Online identity` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 93
 - [ ] No other changes in version 93
 
 </details> <!-- End of V93 !-->
@@ -9486,7 +9847,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 8th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-8th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 9th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-9th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9510,6 +9871,7 @@ _End of file version history_
 - - [Link to remodel section version 16 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md)
 - - [Link to remodel section version 17 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md)
 - - [Link to remodel section version 18 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md)
+- - [Link to remodel section version 19 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9561,9 +9923,9 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1898`
+- - **Current emoji count:** `~1611`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V92: `450,964` / `524,288` (`086.014%`))
+- - **Current character count (in bytes):** (as of V93: `489,656` / `524,288` (`093.394%`))
 
 > Memory
 
@@ -9608,7 +9970,20 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 92** | _2024, Monday, April 8th_ |
+| **Version 93 (beta 19)** | _2024, Tuesday, April 9th_ |
+
+| 📣️ Feedback 💬️ |
+|---|
+
+| 4️⃣️ 4 year anniversary update feedback 📣️ |
+|---|
+| [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/90/) |
+
+| 🪣️ General 📣️ |
+|---|
+| [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
+| [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
@@ -9620,3 +9995,7 @@ You have reached the end of this page.
 </details> <!-- End of profile README !-->
 
 ***
+
+<!--
+Nitrotype link
+!-->
