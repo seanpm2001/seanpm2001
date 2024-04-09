@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 18 days down, 46/47 days to go, as of 2024, Monday, April 8th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 19 days down, 45/46 days to go, as of 2024, Monday, April 8th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -62,7 +62,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
 | [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
 | [Beta 18](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
-| Beta 19 | Coming soon | 18 |
+| [Beta 19](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
 | Beta 20 | Coming soon | 19 |
 | Beta 21 | Coming soon | 20 |
 | Beta 22 | Coming soon | 21 |
@@ -135,9 +135,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `45` **/** `220` **tasks** _(020.45%)_ |
-| _as of 2024, Monday, April 8th_ |
+| _as of 2024, Tuesday, April 9th_ |
 
-- **Current tasks to do (45 tasks, as of 2024, Monday, April 8th)**
+- **Current tasks to do (45 tasks, as of 2024, Tuesday, April 9th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -205,9 +205,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `175` **/** `220` **tasks** _(079.54%)_ |
-| _as of 2024, Monday, April 8th_ |
+| _as of 2024, Tuesday, April 9th_ |
 
-- **Tasks implemented so far (175 tasks, as of 2024, Monday, April 8th)**
+- **Tasks implemented so far (175 tasks, as of 2024, Tuesday, April 9th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
