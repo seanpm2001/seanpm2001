@@ -76,6 +76,7 @@ _Further instructions not yet available._
 - [2024.04.07] Something may need to be done with the `What I'm currently working on§Major projects` section, as it is the biggest part of this file, yet it can't be shrunk easily. I am still working on keeping the file under 524,289 bytes
 - [2024.04.08] Size wasn't as much of a concern today, but I am still being cautious
 - [2024.04.09] Size is becoming a concern again, as I have less than 10% capacity for new content here. Also, the file is over 10,000 lines long again.
+- [2024.04.10] Size is now a major concern, as I have less than 5% capacity for new content now.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -262,7 +263,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 18 - 2024, Monday, April 8th` |
+| `Beta 20 - 2024, Wednesday, April 9th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -273,7 +274,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 19 days down, 45/46 days to go, as of 2024, Monday, April 8th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 19 days down, 45/46 days to go, as of 2024, Wednesday, April 10th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -318,7 +319,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
 | [Beta 18](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
 | [Beta 19](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
-| Beta 20 | Coming soon | 19 |
+| [Beta 20](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
 | Beta 21 | Coming soon | 20 |
 | Beta 22 | Coming soon | 21 |
 | Beta 23 | Coming soon | 22 |
@@ -1487,30 +1488,33 @@ This section is actively being remodeled. It can also be viewed [here instead](/
 
 TODO
 
-- [ ] Add AspergerExperts
-- [ ] Add ClockTree
-- [ ] Add MediaFire
-- [ ] Add PayPal
+- [ ] Crawl all pages on the wayback machine
+- - [ ] Add links to successfully crawled pages
 - [ ] Add ProtonMail
-- [ ] Add iTunes
-- [ ] Add pCloud
-- [ ] Add Degoo
-- [ ] Add OneDrive
-- [ ] Add Trello
-- [ ] Add Aleks
-- [ ] Add Edhesive
-- [ ] Add Nintendo
 - [ ] Add Amazon
 - [ ] Add Google Play
-- [ ] Add Thingiverse
-- [ ] Add Hulu (family account)
-- [ ] Add Code.org
-- [ ] Add Zoom (virtual machine only)
 - [ ] Add VRBO (family account)
-- [ ] Add Dropbox
-- [ ] Add Snapchat (as a never used site)
-- [ ] Add Telegram
-- [ ] Add Signal
+- [x] Add Trello
+- [x] Add PayPal
+- [x] Add Thingiverse
+- [x] Add Telegram
+- [x] Add Signal
+- [x] Add Code.org
+- [x] Add Aleks
+- [x] Add Edhesive
+- [x] Add Nintendo
+- [x] Add AspergerExperts
+- [x] Add ClockTree
+- [x] Add iTunes
+- [x] Add iCloud
+- [x] Add Dropbox
+- [x] Add MediaFire
+- [x] Add pCloud
+- [x] Add OneDrive
+- [x] Add Degoo
+- [x] Add Hulu (family account)
+- [x] Add Zoom (virtual machine only)
+- [x] Add Snapchat (as a never used site)
 - [x] Add 3 other GitHub accounts (2 inactive, 1 banned)
 - [x] Add 2 other Reddit accounts
 - [x] Add OpenCollective
@@ -2011,6 +2015,13 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 - [`Twitter @seanwallawallal`](https://twitter.com/seanwallawallal/) **Live stream account**
 - [`Twitter @seanwallawalla2`](https://twitter.com/seanwallawalla2/) **"2nd" twitter account**
 - - No longer use as of 2018, slightly cringy, but not too bad
+- - Alt links (202
+- - - [`X @seanwallawalla`](https://x.com/seanwallawalla/) **Main account**
+- - - [`X @seanwallawallaa`](https://x.com/seanwallawallaa/) **Animation account**
+- - - [`X @seanwallawallab`](https://x.com/seanwallawallab/) **Business account**
+- - - [`X @seanwallawallae`](https://x.com/seanwallawallae/) **Electronic library account**
+- - - [`X @seanwallawallal`](https://x.com/seanwallawallal/) **Live stream account**
+- - - [`X @seanwallawalla2`](https://x.com/seanwallawalla2/) **"2nd" X account**
 - - - I currently plan on deleting these accounts once they have been crawled by the Wayback machine, or until the algorithm deletes them, whichever comes first
 - - - - Further information: [:octocat: `/seanpm2001/Twitter/`](https://github.com/seanpm2001/Twitter/)
 
@@ -2117,6 +2128,224 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 - [`Quora @seanwallawalla`](https://www.quora.com/seanwallawalla) - Used infrequently, but I never post here anymore
 
 </details> <!-- End of $Quora !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Zoom/Zoom_Logo_2022.svg" alt="Zoom wordmark failed to load" title="Wordmark of Zoom software" width="182" height="42"> |
+|---|
+| [`Zoom`](https://zoom.us/) |
+
+- I have an account on Zoom for use in virtual machines only.
+
+</details> <!-- End of $Zoom !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Hulu/Hulu_2019.svg" alt="Hulu wordmark failed to load" title="Wordmark of Hulu" width="250" height="82"> |
+|---|
+| [`Hulu`](https://www.hulu.com/) |
+
+- I used to have a Hulu account before 2020. It has been transferred to a family account.
+
+</details> <!-- End of $Hulu !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/DeGoo/DeGoo_20GB_Logo.png" alt="DeGoo logo failed to load" title="Logo of Degoo" width="256" height="256"> |
+|---|
+| [`Degoo`](https://degoo.com/) |
+
+- I used to have a Degoo account during a time where I was having difficulty with online file storage. It has fallen out of use.
+
+</details> <!-- End of $Degoo !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Dropbox/Dropbox_logo_2017.svg" alt="Dropbox wordmark failed to load" title="Wordmark of Dropbox" width="250" height="49"> |
+|---|
+| [`Dropbox`](https://www.dropbox.com/) |
+
+- I used to have a Dropbox account during a time where I was having difficulty with online file storage. It has fallen out of use.
+
+</details> <!-- End of $Dropbox !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/iCloud/iCloud_OldIcon1.png" alt="iCloud logo failed to load" title="Logo of iCloud" width="321" height="319"> |
+|---|
+| [`iCloud`](https://www.icloud.com/) |
+
+- I used to have a iCloud account during the time I used to use iOS (~2009 to 2015) it is no longer accessible.
+
+</details> <!-- End of $iCloud !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/iTunes/ITunes_OldIcon1.png" alt="iTunes logo failed to load" title="Logo of iTunes" width="300" height="300"> |
+|---|
+| [`iTunes`](https://www.apple.com/itunes/) |
+
+- I used to have a iTunes account during the time I used to use iOS (~2009 to 2015) it is no longer accessible.
+
+</details> <!-- End of $iTunes !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/MediaFire/MediaFire_logo.png" alt="MediaFire wordmark failed to load" title="Wordmark of MediaFire" width="250" height="67"> |
+|---|
+| [`MediaFire`](https://www.mediafire.com/) |
+
+- I used to have a MediaFire account during a time where I was having difficulty with online file storage. It has fallen out of use.
+
+</details> <!-- End of $MediaFire !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/OneDrive/Microsoft_Office_OneDrive_(2019–present).svg" alt="OneDrive logo failed to load" title="Logo of OneDrive" width="256" height="168"> |
+|---|
+| [`OneDrive`](https://onedrive.live.com/about/en-us/signin/) |
+
+- I used to have a OneDrive account during a time where I was having difficulty with online file storage. It has fallen out of use.
+
+</details> <!-- End of $OneDrive !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/pCloud/Pcloud-logo.svg" alt="pCloud logo failed to load" title="Logo of pCloud" width="256" height="256"> |
+|---|
+| [`pCloud`](https://www.pcloud.com/) |
+
+- I still have a pCloud account and actively use it, as of 2024, Wednesday, April 10th.
+
+</details> <!-- End of $pCloud !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/AspergerExperts/AspergerExperts_Logo.png" alt="Asperger Experts logo failed to load" title="Logo of Asperger Experts" width="200" height="200"> |
+|---|
+| [`Asperger Experts`](https://community.aspergerexperts.com/) |
+
+- I have an Asperger Experts account, but rarely use it.
+
+</details> <!-- End of $AspergerExperts !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Trello/Trello-logo-blue.svg" alt="Trello wordmark failed to load" title="Wordmark of Trello" width="312" height="64"> |
+|---|
+| [`Trello`](https://trello.com/) |
+
+- I had a Trello account in High School for my Java programming class, but no longer use it.
+
+</details> <!-- End of $Trello !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Trello/Trello-logo-blue.svg" alt="Trello wordmark failed to load" title="Wordmark of Trello" width="312" height="64"> |
+|---|
+| [`Trello`](https://trello.com/) |
+
+- I had a Trello account in High School for my Java programming class, but no longer use it.
+
+</details> <!-- End of $Trello !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/CodeDotOrg/Code.org_logo.svg" alt="code.org logo failed to load" title="Logo of code.org" width="243" height="240"> |
+|---|
+| [`code.org`](https://code.org/) |
+
+- The hour of code was the first programming course I ever took. I took the course in Middle School, and moved on to Scratch, then HTML, then Python. This is an origin point. I no longer have the account.
+
+</details> <!-- End of $CodeDotOrg !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/ALEKS/ALEKS_Logo.png" alt="ALEKS logo failed to load" title="Logo of ALEKS" width="300" height="218"> |
+|---|
+| [`ALEKS`](https://www.aleks.com/) |
+
+- ALEKS was a site I had to use in Middle School. I no longer have the account.
+
+</details> <!-- End of $ALEKS !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Edhesive/Edhesive_Wordmark.png" alt="Edhesive wordmark failed to load" title="Wordmark of Edhesive" width="337" height="71"> |
+|---|
+| [`Edhesive`](https://www.edhesive.com/) |
+
+- Edhesive was the site I used for the majority of my first and second Python programming classes. I no longer have the account.
+
+</details> <!-- End of $Edhesive !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Nintendo/Nintendo.svg" alt="Nintendo wordmark failed to load" title="Wordmark of Nintendo" width="300" height="100"> |
+|---|
+| [`Nintendo`](https://nintendo.com/) |
+
+- I have a Nintendo account that is used rarely.
+
+</details> <!-- End of $Nintendo !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Thingiverse/Thingiverse_Logo_192x192.png" alt="Thingiverse logo failed to load" title="Logo of Thingiverse" width="192" height="192"> |
+|---|
+| [`Thingiverse`](https://www.thingiverse.com/) |
+
+- I have a Thingiverse account that is used rarely.
+
+- - [`Thingiverse @seanwallawalla`](https://www.thingiverse.com/seanwallawalla/designs/)
+
+</details> <!-- End of $Thingiverse !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/PayPal/PayPal_Logo_Icon_2014.svg" alt="PayPal logo failed to load" title="Logo of PayPal" width="292" height="360"> |
+|---|
+| [`PayPal`](https://www.paypal.com/) |
+
+- I have a PayPal account that is used rarely.
+
+</details> <!-- End of $PayPal !-->
 
 ---
 
@@ -2252,6 +2481,47 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Snapchat/Snapcode_barcode.svg" alt="Snapchat logo failed to load" title="I am not on Snapchat" width="256" height="256"> |
+|---|
+| [`Snapchat`](https://www.snapchat.com/) |
+
+- I am not on Snapchat for the following reasons:
+
+1. I don't want to use a site that just deletes user content after 24 hours
+3. I don't have an interest in this type of site
+3. I don't want to become dependent on a site like this
+4. I have no use for Snapchat
+
+</details> <!-- End of $SnapChat !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Telegram/Telegram_2019_Logo.svg" alt="Telegram logo failed to load" title="Logo of Telegram" width="240" height="240"> |
+|---|
+| [`Telegram`](https://nintendo.com/) |
+
+- I tried to create a Telegram account, but decided not to, since it requires the use of a phone number, something I didn't have at the time, and something that has been unstable.
+
+</details> <!-- End of $Telegram !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Social-Media/Signal/Signal-Logo.svg" alt="Signal logo failed to load" title="Logo of Signal" width="256" height="256"> |
+|---|
+| [`Signal`](https://www.signal.org/) |
+
+- I had some interest in Signal around 2020, but never ended up creating an account.
+
+</details> <!-- End of $Signal !-->
+
+---
+
 _End of platforms I have never joined section._
 
 </details> <!-- End of never joined section !-->
@@ -2328,6 +2598,18 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Clocktree/ClockTreeLogo.jpeg" alt="Clocktree logo failed to load" title="Logo of Clocktree" width="200" height="200"> |
+|---|
+| [`Clocktree`](https://directory.telehealth.org/vendor/clocktree/) |
+
+- I used Clocktree for telehealth appointments until it was shut down in 2023.
+
+</details> <!-- End of $Clocktree !-->
+
+---
+
 _End of sites that no longer exist section._
 
 </details> <!-- End of no longer exists section !-->
@@ -2354,13 +2636,13 @@ _End of How to reach me section._
 
 ## [💸️ Sponsor info](#-Sponsor-info)
 
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 <img src="/Graphics/Badges/GitHub/Sponsors/PNG/badge-sponsors-small.png" alt="GitHub Sponsor Badge logo failed to load. Click/tap here to attempt to view it" title="GitHub sponsor badge" width="256" height="256" align="left">
 
 | [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/) | [:octocat: `Sponsoring`](https://github.com/seanpm2001/Sponsoring/) | [:octocat: `Sponsors`](https://github.com/seanpm2001/Sponsors/)
 |---|---|---|
 | How to sponsor me | Who I am sponsoring | Who sponsors me |
-
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <img src="/Graphics/GitHub/Sponsors/Button/SponsorButton.png" alt="GitHub sponsor button failed to load" title="GitHub sponsor button" width="72" height="22"> ⬅️ Don't click this button, it doesn't work
 
@@ -2376,7 +2658,7 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 ## [💹️ Free software isn't free to develop](#-Free-software-isn-t-free-to-develop)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <details open><summary>Click/tap here to expand/collapse the Python logo</summary>
 
@@ -2411,7 +2693,7 @@ My list of supported organizations include:
 
 ## [📨️ Submissions](#-Submissions)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I am open for accepting submissions for project artwork. I would like to receive skeumorphism and 3D designs for program graphics before I accept flat design and solid color works. I want to give people the option for both skeumorphism, 3D, 2D, Flat, solid color, or whatever the user prefers. I want to start with Skeumorphism, as it is the best (totally not an unbiased opinion)
 
@@ -2445,7 +2727,7 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ## [🖥️ Computer user type](#-Computer-user-type)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - [ ] Low usage - I use the computer very infrequently
 - [ ] Novice - I use the computer sometimes
@@ -2470,7 +2752,7 @@ I have completed primary (pre-school, Elementary School) and secondary education
 
 ## [👩‍💻️ GitHub developer program](#-GitHub-developer-program)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. Here, I will be listing my projects that work with the GitHub API:
 
@@ -7329,11 +7611,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `93 (2024, Tuesday, April 9th at 12:18 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,002`
-- **Word count:** `066,768`
-- **Character count (with spaces):** `0,483,181 characters`
-- **Character count (without spaces)** `0,422,720 characters`
+- **File version:** `94 (2024, Wednesday, April 10th at 02:25 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,302`
+- **Word count:** `068,621`
+- **Character count (with spaces):** `0,495,312 characters`
+- **Character count (without spaces)** `0,433,275 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9738,11 +10020,28 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 94 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 94 (2024, Wednesday, April 10th at 02:25 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the nineteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 9th to 2024, April 10th. Further formatting issues were fixed, and new data is included. Progress has been slowing on this project, the majority of update time went to the Online Identity section._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `Online identity` section
+- - [x] Another massive update: added information for over 20 sites
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 94
 - [ ] No other changes in version 94
 
 </details> <!-- End of V94 !-->
@@ -9847,7 +10146,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 9th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-9th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 10th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-10th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9872,6 +10171,7 @@ _End of file version history_
 - - [Link to remodel section version 17 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md)
 - - [Link to remodel section version 18 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md)
 - - [Link to remodel section version 19 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md)
+- - [Link to remodel section version 20 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9925,7 +10225,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - **Maximum amount of emojis:** `4096`
 - - **Current emoji count:** `~1611`
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V93: `489,656` / `524,288` (`093.394%`))
+- - **Current character count (in bytes):** (as of V94: `501,789` / `524,288` (`095.708%`))
 
 > Memory
 
@@ -9970,7 +10270,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 93 (beta 19)** | _2024, Tuesday, April 9th_ |
+| **Version 94 (beta 20)** | _2024, Wednesday, April 10th_ |
 
 | 📣️ Feedback 💬️ |
 |---|
@@ -9978,7 +10278,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ |
 |---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/90/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/91/) |
 
 | 🪣️ General 📣️ |
 |---|
