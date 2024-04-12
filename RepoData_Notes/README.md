@@ -37,7 +37,7 @@ Starting on 2023, Wednesday, October 11th, each day now has a new variant known 
 
 There was a lot of downtime between new projects in various points in the set. This isn't because notes weren't created (at least for 2022 November onward, before this, the process was not consistent) but because no new source repositories were created on this day.
 
-</details>
+</details> <!-- End of title section !-->
 
 ***
 
@@ -45,8 +45,8 @@ There was a lot of downtime between new projects in various points in the set. T
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the timeline/index section</b></p></summary>
 
-- File count and index as of 2024, Saturday, March 23rd (before todays batch)
-- - 659 files <!-- 78+434+147 !-->
+- File count and index as of 2024, Friday, April 12th (after todays batch)
+- - 683 files (712 when unredacted entries are included) <!-- 78+434+171 | unredacted: 78+434+200 !-->
 
 - [`2022`](/RepoData_Notes/2022/) - 78 files <!-- 1+12+30+35=78 !-->
 - - [`07: July`](/RepoData_Notes/2022/07_July/) - 1 file
@@ -66,14 +66,27 @@ There was a lot of downtime between new projects in various points in the set. T
 - - [`10: October`](/RepoData_Notes/2023/10_October/) - 52 files
 - - [`11: November`](/RepoData_Notes/2023/11_November/) - 60 files
 - - [`12: December`](/RepoData_Notes/2023/12_December/) - 64 files
-- [`2024`](/RepoData_Notes/2024/) - 147 files <!-- 62+54+31 !-->
-- - [`01: January`](/RepoData_Notes/2024/01_January/) - 62 files
-- - [`02: February`](/RepoData_Notes/2024/02_February/) - 54 files
-- - [`03: March`](/RepoData_Notes/2024/03_March/) - 31 files
+- [`2024`](/RepoData_Notes/2024/) - 171 files (200 files when unredacted entries are included) <!-- 62+54+31+24 | unredacted: 2+8+4+15=29 !--> 
+- - [`01: January`](/RepoData_Notes/2024/01_January/) - 62 files (64 when unredacted entries are included)
+- - [`02: February`](/RepoData_Notes/2024/02_February/) - 54 files (72 when unredacted entries are included)
+- - [`03: March`](/RepoData_Notes/2024/03_March/) - 51 files (55 when unredacted entries are included)
+- - [`04: April`](/RepoData_Notes/2024/04_April/) - 24 files (39 when unredacted entries are included) (as of 2024, Friday, April 12th)
+- - [`05: May`](/RepoData_Notes/2024/05_May/) - Coming soon
+- - [`06: June`](/RepoData_Notes/2024/06_June/) - Coming soon
+- - [`07: July`](/RepoData_Notes/2024/07_July/) - Coming soon
+- - [`08: August`](/RepoData_Notes/2024/08_August/) - Coming soon
+- - [`09: September`](/RepoData_Notes/2024/09_September/) - Coming soon
+- - [`10: October`](/RepoData_Notes/2024/10_October/) - Coming soon
+- - [`11: November`](/RepoData_Notes/2024/11_November/) - Coming soon
+- - [`12: December`](/RepoData_Notes/2024/12_December/) - Coming soon
 
-</details>
+</details> <!-- End of Timeline/index section !-->
 
-</details>
+***
+
+_End of title/header section._
+
+</details> <!-- End of Title/header section !-->
 
 ***
 
@@ -82,12 +95,12 @@ There was a lot of downtime between new projects in various points in the set. T
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section</b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `5 (2024, Saturday, March 23rd at 04:33 pm PST)`
-- **Line count (including blank lines and compiler line):** `239`
-- **Word count:** `01,460`
-- **Character count (including spaces):** `09,240`
-- **Character count (excluding spaces):** `07,801`
-- **Size (in bytes):** `09,240`
+- **File version:** `6 (2024, Friday, April 12th at 04:15 pm PST)`
+- **Line count (including blank lines and compiler line):** `278`
+- **Word count:** `01,775`
+- **Character count (including spaces):** `11,380`
+- **Character count (excluding spaces):** `09,610`
+- **Size (in bytes):** `11,380`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -96,7 +109,7 @@ There was a lot of downtime between new projects in various points in the set. T
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-</details>
+</details> <!-- End of File Info section !-->
 
 ***
 
@@ -122,7 +135,7 @@ There was a lot of downtime between new projects in various points in the set. T
 - [x] Added the `File info` section
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- End of V1 !-->
 
 ---
 
@@ -149,7 +162,7 @@ There was a lot of downtime between new projects in various points in the set. T
 - [x] Added the footer
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- End of V2 !-->
 
 ---
 
@@ -171,7 +184,7 @@ There was a lot of downtime between new projects in various points in the set. T
 - - [x] Added an entry for version 3
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- End of V3 !-->
 
 ---
 
@@ -192,11 +205,11 @@ There was a lot of downtime between new projects in various points in the set. T
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- End of V4 !-->
 
 ---
 
-## Version 5 (2023, Saturday, March 23rd at 04:33 pm PST)
+## Version 5 (2024, Saturday, March 23rd at 04:33 pm PST)
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 5</b></p></summary>
 
@@ -207,7 +220,7 @@ There was a lot of downtime between new projects in various points in the set. T
 > Changes:
 
 - [x] Updated the `Timeline/Index` section
-- - [x] Updated the data to reflect changes from 2023, Saturday, March 23rd
+- - [x] Updated the data to reflect changes from 2024, Saturday, March 23rd
 - [x] Updated the title section
 - - [x] New information on redaction has been added
 - [x] Updated the `File info` section
@@ -215,13 +228,37 @@ There was a lot of downtime between new projects in various points in the set. T
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- End of V5 !-->
+
+---
+
+## Version 6 (2024, Friday, April 12th at 04:15 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 5</b></p></summary>
+
+> This release was made by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Version 6, coming back after a little under a month with new entries._
+
+> Changes:
+
+- [x] Updated the `Timeline/Index` section
+- - [x] Updated the data to reflect changes from 2024, Friday, April 12th
+- [x] Updated the title section
+- - [x] New information on redaction has been added
+- [x] Source code improvements (new comments and dropdown elements)
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
+
+</details> <!-- End of V6 !-->
 
 ---
 
 _End of file version history_
 
-</details>
+</details> <!-- End of File History !-->
 
 ***
 
@@ -231,8 +268,10 @@ _End of file version history_
 
 - You have reached the end of this file.
 
-</details>
+</details> <!-- End of Footer !-->
 
 ###### [EOF](#EOF)
+
+</details> <!-- End of document !-->
 
 ***
