@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 22 - 2024, Friday, April 12th` |
+| `Beta 23 - 2024, Saturday, April 13th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 20 days down, 43/44 days to go, as of 2024, Friday, April 12th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 22 days down, 41/42 days to go, as of 2024, Saturday, April 13th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -66,7 +66,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 20](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
 | [Beta 21](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
 | [Beta 22](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
-| Beta 23 | Coming soon | 22 |
+| [Beta 23](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
 | Beta 24 | Coming soon | 23 |
 | Beta 25 | Coming soon | 24 |
 | Beta 26 | Coming soon | 25 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `45` **/** `220` **tasks** _(020.45%)_ |
-| _as of 2024, Friday, April 12th_ |
+| `44` **/** `220` **tasks** _(020.00%)_ |
+| _as of 2024, Saturday, April 13th_ |
 
-- **Current tasks to do (45 tasks, as of 2024, Friday, April 12th)**
+- **Current tasks to do (44 tasks, as of 2024, Saturday, April 13th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -168,7 +168,6 @@ vCard and identification section (vCard may not be possible)
 My web stack
 Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 New icon to center at the top
-Music section | AudioDB, bandcamp
 Certificates
 UnSaaSS project
 Update information about Windows and MacOS support
@@ -204,10 +203,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `175` **/** `220` **tasks** _(079.54%)_ |
-| _as of 2024, Friday, April 12th_ |
+| `176` **/** `220` **tasks** _(080.00%)_ |
+| _as of 2024, Saturday, April 13th_ |
 
-- **Tasks implemented so far (175 tasks, as of 2024, Friday, April 12th)**
+- **Tasks implemented so far (176 tasks, as of 2024, Saturday, April 13th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -388,6 +387,7 @@ Get /Graphics/ versions of all /Media/ media, and give them better filenames
 Add icons for all social media services used
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Improve Online identity section
+Music section | AudioDB, bandcamp
 ```
 
 </details> <!-- End of completed remodel goals section !-->
