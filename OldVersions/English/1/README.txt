@@ -80,6 +80,7 @@ _Further instructions not yet available._
 - [2024.04.11] Reaching critical mass. Parts of the bottom of the file may not render if the size continues to grow without control.
 - [2024.04.12] The file hit its size limit today, so I moved the `What I'm currently working on` section out into a separate page, which saves 209,975 bytes (209.97 kilobytes) nearly 40% of the document. Issues with size should not recur again for some time.
 - [2024.04.13] No updates for this date.
+- [2024.04.14] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -266,7 +267,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 23 - 2024, Saturday, April 13th` |
+| `Beta 24 - 2024, Sunday, April 14th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -277,7 +278,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 22 days down, 41/42 days to go, as of 2024, Saturday, April 13th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 23 days down, 40/41 days to go, as of 2024, Sunday, April 14th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -326,7 +327,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 21](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
 | [Beta 22](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
 | [Beta 23](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
-| Beta 24 | Coming soon | 23 |
+| [Beta 24](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
 | Beta 25 | Coming soon | 24 |
 | Beta 26 | Coming soon | 25 |
 | Beta 27 | Coming soon | 26 |
@@ -393,10 +394,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `44` **/** `220` **tasks** _(020.00%)_ |
-| _as of 2024, Saturday, April 13th_ |
+| `43` **/** `221` **tasks** _(019.45%)_ |
+| _as of 2024, Sunday, April 14th_ |
 
-- **Current tasks to do (44 tasks, as of 2024, Saturday, April 13th)**
+- **Current tasks to do (44 tasks, as of 2024, Sunday, April 14th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -405,7 +406,6 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 Résumé at top
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Many modifications to existing text throughout the document
-Condensing the list a little bit, through dropdowns
 New translation methods
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Section about upcoming projects
@@ -423,7 +423,6 @@ Forks and browsing forks
 My server and server plans + request for help
 GistHub
 Graphic design info (programs used)
-vCard and identification section (vCard may not be possible)
 My web stack
 Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 New icon to center at the top
@@ -446,6 +445,7 @@ Properly format all img tags
 Keyword: " src=
 Should be replaced with:
 src="" alt=
+Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -462,10 +462,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `176` **/** `220` **tasks** _(080.00%)_ |
-| _as of 2024, Saturday, April 13th_ |
+| `178` **/** `221` **tasks** _(080.55%)_ |
+| _as of 2024, Sunday, April 14th_ |
 
-- **Tasks implemented so far (176 tasks, as of 2024, Saturday, April 13th)**
+- **Tasks implemented so far (176 tasks, as of 2024, Sunday, April 14th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -647,6 +647,8 @@ Add icons for all social media services used
 Give identity theft a better name, and update the link in the guestbook section with this newly named section
 Improve Online identity section
 Music section | AudioDB, bandcamp
+Condensing the list a little bit, through dropdowns
+vCard and identification section (vCard may not be possible)
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -1536,6 +1538,20 @@ The email address is for professional use, and is tied to my GitHub developer pr
 Note: this email address is NOT a mailing list, it is just named like that. The name was inspired by the Linux Kernel Mailing List.
 
 </details> <!-- End of email information section !-->
+
+---
+
+### [🇻 vCard](#-vCard)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+On 2024, Sunday, April 14th, I created my own vCard
+
+| As `*.vcard` | as `*.vcf` |
+|---|---|
+| [`Version 1 (VCard)`](/Special/VCard/Seanpm2001_V1.vcard) | [`Version 1 (VCF)`](/Special/VCard/Seanpm2001_V1.vcf)
+
+</details> <!-- End of VCard section !-->
 
 ---
 
@@ -4500,11 +4516,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `97 (2024, Saturday, April 13th at 10:30 pm PST)`
-- **Line count (including blank lines and compiler line):** `07,252`
-- **Word count:** `045,160`
-- **Character count (with spaces):** `0,306,031 characters`
-- **Character count (without spaces)** `0,263,869 characters`
+- **File version:** `98 (2024, Sunday, April 14th at 10:30 pm PST)`
+- **Line count (including blank lines and compiler line):** `07,292`
+- **Word count:** `045,542`
+- **Character count (with spaces):** `0,308,476 characters`
+- **Character count (without spaces)** `0,265,937 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7024,11 +7040,33 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 98 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 98 (2024, Sunday, April 13th at 10:30 pm PST)</b></summary>
+
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the twenty-second update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 13th to 2024, April 14th. Not much was done in this update, as I pushed this project off until late, and was pretty distracted today. This project is getting later and later, and almost wasn't possible today. I did achieve 1 goal, and listed a previously completed goal as complete a couple of weeks late._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Online identity` section
+- - [x] Added the `vCard` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Hobbies` section
+- - [x] Added the `Music` section
+- [x] Updated the `Online Identity` section
+- [x] Updated the `Bandcamp` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 98
 - [ ] No other changes in version 98
 
 </details> <!-- End of V98 !-->
@@ -7089,7 +7127,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 13th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-13th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 14th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-14th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -7118,6 +7156,7 @@ _End of file version history_
 - - [Link to remodel section version 21 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md)
 - - [Link to remodel section version 22 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md)
 - - [Link to remodel section version 23 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md)
+- - [Link to remodel section version 24 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -7169,9 +7208,9 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0967` (as of V97) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~0968` (as of V98) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V97: `309,901` / `524,288` (`059.108%`))
+- - **Current character count (in bytes):** (as of V98: `312,349` / `524,288` (`059.575%`))
 
 > Memory
 
@@ -7216,7 +7255,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 97 (beta 23)** | _2024, Saturday, April 13th_ |
+| **Version 98 (beta 24)** | _2024, Sunday, April 14th_ |
 
 | 📣️ Feedback 💬️ |
 |---|
@@ -7224,7 +7263,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ |
 |---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/94/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/95/) |
 
 | 🪣️ General 📣️ |
 |---|
@@ -7238,9 +7277,10 @@ You have reached the end of this page.
 | ?DATE? |
 !-->
 
-| [`Wayback machine link`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | 
+| [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
 |---|
-| _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my GitHub profile per day._ |
+| _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my GitHub profile per day._ | _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my alternative GitHub profile per day._ |
+| _Please account for time zones. | The first consecutive snapshot was April 9th GMT, but I use PST, so it was still April 8th when I took the snapshot._ |
 
 </details> <!-- End of profile README !-->
 
