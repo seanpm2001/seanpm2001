@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Sean Myrick
+N:Myrick;Sean
+XML:PHOTO;ENCODING=BASE64;TYPE=JPEG:[base64-data]
+BDAY: 20010321
+CLASS:public
+CATEGORIES:programmer,designer,archivist,researcher
+ANNIVERSARY:20150514
+GENDER:M
+KIND:individual
+NICKNAME:Seanpm2001,SeanWallaWalla
+EMAIL;TYPE=work:seanpm2001-mailing-list@protonmail.com
+URL:https://github.com/seanpm2001
+XML:<b>Hello World</b>
+XML:<b>VCF 4.0</b>
+XML:<b>File version: 1 (2024, Sunday, April 14th at 10:21 pm PST)</b>
+END:VCARD
