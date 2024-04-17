@@ -79,9 +79,7 @@ _Further instructions not yet available._
 - [2024.04.10] Size is now a major concern, as I have less than 5% capacity for new content now.
 - [2024.04.11] Reaching critical mass. Parts of the bottom of the file may not render if the size continues to grow without control.
 - [2024.04.12] The file hit its size limit today, so I moved the `What I'm currently working on` section out into a separate page, which saves 209,975 bytes (209.97 kilobytes) nearly 40% of the document. Issues with size should not recur again for some time.
-- [2024.04.13] No updates for this date.
-- [2024.04.14] No updates for this date.
-- [2024.04.15] No updates for this date.
+- [2024.04.13] -> [2024.04.16] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -268,7 +266,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 25 - 2024, Tuesday, April 16th (coming 1 day late)` |
+| `Beta 26 - 2024, Tuesday, April 16th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -279,7 +277,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 24 days down, 39/40 days to go, as of 2024, Monday, April 15th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 25 days down, 38/39 days to go, as of 2024, Tuesday, April 16th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -329,8 +327,8 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 22](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
 | [Beta 23](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
 | [Beta 24](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
-| [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late)  | 24 |
-| Beta 26 | Coming soon | 25 |
+| [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
+| [Beta 26](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
 | Beta 27 | Coming soon | 26 |
 | Beta 28 | Coming soon | 27 |
 | Beta 29 | Coming soon | 28 |
@@ -395,10 +393,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `43` **/** `221` **tasks** _(019.45%)_ |
-| _as of 2024, Monday, April 15th_ |
+| `39` **/** `222` **tasks** _(017.57%)_ |
+| _as of 2024, Tuesday, April 16th_ |
 
-- **Current tasks to do (44 tasks, as of 2024, Monday, April 15th)**
+- **Current tasks to do (39 tasks, as of 2024, Tuesday, April 16th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -413,14 +411,9 @@ Section about upcoming projects
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
 My setup
-Self hosting plans for the future
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 Centering various tables and text
-Internet status and speedtest link
-Information on necroposting and project development cycle (in years)
-Favorite works
-Forks and browsing forks
 My server and server plans + request for help
 GistHub
 Graphic design info (programs used)
@@ -447,6 +440,7 @@ Keyword: " src=
 Should be replaced with:
 src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Nitrotype link
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -463,10 +457,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `178` **/** `221` **tasks** _(080.55%)_ |
-| _as of 2024, Monday, April 15th_ |
+| `183` **/** `222` **tasks** _(082.43%)_ |
+| _as of 2024, Tuesday, April 16th_ |
 
-- **Tasks implemented so far (176 tasks, as of 2024, Monday, April 15th)**
+- **Tasks implemented so far (183 tasks, as of 2024, Tuesday, April 16th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -650,6 +644,11 @@ Improve Online identity section
 Music section | AudioDB, bandcamp
 Condensing the list a little bit, through dropdowns
 vCard and identification section (vCard may not be possible)
+Information on necroposting and project development cycle (in years)
+Favorite works
+Forks and browsing forks
+Internet status and speedtest link
+Self hosting plans for the future
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -891,6 +890,61 @@ No other limitations listed at the moment.
 [:octocat: `My labels can be found here`](https://github.com/seanpm2001/Labels/)
 
 </details> <!-- End of labels section !-->
+
+***
+
+## [🪦️ Necroposting](#-Necroposting)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+My projects are given a longer life cycle than other projects, and because I maintain so many, it is hard to get to entries in time. Therefore, I encourage necroposting on projects, even if they haven't been touched in 4 years. They will be activated again once interest is shown in them. They are not completely dead (except for projects that have been [:octocat: `archived`](https://github.com/seanpm2001?tab=repositories&q=&type=archived&language=&sort=))
+
+Project development cycle (in years)
+
+0
+- 1
+- - 2
+- - - 3
+- - - - 4
+- Work in progress
+
+</details> <!-- End of necroposting section !-->
+
+***
+
+## [🍴️ Forks and browsing forks](#-Forks-and-browsing-forks)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I fork projects I come across. I have plans to create a giant collection of forked repositories as a reference. Forks are given a special naming pattern to differentiate them from other repositories.
+
+[:octocat: `Fork style guide`](https://github.com/seanpm2001/Seanpm2001_Fork_Style-Guide/)
+
+I already created a `Fork` section, I may need to merge this section into it in the future.
+
+</details> <!-- End of necroposting section !-->
+
+***
+
+## [❤️ Favorite works](#-Favorite-works)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I currently don't have any favorite projects. It is hard for me to chose favorites in some fields.
+
+This section is for projects I favorite that I have made, not other peoples projects. That will be a separate list for another time.
+
+</details> <!-- End of favorite works section !-->
+
+***
+
+## [🛰️ Self hosting plans for the future](#-Self-hosting-plans-for-the-future)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+In the future, I plan to have a self-hosted version of my works as well. I plan to still retain accounts on GitHub, Mastodon, and other sites. Currently, I am having difficulties in researching and funding a proper Linux server, it is an area of active research. I plan to have 2 websites, one for personal work, and one for public work (both will be public facing websites) with many subdomains.
+
+</details> <!-- End of Self hosting plans for the future section !-->
 
 ***
 
@@ -1551,6 +1605,8 @@ On 2024, Sunday, April 14th, I created my own vCard
 | As `*.vcard` | as `*.vcf` |
 |---|---|
 | [`Version 1 (VCard)`](/Special/VCard/Seanpm2001_V1.vcard) | [`Version 1 (VCF)`](/Special/VCard/Seanpm2001_V1.vcf)
+
+It has not yet been tested. It may not work, as I experimentally tried to embed a placeholder for a base64 encoded image inside of it without using proper software.
 
 </details> <!-- End of VCard section !-->
 
@@ -4517,11 +4573,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `99 (2024, Tuesday, April 16th at 05:00 pm PST)`
-- **Line count (including blank lines and compiler line):** `07,304`
-- **Word count:** `045,726`
-- **Character count (with spaces):** `0,309,604 characters`
-- **Character count (without spaces)** `0,266,893 characters`
+- **File version:** `100 (2024, Tuesday, April 16th at 11:18 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,472`
+- **Word count:** `048,773`
+- **Character count (with spaces):** `0,331,743 characters`
+- **Character count (without spaces)** `0,285,125 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7069,7 +7125,7 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 99 (2024, Tuesday, April 16th at 5:00 pm PST)</b></summary>
+<details><summary><b lang="en">Version 99 (2024, Tuesday, April 16th at 05:00 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
@@ -7095,11 +7151,34 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 100 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 100 (2024, Tuesday, April 16th at 11:18 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _Update 100 to this file! This is the twenty-fourth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created on 2024, Tuesday, April 16th, all in the same day._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Added the `Necroposting` section
+- [x] Added the `Favorite works` section
+- [x] Added the `Forks and browsing forks` section
+- [x] Added the `Internet status` section
+- [x] Added the `Self hosting plans for the future` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 100
+- - [x] Added blank entries for versions 103 to 200
+- [x] Updated the `Footer`
+- - [x] Merged some tables
 - [ ] No other changes in version 100
 
 </details> <!-- End of V100 !-->
@@ -7128,6 +7207,1084 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
+<details><summary><b lang="en">Version 103 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 103
+
+</details> <!-- End of V103 !-->
+
+---
+
+<details><summary><b lang="en">Version 104 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 104
+
+</details> <!-- End of V104 !-->
+
+---
+
+<details><summary><b lang="en">Version 105 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 105
+
+</details> <!-- End of V105 !-->
+
+---
+
+<details><summary><b lang="en">Version 106 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 106
+
+</details> <!-- End of V106 !-->
+
+---
+
+<details><summary><b lang="en">Version 107 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 107
+
+</details> <!-- End of V107 !-->
+
+---
+
+<details><summary><b lang="en">Version 108 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 108
+
+</details> <!-- End of V108 !-->
+
+---
+
+<details><summary><b lang="en">Version 109 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 109
+
+</details> <!-- End of V109 !-->
+
+---
+
+<details><summary><b lang="en">Version 110 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 110
+
+</details> <!-- End of V110 !-->
+
+---
+
+<details><summary><b lang="en">Version 111 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 111
+
+</details> <!-- End of V111 !-->
+
+---
+
+<details><summary><b lang="en">Version 112 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 112
+
+</details> <!-- End of V112 !-->
+
+---
+
+<details><summary><b lang="en">Version 113 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 113
+
+</details> <!-- End of V113 !-->
+
+---
+
+<details><summary><b lang="en">Version 114 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 114
+
+</details> <!-- End of V114 !-->
+
+---
+
+<details><summary><b lang="en">Version 115 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 115
+
+</details> <!-- End of V115 !-->
+
+---
+
+<details><summary><b lang="en">Version 116 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 116
+
+</details> <!-- End of V116 !-->
+
+---
+
+<details><summary><b lang="en">Version 117 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 117
+
+</details> <!-- End of V117 !-->
+
+---
+
+<details><summary><b lang="en">Version 118 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 118
+
+</details> <!-- End of V118 !-->
+
+---
+
+<details><summary><b lang="en">Version 119 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 119
+
+</details> <!-- End of V119 !-->
+
+---
+
+<details><summary><b lang="en">Version 120 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 120
+
+</details> <!-- End of V120 !-->
+
+---
+
+<details><summary><b lang="en">Version 121 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 121
+
+</details> <!-- End of V121 !-->
+
+---
+
+<details><summary><b lang="en">Version 122 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 122
+
+</details> <!-- End of V122 !-->
+
+---
+
+<details><summary><b lang="en">Version 123 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 123
+
+</details> <!-- End of V123 !-->
+
+---
+
+<details><summary><b lang="en">Version 124 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 124
+
+</details> <!-- End of V124 !-->
+
+---
+
+<details><summary><b lang="en">Version 125 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 125
+
+</details> <!-- End of V125 !-->
+
+---
+
+<details><summary><b lang="en">Version 126 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 126
+
+</details> <!-- End of V126 !-->
+
+---
+
+<details><summary><b lang="en">Version 127 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 127
+
+</details> <!-- End of V127 !-->
+
+---
+
+<details><summary><b lang="en">Version 128 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 128
+
+</details> <!-- End of V128 !-->
+
+---
+
+<details><summary><b lang="en">Version 129 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 129
+
+</details> <!-- End of V129 !-->
+
+---
+
+<details><summary><b lang="en">Version 130 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 130
+
+</details> <!-- End of V130 !-->
+
+---
+
+<details><summary><b lang="en">Version 131 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 131
+
+</details> <!-- End of V131 !-->
+
+---
+
+<details><summary><b lang="en">Version 132 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 132
+
+</details> <!-- End of V132 !-->
+
+---
+
+<details><summary><b lang="en">Version 133 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 133
+
+</details> <!-- End of V133 !-->
+
+---
+
+<details><summary><b lang="en">Version 134 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 134
+
+</details> <!-- End of V134 !-->
+
+---
+
+<details><summary><b lang="en">Version 135 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 135
+
+</details> <!-- End of V135 !-->
+
+---
+
+<details><summary><b lang="en">Version 136 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 136
+
+</details> <!-- End of V136 !-->
+
+---
+
+<details><summary><b lang="en">Version 137 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 137
+
+</details> <!-- End of V137 !-->
+
+---
+
+<details><summary><b lang="en">Version 138 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 138
+
+</details> <!-- End of V138 !-->
+
+---
+
+<details><summary><b lang="en">Version 139 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 139
+
+</details> <!-- End of V139 !-->
+
+---
+
+<details><summary><b lang="en">Version 140 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 140
+
+</details> <!-- End of V140 !-->
+
+---
+
+<details><summary><b lang="en">Version 141 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 141
+
+</details> <!-- End of V141 !-->
+
+---
+
+<details><summary><b lang="en">Version 142 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 142
+
+</details> <!-- End of V142 !-->
+
+---
+
+<details><summary><b lang="en">Version 143 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 143
+
+</details> <!-- End of V143 !-->
+
+---
+
+<details><summary><b lang="en">Version 144 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 144
+
+</details> <!-- End of V144 !-->
+
+---
+
+<details><summary><b lang="en">Version 145 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 145
+
+</details> <!-- End of V145 !-->
+
+---
+
+<details><summary><b lang="en">Version 146 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 146
+
+</details> <!-- End of V146 !-->
+
+---
+
+<details><summary><b lang="en">Version 147 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 147
+
+</details> <!-- End of V147 !-->
+
+---
+
+<details><summary><b lang="en">Version 148 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 148
+
+</details> <!-- End of V148 !-->
+
+---
+
+<details><summary><b lang="en">Version 149 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 149
+
+</details> <!-- End of V149 !-->
+
+---
+
+<details><summary><b lang="en">Version 150 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 150
+
+</details> <!-- End of V150 !-->
+
+---
+
+<details><summary><b lang="en">Version 151 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 151
+
+</details> <!-- End of V151 !-->
+
+---
+
+<details><summary><b lang="en">Version 152 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 152
+
+</details> <!-- End of V152 !-->
+
+---
+
+<details><summary><b lang="en">Version 153 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 153
+
+</details> <!-- End of V153 !-->
+
+---
+
+<details><summary><b lang="en">Version 154 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 154
+
+</details> <!-- End of V154 !-->
+
+---
+
+<details><summary><b lang="en">Version 155 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 155
+
+</details> <!-- End of V155 !-->
+
+---
+
+<details><summary><b lang="en">Version 156 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 156
+
+</details> <!-- End of V156 !-->
+
+---
+
+<details><summary><b lang="en">Version 157 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 157
+
+</details> <!-- End of V157 !-->
+
+---
+
+<details><summary><b lang="en">Version 158 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 158
+
+</details> <!-- End of V158 !-->
+
+---
+
+<details><summary><b lang="en">Version 159 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 159
+
+</details> <!-- End of V159 !-->
+
+---
+
+<details><summary><b lang="en">Version 160 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 160
+
+</details> <!-- End of V160 !-->
+
+---
+
+<details><summary><b lang="en">Version 161 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 161
+
+</details> <!-- End of V161 !-->
+
+---
+
+<details><summary><b lang="en">Version 162 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 162
+
+</details> <!-- End of V162 !-->
+
+---
+
+<details><summary><b lang="en">Version 163 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 163
+
+</details> <!-- End of V163 !-->
+
+---
+
+<details><summary><b lang="en">Version 164 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 164
+
+</details> <!-- End of V164 !-->
+
+---
+
+<details><summary><b lang="en">Version 165 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 165
+
+</details> <!-- End of V165 !-->
+
+---
+
+<details><summary><b lang="en">Version 166 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 166
+
+</details> <!-- End of V166 !-->
+
+---
+
+<details><summary><b lang="en">Version 167 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 167
+
+</details> <!-- End of V167 !-->
+
+---
+
+<details><summary><b lang="en">Version 168 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 168
+
+</details> <!-- End of V168 !-->
+
+---
+
+<details><summary><b lang="en">Version 169 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 169
+
+</details> <!-- End of V169 !-->
+
+---
+
+<details><summary><b lang="en">Version 170 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 170
+
+</details> <!-- End of V170 !-->
+
+---
+
+<details><summary><b lang="en">Version 171 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 171
+
+</details> <!-- End of V171 !-->
+
+---
+
+<details><summary><b lang="en">Version 172 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 172
+
+</details> <!-- End of V172 !-->
+
+---
+
+<details><summary><b lang="en">Version 173 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 173
+
+</details> <!-- End of V173 !-->
+
+---
+
+<details><summary><b lang="en">Version 174 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 174
+
+</details> <!-- End of V174 !-->
+
+---
+
+<details><summary><b lang="en">Version 175 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 175
+
+</details> <!-- End of V175 !-->
+
+---
+
+<details><summary><b lang="en">Version 176 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 176
+
+</details> <!-- End of V176 !-->
+
+---
+
+<details><summary><b lang="en">Version 177 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 177
+
+</details> <!-- End of V177 !-->
+
+---
+
+<details><summary><b lang="en">Version 178 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 178
+
+</details> <!-- End of V178 !-->
+
+---
+
+<details><summary><b lang="en">Version 179 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 179
+
+</details> <!-- End of V179 !-->
+
+---
+
+<details><summary><b lang="en">Version 180 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 180
+
+</details> <!-- End of V180 !-->
+
+---
+
+<details><summary><b lang="en">Version 181 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 181
+
+</details> <!-- End of V181 !-->
+
+---
+
+<details><summary><b lang="en">Version 182 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 182
+
+</details> <!-- End of V182 !-->
+
+---
+
+<details><summary><b lang="en">Version 183 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 183
+
+</details> <!-- End of V183 !-->
+
+---
+
+<details><summary><b lang="en">Version 184 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 184
+
+</details> <!-- End of V184 !-->
+
+---
+
+<details><summary><b lang="en">Version 185 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 185
+
+</details> <!-- End of V185 !-->
+
+---
+
+<details><summary><b lang="en">Version 186 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 186
+
+</details> <!-- End of V186 !-->
+
+---
+
+<details><summary><b lang="en">Version 187 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 187
+
+</details> <!-- End of V187 !-->
+
+---
+
+<details><summary><b lang="en">Version 188 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 188
+
+</details> <!-- End of V188 !-->
+
+---
+
+<details><summary><b lang="en">Version 189 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 189
+
+</details> <!-- End of V189 !-->
+
+---
+
+<details><summary><b lang="en">Version 190 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 190
+
+</details> <!-- End of V190 !-->
+
+---
+
+<details><summary><b lang="en">Version 191 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 191
+
+</details> <!-- End of V191 !-->
+
+---
+
+<details><summary><b lang="en">Version 192 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 192
+
+</details> <!-- End of V192 !-->
+
+---
+
+<details><summary><b lang="en">Version 193 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 193
+
+</details> <!-- End of V193 !-->
+
+---
+
+<details><summary><b lang="en">Version 194 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 194
+
+</details> <!-- End of V194 !-->
+
+---
+
+<details><summary><b lang="en">Version 195 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 195
+
+</details> <!-- End of V195 !-->
+
+---
+
+<details><summary><b lang="en">Version 196 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 196
+
+</details> <!-- End of V196 !-->
+
+---
+
+<details><summary><b lang="en">Version 197 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 197
+
+</details> <!-- End of V197 !-->
+
+---
+
+<details><summary><b lang="en">Version 198 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 198
+
+</details> <!-- End of V198 !-->
+
+---
+
+<details><summary><b lang="en">Version 199 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 199
+
+</details> <!-- End of V199 !-->
+
+---
+
+<details><summary><b lang="en">Version 200 (Coming soon)</b></summary>
+
+> Changes:
+
+- [ ] Coming soon
+- [ ] No other changes in version 200
+
+</details> <!-- End of V200 !-->
+
+---
+
 _End of file version history_
 
 </details> <!-- End of file history section !-->
@@ -7138,7 +8295,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 15th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-15th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 16th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-16th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -7169,6 +8326,7 @@ _End of file version history_
 - - [Link to remodel section version 23 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md)
 - - [Link to remodel section version 24 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md)
 - - [Link to remodel section version 25 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md)
+- - [Link to remodel section version 26 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -7206,6 +8364,20 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 
 ***
 
+## [🚥️ Internet status](#-Internet-status)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This section is reserved for Internet status entries regarding uptime, maintenance, and errors. It is a work in progress.
+
+- [:octocat: `The site is currently up`](https://github.com/seanpm2001/)
+
+Optionally, you can check your Internet connection with this site [https://www.speedtest.net/](https://www.speedtest.net/)
+
+</details> <!-- End of Internet Status section !-->
+
+***
+
 ## [⚠️ Developer limits](#-Developer-limits)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -7220,9 +8392,9 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0968` (as of V99) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~0975` (as of V100) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V99: `313,477` / `524,288` (`059.790%`))
+- - **Current character count (in bytes):** (as of V100: `335,645` / `524,288` (`064.019%`))
 
 > Memory
 
@@ -7267,20 +8439,15 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 99 (beta 25)** | _2024, Monday, April 15th (1 day late)_ |
+| **Version 100 (beta 26)** | _2024, Tuesday, April 16th_ |
 
 | 📣️ Feedback 💬️ |
 |---|
 
-| 4️⃣️ 4 year anniversary update feedback 📣️ |
-|---|
-| [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/96/) |
-
-| 🪣️ General 📣️ |
-|---|
-| [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
+|---|---|
+| [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/97/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
@@ -7298,6 +8465,7 @@ You have reached the end of this page.
 
 ***
 
-<!--
-Nitrotype link
+<!--TODO
+Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
+💙️ Favorite works by other users
 !-->
