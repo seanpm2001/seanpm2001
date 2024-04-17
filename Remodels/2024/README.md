@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 25 - 2024, Tuesday, April 16th (coming 1 day late)` |
+| `Beta 26 - 2024, Tuesday, April 16th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 24 days down, 39/40 days to go, as of 2024, Monday, April 15th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 25 days down, 38/39 days to go, as of 2024, Tuesday, April 16th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -68,8 +68,8 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 22](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
 | [Beta 23](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
 | [Beta 24](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
-| [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late)  | 24 |
-| Beta 26 | Coming soon | 25 |
+| [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
+| [Beta 26](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
 | Beta 27 | Coming soon | 26 |
 | Beta 28 | Coming soon | 27 |
 | Beta 29 | Coming soon | 28 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `43` **/** `221` **tasks** _(019.45%)_ |
-| _as of 2024, Monday, April 15th_ |
+| `39` **/** `222` **tasks** _(017.57%)_ |
+| _as of 2024, Tuesday, April 16th_ |
 
-- **Current tasks to do (44 tasks, as of 2024, Monday, April 15th)**
+- **Current tasks to do (39 tasks, as of 2024, Tuesday, April 16th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -152,14 +152,9 @@ Section about upcoming projects
 Projects I have contributed to (updates to this section)
 Politics and sexuality links, but not much information on this project alone
 My setup
-Self hosting plans for the future
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 Centering various tables and text
-Internet status and speedtest link
-Information on necroposting and project development cycle (in years)
-Favorite works
-Forks and browsing forks
 My server and server plans + request for help
 GistHub
 Graphic design info (programs used)
@@ -186,6 +181,7 @@ Keyword: " src=
 Should be replaced with:
 src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Nitrotype link
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -202,10 +198,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `178` **/** `221` **tasks** _(080.55%)_ |
-| _as of 2024, Monday, April 15th_ |
+| `183` **/** `222` **tasks** _(082.43%)_ |
+| _as of 2024, Tuesday, April 16th_ |
 
-- **Tasks implemented so far (176 tasks, as of 2024, Monday, April 15th)**
+- **Tasks implemented so far (183 tasks, as of 2024, Tuesday, April 16th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -389,6 +385,11 @@ Improve Online identity section
 Music section | AudioDB, bandcamp
 Condensing the list a little bit, through dropdowns
 vCard and identification section (vCard may not be possible)
+Information on necroposting and project development cycle (in years)
+Favorite works
+Forks and browsing forks
+Internet status and speedtest link
+Self hosting plans for the future
 ```
 
 </details> <!-- End of completed remodel goals section !-->
