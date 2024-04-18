@@ -80,6 +80,7 @@ _Further instructions not yet available._
 - [2024.04.11] Reaching critical mass. Parts of the bottom of the file may not render if the size continues to grow without control.
 - [2024.04.12] The file hit its size limit today, so I moved the `What I'm currently working on` section out into a separate page, which saves 209,975 bytes (209.97 kilobytes) nearly 40% of the document. Issues with size should not recur again for some time.
 - [2024.04.13] -> [2024.04.16] No updates for this date.
+- [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history for versions 1 to 100 (these versions are now present only in older versions
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -393,10 +394,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `39` **/** `222` **tasks** _(017.57%)_ |
-| _as of 2024, Tuesday, April 16th_ |
+| `52` **/** `235` **tasks** _(022.13%)_ |
+| _as of 2024, Wednesday, April 17th_ |
 
-- **Current tasks to do (39 tasks, as of 2024, Tuesday, April 16th)**
+- **Current tasks to do (41 tasks, as of 2024, Wednesday, April 17th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -441,6 +442,19 @@ Should be replaced with:
 src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 Nitrotype link
+Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
+💙️ Favorite works by other users
+Get logo for Wikimedia Commons
+Get logo for Wikibooks
+Get logo for Wikidata
+Get logo for WikiNews
+Get logo for WikiQuote
+Get logo for WikiSource
+Get logo for WikiSpecies
+Get logo for WikiVoyage
+Get logo for Wikimedia Incubator
+Get logo for Wikiversity
+Get logo for Wiktionary
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -457,10 +471,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `183` **/** `222` **tasks** _(082.43%)_ |
-| _as of 2024, Tuesday, April 16th_ |
+| `183` **/** `235` **tasks** _(077.87%)_ |
+| _as of 2024, Wednesday, April 17th_ |
 
-- **Tasks implemented so far (183 tasks, as of 2024, Tuesday, April 16th)**
+- **Tasks implemented so far (183 tasks, as of 2024, Wednesday, April 17th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1661,6 +1675,171 @@ Platforms I have an account for and still use include:
 - - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
 
 </details> <!-- End of $Wikipedia !-->
+
+---
+
+#### [IMAGE::404] Wikimedia Commons
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikimedia-Commons/404" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="256" height="256"> |
+|---|
+| [`Wikimedia Commons`](https://commons.wikimedia.org/) |
+
+- [`Wikimedia commons (newer user page @seanpm2001)`](https://commons.wikimedia.org/wiki/User:Seanpm2001&useskin=monobook)
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikimedia-Commons !-->
+
+---
+
+#### [IMAGE::404] WikiBooks
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikibooks/404" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="256" height="256"> |
+|---|
+| [`Wikibooks`](https://en.wikibooks.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikibooks !-->
+
+---
+
+#### [IMAGE::404] WikiData
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikidata/404" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="256" height="256"> |
+|---|
+| [`Wikidata`](https://wikidata.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikidata !-->
+
+---
+
+#### [IMAGE::404] WikiNews
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikinews/404" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="256" height="256"> |
+|---|
+| [`Wikinews`](https://en.wikinews.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikinews !-->
+
+---
+
+#### [IMAGE::404] WikiQuote
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikiquote/404" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="256" height="256"> |
+|---|
+| [`Wikiquite`](https://en.wikiquote.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikiquote !-->
+
+---
+
+#### [IMAGE::404] WikiSource
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikisource/404" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="256" height="256"> |
+|---|
+| [`Wikisource`](https://en.wikisource.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikisource!-->
+
+---
+
+#### [IMAGE::404] WikiSpecies
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikispecies/404" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="256" height="256"> |
+|---|
+| [`Wikispecies`](https://species.wikimedia.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikispecies !-->
+
+---
+
+#### [IMAGE::404] WikiVoyage
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikivoyage/404" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="256" height="256"> |
+|---|
+| [`Wikivoyage`](https://en.wikivoyage.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikivoyage !-->
+
+---
+
+#### [IMAGE::404] Wikimedia Incubator
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikimedia-Incubator/404" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="256" height="256"> |
+|---|
+| [`Wikimedia Incubator`](https://incubator.wikimedia.org/) |
+
+- [`Wikimedia Incubator (newer user page @seanpm2001)`](https://incubator.wikimedia.org/wiki/User:Seanpm2001?&useskin=monobook)
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikimedia-Incubator !-->
+
+---
+
+#### [IMAGE::404] WikiVersity
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikiversity/404" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="256" height="256"> |
+|---|
+| [`Wikiversity`](https://en.wikiversity.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikiversity !-->
+
+---
+
+#### [IMAGE::404] Wiktionary
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wiktionary/404" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="256" height="256"> |
+|---|
+| [`Wiktionary`](https://en.wiktionary.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wiktionary !-->
 
 ---
 
@@ -4573,11 +4752,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `100 (2024, Tuesday, April 16th at 11:18 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,472`
-- **Word count:** `048,773`
-- **Character count (with spaces):** `0,331,743 characters`
-- **Character count (without spaces)** `0,285,125 characters`
+- **File version:** `101 (2024, Wednesday, April 17th at 11:25 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,112`
+- **Word count:** `037,489`
+- **Character count (with spaces):** `0,256,453 characters`
+- **Character count (without spaces)** `0,223,175 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4597,2517 +4776,31 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details><summary><H1>View file history (Click/tap here)</H1></summary>
 
 - Starting with version 101, the entries for versions 1-100 have been removed. To view them, [`browse old versions (1-100)`](/OldVersions/English/1/1-100/)
+- Starting with version 201, the entries for versions 101-200 will be removed. To view them, [`browse old versions (101-200)`](/OldVersions/English/1/101-200/)
 
 ---
 
-<details><summary><b lang="en">Version 1 (Friday, August 21st 2020 at 4:39 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Started the page
-
-> * Added the welcome section
-
-> * Added the "what I'm currently working on" section
-
-> * Added the "what I'm currently learning" section
-
-> * Added the "what I'm looking to collaborate on" section
-
-> * Added the "what I'm looking to help with" section
-
-> * Added the "Ask me about" section
-
-> * Added the "How to reach me" section
-
-> * Added the file info section
-
-> * No other changes in version 1
-
-</details> <!-- End of V1 !-->
-
----
-
-<details><summary><b lang="en">Version 2 (Thursday, September 17th 2020 at 7:20 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the "what I'm currently working on" section
-
-> * Added the File version history section
-
-> * Added the footer
-
-> * Updated the "what I'm currently learning" section
-
-> * Updated the "what I'm looking to collaborate on" section
-
-> * Updated the "What I'm looking to help with" section
-
-> * Updated the file info section
-
-> * No other changes in version 2
-
-</details> <!-- End of V2 !-->
-
----
-
-<details><summary><b lang="en">Version 3 (Sunday, November 29th 2020 at 3:50 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Commented out the version history section and the file info section for better profile navigation
-
-> * Updated the version history section
-
-> * Added new info for technical support
-
-> * Added a link to a search tool for my projects
-
-> * Some bug fixes
-
-> * Updated the title section
-
-> * Added the `feature requests for GitHub` section
-
-> * No other changes in version 3
-
-</details> <!-- End of V3 !-->
-
----
-
-<details><summary><b lang="en">Version 4 (Tuesday, December 22nd 2020 at 9:26 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Added the `projects on other platforms` section
-
-> * Uncommented out the `file info` section
-
-> * Updated the `file info` section
-
-> * Updated the `file history` section
-
-> * Updated the `how to reach me` section
-
-> * No other changes in version 4
-
-</details> <!-- End of V4 !-->
-
----
-
-<details><summary><b lang="en">Version 5 (Wednesday, January 13th 2021 at 2:56 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the `file info` section
-
-> * Updated the `file history` section
-
-> * Added the `support free software` section
-
-> * Added the `software status` section
-
-> * No other changes in version 5
-
-</details> <!-- End of V5 !-->
-
----
-
-<details><summary><b lang="en">Version 6 (Thursday, March 4th 2021 at 3:30 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Added several new images
-
-> * Updated the `file info` section
-
-> * Updated the `file history` section
-
-> * Added the Linux section
-
-> * Added the identity theft section
-
-> * Added the index
-
-> * Updated the `What I'm currently working on` section
-
-> * Added the profile picture version history section
-
-> * Added data to the header
-
-> * Added the personal section
-
-> * No other changes in version 6
-
-</details> <!-- End of V6 !-->
-
----
-
-<details><summary><b lang="en">Version 7 (Saturday, March 27th 2021 at 8:38 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Added a repository preview at the top of the README
-
-> * Added a FAQ (Frequently Asked Questions) section with 18 starter entries
-
-> * Added support for reading this article in another language
-
-> * Updated the index
-
-> * Commented out the version history section for smoother scrolling
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the identity theft section with YouTube and Vimeo links
-
-> * Added the my personal setup section
-
-> > * Added the hardware subsection
-
-> > * Added the software subsection
-
-> * Added the sponsor info section
-
-> * Added the key projects in megaprojects section, with many subsections
-
-> * Added the organization list section
-
-> * Added the submissions section
-
-> * Added the Other hobbies section
-
-> * Added the blue team section
-
-> * Added the green team section
-
-> This update was designed for a family member who has never used GitHub before. This update is dedicated to them. I am working on making this README a portal to everything I offer.
-
-> This update has taken 3 days to make, along with a long procrastination period
-
-> * No other changes in version 7
-
-</details> <!-- End of V7 !-->
-
----
-
-<details><summary><b lang="en">Version 8 (Wednesday, March 31st 2021 at 4:08 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the index
-
-> * Fixed all translation links
-
-> * Added the projects I have collaborated on section
-
-> * Added the GitHub contacts section
-
-> * Added the subscriptions section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 8
-
-</details> <!-- End of V8 !-->
-
----
-
-<details><summary><b lang="en">Version 9 (Thursday, April 1st 2021 at 6:33 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the language switch section, adding support for 80 new languages, changing the formatting, and adding a few precautions
-
-> * Updated the software status section
-
-> * Updated the contacts section
-
-> * Added the Autism section
-
-> * Updated the index
-
-> * Updated the feature requests for GitHub section
-
-> * Updated the What I have collaborated on section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 9
-
-</details> <!-- End of V9 !-->
-
----
-
-<details><summary><b lang="en">Version 10 (Wednesday, May 5th 2021 at 2:45 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the directory list
-
-> * Added the computer user type section
-
-> * Added the education section
-
-> * Added the special section
-
-> > * Added the GitHub skyline subsection
-
-> * Updated the intro section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the index
-
-> * No other changes in version 10
-
-</details> <!-- End of V10 !-->
-
----
-
-<details><summary><b lang="en">Version 11 (Wednesday, March 5th 2021 at 2:56 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> > * Big experimental change: file history is now in a dropdown, and is no longer commented out. Users viewing my profile can now see the file history without viewing the file source.
-
-> * No other changes in version 11
-
-</details> <!-- End of V11 !-->
-
----
-
-<details><summary><b lang="en">Version 12 (Sunday, May 9th 2021 at 8:13 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Increased dropdown functionality and made the document more scrollable by encapsulating more sections into `<details>` tags
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 12
-
-</details> <!-- End of V12 !-->
-
----
-
-<details><summary><b lang="en">Version 13 (Tuesday, May 11th 2021 at 6:33 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Fixed several formatting errors
-
-> * Added many more dropdowns
-
-> * Tons of text updates
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 13
-
-</details> <!-- End of V13 !-->
-
----
-
-<details><summary><b lang="en">Version 14 (Friday, August 6th 2021 at 3:13 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the top section
-
-> * Updated the index
-
-> * Referenced 2 new image files
-
-> * Added the administrators section
-
-> * Updated the organizations section
-
-> * Added the vexillology section
-
-> * Updated the identity theft section
-
-> * Updated the personal section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 14
-
-</details> <!-- End of V14 !-->
-
----
-
-<details><summary><b lang="en">Version 15 (Saturday, August 7th 2021 at 2:13 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the submissions section
-
-> * Added new icons for the hobbies section
-
-> * Updated the hobbies section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the footer
-
-> * No other changes in version 15
-
-</details> <!-- End of V15 !-->
-
----
-
-<details><summary><b lang="en">Version 16 (2021, Wednesday, December 29th at 6:02 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Added support for the all-contributors specification
-
-> * Added the contributors section
-
-> * Added the contributors badge, set to 1
-
-> * Added [@Seanpm2001](https://github.com/seanpm2001/) to the Contributor section
-
-> * No other changes in version 16
-
-</details> <!-- End of V16 !-->
-
----
-
-<details><summary><b lang="en">Version 17 (2021, Wednesday, December 29th at 6:03 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 2
-
-> * Added [@All-contributors](https://github.com/all-contributors/) to the Contributor section
-
-> * No other changes in version 17
-
-</details> <!-- End of V17 !-->
-
----
-
-<details><summary><b lang="en">Version 18 (2021, Wednesday, December 29th at 6:04 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 3
-
-> * Added [@Peterhil](https://github.com/peterhil/) to the Contributor section
-
-> * No other changes in version 18
-
-</details> <!-- End of V18 !-->
-
----
-
-<details><summary><b lang="en">Version 19 (2021, Wednesday, December 29th at 6:05 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 4
-
-> * Added [@GaurPeeyush](https://github.com/gaurpeeyush/) to the Contributor section
-
-> * No other changes in version 19
-
-</details> <!-- End of V19 !-->
-
----
-
-<details><summary><b lang="en">Version 20 (2021, Wednesday, December 29th at 6:06 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 5
-
-> * Added [@Channa-my](https://github.com/channa-my/) to the Contributor section
-
-> * No other changes in version 20
-
-</details> <!-- End of V20 !-->
-
----
-
-<details><summary><b lang="en">Version 21 (2021, Wednesday, Decemnber 29th at 6:08 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 6
-
-> * Added [@NihalKarne](https://github.com/nihalkarne/) to the Contributor section
-
-> * No other changes in version 21
-
-</details> <!-- End of V21 !-->
-
----
-
-<details><summary><b lang="en">Version 22 (2021, Wednesday, December 29th at 6:11 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 7
-
-> * Added [@DemoStanis](https://github.com/demostanis/) to the Contributor section
-
-> * No other changes in version 22
-
-</details> <!-- End of V22 !-->
-
----
-
-<details><summary><b lang="en">Version 23 (2021, Wednesday, December 29th at 6:48 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 8
-
-> * Added [@Struow](https://github.com/struow/) to the Contributor section
-
-> * No other changes in version 23
-
-</details> <!-- End of V23 !-->
-
----
-
-<details><summary><b lang="en">Version 24 (2021, Wednesday, December 29th at 6:51 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 9
-
-> * Added [@Davisogunsina](https://github.com/Davisogunsina/) to the Contributor section
-
-> * No other changes in version 24
-
-</details> <!-- End of V24 !-->
-
----
-
-<details><summary><b lang="en">Version 25 (2021, Wednesday, December 29th at 6:54 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 10
-
-> * Added [@MRBlazed90](https://github.com/MRBlazed90) to the Contributor section
-
-> * No other changes in version 25
-
-</details> <!-- End of V25 !-->
-
----
-
-<details><summary><b lang="en">Version 26 (2021, Wednesday, December 29th at 6:56 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 11
-
-> * Added [@Xwilarg](https://github.com/Xwilarg/) to the Contributor section
-
-> * No other changes in version 26
-
-</details> <!-- End of V26 !-->
-
----
-
-<details><summary><b lang="en">Version 27 (2021, Wednesday, December 29th at 7:02 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 12
-
-> * Added [@Coriiander](https://github.com/Coriiander/) to the Contributor section
-
-> * No other changes in version 27
-
-</details> <!-- End of V27 !-->
-
----
-
-<details><summary><b lang="en">Version 28 (2021, Wednesday, December 29th at 7:04 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 13
-
-> * Added [@uafr](https://github.com/uafr/) to the Contributor section
-
-> * No other changes in version 28
-
-</details> <!-- End of V28 !-->
-
----
-
-<details><summary><b lang="en">Version 29 (2021, Wednesday, December 29th at 7:07 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 14
-
-> * Added [@ioistired](https://github.com/ioistired/) to the Contributor section
-
-> * No other changes in version 29
-
-</details> <!-- End of V29 !-->
-
----
-
-<details><summary><b lang="en">Version 30 (2021, Wednesday, December 29th at 7:10 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 15
-
-> * Added [@torokati44](https://github.com/torokati44/) to the Contributor section
-
-> * No other changes in version 30
-
-</details> <!-- End of V30 !-->
-
----
-
-<details><summary><b lang="en">Version 31 (2021, Wednesday, December 29th at 7:13 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 16
-
-> * Added [@krikienoid](https://github.com/krikienoid/) to the Contributor section
-
-> * No other changes in version 31
-
-</details> <!-- End of V31 !-->
-
----
-
-<details><summary><b lang="en">Version 32 (2021, Wednesday, December 29th at 10:01 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Added new profile counters (streak, page views, and GitHub readme stats)
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 32
-
-</details> <!-- End of V32 !-->
-
----
-
-<details><summary><b lang="en">Version 33 (2021, Thursday, December 30th at 2:46 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 17
-
-> * Added [@Rob--W](https://github.com/Rob--w/) to the Contributor section
-
-> * No other changes in version 33
-
-</details> <!-- End of V33 !-->
-
----
-
-<details><summary><b lang="en">Version 34 (2021, Thursday, December 30th at 2:48 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 18
-
-> * Added [@CaitMuenster](https://github.com/CaitMuenster/) to the Contributor section
-
-> * No other changes in version 34
-
-</details> <!-- End of V34 !-->
-
----
-
-<details><summary><b lang="en">Version 35 (2021, Thursday, December 30th at 2:50 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 19
-
-> * Added [@Madsmtm](https://github.com/Madsmtm/) to the Contributor section
-
-> * No other changes in version 35
-
-</details> <!-- End of V35 !-->
-
----
-
-<details><summary><b lang="en">Version 36 (2021, Thursday, December 30th at 2:51 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 20
-
-> * Added [@Kmeisthax](https://github.com/kmeisthax/) to the Contributor section
-
-> * No other changes in version 36
-
-</details> <!-- End of V36 !-->
-
----
-
-<details><summary><b lang="en">Version 37 (2021, Thursday, December 30th at 2:52 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 21
-
-> * Added [@Herschel](https://github.com/Herschel/) to the Contributor section
-
-> * No other changes in version 37
-
-</details> <!-- End of V37 !-->
-
----
-
-<details><summary><b lang="en">Version 38 (2021, Thursday, December 30th at 2:54 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 22
-
-> * Added [@kaiwulf](https://github.com/kaiwulf/) to the Contributor section
-
-> * No other changes in version 38
-
-</details> <!-- End of V38 !-->
-
----
-
-<details><summary><b lang="en">Version 39 (2021, Thursday, December 30th at 3:35 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated badges
-
-> * Updated the statistics section
-
-> * Added a language counter
-
-> * Added a badge to the contributors section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 39
-
-</details> <!-- End of V39 !-->
-
----
-
-<details><summary><b lang="en">Version 40 (2021, Thursday, December 30th at 7:43 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Added detailed support on the counters and displays recently added (including links to the projects, a 1 click copy for my setups, etc.)
-
-> * Updated the contributors section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 40
-
-</details> <!-- End of V40 !-->
-
----
-
-<details><summary><b lang="en">Version 41 (2021, Thursday, December 30th at 7:44 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 23
-
-> * Added [@stavpup](https://github.com/stavpup/) to the Contributor section
-
-> * No other changes in version 41
-
-</details> <!-- End of V41 !-->
-
----
-
-<details><summary><b lang="en">Version 42 (2021, Thursday, December 30th at 7:54 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the contributors section
-
-> * Updated the statistics section
-
-> * No other changes in version 42
-
-</details> <!-- End of V42 !-->
-
----
-
-<details><summary><b lang="en">Version 43 (2022, Sunday, January 2nd at 3:23 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 24
-
-> * Added [@lindsmy](https://github.com/lindsmy/) to the Contributor section
-
-> * No other changes in version 43
-
-</details> <!-- End of V43 !-->
-
----
-
-<details><summary><b lang="en">Version 44 (2022, Sunday, January 2nd at 3:27 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 25
-
-> * Added [@chuckchuck2007](https://github.com/chuckchuck2007/) to the Contributor section
-
-> * No other changes in version 44
-
-</details> <!-- End of V44 !-->
-
----
-
-<details><summary><b lang="en">Version 45 (2022, Sunday, January 2nd at 3:31 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 26
-
-> * Added [@memewallawalla](https://github.com/memewallawalla/) to the Contributor section
-
-> * No other changes in version 45
-
-</details> <!-- End of V45 !-->
-
----
-
-<details><summary><b lang="en">Version 46 (2022, Sunday, January 2nd at 3:34 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 27
-
-> * Added [@inverno4](https://github.com/inverno4/) to the Contributor section
-
-> * No other changes in version 46
-
-</details> <!-- End of V46 !-->
-
----
-
-<details><summary><b lang="en">Version 47 (2022, Sunday, January 2nd at 3:38 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section
-
-> * Updated the contributors badge, set to 28
-
-> * Added [@seanwallawalla](https://github.com/seanwallawalla/) to the Contributor section
-
-> * No other changes in version 47
-
-</details> <!-- End of V47 !-->
-
----
-
-<details><summary><b lang="en">Version 48 (2022, Sunday, January 2nd at 4:00 pm)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the contributors section
-
-> * Updated the statistics section
-
-> * Updated the title section
-
-> * No other changes in version 48
-
-</details> <!-- End of V48 !-->
-
----
-
-<details><summary><b lang="en">Version 49 (2022, Friday, January 7th at 3:36 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the index
-
-> * Added the developer program section
-
-> * Added the email information section
-
-> * Updated the GitHub skyline section
-
-> * Updated the footer
-
-> * No other changes in version 49
-
-</details> <!-- End of V49 !-->
-
----
-
-<details><summary><b lang="en">Version 50 (2022, Tuesday, January 11th at 7:58 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the index
-
-> * Added the platform support section
-
-> * Added the workflows section
-
-> * No other changes in version 50
-
-</details> <!-- End of V50 !-->
-
----
-
-<details><summary><b lang="en">Version 51 (2022 Thursday, March 10th at 12:06 am)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Fixed a small error with the contributor count, along with several small enhancements
-
-> * Added various flags for the language section, although not yet complete (I can't do all the research for the languages and their dominant speaking countries right now, I just went off the top of my head (except for the Afrikaans language))
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Coming soon
-
-> * No other changes in version 51
-
-</details> <!-- End of V51 !-->
-
----
-
-<details><summary><b lang="en">Version 52 (2022, Saturday, March 12th at 10:45 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Major flag update to the language section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 52
-
-</details> <!-- End of V52 !-->
-
----
-
-<details><summary><b lang="en">Version 53 (Unknown)</b></summary>
-
-> Changes:
-
-> * Version temporarily skipped due to an error
-
-> * No other changes in version 53
-
-</details> <!-- End of V53 !-->
-
----
-
-<details><summary><b lang="en">Version 54 (2022, Monday, March 14th at 2:28 pm)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the language section to V5
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 54
-
-</details> <!-- End of V54 !-->
-
----
-
-<details><summary><b lang="en">Version 55 (2022, Sunday, May 1st at 3:53 pm PST)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section, adding @QamberHasnain
-
-> * No other changes in version 55
-
-</details> <!-- End of V55 !-->
-
----
-
-<details><summary><b lang="en">Version 56 (2022, Sunday, May 1st at 3:58 pm PST)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section, adding @InDataWeTrust
-
-> * No other changes in version 56
-
-</details> <!-- End of V56 !-->
-
----
-
-<details><summary><b lang="en">Version 57 (2022, Tuesday, May 17th at 7:12 pm PST)</b></summary>
-
-**This release was made by [@all-contributors](https://github.com/all-contributors/)**
-
-> Changes:
-
-> * Updated the contributors section, adding @Tim79000
-
-> * No other changes in version 57
-
-</details> <!-- End of V57 !-->
-
----
-
-<details><summary><b lang="en">Version 58 (2022, Friday, May 20th at 1:35 pm PST)</b></summary>
-
-**This release was made by [@qamberhasnain](https://github.com/qamberhasnain/)**
-
-> Changes:
-
-> * Commented out the WakaTime stats
-
-- - Note from @seanpm2001
-
-> > I have never used WakaTime, I added it, but never used it. I feel like if I were to use it, it would be a little too late, since so many stats are already past.
-
-> * No other changes in version 58
-
-</details> <!-- End of V58 !-->
-
----
-
-<details><summary><b lang="en">Version 59 (2022, Friday, May 20th at 9:03 pm PST)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Fixed the syntax of the last revision to match the project syntax
-
-> * No other changes in version 59
-
-</details> <!-- End of V59 !-->
-
----
-
-<details><summary><b lang="en">Version 60 (2022, Sunday, June 12th at 8:16 pm PST)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the statistics section, testing out some new stats, and further removing WakaTime
-
-> * Updated the email section
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * Updated the contributors section
-
-> * No other changes in version 60
-
-</details> <!-- End of V60 !-->
-
----
-
-<details><summary><b lang="en">Version 61 (2022, Monday, June 13th at 6:20 pm PST)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Condensed the stats into a table, need help to make it fit better
-
-> * Removed WakaTime stats (it was commented out, so there is no visible difference)
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 61
-
-</details> <!-- End of V61 !-->
-
----
-
-<details><summary><b lang="en">Version 62 (2022, Monday, June 13th at 10:45 pm PST)</b></summary>
-
-**This release was made by [@qamberhasnain](https://github.com/qamberhasnain/)**
-
-> Changes:
-
-> * Fixed the width of 2 image files (QMeadows logo, and journaling logo)
-
-> * No other changes in version 62
-
-</details> <!-- End of V62 !-->
-
----
-
-<details><summary><b lang="en">Version 63 (2022, Wednesday, June 15th at 2:40 pm PST)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Completely removed all references of WakaTime, except for in older versions, and in the version history section
-
-> * Updated the statistics section, removed WakaTime, and gave new examples
-
-> * Transformed all version history logs into dropdown entries
-
-> * Modified the statistics table to give more information, and support dark mode (the new languages image originally disappeared when dark mode was enabled)
-
-> * Fixed the width of the SNU logo
-
-> * Updated the file info section
-
-> * Updated the file history section, adding 128 dropdowns, and extending the entry capacity from 100 to 128, along with adding entry 63
-
-> * No other changes in version 63
-
-</details> <!-- End of V63 !-->
-
----
-
-<details><summary><b lang="en">Version 64 (2022, Wednesday, June 15th at 8:06 pm PST)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Spent a lot of time linking over a hundred core projects to the key projects section, also adding the WacOS, and Linux Defender sections
-
-> * Fixed the width on more icons throughout the page
-
-> * Updated the file info section
-
-> * Updated the file history section
-
-> * No other changes in version 64
-
-</details> <!-- End of V64 !-->
-
----
-
-<details><summary><b lang="en">Version 65 (2022, Saturday, June 25th at 9:33 pm PST)</b></summary>
-
-**This release was made by [@seanpm2001](https://github.com/seanpm2001/)**
-
-> Changes:
-
-> * Updated the statistics table to give notice on a card not always appearing
-
-> * Updated the `how to reach me` section
-
-> * Updated the `identity theft` section
-
-> * Updated the `file info` section
-
-> * Updated the `file history` section
-
-> * No other changes in version 65
-
-</details> <!-- End of V65 !-->
-
----
-
-<details><summary><b lang="en">Version 66 (2023, Saturday, January 21st at 2:21 pm PST)</b></summary>
-
-**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
-
-> Changes:
-
-- [x] Updated the contributors section, adding [`@ckp95`](https://github.com/ckp95/)
-- [ ] No other changes in version 66
-
-</details> <!-- End of V66 !-->
-
----
-
-<details><summary><b lang="en">Version 67 (2023, Saturday, January 21st at 2:22 pm PST)</b></summary>
-
-**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
-
-> Changes:
-
-- [x] Updated the contributors section, adding [`@JustAnotherArchivist`](https://github.com/JustAnotherArchivist/)
-- [ ] No other changes in version 67
-
-</details> <!-- End of V67 !-->
-
----
-
-<details><summary><b lang="en">Version 68 (2023, Saturday, January 21st at 3:44 pm PST)</b></summary>
+<details><summary><b lang="en">Version 101 (2024, Wednesday, April 17th at 11:25 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
-> Changes:
-
-- [x] Updated all-contributor badges
-- [x] Added backup statistic links from 2022 December 12th, as the new stats haven't been working for a while
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 66
-- - [x] Added an entry for version 67
-- - [x] Added an entry for version 68
-- [ ] No other changes in version 68
-
-</details> <!-- End of V68 !-->
-
----
-
-<details><summary><b lang="en">Version 69 (2023, Thursday, May 25th at 7:50 pm PST)</b></summary>
-
-**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
-
-> Changes:
-
-- [x] Updated the contributors section, adding [`@Mani-1436`](https://github.com/Mani-1436/)
-- [ ] No other changes in version 69
-
-</details> <!-- End of V69 !-->
-
----
-
-<details><summary><b lang="en">Version 70 (2023, Thursday, May 25th at 7:55 pm PST)</b></summary>
-
-**This release was made by [`@all-contributors`](https://github.com/all-contributors/)**
-
-> Changes:
-
-- [x] Updated the contributors section, adding [`@BTCLaravel`](https://github.com/BTCLaravel/)
-- [ ] No other changes in version 70
-
-</details> <!-- End of V70 !-->
-
----
-
-<details><summary><b lang="en">Version 71 (2023, Thursday, May 25th at 8:32 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This repository hasn't been updated in too long. There is a lot I could do, but I am sticking with this for now._
-
-> Changes:
-
-- [x] Updated the `Statistics` section
-- [x] Updated all-contributor badges
-- [x] Added the `Featured repositories` section
-- [x] Added the `Guestbook` section
-- [x] Added the `Documentation` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 69
-- - [x] Added an entry for version 70
-- - [x] Added an entry for version 71
-- [ ] No other changes in version 71
-
-</details> <!-- End of V71 !-->
-
----
-
-<details><summary><b lang="en">Version 72 (2023, Friday, May 26th at 3:30 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is a MASSIVE update that took me over 2 hours to make. There is still more I can do, but I think this is good enough for now. I tried to simplify the file a bit, and also fix some problems and add things that were missing._
-
-**Some things that are left:**
-
-- [ ] Further `What I'm currently working on` megaproject work
-- [ ] Collapsing this document further
-- [ ] Fixing up the index/TOC
-- [ ] Fixing up the repository file navigator
-- [ ] Other
-
-> Changes:
-
-- [x] Updated the `Statistics` section
-- [x] Added a note about the repo explorer being out of date
-- [x] Added the `Legend` section
-- [x] Updated the `Repository of the day` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- [x] Updated the `Guestbook` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- [x] Updated the `Documentation` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- [x] Updated the `Administrator` section
-- - [x] Made it collapsible
-- [x] Updated the `What I'm currently working on` section
-- - [x] Made it collapsible
-- - [x] Made changes to the SNU section
-- - [x] Made changes to the MEDOS (operating system) section
-- - [x] Made changes to the Meadows (operating system) section
-- - [x] Made changes to the WacOS (operating system) section
-- - [x] Added the AI2001 section
-- - [x] Made changes to the SeansLifeArchive section
-- - [x] Made changes to the Linux Defender section
-- - [x] Added the Anime Studio section
-- - [x] Added the Candroid Framework section
-- - [x] Added the Learn project section
-- - [x] Added the Android x32x64x128 section
-- - [x] Added the BlazeOS (operating system) section
-- - [x] Added the Bliss Browser section
-- [x] Updated the `Key projects by megaproject category` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- - [x] Cleaned up lists
-- [x] Updated the `Former organizations` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- [x] Updated the `Free software isn't free to develop` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- - [x] Fixed the Python logo rendering size
-- [x] Updated the `Frequently Asked Questions (FAQ)` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- [x] Updated the `My current setup` section
-- - [x] Made it collapsible
-- - [x] Added some more info.
-- - [x] Converted poorly formatted list into a source code section
-- [x] Updated the `Software status` section
-- - [x] Made it collapsible
-- [x] Updated the `What I'm currently working on` section
-- - [x] Made it collapsible
-- [x] Updated the `What I have collaborated on` section
-- - [x] Made it collapsible
-- [x] Updated the `What I'm looking to help with` section
-- - [x] Made it collapsible
-- [x] Updated the `GitHub Contacts` section
-- - [x] Made it collapsible
-- [x] Updated the `GitHub Feature Requests` section
-- - [x] Made it collapsible
-- [x] Updated the `Ask me about` section
-- - [x] Made it collapsible
-- [x] Updated the `How to reach me` section
-- - [x] Made it collapsible
-- [x] Updated the `Identity theft` section
-- - [x] Made it collapsible
-- - [x] Added reference to Mastodon
-- [x] Updated the `Personal` section
-- - [x] Made it collapsible
-- [x] Updated the `Autism` section
-- - [x] Made it collapsible
-- [x] Updated the `Sponsor info` section
-- - [x] Added a sponsor badge logo
-- - [x] Added sponsor links
-- - [x] Made it collapsible
-- [x] Updated the `Submissions` section
-- - [x] Made it collapsible
-- [x] Updated the `Other hobbies` section
-- - [x] Made it collapsible
-- [x] Updated the `Blue Team` section
-- - [x] Made it collapsible
-- [x] Updated the `Green Team` section
-- - [x] Made it collapsible
-- [x] Updated the `Education` section
-- - [x] Made it collapsible
-- [x] Updated the `GitHub Developer Program` section
-- - [x] Made it collapsible
-- [x] Updated the `Email Information` section
-- - [x] Made it collapsible
-- [x] Updated the `Workflows` section
-- - [x] Made it collapsible
-- [x] Updated the `Platforms I develop for` section
-- - [x] Made it collapsible
-- [x] Updated the `Skyline` section
-- - [x] Made it collapsible
-- - [x] Added data for 2022
-- - [x] Added a placeholder for 2023 data
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- [x] Updated the `File history` section
-- - [x] Updated the entry for version 71
-- - [x] Added an entry for version 72
-- [ ] No other changes in version 72
-
-</details> <!-- End of V72 !-->
-
----
-
-<details><summary><b lang="en">Version 73 (2023, Saturday, May 27th at 4:56 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is another update that took a while, but isn't as extensive as yesterdays update._
-
-**Some things that are left:**
-
-- [ ] Further `What I'm currently working on` megaproject work
-- [ ] Computing languages section (Objective-C#, etc)
-- [ ] Software libraries section
-- [ ] Joke projects section
-- - [ ] L20 subsection
-- [ ] Collapsing this document further
-- [ ] Fixing up the index/TOC
-- [ ] Fixing up the repository file navigator
-- [ ] Other
-
-> Changes:
-
-- [x] Updated the `What I'm currently working on` section
-- - [x] Made changes to the AI2001 section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Made changes to the SeansLifeArchive section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Made changes to the Linux Defender section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Made changes to the Anime Studio section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Made changes to the Candroid Framework section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Added the DeGoogle your Life section
-- - [x] Added the Ukraine History Simulator section
-- - [x] Added the SDE section
-- - [x] Made changes to the Learn project section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Made changes to the Android x32x64x128 section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Made changes to the BlazeOS (operating system) section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- - [x] Made changes to the Bliss Browser section
-- - - [x] Centered and resized image
-- - - [x] Added some attributes
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 73
-- [ ] No other changes in version 73
-
-</details> <!-- End of V73 !-->
-
----
-
-<details><summary><b lang="en">Version 74 (2023, Saturday, May 27th at 08:00 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This update took a little while. I was going to release it tomorrow, but decided not to wait._
-
-**Some things that are left:**
-
-- [ ] Further `What I'm currently working on` megaproject work
-- [ ] Collapsing this document further
-- [ ] Fixing up the index/TOC
-- [ ] Fixing up the repository file navigator
-- [ ] Other
-
-> Changes:
-
-- [x] Updated the `What I'm currently working on` section
-- - [x] Added the Software LIBraries section
-- - [x] Added the Computing languages section
-- - [x] Added the Joke projects section
-- [x] Added the `Optimizing this page` section
-- [x] Added the `Developer limits` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 74
-- [ ] No other changes in version 74
-
-</details> <!-- End of V74 !-->
-
----
-
-<details><summary><b lang="en">Version 75 (2024, Saturday, March 23rd at 05:40 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the first update in almost 10 full months. I have lots of plans for remodeling this file, and today, I began to lay them out._
-
-> Changes:
-
-- [x] Added information on the remodel of this project
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 75
-- - [x] Cleaned up syntax (dividers, footer)
-- - [x] Fixed some errors in the entries for versions 72, 73, and 74
-- [ ] No other changes in version 75
-
-</details> <!-- End of V675 !-->
-
----
-
-<details><summary><b lang="en">Version 76 (2024, Saturday, March 23rd at 08:35 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the second update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. I implemented 4 ideas today, and gave myself 65 more days to get it done._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Added the `Ukraine` section
-- [x] Added the `GitHub profile template` section
-- [x] Added the `Media` section
-- - [x] Added the `Radio` subsection
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 76
-- [x] Updated the footer
-- - [x] Added Copyleft notice and link to license file
-- [ ] No other changes in version 76
-
-</details> <!-- End of V76 !-->
-
----
-
-<details><summary><b lang="en">Version 77 (2024, Sunday, March 24th at 04:21 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the third update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a long time to make, and was stressful at times, as I had to move most sections around, which was overwhelming. The goal of doing 3 tasks per day was met today, although one of the largest tasks was done today, which could have counted in itself of 3 tasks._
-
-> Changes:
-
-- [x] Updated several sections [this README entry needs to be updated in the future]
-- [x] Updated information on the remodel of this project
-- [x] Moved around most sections into a new tree of sections
-- [x] Added the Lead (header) megasection
-- [x] Added the About me megasection
-- [x] Added the Life megasection
-- [x] Added the Technology megasection
-- [x] Added the Statistics megasection
-- [x] Added the Family megasection
-- [x] Added the Friends megasection
-- [x] Added the My projects megasection
-- [x] Added the My goals megasection
-- [x] Added the Documentation megasection
-- [x] Added the About this page megasection
-- [x] Added the Footer megasection
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 77
-- [ ] No other changes in version 77
-
-</details> <!-- End of V77 !-->
-
----
-
-<details><summary><b lang="en">Version 78 (2024, Monday, March 25th at 04:07 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the fourth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a long time to make, and the daily goal of just 3 changes was ignored, I made lots of changes. It took a couple hours to make this update._
-
-> Changes:
-
-- [x] Updated every section
-- - [x] Added anchor links to all headings
-- - [x] Added Emojis to all headings
-- - [x] Did some updates to documentation in various specific sections
-- [x] Updated information on the remodel of this project
-- [x] Updated the Ukraine section
-- [x] Merged 12 sections into a megasection
-- [x] Added the Footer megasection
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 78
-- [ ] No other changes in version 78
-
-</details> <!-- End of V78 !-->
-
----
-
-<details><summary><b lang="en">Version 79 (2024, Tuesday, March 26th at 04:54 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the fifth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a while to make, and more than 6 changes were made._
-
-> Changes:
-
-- [x] Updated the index
-- [x] Updated information on the remodel of this project
-- [x] Updated the profile gigasection dropdown section
-- - [x] Added a centered profile picture
-- [x] Updated the `projects on other platforms` section
-- [x] Updated the `Identity theft` section
-- [x] Added the `GitHub social statistics` section
-- - [x] Added the `Follower milestones` subsection
-- [x] Updated the `Contacts` section
-- - [x] Updated the `GitHub contacts (family)` section
-- [x] Added the `Pets` section
-- - [x] Added the `cats` subsection
-- - [x] Added the `chickens` subsection
-- - [x] Added the `dogs` subsection
-- - [x] Added the `fish` subsection
-- - [x] Added the `goats` subsection
-- - [x] Added the `horses` subsection
-- [x] Updated the `Subscriptions` section
-- [x] Added the `Labels` section
-- [x] Updated the `Remodel history` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 79
-- [ ] No other changes in version 79
-
-</details> <!-- End of V79 !-->
-
----
-
-<details><summary><b lang="en">Version 80 (2024, Wednesday, March 27th at 04:30 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the sixth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while more than 6 changes were made. This project has been quite addicting lately, and I have really enjoyed working on it._
-
-> Changes:
-
-- [x] Added an option to collapse the entire page
-- [x] Updated information on the remodel of this project
-- [x] Added an untitled section for GitHub stars, forks, follows, and watching
-- [x] Updated the profile gigasection dropdown section
-- - [x] Updated the centered profile picture table
-- [x] Updated the hobbies section
-- - [x] Made all sections collapse-able
-- [x] Added the `Timeline` section
-- [x] Added the `RepoData` section
-- - [x] Added the `RepoData Notes` sub-section
-- [x] Added the `Residence` section
-- [x] Added the `License information and CLA` section
-- [x] Added the `GitHub Stats B` section
-- [x] Updated the `Remodel history` section
-- [x] Added the `GitHub Stats A` section
-- [x] Added the `GitHub Stats B` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 80
-- - [x] Added blank entries for versions 159 and 160
-- - [x] Corrected formatting in entries for versions 81 to 129
-- [x] Collapsed the developer limits section
-- [x] Collapsed the optimizing this page section
-- [x] Collapsed the contributors section
-- [ ] No other changes in version 80
-
-</details> <!-- End of V80 !-->
-
----
-
-<details><summary><b lang="en">Version 81 (2024, Thursday, March 28th at 04:22 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the seventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while more than 19 changes were made. This project has been quite addicting lately, and I have really enjoyed working on it. I fear I may run out of material faster now._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Documentation` section
-- - [x] Added the `Takeout Tuesdays` subsection
-- - [x] Added the `Region-related software` subsection
-- - [x] Added the `Learn` subsection
-- - [x] Added the `AUTOMATE2001` subsection
-- - [x] Added the `Private repositories` subsection
-- - [x] Added the `Raspberry Pi` subsection
-- - [x] Added the `Artificial Intelligence` subsection
-- - [x] Added the `SeansOSData` subsection
-- - [x] Added the `Virtual machine information` subsection
-- - [x] Added the `Dream projects` subsection
-- - [x] Added the `Thoughts on Blockchain and web -3` subsection
-- - [x] Added the `GitHub achievements` subsection
-- - [x] Added the `2001 and core region` subsection
-- - [x] Added the `Linux user groups` subsection
-- - [x] Added the `Forks` subsection
-- [x] Updated the `Statistics` section
-- - [x] Added the `Commit Count Milestones` section
-- [x] Updated the `Hobbies` section
-- - [x] Updated the `History` section
-- - [x] Added the `Anime` subsection
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 81
-- - [x] Added blank entries for versions 161 and 162
-- [ ] No other changes in version 81
-
-</details> <!-- End of V81 !-->
-
----
-
-<details><summary><b lang="en">Version 82 (2024, Friday, March 29th at 04:29 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while only 3 listed changes were made. I gave myself an hour today, but the tasks I took on took much longer. I also no longer fear running out of ideas too early._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Linux platform support` section
-- [x] Updated the `What I'm working on` section
-- - [x] Improved the introduction
-- - [x] Organized projects into 13 collectives
-- - - [x] Added section: `Framework collective`
-- - - [x] Added section: `Core collective`
-- - - [x] Added section: `Security collective`
-- - - [x] Added section: `Productive collective`
-- - - [x] Added section: `Video game collective`
-- - - [x] Added section: `Desktop Environment collective`
-- - - [x] Added section: `Documentation collective`
-- - - [x] Added section: `Operating Systems collective`
-- - - - [x] Added section: `Mega project: BlueberryOS`
-- - - - [x] Added section: `Mega project: MailOS`
-- - - - [x] Added section: `Mega project: LocksmithOS`
-- - - [x] Added section: `Web Browser collective`
-- - - [x] Added section: `LIBrary collective`
-- - - [x] Added section: `Linguistics collective`
-- - - [x] Added section: `Comedy collective`
-- - - [x] Added section: `Miscellaneous collective`
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 82
-- - [x] Added blank entries for versions 163 and 164
-- [ ] No other changes in version 82
-
-</details> <!-- End of V82 !-->
-
----
-
-<details><summary><b lang="en">Version 83 (2024, Saturday, March 30th at 03:47 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the ninth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took more time to make, while only 7 listed changes were made. I gave myself a couple hours today._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `What I'm working on` section
-- - [x] Improved the introduction
-- - - [x] Updated section: `Framework collective`
-- - - - [x] Added source code comments to all dropdown sections
-- - - - [x] Added subsection: `Major project: EMAIL 2`
-- - - - [x] Added subsection: `Major project: EMAIL -3`
-- - - [x] Updated section: `Security collective`
-- - - - [x] Added subsection: `Major project: Hospital Defender`
-- - - [x] Updated section: `Productive collective`
-- - - - [x] Added subsection: `Major project: DMAIL`
-- - - - [x] Added subsection: `Major project: uOffice`
-- - - [x] Updated section: `Video game collective`
-- - - - [x] Added subsection: `Major project: LibreFlock`
-- - - - [x] Added placeholder for: `Major project: MCPYE`
-- - - - [x] Added placeholder for: `Major project: Tetris128`
-- - - [x] Updated section: `Operating Systems collective`
-- - - - [x] Updated the `Major project: BlueberryOS` subsection
-- - - - [x] Added subsection: `Major project: CranberryOS`
-- - - - [x] Added placeholder for: `Major project: AquariOS`
-- - - - [x] Added placeholder for: `Major project: BootDown`
-- - - - [x] Added placeholder for: `Major project: MetroTechno`
-- - - - [x] Added placeholder for: `Major project: NUNIX`
-- - - - [x] Added placeholder for: `Major project: BathhouseOS`
-- - - [x] Updated section: `LIBraries collective`
-- - - - [x] Updated the `Major project: Software LIBraries` subsection
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 83
-- - [x] Added blank entries for versions 165 and 166
-- [ ] No other changes in version 83
-
-</details> <!-- End of V83 !-->
-
----
-
-<details><summary><b lang="en">Version 84 (2024, Sunday, March 31st at 04:10 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the tenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while only 7 listed changes were made. I gave myself a little over an hour today._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `What I'm working on` section
-- - [x] Updated section: `Operating Systems collective`
-- - - [x] Updated the `Major project: MEDOS` subsection
-- - - [x] Updated the `Major project: NUNIX` subsection
-- - - [x] Updated the `Major project: MetroTechno` subsection
-- - [x] Updated section: `Linguistics collective`
-- - - [x] Updated the `Major project: PNCE` subsection
-- - [x] Updated section: `Miscellaneous collective`
-- - - [x] Added the `Major project: PDNet++` subsection
-- [x] Updated the `Documentation` section
-- [x] Added the `Model project status` subsection
-- [x] Updated the `File info` section
-- - [x] Added information about browsing old versions (in preparation for V101)
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 84
-- - [x] Added blank entries for versions 167 and 168
-- [ ] No other changes in version 84
-
-</details> <!-- End of V84 !-->
-
----
-
-<details><summary><b lang="en">Version 85 (2024, Monday, April 1st at 05:42 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the eleventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a long time to make, while 16 listed changes were made. I gave myself a little over 2 hours today._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `GitHub skyline` section
-- [x] Added links to discussions for this repository, and for my GitHub account in general (2 links)
-- [x] Updated the forks section to include a link to my fork style guide
-- [x] Added the `Getting started` section
-- [x] Updated the `About me` subsection
-- - [x] Added the `Public Media Gallery` subsection
-- - [x] Added the `Complexity` subsection
-- - [x] Added the `Project difficulties` subsection
-- - [x] Added the `Join date` subsection
-- [x] Updated the `Life` section
-- - [x] Added the `Stances` subsection
-- - - [x] Added the `For` sub-subsection
-- - - [x] Added the `Against` sub-subsection
-- - [x] Updated section: `Operating Systems collective`
-- - - [x] Updated the `Major project: BootDown` subsection
-- - - [x] Updated the `Major project: AquariOS` subsection
-- - - [x] Updated the `Major project: BathhouseOS` subsection
-- - [x] Updated section: `Video games collective`
-- - - [x] Updated the `Major project: MCPYE` subsection
-- - - [x] Updated the `Major project: Tetris128` subsection
-- [x] Updated the `Statistics` section
-- - [x] Massive update to the `GitHub Stats B` subsection
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 85
-- - [x] Added blank entries for versions 169 and 170
-- [ ] No other changes in version 85
-
-</details> <!-- End of V85 !-->
-
----
-
-<details><summary><b lang="en">Version 86 (2024, Tuesday, April 2nd at 04:10 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the twelfth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took less time to make, while 10 listed changes were made. I gave myself a little over an hour today. I am rapidly approaching the README size limit._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Added the `Getting started` section
-- [x] Updated the `About me` subsection
-- - [x] Added the `Calendar` sub-subsection
-- - [x] Added the `Administrative units` sub-subsection
-- - [x] Added the `Browser tabs` sub-subsection
-- - [x] Updated the `FAQ` section
-- - - [x] New dividers and source code comments
-- - - [x] Added a question about Emoji usage
-- [x] Updated the `Statistics` section
-- - [x] Updated the `GitHub Stats B` subsection
-- - - [x] Fixed a broken link
-- - - [x] Updated 25 other links
-- [x] Updated the `Documentation` section
-- - [x] Added the `Government` subsection
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Renamed the `Everyone who has interacted with me on GitHub...` section to `GitHub interactions`
-- [x] Moved the `GitHub interactions` section into the `Getting started` section
-- [x] Moved the `Optimizing this page` section into the `Getting started` section
-- [x] Moved the `Developer` section into the `Getting started` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 86
-- - [x] Added blank entries for versions 171 and 172
-- [ ] No other changes in version 86
-
-</details> <!-- End of V86 !-->
-
----
-
-<details><summary><b lang="en">Version 87 (2024, Wednesday, April 3rd at 06:00 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the thirteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a lot more time to make than I expected, while only 6 listed changes were made. I gave myself a little over 2 hours today._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated many sections with slight improvements visually, and also source code comments on the end of each `<details>` tag
-- [x] Updated the `Major projects` section
-- - [x] Updated the `Other projects` subsection
-- - [x] Updated the `Meadows` subsection
-- - [x] Updated the `WacOS` subsection
-- [x] Significant update to the file tree (explore this repository section)
-- - [x] Moved to a table version with Emojis for every file
-- - [x] Added a GitLab inspired Emoji theme, with a legend
-- - [x] Brought the section up to date with the latest file structure
-- [x] Updated the `Model project` section
-- - [x] Added links to the 2 Model Project status files for this repository.
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 87
-- - [x] Added blank entries for versions 173 and 174
-- [ ] No other changes in version 87
-
-</details> <!-- End of V87 !-->
-
----
-
-<details><summary><b lang="en">Version 88 (2024, Thursday, April 4th at 04:09 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the fourteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update took a lot more time to make than I expected, while only 6 listed changes were made. I gave myself a little over 2 hours today. The document is getting so long that it is no longer possible for me to preview while editing, making debugging harder._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated many sections with slight improvements visually, and also source code comments on the end of each `<details>` tag
-- [x] Added the `Size warning` section
-- [x] Updated the `Major projects` section
-- - [x] Updated the `Every section`
-- - - [x] Made dropdown links for project logos, project descriptions, project languages, and project listings.
-- - [x] Updated the `Other projects` section
-- - - [x] Extensive update to include all other projects
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 88
-- - [x] Added blank entries for versions 175 and 176
-- [ ] No other changes in version 88
-
-</details> <!-- End of V88 !-->
-
----
-
-<details><summary><b lang="en">Version 89 (2024, Friday, April 5th at 12:00 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the fifteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 4th to 2024, April 5th. The document is getting so long that it is no longer possible for me to preview while editing, making debugging harder. It is a major issue, as now the README won't render, and I have been trying hard to fix it. I feel it may have to do with the number of `<details>` tags, and the complexity in rendering, but it doesn't make sense that it still does this after removing over 40 kilobytes, and bringing the `<details>` tag count down by over 50. I eventually found that around 36 details tags were not closed, and this was causing the issue._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `Major projects` section
-- - [x] Updated the `Other projects` section
-- - - [x] Extensive update to include all other projects (more links)
-- [x] Removed the `GitHub Interactions` section to ease page loading
-- [x] Removed the `Explore this repository` section to ease page loading
-- [x] Removed the `GitHub Skyline` section to ease page loading
-- [x] Removed the `Frequently Asked Questions (FAQ)` section to ease page loading
-- [x] Removed the `Browser Tabs` section to ease page loading
-- [x] Removed the `Administrative Units` section to ease page loading
-- [x] Removed the `Government` section to ease page loading
-- [x] Removed the `Workflows (seanpm2001)` section to ease page loading
-- [x] Removed the `Stances` section to ease page loading
-- [x] Removed the `GitHub Profile Template` section to ease page loading
-- [x] Removed the `Index` section to ease page loading
-- [x] Removed the `My timeline` section to ease page loading
-- [x] Removed the `Pets` section to ease page loading
-- [x] Modified the `Main Statistics` section to ease page loading
-- [x] Modified the `Administrator section` section to ease page loading
-- [x] Modified the `Guestbook` section to ease page loading
-- [x] Modified the `Language switch` section to ease page loading
-- [x] Modified the `Takeout Tuesdays` section to ease page loading
-- [x] Modified the `Model Project Information` section to ease page loading
-- [x] Modified the `Ukraine` section to ease page loading
-- [x] Modified the `Top` section to ease page loading
-- [x] Eventually found and fixed the bug that caused the rendering to fail (several `<details>` tags were not closed)
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 89
-- - [x] Removed blank entries for versions 103 to 176 to ease page loading
-- [ ] No other changes in version 89
-
-</details> <!-- End of V89 !-->
-
----
-
-<details><summary><b lang="en">Version 90 (2024, Saturday, April 6th at 01:15 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the sixteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 5th to 2024, April 6th. Further formatting issues were fixed, and new data is included._
-
-> Changes:
-
-- [x] Created the `Quick links` section
-- [x] Updated the header
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `Major projects` section
-- - [x] Updated the `Other projects` section
-- - - [x] Fixed dropdown issues
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 90
-- [ ] No other changes in version 90
-
-</details> <!-- End of V90 !-->
-
----
-
-<details><summary><b lang="en">Version 91 (2024, Sunday, April 7th at 02:50 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the seventeenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 6th to 2024, April 7th. Further formatting issues were fixed, and new data is included._
-
-> Changes:
-
-- [x] Updated the header
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- - [x] Moved the `Size warning` section
-- [x] Added the `Geography` section
-- [x] Improvements to the `GitHub Organizations` section
-- [x] Improvements to the `Commit Count Milestones` section
-- [x] Updated the `Major projects` section
-- - [x] Updated the `Framework collective` section
-- - - [x] Fixed issues with the `SNU project` section
-- - [x] Updated the `Linguistics collective` section
-- - - [x] Removed the voice synthesis category for now
-- - [x] Updated the `Operating Systems collective` section
-- - - [x] Added support for `LennyOS`
-- [x] Replaced all `/Media/` links with `/Graphics/` links
-- [x] Began replacing all Markdown image tags with HTML image tags
-- [x] Updated the `Anime` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 91
-- [ ] No other changes in version 91
-
-</details> <!-- End of V91 !-->
-
----
-
-<details><summary><b lang="en">Version 92 (2024, Monday, April 8th at 02:22 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the eighteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 7th to 2024, April 8th. Further formatting issues were fixed, and new data is included._
-
-> Changes:
-
-- [x] Updated the header
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- - [x] Updated the `Miscellaneous collective` section
-- - - [x] Removed LennyOS, as it is already covered in its own section
-- [x] Continued replacing all Markdown image tags with HTML image tags
-- [x] Extensive work on `Identity theft` section, which was also renamed to `Online Identity`
-- [x] Extensive work on the `Linguistics` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 92
-- [ ] No other changes in version 92
-
-</details> <!-- End of V92 !-->
-
----
-
-<details><summary><b lang="en">Version 93 (2024, Tuesday, April 9th at 12:18 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the eighteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 7th to 2024, April 8th. Further formatting issues were fixed, and new data is included._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `Online identity` section
-- - [x] Massive update: added information for over 15 sites
-- - [x] Merged the `How to reach me` section into the `Online identity` section
-- - [x] Merged the `Email information` section into the `Online identity` section
-- - [x] Merged the `Projects on other platforms` section into the `Online identity` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 93
-- [ ] No other changes in version 93
-
-</details> <!-- End of V93 !-->
-
----
-
-<details><summary><b lang="en">Version 94 (2024, Wednesday, April 10th at 02:25 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the nineteenth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 9th to 2024, April 10th. Further formatting issues were fixed, and new data is included. Progress has been slowing on this project, the majority of update time went to the Online Identity section._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `Online identity` section
-- - [x] Another massive update: added information for over 20 sites
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 94
-- [ ] No other changes in version 94
-
-</details> <!-- End of V94 !-->
-
----
-
-<details><summary><b lang="en">Version 95 (2024, Thursday, April 11th at 03:00 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-4
-> **Note** _This is the twentieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 10th to 2024, April 11th. I have finished work on the online identity section, and hope to work towards the main project goals again tomorrow._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `Online identity` section
-- - [x] Minor update: Added 5-6 sites, collapsed all entries, and gave a subheading for each entry. I also added a segment link. Work here is finished for now.
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 95
-- [ ] No other changes in version 95
-
-</details> <!-- End of V95 !-->
-
----
-
-<details><summary><b lang="en">Version 96 (2024, Friday, April 12th at 03:40 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the twenty-first update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 11th to 2024, April 12th. I did not get to any goals from the remodel section, I again worked on the Online Identity section, and also clearing up space on this document._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Moved 209 kilobytes of text from the `What I'm currently working on` section into a separate file
-- [x] Updated the `Size warning` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 96
-- [ ] No other changes in version 96
-
-</details> <!-- End of V96 !-->
-
----
-
-<details><summary><b lang="en">Version 97 (2024, Saturday, April 13th at 10:30 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the twenty-second update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 12th to 2024, April 13th. Not much was done in this update, as I didn't have as much time to work on it. I did get one of the existing goals completed today, instead of starting new goals. This update was pushed out really late. I had to travel out of town today, so I didn't have as much time._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Hobbies` section
-- - [x] Added the `Music` section
-- [x] Updated the `Online Identity` section
-- [x] Updated the `Bandcamp` section
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 97
-- [x] Updated the `Footer` section
-- - [x] Added a wayback machine link
-- [ ] No other changes in version 97
-
-</details> <!-- End of V97 !-->
-
----
-
-<details><summary><b lang="en">Version 98 (2024, Sunday, April 13th at 10:30 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the twenty-second update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was worked on from 2024, April 13th to 2024, April 14th. Not much was done in this update, as I pushed this project off until late, and was pretty distracted today. This project is getting later and later, and almost wasn't possible today. I did achieve 1 goal, and listed a previously completed goal as complete a couple of weeks late._
+> **Note** _This is the twenty-fifth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created on 2024, Wednesday, April 17th, all in the same day. This update was published late in the night again, with small changes._
 
 > Changes:
 
 - [x] Updated information on the remodel of this project
 - [x] Updated the `Online identity` section
-- - [x] Added the `vCard` section
+- - [x] Added the `Wikimedia Commons` subsection
+- - [x] Added the `Wikibooks` subsection
+- - [x] Added the `Wikidata` subsection
+- - [x] Added the `WikiNews` subsection
+- - [x] Added the `WikiQuote` subsection
+- - [x] Added the `WikiSource` subsection
+- - [x] Added the `WikiSpecies` subsection
+- - [x] Added the `WikiVoyage` subsection
+- - [x] Added the `Wikimedia Incubator` subsection
+- - [x] Added the `Wikiversity` subsection
+- - [x] Added the `Wiktionary` subsection
 - [x] Updated the `Size warning` section
 - [x] Updated the `File info` section
 - - [x] Updated the `Version number`
@@ -7115,81 +4808,16 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 - - [x] Updated the `Word count`
 - - [x] Updated the `Character count (with no spaces)`
 - - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Internet status` section
+- [x] Updated the `Optimizing this page` section
 - [x] Updated the `Remodel history` section
 - [x] Updated the `Developer limits` section
 - [x] Updated the `File history` section
-- - [x] Added an entry for version 98
-- [ ] No other changes in version 98
-
-</details> <!-- End of V98 !-->
-
----
-
-<details><summary><b lang="en">Version 99 (2024, Tuesday, April 16th at 05:00 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _This is the twenty-third update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This is the first non-consecutive update, as I lost so much time and focus yesterday (2024, Monday, April 15th) that I couldn't devote any time to this project. A filler update was created the next day, with very little change._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 99
-- [ ] No other changes in version 99
-
-</details> <!-- End of V99 !-->
-
----
-
-<details><summary><b lang="en">Version 100 (2024, Tuesday, April 16th at 11:18 pm PST)</b></summary>
-
-**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
-
-> **Note** _Update 100 to this file! This is the twenty-fourth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created on 2024, Tuesday, April 16th, all in the same day._
-
-> Changes:
-
-- [x] Updated information on the remodel of this project
-- [x] Updated the `Size warning` section
-- [x] Updated the `File info` section
-- - [x] Updated the `Version number`
-- - [x] Updated the `Line count`
-- - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
-- - [x] Updated the `Character count (with spaces)`
-- [x] Added the `Necroposting` section
-- [x] Added the `Favorite works` section
-- [x] Added the `Forks and browsing forks` section
-- [x] Added the `Internet status` section
-- [x] Added the `Self hosting plans for the future` section
-- [x] Updated the `Remodel history` section
-- [x] Updated the `Developer limits` section
-- [x] Updated the `File history` section
-- - [x] Added an entry for version 100
-- - [x] Added blank entries for versions 103 to 200
+- - [x] Added an entry for version 101
+- - [x] Removed entries for versions 1 to 100 (they can now be viewed in version 100 or below)
 - [x] Updated the `Footer`
-- - [x] Merged some tables
-- [ ] No other changes in version 100
-
-</details> <!-- End of V100 !-->
-
----
-
-<details><summary><b lang="en">Version 101 (Coming soon)</b></summary>
-
-> Changes:
-
-- [ ] Coming soon
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 101
 
 </details> <!-- End of V101 !-->
@@ -8295,7 +5923,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 16th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-16th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 17th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-17th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8327,6 +5955,7 @@ _End of file version history_
 - - [Link to remodel section version 24 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md)
 - - [Link to remodel section version 25 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md)
 - - [Link to remodel section version 26 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md)
+- - [Link to remodel section version 27 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8360,6 +5989,10 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - [ ] Removing as much whitespace as comfortably possible
 - [ ] Improving quality of content
 
+View this segment [in a separate file (coming soon)](/Segments/Optimizing-this-page/README.md)
+
+<!-- TODO: 2024.04.17 !-->
+
 </details> <!-- End of Optimizing this page section !-->
 
 ***
@@ -8373,6 +6006,10 @@ This section is reserved for Internet status entries regarding uptime, maintenan
 - [:octocat: `The site is currently up`](https://github.com/seanpm2001/)
 
 Optionally, you can check your Internet connection with this site [https://www.speedtest.net/](https://www.speedtest.net/)
+
+View this segment [in a separate file (coming soon)](/Segments/Internet-Status/README.md)
+
+<!-- TODO: 2024.04.17 !-->
 
 </details> <!-- End of Internet Status section !-->
 
@@ -8392,9 +6029,9 @@ Optionally, you can check your Internet connection with this site [https://www.s
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0975` (as of V100) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~0975` (as of V101) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V100: `335,645` / `524,288` (`064.019%`))
+- - **Current character count (in bytes):** (as of V101: `260,145` / `524,288` (`049.618%`))
 
 > Memory
 
@@ -8439,15 +6076,19 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 100 (beta 26)** | _2024, Tuesday, April 16th_ |
+| **Version 101 (beta 27)** | _2024, Wednesday, April 17th_ |
+
+<div align="center">
 
 | 📣️ Feedback 💬️ |
 |---|
 
+</div>
+
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/97/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/98/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
@@ -8466,6 +6107,5 @@ You have reached the end of this page.
 ***
 
 <!--TODO
-Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
-💙️ Favorite works by other users
+
 !-->
