@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="1103" width="941" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 941 1103">
+<desc>Wikispecies Logo – All rights reserved, Wikimedia Foundation, Inc.</desc>
+<defs>
+<radialGradient id="redgradient" gradientUnits="userSpaceOnUse" cx="510" r="210" cy="110">
+<stop stop-color="#D8ABA5" offset=".04"/>
+<stop stop-color="#AD604E" offset=".4"/>
+<stop stop-color="#9C4029" offset=".6"/>
+<stop stop-color="#92331F" offset=".7"/>
+<stop stop-color="#43180F" offset="1"/>
+</radialGradient>
+<radialGradient id="bluegradient" gradientUnits="userSpaceOnUse" cx="470.5" r="430" cy="650">
+<stop stop-color="#4F8FB3" offset=".8"/>
+<stop stop-color="#0C5178" offset=".95"/>
+<stop stop-color="#002D4A" offset="1"/>
+</radialGradient>
+<clipPath id="clipring">
+<path d="m0 199l470.5 428 470.5-428v904h-941z"/>
+</clipPath>
+<linearGradient id="bd">
+<stop stop-color="#00090E" offset="0"/>
+<stop stop-color="#082E45" offset=".1"/>
+<stop stop-color="#0A6997" offset=".5"/>
+<stop stop-color="#082E45" offset=".9"/>
+<stop stop-color="#00090E" offset="1"/>
+</linearGradient>
+<linearGradient id="bl">
+<stop stop-color="#375D72" offset="0"/>
+<stop stop-color="#407B9B" offset=".1"/>
+<stop stop-color="#A0C0CF" offset=".5"/>
+<stop stop-color="#407B9B" offset=".9"/>
+<stop stop-color="#375D72" offset="1"/>
+</linearGradient>
+<linearGradient id="gd">
+<stop stop-color="#0F3119" offset="0"/>
+<stop stop-color="#01703B" offset=".1"/>
+<stop stop-color="#89C4AE" offset=".5"/>
+<stop stop-color="#01703B" offset=".9"/>
+<stop stop-color="#0F3119" offset="1"/>
+</linearGradient>
+<linearGradient id="gl">
+<stop stop-color="#476C5A" offset="0"/>
+<stop stop-color="#52A27D" offset=".1"/>
+<stop stop-color="#A7D2BE" offset=".5"/>
+<stop stop-color="#52A27D" offset=".9"/>
+<stop stop-color="#476C5A" offset="1"/>
+</linearGradient>
+</defs>
+<g stroke-width="0">
+<g fill="url(#bd)">
+<path id="st" d="m213 218c39 137 436 101 436 202v90c0-111-404.5-64.7-436-200"/>
+</g>
+<g fill="url(#bd)">
+<path id="rd" d="m649 800c0-94.5-411-72.4-411-192v90c0 112.5 411 89.5 411 192"/>
+</g>
+<use xlink:href="#nd" transform="translate(941) scale(-1 1)" fill="url(#gd)"/>
+<use xlink:href="#rd" transform="translate(941) scale(-1 1)" fill="url(#gl)"/>
+<use xlink:href="#st" transform="translate(941) scale(-1 1)" fill="url(#gl)"/>
+<g fill="url(#bl)">
+<path id="nd" d="m649 420c0 99.7-411 81-411 188v90c0-103.7 411-91.8 411-188"/>
+</g>
+</g>
+<circle id="ring" stroke-width="100px" clip-path="url(#clipring)" stroke="url(#bluegradient)" cy="628" cx="470.5" r="388.5" fill="none"/>
+<circle id="redpoint" stroke="#555" cy="161" cx="470.5" r="125" fill="url(#redgradient)"/>
+</svg>
