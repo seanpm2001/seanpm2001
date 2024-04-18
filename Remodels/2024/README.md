@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `39` **/** `222` **tasks** _(017.57%)_ |
-| _as of 2024, Tuesday, April 16th_ |
+| `52` **/** `235` **tasks** _(022.13%)_ |
+| _as of 2024, Wednesday, April 17th_ |
 
-- **Current tasks to do (39 tasks, as of 2024, Tuesday, April 16th)**
+- **Current tasks to do (41 tasks, as of 2024, Wednesday, April 17th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -182,6 +182,19 @@ Should be replaced with:
 src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 Nitrotype link
+Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
+💙️ Favorite works by other users
+Get logo for Wikimedia Commons
+Get logo for Wikibooks
+Get logo for Wikidata
+Get logo for WikiNews
+Get logo for WikiQuote
+Get logo for WikiSource
+Get logo for WikiSpecies
+Get logo for WikiVoyage
+Get logo for Wikimedia Incubator
+Get logo for Wikiversity
+Get logo for Wiktionary
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -198,10 +211,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `183` **/** `222` **tasks** _(082.43%)_ |
-| _as of 2024, Tuesday, April 16th_ |
+| `183` **/** `235` **tasks** _(077.87%)_ |
+| _as of 2024, Wednesday, April 17th_ |
 
-- **Tasks implemented so far (183 tasks, as of 2024, Tuesday, April 16th)**
+- **Tasks implemented so far (183 tasks, as of 2024, Wednesday, April 17th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
