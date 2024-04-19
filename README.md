@@ -80,7 +80,9 @@ _Further instructions not yet available._
 - [2024.04.11] Reaching critical mass. Parts of the bottom of the file may not render if the size continues to grow without control.
 - [2024.04.12] The file hit its size limit today, so I moved the `What I'm currently working on` section out into a separate page, which saves 209,975 bytes (209.97 kilobytes) nearly 40% of the document. Issues with size should not recur again for some time.
 - [2024.04.13] -> [2024.04.16] No updates for this date.
-- [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history for versions 1 to 100 (these versions are now present only in older versions
+- [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
+for versions 1 to 100 (these versions are now present only in older versions
+- [2024.04.18] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -267,7 +269,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 26 - 2024, Tuesday, April 16th` |
+| `Beta 28 - 2024, Thursday, April 18th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -278,7 +280,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 25 days down, 38/39 days to go, as of 2024, Tuesday, April 16th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 27 days down, 36/38 days to go, as of 2024, Thursday, April 17th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -330,8 +332,8 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 24](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
 | [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
 | [Beta 26](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
-| Beta 27 | Coming soon | 26 |
-| Beta 28 | Coming soon | 27 |
+| [Beta 27](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
+| [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
 | Beta 29 | Coming soon | 28 |
 | Beta 30 | Coming soon | 29 |
 | Beta 31 | Coming soon | 30 |
@@ -394,10 +396,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `52` **/** `235` **tasks** _(022.13%)_ |
-| _as of 2024, Wednesday, April 17th_ |
+| `38` **/** `235` **tasks** _(016.18%)_ |
+| _as of 2024, Thursday, April 18th_ |
 
-- **Current tasks to do (41 tasks, as of 2024, Wednesday, April 17th)**
+- **Current tasks to do (38 tasks, as of 2024, Thursday, April 18th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -441,20 +443,6 @@ Keyword: " src=
 Should be replaced with:
 src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
-Nitrotype link
-Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
-💙️ Favorite works by other users
-Get logo for Wikimedia Commons
-Get logo for Wikibooks
-Get logo for Wikidata
-Get logo for WikiNews
-Get logo for WikiQuote
-Get logo for WikiSource
-Get logo for WikiSpecies
-Get logo for WikiVoyage
-Get logo for Wikimedia Incubator
-Get logo for Wikiversity
-Get logo for Wiktionary
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -471,10 +459,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `183` **/** `235` **tasks** _(077.87%)_ |
-| _as of 2024, Wednesday, April 17th_ |
+| `197` **/** `235` **tasks** _(083.82%)_ |
+| _as of 2024, Thursday, April 18th_ |
 
-- **Tasks implemented so far (183 tasks, as of 2024, Wednesday, April 17th)**
+- **Tasks implemented so far (197 tasks, as of 2024, Thursday, April 18th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -663,6 +651,20 @@ Favorite works
 Forks and browsing forks
 Internet status and speedtest link
 Self hosting plans for the future
+Nitrotype link
+Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
+💙️ Favorite works by other users
+Get logo for Wikimedia Commons
+Get logo for Wikibooks
+Get logo for Wikidata
+Get logo for WikiNews
+Get logo for WikiQuote
+Get logo for WikiSource
+Get logo for WikiSpecies
+Get logo for WikiVoyage
+Get logo for Wikimedia Incubator
+Get logo for Wikiversity
+Get logo for Wiktionary
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -758,7 +760,7 @@ _End of remodel information_
    <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="412" height="267"> !-->
    <img src="/Graphics/Profile-Avatar/65933340.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="460" height="460">
    
-   | ( `@Seanpm2001` / `@seanwallawalla` ) |
+   | ( [`@Seanpm2001`](https://github.com/seanpm2001/) / [`@seanwallawalla`](https://github.com/seanwallawalla/) ) |
    |---------------------|
    | **Sean Patrick Myrick (SPM)** |
 
@@ -787,6 +789,10 @@ It isn't exact, I have many interests. What I am always learning include:
 - Psychology
 - Current world problems
 - Other (non-culinary)
+
+View this segment [in a separate file (coming soon)](/Segments/What-I-am-currently-learning/README.md)
+
+<!-- TODO: 2024.04.18 !-->
 
 </details> <!-- End of What I'm currently learning section !-->
 
@@ -859,11 +865,19 @@ I have collaborated on a few projects on GitHub, including
 
 ***
 
+View this segment [in a separate file (coming soon)](/Segments/What-I-have-collaborated-on/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 _End of What I have collaborated on subsection._
 
 </details> <!-- End of What I have collaborated on subsection !-->
 
 ***
+
+View this segment [in a separate file (coming soon)](/Segments/What-I-am-looking-to-collaborate-on/README.md)
+
+<!-- TODO: 2024.04.18 !-->
 
 _End of What I'm looking to collaborate on section._
 
@@ -893,6 +907,10 @@ I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3,
 
 No other limitations listed at the moment.
 
+View this segment [in a separate file (coming soon)](/Segments/What-I-am-looking-to-help-with/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 </details> <!-- End of What I'm looking to help with section !-->
 
 ***
@@ -902,6 +920,10 @@ No other limitations listed at the moment.
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 [:octocat: `My labels can be found here`](https://github.com/seanpm2001/Labels/)
+
+View this segment [in a separate file (coming soon)](/Segments/Labels/README.md)
+
+<!-- TODO: 2024.04.18 !-->
 
 </details> <!-- End of labels section !-->
 
@@ -922,6 +944,10 @@ Project development cycle (in years)
 - - - - 4
 - Work in progress
 
+View this segment [in a separate file (coming soon)](/Segments/Necroposting/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 </details> <!-- End of necroposting section !-->
 
 ***
@@ -936,7 +962,11 @@ I fork projects I come across. I have plans to create a giant collection of fork
 
 I already created a `Fork` section, I may need to merge this section into it in the future.
 
-</details> <!-- End of necroposting section !-->
+View this segment [in a separate file (coming soon)](/Segments/Forks-and-browsing-forks/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
+</details> <!-- End of Forks and browsing forks section !-->
 
 ***
 
@@ -944,9 +974,37 @@ I already created a `Fork` section, I may need to merge this section into it in 
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+### [💙️ My favorite works](#-My-favorite-works)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
 I currently don't have any favorite projects. It is hard for me to chose favorites in some fields.
 
 This section is for projects I favorite that I have made, not other peoples projects. That will be a separate list for another time.
+
+</details> <!-- End of my favorite works section !-->
+
+### [💚️ Favorite works by other users](#-Favorite-works-by-other-users)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+- **Note:** _This list is not in any partcular order_
+- [VideoLAN] VLC Media Player
+- [David Reveman, Sam Spilsbury, Danny Baumann, Dennis Kasprzyk, Daniel van Vugt] Compiz
+- [Krikenoid] Flagwaver
+- [Mastodon gmbh] Mastodon
+- [GNU] GIMP
+- Other works currently not listed
+
+</details> <!-- End of favorite works by other users section !-->
+
+---
+
+View this segment [in a separate file (coming soon)](/Segments/Favorite-works/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
+_End of favorite works section._
 
 </details> <!-- End of favorite works section !-->
 
@@ -957,6 +1015,12 @@ This section is for projects I favorite that I have made, not other peoples proj
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 In the future, I plan to have a self-hosted version of my works as well. I plan to still retain accounts on GitHub, Mastodon, and other sites. Currently, I am having difficulties in researching and funding a proper Linux server, it is an area of active research. I plan to have 2 websites, one for personal work, and one for public work (both will be public facing websites) with many subdomains.
+
+View this segment [in a separate file (coming soon)](/Segments/Self-hosting-plans-for-the-future/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
+_End of favorite works section._
 
 </details> <!-- End of Self hosting plans for the future section !-->
 
@@ -1435,6 +1499,10 @@ Animes I have heard of, but don't have much interest in
 
 _End of other hobbies section_
 
+View this segment [in a separate file (coming soon)](/Segments/Other-hobbies/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 </details> <!-- End of other hobbies section !-->
 
 ***
@@ -1471,6 +1539,10 @@ Here is a history of my GitHub profile picture:
 
 > Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
 
+View this segment [in a separate file (coming soon)](/Segments/Profile-picture-history/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 </details> <!-- End of profile picture history section !-->
 
 ***
@@ -1483,6 +1555,10 @@ Here is a history of my GitHub profile picture:
 - My online presence became stronger when I joined YouTube on 2015, May 14th
 - LIST OTHER JOIN DATES HERE
 - I joined GitHub on 2020, May 25th. This was the same day that George Floyd died. This was not intentional. I am working on a memorial for him, it is planned to be released 2024, May 25th. [:octocat: `George Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/)
+
+View this segment [in a separate file (coming soon)](/Segments/Join-date/README.md)
+
+<!-- TODO: 2024.04.18 !-->
 
 </details> <!-- End of join date section !-->
 
@@ -1498,6 +1574,10 @@ I was a fan of Windows up until Windows 10. I began to try to switch to Linux fr
 
 My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
 
+View this segment [in a separate file (coming soon)](/Segments/Linux/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 </details> <!-- End of Linux section !-->
 
 ***
@@ -1507,6 +1587,10 @@ My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04
 <details><summary>[Click/tap here to expand/collapse this section]</summary>
 
 My projects are very complex. I prefer it this way, as I see beauty in complexity, even when it is conflicting with the KISS (Keep It Simple, Stupid) principle
+
+View this segment [in a separate file (coming soon)](/Segments/Complexity/README.md)
+
+<!-- TODO: 2024.04.18 !-->
 
 </details> <!-- End of complexity section !-->
 
@@ -1518,6 +1602,10 @@ My projects are very complex. I prefer it this way, as I see beauty in complexit
 
 I keep a very complex calendar to organize my projects. It was started in 2022 December, when I upgraded my ProtonMail account.
 
+View this segment [in a separate file (coming soon)](/Segments/Calendar/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 </details> <!-- End of calendar section !-->
 
 ***
@@ -1528,6 +1616,10 @@ I keep a very complex calendar to organize my projects. It was started in 2022 D
 
 Due to the quantity and complexity of my projects, I have difficulty maintaining it all. I never intended to do this all alone, and I desire developers wherever possible.
 
+View this segment [in a separate file (coming soon)](/Segments/Project-difficulties/README.md)
+
+<!-- TODO: 2024.04.18 !-->
+
 </details> <!-- End of project difficulties section !-->
 
 ***
@@ -1537,6 +1629,10 @@ Due to the quantity and complexity of my projects, I have difficulty maintaining
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 Technology, farming, life, language, other.
+
+View this segment [in a separate file (coming soon)](/Segments/Ask-me-about/README.md)
+
+<!-- TODO: 2024.04.18 !-->
 
 </details> <!-- End of ask me about section !-->
 
@@ -1678,26 +1774,26 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] Wikimedia Commons
+#### <img src="/Graphics/Other-sites/Wikimedia-Commons/Wikimedia-logo.svg" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="20" height="20"> Wikimedia Commons
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikimedia-Commons/404" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikimedia-Commons/Wikimedia-logo.svg" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="256" height="256"> |
 |---|
 | [`Wikimedia Commons`](https://commons.wikimedia.org/) |
 
-- [`Wikimedia commons (newer user page @seanpm2001)`](https://commons.wikimedia.org/wiki/User:Seanpm2001&useskin=monobook)
+- [`Wikimedia commons (newer user page @seanpm2001)`](https://commons.wikimedia.org/wiki/User:Seanpm2001)
 - - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
 
 </details> <!-- End of $Wikimedia-Commons !-->
 
 ---
 
-#### [IMAGE::404] WikiBooks
+#### <img src="/Graphics/Other-sites/Wikibooks/Wikibooks-logo-en.svg" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="20" height="20"> WikiBooks
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikibooks/404" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikibooks/Wikibooks-logo-en.svg" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="256" height="256"> |
 |---|
 | [`Wikibooks`](https://en.wikibooks.org/) |
 
@@ -1708,11 +1804,11 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] WikiData
+#### <img src="/Graphics/Other-sites/Wikidata/Wikidata-logo.svg" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="20" height="20"> WikiData
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikidata/404" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikidata/Wikidata-logo.svg" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="256" height="256"> |
 |---|
 | [`Wikidata`](https://wikidata.org/) |
 
@@ -1723,11 +1819,11 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] WikiNews
+#### <img src="/Graphics/Other-sites/Wikinews/Wikinews-logo-en-qgil.svg" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="20" height="20"> WikiNews
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikinews/404" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikinews/Wikinews-logo-en-qgil.svg" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="256" height="256"> |
 |---|
 | [`Wikinews`](https://en.wikinews.org/) |
 
@@ -1738,11 +1834,11 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] WikiQuote
+#### <img src="/Graphics/Other-sites/Wikiquote/Wikiquote-logo-2.svg" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="20" height="20"> WikiQuote
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikiquote/404" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikiquote/Wikiquote-logo-2.svg" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="256" height="256"> |
 |---|
 | [`Wikiquite`](https://en.wikiquote.org/) |
 
@@ -1753,11 +1849,11 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] WikiSource
+#### <img src="/Graphics/Other-sites/Wikisource/Wikisource-logo-nap.svg" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="20" height="20"> WikiSource
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikisource/404" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikisource/Wikisource-logo-nap.svg" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="256" height="256"> |
 |---|
 | [`Wikisource`](https://en.wikisource.org/) |
 
@@ -1768,11 +1864,11 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] WikiSpecies
+#### <img src="/Graphics/Other-sites/Wikispecies/Wikispecies-logo.svg" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="20" height="20"> WikiSpecies
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikispecies/404" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikispecies/Wikispecies-logo.svg" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="256" height="256"> |
 |---|
 | [`Wikispecies`](https://species.wikimedia.org/) |
 
@@ -1783,11 +1879,11 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] WikiVoyage
+#### <img src="/Graphics/Other-sites/Wikivoyage/Wikivoyage-Logo-v3-en.svg" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="20" height="20"> WikiVoyage
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikivoyage/404" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikivoyage/Wikivoyage-Logo-v3-en.svg" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="256" height="256"> |
 |---|
 | [`Wikivoyage`](https://en.wikivoyage.org/) |
 
@@ -1798,26 +1894,26 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] Wikimedia Incubator
+#### <img src="/Graphics/Other-sites/Wikimedia-Incubator/Incubator-logo.svg" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="20" height="20"> Wikimedia Incubator
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikimedia-Incubator/404" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikimedia-Incubator/Incubator-logo.svg" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="256" height="256"> |
 |---|
 | [`Wikimedia Incubator`](https://incubator.wikimedia.org/) |
 
-- [`Wikimedia Incubator (newer user page @seanpm2001)`](https://incubator.wikimedia.org/wiki/User:Seanpm2001?&useskin=monobook)
+- [`Wikimedia Incubator (newer user page @seanpm2001)`](https://incubator.wikimedia.org/wiki/User:Seanpm2001)
 - - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
 
 </details> <!-- End of $Wikimedia-Incubator !-->
 
 ---
 
-#### [IMAGE::404] WikiVersity
+#### <img src="/Graphics/Other-sites/Wikiversity/Wikiversity-logo-fr-pure.svg" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="20" height="20"> WikiVersity
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wikiversity/404" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wikiversity/Wikiversity-logo-fr-pure.svg" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="256" height="256"> |
 |---|
 | [`Wikiversity`](https://en.wikiversity.org/) |
 
@@ -1828,11 +1924,11 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### [IMAGE::404] Wiktionary
+#### <img src="/Graphics/Other-sites/Wiktionary/Wiktionary-logo-portal.svg" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="20" height="20"> Wiktionary
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Other-sites/Wiktionary/404" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="256" height="256"> |
+| <img src="/Graphics/Other-sites/Wiktionary/Wiktionary-logo-portal.svg" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="256" height="256"> |
 |---|
 | [`Wiktionary`](https://en.wiktionary.org/) |
 
@@ -2286,7 +2382,8 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 |---|
 | [`NitroType`](https://www.nitrotype.com/) |
 
-- NitroType was a site I used in my first programming class. I was really good at it. I will need to add a link here in the future.
+- NitroType was a site I used in my first programming class. I was really good at it. My profile somehow still exists in 2024, here it is:
+- [`racer/seanspokane`](https://www.nitrotype.com/racer/seanspokane/)
 - - Further information: [:octocat: `/seanpm2001/NitroType/`](https://github.com/seanpm2001/NitroType/)
 
 </details> <!-- End of $NitroType !-->
@@ -4752,11 +4849,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `101 (2024, Wednesday, April 17th at 11:25 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,112`
-- **Word count:** `037,489`
-- **Character count (with spaces):** `0,256,453 characters`
-- **Character count (without spaces)** `0,223,175 characters`
+- **File version:** `102 (2024, Thursday, April 18th at 07:36 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,262`
+- **Word count:** `038,768`
+- **Character count (with spaces):** `0,264,654 characters`
+- **Character count (without spaces)** `0,230,505 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4777,6 +4874,7 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 - Starting with version 101, the entries for versions 1-100 have been removed. To view them, [`browse old versions (1-100)`](/OldVersions/English/1/1-100/)
 - Starting with version 201, the entries for versions 101-200 will be removed. To view them, [`browse old versions (101-200)`](/OldVersions/English/1/101-200/)
+- Starting with version 301, the entries for versions 201-300 will be removed. To view them, [`browse old versions (201-300)`](/OldVersions/English/1/201-300/)
 
 ---
 
@@ -4824,11 +4922,62 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 102 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 102 (2024, Thursday, April 18th at 07:36 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the twenty-sixth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Wednesday, April 17th to 2024, Thursday, April 18th, spanning from 11:36 pm on the 17th to 07:34 pm on the 18th. Many small goals were accomplished today._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Online identity` section
+- - [x] Updated the `Wikimedia Commons` subsection (new logo)
+- - [x] Updated the `Wikibooks` subsection (new logo)
+- - [x] Updated the `Wikidata` subsection (new logo)
+- - [x] Updated the `WikiNews` subsection (new logo)
+- - [x] Updated the `WikiQuote` subsection (new logo)
+- - [x] Updated the `WikiSource` subsection (new logo)
+- - [x] Updated the `WikiSpecies` subsection (new logo)
+- - [x] Updated the `WikiVoyage` subsection (new logo)
+- - [x] Updated the `Wikimedia Incubator` subsection (new logo)
+- - [x] Updated the `Wikiversity` subsection (new logo)
+- - [x] Updated the `Wiktionary` subsection (new logo)
+- - [x] Updated the `Nitrotype` subsection (finally added link)
+- [x] Updated various sections to include a segment link
+- - [x] Added segment link for the `What I'm currently learning` section
+- - [x] Added segment link for the `What I'm looking to collaborate on` section
+- - [x] Added segment link for the `What I have collaborated on` section
+- - [x] Added segment link for the `What I'm looking to help with` section
+- - [x] Added segment link for the `Labels` section
+- - [x] Added segment link for the `Necroposting` section
+- - [x] Added segment link for the `Forks and browsing forks` section
+- - [x] Added segment link for the `Favorite works` section
+- - [x] Added segment link for the `Self-hosting plans for the future` section
+- - [x] Added segment link for the `Other hobbies` section
+- - [x] Added segment link for the `Profile picture history` section
+- - [x] Added segment link for the `Join date` section
+- - [x] Added segment link for the `Linux` section
+- - [x] Added segment link for the `Complexity` section
+- - [x] Added segment link for the `Calendar` section
+- - [x] Added segment link for the `Project difficulties` section
+- - [x] Added segment link for the `Ask me about` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Internet status` section
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 102
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 102
 
 </details> <!-- End of V102 !-->
@@ -5923,7 +6072,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 17th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-17th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 18th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-18th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -5956,6 +6105,7 @@ _End of file version history_
 - - [Link to remodel section version 25 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md)
 - - [Link to remodel section version 26 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md)
 - - [Link to remodel section version 27 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md)
+- - [Link to remodel section version 28 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -6029,9 +6179,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0975` (as of V101) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~0978` (as of V102) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V101: `260,145` / `524,288` (`049.618%`))
+- - **Current character count (in bytes):** (as of V102: `268,566` / `524,288` (`051.224%`))
 
 > Memory
 
@@ -6068,7 +6218,7 @@ You have reached the end of this page.
 
 </details> <!-- End of footer !-->
 
-**🄯 Copyleft [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
+**🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
 
 ### [🔚️ End of file](#-End-of-file)
 
@@ -6076,7 +6226,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 101 (beta 27)** | _2024, Wednesday, April 17th_ |
+| **Version 102 (beta 28)** | _2024, Thursday, April 18th_ |
 
 <div align="center">
 
@@ -6088,7 +6238,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/98/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/99/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
