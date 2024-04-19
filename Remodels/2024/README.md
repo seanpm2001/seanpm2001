@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 26 - 2024, Tuesday, April 16th` |
+| `Beta 28 - 2024, Thursday, April 18th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 25 days down, 38/39 days to go, as of 2024, Tuesday, April 16th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 27 days down, 36/38 days to go, as of 2024, Thursday, April 17th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -70,8 +70,8 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 24](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
 | [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
 | [Beta 26](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
-| Beta 27 | Coming soon | 26 |
-| Beta 28 | Coming soon | 27 |
+| [Beta 27](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
+| [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
 | Beta 29 | Coming soon | 28 |
 | Beta 30 | Coming soon | 29 |
 | Beta 31 | Coming soon | 30 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `52` **/** `235` **tasks** _(022.13%)_ |
-| _as of 2024, Wednesday, April 17th_ |
+| `38` **/** `235` **tasks** _(016.18%)_ |
+| _as of 2024, Thursday, April 18th_ |
 
-- **Current tasks to do (41 tasks, as of 2024, Wednesday, April 17th)**
+- **Current tasks to do (38 tasks, as of 2024, Thursday, April 18th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -181,20 +181,6 @@ Keyword: " src=
 Should be replaced with:
 src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
-Nitrotype link
-Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
-💙️ Favorite works by other users
-Get logo for Wikimedia Commons
-Get logo for Wikibooks
-Get logo for Wikidata
-Get logo for WikiNews
-Get logo for WikiQuote
-Get logo for WikiSource
-Get logo for WikiSpecies
-Get logo for WikiVoyage
-Get logo for Wikimedia Incubator
-Get logo for Wikiversity
-Get logo for Wiktionary
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -211,10 +197,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `183` **/** `235` **tasks** _(077.87%)_ |
-| _as of 2024, Wednesday, April 17th_ |
+| `197` **/** `235` **tasks** _(083.82%)_ |
+| _as of 2024, Thursday, April 18th_ |
 
-- **Tasks implemented so far (183 tasks, as of 2024, Wednesday, April 17th)**
+- **Tasks implemented so far (197 tasks, as of 2024, Thursday, April 18th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -403,6 +389,20 @@ Favorite works
 Forks and browsing forks
 Internet status and speedtest link
 Self hosting plans for the future
+Nitrotype link
+Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
+💙️ Favorite works by other users
+Get logo for Wikimedia Commons
+Get logo for Wikibooks
+Get logo for Wikidata
+Get logo for WikiNews
+Get logo for WikiQuote
+Get logo for WikiSource
+Get logo for WikiSpecies
+Get logo for WikiVoyage
+Get logo for Wikimedia Incubator
+Get logo for Wikiversity
+Get logo for Wiktionary
 ```
 
 </details> <!-- End of completed remodel goals section !-->
