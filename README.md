@@ -82,7 +82,7 @@ _Further instructions not yet available._
 - [2024.04.13] -> [2024.04.16] No updates for this date.
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] No updates for this date.
+- [2024.04.18] -> [2024.04.19] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -269,7 +269,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 28 - 2024, Thursday, April 18th` |
+| `Beta 29 - 2024, Friday, April 19th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -280,7 +280,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 27 days down, 36/38 days to go, as of 2024, Thursday, April 17th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 28 days down, 35/36 days to go, as of 2024, Thursday, April 17th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -334,7 +334,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 26](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
 | [Beta 27](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
 | [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
-| Beta 29 | Coming soon | 28 |
+| [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
 | Beta 30 | Coming soon | 29 |
 | Beta 31 | Coming soon | 30 |
 | Beta 32 | Coming soon | 31 |
@@ -397,9 +397,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `38` **/** `235` **tasks** _(016.18%)_ |
-| _as of 2024, Thursday, April 18th_ |
+| _as of 2024, Friday, April 19th_ |
 
-- **Current tasks to do (38 tasks, as of 2024, Thursday, April 18th)**
+- **Current tasks to do (38 tasks, as of 2024, Friday, April 19th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -460,9 +460,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `197` **/** `235` **tasks** _(083.82%)_ |
-| _as of 2024, Thursday, April 18th_ |
+| _as of 2024, Friday, April 19th_ |
 
-- **Tasks implemented so far (197 tasks, as of 2024, Thursday, April 18th)**
+- **Tasks implemented so far (197 tasks, as of 2024, Friday, April 19th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -768,13 +768,13 @@ _End of remodel information_
 
 ***
 
-# [ℹ️ About me](#-About-me)
+## [ℹ️ About me](#-About-me)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about me</b></p></summary>
 
 ***
 
-## [🧠️ What I'm currently learning](#-What-I-m-currently-learning)
+### [🧠️ What I'm currently learning](#-What-I-m-currently-learning)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1046,7 +1046,7 @@ For now, it can be viewed [here instead](/Segments/Index/README.md)
 
 ***
 
-## [↔️ My timeline](#-My-timeline)
+### [↔️ My timeline](#-My-timeline)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1058,7 +1058,7 @@ For now, it can be viewed [here instead](/Segments/My-timeline/README.md)
 
 ***
 
-## [🧿️ Other hobbies](#-Other-hobbies)
+### [🧿️ Other hobbies](#-Other-hobbies)
 
 This is a list of my other hobbies
 
@@ -1066,7 +1066,7 @@ This is a list of my other hobbies
 
 ---
 
-### [📷️ Photography](#-Photography)
+#### [📷️ Photography](#-Photography)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1078,7 +1078,7 @@ I am a intermediate photographer, and can take really good pictures without the 
 
 ---
 
-### [🏊️ Swimming](#-Swimming)
+#### [🏊️ Swimming](#-Swimming)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1094,7 +1094,7 @@ I have always liked to swim. When I have a pool or hot tub available to me, I no
 
 ---
 
-### [🎮️ Gaming](#-Gaming)
+#### [🎮️ Gaming](#-Gaming)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1112,7 +1112,7 @@ Lately, I mainly play mobile games, but from time to time, I will use a video ga
 
 ---
 
-### [🎨️ Graphic design](#-Graphic-design)
+#### [🎨️ Graphic design](#-Graphic-design)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1128,7 +1128,7 @@ I am an entry-level graphic designer with a large preference for skeumorphism an
 
 ---
 
-### [🈯️ Linguistics](#-Linguistics)
+#### [🈯️ Linguistics](#-Linguistics)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1249,7 +1249,7 @@ This section can also be viewed [`here`](/Segments/Linguistics/README.md)
 
 ---
 
-### [⌛️ History buff](#-History-buff)
+#### [⌛️ History buff](#-History-buff)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1338,7 +1338,7 @@ Pretty much anything, but mainly:
 
 ---
 
-### [🐠️ Marine biology](#-Marine-biology)
+#### [🐠️ Marine biology](#-Marine-biology)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1356,7 +1356,7 @@ I recently got back into Marine Biology on March 23rd 2021, and have been learni
 
 ---
 
-### [✍️ Journaling](#Journaling)
+#### [✍️ Journaling](#Journaling)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1378,7 +1378,7 @@ I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain r
 
 ---
 
-### [🇸🇲️ Vexillology](#-Vexillology)
+#### [🇸🇲️ Vexillology](#-Vexillology)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1412,7 +1412,7 @@ Some other cool sites:
 
 ---
 
-### [🧭️ Geography](#-Geography)
+#### [🧭️ Geography](#-Geography)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1428,7 +1428,7 @@ I have had an increasing interest in geography since 2019. I have increasingly m
 
 ---
 
-### [🎶️ Music](#-Music)
+#### [🎶️ Music](#-Music)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1448,7 +1448,7 @@ I have an inactive Bandcamp account as well [`@SeanWallaWallaFan`](https://bandc
 
 ---
 
-### [👁️ Anime](#-Anime)
+#### [👁️ Anime](#-Anime)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1507,7 +1507,7 @@ View this segment [in a separate file (coming soon)](/Segments/Other-hobbies/REA
 
 ***
 
-## [🏡️ Residence](#-Residence)
+### [🏡️ Residence](#-Residence)
 
 <details><summary>[Click/tap here to expand/collapse this section]</summary>
 
@@ -1519,7 +1519,7 @@ For now, it can be viewed [here instead](/Segments/Residence/README.md)
 
 ***
 
-## [👤️ Profile picture history](#-Profile-picture-history)
+### [👤️ Profile picture history](#-Profile-picture-history)
 
 <details><summary>[Click/tap here to expand/collapse the list of my GitHub profile picture history]</summary>
 	
@@ -1539,6 +1539,8 @@ Here is a history of my GitHub profile picture:
 
 > Senior picture (used to identify myself and to have a better profile picture, still in use as of Thursday, March 4th 2021)
 
+- [`Archive.org entry for all profile pictures`](https://archive.org/details/Seanpm2001-Profile-Photos/)
+
 View this segment [in a separate file (coming soon)](/Segments/Profile-picture-history/README.md)
 
 <!-- TODO: 2024.04.18 !-->
@@ -1547,7 +1549,7 @@ View this segment [in a separate file (coming soon)](/Segments/Profile-picture-h
 
 ***
 
-## [🆕️ Join date](#-Join-date)
+### [🆕️ Join date](#-Join-date)
 
 <details><summary>[Click/tap here to expand/collapse my join date information]</summary>
 
@@ -1564,7 +1566,7 @@ View this segment [in a separate file (coming soon)](/Segments/Join-date/README.
 
 ***
 
-## [🐧️ Linux](#-Linux)
+### [🐧️ Linux](#-Linux)
 
 <details><summary>[Click/tap here to expand/collapse my Linux story]</summary>
 
@@ -1582,7 +1584,7 @@ View this segment [in a separate file (coming soon)](/Segments/Linux/README.md)
 
 ***
 
-## [🗜️ Complexity](#-Complexity)
+### [🗜️ Complexity](#-Complexity)
 
 <details><summary>[Click/tap here to expand/collapse this section]</summary>
 
@@ -1596,7 +1598,7 @@ View this segment [in a separate file (coming soon)](/Segments/Complexity/README
 
 ***
 
-## [🗓️ Calendar](#-Calendar)
+### [🗓️ Calendar](#-Calendar)
 
 <details><summary>[Click/tap here to expand/collapse this section]</summary>
 
@@ -1610,7 +1612,7 @@ View this segment [in a separate file (coming soon)](/Segments/Calendar/README.m
 
 ***
 
-## [📛️ Project difficulties](#-Project-difficulties)
+### [📛️ Project difficulties](#-Project-difficulties)
 
 <details><summary>[Click/tap here to expand/collapse this section]</summary>
 
@@ -1624,7 +1626,7 @@ View this segment [in a separate file (coming soon)](/Segments/Project-difficult
 
 ***
 
-## [💬️ Ask me about](#-Ask-me-about)
+### [💬️ Ask me about](#-Ask-me-about)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1638,7 +1640,7 @@ View this segment [in a separate file (coming soon)](/Segments/Ask-me-about/READ
 
 ***
 
-## [🛎️ How to reach me](#-How-to-reach-me)
+### [🛎️ How to reach me](#-How-to-reach-me)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1646,7 +1648,7 @@ I am most active on Mastodon, GitHub, and email. You can find more information b
 
 This section can also be viewed [`here`](/Segments/How-to-reach-me/README.md)
 
-## [🆔️ Online Identity](#-Online-Identity)
+#### [🆔️ Online Identity](#-Online-Identity)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1690,7 +1692,7 @@ TODO
 
 ---
 
-### [📧️ Email information](#-Email-information)
+##### [📧️ Email information](#-Email-information)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1706,7 +1708,7 @@ Note: this email address is NOT a mailing list, it is just named like that. The 
 
 ---
 
-### [🇻 vCard](#-vCard)
+##### [🇻 vCard](#-vCard)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1722,7 +1724,7 @@ It has not yet been tested. It may not work, as I experimentally tried to embed 
 
 ---
 
-### [🪧️ Projects on other platforms](#-Projects-on-other-platforms)
+#### [🪧️ Projects on other platforms](#-Projects-on-other-platforms)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1742,7 +1744,7 @@ Now, if GitHub is having problems or if you have problems with GitHub, my projec
 
 ---
 
-### [🌉️ Platforms I am on](#-Platforms-I-am-on)
+##### [🌉️ Platforms I am on](#-Platforms-I-am-on)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1750,7 +1752,7 @@ I am on the following platforms
 
 > **Note** _This section was updated on 2024 April 12th to include images for every heading for platforms. It was inspired by a README technique I haven't used until now. A lot of images need more square versions._
 
-### [🔔️ Platforms I still use](#-Platforms-I-still-use)
+###### [🔔️ Platforms I still use](#-Platforms-I-still-use)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1758,7 +1760,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikipedia/Wikipedia-logo-v2.svg" alt="Wikipedia V2 logo failed to load" title="Logo of Wikipedia" width="20" height="20"> Wikipedia
+###### <img src="/Graphics/Other-sites/Wikipedia/Wikipedia-logo-v2.svg" alt="Wikipedia V2 logo failed to load" title="Logo of Wikipedia" width="20" height="20"> Wikipedia
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1774,7 +1776,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikimedia-Commons/Wikimedia-logo.svg" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="20" height="20"> Wikimedia Commons
+###### <img src="/Graphics/Other-sites/Wikimedia-Commons/Wikimedia-logo.svg" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="20" height="20"> Wikimedia Commons
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1789,7 +1791,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikibooks/Wikibooks-logo-en.svg" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="20" height="20"> WikiBooks
+###### <img src="/Graphics/Other-sites/Wikibooks/Wikibooks-logo-en.svg" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="20" height="20"> WikiBooks
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1804,7 +1806,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikidata/Wikidata-logo.svg" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="20" height="20"> WikiData
+###### <img src="/Graphics/Other-sites/Wikidata/Wikidata-logo.svg" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="20" height="20"> WikiData
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1819,7 +1821,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikinews/Wikinews-logo-en-qgil.svg" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="20" height="20"> WikiNews
+###### <img src="/Graphics/Other-sites/Wikinews/Wikinews-logo-en-qgil.svg" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="20" height="20"> WikiNews
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1834,7 +1836,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikiquote/Wikiquote-logo-2.svg" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="20" height="20"> WikiQuote
+###### <img src="/Graphics/Other-sites/Wikiquote/Wikiquote-logo-2.svg" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="20" height="20"> WikiQuote
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1849,7 +1851,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikisource/Wikisource-logo-nap.svg" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="20" height="20"> WikiSource
+###### <img src="/Graphics/Other-sites/Wikisource/Wikisource-logo-nap.svg" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="20" height="20"> WikiSource
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1864,7 +1866,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikispecies/Wikispecies-logo.svg" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="20" height="20"> WikiSpecies
+###### <img src="/Graphics/Other-sites/Wikispecies/Wikispecies-logo.svg" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="20" height="20"> WikiSpecies
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1879,7 +1881,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikivoyage/Wikivoyage-Logo-v3-en.svg" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="20" height="20"> WikiVoyage
+###### <img src="/Graphics/Other-sites/Wikivoyage/Wikivoyage-Logo-v3-en.svg" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="20" height="20"> WikiVoyage
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1894,7 +1896,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikimedia-Incubator/Incubator-logo.svg" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="20" height="20"> Wikimedia Incubator
+###### <img src="/Graphics/Other-sites/Wikimedia-Incubator/Incubator-logo.svg" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="20" height="20"> Wikimedia Incubator
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1909,7 +1911,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wikiversity/Wikiversity-logo-fr-pure.svg" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="20" height="20"> WikiVersity
+###### <img src="/Graphics/Other-sites/Wikiversity/Wikiversity-logo-fr-pure.svg" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="20" height="20"> WikiVersity
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1924,7 +1926,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Wiktionary/Wiktionary-logo-portal.svg" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="20" height="20"> Wiktionary
+###### <img src="/Graphics/Other-sites/Wiktionary/Wiktionary-logo-portal.svg" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="20" height="20"> Wiktionary
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1939,7 +1941,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub" width="20" height="20"> GitHub
+###### <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub" width="20" height="20"> GitHub
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1957,7 +1959,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/FreeCodeCamp/FreeCodeCamp_logo.svg" alt="FreeCodeCamp wordmark failed to load" title="FreeCodeCamp wordmark" width="20" height="20"> FreeCodeCamp
+###### <img src="/Graphics/Other-sites/FreeCodeCamp/FreeCodeCamp_logo.svg" alt="FreeCodeCamp wordmark failed to load" title="FreeCodeCamp wordmark" width="20" height="20"> FreeCodeCamp
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1973,7 +1975,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/Internet-Archive/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive logo failed to load" title="Logo of the Internet Archive" width="20" height="20"> Internet Archive
+###### <img src="/Graphics/Other-sites/Internet-Archive/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive logo failed to load" title="Logo of the Internet Archive" width="20" height="20"> Internet Archive
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1990,7 +1992,7 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### <img src="/Graphics/Other-sites/ProtonMail/Protonmail_logo.svg" alt="ProtonMail wordmark failed to load" title="Wordmark of ProtonMail" width="20" height="20"> ProtonMail / ProtonCalendar / ProtonDrive / ProtonVPN
+###### <img src="/Graphics/Other-sites/ProtonMail/Protonmail_logo.svg" alt="ProtonMail wordmark failed to load" title="Wordmark of ProtonMail" width="20" height="20"> ProtonMail / ProtonCalendar / ProtonDrive / ProtonVPN
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2008,7 +2010,7 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### <img src="/Graphics/Other-sites/AirBnB/Airbnb_meaningful_logo.svg" alt="AirBnB logo failed to load" title="Logo of AirBnB" width="20" height="20"> AirBnB
+###### <img src="/Graphics/Other-sites/AirBnB/Airbnb_meaningful_logo.svg" alt="AirBnB logo failed to load" title="Logo of AirBnB" width="20" height="20"> AirBnB
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2024,7 +2026,7 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### <img src="/Graphics/Other-sites/VRBO/Vrbo.svg" alt="VRBO wordmark failed to load" title="Wordmark of VRBO" width="20" height="20"> VRBO
+###### <img src="/Graphics/Other-sites/VRBO/Vrbo.svg" alt="VRBO wordmark failed to load" title="Wordmark of VRBO" width="20" height="20"> VRBO
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2040,7 +2042,7 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/SUPERCELL/Supercell-logo.svg" alt="SUPERCELL logo failed to load" title="Logo of SUPERCELL" width="20" height="20"> SUPERCELL
+###### <img src="/Graphics/Online-game-accounts/SUPERCELL/Supercell-logo.svg" alt="SUPERCELL logo failed to load" title="Logo of SUPERCELL" width="20" height="20"> SUPERCELL
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2055,7 +2057,7 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### <img src="/Graphics/Social-Media/Mastodon/Mastodon_logotype_(simple)_new_hue.svg" alt="Mastodon logo failed to load" title="Logo of Mastodon" width="20" height="20"> Mastodon
+###### <img src="/Graphics/Social-Media/Mastodon/Mastodon_logotype_(simple)_new_hue.svg" alt="Mastodon logo failed to load" title="Logo of Mastodon" width="20" height="20"> Mastodon
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2070,7 +2072,7 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### <img src="/Graphics/Other-sites/Google-Play/Google_Play_2012-2016_icon.svg" alt="Google Play logo failed to load" title="Logo of Google Play" width="20" height="20"> Google Play
+###### <img src="/Graphics/Other-sites/Google-Play/Google_Play_2012-2016_icon.svg" alt="Google Play logo failed to load" title="Logo of Google Play" width="20" height="20"> Google Play
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2091,7 +2093,7 @@ _End of platforms I still use section._
 
 ---
 
-### [🔕️ Platforms I no longer use](#-Platforms-I-no-longer-use)
+##### [🔕️ Platforms I no longer use](#-Platforms-I-no-longer-use)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2099,7 +2101,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Social-Media/Reddit/Reddit_logo.svg" alt="Reddit logo failed to load" title="Logo of Reddit" width="20" height="20"> Reddit
+###### <img src="/Graphics/Social-Media/Reddit/Reddit_logo.svg" alt="Reddit logo failed to load" title="Logo of Reddit" width="20" height="20"> Reddit
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2116,7 +2118,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Social-Media/Discord/Discord_Color_Text_Logo_(2015-2021).svg" alt="Discord logo failed to load" title="Wordmark of Discord" width="20" height="20"> Discord
+###### <img src="/Graphics/Social-Media/Discord/Discord_Color_Text_Logo_(2015-2021).svg" alt="Discord logo failed to load" title="Wordmark of Discord" width="20" height="20"> Discord
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2132,7 +2134,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Social-Media/YouTube/Logo_of_YouTube_(2006-2011).svg" alt="YouTube wordmark failed to load" title="YouTube wordmark" width="20" height="20"> YouTube
+###### <img src="/Graphics/Social-Media/YouTube/Logo_of_YouTube_(2006-2011).svg" alt="YouTube wordmark failed to load" title="YouTube wordmark" width="20" height="20"> YouTube
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2147,7 +2149,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/Mozilla/Mozilla_logo.svg" alt="Mozilla wordmark failed to load" title="Mozilla Wordmark" width="20" height="20"> Mozilla
+###### <img src="/Graphics/Other-sites/Mozilla/Mozilla_logo.svg" alt="Mozilla wordmark failed to load" title="Mozilla Wordmark" width="20" height="20"> Mozilla
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2162,7 +2164,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/GitLab/GitLab_logo.svg" alt="GitLab wordmark failed to load" title="GitLab wordmark" width="20" height="20"> GitLab
+###### <img src="/Graphics/Other-sites/GitLab/GitLab_logo.svg" alt="GitLab wordmark failed to load" title="GitLab wordmark" width="20" height="20"> GitLab
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2177,7 +2179,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/Patreon/Patreon_logo_with_wordmark.svg" alt="Patreon wordmark failed to load" title="Wordmark of Patreon" width="20" height="20"> Patreon
+###### <img src="/Graphics/Other-sites/Patreon/Patreon_logo_with_wordmark.svg" alt="Patreon wordmark failed to load" title="Wordmark of Patreon" width="20" height="20"> Patreon
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2193,7 +2195,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-Sites/OpenCollective/Open_Collective_logo_2021.svg" alt="OpenCollective wordmark failed to load" title="Wordmark of OpenCollective" width="20" height="20"> OpenCollective
+###### <img src="/Graphics/Other-Sites/OpenCollective/Open_Collective_logo_2021.svg" alt="OpenCollective wordmark failed to load" title="Wordmark of OpenCollective" width="20" height="20"> OpenCollective
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2208,7 +2210,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/Ko-Fi/kofi_s_logo_labeldark.svg" alt="Ko-Fi wordmark failed to load" title="Wordmark of Ko-Fi" width="20" height="20"> Ko-Fi
+###### <img src="/Graphics/Other-sites/Ko-Fi/kofi_s_logo_labeldark.svg" alt="Ko-Fi wordmark failed to load" title="Wordmark of Ko-Fi" width="20" height="20"> Ko-Fi
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2223,7 +2225,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/LiberaPay/Liberapay_logo_v2_white-on-yellow.svg" alt="LiberaPay logo failed to load" title="Logo of LiberaPay" width="20" height="20"> LiberaPay
+###### <img src="/Graphics/Other-sites/LiberaPay/Liberapay_logo_v2_white-on-yellow.svg" alt="LiberaPay logo failed to load" title="Logo of LiberaPay" width="20" height="20"> LiberaPay
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2238,7 +2240,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/IssueHunt/IssueHunt_Logo.png" alt="IssueHunt logo failed to load" title="Logo of IssueHunt" width="20" height="20"> IssueHunt
+###### <img src="/Graphics/Other-sites/IssueHunt/IssueHunt_Logo.png" alt="IssueHunt logo failed to load" title="Logo of IssueHunt" width="20" height="20"> IssueHunt
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2253,7 +2255,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/BitBucket/Bitbucket-blue-logomark-only.svg" alt="BitBucket logo failed to load" title="Logo of BitBucket" width="20" height="20"> BitBucket
+###### <img src="/Graphics/Other-sites/BitBucket/Bitbucket-blue-logomark-only.svg" alt="BitBucket logo failed to load" title="Logo of BitBucket" width="20" height="20"> BitBucket
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2268,7 +2270,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/SourceForge/Sourceforge_logo.svg" alt="SourceForge Wordmark failed to load" title="Wordmark of SourceForge" width="20" height="20"> SourceForge
+###### <img src="/Graphics/Other-sites/SourceForge/Sourceforge_logo.svg" alt="SourceForge Wordmark failed to load" title="Wordmark of SourceForge" width="20" height="20"> SourceForge
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2283,7 +2285,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/Khan-Academy/Khan_Academy_Logo_Old_version_2015.jpeg" alt="Khan Academy logo failed to load" title="Logo of Khan Academy" width="20" height="20"> Khan Academy
+###### <img src="/Graphics/Other-sites/Khan-Academy/Khan_Academy_Logo_Old_version_2015.jpeg" alt="Khan Academy logo failed to load" title="Logo of Khan Academy" width="20" height="20"> Khan Academy
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2298,7 +2300,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Social-Media/Vimeo/Vimeo_Logo.svg" alt="Vimeo wordmark failed to load" title="Wordmark of Vimeo" width="20" height="20"> Vimeo
+###### <img src="/Graphics/Social-Media/Vimeo/Vimeo_Logo.svg" alt="Vimeo wordmark failed to load" title="Wordmark of Vimeo" width="20" height="20"> Vimeo
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2313,7 +2315,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Social-Media/Marci-Polo/Marco-Polo-App-Logo1.png" alt="Marco Polo logo failed to load" title="Logo of Macro Polo" width="20" height="20"> Marco Polo
+###### <img src="/Graphics/Social-Media/Marci-Polo/Marco-Polo-App-Logo1.png" alt="Marco Polo logo failed to load" title="Logo of Macro Polo" width="20" height="20"> Marco Polo
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2328,7 +2330,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/Steam/Steam_icon_logo.svg" alt="Steam logo failed to load" title="Logo of Steam" width="20" height="20"> Steam
+###### <img src="/Graphics/Online-game-accounts/Steam/Steam_icon_logo.svg" alt="Steam logo failed to load" title="Logo of Steam" width="20" height="20"> Steam
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2344,7 +2346,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/Roblox/Roblox_Logo_2016.png" alt="Roblox logo failed to load" title="Logo of Roblox" width="20" height="20"> Roblox
+###### <img src="/Graphics/Online-game-accounts/Roblox/Roblox_Logo_2016.png" alt="Roblox logo failed to load" title="Logo of Roblox" width="20" height="20"> Roblox
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2359,7 +2361,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/Poptropica/Poptropica_Logo.svg" alt="Poptropica wordmark failed to load" title="Wordmark of Poptropica" width="20" height="20"> Poptropica
+###### <img src="/Graphics/Online-game-accounts/Poptropica/Poptropica_Logo.svg" alt="Poptropica wordmark failed to load" title="Wordmark of Poptropica" width="20" height="20"> Poptropica
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2374,7 +2376,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/Nitrotype/NitroType_Wordmark.png" alt="Nitrotype wordmark failed to load" title="Wordmark of Nitrotype" width="220" height="20"> NitroType
+###### <img src="/Graphics/Online-game-accounts/Nitrotype/NitroType_Wordmark.png" alt="Nitrotype wordmark failed to load" title="Wordmark of Nitrotype" width="220" height="20"> NitroType
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2390,7 +2392,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/Minecraft/Minecraft-Logo1.png" alt="Minecraft logo failed to load" title="Logo of Minecraft" width="20" height="20"> Minecraft
+###### <img src="/Graphics/Online-game-accounts/Minecraft/Minecraft-Logo1.png" alt="Minecraft logo failed to load" title="Logo of Minecraft" width="20" height="20"> Minecraft
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2405,7 +2407,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/Happy-Wheels/Happy_Wheels_Logo.png" alt="Happy Wheels wordmark failed to load" title="Wordmark of Happy Wheels" width="20" height="20"> Happy Wheels
+###### <img src="/Graphics/Online-game-accounts/Happy-Wheels/Happy_Wheels_Logo.png" alt="Happy Wheels wordmark failed to load" title="Wordmark of Happy Wheels" width="20" height="20"> Happy Wheels
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2420,7 +2422,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Online-game-accounts/Growtopia/Growtopia_Logo.png" alt="Growtopia logo failed to load" title="Logo of Growtopia" width="20" height="20"> Growtopia
+###### <img src="/Graphics/Online-game-accounts/Growtopia/Growtopia_Logo.png" alt="Growtopia logo failed to load" title="Logo of Growtopia" width="20" height="20"> Growtopia
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2435,7 +2437,7 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### <img src="/Graphics/Other-sites/GMAIL/Gmail_Icon_(2013-2020).svg" alt="GMAIL logo failed to load" title="Logo of GMAIL" width="20" height="20"> GMAIL
+###### <img src="/Graphics/Other-sites/GMAIL/Gmail_Icon_(2013-2020).svg" alt="GMAIL logo failed to load" title="Logo of GMAIL" width="20" height="20"> GMAIL
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2452,7 +2454,7 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### <img src="/Graphics/Other-sites/Outlook/Microsoft_Office_Outlook_(2018–present).svg" alt="Outlook logo failed to load" title="Logo of Outlook" width="20" height="20"> Outlook
+###### <img src="/Graphics/Other-sites/Outlook/Microsoft_Office_Outlook_(2018–present).svg" alt="Outlook logo failed to load" title="Logo of Outlook" width="20" height="20"> Outlook
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2469,7 +2471,7 @@ I briefly used Outlook between 2016 and 2020 for Minecraft Pocket Edition and On
 
 ---
 
-#### <img src="/Graphics/Social-Media/Twitter/Logo_of_Twitter.svg" alt="Twitter logo failed to load" title="Logo of Twitter" width="20" height="20"> Twitter / X(Videos)
+###### <img src="/Graphics/Social-Media/Twitter/Logo_of_Twitter.svg" alt="Twitter logo failed to load" title="Logo of Twitter" width="20" height="20"> Twitter / X(Videos)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2498,7 +2500,7 @@ I briefly used Outlook between 2016 and 2020 for Minecraft Pocket Edition and On
 
 ---
 
-#### <img src="/Graphics/Social-Media/Scratch/Scratch_Logo.svg" alt="Scratch wordmark failed to load" title="Wordmark of Scratch" width="20" height="20"> Scratch
+###### <img src="/Graphics/Social-Media/Scratch/Scratch_Logo.svg" alt="Scratch wordmark failed to load" title="Wordmark of Scratch" width="20" height="20"> Scratch
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2514,7 +2516,7 @@ I briefly used Outlook between 2016 and 2020 for Minecraft Pocket Edition and On
 
 ---
 
-#### <img src="/Graphics/Social-Media/Instagram/Instagram_logo_2016.svg" alt="Instagram logo failed to load" title="Logo of Instagram" width="20" height="20"> Instagram
+###### <img src="/Graphics/Social-Media/Instagram/Instagram_logo_2016.svg" alt="Instagram logo failed to load" title="Logo of Instagram" width="20" height="20"> Instagram
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2529,7 +2531,7 @@ I briefly used Outlook between 2016 and 2020 for Minecraft Pocket Edition and On
 
 ---
 
-#### <img src="/Graphics/Social-Media/Facebook/Facebook_Shiny_Icon.svg" alt="Facebook logo failed to load" title="Logo of Facebook" width="20" height="20"> Facebook
+###### <img src="/Graphics/Social-Media/Facebook/Facebook_Shiny_Icon.svg" alt="Facebook logo failed to load" title="Logo of Facebook" width="20" height="20"> Facebook
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2558,7 +2560,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Yelp/Yelp_Logo.svg" alt="Yelp wordmark failed to load" title="Yelp wordmark" width="20" height="20"> Yelp
+###### <img src="/Graphics/Other-sites/Yelp/Yelp_Logo.svg" alt="Yelp wordmark failed to load" title="Yelp wordmark" width="20" height="20"> Yelp
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2572,7 +2574,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Social-Media/Tumblr/Tumblr_Logo.svg" alt="Tumblr wordmark failed to load" title="Tumblr wordmark" width="20" height="20"> Tumblr
+###### <img src="/Graphics/Social-Media/Tumblr/Tumblr_Logo.svg" alt="Tumblr wordmark failed to load" title="Tumblr wordmark" width="20" height="20"> Tumblr
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2586,7 +2588,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Bandcamp/Bandcamp-bc-logotype-color.svg" alt="Bandcamp logo failed to load" title="Logo of Bandcamp" width="20" height="20"> Bandcamp
+###### <img src="/Graphics/Other-sites/Bandcamp/Bandcamp-bc-logotype-color.svg" alt="Bandcamp logo failed to load" title="Logo of Bandcamp" width="20" height="20"> Bandcamp
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2601,7 +2603,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Social-Media/Quora/Quora_logo.svg" alt="Quora wordmark failed to load" title="Wordmark of Quora" width="20" height="20"> Quora
+###### <img src="/Graphics/Social-Media/Quora/Quora_logo.svg" alt="Quora wordmark failed to load" title="Wordmark of Quora" width="20" height="20"> Quora
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2615,7 +2617,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Zoom/Zoom_Logo_2022.svg" alt="Zoom wordmark failed to load" title="Wordmark of Zoom software" width="20" height="20"> Zoom
+###### <img src="/Graphics/Other-sites/Zoom/Zoom_Logo_2022.svg" alt="Zoom wordmark failed to load" title="Wordmark of Zoom software" width="20" height="20"> Zoom
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2629,7 +2631,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Hulu/Hulu_2019.svg" alt="Hulu wordmark failed to load" title="Wordmark of Hulu" width="20" height="20"> Hulu
+###### <img src="/Graphics/Other-sites/Hulu/Hulu_2019.svg" alt="Hulu wordmark failed to load" title="Wordmark of Hulu" width="20" height="20"> Hulu
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2643,7 +2645,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/DeGoo/DeGoo_20GB_Logo.png" alt="DeGoo logo failed to load" title="Logo of Degoo" width="20" height="20"> DeGoo
+###### <img src="/Graphics/Other-sites/DeGoo/DeGoo_20GB_Logo.png" alt="DeGoo logo failed to load" title="Logo of Degoo" width="20" height="20"> DeGoo
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2657,7 +2659,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Dropbox/Dropbox_logo_2017.svg" alt="Dropbox wordmark failed to load" title="Wordmark of Dropbox" width="50" height="20"> Dropbox
+###### <img src="/Graphics/Other-sites/Dropbox/Dropbox_logo_2017.svg" alt="Dropbox wordmark failed to load" title="Wordmark of Dropbox" width="50" height="20"> Dropbox
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2671,7 +2673,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/iCloud/iCloud_OldIcon1.png" alt="iCloud logo failed to load" title="Logo of iCloud" width="20" height="20"> iCloud
+###### <img src="/Graphics/Other-sites/iCloud/iCloud_OldIcon1.png" alt="iCloud logo failed to load" title="Logo of iCloud" width="20" height="20"> iCloud
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2685,7 +2687,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/iTunes/ITunes_OldIcon1.png" alt="iTunes logo failed to load" title="Logo of iTunes" width="20" height="20"> iTunes
+###### <img src="/Graphics/Other-sites/iTunes/ITunes_OldIcon1.png" alt="iTunes logo failed to load" title="Logo of iTunes" width="20" height="20"> iTunes
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2699,7 +2701,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/MediaFire/MediaFire_logo.png" alt="MediaFire wordmark failed to load" title="Wordmark of MediaFire" width="20" height="20"> MediaFire
+###### <img src="/Graphics/Other-sites/MediaFire/MediaFire_logo.png" alt="MediaFire wordmark failed to load" title="Wordmark of MediaFire" width="20" height="20"> MediaFire
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2713,7 +2715,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/OneDrive/Microsoft_Office_OneDrive_(2019–present).svg" alt="OneDrive logo failed to load" title="Logo of OneDrive" width="20" height="20"> OneDrive
+###### <img src="/Graphics/Other-sites/OneDrive/Microsoft_Office_OneDrive_(2019–present).svg" alt="OneDrive logo failed to load" title="Logo of OneDrive" width="20" height="20"> OneDrive
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2727,7 +2729,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/pCloud/Pcloud-logo.svg" alt="pCloud logo failed to load" title="Logo of pCloud" width="20" height="20"> pCloud
+###### <img src="/Graphics/Other-sites/pCloud/Pcloud-logo.svg" alt="pCloud logo failed to load" title="Logo of pCloud" width="20" height="20"> pCloud
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2741,7 +2743,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/AspergerExperts/AspergerExperts_Logo.png" alt="Asperger Experts logo failed to load" title="Logo of Asperger Experts" width="20" height="20"> Asperger Experts
+###### <img src="/Graphics/Other-sites/AspergerExperts/AspergerExperts_Logo.png" alt="Asperger Experts logo failed to load" title="Logo of Asperger Experts" width="20" height="20"> Asperger Experts
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2755,7 +2757,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Trello/Trello-logo-blue.svg" alt="Trello wordmark failed to load" title="Wordmark of Trello" width="20" height="20"> Trello
+###### <img src="/Graphics/Other-sites/Trello/Trello-logo-blue.svg" alt="Trello wordmark failed to load" title="Wordmark of Trello" width="20" height="20"> Trello
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2769,7 +2771,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/CodeDotOrg/Code.org_logo.svg" alt="code.org logo failed to load" title="Logo of code.org" width="20" height="20"> code.org
+###### <img src="/Graphics/Other-sites/CodeDotOrg/Code.org_logo.svg" alt="code.org logo failed to load" title="Logo of code.org" width="20" height="20"> code.org
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2783,7 +2785,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/ALEKS/ALEKS_Logo.png" alt="ALEKS logo failed to load" title="Logo of ALEKS" width="20" height="20"> ALEKS
+###### <img src="/Graphics/Other-sites/ALEKS/ALEKS_Logo.png" alt="ALEKS logo failed to load" title="Logo of ALEKS" width="20" height="20"> ALEKS
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2797,7 +2799,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Edhesive/Edhesive_Wordmark.png" alt="Edhesive wordmark failed to load" title="Wordmark of Edhesive" width="20" height="20"> Edhesive
+###### <img src="/Graphics/Other-sites/Edhesive/Edhesive_Wordmark.png" alt="Edhesive wordmark failed to load" title="Wordmark of Edhesive" width="20" height="20"> Edhesive
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2811,7 +2813,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Nintendo/Nintendo.svg" alt="Nintendo wordmark failed to load" title="Wordmark of Nintendo" width="20" height="20"> Nintendo
+###### <img src="/Graphics/Other-sites/Nintendo/Nintendo.svg" alt="Nintendo wordmark failed to load" title="Wordmark of Nintendo" width="20" height="20"> Nintendo
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2825,7 +2827,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/Thingiverse/Thingiverse_Logo_192x192.png" alt="Thingiverse logo failed to load" title="Logo of Thingiverse" width="20" height="20"> Thingiverse
+###### <img src="/Graphics/Other-sites/Thingiverse/Thingiverse_Logo_192x192.png" alt="Thingiverse logo failed to load" title="Logo of Thingiverse" width="20" height="20"> Thingiverse
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2841,7 +2843,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### <img src="/Graphics/Other-sites/PayPal/PayPal_Logo_Icon_2014.svg" alt="PayPal logo failed to load" title="Logo of PayPal" width="20" height="20"> PayPal
+###### <img src="/Graphics/Other-sites/PayPal/PayPal_Logo_Icon_2014.svg" alt="PayPal logo failed to load" title="Logo of PayPal" width="20" height="20"> PayPal
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2855,7 +2857,7 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-##### <img src="/Graphics/Other-sites/Amazon/Amazon_Logo_Old1.png" alt="Amazon logo failed to load" title="Logo of Amazon" width="20" height="20"> Amazon
+###### <img src="/Graphics/Other-sites/Amazon/Amazon_Logo_Old1.png" alt="Amazon logo failed to load" title="Logo of Amazon" width="20" height="20"> Amazon
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2886,13 +2888,13 @@ _End of platforms I am on section._
 
 ---
 
-### [📵️ Platforms I am not on](#-Platforms-I-am-not-on)
+##### [📵️ Platforms I am not on](#-Platforms-I-am-not-on)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 ---
 
-#### [🔗️ Never joined](#-Never-joined)
+###### [🔗️ Never joined](#-Never-joined)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2900,7 +2902,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/TikTok/TikTok_logo.svg" alt="TikTok logo failed to load" title="I am not on TikTok" width="20" height="20"> TikTok
+###### <img src="/Graphics/Social-Media/TikTok/TikTok_logo.svg" alt="TikTok logo failed to load" title="I am not on TikTok" width="20" height="20"> TikTok
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2920,7 +2922,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/WhatsApp/WhatsApp.svg" alt="WhatsApp logo failed to load" title="I am not on WhatsApp" width="20" height="20"> WhatsApp
+###### <img src="/Graphics/Social-Media/WhatsApp/WhatsApp.svg" alt="WhatsApp logo failed to load" title="I am not on WhatsApp" width="20" height="20"> WhatsApp
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2938,7 +2940,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/Pinterest/Pinterest-Logo1.png" alt="Pinterest logo failed to load" title="I am not on Pinterest" width="20" height="20"> Pinterest
+###### <img src="/Graphics/Social-Media/Pinterest/Pinterest-Logo1.png" alt="Pinterest logo failed to load" title="I am not on Pinterest" width="20" height="20"> Pinterest
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2954,7 +2956,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/LinkedIn/LinkedIn_icon.svg" alt="LinkedIn logo failed to load" title="I am not on LinkedIn" width="20" height="20"> LinkedIn
+###### <img src="/Graphics/Social-Media/LinkedIn/LinkedIn_icon.svg" alt="LinkedIn logo failed to load" title="I am not on LinkedIn" width="20" height="20"> LinkedIn
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2972,7 +2974,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/VK/VK.com-logo.svg" alt="VKontakte logo failed to load" title="I am not on VK/VKontakte" width="20" height="20"> VK/VKontakte
+###### <img src="/Graphics/Social-Media/VK/VK.com-logo.svg" alt="VKontakte logo failed to load" title="I am not on VK/VKontakte" width="20" height="20"> VK/VKontakte
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -2993,7 +2995,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Other-sites/Pornhub/Pornhub-logo.svg" alt="Pornhub logo failed to load" title="I am not on Pornhub" width="20" height="20"> PornHub
+###### <img src="/Graphics/Other-sites/Pornhub/Pornhub-logo.svg" alt="Pornhub logo failed to load" title="I am not on Pornhub" width="20" height="20"> PornHub
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3014,7 +3016,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/Snapchat/Snapcode_barcode.svg" alt="Snapchat logo failed to load" title="I am not on Snapchat" width="20" height="20"> Snapchat
+###### <img src="/Graphics/Social-Media/Snapchat/Snapcode_barcode.svg" alt="Snapchat logo failed to load" title="I am not on Snapchat" width="20" height="20"> Snapchat
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3033,7 +3035,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/Telegram/Telegram_2019_Logo.svg" alt="Telegram logo failed to load" title="Logo of Telegram" width="20" height="20"> Telegram
+###### <img src="/Graphics/Social-Media/Telegram/Telegram_2019_Logo.svg" alt="Telegram logo failed to load" title="Logo of Telegram" width="20" height="20"> Telegram
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3047,7 +3049,7 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### <img src="/Graphics/Social-Media/Signal/Signal-Logo.svg" alt="Signal logo failed to load" title="Logo of Signal" width="20" height="20"> Signal
+###### <img src="/Graphics/Social-Media/Signal/Signal-Logo.svg" alt="Signal logo failed to load" title="Logo of Signal" width="20" height="20"> Signal
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3067,7 +3069,7 @@ _End of platforms I have never joined section._
 
 ---
 
-#### [🧨️ No longer exists](#No-longer-exists)
+###### [🧨️ No longer exists](#No-longer-exists)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3075,7 +3077,7 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### <img src="/Graphics/Other-sites/Go90/Go90_logo.jpeg" alt="Go90 logo failed to load" title="Logo of Go90" width="20" height="20"> Go90
+###### <img src="/Graphics/Other-sites/Go90/Go90_logo.jpeg" alt="Go90 logo failed to load" title="Logo of Go90" width="20" height="20"> Go90
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3087,7 +3089,7 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### <img src="/Graphics/Social-Media/Ditty/DittyLogo.png" alt="Ditty.it logo failed to load" title="Logo of Ditty.it" width="20" height="20"> Ditty.it
+###### <img src="/Graphics/Social-Media/Ditty/DittyLogo.png" alt="Ditty.it logo failed to load" title="Logo of Ditty.it" width="20" height="20"> Ditty.it
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3103,7 +3105,7 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### <img src="/Graphics/Social-Media/Periscope/Periscope_Logo.svg" alt="Periscope logo failed to load" title="Logo of Persicope" width="20" height="20"> Periscope
+###### <img src="/Graphics/Social-Media/Periscope/Periscope_Logo.svg" alt="Periscope logo failed to load" title="Logo of Persicope" width="20" height="20"> Periscope
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3117,7 +3119,7 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### <img src="/Graphics/Social-Media/Google-Plus/Google_Plus_logo_(2015-2019).svg" alt="Google+ logo failed to load" title="Logo of Google+" width="20" height="20"> Google Plus
+###### <img src="/Graphics/Social-Media/Google-Plus/Google_Plus_logo_(2015-2019).svg" alt="Google+ logo failed to load" title="Logo of Google+" width="20" height="20"> Google Plus
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3132,7 +3134,7 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### <img src="/Graphics/Online-game-accounts/Club-Penguin/Club_Penguin_Logo_2012_-_2017.png" alt="Club Penguin logo failed to load" title="Logo of Club Penguin" width="20" height="20"> Club Penguin
+###### <img src="/Graphics/Online-game-accounts/Club-Penguin/Club_Penguin_Logo_2012_-_2017.png" alt="Club Penguin logo failed to load" title="Logo of Club Penguin" width="20" height="20"> Club Penguin
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3147,7 +3149,7 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### <img src="/Graphics/Other-sites/Clocktree/ClockTreeLogo.jpeg" alt="Clocktree logo failed to load" title="Logo of Clocktree" width="20" height="20"> Clocktree
+###### <img src="/Graphics/Other-sites/Clocktree/ClockTreeLogo.jpeg" alt="Clocktree logo failed to load" title="Logo of Clocktree" width="20" height="20"> Clocktree
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3185,7 +3187,7 @@ _End of How to reach me section._
 
 ***
 
-## [💸️ Sponsor info](#-Sponsor-info)
+### [💸️ Sponsor info](#-Sponsor-info)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3207,7 +3209,7 @@ Try it out! The sponsor button is right up next to the watch/unwatch button.
 
 ***
 
-## [💹️ Free software isn't free to develop](#-Free-software-isn-t-free-to-develop)
+### [💹️ Free software isn't free to develop](#-Free-software-isn-t-free-to-develop)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3242,7 +3244,7 @@ My list of supported organizations include:
 
 ***
 
-## [📨️ Submissions](#-Submissions)
+### [📨️ Submissions](#-Submissions)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3256,7 +3258,7 @@ My recommended formats are SVG (60% recommended) and PNG (40% recommended) for i
 
 ***
 
-## [🔵️ Blue team](#-Blue-team)
+### [🔵️ Blue team](#-Blue-team)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3266,7 +3268,7 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ---
 
-## [🟢️ Green team](#-Green-team)
+### [🟢️ Green team](#-Green-team)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3276,7 +3278,7 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ***
 
-## [🖥️ Computer user type](#-Computer-user-type)
+### [🖥️ Computer user type](#-Computer-user-type)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3291,7 +3293,7 @@ I have 2 teams for my organization system. Blue team is for technical work (digi
 
 ***
 
-## [🎓️ Education](#-Education)
+### [🎓️ Education](#-Education)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3301,13 +3303,13 @@ I have completed primary (pre-school, Elementary School) and secondary education
 
 ***
 
-## [👩‍💻️ GitHub developer program](#-GitHub-developer-program)
+### [👩‍💻️ GitHub developer program](#-GitHub-developer-program)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. Here, I will be listing my projects that work with the GitHub API:
 
-### [🧩️ Extensions](#-Extensions)
+#### [🧩️ Extensions](#-Extensions)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3323,15 +3325,15 @@ I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. He
 
 </details> <!-- End of Extensions section !-->
 
-### [🛍️ Marketplace](#-Marketplace)
+#### [🛍️ Marketplace](#-Marketplace)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-#### [▶️ My Actions](#-My-actions)
+##### [▶️ My Actions](#-My-actions)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-##### [⏯️ My CI workflows](#-My-CI-workflows)
+###### [⏯️ My CI workflows](#-My-CI-workflows)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3339,7 +3341,7 @@ I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. He
 
 </details> <!-- End My CI workflows section !-->
 
-### [ℹ️ Information](-Information)
+#### [ℹ️ Information](-Information)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3371,7 +3373,7 @@ _End of GitHub developer program section._
 
 ***
 
-## [❓️ Frequently Asked Questions (FAQ)](#-Frequently-Asked-Questions--FAQ-)
+### [❓️ Frequently Asked Questions (FAQ)](#-Frequently-Asked-Questions--FAQ-)
 
 Since nobody has asked any questions yet, I will list some common ones here:
 
@@ -3385,7 +3387,7 @@ For now, it can be viewed [here instead](/Segments/Frequently-Asked-Questions-FA
 
 ---
 
-## [📰️ GitHub profile template](#-GitHub-profile-template)
+### [📰️ GitHub profile template](#-GitHub-profile-template)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the GitHub profile template section]</b></p></summary>
 
@@ -3413,7 +3415,7 @@ _No other about me sections available._
 
 ***
 
-## [♨️ Personal](#-Personal)
+### [♨️ Personal](#-Personal)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3432,7 +3434,7 @@ On GitHub, I have a lot of other personal projects, under the category of a life
 
 ***
 
-## [⚖️ Stances](#-Stances)
+### [⚖️ Stances](#-Stances)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3444,7 +3446,7 @@ For now, it can be viewed [here instead](/Segments/Stances/README.md)
 
 ***
 
-## [♾️ Autism](#-Autism)
+### [♾️ Autism](#-Autism)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -3611,13 +3613,13 @@ _End of Technology section._
 
 ***
 
-### [📈️ Statistics](#-Statistics)
+## [📈️ Statistics](#-Statistics)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my statistics</b></p></summary>
 
 ---
 
-#### [🅰️ GitHub Stats A](#-GitHubp-Stats-A)
+### [🅰️ GitHub Stats A](#-GitHubp-Stats-A)
 
 Stats generated from [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/GitHub_Stats_A/)
 
@@ -3677,7 +3679,7 @@ _End of GitHub Stats A section._
 
 ---
 
-#### [🅱️ GitHub Stats B](#-GitHub-Stats-B)
+### [🅱️ GitHub Stats B](#-GitHub-Stats-B)
 
 Stats generated from [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_B/)
 
@@ -3785,7 +3787,7 @@ Full statistics are available at [:octocat: `GitHub_Stats_B`](https://github.com
 
 ---
 
-#### [Ⓜ️ Commit Count Milestones](#-Commit-Count-Milestones)
+### [Ⓜ️ Commit Count Milestones](#-Commit-Count-Milestones)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4030,7 +4032,7 @@ New limits (proposed 2024.04.06, WIP)
 
 ---
 
-#### [🌆️ GitHub Skyline](#-GitHub-Skyline)
+### [🌆️ GitHub Skyline](#-GitHub-Skyline)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4159,7 +4161,7 @@ _End of Friends section_
 
 ***
 
-# [🏢️ My projects](#-My-projects)
+## [🏢️ My projects](#-My-projects)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my projects</b></p></summary>
 
@@ -4208,13 +4210,13 @@ Other uncategorized projects.
 
 ***
 
-## [🔌️ Platforms I develop for](#-Platforms-I-develop-for)
+### [🔌️ Platforms I develop for](#-Platforms-I-develop-for)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 This is a list of the platforms I develop for:
 
-### [🐧️ Linux platform support](#-Linux-platform-support)
+#### [🐧️ Linux platform support](#-Linux-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4268,7 +4270,7 @@ This is a list of the platforms I develop for:
 
 </details> <!-- End of Linux support section !-->
 
-### [🐡️ BSD platform support](#-BSD-platform-support)
+#### [🐡️ BSD platform support](#-BSD-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4279,7 +4281,7 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 
 </details> <!-- End of BSD support section !-->
 
-### [🪟️ Windows platform support](#-Windows-platform-support)
+#### [🪟️ Windows platform support](#-Windows-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4307,7 +4309,7 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 
 </details> <!-- End of Windows support section !-->
 
-### [🔰️ Other platform support](#-Other-platform-support)
+#### [🔰️ Other platform support](#-Other-platform-support)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4334,13 +4336,19 @@ This section has been removed to save space (~208 kilobytes) it can be viewed [`
 
 ***
 
-## [🌟️ Repository of the day (coming soon)](#-Repository-of-the-day--coming-soon-)
+### [🌟️ Repository of the day (coming soon)](#-Repository-of-the-day--coming-soon-)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I have plans to make a featured Repoitory of the Day table here, but it would require a lot of time with GitHub workflows, and determining which repositories should be featured.
 
 **Plans:**
+
+**Featured**
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Featured projects.
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4354,6 +4362,8 @@ GitHub action that automatically updates this list
 
 </details> <!-- End of top 6 section !-->
 
+---
+
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | 1/2 | 3/4 | 5/6 |
@@ -4363,9 +4373,17 @@ GitHub action that automatically updates this list
 
 </details> <!-- End of top 6 v2 section !-->
 
+---
+
 These will be the featured repositories for the time being.
 
 </details> <!-- End of Repository of the day featured section !-->
+
+***
+
+_No other featured projects currently listed._
+
+</details> <!-- End of Repository of the day section !-->
 
 ***
 
@@ -4395,7 +4413,7 @@ This is one of my most important repositories. It is a portal to all of my docum
 
 ***
 
-## [💳️ License](#-License)
+### [💳️ License](#-License)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4409,7 +4427,7 @@ I renounce all Copyright to my projects, regardless of their license, and replac
 
 ***
 
-## [🖌️ Style guides](#-Style-guides)
+### [🖌️ Style guides](#-Style-guides)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4419,7 +4437,7 @@ My repositories follow various style guides, which can be found [:octocat: `here
 
 ***
 
-## [🎴️ Model project information](#-Model-project-information)
+### [🎴️ Model project information](#-Model-project-information)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4431,7 +4449,7 @@ For now, it can be viewed [here instead](/Segments/Model-Project-Information/REA
 
 ***
 
-## [📥️ Takeout Tuesdays](#-Takeout-Tuesdays)
+### [📥️ Takeout Tuesdays](#-Takeout-Tuesdays)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4443,7 +4461,7 @@ For now, it can be viewed [here instead](/Segments/Takeout-Tuesdays/README.md)
 
 ***
 
-## [📑️ Browser tabs](#-Browser-tabs)
+### [📑️ Browser tabs](#-Browser-tabs)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4455,7 +4473,7 @@ For now, it can be viewed [here instead](/Segments/Browser-Tabs/README.md)
 
 ***
 
-## [🌃️ Administrative units](#-Administrative-units)
+### [🌃️ Administrative units](#-Administrative-units)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4467,7 +4485,7 @@ For now, it can be viewed [here instead](/Segments/Administrative-units/README.m
 
 ***
 
-## [🇮🇪️ Government](#-Government)
+### [🇮🇪️ Government](#-Government)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4479,7 +4497,7 @@ For now, it can be viewed [here instead](/Segments/Government/README.md)
 
 ***
 
-## [🇺🇳️ Region related software](#-Region-related-software)
+### [🇺🇳️ Region related software](#-Region-related-software)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4491,7 +4509,7 @@ For further information, go to the official [:octocat: `Region-related software 
 
 ***
 
-## [🎓️ Learn](#-Learn)
+### [🎓️ Learn](#-Learn)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4507,7 +4525,7 @@ Learn is a repository of mine that showcases my knowledge of various programming
 
 ***
 
-## [🔴️ AUTOMATE2001](#-AUTOMATE2001)
+### [🔴️ AUTOMATE2001](#-AUTOMATE2001)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4521,7 +4539,7 @@ AUTOMATE2001 is my personal automation tool. It is a major work in progress.
 
 ***
 
-## [🔒️ Private repositories](#-Private-repositories)
+### [🔒️ Private repositories](#-Private-repositories)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4535,7 +4553,7 @@ As of 2024, Saturday, March 23rd, I have 100 private repositories.
 
 ***
 
-## [🥧️ Raspberry Pi](#-Raspberry-Pi)
+### [🥧️ Raspberry Pi](#-Raspberry-Pi)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4553,7 +4571,7 @@ Every month, the archive repository of the blog is updated with new data:
 
 ***
 
-## [🫁️ Artificial Intelligence projects](#-Artificial-Intelligence-projects)
+### [🫁️ Artificial Intelligence projects](#-Artificial-Intelligence-projects)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4565,7 +4583,7 @@ I had previously feared Artificial Intelligence, as I didn't know much about it.
 
 ***
 
-## [💽️ SeansOSData project](#-SeansOSData-project)
+### [💽️ SeansOSData project](#-SeansOSData-project)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4579,7 +4597,7 @@ The project can be found [:octocat: `here`](https://github.com/seanpm2001/SeansO
 
 ***
 
-## [👾️ Virtual machine information](#-Virtual-machine-information)
+### [👾️ Virtual machine information](#-Virtual-machine-information)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4591,7 +4609,7 @@ I absolutely love virtual machines and emulators. It is one of my favorite thing
 
 ***
 
-## [💙️ Dream projects](#-Dream-projects)
+### [💙️ Dream projects](#-Dream-projects)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4603,7 +4621,7 @@ My dream project is a quantum computer operating system known as [:octocat: `Mea
 
 ***
 
-## [💷️ Thoughts on Blockchain and Web -3](#-Thoughts-on-Blockchain-and-Web-3)
+### [💷️ Thoughts on Blockchain and Web -3](#-Thoughts-on-Blockchain-and-Web-3)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4619,7 +4637,7 @@ Nonetheless, due to my follow for follow promise, I still follow a lot of NFT/cr
 
 ***
 
-## [🌈️ GitHub profile achievements](#-GitHub-profile-achievements)
+### [🌈️ GitHub profile achievements](#-GitHub-profile-achievements)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4631,7 +4649,7 @@ GitHub released achievements in 2020, with the arctic code vault achievement, an
 
 ***
 
-## [🔘️ 2001 and the core](#-2001-and-the-core)
+### [🔘️ 2001 and the core](#-2001-and-the-core)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4643,7 +4661,7 @@ I refer to my headquarters as the core, and 2001 is its number. 2001 holds a lot
 
 ***
 
-## [🍴️ Forks](#-Forks)
+### [🍴️ Forks](#-Forks)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4659,7 +4677,7 @@ Previously, if the account of a fork got suspended/deleted, you could still see 
 
 ***
 
-## [🐧️ Linux User Groups](#-Linux-User-Groups)
+### [🐧️ Linux User Groups](#-Linux-User-Groups)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4671,7 +4689,7 @@ I am working on starting my own GNU/Linux User Group. It is a work in progress.
 
 ***
 
-## [🌱️ RepoData](#-Repodata)
+### [🌱️ RepoData](#-Repodata)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4679,7 +4697,7 @@ RepoData for this repository is located [`here`](/RepoData/)
 
 RepoData is hard copy information of a repositories attributes, such as its description, tags, URL, and name. It is located on almost all of my repositories, although the majority currently only show the descriptiom.
 
-### [📓️ RepoData notes](#-RepoData-notes)
+#### [📓️ RepoData notes](#-RepoData-notes)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4693,7 +4711,7 @@ This is a series of notes regarding the title and description of repositories. I
 
 ***
 
-## [🎖️ Awards](#-Awards)
+### [🎖️ Awards](#-Awards)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4701,7 +4719,7 @@ Awards I have earned/awards that I give out include:
 
 ---
 
-### [🍘️ Saltine Cracker Award](#-Saltine-Cracker-Award)
+#### [🍘️ Saltine Cracker Award](#-Saltine-Cracker-Award)
 
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -4717,7 +4735,7 @@ _End of awards section_
 
 ***
 
-## [📄️ README usage](#-README-usage)
+### [📄️ README usage](#-README-usage)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4764,7 +4782,7 @@ See my year in review for:
 
 ***
 
-## [🆓️ Software status](#-Software-status)
+### [🆓️ Software status](#-Software-status)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4812,13 +4830,13 @@ _End of documentation section._
 
 ***
 
-# [📃️ About this page](#-About-this-page)
+## [📃️ About this page](#-About-this-page)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about this page</b></p></summary>
 
 ***
 
-## [⚙️ Workflows (seanpm2001/seanpm2001)](#-Workflows--seanpm2001-seanpm2001)
+### [⚙️ Workflows (seanpm2001/seanpm2001)](#-Workflows--seanpm2001-seanpm2001)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4832,7 +4850,7 @@ For now, it can be viewed [here instead](/Segments/Workflows-Seanpm2001/README.m
 
 <details open><summary><H3>🗄️ Explore this repo:</H3></summary>
 
-### [📘️ GitHub:seanpm2001/seanpm2001](#-GitHub-seanpm2001-seanpm2001)
+#### [📘️ GitHub:seanpm2001/seanpm2001](#-GitHub-seanpm2001-seanpm2001)
 
 - [`View list`](/ROOTFILES.base)
 
@@ -4844,16 +4862,16 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ***
 
-# [ℹ️ File info](#-File-info)
+### [ℹ️ File info](#-File-info)
 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `102 (2024, Thursday, April 18th at 07:36 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,262`
-- **Word count:** `038,768`
-- **Character count (with spaces):** `0,264,654 characters`
-- **Character count (without spaces)** `0,230,505 characters`
+- **File version:** `103 (2024, Friday, April 19th at 08:13 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,304`
+- **Word count:** `039,104`
+- **Character count (with spaces):** `0,267,049 characters`
+- **Character count (without spaces)** `0,232,563 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4866,7 +4884,7 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ***
 
-# [📜️ File version history](#-File-version-history)
+### [📜️ File version history](#-File-version-history)
 
 <!-- This section is commented out to enable better scrolling. Fork/download the project to view the source code, or "view raw" to see the file history !-->
 
@@ -4984,11 +5002,34 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 103 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 103 (2024, Friday, April 19th at 08:13 pm PST)</b></summary>
+
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the twenty-eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Thursday, April 18th to 2024, Friday, April 19th, spanning from 07:58 pm on the 18th to 08:11 pm on the 19th, although almost all of the work was done on the 18th. This update doesn't do much in terms of new content, but it greatly improves readability and eligance by adjusting all headings and subheadings to a more suitable level (unfortunately, `<h7>` doesn't exist, so I couldn't do it completely the way I wanted to)_
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Major headings adjustment
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Profile picture history` section
+- - [x] Added an Internet Archive link
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 103
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 103
 
 </details> <!-- End of V103 !-->
@@ -6068,11 +6109,11 @@ _End of file version history_
 
 ***
 
-## [🏗️ Remodel history](#-Remodel-history)
+### [🏗️ Remodel history](#-Remodel-history)
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 18th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-18th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 19th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-19th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -6106,6 +6147,7 @@ _End of file version history_
 - - [Link to remodel section version 26 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md)
 - - [Link to remodel section version 27 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md)
 - - [Link to remodel section version 28 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md)
+- - [Link to remodel section version 29 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -6115,7 +6157,7 @@ _End of remodel history section._
 
 ***
 
-## [🗣️ GitHub Interactions](#-GitHub-interactions)
+### [🗣️ GitHub Interactions](#-GitHub-interactions)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -6129,7 +6171,7 @@ _End of GitHub interactions section_
 
 ***
 
-## [💨️ Optimizing this page](#-Optimizing-this-page)
+### [💨️ Optimizing this page](#-Optimizing-this-page)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -6147,7 +6189,7 @@ View this segment [in a separate file (coming soon)](/Segments/Optimizing-this-p
 
 ***
 
-## [🚥️ Internet status](#-Internet-status)
+### [🚥️ Internet status](#-Internet-status)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -6165,7 +6207,7 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 
 ***
 
-## [⚠️ Developer limits](#-Developer-limits)
+### [⚠️ Developer limits](#-Developer-limits)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -6179,9 +6221,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0978` (as of V102) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~0978` (as of V103) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V102: `268,566` / `524,288` (`051.224%`))
+- - **Current character count (in bytes):** (as of V103: `270,961` / `524,288` (`051.681%`))
 
 > Memory
 
@@ -6226,7 +6268,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 102 (beta 28)** | _2024, Thursday, April 18th_ |
+| **Version 103 (beta 29)** | _2024, Friday, April 19th_ |
 
 <div align="center">
 
@@ -6238,7 +6280,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/99/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/100/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
