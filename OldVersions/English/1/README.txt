@@ -1,3 +1,24 @@
+---
+entry:
+    - about:
+      - title: "@Seanpm2001 GitHub profile"
+      - date: "2024-04-20"
+      - version: "v104"
+      - categories: "Bio | GitHub Bio"
+      - comments: "Experimental user YAML frontmatter entry"
+redirect_from:
+- https://github.com/seanpm2001/seanwallawalla    
+---
+
+<!--
+---
+layout: post
+title:  ""
+date:   2024-04-20
+version:   V104
+categories: bio
+---
+!-->
 
 ***
 
@@ -82,7 +103,7 @@ _Further instructions not yet available._
 - [2024.04.13] -> [2024.04.16] No updates for this date.
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] -> [2024.04.19] No updates for this date.
+- [2024.04.18] -> [2024.04.20] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -269,7 +290,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 29 - 2024, Friday, April 19th` |
+| `Beta 30 - 2024, Saturday, April 20th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -280,7 +301,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 28 days down, 35/36 days to go, as of 2024, Thursday, April 17th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 29 days down, 34/35 days to go, as of 2024, Saturday, April 19th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -335,7 +356,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 27](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
 | [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
 | [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
-| Beta 30 | Coming soon | 29 |
+| [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
 | Beta 31 | Coming soon | 30 |
 | Beta 32 | Coming soon | 31 |
 | Beta 33 | Coming soon | 32 |
@@ -396,10 +417,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `38` **/** `235` **tasks** _(016.18%)_ |
-| _as of 2024, Friday, April 19th_ |
+| `32` **/** `235` **tasks** _(013.61%)_ |
+| _as of 2024, Saturday, April 20th_ |
 
-- **Current tasks to do (38 tasks, as of 2024, Friday, April 19th)**
+- **Current tasks to do (38 tasks, as of 2024, Saturday, April 20th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -409,16 +430,11 @@ Résumé at top
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Many modifications to existing text throughout the document
 New translation methods
-No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Section about upcoming projects
 Projects I have contributed to (updates to this section)
-Politics and sexuality links, but not much information on this project alone
 My setup
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
-Centering various tables and text
-My server and server plans + request for help
-GistHub
 Graphic design info (programs used)
 My web stack
 Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
@@ -427,7 +443,6 @@ Certificates
 UnSaaSS project
 Update information about Windows and MacOS support
 Updates to Legend
-Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
@@ -459,10 +474,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `197` **/** `235` **tasks** _(083.82%)_ |
-| _as of 2024, Friday, April 19th_ |
+| `203` **/** `235` **tasks** _(086.39%)_ |
+| _as of 2024, Saturday, April 20th_ |
 
-- **Tasks implemented so far (197 tasks, as of 2024, Friday, April 19th)**
+- **Tasks implemented so far (203 tasks, as of 2024, Saturday, April 20th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -665,6 +680,12 @@ Get logo for WikiVoyage
 Get logo for Wikimedia Incubator
 Get logo for Wikiversity
 Get logo for Wiktionary
+GistHub
+Politics and sexuality links, but not much information on this project alone
+Centering various tables and text
+No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
+Full repository listing (WIP)
+My server and server plans + request for help
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -710,7 +731,9 @@ _End of remodel information_
 
 </div>
 
-</details> <!-- ENd of Quick Links section !-->
+View this segment [in a separate file (coming soon)](/Segments/Quick-links/README.md)
+
+</details> <!-- End of Quick Links section !-->
 
 ***
 
@@ -721,7 +744,9 @@ _End of remodel information_
 - :octocat: - Indicates that a link is directed at [`https://github.com/`](https://github.com/)
 - Legend is incomplete.
 
-</details> <!-- End of Legend section !-->
+View this segment [in a separate file (coming soon)](/Segments/Legend/README.md)
+
+<!-- TODO: 2024.04.20 !-->
 
 ```
 | Lead (header)
@@ -737,6 +762,8 @@ _End of remodel information_
 | About this page
 | Footer
 ```
+
+</details> <!-- End of Legend section !-->
 
 ***
 
@@ -1023,6 +1050,66 @@ View this segment [in a separate file (coming soon)](/Segments/Self-hosting-plan
 _End of favorite works section._
 
 </details> <!-- End of Self hosting plans for the future section !-->
+
+***
+
+## [🖥️ My server](#-My-server)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I plan to have a media server in the future. I am currently in the process of setting it up, and getting help setting it up.
+
+Right now, the "server" is just 10 external hard drives. It needs a lot of work.
+
+Hard drive capacity: 55 terabytes (along with additional internal hard drives, totaling 8 terabytes, 63 terabytes total)
+
+---
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section (external hard drive listing)]</b></p></summary>
+
+```
+External hard drives
+1: 1 terabyte
+2: 2 terabytes
+3: 4 terabytes
+4: 4 terabytes
+5: 4 terabytes
+6: 4 terabytes
+7: 5 terabytes
+8: 5 terabytes
+9: 10 terabytes
+10: 16 terabytes
+```
+
+</details> <!-- End of External hard drive listing !-->
+
+---
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section (internal hard drive listing)]</b></p></summary>
+
+```
+Internal hard drives
+1: 1 terabyte
+2: 1 terabyte
+3: 2 terabytes
+4: 4 terabytes
+```
+
+</details> <!-- End of Internal hard drive listing !-->
+
+---
+
+- Clusters: None
+- Operating System: Ubuntu 20.04 (prior to 2022) Ubuntu 22.04 (present)
+- RAID: False
+
+View this segment [in a separate file (coming soon)](/Segments/My-server/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of my server section._
+
+</details> <!-- End of My server section !-->
 
 ***
 
@@ -2084,6 +2171,21 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 - Account information is private
 
 </details> <!-- End of $GooglePlay !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub/GistHub" width="20" height="20"> GistHub (gist.github.com)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub/GistHub" width="128" height="128"> |
+|---|
+| [`GistHub`](https://gist.github.com/) |
+
+- I have a GistHub account, but I no longer actively use it. It is a subdivision of my GitHub account. I prefer mainland GitHub better now.
+- [`@seanpm2001`](https://gist.github.com/seanpm2001/)
+
+</details> <!-- End of $GistHub !-->
 
 ---
 
@@ -3421,16 +3523,87 @@ _No other about me sections available._
 
 I have some personal opinions on GitHub. I am working on keeping them contained inside 3 repositories:
 
-- [Opinions](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
-- [Politics](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
-
-> Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
-
-- [Sexuality center](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
+- [:octocat: `Opinions`](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
+- [:octocat: `Politics`](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
+- - Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
+- [:octocat: `Sexuality center`](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
 
 On GitHub, I have a lot of other personal projects, under the category of a life archive project, which I have been working on extra hard since 2016.
 
+View this segment [in a separate file (coming soon)](/Segments/Personal/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of personal section._
+
 </details> <!-- End of Personal section !-->
+
+***
+
+### [🗳️ Politics](#-Politics)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This is considered one of my 3 sensitive areas. I cannot discuss it further here.
+
+- [:octocat: `Politics`](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
+- - Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
+
+View this segment [in a separate file (coming soon)](/Segments/Politics/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of politics section._
+
+</details> <!-- End of Poltiics section !-->
+
+***
+
+### [♂️ Sexuality ♀️](#-Sexuality-)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Gender: Male
+
+This is considered one of my 3 sensitive areas. I cannot discuss it further here.
+
+Further information:
+
+- [:octocat: `Sexuality center`](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - For my sexual views and preferences.
+
+I support:
+
+- 🏳️‍🌈️
+- 🏳️‍⚧️️
+
+<!-- No other Emojis exist !-->
+
+View this segment [in a separate file (coming soon)](/Segments/Sexuality/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of sexuality section._
+
+</details> <!-- End of Sexuality section !-->
+
+
+***
+
+### [💭️ Opinions](#-Opinions)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+This is considered one of my 3 sensitive areas. I cannot discuss it further here.
+
+- [:octocat: `Opinions`](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
+
+View this segment [in a separate file (coming soon)](/Segments/Opinions/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of opinions section._
+
+</details> <!-- End of Opinions section !-->
 
 ***
 
@@ -3591,6 +3764,12 @@ As of 2022, August 5th, I was forced to delete all 1000 of my organizations. I d
 
 Note: my organizations had multiple purposes, but most of them aimed to serve as a categorized. collection of projects, or a homepage for a project.
 
+View this segment [in a separate file (coming soon)](/Segments/Former-organizations/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of former organizations section._
+
 </details> <!-- End of former organizations section !-->
 
 ---
@@ -3604,6 +3783,12 @@ This Gist helps with:
 * Sorting by language
 * Finding projects through filters
 * Finding additional projects that pass through filters
+
+View this segment [in a separate file (coming soon)](/Segments/Search-my-profile-easier-with-this-helpful-Gist/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of profile search help section._
 
 ---
 
@@ -3672,6 +3857,10 @@ Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com
 </details> <!-- End of overview statistics section !-->
 
 ---
+
+View this segment [in a separate file (coming soon)](/Segments/GitHub-Stats-A/README.md)
+
+<!-- TODO: 2024.04.20 !-->
 
 _End of GitHub Stats A section._
 
@@ -3782,6 +3971,12 @@ https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub
 ---
 
 Full statistics are available at [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_B/)
+
+View this segment [in a separate file (coming soon)](/Segments/GitHub-Stats-B/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of GitHub Stats B section._
 
 </details> <!-- End of GitHub Stats B !-->
 
@@ -4028,6 +4223,12 @@ New limits (proposed 2024.04.06, WIP)
 - 22000000 commits (🔨️ Ban/suspension) (∞ commits)
 - 22222222 commits (🔨️ Ban/suspension) (∞ commits)
 
+View this segment [in a separate file (coming soon)](/Segments/Commit-Count-Milestones/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of Commit Count Milestones section._
+
 </details> <!-- End of CCM section !-->
 
 ---
@@ -4039,6 +4240,8 @@ New limits (proposed 2024.04.06, WIP)
 This section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
 For now, it can be viewed [here instead](/Segments/GitHub-Skyline/README.md)
+
+_End of GitHub Skyline section._
 
 </details> <!-- End of skyline section !-->
 
@@ -4058,7 +4261,11 @@ For now, it can be viewed [here instead](/Segments/GitHub-Skyline/README.md)
 
 ***
 
-End of GitHub social statistics
+_End of GitHub social statistics_
+
+View this segment [in a separate file (coming soon)](/Segments/GitHub-social-statistics/README.md)
+
+<!-- TODO: 2024.04.20 !-->
 
 </details> <!-- End of GitHub Social Statistics section !-->
 
@@ -4096,6 +4303,12 @@ _No other statistics sections available._
 `@alt_accounts`
 
 - [Seanwallawalla](https://github.com/seanwallawalla)
+
+View this segment [in a separate file (coming soon)](/Segments/GitHub-contacts-family/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of GitHub contacts (family) section._
 
 </details> <!-- End of GitHub contacts (family) section !-->
 
@@ -4137,6 +4350,12 @@ The friend ship is now departing. Destination: everywhere.
 
 - [Linus Torvalds](https://github.com/torvalds)
 
+View this segment [in a separate file (coming soon)](/Segments/GitHub-contacts-other/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of GitHub contacts (other) section._
+
 </details> <!-- End of GitHub contacts (other) section !-->
 
 ---
@@ -4150,6 +4369,12 @@ Projects I am actively monitoring:
 - [Linux kernel](https://github.com/torvalds/linux) - The Linux kernel
 - [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - Ruffle, the open source flash player emulator
 - [CPython](https://github.com/python/cpython) - The Python programming language
+
+View this segment [in a separate file (coming soon)](/Segments/Subscriptions/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of subscriptions section._
 
 </details> <!-- End of subscriptions section !-->
 
@@ -4167,6 +4392,24 @@ _End of Friends section_
 
 ***
 
+### [📔️ List of all repositories](#-List-of-all-repositories)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I keep a single list file of all of my source repositories. It is currently a major work in progress.
+
+It can be found [`here`](/RepoList/README.urll)
+
+View this segment [in a separate file (coming soon)](/Segments/List-of-all-repositories/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of list of all repositories section._
+
+</details> <!-- End of list of all repositories section !-->
+
+***
+
 ### [🕸️ Website modules](#-Website-modules)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -4175,9 +4418,17 @@ These website modules are used for maintaining GitHub functionality elsewhere.
 
 [SNU (2D) GitHub mode](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_GitHubMode/) - The GitHub mode submodule for the SNU website framework.
 
+View this segment [in a separate file (coming soon)](/Segments/Website-modules/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of website modules section._
+
 </details> <!-- End of website modules section !-->
 
-### [🗞️ Templates](#-Templates)
+***
+
+### [🗞️ Template projects](#-Template-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -4196,15 +4447,29 @@ These templates are used to increase the efficiency of starting GitHub projects 
 - [Template: GitHub Pages (Default) (V7)](https://github.com/seanpm2001/Template_GitHubPages_Default_V7/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V8 GitHub template (with 12+ variants)
 - **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V7)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V7/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V8 GitHub template (with 12+ variants)
 
+View this segment [in a separate file (coming soon)](/Segments/Template-projects/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of template projects section._
+
 </details> <!-- End of templates section !-->
 
-### [*️⃣️ Other](#-Other)
+***
+
+### [*️⃣️ Other projects](#-Other-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 Other uncategorized projects.
 
 [AUTOMATE-2001](https://github.com/seanpm2001/AUTOMATE-2001/) - A personal use automation tool for automating my automatable tasks on GitHub. It is far from complete, and is not functional yet.
+
+View this segment [in a separate file (coming soon)](/Segments/Other-projects/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of other projects section._
 
 </details> <!-- End of Other section !-->
 
@@ -4215,6 +4480,8 @@ Other uncategorized projects.
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 This is a list of the platforms I develop for:
+
+---
 
 #### [🐧️ Linux platform support](#-Linux-platform-support)
 
@@ -4268,7 +4535,15 @@ This is a list of the platforms I develop for:
 - [ ] ChromeOS/ChromiumOS **NOT SUPPORTED**
 - [x] Android (partially supported)
 
+View this segment [in a separate file (coming soon)](/Segments/Linux-platform-support/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of Linux platform support section._
+
 </details> <!-- End of Linux support section !-->
+
+---
 
 #### [🐡️ BSD platform support](#-BSD-platform-support)
 
@@ -4279,7 +4554,15 @@ This is a list of the platforms I develop for:
 
 I plan to support BSD more in the future when I know more about it. (MacOS counts as BSD, I think)
 
+View this segment [in a separate file (coming soon)](/Segments/BSD-platform-support/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of BSD platform support section._
+
 </details> <!-- End of BSD support section !-->
+
+---
 
 #### [🪟️ Windows platform support](#-Windows-platform-support)
 
@@ -4307,7 +4590,15 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 - [x] Windows 11
 - [ ] Windows Server 2022 (not yet supported, virtual machine setup issues)
 
+View this segment [in a separate file (coming soon)](/Segments/Windows-platform-support/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of Windows platform support section._
+
 </details> <!-- End of Windows support section !-->
+
+---
 
 #### [🔰️ Other platform support](#-Other-platform-support)
 
@@ -4318,7 +4609,21 @@ I plan to support BSD more in the future when I know more about it. (MacOS count
 - [ ] Solaris **NOT SUPPORTED**
 - [x] OpenSolaris (partially supported)
 
+View this segment [in a separate file (coming soon)](/Segments/Other-platform-support/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of other platform support section._
+
 </details> <!-- End of Other platform support section !-->
+
+---
+
+View this segment [in a separate file (coming soon)](/Segments/Platforms-I-develop-for/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of platform support section._
 
 </details> <!-- End of Platforms I develop for section !-->
 
@@ -4381,6 +4686,10 @@ These will be the featured repositories for the time being.
 
 ***
 
+View this segment [in a separate file (coming soon)](/Segments/Repository-of-the-day/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
 _No other featured projects currently listed._
 
 </details> <!-- End of Repository of the day section !-->
@@ -4398,6 +4707,13 @@ _No other projects currently listed._
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my goals</b></p></summary>
 
 Section is currently empty
+***
+
+View this segment [in a separate file (coming soon)](/Segments/My-goals/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other goals currently listed._
 
 </details> <!-- End of My Goals section !-->
 
@@ -4423,6 +4739,12 @@ I renounce all Copyright to my projects, regardless of their license, and replac
 
 - [:octocat: `Contributor License Agreement (CLA)`](https://github.com/seanpm2001/CLA/)
 
+View this segment [in a separate file (coming soon)](/Segments/License/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other license information currently listed._
+
 </details> <!-- End of license section !-->
 
 ***
@@ -4432,6 +4754,12 @@ I renounce all Copyright to my projects, regardless of their license, and replac
 <details><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
 My repositories follow various style guides, which can be found [:octocat: `here`](https://github.com/seanpm2001/Seanpm2001-StyleGuides/)
+
+View this segment [in a separate file (coming soon)](/Segments/Style-guides/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other style guides currently listed._
 
 </details> <!-- End of Style guides section !-->
 
@@ -4505,6 +4833,12 @@ A small repository of mine that showcases repositories that are based around a s
 
 For further information, go to the official [:octocat: `Region-related software repository`](https://github.com/seanpm2001/Region-related-software/)
 
+View this segment [in a separate file (coming soon)](/Segments/Region-related-software/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other region related sofware currently listed._
+
 </details> <!-- End of region related software !-->
 
 ***
@@ -4521,6 +4855,12 @@ Learn is a repository of mine that showcases my knowledge of various programming
 
 **This section needs expansion**
 
+View this segment [in a separate file (coming soon)](/Segments/Learn/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other learn repository information listed._
+
 </details> <!-- End of Learn !-->
 
 ***
@@ -4535,6 +4875,12 @@ AUTOMATE2001 is my personal automation tool. It is a major work in progress.
 
 **This section needs expansion**
 
+View this segment [in a separate file (coming soon)](/Segments/AUTOMATE2001/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other AUTOMATE2001 information listed._
+
 </details> <!-- End of AUTOMATE2001 !-->
 
 ***
@@ -4548,6 +4894,12 @@ Some of my repositories are temporarily private, as they are completely unready 
 As of 2024, Saturday, March 23rd, I have 100 private repositories.
 
 **This section needs expansion**
+
+View this segment [in a separate file (coming soon)](/Segments/Private-repositories/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other private repository information listed._
 
 </details> <!-- End of private repositories !-->
 
@@ -4567,6 +4919,12 @@ Every month, the archive repository of the blog is updated with new data:
 
 **This section needs expansion**
 
+View this segment [in a separate file (coming soon)](/Segments/Raspberry-Pi/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other Raspberry Pi information listed._
+
 </details> <!-- End of Raspberry Pi section !-->
 
 ***
@@ -4578,6 +4936,12 @@ Every month, the archive repository of the blog is updated with new data:
 I had previously feared Artificial Intelligence, as I didn't know much about it. In 2020, I began to experiment with Artificial Intelligence, and by 2022, I had created the [:octocat: `AI2001 repository`](https://github.com/seanpm2001/AI2001/) due to the AI boom caused by ChatGPT. I felt that a more customized AI tool didn't exist, but more importantly, there were no ethical AI projects that I could find. Ethical AI has to be completely open source, and ChatGPT wasn't.
 
 **This section needs expansion**
+
+View this segment [in a separate file (coming soon)](/Segments/Artificial-Intelligence-projects/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other Artificial Intelligence project information listed._
 
 </details> <!-- End of Artificial Intelligence projects section !-->
 
@@ -4593,6 +4957,12 @@ The project can be found [:octocat: `here`](https://github.com/seanpm2001/SeansO
 
 **This section needs expansion**
 
+View this segment [in a separate file (coming soon)](/Segments/SeansOSData-project/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other SeansOSData project information listed._
+
 </details> <!-- End of SeansOSData project section !-->
 
 ***
@@ -4604,6 +4974,12 @@ The project can be found [:octocat: `here`](https://github.com/seanpm2001/SeansO
 I absolutely love virtual machines and emulators. It is one of my favorite things in computing. I have had many virtual machines with VirtualBox, but I have had difficulties in maintaining them. I hope to try out other virtual machines in the future.
 
 **This section needs expansion**
+
+View this segment [in a separate file (coming soon)](/Segments/Virtual-machine-information/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other virtual machine information listed._
 
 </details> <!-- End of Virtual Machine Information section !-->
 
@@ -4633,6 +5009,12 @@ Blockchain and crypto mining is bad for the environment, and it is actively hurt
 
 Nonetheless, due to my follow for follow promise, I still follow a lot of NFT/cryptocurrency bots that follow me.
 
+View this segment [in a separate file (coming soon)](/Segments/Thoughts-on-blockchain-and-web-minus-3/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other thoughts on blockchain and web -3 information listed._
+
 </details> <!-- End of thoughts on blockchain and web -3 section !-->
 
 ***
@@ -4645,7 +5027,13 @@ GitHub released achievements in 2020, with the arctic code vault achievement, an
 
 **This section needs expansion**
 
-</details> <!-- End of GitHUb profile achievements section !-->
+View this segment [in a separate file (coming soon)](/Segments/GitHub-profile-achievements/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other GitHub profile achievements information listed._
+
+</details> <!-- End of GitHub profile achievements section !-->
 
 ***
 
@@ -4656,6 +5044,12 @@ GitHub released achievements in 2020, with the arctic code vault achievement, an
 I refer to my headquarters as the core, and 2001 is its number. 2001 holds a lot of meaning to me. It is the year I was born, and a lot happened on that year. I embrace it as an identity, and have projects named after it (such as seanpm2001, AI2001, the 2001 archive. and more)
 
 **This section needs expansion**
+
+View this segment [in a separate file (coming soon)](/Segments/2001-and-the-core/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other 2001/CORE information listed._
 
 </details> <!-- End of 2001 and the core section !-->
 
@@ -4673,6 +5067,12 @@ Previously, if the account of a fork got suspended/deleted, you could still see 
 
 **This section needs expansion**
 
+View this segment [in a separate file (coming soon)](/Segments/Forks/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other fork information listed._
+
 </details> <!-- End of forks section !-->
 
 ***
@@ -4684,6 +5084,12 @@ Previously, if the account of a fork got suspended/deleted, you could still see 
 I am working on starting my own GNU/Linux User Group. It is a work in progress.
 
 **This section needs expansion**
+
+View this segment [in a separate file (coming soon)](/Segments/Linux-User-Groups/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other Linux User Group information listed._
 
 </details> <!-- End of Linux user groups section !-->
 
@@ -4707,7 +5113,15 @@ This is a series of notes regarding the title and description of repositories. I
 
 </details> <!-- End of RepoData Notes section !-->
 
-</details> <!-- ENd of RepoData section !-->
+---
+
+View this segment [in a separate file (coming soon)](/Segments/RepoData/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_No other RepoData information listed._
+
+</details> <!-- End of RepoData section !-->
 
 ***
 
@@ -4729,9 +5143,13 @@ I give out Saltine Cracker Awards. See the criteria and information about them [
 
 ---
 
+View this segment [in a separate file (coming soon)](/Segments/Awards/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
 _End of awards section_
 
-</details> <!-- End of Awards  section !-->
+</details> <!-- End of Awards section !-->
 
 ***
 
@@ -4778,6 +5196,12 @@ See my year in review for:
 
 [Year 1 (2020-2021)](/Special/Year-in-Review/2020-2021/) [Year 2 (2021-2022) **coming soon**](/Special/Year-in-Review/2021-2022/) 
 
+View this segment [in a separate file (coming soon)](/Segments/README-Usage/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of README Usage section_
+
 </details> <!-- End of README usage section !--> 
 
 ***
@@ -4798,7 +5222,15 @@ This section is used to raise awareness for the problems with DRM, and also to p
 
 Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
+View this segment [in a separate file (coming soon)](/Segments/Software-status/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of Software status section_
+
 </details> <!-- End of Software status section !-->
+
+***
 
 ### [🪄️ Feature requests for GitHub](#-Feature-requests-for-GitHub)
 
@@ -4818,7 +5250,17 @@ There are some features that would be nice for GitHub. They include:
 
 > * Support for Go! (2004 language by Francis McCabe) (to distinguish from Go (2009 Google language))
 
+> * Better documentation for GitHub Emoji Skin tone
+
+> * Repository size information on the repository itself (as GitLab does it)
+
 > * No other requests at the moment
+
+View this segment [in a separate file (coming soon)](/Segments/Feature-requests-for-GitHub/README.md)
+
+<!-- TODO: 2024.04.20 !-->
+
+_End of Feature requests for GitHub section_
 
 </details> <!-- End of GitHub feature requests section !-->
 
@@ -4867,11 +5309,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `103 (2024, Friday, April 19th at 08:13 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,304`
-- **Word count:** `039,104`
-- **Character count (with spaces):** `0,267,049 characters`
-- **Character count (without spaces)** `0,232,563 characters`
+- **File version:** `104 (2024, Saturday, April 20th at 06:10 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,779`
+- **Word count:** `041,236`
+- **Character count (with spaces):** `0,281,377 characters`
+- **Character count (without spaces)** `0,244,838 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5004,7 +5446,6 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 <details><summary><b lang="en">Version 103 (2024, Friday, April 19th at 08:13 pm PST)</b></summary>
 
-
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > **Note** _This is the twenty-eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Thursday, April 18th to 2024, Friday, April 19th, spanning from 07:58 pm on the 18th to 08:11 pm on the 19th, although almost all of the work was done on the 18th. This update doesn't do much in terms of new content, but it greatly improves readability and eligance by adjusting all headings and subheadings to a more suitable level (unfortunately, `<h7>` doesn't exist, so I couldn't do it completely the way I wanted to)_
@@ -5036,11 +5477,39 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 104 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 104 (2024, Saturday, April 20th at 06:10 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the twenty-ninth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Friday, April 19th to 2024, Saturday, April 20th, spanning from 08:15 pm on the 19th to 06:10 pm on the 20th. More work was put in on the second day, with many new segment links, some new sections, and 6 goals completed._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Experimental support for a Markdown feature I can't find the name for (nevermind, I found the name the next day (GitHub: YAML FrontMatter)
+- [x] Added links to segment versions of almost all remaining sections that didn't have one
+- [x] Added the `Politics` section
+- [x] Added the `Sexuality` section
+- [x] Added the `Opinions` section
+- [x] Added the `My server` section
+- [x] Added the `List of all repositories` section
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Profile picture history` section
+- - [x] Added an Internet Archive link
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 104
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 104
 
 </details> <!-- End of V104 !-->
@@ -6113,7 +6582,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 19th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-19th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 20th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-20th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -6148,6 +6617,7 @@ _End of file version history_
 - - [Link to remodel section version 27 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md)
 - - [Link to remodel section version 28 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md)
 - - [Link to remodel section version 29 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md)
+- - [Link to remodel section version 30 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -6221,9 +6691,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0978` (as of V103) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~0991` (as of V104) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V103: `270,961` / `524,288` (`051.681%`))
+- - **Current character count (in bytes):** (as of V104: `285,342` / `524,288` (`054.424%`))
 
 > Memory
 
@@ -6268,7 +6738,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 103 (beta 29)** | _2024, Friday, April 19th_ |
+| **Version 104 (beta 30)** | _2024, Saturday, April 20th_ |
 
 <div align="center">
 
@@ -6280,7 +6750,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/100/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/101/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
@@ -6299,5 +6769,10 @@ You have reached the end of this page.
 ***
 
 <!--TODO
-
+GistHub
+Politics and sexuality links, but not much information on this project alone
+Centering various tables and text
+No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
+Full repository listing (WIP)
+My server and server plans + request for help
 !-->
