@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 29 - 2024, Friday, April 19th` |
+| `Beta 30 - 2024, Saturday, April 20th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 28 days down, 35/36 days to go, as of 2024, Thursday, April 17th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 29 days down, 34/35 days to go, as of 2024, Saturday, April 19th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -73,7 +73,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 27](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
 | [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
 | [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
-| Beta 30 | Coming soon | 29 |
+| [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
 | Beta 31 | Coming soon | 30 |
 | Beta 32 | Coming soon | 31 |
 | Beta 33 | Coming soon | 32 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `38` **/** `235` **tasks** _(016.18%)_ |
-| _as of 2024, Friday, April 19th_ |
+| `32` **/** `235` **tasks** _(013.61%)_ |
+| _as of 2024, Saturday, April 20th_ |
 
-- **Current tasks to do (38 tasks, as of 2024, Friday, April 19th)**
+- **Current tasks to do (38 tasks, as of 2024, Saturday, April 20th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -147,16 +147,11 @@ Résumé at top
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Many modifications to existing text throughout the document
 New translation methods
-No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Section about upcoming projects
 Projects I have contributed to (updates to this section)
-Politics and sexuality links, but not much information on this project alone
 My setup
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
-Centering various tables and text
-My server and server plans + request for help
-GistHub
 Graphic design info (programs used)
 My web stack
 Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
@@ -165,7 +160,6 @@ Certificates
 UnSaaSS project
 Update information about Windows and MacOS support
 Updates to Legend
-Full repository listin (WIP)
 Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
@@ -197,10 +191,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `197` **/** `235` **tasks** _(083.82%)_ |
-| _as of 2024, Friday, April 19th_ |
+| `203` **/** `235` **tasks** _(086.39%)_ |
+| _as of 2024, Saturday, April 20th_ |
 
-- **Tasks implemented so far (197 tasks, as of 2024, Friday, April 19th)**
+- **Tasks implemented so far (203 tasks, as of 2024, Saturday, April 20th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -403,6 +397,12 @@ Get logo for WikiVoyage
 Get logo for Wikimedia Incubator
 Get logo for Wikiversity
 Get logo for Wiktionary
+GistHub
+Politics and sexuality links, but not much information on this project alone
+Centering various tables and text
+No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
+Full repository listing (WIP)
+My server and server plans + request for help
 ```
 
 </details> <!-- End of completed remodel goals section !-->
