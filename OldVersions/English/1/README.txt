@@ -2,13 +2,16 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-20"
-      - version: "v104"
+      - date: "2024-04-21"
+      - version: "v105"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
 - https://github.com/seanpm2001/seanwallawalla    
+defaultPlatform: linux
 ---
+
+> **Note** _This is an experimental Markdown FrontMatter element. Currently, I would like to learn how to hide it in the page while retaining functionality, or place it in a different part of the document. If this isn't possible,_ **it will be disabled and removed.**
 
 <!--
 ---
@@ -103,7 +106,7 @@ _Further instructions not yet available._
 - [2024.04.13] -> [2024.04.16] No updates for this date.
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] -> [2024.04.20] No updates for this date.
+- [2024.04.18] -> [2024.04.21] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -290,7 +293,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 30 - 2024, Saturday, April 20th` |
+| `Beta 31 - 2024, Sunday, April 21st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -301,7 +304,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 29 days down, 34/35 days to go, as of 2024, Saturday, April 19th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 30 days down, 33/34 days to go, as of 2024, Sunday, April 21st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -357,7 +360,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
 | [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
 | [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
-| Beta 31 | Coming soon | 30 |
+| [Beta 31](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
 | Beta 32 | Coming soon | 31 |
 | Beta 33 | Coming soon | 32 |
 | Beta 34 | Coming soon | 33 |
@@ -417,42 +420,40 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `32` **/** `235` **tasks** _(013.61%)_ |
-| _as of 2024, Saturday, April 20th_ |
+| `30` **/** `235` **tasks** _(012.76%)_ |
+| _as of 2024, Sunday, April 21st_ |
 
-- **Current tasks to do (38 tasks, as of 2024, Saturday, April 20th)**
+- **Current tasks to do (30 tasks, as of 2024, Sunday, April 21st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Résumé at top
-Improvements to guestbook display - Dropdown of people who have signed - More links
-Many modifications to existing text throughout the document
-New translation methods
-Section about upcoming projects
-Projects I have contributed to (updates to this section)
-My setup
-New style (custom headings, as images) also dividers
-Improvements to language translation process, and info on this
-Graphic design info (programs used)
-My web stack
-Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
-New icon to center at the top
-Certificates
-UnSaaSS project
-Update information about Windows and MacOS support
-Updates to Legend
-Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
 Add a link to the segment file for each section (WIP)
+Projects I have contributed to (updates to this section)
+Improvements to guestbook display - Dropdown of people who have signed - More links
+Section about upcoming projects
+Graphic design info (programs used)
+Certificates
+UnSaaSS project
+Updates to Legend
 Make non-bitmap version of MEDOS 4 logo
 Make use of video: confetti
 Make use of videos: GitHub weird behavior (2020) take 1 and take 2
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
+Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+My setup
+Résumé at top
+Many modifications to existing text throughout the document
+New translation methods
+New style (custom headings, as images) also dividers
+Improvements to language translation process, and info on this
+My web stack
+New icon to center at the top
 Properly format all img tags
 Keyword: " src=
 Should be replaced with:
@@ -474,10 +475,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `203` **/** `235` **tasks** _(086.39%)_ |
-| _as of 2024, Saturday, April 20th_ |
+| `205` **/** `235` **tasks** _(087.24%)_ |
+| _as of 2024, Sunday, April 21st_ |
 
-- **Tasks implemented so far (203 tasks, as of 2024, Saturday, April 20th)**
+- **Tasks implemented so far (205 tasks, as of 2024, Sunday, April 21st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -686,6 +687,8 @@ Centering various tables and text
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Full repository listing (WIP)
 My server and server plans + request for help
+Nicknames (SEAN9000)
+Update information about Windows and MacOS support
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -956,6 +959,32 @@ View this segment [in a separate file (coming soon)](/Segments/Labels/README.md)
 
 ***
 
+## [⏺️ Nicknames](#-Nicknames)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+My nicknames:
+
+- Sean Language Myrick
+- Seanspokane
+- Seanspokane2015
+- SeanWallaWalla
+- SeanTRM
+- Seanpm2001
+- Seanpm2k1
+- SPM2001
+- SPM
+- SPM2K1
+- SEAN9000
+
+View this segment [in a separate file (coming soon)](/Segments/Nicknames/README.md)
+
+<!-- TODO: 2024.04.21 !-->
+
+</details> <!-- End of nicknames section !-->
+
+***
+
 ## [🪦️ Necroposting](#-Necroposting)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -1061,14 +1090,14 @@ I plan to have a media server in the future. I am currently in the process of se
 
 Right now, the "server" is just 10 external hard drives. It needs a lot of work.
 
-Hard drive capacity: 55 terabytes (along with additional internal hard drives, totaling 8 terabytes, 63 terabytes total)
+Hard drive capacity: 55 terabytes (along with additional internal hard drives, totaling 8 terabytes, 63 terabytes total) if decommissioned hard drives are counted: 76 terabytes
 
 ---
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section (external hard drive listing)]</b></p></summary>
 
-```
-External hard drives
+```plain-text
+External hard drives:
 1: 1 terabyte
 2: 2 terabytes
 3: 4 terabytes
@@ -1087,8 +1116,8 @@ External hard drives
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section (internal hard drive listing)]</b></p></summary>
 
-```
-Internal hard drives
+```plain-text
+Internal hard drives:
 1: 1 terabyte
 2: 1 terabyte
 3: 2 terabytes
@@ -1099,6 +1128,21 @@ Internal hard drives
 
 ---
 
+<details><summary><p><b>[Click/tap here to expand/collapse this section (Decommissioned hard drive listing)]</b></p></summary>
+
+```plain-text
+Decommissioned hard drives:
+1: 250 gigabytes (unknown functionality)
+2: 250 gigabytes (unknown functionality)
+3: 500 gigabytes (unknown functionality)
+4: 1 terabyte (heavy duty, WD Purple)
+5: 1 terabyte (heavy duty, WD Purple)
+6: 8 terabytes (no functionality, my only Seagate hard drive, dead on arrival (total failure within 5 minutes) unbootable)
+```
+
+</details> <!-- End of Decommissioned hard drive listing !-->
+
+---
 - Clusters: None
 - Operating System: Ubuntu 20.04 (prior to 2022) Ubuntu 22.04 (present)
 - RAID: False
@@ -4549,14 +4593,40 @@ _End of Linux platform support section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-- [x] Mac OS X (10.0-12.0) (Partially supported)
+BSD systems I provide software support for.
+
+---
+
+##### [🍎️ MacOS and iOS](#-MacOS-and-iOS)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (MacOS and iOS)]</b></p></summary>
+
+- [x] Mac OS X (10.0-14.0) (Partially supported)
 - [x] iOS (partially supported)
+- [x] iPhoneOS (partially supported)
+- [x] iPadOS (partially supported)
+- [x] watchOS (partially supported)
+
+</details> <!-- End of MacOS and iOS !-->
+
+---
+
+##### [🐡️ Other BSD](#-Other-BSD)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (other BSD)]</b></p></summary>
+
+- [x] FreeBSD (partially supported)
+- [x] DragonflyBSD (partially supported)
+- [x] NetBSD (partially supported)
+- [x] OpenBSD (partially supported)
+
+</details> <!-- End of Other BSD !-->
+
+---
 
 I plan to support BSD more in the future when I know more about it. (MacOS counts as BSD, I think)
 
 View this segment [in a separate file (coming soon)](/Segments/BSD-platform-support/README.md)
-
-<!-- TODO: 2024.04.20 !-->
 
 _End of BSD platform support section._
 
@@ -5309,11 +5379,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `104 (2024, Saturday, April 20th at 06:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `06,779`
-- **Word count:** `041,236`
-- **Character count (with spaces):** `0,281,377 characters`
-- **Character count (without spaces)** `0,244,838 characters`
+- **File version:** `105 (2024, Sunday, April 21st at 08:30 pm PST)`
+- **Line count (including blank lines and compiler line):** `06,891`
+- **Word count:** `041,837`
+- **Character count (with spaces):** `0,285,449 characters`
+- **Character count (without spaces)** `0,248,308 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5321,6 +5391,10 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+View this segment [in a separate file (coming soon)](/Segments/File-info/README.md)
+
+<!-- TODO: 2024.04.21 !-->
 
 </details> <!-- End of File info section !-->
 
@@ -5516,11 +5590,32 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 ---
 
-<details><summary><b lang="en">Version 105 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 105 (2024, Sunday, April 21st at 08:30 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirtieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Saturday, April 20th to 2024, Sunday, April 21st, spanning from 06:13 pm on the 20th to 08:30 pm on the 21st. Not much was done in this update._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Added the `Nicknames` section
+- [x] Updated the `BSD platform support` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 105
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 105
 
 </details> <!-- End of V105 !-->
@@ -6574,6 +6669,10 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 _End of file version history_
 
+View this segment [in a separate file (coming soon)](/Segments/File-history/README.md)
+
+<!-- TODO: 2024.04.21 !-->
+
 </details> <!-- End of file history section !-->
 
 ***
@@ -6582,7 +6681,7 @@ _End of file version history_
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 20th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-20th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 21st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-21st)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -6618,12 +6717,17 @@ _End of file version history_
 - - [Link to remodel section version 28 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md)
 - - [Link to remodel section version 29 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md)
 - - [Link to remodel section version 30 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md)
+- - [Link to remodel section version 31 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md)
 
 </details> <!-- End of remodel history section !-->
 
 ---
 
 _End of remodel history section._
+
+View this segment [in a separate file (coming soon)](/Segments/Remodel-hisotry/README.md)
+
+<!-- TODO: 2024.04.21 !-->
 
 ***
 
@@ -6691,9 +6795,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0991` (as of V104) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~0994` (as of V105) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V104: `285,342` / `524,288` (`054.424%`))
+- - **Current character count (in bytes):** (as of V105: `289,428` / `524,288` (`055.204%`))
 
 > Memory
 
@@ -6701,6 +6805,10 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - **RAM goal:** `>32MB per tab` (Firefox, SeaMonkey, DuckDuckGo, Konqueror, Pale Moon, IceCat) `>256MB per tab (Brave, Google Chrome, Microsoft Edge, Opera, Vivaldi, Google Chromium) ?b per tab (Other)
 
 The limits have been raised on April 2nd to account for significant changes.
+
+View this segment [in a separate file (coming soon)](/Segments/Developer-limits/README.md)
+
+<!-- TODO: 2024.04.21 !-->
 
 </details> <!-- End of developer limits !-->
 
@@ -6738,7 +6846,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 104 (beta 30)** | _2024, Saturday, April 20th_ |
+| **Version 105 (beta 31)** | _2024, Sunday, April 21st_ |
 
 <div align="center">
 
@@ -6750,7 +6858,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/101/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/102/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
@@ -6763,6 +6871,10 @@ You have reached the end of this page.
 |---|---|
 | _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my GitHub profile per day._ | _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my alternative GitHub profile per day._ |
 | _Please account for time zones._ | _The first consecutive snapshot was April 9th GMT, but I use PST, so it was still April 8th when I took the snapshot._ |
+
+View this segment [in a separate file (coming soon)](/Segments/Footer/README.md)
+
+<!-- TODO: 2024.04.21 !-->
 
 </details> <!-- End of profile README !-->
 
