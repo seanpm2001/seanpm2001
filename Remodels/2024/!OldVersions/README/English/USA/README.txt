@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 30 - 2024, Saturday, April 20th` |
+| `Beta 31 - 2024, Sunday, April 21st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 29 days down, 34/35 days to go, as of 2024, Saturday, April 19th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 30 days down, 33/34 days to go, as of 2024, Sunday, April 21st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -74,7 +74,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
 | [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
 | [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
-| Beta 31 | Coming soon | 30 |
+| [Beta 31](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
 | Beta 32 | Coming soon | 31 |
 | Beta 33 | Coming soon | 32 |
 | Beta 34 | Coming soon | 33 |
@@ -134,42 +134,40 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `32` **/** `235` **tasks** _(013.61%)_ |
-| _as of 2024, Saturday, April 20th_ |
+| `30` **/** `235` **tasks** _(012.76%)_ |
+| _as of 2024, Sunday, April 21st_ |
 
-- **Current tasks to do (38 tasks, as of 2024, Saturday, April 20th)**
+- **Current tasks to do (30 tasks, as of 2024, Sunday, April 21st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Résumé at top
-Improvements to guestbook display - Dropdown of people who have signed - More links
-Many modifications to existing text throughout the document
-New translation methods
-Section about upcoming projects
-Projects I have contributed to (updates to this section)
-My setup
-New style (custom headings, as images) also dividers
-Improvements to language translation process, and info on this
-Graphic design info (programs used)
-My web stack
-Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
-New icon to center at the top
-Certificates
-UnSaaSS project
-Update information about Windows and MacOS support
-Updates to Legend
-Nicknames (SEAN9000)
 Add title attribute to all images (WIP)
 Replace all Markdown style images with HTML style images (WIP)
 Add a link to the segment file for each section (WIP)
+Projects I have contributed to (updates to this section)
+Improvements to guestbook display - Dropdown of people who have signed - More links
+Section about upcoming projects
+Graphic design info (programs used)
+Certificates
+UnSaaSS project
+Updates to Legend
 Make non-bitmap version of MEDOS 4 logo
 Make use of video: confetti
 Make use of videos: GitHub weird behavior (2020) take 1 and take 2
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
+Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+My setup
+Résumé at top
+Many modifications to existing text throughout the document
+New translation methods
+New style (custom headings, as images) also dividers
+Improvements to language translation process, and info on this
+My web stack
+New icon to center at the top
 Properly format all img tags
 Keyword: " src=
 Should be replaced with:
@@ -191,10 +189,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `203` **/** `235` **tasks** _(086.39%)_ |
-| _as of 2024, Saturday, April 20th_ |
+| `205` **/** `235` **tasks** _(087.24%)_ |
+| _as of 2024, Sunday, April 21st_ |
 
-- **Tasks implemented so far (203 tasks, as of 2024, Saturday, April 20th)**
+- **Tasks implemented so far (205 tasks, as of 2024, Sunday, April 21st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -403,6 +401,8 @@ Centering various tables and text
 No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
 Full repository listing (WIP)
 My server and server plans + request for help
+Nicknames (SEAN9000)
+Update information about Windows and MacOS support
 ```
 
 </details> <!-- End of completed remodel goals section !-->
