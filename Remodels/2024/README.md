@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 31 - 2024, Sunday, April 21st` |
+| `Beta 32 - 2024, Monday, April 22nd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 30 days down, 33/34 days to go, as of 2024, Sunday, April 21st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 31 days down, 32/33 days to go, as of 2024, Monday, April 22nd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -75,7 +75,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
 | [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
 | [Beta 31](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
-| Beta 32 | Coming soon | 31 |
+| [Beta 32](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
 | Beta 33 | Coming soon | 32 |
 | Beta 34 | Coming soon | 33 |
 | Beta 35 | Coming soon | 34 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `30` **/** `235` **tasks** _(012.76%)_ |
-| _as of 2024, Sunday, April 21st_ |
+| `29` **/** `235` **tasks** _(012.34%)_ |
+| _as of 2024, Monday, April 22nd._ |
 
-- **Current tasks to do (30 tasks, as of 2024, Sunday, April 21st)**
+- **Current tasks to do (29 tasks, as of 2024, Monday, April 22nd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -148,8 +148,7 @@ Replace all Markdown style images with HTML style images (WIP)
 Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
-Section about upcoming projects
-Graphic design info (programs used)
+Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Certificates
 UnSaaSS project
 Updates to Legend
@@ -160,7 +159,7 @@ Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
 Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
-My setup
+My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources
 Résumé at top
 Many modifications to existing text throughout the document
 New translation methods
@@ -189,10 +188,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `205` **/** `235` **tasks** _(087.24%)_ |
-| _as of 2024, Sunday, April 21st_ |
+| `206` **/** `235` **tasks** _(087.66%)_ |
+| _as of 2024, Monday, April 22nd._ |
 
-- **Tasks implemented so far (205 tasks, as of 2024, Sunday, April 21st)**
+- **Tasks implemented so far (206 tasks, as of 2024, Monday, April 22nd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -403,6 +402,7 @@ Full repository listing (WIP)
 My server and server plans + request for help
 Nicknames (SEAN9000)
 Update information about Windows and MacOS support
+Section about upcoming projects
 ```
 
 </details> <!-- End of completed remodel goals section !-->
