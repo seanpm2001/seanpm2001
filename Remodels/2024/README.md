@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 32 - 2024, Monday, April 22nd` |
+| `Beta 33 - 2024, Tuesday, April 23rd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 31 days down, 32/33 days to go, as of 2024, Monday, April 22nd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 32 days down, 31/32 days to go, as of 2024, Tuesday, April 23rd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -76,7 +76,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
 | [Beta 31](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
 | [Beta 32](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
-| Beta 33 | Coming soon | 32 |
+| [Beta 33](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
 | Beta 34 | Coming soon | 33 |
 | Beta 35 | Coming soon | 34 |
 | Beta 36 | Coming soon | 35 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `29` **/** `235` **tasks** _(012.34%)_ |
-| _as of 2024, Monday, April 22nd._ |
+| `28` **/** `235` **tasks** _(011.92%)_ |
+| _as of 2024, Tuesday, April 23rd._ |
 
-- **Current tasks to do (29 tasks, as of 2024, Monday, April 22nd)**
+- **Current tasks to do (28 tasks, as of 2024, Tuesday, April 23rd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -158,7 +158,6 @@ Make use of videos: GitHub weird behavior (2020) take 1 and take 2
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
-Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources
 Résumé at top
 Many modifications to existing text throughout the document
@@ -188,10 +187,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `206` **/** `235` **tasks** _(087.66%)_ |
-| _as of 2024, Monday, April 22nd._ |
+| `207` **/** `235` **tasks** _(088.08%)_ |
+| _as of 2024, Tuesday, April 23rd._ |
 
-- **Tasks implemented so far (206 tasks, as of 2024, Monday, April 22nd)**
+- **Tasks implemented so far (207 tasks, as of 2024, Tuesday, April 23rd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -403,6 +402,7 @@ My server and server plans + request for help
 Nicknames (SEAN9000)
 Update information about Windows and MacOS support
 Section about upcoming projects
+Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
 ```
 
 </details> <!-- End of completed remodel goals section !-->
