@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 33 - 2024, Tuesday, April 23rd` |
+| `Beta 34 - 2024, Wednesday, April 24th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 32 days down, 31/32 days to go, as of 2024, Tuesday, April 23rd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 33 days down, 30/31 days to go, as of 2024, Wednesday, April 24th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -34,16 +34,16 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
-| [Beta 1](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
-| [Beta 2](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
-| [Beta 3](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
-| [Beta 4](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md) | 2024, Monday, March 25th | 03 |
-| [Beta 5](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md) | 2024, Tuesday, March 26th | 04 |
-| [Beta 6](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md) | 2024, Wednesday, March 27th | 05 |
-| [Beta 7](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
-| [Beta 8](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
-| [Beta 9](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
-| [Beta 10](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
+| [`Beta 1`](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
+| [`Beta 2`](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
+| [`Beta 3`](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
+| [`Beta 4`](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md) | 2024, Monday, March 25th | 03 |
+| [`Beta 5`](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md) | 2024, Tuesday, March 26th | 04 |
+| [`Beta 6`](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md) | 2024, Wednesday, March 27th | 05 |
+| [`Beta 7`](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
+| [`Beta 8`](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
+| [`Beta 9`](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
+| [`Beta 10`](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
 
 </details> <!-- End of 2024 March release timeline table !-->
 
@@ -54,30 +54,30 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
-| [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
-| [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
-| [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
-| [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
-| [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
-| [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
-| [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
-| [Beta 18](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
-| [Beta 19](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
-| [Beta 20](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
-| [Beta 21](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
-| [Beta 22](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
-| [Beta 23](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
-| [Beta 24](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
-| [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
-| [Beta 26](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
-| [Beta 27](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
-| [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
-| [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
-| [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
-| [Beta 31](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
-| [Beta 32](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
-| [Beta 33](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
-| Beta 34 | Coming soon | 33 |
+| [`Beta 11`](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
+| [`Beta 12`](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
+| [`Beta 13`](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
+| [`Beta 14`](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
+| [`Beta 15`](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
+| [`Beta 16`](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
+| [`Beta 17`](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
+| [`Beta 18`](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
+| [`Beta 19`](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
+| [`Beta 20`](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
+| [`Beta 21`](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
+| [`Beta 22`](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
+| [`Beta 23`](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
+| [`Beta 24`](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
+| [`Beta 25`](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
+| [`Beta 26`](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
+| [`Beta 27`](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
+| [`Beta 28`](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
+| [`Beta 29`](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
+| [`Beta 30`](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
+| [`Beta 31`](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
+| [`Beta 32`](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
+| [`Beta 33`](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
+| [`Beta 34`](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md) | 2024, Wednesday, April 24th | 33 |
 | Beta 35 | Coming soon | 34 |
 | Beta 36 | Coming soon | 35 |
 | Beta 37 | Coming soon | 36 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `28` **/** `235` **tasks** _(011.92%)_ |
-| _as of 2024, Tuesday, April 23rd._ |
+| `25` **/** `235` **tasks** _(010.64%)_ |
+| _as of 2024, Wednesday, April 24th._ |
 
-- **Current tasks to do (28 tasks, as of 2024, Tuesday, April 23rd)**
+- **Current tasks to do (25 tasks, as of 2024, Wednesday, April 24th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -149,12 +149,9 @@ Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
-Certificates
-UnSaaSS project
+Certificates (WIP)
 Updates to Legend
 Make non-bitmap version of MEDOS 4 logo
-Make use of video: confetti
-Make use of videos: GitHub weird behavior (2020) take 1 and take 2
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
@@ -187,10 +184,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `207` **/** `235` **tasks** _(088.08%)_ |
-| _as of 2024, Tuesday, April 23rd._ |
+| `210` **/** `235` **tasks** _(089.36%)_ |
+| _as of 2024, Wednesday, April 24th._ |
 
-- **Tasks implemented so far (207 tasks, as of 2024, Tuesday, April 23rd)**
+- **Tasks implemented so far (210 tasks, as of 2024, Wednesday, April 24th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -403,6 +400,9 @@ Nicknames (SEAN9000)
 Update information about Windows and MacOS support
 Section about upcoming projects
 Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+UnSaaSS project
+Make use of video: confetti
+Make use of videos: GitHub weird behavior (2022) take 1 and take 2
 ```
 
 </details> <!-- End of completed remodel goals section !-->
