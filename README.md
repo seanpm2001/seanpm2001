@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-23"
-      - version: "v107"
+      - date: "2024-04-24"
+      - version: "v108"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -108,7 +108,7 @@ _Further instructions not yet available._
 - [2024.04.13] -> [2024.04.16] No updates for this date.
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] -> [2024.04.23] No updates for this date.
+- [2024.04.18] -> [2024.04.24] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -456,17 +456,18 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [8.1 - List of all repositories](#List-of-all-repositories)
 - - [8.2 - Website modules](#Website-modules)
 - - [8.3 - Template projects](#Template-projects)
-- - [8.4 - Upcoming projects](#Upcoming-projects)
-- - [8.5 - Other projects](#Other-projects)
-- - [8.6 - Platforms I develop for](#Platforms-I-develop-for)
-- - - [8.6.1 - Linux platform support](#Linux-platform-support)
-- - - [8.6.2 - BSD platform support](#BSD-platform-support)
-- - - - [8.6.2.1 - MacOS and iOS](#MacOS-and-iOS)
-- - - - [8.6.2.2 - Other BSD](#Other-BSD)
-- - - [8.6.3 - Windows platform support](#Windows-platform-support)
-- - - [8.6.4 - Other platform support](#Other-platform-support)
-- - [8.7 - What I'm currently working on](#What-I-am-currently-working-on)
-- - [8.8 - Project of the day](#Project-of-the-day)
+- - [8.4 - UnSaaSS project](#UnSaaSS-project)
+- - [8.5 - Upcoming projects](#Upcoming-projects)
+- - [8.6 - Other projects](#Other-projects)
+- - [8.7 - Platforms I develop for](#Platforms-I-develop-for)
+- - - [8.7.1 - Linux platform support](#Linux-platform-support)
+- - - [8.7.2 - BSD platform support](#BSD-platform-support)
+- - - - [8.7.2.1 - MacOS and iOS](#MacOS-and-iOS)
+- - - - [8.7.2.2 - Other BSD](#Other-BSD)
+- - - [8.7.3 - Windows platform support](#Windows-platform-support)
+- - - [8.7.4 - Other platform support](#Other-platform-support)
+- - [8.8 - What I'm currently working on](#What-I-am-currently-working-on)
+- - [8.9 - Project of the day](#Project-of-the-day)
 - [9.0 - Goals](#Goals)
 - [10.0 Documentation](#Documentation)
 - - [10.1 - License](#License)
@@ -497,6 +498,8 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [10.24 - README usage](#README-usage)
 - - [10.25 - Software status](#Software-status)
 - - [10.26 - Feature requests for GitHub](#Feature-requests-for-GitHub)
+- - [10.27 - Confetti](#Confetti)
+- - [10.28 - GitHub bugs](#GitHub-bugs)
 - [11.0 - About this page](#About-this-page)
 - - [11.1 - Workflows (seanpm2001/seanpm2001)](#Workflows-seanpm2001-seanpm2001)
 - - [11.2 - GitHub:seanpm2001/seanpm2001](#GitHub-seanpm2001-seanpm2001)
@@ -722,6 +725,7 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`List of all repositories`](#List-of-all-repositories) | My projects | My projects | 8 | `h3` |
 | [`Website modules`](#Website-modules) | My projects | My projects | 8 | `h3` |
 | [`Template projects`](#Template-projects) | My projects | My projects | 8 | `h3` |
+| [`UnSaaSS project`](#UnSaaSS-project) | My projects | My projects | 8 | `h3` |
 | [`Upcoming projects`](#Upcoming-projects) | My projects | My projects | 8 | `h3` |
 | [`Other projects`](#Other-projects) | My projects | My projects | 8 | `h3` |
 | [`Platforms I develop for`](#Platforms-I-develop-for) | My projects/platform support | My projects | 8 | `h3` |
@@ -763,6 +767,8 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`README usage`](#README-usage) | Documentation | Documentation | 10 | `h3` |
 | [`Software status`](#Software-status) | Documentation | Documentation | 10 | `h3` |
 | [`Feature requests for GitHub`](#Feature-requests-for-GitHub) | Documentation | Documentation | 10 | `h3` |
+| [`Confetti`](#Confetti) | Documentation | Documentation | 10 | `h3` |
+| [`GitHub bugs`](#GitHub-bugs) | Documentation | Documentation | 10 | `h3` |
 | [`About this page`](#About-this-page) | About this page | About this page | 11 | `h2` |
 | [`Workflows (seanpm2001/seanpm2001)`](#Workflows-seanpm2001-seanpm2001) | About this page | About this page | 11 | `h3` |
 | [`GitHub:seanpm2001/seanpm2001`](#GitHub-seanpm2001-seanpm2001) | About this page | About this page | 11 | `h3` |
@@ -1382,7 +1388,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 33 - 2024, Tuesday, April 23rd` |
+| `Beta 34 - 2024, Wednesday, April 24th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1393,7 +1399,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 32 days down, 31/32 days to go, as of 2024, Tuesday, April 23rd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 33 days down, 30/31 days to go, as of 2024, Wednesday, April 24th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1409,16 +1415,16 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
-| [Beta 1](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
-| [Beta 2](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
-| [Beta 3](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
-| [Beta 4](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md) | 2024, Monday, March 25th | 03 |
-| [Beta 5](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md) | 2024, Tuesday, March 26th | 04 |
-| [Beta 6](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md) | 2024, Wednesday, March 27th | 05 |
-| [Beta 7](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
-| [Beta 8](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
-| [Beta 9](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
-| [Beta 10](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
+| [`Beta 1`](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
+| [`Beta 2`](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
+| [`Beta 3`](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
+| [`Beta 4`](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md) | 2024, Monday, March 25th | 03 |
+| [`Beta 5`](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md) | 2024, Tuesday, March 26th | 04 |
+| [`Beta 6`](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md) | 2024, Wednesday, March 27th | 05 |
+| [`Beta 7`](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
+| [`Beta 8`](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
+| [`Beta 9`](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
+| [`Beta 10`](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
 
 </details> <!-- End of 2024 March release timeline table !-->
 
@@ -1429,30 +1435,30 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
-| [Beta 11](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
-| [Beta 12](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
-| [Beta 13](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
-| [Beta 14](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
-| [Beta 15](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
-| [Beta 16](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
-| [Beta 17](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
-| [Beta 18](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
-| [Beta 19](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
-| [Beta 20](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
-| [Beta 21](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
-| [Beta 22](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
-| [Beta 23](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
-| [Beta 24](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
-| [Beta 25](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
-| [Beta 26](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
-| [Beta 27](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
-| [Beta 28](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
-| [Beta 29](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
-| [Beta 30](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
-| [Beta 31](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
-| [Beta 32](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
-| [Beta 33](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
-| Beta 34 | Coming soon | 33 |
+| [`Beta 11`](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
+| [`Beta 12`](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
+| [`Beta 13`](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
+| [`Beta 14`](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
+| [`Beta 15`](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
+| [`Beta 16`](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
+| [`Beta 17`](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
+| [`Beta 18`](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
+| [`Beta 19`](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
+| [`Beta 20`](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
+| [`Beta 21`](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
+| [`Beta 22`](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
+| [`Beta 23`](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
+| [`Beta 24`](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
+| [`Beta 25`](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
+| [`Beta 26`](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
+| [`Beta 27`](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
+| [`Beta 28`](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
+| [`Beta 29`](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
+| [`Beta 30`](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
+| [`Beta 31`](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
+| [`Beta 32`](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
+| [`Beta 33`](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
+| [`Beta 34`](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md) | 2024, Wednesday, April 24th | 33 |
 | Beta 35 | Coming soon | 34 |
 | Beta 36 | Coming soon | 35 |
 | Beta 37 | Coming soon | 36 |
@@ -1509,10 +1515,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `28` **/** `235` **tasks** _(011.92%)_ |
-| _as of 2024, Tuesday, April 23rd._ |
+| `25` **/** `235` **tasks** _(010.64%)_ |
+| _as of 2024, Wednesday, April 24th._ |
 
-- **Current tasks to do (28 tasks, as of 2024, Tuesday, April 23rd)**
+- **Current tasks to do (25 tasks, as of 2024, Wednesday, April 24th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1524,12 +1530,9 @@ Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
-Certificates
-UnSaaSS project
+Certificates (WIP)
 Updates to Legend
 Make non-bitmap version of MEDOS 4 logo
-Make use of video: confetti
-Make use of videos: GitHub weird behavior (2020) take 1 and take 2
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
@@ -1562,10 +1565,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `207` **/** `235` **tasks** _(088.08%)_ |
-| _as of 2024, Tuesday, April 23rd._ |
+| `210` **/** `235` **tasks** _(089.36%)_ |
+| _as of 2024, Wednesday, April 24th._ |
 
-- **Tasks implemented so far (207 tasks, as of 2024, Tuesday, April 23rd)**
+- **Tasks implemented so far (210 tasks, as of 2024, Wednesday, April 24th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1778,6 +1781,9 @@ Nicknames (SEAN9000)
 Update information about Windows and MacOS support
 Section about upcoming projects
 Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+UnSaaSS project
+Make use of video: confetti
+Make use of videos: GitHub weird behavior (2022) take 1 and take 2
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -5743,6 +5749,24 @@ _End of template projects section._
 
 ***
 
+### [🌫️ UnSaaSS project](#UnSaaSS-project)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+I am opposed to the Service as a Software Substitute (SaaS/SaaSS) model, as it enables closed source software, and creates a system of software, where once the server goes down in the long term, the software can never be used again, and all effort that went into creating it is gone. I want to create permanent software, which is why I use various methods of archival and preservation in my work. The problem with SaaSS prompted me to start the UnSaaSS project, which aims to replicate certain SaaSS software functionality without the requirement of a server, or proprietary closed source software.
+
+The project is a community effort that is currently on hold. It can be found [:octocat: `here (seanpm2001/UnSaaSS)`](https://github.com/seanpm2001/UnSaaSS) note: preserving hyperlinks is one of the last unsolved problems in my archive process.
+
+- See also: [`GNU: Who does that server really serve?`](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
+
+View this segment [in a separate file (coming soon)](/Segments/UnSaaSS-project/README.md)
+
+_End of UnSaaSS project section._
+
+</details> <!-- End of UnSaaSS project section !-->
+
+***
+
 ### [🔜️ Upcoming projects](#-Upcoming-projects)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -6033,6 +6057,7 @@ _No other projects currently listed._
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my goals</b></p></summary>
 
 Section is currently empty
+
 ***
 
 View this segment [in a separate file (coming soon)](/Segments/My-goals/README.md)
@@ -6550,6 +6575,45 @@ _End of Feature requests for GitHub section_
 
 ***
 
+### [🎊️ Confetti](#-Confetti)
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about this page</b></p></summary>
+
+Confetti was introduced to GitHub in late 2021, and appears each time you raise your first discussion. It was really cool to me at the time, so I took a video of it. I have seen it thousands of times now.
+
+GitHub doesn't allow permanent video embed links that let you see the file in the README (like you can do with images) so I am linking to the file for now.
+
+[/Graphics/Confetti/WebM/GitHub_Confetti_2021September30th_WacOS_Cloud_1080p.webm](/Graphics/Confetti/WebM/GitHub_Confetti_2021September30th_WacOS_Cloud_1080p.webm)
+
+View this segment [in a separate file (coming soon)](/Segments/Confetti/README.md)
+
+_End of Confetti section_
+
+</details> <!-- End of confetti section !-->
+
+***
+
+### [🪲️ GitHub bugs](#-GitHub-bugs)
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about this page</b></p></summary>
+
+The GitHub commit calendar commonly glitches out. This is one of the first videos I took of a glitch.
+
+**2021**
+
+- [`Take 1 (bad video)`](/Graphics/Weird-Behavior/GitHub/2022/WebM/GitHub_2022-2023WeirdBehavior_Take1_2020.10.10.webm)
+- [`Take 2 (video)`](/Graphics/Weird-Behavior/GitHub/2022/WebM/GitHub_2022-2023WeirdBehavior_Take2_2020.10.10_1080p.webm)
+
+> **Note:** the file is named incorrectly, referencing the years 2022, 2023, and 2020, but not the actual year of recording (2021)
+
+View this segment [in a separate file (coming soon)](/Segments/GitHub-bugs/README.md)
+
+_End of GitHub bugs section_
+
+</details> <!-- End of GitHub bugs section !-->
+
+***
+
 _End of documentation section._
 
 </details> <!-- End of documentation section !-->
@@ -6593,11 +6657,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `107 (2024, Tuesday, April 23rd at 05:25 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,137`
-- **Word count:** `049,759`
-- **Character count (with spaces):** `0,342,845 characters`
-- **Character count (without spaces)** `0,296,983 characters`
+- **File version:** `108 (2024, Wednesday, April 24th at xx:xx pm PST)`
+- **Line count (including blank lines and compiler line):** `08,225`
+- **Word count:** `050,514`
+- **Character count (with spaces):** `0,347,797 characters`
+- **Character count (without spaces)** `0,301,223 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6904,11 +6968,34 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 108 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 108 (2024, Wednesday, April 24th at 08:25 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirty-third update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Tuesday, April 23rd to 2024, Wednesday, April 24th. Not much was done, I have been trying to clear my task list, a lot of time intensive tasks remain. I completed 3 small ones today_
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Added the `Confetti` section
+- [x] Added the `UnSaaSS project` section
+- [x] Added the `GitHub bugs` section
+- [x] Updated the `Index`
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 108
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 108
 
 </details> <!-- End of V108 !-->
@@ -7939,7 +8026,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 23rd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-23rd)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 24th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-24th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -7978,6 +8065,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 31 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md)
 - - [Link to remodel section version 32 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md)
 - - [Link to remodel section version 33 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md)
+- - [Link to remodel section version 34 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8049,9 +8137,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~0998` (as of V107) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1002` (as of V108) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V107: `346,839` / `524,288` (`066.154%`))
+- - **Current character count (in bytes):** (as of V108: `351,806` / `524,288` (`067.101%`))
 
 > Memory
 
@@ -8098,7 +8186,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 107 (beta 33)** | _2024, Tuesday, April 23rd._ |
+| **Version 108 (beta 34)** | _2024, Wednesday, April 24th._ |
 
 <div align="center">
 
@@ -8110,7 +8198,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/104/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/105/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
