@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-24"
-      - version: "v108"
+      - date: "2024-04-25"
+      - version: "v109"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -108,7 +108,7 @@ _Further instructions not yet available._
 - [2024.04.13] -> [2024.04.16] No updates for this date.
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] -> [2024.04.24] No updates for this date.
+- [2024.04.18] -> [2024.04.25] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -1388,7 +1388,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 34 - 2024, Wednesday, April 24th` |
+| `Beta 35 - 2024, Thursday, April 25th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1399,7 +1399,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 33 days down, 30/31 days to go, as of 2024, Wednesday, April 24th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 34 days down, 29/30 days to go, as of 2024, Thursday, April 25th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1459,7 +1459,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 32`](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
 | [`Beta 33`](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
 | [`Beta 34`](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md) | 2024, Wednesday, April 24th | 33 |
-| Beta 35 | Coming soon | 34 |
+| [`Beta 35`](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md) | 2024, Thursday, April 25th | 34 |
 | Beta 36 | Coming soon | 35 |
 | Beta 37 | Coming soon | 36 |
 | Beta 38 | Coming soon | 37 |
@@ -1515,24 +1515,22 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `25` **/** `235` **tasks** _(010.64%)_ |
-| _as of 2024, Wednesday, April 24th._ |
+| `23` **/** `235` **tasks** _(009.79%)_ |
+| _as of 2024, Thursday, April 25th._ |
 
-- **Current tasks to do (25 tasks, as of 2024, Wednesday, April 24th)**
+- **Current tasks to do (23 tasks, as of 2024, Thursday, April 25th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
 Add title attribute to all images (WIP)
-Replace all Markdown style images with HTML style images (WIP)
 Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Certificates (WIP)
 Updates to Legend
-Make non-bitmap version of MEDOS 4 logo
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
@@ -1565,10 +1563,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `210` **/** `235` **tasks** _(089.36%)_ |
-| _as of 2024, Wednesday, April 24th._ |
+| `212` **/** `235` **tasks** _(090.21%)_ |
+| _as of 2024, Thursday, April 25th._ |
 
-- **Tasks implemented so far (210 tasks, as of 2024, Wednesday, April 24th)**
+- **Tasks implemented so far (212 tasks, as of 2024, Thursday, April 25th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1784,6 +1782,8 @@ Rework of index | Make an alternative format view similar to the way it was done
 UnSaaSS project
 Make use of video: confetti
 Make use of videos: GitHub weird behavior (2022) take 1 and take 2
+Make non-bitmap version of MEDOS 4 logo
+Replace all Markdown style images with HTML style images (completed, with 9 exceptions)
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -5114,7 +5114,7 @@ _End of Technology section._
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my statistics</b></p></summary>
 
----
+***
 
 ### [🅰️ GitHub Stats A](#-GitHubp-Stats-A)
 
@@ -5130,35 +5130,41 @@ Stats generated from [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of all time (as of 2023, September 21st) (overview) | (languages) |
+| Best of all time (2023, September 21st) (overview) | (languages) |
 |---|---|
-| <img src="(/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/overview_2023September21st.svg" alt="2023.09.21 Stats" title="2023 September 21st GitHub stats (overview)" width="360" height="210"> | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/languages_2023September21st.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/overview_2023September21st.svg" alt="2023.09.21 Stats" title="2023 September 21st GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/languages_2023September21st.svg" alt="2023.09.21 languages" title="2023 September 21st GitHub stats (languages)" width="360" height="210">
+| Best of all time (2023, September 21st) (overview) | (languages) |
 
-_Still the best run, as of 2024, Sunday, March 24th._
+_Still the best run, as of 2024, Thursday, April 25th._
 
 </details> <!-- End of 2023, September 21st overview statistics section !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of 2023 (as of 2023, May 20th) (overview) | (languages) |
+| Best of 2023 (2023, May 20th) (overview) | (languages) |
 |---|---|
-| ![2022.05.20 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/overview_2023May20th.svg) | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/languages_2023May20th.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/overview_2023May20th.svg" alt="2023.05.20 Stats" title="2023 May 20th GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/languages_2023May20th.svg" alt="2023.05.20 stats" title="2023 May 20th GitHub stats (languages)" width="360" height="210">
+| Best of 2023 (2023, May 20th) (overview) | (languages) |
 
 </details> <!-- End of 2023, May 20th overview statistics section !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of 2023 (as of 2023, February 28th, first run this year) (overview) | (languages) |
+| Best of 2023 (2023, February 28th) (overview) | (languages) |
 |---|---|
-| ![2022.02.28 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Overview_GitHubStatsA_2023February28th.svg) | ![2022.02.28 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Languages_GitHubStatsA_2023February28th.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Overview_GitHubStatsA_2023February28th.svg" alt="2022.02.28 Stats" title="2023 February 28th GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Languages_GitHubStatsA_2023February28th.svg" al="2022.02.28 languages" title="2023 February 28th GitHub stats (languages)" width="360" height="210"> |
+| Best of 2023 (2023, February 28th) (overview) | (languages) |
+
+> **Note** _First run this year (2023)_
 
 </details> <!-- End of 2023, February 28th overview statistics section !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of 2022 (as of 2022, December 12th) (overview) | (languages) |
+| Best of 2022 (2022, December 12th) (overview) | (languages) |
 |---|---|
-![2022.12.12 Stats](/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Languages_GitHubStatsA_2022December12th.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Overview_GitHubStatsA_2022December12th.svg" alt="2022.12.12 Stats" title="2022 December 12th GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Languages_GitHubStatsA_2022December12th.svg" alt="2022.12.12 languages" title="2022 December 12th GitHub stats (languages)" width="360" height="210"> |
+| Best of 2022 (2022, December 12th) (overview) | (languages) |
 
 </details> <!-- End of 20232, December 12th overview statistics section !-->
 
@@ -5176,7 +5182,7 @@ _End of GitHub Stats A section._
 
 </details> <!-- End of GitHub Stats A section !-->
 
----
+***
 
 ### [🅱️ GitHub Stats B](#-GitHub-Stats-B)
 
@@ -6657,11 +6663,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `108 (2024, Wednesday, April 24th at xx:xx pm PST)`
-- **Line count (including blank lines and compiler line):** `08,225`
-- **Word count:** `050,514`
-- **Character count (with spaces):** `0,347,797 characters`
-- **Character count (without spaces)** `0,301,223 characters`
+- **File version:** `109 (2024, Thursday, April 25th at 10:35 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,254`
+- **Word count:** `050,918`
+- **Character count (with spaces):** `0,350,450 characters`
+- **Character count (without spaces)** `0,303,478 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7002,11 +7008,33 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 109 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 109 (2024, Thursday, April 25th at 10:35 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirty-fourth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Wednesday, April 24th to 2024, Thursday, April 25th. Todays update was small again, with two goals achieved (one of the goals was for something outside of the README: The non-bitmap version of the MEDOS Beta 4 logo) all image links have been converted from Markdown to HTML style, with 9 exceptions (more complicated links) additionally, the goal incompletion percentage dropped below 10% today._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `GitHub Stats A` section
+- - [x] Replaced 7 image links with HTML styled image links
+- - [x] Fixed 1 broken link
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 109
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 109
 
 </details> <!-- End of V109 !-->
@@ -8026,7 +8054,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 24th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-24th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 25th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-25th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8066,6 +8094,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 32 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md)
 - - [Link to remodel section version 33 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md)
 - - [Link to remodel section version 34 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md)
+- - [Link to remodel section version 35 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8137,9 +8166,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1002` (as of V108) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1002` (as of V109) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V108: `351,806` / `524,288` (`067.101%`))
+- - **Current character count (in bytes):** (as of V109: `354,459` / `524,288` (`067.607%`))
 
 > Memory
 
@@ -8186,7 +8215,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 108 (beta 34)** | _2024, Wednesday, April 24th._ |
+| **Version 109 (beta 35)** | _2024, Thursday, April 25th._ |
 
 <div align="center">
 
@@ -8198,7 +8227,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/105/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/106/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
