@@ -1,5 +1,5 @@
 
----
+***
 
 ### [🅰️ GitHub Stats A](#-GitHubp-Stats-A)
 
@@ -9,41 +9,47 @@ Stats generated from [:octocat: `GitHub_Stats_A`](https://github.com/seanpm2001/
 
 ---
 
-#### [📉️ Overview statistics](#-Overview-statistics)
+#### [📉️ Overview statistics for GitHub Stats A](#-Overview-statistics-for-GitHub-Stats-A)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of all time (as of 2023, September 21st) (overview) | (languages) |
+| Best of all time (2023, September 21st) (overview) | (languages) |
 |---|---|
-| <img src="(/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/overview_2023September21st.svg" alt="2023.09.21 Stats" title="2023 September 21st GitHub stats (overview)" width="360" height="210"> | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/languages_2023September21st.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/overview_2023September21st.svg" alt="2023.09.21 Stats" title="2023 September 21st GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/09_September/21/languages_2023September21st.svg" alt="2023.09.21 languages" title="2023 September 21st GitHub stats (languages)" width="360" height="210">
+| Best of all time (2023, September 21st) (overview) | (languages) |
 
-_Still the best run, as of 2024, Sunday, March 24th._
+_Still the best run, as of 2024, Thursday, April 25th._
 
 </details> <!-- End of 2023, September 21st overview statistics section !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of 2023 (as of 2023, May 20th) (overview) | (languages) |
+| Best of 2023 (2023, May 20th) (overview) | (languages) |
 |---|---|
-| ![2022.05.20 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/overview_2023May20th.svg) | ![2022.05.20 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/languages_2023May20th.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/overview_2023May20th.svg" alt="2023.05.20 Stats" title="2023 May 20th GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/05_May/20/languages_2023May20th.svg" alt="2023.05.20 stats" title="2023 May 20th GitHub stats (languages)" width="360" height="210">
+| Best of 2023 (2023, May 20th) (overview) | (languages) |
 
 </details> <!-- End of 2023, May 20th overview statistics section !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of 2023 (as of 2023, February 28th, first run this year) (overview) | (languages) |
+| Best of 2023 (2023, February 28th) (overview) | (languages) |
 |---|---|
-| ![2022.02.28 Stats](/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Overview_GitHubStatsA_2023February28th.svg) | ![2022.02.28 languages](/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Languages_GitHubStatsA_2023February28th.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Overview_GitHubStatsA_2023February28th.svg" alt="2022.02.28 Stats" title="2023 February 28th GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2023/02_February/28/Languages_GitHubStatsA_2023February28th.svg" al="2022.02.28 languages" title="2023 February 28th GitHub stats (languages)" width="360" height="210"> |
+| Best of 2023 (2023, February 28th) (overview) | (languages) |
+
+> **Note** _First run this year (2023)_
 
 </details> <!-- End of 2023, February 28th overview statistics section !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
-| Best of 2022 (as of 2022, December 12th) (overview) | (languages) |
+| Best of 2022 (2022, December 12th) (overview) | (languages) |
 |---|---|
-![2022.12.12 Stats](/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Overview_GitHubStatsA_2022December12th.svg) | ![2022.12.12 languages](/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Languages_GitHubStatsA_2022December12th.svg) |
+| <img src="/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Overview_GitHubStatsA_2022December12th.svg" alt="2022.12.12 Stats" title="2022 December 12th GitHub stats (overview)" width="360" height="210"> | <img src="/Graphics/GitHub_Stats_A/Best-runs/2022/12_December/12/Languages_GitHubStatsA_2022December12th.svg" alt="2022.12.12 languages" title="2022 December 12th GitHub stats (languages)" width="360" height="210"> |
+| Best of 2022 (2022, December 12th) (overview) | (languages) |
 
 </details> <!-- End of 20232, December 12th overview statistics section !-->
 
@@ -57,10 +63,8 @@ Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com
 
 View this segment [in a separate file (coming soon)](/Segments/GitHub-Stats-A/README.md)
 
-<!-- TODO: 2024.04.20 !-->
-
 _End of GitHub Stats A section._
 
 </details> <!-- End of GitHub Stats A section !-->
 
----
+***
