@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-25"
-      - version: "v109"
+      - date: "2024-04-26"
+      - version: "v110"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -108,7 +108,7 @@ _Further instructions not yet available._
 - [2024.04.13] -> [2024.04.16] No updates for this date.
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] -> [2024.04.25] No updates for this date.
+- [2024.04.18] -> [2024.04.26] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -414,14 +414,15 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [2.27 - Green team](#Green-team)
 - - [2.28 - Computer user type](#Computer-user-type)
 - - [2.29 - Education](#Education)
-- - [2.30 - GitHub Developer Program](#GitHub Developer Program)
-- - - [2.30.1 - Extensions](#Extensions)
-- - - [2.30.2 - Marketplace](#Marketplace)
-- - - - [2.30.2.1 - My actions](#My-actions)
-- - - - [2.30.2.2 - My CI workflows](#My-CI-workflows)
-- - - [2.30.3 - Information](#Information)
-- - [2.31 - Frequently Asked Questions](#Frequently-Asked-Questions)
-- - [2.32 - GitHub Profile Template](#GitHub-Profile-Template)
+- - [2.30 - Certifications](#Certifications)
+- - [2.31 - GitHub Developer Program](#GitHub Developer Program)
+- - - [2.31.1 - Extensions](#Extensions)
+- - - [2.31.2 - Marketplace](#Marketplace)
+- - - - [2.31.2.1 - My actions](#My-actions)
+- - - - [2.31.2.2 - My CI workflows](#My-CI-workflows)
+- - - [2.31.3 - Information](#Information)
+- - [2.32 - Frequently Asked Questions](#Frequently-Asked-Questions)
+- - [2.33 - GitHub Profile Template](#GitHub-Profile-Template)
 - [3.0 - Life](#Life)
 - - [3.1 - Personal](#Personal)
 - - [3.2 - Politics](#Politics)
@@ -683,6 +684,7 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Green team`](#Green-team) | Bio | About me | 2 | `h3` |
 | [`Computer user type`](#Computer-user-type) | Bio | About me | 2 | `h3` |
 | [`Education`](#Education) | Bio | About me | 2 | `h3` |
+| [`Cerifications`](#Certifications) | Bio | About me | 2 | `h3` |
 | [`GitHub Developer Program`](#GitHub-Developer-Program) | Bio/GitHub Developer Program | About me | 2 | `h3` |
 | [`Extensions`](#Extensions) | Bio/GitHub Developer Program | About me | 2 | `h4` |
 | [`Marketplace`](#Marketplace) | Bio/GitHub Developer Program | About me | 2 | `h4` |
@@ -958,6 +960,7 @@ This guestbook is for basic interaction, and communications. For further communi
 ###Green team
 ###Computer user type
 ###Education
+###Certifications
 ###GitHub Developer Program
 ####Extensions
 ####Marketplace
@@ -1000,6 +1003,7 @@ This guestbook is for basic interaction, and communications. For further communi
 ###List of all repositories
 ###Website modules
 ###Template projects
+###UnSaaSS
 ###Upcoming projects
 ###Other projects
 ###Platforms I develop for
@@ -1041,6 +1045,8 @@ This guestbook is for basic interaction, and communications. For further communi
 ###README usage
 ###Software status
 ###Feature requests for GitHub
+###Confetti
+###GitHub bugs 
 ##About this page
 ###Workflows (seanpm2001/seanpm2001)
 ###GitHub:seanpm2001/seanpm2001
@@ -1223,6 +1229,7 @@ This guestbook is for basic interaction, and communications. For further communi
 #Green team
 #Computer user type
 #Education
+#Certifications
 #GitHub Developer Program
 #Extensions
 #Marketplace
@@ -1265,6 +1272,7 @@ This guestbook is for basic interaction, and communications. For further communi
 #List of all repositories
 #Website modules
 #Template projects
+#UnSaaSS
 #Upcoming projects
 #Other projects
 #Platforms I develop for
@@ -1306,6 +1314,8 @@ This guestbook is for basic interaction, and communications. For further communi
 #README usage
 #Software status
 #Feature requests for GitHub
+#Confetti
+#GitHub bugs 
 #About this page
 #Workflows (seanpm2001/seanpm2001)
 #GitHub:seanpm2001/seanpm2001
@@ -1388,7 +1398,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 35 - 2024, Thursday, April 25th` |
+| `Beta 36 - 2024, Friday, April 26th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1399,7 +1409,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 34 days down, 29/30 days to go, as of 2024, Thursday, April 25th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 35 days down, 28/29 days to go, as of 2024, Friday, April 26th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1460,7 +1470,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 33`](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
 | [`Beta 34`](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md) | 2024, Wednesday, April 24th | 33 |
 | [`Beta 35`](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md) | 2024, Thursday, April 25th | 34 |
-| Beta 36 | Coming soon | 35 |
+| [`Beta 36`](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md) | 2024, Friday, April 26th | 35 |
 | Beta 37 | Coming soon | 36 |
 | Beta 38 | Coming soon | 37 |
 | Beta 39 | Coming soon | 38 |
@@ -1515,10 +1525,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `23` **/** `235` **tasks** _(009.79%)_ |
-| _as of 2024, Thursday, April 25th._ |
+| `22` **/** `235` **tasks** _(009.36%)_ |
+| _as of 2024, Friday, April 26th._ |
 
-- **Current tasks to do (23 tasks, as of 2024, Thursday, April 25th)**
+- **Current tasks to do (22 tasks, as of 2024, Friday, April 26th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1529,7 +1539,6 @@ Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
-Certificates (WIP)
 Updates to Legend
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
@@ -1563,10 +1572,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `212` **/** `235` **tasks** _(090.21%)_ |
-| _as of 2024, Thursday, April 25th._ |
+| `213` **/** `235` **tasks** _(090.64%)_ |
+| _as of 2024, Friday, April 26th._ |
 
-- **Tasks implemented so far (212 tasks, as of 2024, Thursday, April 25th)**
+- **Tasks implemented so far (213 tasks, as of 2024, Friday, April 26th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1784,6 +1793,7 @@ Make use of video: confetti
 Make use of videos: GitHub weird behavior (2022) take 1 and take 2
 Make non-bitmap version of MEDOS 4 logo
 Replace all Markdown style images with HTML style images (completed, with 9 exceptions)
+Certificates
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -4725,6 +4735,26 @@ View this segment [`in a separate file`](/Segments/Education/README.md)
 
 ***
 
+### [🧾️ Certifications](#-Certifications)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+During my time in High School, I went through a Microsoft Office course, and was certified to be a Microsoft Office specialist in Word 2013, Excel 2013, PowerPoint 2013, and Access 2013. Less than 3 years after gaining these certificates, I completely stopped using Microsoft Office in favor of LibreOffice, with rare exceptions for Virtual Machine usage. I feel the certifications are still helpful, as the knowledge carries on to other programs (LibreOffice Writer, LibreOffice Sheets, LibreOffice Impress, LibreOffice Data)
+
+| 🎓️ Microsoft Word certificate 📃️ | 🎓️ Microsoft Excel certificate 📊️ |
+|---|---|
+| <img src="/Graphics/Certificates/Microsoft/Word-2013/20240426_105751.jpg" alt="Microsoft Word certificate image failed to load" title="Microsoft Word 2013 specialist certificate" width="403" height="302"> | <img src="/Graphics/Certificates/Microsoft/Excel-2013/20240426_105542.jpg" alt="Microsoft Excel certificate image failed to load" title="Microsoft Excel 2013 specialist certificate" width="403" height="302"> |
+| <img src="/Graphics/Certificates/Microsoft/PowerPoint-2013/20240426_105634.jpg" alt="Microsoft PowerPoint certificate image failed to load" title="Microsoft PowerPoint 2013 specialist certificate" width="403" height="302"> | <img src="/Graphics/Certificates/Microsoft/Access-2013/20240426_105912.jpg" alt="Microsoft Access certificate image failed to load" title="Microsoft Access 2013 specialist certificate" width="403" height="302"> |
+| 🎓️ Microsoft PowerPoint certificate 📽️ | 🎓️ Microsoft Access certificate 🗄️ |
+
+> **Note:** When I took these off my wall to get pictures on 2024, Friday, April 26th, I had some issues with reflections and glare. I also broke one of the frames, and will need to get a replacement.
+
+View this segment [`in a separate file`](/Segments/Certifications/README.md)
+
+</details> <!-- End of Certifications section !-->
+
+***
+
 ### [👩‍💻️ GitHub developer program](#-GitHub-developer-program)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -6663,11 +6693,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `109 (2024, Thursday, April 25th at 10:35 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,254`
-- **Word count:** `050,918`
-- **Character count (with spaces):** `0,350,450 characters`
-- **Character count (without spaces)** `0,303,478 characters`
+- **File version:** `110 (2024, Friday, April 26th at 02:17 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,306`
+- **Word count:** `051,420`
+- **Character count (with spaces):** `0,354,019 characters`
+- **Character count (without spaces)** `0,306,557 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7041,11 +7071,32 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 110 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 110 (2024, Friday, April 26th at 02:17 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirty-fifth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Thursday, April 25th to 2024, Friday, April 26th._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Added the `Certifications` section
+- [x] Updated the `Index`
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 110
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 110
 
 </details> <!-- End of V110 !-->
@@ -8054,7 +8105,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 25th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-25th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 26th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-26th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8095,6 +8146,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 33 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md)
 - - [Link to remodel section version 34 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md)
 - - [Link to remodel section version 35 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md)
+- - [Link to remodel section version 36 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8166,9 +8218,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1002` (as of V109) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1013` (as of V110) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V109: `354,459` / `524,288` (`067.607%`))
+- - **Current character count (in bytes):** (as of V110: `358,073` / `524,288` (`068.297%`))
 
 > Memory
 
@@ -8215,7 +8267,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 109 (beta 35)** | _2024, Thursday, April 25th._ |
+| **Version 110 (beta 36)** | _2024, Friday, April 26th._ |
 
 <div align="center">
 
@@ -8227,7 +8279,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/106/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/107/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
