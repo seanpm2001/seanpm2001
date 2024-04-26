@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 35 - 2024, Thursday, April 25th` |
+| `Beta 36 - 2024, Friday, April 26th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 34 days down, 29/30 days to go, as of 2024, Thursday, April 25th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 35 days down, 28/29 days to go, as of 2024, Friday, April 26th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -79,7 +79,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 33`](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
 | [`Beta 34`](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md) | 2024, Wednesday, April 24th | 33 |
 | [`Beta 35`](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md) | 2024, Thursday, April 25th | 34 |
-| Beta 36 | Coming soon | 35 |
+| [`Beta 36`](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md) | 2024, Friday, April 26th | 35 |
 | Beta 37 | Coming soon | 36 |
 | Beta 38 | Coming soon | 37 |
 | Beta 39 | Coming soon | 38 |
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `23` **/** `235` **tasks** _(009.79%)_ |
-| _as of 2024, Thursday, April 25th._ |
+| `22` **/** `235` **tasks** _(009.36%)_ |
+| _as of 2024, Friday, April 26th._ |
 
-- **Current tasks to do (23 tasks, as of 2024, Thursday, April 25th)**
+- **Current tasks to do (22 tasks, as of 2024, Friday, April 26th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -148,7 +148,6 @@ Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
-Certificates (WIP)
 Updates to Legend
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
@@ -182,10 +181,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `212` **/** `235` **tasks** _(090.21%)_ |
-| _as of 2024, Thursday, April 25th._ |
+| `213` **/** `235` **tasks** _(090.64%)_ |
+| _as of 2024, Friday, April 26th._ |
 
-- **Tasks implemented so far (212 tasks, as of 2024, Thursday, April 25th)**
+- **Tasks implemented so far (213 tasks, as of 2024, Friday, April 26th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -403,6 +402,7 @@ Make use of video: confetti
 Make use of videos: GitHub weird behavior (2022) take 1 and take 2
 Make non-bitmap version of MEDOS 4 logo
 Replace all Markdown style images with HTML style images (completed, with 9 exceptions)
+Certificates
 ```
 
 </details> <!-- End of completed remodel goals section !-->
