@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-27"
-      - version: "v111"
+      - date: "2024-04-28"
+      - version: "v112"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -57,6 +57,7 @@ categories: bio
 | [![Seanpm2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpm2001)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my older GitHub statistics. They may be more accurate than the new stats. This particular card tends to not always load upon loading my profile. Refresh to fix it if it shows up as a blue link. |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpm2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | The left column shows my top 5 languages. They are more accurate than the new counter on most days. |
 | <!--![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only)!--> [Source repository for new GitHub stats](https://github.com/seanpm2001/GitHub_Stats_A/) There are some problems with the data set, you should read the docs for further information. Common problems include: the numbers going down when they should be going up, not all data being represented (only the past 365 days of activity) | ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/seanpm2001/GitHub_Stats_A/master/generated/languages.svg#gh-dark-mode-only) |
+| GitHub Stats (classic, added on 2021 December 29th) | GitHub Stats (new, improved, added on 2022 June 12th) |
 
 Most of this section has been temporarily removed (on 2024, Friday, April 5th) as GitHub couldn't render the file with it, due to its size.
 
@@ -108,7 +109,7 @@ _Further instructions not yet available._
 - [2024.04.13] -> [2024.04.16] No updates for this date.
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] -> [2024.04.27] No updates for this date.
+- [2024.04.18] -> [2024.04.28] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -1410,7 +1411,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 37 - 2024, Saturday, April 27th` |
+| `Beta 38 - 2024, Sunday, April 28th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1421,7 +1422,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 36 days down, 27/28 days to go, as of 2024, Saturday, April 27th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 37 days down, 26/27 days to go, as of 2024, Sunday, April 28th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1484,7 +1485,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 35`](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md) | 2024, Thursday, April 25th | 34 |
 | [`Beta 36`](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md) | 2024, Friday, April 26th | 35 |
 | [`Beta 37`](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md) | 2024, Saturday, April 27th | 36 |
-| Beta 38 | Coming soon | 37 |
+| [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
 | Beta 39 | Coming soon | 38 |
 | Beta 40 | Coming soon | 39 |
 
@@ -1537,10 +1538,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `20` **/** `235` **tasks** _(008.52%)_ |
-| _as of 2024, Saturday, April 27th._ |
+| `19` **/** `235` **tasks** _(008.09%)_ |
+| _as of 2024, Sunday, April 28th._ |
 
-- **Current tasks to do (20 tasks, as of 2024, Saturday, April 27th)**
+- **Current tasks to do (19 tasks, as of 2024, Sunday, April 28th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1552,8 +1553,7 @@ Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
-Make use of image: GitHub/Mona
-My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources
+My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
 Résumé at top
 Many modifications to existing text throughout the document
 New translation methods
@@ -1582,10 +1582,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `215` **/** `235` **tasks** _(091.48%)_ |
-| _as of 2024, Saturday, April 27th._ |
+| `216` **/** `235` **tasks** _(091.91%)_ |
+| _as of 2024, Sunday, April 28th._ |
 
-- **Tasks implemented so far (215 tasks, as of 2024, Saturday, April 27th)**
+- **Tasks implemented so far (216 tasks, as of 2024, Sunday, April 28th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1806,6 +1806,7 @@ Replace all Markdown style images with HTML style images (completed, with 9 exce
 Certificates
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
+Make use of image: GitHub/Mona
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -5012,6 +5013,85 @@ _No other entries about my life are available here._)
 
 ### [🛳️ My current setup](#-My-current-setup)
 
+> **Note** **This section is being remodeled**
+
+- **Plans**
+
+```markdown
+<h1 align="center"></h1>
+<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
+<table>
+  <tr>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+    <td><img src="" alt="" title="" width="100" height="100"></td>
+  </tr>
+</table>
+```
+
+**The plan (2024 April)**
+
+```
+A flow chart of systems
+
+Top table
+
+Current system
+
+Specs, OS logo
+
+Program listing
+
+Firefox, VLC Media Player, and Steam have their own separate mini tables
+
+Goes all the way back
+
+System list
+
+Laptops
+
+System76 Oryx Pro
+System76 Pangolin
+Dell XPS 13 (2)
+Dell XPS 13 (1)
+Dell ?? 
+Dell ??
+Samsung ??
+
+Desktops
+
+HP ??
+
+Consoles
+
+Nintendo 2DS
+Nintendo Wii
+Nintendo Switch
+XBOX (2001)
+
+Phones and PDAs
+
+Samsung Galaxy S2
+Samsung Galaxy S3
+Samsung Galaxy Core Prime (1)
+Samsung Galaxy Core Prime (2)
+Samsung Galaxy S7 Edge
+Samsung Galaxy S20 FE 5G
+
+OSData entries
+```
+
 This section is for information regarding my current work setup (as of March 26th 2021)
 
 <details><summary>[Click/tap here to expand/collapse the list about my current hardware setup]</summary>
@@ -5030,13 +5110,33 @@ See also: [`#My-Server`](#-My-Server)
 
 > **Note** _Outdated, as of 2023, January 1st_
 
+##### [💻️ Current laptop software](#-Current-laptop-software)
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| System76 Oryx Pro (2023) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| System76 Pangolin (2022) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Dell XPS 13 2 (2021) |
+|---|
+
 ```
 VLC Media Player 3.0.11
 Konsole
 GNOME System Monitor
 Gedit
 GNOME Clocks
-Mozilla Firefox 84.0.1 (a bit outdated) - on laptop 1, Mozilla Firefox 88.0 (on laptop 2)
+Mozilla Firefox 88.0 (on laptop 2)
 GNOME Files/Nautilus
 GNOME Calculator
 GNOME Extensions
@@ -5059,7 +5159,116 @@ Ubuntu 20.04 LTS
 Other/unknown
 ```
 
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Dell XPS 13 1 (2020) |
+|---|
+
+```
+VLC Media Player 3.0.11
+Konsole
+GNOME System Monitor
+Gedit
+GNOME Clocks
+Mozilla Firefox 84.0.1 (a bit outdated)
+GNOME Files/Nautilus
+GNOME Calculator
+GNOME Extensions
+GNOME Settings
+LibreOffice 6.4.6.2 {
+	LibreOffice Writer 6.4.6.2 (complete open-source alternative to Microsoft Word)
+	LibreOffice Calc 6.4.6.2 (complete open-source alternative to Microsoft Excel)
+	LibreOffice Impress 6.4.6.2 (complete open-source alternative to Microsoft PowerPoint)	
+	LibreOffice Base 6.4.6.2 (complete open-source alternative to Microsoft Access)
+}
+VirtualBox 6.1.10 (a bit outdated) - Not currently in use
+Inkscape - Not currently in use
+GIMP 2.10
+Mari0 (possibly proprietary)
+Okular
+Typora (proprietary) - No longer used
+Audacity 2.10 - No longer used
+Notepad++ (running on WINE) - No longer used
+Ubuntu 20.04 LTS
+Other/unknown
+```
+
+##### [🖥️ Current desktop software](#-Current-desktop-software)
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Dell server tower (2023) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Dell tower (2015) |
+|---|
+
+##### [📱️ Current PDA/Phone/Tablet software](#-Current-desktop-software)
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| iPod Touch 4th generation 1 (2009) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| iPod Touch 4th generation 2 (2010) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| iPod Touch 5th generation (2012) |
+|---|
+
+| Samsung Galaxy SII (????) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Samsung Galaxy S3 (????) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Samsung Galaxy Core Prime 1 (2014) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Samsung Galaxy Core Prime 2 (2015) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Samsung Galaxy S7 Edge (2015) |
+|---|
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Samsung Galaxy S20 FE 5G (2020) |
+|---|
+
 </details> <!-- End of current software section !-->
+
+View this segment [in a separate file (coming soon)](/Segments/My-current-setup/README.md)
+
+_End of My Current Setup section._
 
 ***
 
@@ -6518,11 +6727,11 @@ _End of awards section_
 
 ### [📄️ README usage](#-README-usage)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 **This README file is now being aimed to be a portal to everything I offer online. It is a work-in-progress, and is not yet fully complete. It is also something that will always be gradually updated every once in a while.**
 
-<details open><summary>[Click/tap here to expand/collapse info about my senior photo]</summary>
+<details><summary>[Click/tap here to expand/collapse info about my senior photo]</summary>
 	
 ***
 	
@@ -6536,9 +6745,25 @@ If you have been sent here through a link through SMS (text messaging) congratul
 
 ***
 
-- [`GitHub profile secret info`](/SECRET.md)
+<details><summary><p><b>[Click/tap here to expand/collapse this section (mona)]</b></p></summary>
 
-<!--
+<div align="center">
+
+<img src="/Graphics/GitHub/Mona/mona-loading-default.gif" alt="mona-loading-default.gif" title="Mona loading (GIF)" width="384" height="384">
+
+| [`GitHub profile secret info`](/SECRET.md) |
+|---|
+| **username/username** |
+
+</div>
+
+</details> <!-- End of Mona !-->
+
+---
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section (template)]</b></p></summary>
+
+```markdown
 **seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -6551,15 +6776,38 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-!-->
+```
+
+</details> <!-- End of template !-->
+
+---
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section (header)]</b></p></summary>
 
 I joined GitHub on 2020, Monday, May 25th to get my many projects out there. I am skilled in computer programming, and I have many interests. [Learn more about me here](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3)
 
+</details> <!-- End of Header !-->
+
+---
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section (year in review)]</b></p></summary>
+
 See my year in review for:
 
-[Year 1 (2020-2021)](/Special/Year-in-Review/2020-2021/) [Year 2 (2021-2022) **coming soon**](/Special/Year-in-Review/2021-2022/) 
+| 🗓️ **Year** | 📝️ **Review** |
+|---|---|
+| _2020-2021_ | [`Year 1 (2020-2021)`](/Special/Year-in-Review/2020-2021/) |
+| _2021-2022_ | [`Year 2 (2021-2022)` **coming soon**](/Special/Year-in-Review/2021-2022/) 
+| _2022-2023_ | [`Year 3 (2022-2023)` **coming soon**](/Special/Year-in-Review/2022-2023/) 
+| _2023-2024_ | [`Year 4 (2023-2024)` **coming soon**](/Special/Year-in-Review/2023-2024/) 
+| _2024-2025_ | [`Year 5 (2024-2025)` **coming soon**](/Special/Year-in-Review/2024-2025/) 
+| 🗓️ **Year** | 📝️ **Review** |
 
-View this segment [in a separate file (coming soon)](/Segments/README-Usage/README.md)
+View this segment [in a separate file](/Segments/README-Usage/README.md)
+
+</details> <!-- End of Year in Review !-->
+
+---
 
 _End of README Usage section_
 
@@ -6729,11 +6977,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `111 (2024, Saturday, April 27th at 10:41 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,364`
-- **Word count:** `051,791`
-- **Character count (with spaces):** `0,356,668 characters`
-- **Character count (without spaces)** `0,308,834 characters`
+- **File version:** `112 (2024, Sunday, April 28th at 11:05 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,635`
+- **Word count:** `052,786`
+- **Character count (with spaces):** `0,363,743 characters`
+- **Character count (without spaces)** `0,314,795 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7171,11 +7419,33 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 112 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 112 (2024, Sunday, April 28th at 11:05 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirty-seventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Saturday, April 27th to 2024, Sunday, April 28th. Work on the massive remodel to my software and hardware setup began briefly today, while other small changes were made in addition._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Index`
+- [x] Updated the `README usage` section
+- [x] Updated the `Current software` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 112
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 112
 
 </details> <!-- End of V112 !-->
@@ -8162,7 +8432,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 27th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-27th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 28th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-28th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8205,6 +8475,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 35 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md)
 - - [Link to remodel section version 36 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md)
 - - [Link to remodel section version 37 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md)
+- - [Link to remodel section version 38 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8276,9 +8547,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1023` (as of V111) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1036` (as of V112) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V111: `358,073` / `524,288` (`068.809%`))
+- - **Current character count (in bytes):** (as of V112: `367,888` / `524,288` (`070.169%`))
 
 > Memory
 
@@ -8325,7 +8596,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 111 (beta 37)** | _2024, Saturday, April 27th._ |
+| **Version 112 (beta 38)** | _2024, Sunday, April 28th._ |
 
 <div align="center">
 
@@ -8337,7 +8608,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/108/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/109/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
