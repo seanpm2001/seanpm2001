@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 38 - 2024, Sunday, April 28th` |
+| `Beta 39 - 2024, Monday, April 29th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 37 days down, 26/27 days to go, as of 2024, Sunday, April 28th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 38 days down, 25/26 days to go, as of 2024, Monday, April 29th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -82,7 +82,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 36`](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md) | 2024, Friday, April 26th | 35 |
 | [`Beta 37`](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md) | 2024, Saturday, April 27th | 36 |
 | [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
-| Beta 39 | Coming soon | 38 |
+| [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
 | Beta 40 | Coming soon | 39 |
 
 </details> <!-- End of 2024 April release timeline table !-->
@@ -134,10 +134,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `19` **/** `235` **tasks** _(008.09%)_ |
-| _as of 2024, Sunday, April 28th._ |
+| `20` **/** `236` **tasks** _(008.47%)_ |
+| _as of 2024, Monday, April 29th._ |
 
-- **Current tasks to do (19 tasks, as of 2024, Sunday, April 28th)**
+- **Current tasks to do (20 tasks, as of 2024, Monday, April 29th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -150,6 +150,7 @@ Improvements to guestbook display - Dropdown of people who have signed - More li
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
+Common GitHub profile media section
 Résumé at top
 Many modifications to existing text throughout the document
 New translation methods
@@ -178,10 +179,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `216` **/** `235` **tasks** _(091.91%)_ |
-| _as of 2024, Sunday, April 28th._ |
+| `216` **/** `236` **tasks** _(091.53%)_ |
+| _as of 2024, Monday, April 29th._ |
 
-- **Tasks implemented so far (216 tasks, as of 2024, Sunday, April 28th)**
+- **Tasks implemented so far (216 tasks, as of 2024, Monday, April 29th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
