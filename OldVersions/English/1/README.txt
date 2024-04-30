@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-28"
-      - version: "v112"
+      - date: "2024-04-29"
+      - version: "v113"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -110,6 +110,7 @@ _Further instructions not yet available._
 - [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
 for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.18] -> [2024.04.28] No updates for this date.
+- [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -1411,7 +1412,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 38 - 2024, Sunday, April 28th` |
+| `Beta 39 - 2024, Monday, April 29th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1422,7 +1423,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 37 days down, 26/27 days to go, as of 2024, Sunday, April 28th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 38 days down, 25/26 days to go, as of 2024, Monday, April 29th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1486,7 +1487,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 36`](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md) | 2024, Friday, April 26th | 35 |
 | [`Beta 37`](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md) | 2024, Saturday, April 27th | 36 |
 | [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
-| Beta 39 | Coming soon | 38 |
+| [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
 | Beta 40 | Coming soon | 39 |
 
 </details> <!-- End of 2024 April release timeline table !-->
@@ -1538,10 +1539,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `19` **/** `235` **tasks** _(008.09%)_ |
-| _as of 2024, Sunday, April 28th._ |
+| `20` **/** `236` **tasks** _(008.47%)_ |
+| _as of 2024, Monday, April 29th._ |
 
-- **Current tasks to do (19 tasks, as of 2024, Sunday, April 28th)**
+- **Current tasks to do (20 tasks, as of 2024, Monday, April 29th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1554,6 +1555,7 @@ Improvements to guestbook display - Dropdown of people who have signed - More li
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
+Common GitHub profile media section
 Résumé at top
 Many modifications to existing text throughout the document
 New translation methods
@@ -1582,10 +1584,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `216` **/** `235` **tasks** _(091.91%)_ |
-| _as of 2024, Sunday, April 28th._ |
+| `216` **/** `236` **tasks** _(091.53%)_ |
+| _as of 2024, Monday, April 29th._ |
 
-- **Tasks implemented so far (216 tasks, as of 2024, Sunday, April 28th)**
+- **Tasks implemented so far (216 tasks, as of 2024, Monday, April 29th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -6977,11 +6979,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `112 (2024, Sunday, April 28th at 11:05 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,635`
-- **Word count:** `052,786`
-- **Character count (with spaces):** `0,363,743 characters`
-- **Character count (without spaces)** `0,314,795 characters`
+- **File version:** `113 (2024, Monday, April 29th at 11:38 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,705`
+- **Word count:** `053,754`
+- **Character count (with spaces):** `0,369,393 characters`
+- **Character count (without spaces)** `0,319,862 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7452,11 +7454,30 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 113 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 113 (2024, Monday, April 29th at 11:38 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirty-Eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Sunday, April 28th to 2024, Monday, April 29th. Very little work was done in this update._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 113
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 113
 
 </details> <!-- End of V113 !-->
@@ -8432,7 +8453,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 28th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-28th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 29th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-29th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8476,6 +8497,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 36 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md)
 - - [Link to remodel section version 37 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md)
 - - [Link to remodel section version 38 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md)
+- - [Link to remodel section version 39 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8547,9 +8569,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1036` (as of V112) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1037` (as of V113) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V112: `367,888` / `524,288` (`070.169%`))
+- - **Current character count (in bytes):** (as of V113: `367,888` / `524,288` (`071.247%`))
 
 > Memory
 
@@ -8596,7 +8618,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 112 (beta 38)** | _2024, Sunday, April 28th._ |
+| **Version 113 (beta 39)** | _2024, Monday, April 29th._ |
 
 <div align="center">
 
@@ -8608,7 +8630,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/109/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/110/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
@@ -8632,3 +8654,51 @@ View this segment [in a separate file (coming soon)](/Segments/Footer/README.md)
 <!--TODO
 
 !-->
+
+Files to upload (2024.04.29)
+
+GitHub profile during remodel (include in remodel section)
+
+<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-07 seanpm2001 - Overview.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-43 seanpm2001 - Overview.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png&apos;</b></font>
+</pre>
+
+GitHub inspirations (include in its own separate section)
+
+<pre> <font color="#12488B"><b>FolderArt</b></font>
+ <font color="#26A269"><b>rustwasmjs.png</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-08-07 at 16-51-49 seanpm2001_Thumbor_OpenCV-Engine Thumbor engine for the openCV imaging library.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-02 at 18-27-58 googleworkspace_.github.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-02 at 18-37-49 googleworkspace_apps-script-samples Apps Script samples for Google Workspace products.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-09 at 17-46-29 torvalds - Overview.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-12 at 19-57-00 swagger-api_swagger-core Examples and server integrations for generating the Swagger API Specification which enables easy access to your REST API.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-14 at 21-48-58 cocos2d_cocos2d-html5 Cocos2d for Web Browsers. Built using JavaScript.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-19 at 20-48-47 redis_redis-om-spring Spring Data Redis extensions for better search documents models and more.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-19 at 20-49-28 redis_redis-om-spring Spring Data Redis extensions for better search documents models and more.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-19 at 20-51-22 redis_node-redis Redis Node.js client.png&apos;</b></font>
+<font color="#26A269"><b>&apos;Screenshot 2023-11-25 at 20-26-29 haraka_haraka-dsn Delivery Status Notifications.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2023-12-23 at 19-54-06 nuxt_framework Old repo of Nuxt 3 framework now on nuxt_nuxt.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-01-01 at 19-36-13 jazzband_.github Community health and config files for Jazzband.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-27 at 12-39-49 seanpm2001_OpenTTD_AppStore-Data Assets used for OpenTTD on various AppStores.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-27 at 12-39-59 seanpm2001_OpenTTD_AppStore-Data Assets used for OpenTTD on various AppStores.png&apos;</b></font>
+ <font color="#26A269"><b>TABLETRICK2023.11.25.md</b></font>
+</pre>
+
+Indoor positioning system example
+
+Indoor_location_services_on_mobile_phone_(10928087126).jpeg
+
+Screenshot 2024-03-19 at 13-52-32 Your Followers.png (1,000)
+
+GitHub errors
+
+<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-15 at 18-48-43 seanpm2001_NuShell_Demo.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-03-29 at 18-03-53 GitHub · Where software is built.png&apos;</b></font>
+</pre>
