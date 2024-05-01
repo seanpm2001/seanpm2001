@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 39 - 2024, Monday, April 29th` |
+| `Beta 40 - 2024, Tuesday, April 30th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 38 days down, 25/26 days to go, as of 2024, Monday, April 29th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 39 days down, 24/25 days to go, as of 2024, Tuesday, April 30th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -83,7 +83,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 37`](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md) | 2024, Saturday, April 27th | 36 |
 | [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
 | [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
-| Beta 40 | Coming soon | 39 |
+| [`Beta 40`](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md) | 2024, Tuesday, April 30th | 39 |
 
 </details> <!-- End of 2024 April release timeline table !-->
 
@@ -135,9 +135,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `20` **/** `236` **tasks** _(008.47%)_ |
-| _as of 2024, Monday, April 29th._ |
+| _as of 2024, Tuesday, April 30th._ |
 
-- **Current tasks to do (20 tasks, as of 2024, Monday, April 29th)**
+- **Current tasks to do (20 tasks, as of 2024, Tuesday, April 30th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -180,9 +180,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `216` **/** `236` **tasks** _(091.53%)_ |
-| _as of 2024, Monday, April 29th._ |
+| _as of 2024, Tuesday, April 30th._ |
 
-- **Tasks implemented so far (216 tasks, as of 2024, Monday, April 29th)**
+- **Tasks implemented so far (216 tasks, as of 2024, Tuesday, April 30th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -413,6 +413,27 @@ These are the completed goals of the remodel.
 They have been implemented.
 
 <!-- Spacing these out, so the image formats correctly !-->
+
+<details open><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
+
+<img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile data%20for%20%40seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 90 of the remodel" width="448" height="5665">
+
+GitHub profile during remodel (images to include in remodel section)
+
+<!--
+<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-07 seanpm2001 - Overview.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-43 seanpm2001 - Overview.png&apos;</b></font></pre>
+!-->
+
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png&apos;</b></font>
+</pre>
+
+</details> <!-- End of remodel section !-->
 
 ***
 
