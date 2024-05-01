@@ -3,9 +3,11 @@
 
 ### [🪲️ GitHub bugs](#-GitHub-bugs)
 
-<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about this page</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse the GitHub bugs section</b></p></summary>
 
 The GitHub commit calendar commonly glitches out. This is one of the first videos I took of a glitch.
+
+---
 
 **2021**
 
@@ -14,7 +16,26 @@ The GitHub commit calendar commonly glitches out. This is one of the first video
 
 > **Note:** the file is named incorrectly, referencing the years 2022, 2023, and 2020, but not the actual year of recording (2021)
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-bugs/README.md)
+---
+
+**2024**
+
+GitHub errors
+
+| 2024 March 15th |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot%202024-03-15%20at%2018-48-43%20seanpm2001_NuShell_Demo.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 18-48-43 seanpm2001_NuShell_Demo.png" title="Fork error on 2024 March 15th"> |
+| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" title="Zoomed in, enhanced version of the error" width="434" height="222"> |
+| An internal error GitHub was having for a few days, starting 2024, March 15th |
+
+| 2024 March 29th |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/03_March/29/Screenshot%202024-03-29%20at%2018-03-53%20GitHub%20·%20Where%20software%20is%20built.png" alt="/Graphics/GitHub_Errors/2024/03_March/29/Screenshot 2024-03-29 at 18-03-53 GitHub · Where software is built.png" title="When you add a backdoor to your repository (XZ edition)" width="1920" height="957"> |
+| When you add a backdoor to your repository (XZ) |
+
+---
+
+View this segment [in a separate file](/Segments/GitHub-bugs/README.md)
 
 _End of GitHub bugs section_
 
