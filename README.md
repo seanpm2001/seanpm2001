@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-29"
-      - version: "v113"
+      - date: "2024-04-30"
+      - version: "v114"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -111,6 +111,7 @@ _Further instructions not yet available._
 for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.18] -> [2024.04.28] No updates for this date.
 - [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
+- [2024.04.30] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -511,7 +512,8 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [10.26 - Feature requests for GitHub](#Feature-requests-for-GitHub)
 - - [10.27 - Confetti](#Confetti)
 - - [10.28 - GitHub bugs](#GitHub-bugs)
-- - [10.29 - Humor](#Humor)
+- - [10.29 - Inspirations](#Inspirations)
+- - [10.30 - Humor](#Humor)
 - [11.0 - About this page](#About-this-page)
 - - [11.1 - Workflows (seanpm2001/seanpm2001)](#Workflows-seanpm2001-seanpm2001)
 - - [11.2 - GitHub:seanpm2001/seanpm2001](#GitHub-seanpm2001-seanpm2001)
@@ -782,6 +784,7 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Feature requests for GitHub`](#Feature-requests-for-GitHub) | Documentation | Documentation | 10 | `h3` |
 | [`Confetti`](#Confetti) | Documentation | Documentation | 10 | `h3` |
 | [`GitHub bugs`](#GitHub-bugs) | Documentation | Documentation | 10 | `h3` |
+| [`Inspirations`](#Inspirations) | Documentation | Documentation | 10 | `h3` |
 | [`Humor`](#Humor) | Documentation | Documentation | 10 | `h3` |
 | [`About this page`](#About-this-page) | About this page | About this page | 11 | `h2` |
 | [`Workflows (seanpm2001/seanpm2001)`](#Workflows-seanpm2001-seanpm2001) | About this page | About this page | 11 | `h3` |
@@ -1059,6 +1062,7 @@ This guestbook is for basic interaction, and communications. For further communi
 ###Feature requests for GitHub
 ###Confetti
 ###GitHub bugs 
+###Inspirations
 ###Humor
 ##About this page
 ###Workflows (seanpm2001/seanpm2001)
@@ -1329,6 +1333,7 @@ This guestbook is for basic interaction, and communications. For further communi
 #Feature requests for GitHub
 #Confetti
 #GitHub bugs
+#Inspirations
 #Humor
 #About this page
 #Workflows (seanpm2001/seanpm2001)
@@ -1412,7 +1417,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 39 - 2024, Monday, April 29th` |
+| `Beta 40 - 2024, Tuesday, April 30th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1423,7 +1428,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 38 days down, 25/26 days to go, as of 2024, Monday, April 29th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 39 days down, 24/25 days to go, as of 2024, Tuesday, April 30th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1488,7 +1493,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 37`](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md) | 2024, Saturday, April 27th | 36 |
 | [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
 | [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
-| Beta 40 | Coming soon | 39 |
+| [`Beta 40`](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md) | 2024, Tuesday, April 30th | 39 |
 
 </details> <!-- End of 2024 April release timeline table !-->
 
@@ -1540,9 +1545,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `20` **/** `236` **tasks** _(008.47%)_ |
-| _as of 2024, Monday, April 29th._ |
+| _as of 2024, Tuesday, April 30th._ |
 
-- **Current tasks to do (20 tasks, as of 2024, Monday, April 29th)**
+- **Current tasks to do (20 tasks, as of 2024, Tuesday, April 30th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1585,9 +1590,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `216` **/** `236` **tasks** _(091.53%)_ |
-| _as of 2024, Monday, April 29th._ |
+| _as of 2024, Tuesday, April 30th._ |
 
-- **Tasks implemented so far (216 tasks, as of 2024, Monday, April 29th)**
+- **Tasks implemented so far (216 tasks, as of 2024, Tuesday, April 30th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1818,6 +1823,27 @@ These are the completed goals of the remodel.
 They have been implemented.
 
 <!-- Spacing these out, so the image formats correctly !-->
+
+<details open><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
+
+<img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile data%20for%20%40seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 90 of the remodel" width="448" height="5665">
+
+GitHub profile during remodel (images to include in remodel section)
+
+<!--
+<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-07 seanpm2001 - Overview.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-43 seanpm2001 - Overview.png&apos;</b></font></pre>
+!-->
+
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png&apos;</b></font>
+</pre>
+
+</details> <!-- End of remodel section !-->
 
 ***
 
@@ -2667,9 +2693,13 @@ View this segment [in a separate file (coming soon)](/Segments/Cartography/READM
 
 I have had an increasing interest in geography since 2019. I have increasingly memorized the worlds international borders, and have taken fascination in the terrain and administrative units. In 2024, April, I have become increasigly interested in GPS technology, and as a side project, I am working on a Location Positioning System (LPS) for my house that works offline.
 
+| <img src="/Graphics/Indoor-Positioning-System/Example/Wikimedia/Indoor_location_services_on_mobile_phone_(10928087126).jpeg" alt="/Graphics/Indoor-Positioning-System/Example/Wikimedia/Indoor_location_services_on_mobile_phone_(10928087126).jpeg" title="The image that inspired the idea of a personal LPS (an Indoor Location Positioning System)" width="5184" height="3456" align="center"> |
+|---|
+| ***The image that inspired the idea of a personal LPS (an Indoor Location Positioning System)"*** |
+
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Geography/README.md)
+View this segment [in a separate file](/Segments/Geography/README.md)
 
 </details> <!-- End of Geography section !-->
 
@@ -5820,6 +5850,10 @@ _End of GitHub Skyline section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+| <img src="/Graphics/GitHub-Follower-Milestones/1000-Followers/Screenshot%202024-03-19%20at%2013-52-32%20Your%20Followers.png" alt="/Graphics/GitHub-Follower-Milestones/1000-Followers/Screenshot 2024-03-19 at 13-52-32 Your Followers.png" title="1000 followers on GitHub" width="265" height="540"> |
+|---|
+| ***1000 follower milestone*** |
+
 - 1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k, as of 2024, March 26th)
 
 </details> <!-- End of Follower milestones section !-->
@@ -5828,7 +5862,7 @@ _End of GitHub Skyline section._
 
 _End of GitHub social statistics_
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-social-statistics/README.md)
+View this segment [in a separate file](/Segments/GitHub-social-statistics/README.md)
 
 </details> <!-- End of GitHub Social Statistics section !-->
 
@@ -6897,6 +6931,8 @@ _End of Confetti section_
 
 The GitHub commit calendar commonly glitches out. This is one of the first videos I took of a glitch.
 
+---
+
 **2021**
 
 - [`Take 1 (bad video)`](/Graphics/Weird-Behavior/GitHub/2022/WebM/GitHub_2022-2023WeirdBehavior_Take1_2020.10.10.webm)
@@ -6904,11 +6940,196 @@ The GitHub commit calendar commonly glitches out. This is one of the first video
 
 > **Note:** the file is named incorrectly, referencing the years 2022, 2023, and 2020, but not the actual year of recording (2021)
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-bugs/README.md)
+---
+
+**2024**
+
+GitHub errors
+
+| 2024 March 15th |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot%202024-03-15%20at%2018-48-43%20seanpm2001_NuShell_Demo.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 18-48-43 seanpm2001_NuShell_Demo.png" title="Fork error on 2024 March 15th"> |
+| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" title="Zoomed in, enhanced version of the error" width="434" height="222"> |
+| An internal error GitHub was having for a few days, starting 2024, March 15th |
+
+| 2024 March 29th |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/03_March/29/Screenshot%202024-03-29%20at%2018-03-53%20GitHub%20·%20Where%20software%20is%20built.png" alt="/Graphics/GitHub_Errors/2024/03_March/29/Screenshot 2024-03-29 at 18-03-53 GitHub · Where software is built.png" title="When you add a backdoor to your repository (XZ edition)" width="1920" height="957"> |
+| When you add a backdoor to your repository (XZ) |
+
+---
+
+View this segment [in a separate file](/Segments/GitHub-bugs/README.md)
 
 _End of GitHub bugs section_
 
 </details> <!-- End of GitHub bugs section !-->
+
+***
+
+## [🎇️ Inspirations](#-Inspirations)
+
+<details><summary><p><b>Click/tap here to expand/collapse the GitHub Inspirations section</b></p></summary>
+
+Little snippets across GitHub that have inspired me.
+
+---
+
+**Rust—WebAssembly—JavaScript**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/rustwasmjs.png" alt="rustwasmjs.png" title="Rust—WebAssembly—JavaScript" width="359" height="120">
+
+</details> <!-- End of image1 !-->
+
+---
+
+**Workflow style**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-08-07%20at%2016-51-49%20seanpm2001_Thumbor_OpenCV-Engine%20Thumbor%20engine%20for%20the%20openCV%20imaging%20library.png" alt="Thumbor OpenCV" title="Workflow style" width="994" height="217">
+
+</details> <!-- End of image2 !-->
+
+---
+
+**Unique table layout**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-02%20at%2018-27-58%20googleworkspace_.github.png" alt="GSuite app script" title="Unique table layout" width="663" height="1228">
+
+</details> <!-- End of image3 !-->
+
+---
+
+**Unique table layout 2: Projects**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-02%20at%2018-37-49%20googleworkspace_apps-script-samples%20Apps%20Script%20samples%20for%20Google%20Workspace%20products.png" alt="GSuite app script suite" title="Unique table layout 2: Projects" width="663" height="1471">
+
+</details> <!-- End of image4 !-->
+
+---
+
+**Linus Torvalds profile viewed under @seanwallawalla account**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-09%20at%2017-46-29%20torvalds%20-%20Overview.png" alt="Linus Torvalds" title="Linus Torvalds profile viewed under @seanwallawalla account" width="1920" height="1260">
+
+</details> <!-- End of image5 !-->
+
+---
+
+**Another unique table layout**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-12%20at%2019-57-00%20swagger-api_swagger-core%20Examples%20and%20server%20integrations%20for%20generating%20the%20Swagger%20API%20Specification%20which%20enables%20easy%20access%20to%20your%20REST%20API.png" alt="Swagger API table layout" title="Another unique table layout" width="680" height="2324">
+
+</details> <!-- End of image6 !-->
+
+---
+
+**Use of bolding**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-14%20at%2021-48-58%20cocos2d_cocos2d-html5%20Cocos2d%20for%20Web%20Browsers.%20Built%20using%20JavaScript.png" alt="Cocos2D README" title="Use of bolding" width="663" height="334">
+
+</details> <!-- End of image7 !-->
+
+---
+
+**Social media Markdown table display**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-19%20at%2020-48-47%20redis_redis-om-spring%20Spring%20Data%20Redis%20extensions%20for%20better%20search%20documents%20models%20and%20more.png" alt="Social mediums" title="Social media Markdown table display" width="449" height="100">
+
+</details> <!-- End of image8 !-->
+
+---
+
+**Use of badges in a table**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-19%20at%2020-49-28%20redis_redis-om-spring%20Spring%20Data%20Redis%20extensions%20for%20better%20search%20documents%20models%20and%20more.png" alt="Use of badges in a table" title="Use of badges in a table" width="663" height="80">
+
+</details> <!-- End of image9 !-->
+
+---
+
+**Use of package badges**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-19%20at%2020-51-22%20redis_node-redis%20Redis%20Node.js%20client.png" alt="Use of package badges" title="Use of package badges" width="589" height="321">
+
+</details> <!-- End of image10 !-->
+
+---
+
+**Network table and centered table entries**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-11-25%20at%2020-26-29%20haraka_haraka-dsn%20Delivery%20Status%20Notifications.png" alt="Network table and centered table entries" title="Network table and centered table entries" width="663" height="2280">
+
+</details> <!-- End of image11 !-->
+
+---
+
+**Another unique use of images in tables**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202023-12-23%20at%2019-54-06%20nuxt_framework%20Old%20repo%20of%20Nuxt%203%20framework%20now%20on%20nuxt_nuxt.png" alt="Another unique use of images in tables" title="Another unique use of images in tables" width="743" height="647">
+
+</details> <!-- End of image12 !-->
+
+---
+
+**.github Health files setup**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202024-01-01%20at%2019-36-13%20jazzband_.github%20Community%20health%20and%20config%20files%20for%20Jazzband.png" alt=".github Health files setup" title=".github Health files setup" width="743" height="304">
+
+</details> <!-- End of image13 !-->
+
+---
+
+**I10N language table**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202024-04-27%20at%2012-39-49%20seanpm2001_OpenTTD_AppStore-Data%20Assets%20used%20for%20OpenTTD%20on%20various%20AppStores.png" alt="I10N language table" title="I10N language table" width="1245" height="1961">
+
+</details> <!-- End of image14 !-->
+
+---
+
+**I10N language table V2**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/Screenshot%202024-04-27%20at%2012-39-59%20seanpm2001_OpenTTD_AppStore-Data%20Assets%20used%20for%20OpenTTD%20on%20various%20AppStores.png" alt="I10N language table V2" title="I10N language table V2" width="1341" height="2887">
+
+</details> <!-- End of image15 !-->
+
+---
+
+View this segment [in a separate file](/Segments/Inspirations/README.md)
+
+_End of Inspirations section_
+
+</details> <!-- End of Inspirations section !-->
 
 ***
 
@@ -6979,11 +7200,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `113 (2024, Monday, April 29th at 11:38 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,705`
-- **Word count:** `053,754`
-- **Character count (with spaces):** `0,369,393 characters`
-- **Character count (without spaces)** `0,319,862 characters`
+- **File version:** `114 (2024, Tuesday, April 30th at 11:02 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,900`
+- **Word count:** `054,870`
+- **Character count (with spaces):** `0,377,611 characters`
+- **Character count (without spaces)** `0,327,245 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7484,11 +7705,32 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 114 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 114 (2024, Tuesday, April 30th at 11:02 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the thirty-ninth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Monday, April 29th to 2024, Tuesday, April 30th. Less work was done than I had hoped for today, but some important fixes were made, such as removing a large body of HTML data at the bottom of the file, and formatting it into multiple sections, including 1 new section. This was the final update for 2024, April._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Index` section
+- [x] Added the `Inspirations` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 114
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 114
 
 </details> <!-- End of V114 !-->
@@ -8453,7 +8695,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 29th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-29th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 30th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-30th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8498,6 +8740,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 37 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md)
 - - [Link to remodel section version 38 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md)
 - - [Link to remodel section version 39 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md)
+- - [Link to remodel section version 40 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8569,9 +8812,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1037` (as of V113) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1041` (as of V114) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V113: `367,888` / `524,288` (`071.247%`))
+- - **Current character count (in bytes):** (as of V114: `367,888` / `524,288` (`072.817%`))
 
 > Memory
 
@@ -8610,7 +8853,7 @@ You have reached the end of this page.
 
 </details> <!-- End of footer !-->
 
-**🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
+-**🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
 
 ### [🔚️ End of file](#-End-of-file)
 
@@ -8618,7 +8861,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 113 (beta 39)** | _2024, Monday, April 29th._ |
+| **Version 114 (beta 40)** | _2024, Tuesday, April 30th._ |
 
 <div align="center">
 
@@ -8630,7 +8873,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/110/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/111/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
@@ -8654,51 +8897,3 @@ View this segment [in a separate file (coming soon)](/Segments/Footer/README.md)
 <!--TODO
 
 !-->
-
-Files to upload (2024.04.29)
-
-GitHub profile during remodel (include in remodel section)
-
-<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-07 seanpm2001 - Overview.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-43 seanpm2001 - Overview.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png&apos;</b></font>
-</pre>
-
-GitHub inspirations (include in its own separate section)
-
-<pre> <font color="#12488B"><b>FolderArt</b></font>
- <font color="#26A269"><b>rustwasmjs.png</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-08-07 at 16-51-49 seanpm2001_Thumbor_OpenCV-Engine Thumbor engine for the openCV imaging library.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-02 at 18-27-58 googleworkspace_.github.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-02 at 18-37-49 googleworkspace_apps-script-samples Apps Script samples for Google Workspace products.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-09 at 17-46-29 torvalds - Overview.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-12 at 19-57-00 swagger-api_swagger-core Examples and server integrations for generating the Swagger API Specification which enables easy access to your REST API.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-14 at 21-48-58 cocos2d_cocos2d-html5 Cocos2d for Web Browsers. Built using JavaScript.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-19 at 20-48-47 redis_redis-om-spring Spring Data Redis extensions for better search documents models and more.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-19 at 20-49-28 redis_redis-om-spring Spring Data Redis extensions for better search documents models and more.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-19 at 20-51-22 redis_node-redis Redis Node.js client.png&apos;</b></font>
-<font color="#26A269"><b>&apos;Screenshot 2023-11-25 at 20-26-29 haraka_haraka-dsn Delivery Status Notifications.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2023-12-23 at 19-54-06 nuxt_framework Old repo of Nuxt 3 framework now on nuxt_nuxt.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-01-01 at 19-36-13 jazzband_.github Community health and config files for Jazzband.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-27 at 12-39-49 seanpm2001_OpenTTD_AppStore-Data Assets used for OpenTTD on various AppStores.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-27 at 12-39-59 seanpm2001_OpenTTD_AppStore-Data Assets used for OpenTTD on various AppStores.png&apos;</b></font>
- <font color="#26A269"><b>TABLETRICK2023.11.25.md</b></font>
-</pre>
-
-Indoor positioning system example
-
-Indoor_location_services_on_mobile_phone_(10928087126).jpeg
-
-Screenshot 2024-03-19 at 13-52-32 Your Followers.png (1,000)
-
-GitHub errors
-
-<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-15 at 18-48-43 seanpm2001_NuShell_Demo.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-03-29 at 18-03-53 GitHub · Where software is built.png&apos;</b></font>
-</pre>
