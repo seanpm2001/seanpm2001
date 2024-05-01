@@ -9,9 +9,13 @@
 
 I have had an increasing interest in geography since 2019. I have increasingly memorized the worlds international borders, and have taken fascination in the terrain and administrative units. In 2024, April, I have become increasigly interested in GPS technology, and as a side project, I am working on a Location Positioning System (LPS) for my house that works offline.
 
+| <img src="/Graphics/Indoor-Positioning-System/Example/Wikimedia/Indoor_location_services_on_mobile_phone_(10928087126).jpeg" alt="/Graphics/Indoor-Positioning-System/Example/Wikimedia/Indoor_location_services_on_mobile_phone_(10928087126).jpeg" title="The image that inspired the idea of a personal LPS (an Indoor Location Positioning System)" width="5184" height="3456" align="center"> |
+|---|
+| ***The image that inspired the idea of a personal LPS (an Indoor Location Positioning System)"*** |
+
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Geography/README.md)
+View this segment [in a separate file](/Segments/Geography/README.md)
 
 </details> <!-- End of Geography section !-->
 
