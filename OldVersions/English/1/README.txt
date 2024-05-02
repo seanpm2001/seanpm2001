@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-04-30"
-      - version: "v114"
+      - date: "2024-05-01"
+      - version: "v115"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -111,7 +111,7 @@ _Further instructions not yet available._
 for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.18] -> [2024.04.28] No updates for this date.
 - [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
-- [2024.04.30] No updates for this date.
+- [2024.04.30] -> [2024.05.01] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -237,6 +237,20 @@ _End of translation section._
 
 ***
 
+## [📃️ Résumé](#-Resume)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+Major work in progress.
+
+- [:octocat: `https://github.com/resume/`](https://github.com/resume/)
+
+- [`View this section separately`](/Segments/Resume/README.md)
+
+</details> <!-- End of Résumé section !-->
+
+***
+
 ## [📖️ Guestbook](#-Guestbook)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -275,12 +289,13 @@ This guestbook is for basic interaction, and communications. For further communi
 - [0.4 - Administrator section](#Administrator-section)
 - [0.5 - Size warning](#Size-warning)
 - [0.6 - Read this article in a different language](#Read-this-article-in-a-different-language)
-- [0.7 - Guestbook](#Guestbook)
-- [0.8 - Index](#Index)
-- [0.9 - Ukraine](#Ukraine)
-- [0.10 - REMODEL IN PROGRESS](#REMODEL-IN-PROGRESS)"
-- [0.11 - Quick links](#Quick-links)
-- [0.12 - Legend](#Legend)
+- [0.7 - Résumé](#-Resume)
+- [0.8 - Guestbook](#Guestbook)
+- [0.9 - Index](#Index)
+- [0.10 - Ukraine](#Ukraine)
+- [0.11 - REMODEL IN PROGRESS](#REMODEL-IN-PROGRESS)"
+- [0.12 - Quick links](#Quick-links)
+- [0.13 - Legend](#Legend)
 - [1.0 - Getting started](#Getting-started)
 - - [2.0 - About me](#About-me)
 - - - [2.1 - What I'm currently working on](#What-I-am-currently-working-on)
@@ -514,6 +529,10 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [10.28 - GitHub bugs](#GitHub-bugs)
 - - [10.29 - Inspirations](#Inspirations)
 - - [10.30 - Humor](#Humor)
+- - [10.31 - Common GitHub profile media](#Common-GitHub-profile-media)
+- - - [10.31.1 - Common GitHub profile GIF media](#Common-GitHub-profile-GIF-media)
+- - - [10.31.2 - Common GitHub profile PNG media](#Common-GitHub-profile-PNG-media)
+- - - [10.31.3 - Common GitHub profile SVG media](#Common-GitHub-profile-SVG-media)
 - [11.0 - About this page](#About-this-page)
 - - [11.1 - Workflows (seanpm2001/seanpm2001)](#Workflows-seanpm2001-seanpm2001)
 - - [11.2 - GitHub:seanpm2001/seanpm2001](#GitHub-seanpm2001-seanpm2001)
@@ -547,6 +566,7 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Administrator section`](#Administrator-section) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Size warning`](#Size-warning) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Read this article in a different language`](#Read-this-article-in-a-different-language) | Lead/introduction | Introduction | 1 | `h1` |
+| [`Résumé`](#Resume) | Résumé | Introduction | 1 | `h2` |
 | [`Guestbook`](#Guestbook) | Lead/introduction | Introduction | 1 | `h2` |
 | [`Index`](#Index) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Ukraine`](#Ukraine) | Lead/introduction | Introduction | 1 | `h1` |
@@ -786,6 +806,10 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`GitHub bugs`](#GitHub-bugs) | Documentation | Documentation | 10 | `h3` |
 | [`Inspirations`](#Inspirations) | Documentation | Documentation | 10 | `h3` |
 | [`Humor`](#Humor) | Documentation | Documentation | 10 | `h3` |
+| [`Common GitHub profile media`](#Common-GitHub-profile-media) | Documentation | Documentation | 10 | `h3` |
+| [`Common GitHub profile GIF media`](#Common-GitHub-profile-GIF-media) | Documentation | Documentation | 10 | `h4` |
+| [`Common GitHub profile PNG media`](#Common-GitHub-profile-PNG-media) | Documentation | Documentation | 10 | `h4` |
+| [`Common GitHub profile SVG media`](#Common-GitHub-profile-SVG-media) | Documentation | Documentation | 10 | `h4` |
 | [`About this page`](#About-this-page) | About this page | About this page | 11 | `h2` |
 | [`Workflows (seanpm2001/seanpm2001)`](#Workflows-seanpm2001-seanpm2001) | About this page | About this page | 11 | `h3` |
 | [`GitHub:seanpm2001/seanpm2001`](#GitHub-seanpm2001-seanpm2001) | About this page | About this page | 11 | `h3` |
@@ -825,6 +849,7 @@ This guestbook is for basic interaction, and communications. For further communi
 #Administrator section
 #Size warning
 #Read this article in a different language
+#Résumé
 ##Guestbook
 #Index
 #Ukraine
@@ -1064,6 +1089,10 @@ This guestbook is for basic interaction, and communications. For further communi
 ###GitHub bugs 
 ###Inspirations
 ###Humor
+###Common GitHub profile media
+####Common GitHub profile GIF media
+####Common GitHub profile PNG media
+####Common GitHub profile SVG media
 ##About this page
 ###Workflows (seanpm2001/seanpm2001)
 ###GitHub:seanpm2001/seanpm2001
@@ -1096,6 +1125,7 @@ This guestbook is for basic interaction, and communications. For further communi
 #Administrator section
 #Size warning
 #Read this article in a different language
+#Résumé
 #Guestbook
 #Index
 #Ukraine
@@ -1335,6 +1365,10 @@ This guestbook is for basic interaction, and communications. For further communi
 #GitHub bugs
 #Inspirations
 #Humor
+#Common GitHub profile media
+#Common GitHub profile GIF media
+#Common GitHub profile PNG media
+#Common GitHub profile SVG media
 #About this page
 #Workflows (seanpm2001/seanpm2001)
 #GitHub:seanpm2001/seanpm2001
@@ -1417,7 +1451,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 40 - 2024, Tuesday, April 30th` |
+| `Beta 41 - 2024, Wednesday, May 1st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1428,7 +1462,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 39 days down, 24/25 days to go, as of 2024, Tuesday, April 30th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 40 days down, 23/24 days to go, as of 2024, Wednesday, May 1st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1460,7 +1494,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 0️⃣️4️⃣️ ***2024 April*** |
 |---|
 
-<details open><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
@@ -1500,11 +1534,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 0️⃣️5️⃣️ **2024 May** |
 |---|
 
-<details><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
+<details open><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
-| Beta 41 | Coming soon | 40 |
+| [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
 | Beta 42 | Coming soon | 41 |
 | Beta 43 | Coming soon | 42 |
 | Beta 44 | Coming soon | 43 |
@@ -1544,34 +1578,26 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `20` **/** `236` **tasks** _(008.47%)_ |
-| _as of 2024, Tuesday, April 30th._ |
+| `12` **/** `236` **tasks** _(005.08%)_ |
+| _as of 2024, Wednesday, May 1st._ |
 
-- **Current tasks to do (20 tasks, as of 2024, Tuesday, April 30th)**
+- **Current tasks to do (12 tasks, as of 2024, Wednesday, May 1st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Add title attribute to all images (WIP)
-Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
-Common GitHub profile media section
-Résumé at top
 Many modifications to existing text throughout the document
 New translation methods
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 My web stack
 New icon to center at the top
-Properly format all img tags
-Keyword: " src=
-Should be replaced with:
-src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 ```
 
@@ -1589,10 +1615,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `216` **/** `236` **tasks** _(091.53%)_ |
-| _as of 2024, Tuesday, April 30th._ |
+| `224` **/** `236` **tasks** _(094.92%)_ |
+| _as of 2024, Wednesday, May 1st._ |
 
-- **Tasks implemented so far (216 tasks, as of 2024, Tuesday, April 30th)**
+- **Tasks implemented so far (224 tasks, as of 2024, Wednesday, May 1st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1814,6 +1840,14 @@ Certificates
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
+Common GitHub profile media section
+Résumé at top
+Add title attribute to all images (WIP)
+Properly format all img tags
+Keyword: " src=
+Should be replaced with:
+src="" alt=
+Add a link to the segment file for each section (WIP)
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -1824,7 +1858,7 @@ They have been implemented.
 
 <!-- Spacing these out, so the image formats correctly !-->
 
-<details open><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
 
 <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile data%20for%20%40seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 90 of the remodel" width="448" height="5665">
 
@@ -6883,23 +6917,29 @@ There are some features that would be nice for GitHub. They include:
 
 **Entries marked with `⭐` are highest priority**
 
-> * The ability to follow organizations ⭐ (added to the site on 2022, March 21st) ✅️
+`2` **/** `15` _features implemented (as of 2024, Wednesday, May 1st)_
 
-> * An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
+- [x] The ability to follow organizations ⭐ (added to the site on 2022, March 21st) ✅️
+- [ ] An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
+- [x] A built-in dark mode, along with other modes (if needed) (added to the site around 2021) ✅️
 
-> * A built-in dark mode, along with other modes (if needed) (added to the site around 2021) ✅️
+<!-- I currently can't remember this one - [ ] Adding back the ability to hover over and see commit percentages (you used to be able to hover over  ⭐ !-->
 
-> * Adding back the ability to hover over and see commit percentages ⭐
+- [ ] Support for Go! (2004 language by Francis McCabe) (to distinguish from Go (2009 Google language))
+- [ ] Better documentation for GitHub Emoji Skin tone [:octocat: `See community#106369`](https://github.com/orgs/community/discussions/106369/)
+- [ ] Repository size information on the repository itself (as GitLab does it)
+- [ ] End the occupation of GitHub by Microsoft, and a return to an ethical owner
+- [ ] Increase discussion category limit from 25
+- [ ] Allow for adding labels to multiple issues/discussions at once
+- [ ] Sort by license
+- [ ] Reverting an update to the search functionality of GitHub organizations made in 2024 ⭐
+- [ ] Issue label templates [:octocat: `See community#60170`](https://github.com/orgs/community/discussions/60170/)
+- [ ] Fix some link errors, such as [:octocat: `https://github.com/NEW`](https://github.com/NEW) returning a 404, instead of redirecting to [:octocat: `https://github.com/new`](https://github.com/new)
+- [ ] Return a properly documented error message when trying to create a discussion that goes over the limit, instead of giving a generic, unhelpful error [:octocat: `See community#60075`](https://github.com/orgs/community/discussions/60075/)
+- [ ] Allow embedded videos in Markdown that rely on local repository files, instead of files solely on the GitHub user content server
+- [ ] No other requests at the moment
 
-> * Support for Go! (2004 language by Francis McCabe) (to distinguish from Go (2009 Google language))
-
-> * Better documentation for GitHub Emoji Skin tone
-
-> * Repository size information on the repository itself (as GitLab does it)
-
-> * No other requests at the moment
-
-View this segment [in a separate file (coming soon)](/Segments/Feature-requests-for-GitHub/README.md)
+View this segment [in a separate file](/Segments/Feature-requests-for-GitHub/README.md)
 
 _End of Feature requests for GitHub section_
 
@@ -6948,8 +6988,8 @@ GitHub errors
 
 | 2024 March 15th |
 |---|
-| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot%202024-03-15%20at%2018-48-43%20seanpm2001_NuShell_Demo.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 18-48-43 seanpm2001_NuShell_Demo.png" title="Fork error on 2024 March 15th"> |
-| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" title="Zoomed in, enhanced version of the error" width="434" height="222"> |
+| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot%202024-03-15%20at%2018-48-43%20seanpm2001_NuShell_Demo.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 18-48-43 seanpm2001_NuShell_Demo.png" title="Fork error on 2024 March 15th" width="1920" height="957"> |
+| <img src="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" alt="/Graphics/GitHub_Errors/2024/03_March/15/Screenshot 2024-03-15 at 19-44-12 seanpm2001_this_week_in_nu.png" title="Zoomed in, enhanced version of the error" width="434" height="222" align="center"> |
 | An internal error GitHub was having for a few days, starting 2024, March 15th |
 
 | 2024 March 29th |
@@ -6967,7 +7007,7 @@ _End of GitHub bugs section_
 
 ***
 
-## [🎇️ Inspirations](#-Inspirations)
+### [🎇️ Inspirations](#-Inspirations)
 
 <details><summary><p><b>Click/tap here to expand/collapse the GitHub Inspirations section</b></p></summary>
 
@@ -7125,6 +7165,8 @@ Little snippets across GitHub that have inspired me.
 
 ---
 
+View the full collection [/Graphics/Inspirations/GitHub/](/Graphics/Inspirations/GitHub/)
+
 View this segment [in a separate file](/Segments/Inspirations/README.md)
 
 _End of Inspirations section_
@@ -7133,7 +7175,7 @@ _End of Inspirations section_
 
 ***
 
-## [🗿️ Humor](-#Humor)
+### [🗿️ Humor](#-Humor)
 
 <details><summary><p><b>Click/tap here to expand/collapse the Humor section</b></p></summary>
 
@@ -7160,6 +7202,206 @@ _End of humor section_
 _End of documentation section._
 
 </details> <!-- End of documentation section !-->
+
+***
+
+### [🎞️ Common GitHub profile media](#-Common-GitHub-profile-media)
+
+<details><summary><p><b>Click/tap here to expand/collapse the Common GitHub Profile Media section</b></p></summary>
+
+A collection of commonly used elements in other users GitHub profiles.
+
+Divided into 3 sections:
+
+- Common GitHub profile GIF Media (12 files)
+- Common GitHub profile PNG Media (1 file)
+- Common GitHub profile SVG Media (1 file)
+
+***
+
+#### [🎞️ Common GitHub profile GIF media](#-Common-GitHub-profile-GIF-media) 
+
+<details><summary><p><b>Click/tap here to expand/collapse the Common GitHub profile GIF media section</b></p></summary>
+
+---
+
+**Working at a desk**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF1.gif" alt="GIF1 failed to load" title="Working at a desk (GIF)" width="480" height="360">
+
+</details> <!-- End of image1 !-->
+
+---
+
+**Waving Emoji hand**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF2.gif" alt="GIF2 failed to load" title="Waving hand Emoji (GIF)" width="241" height="234">
+
+</details> <!-- End of image2 !-->
+
+---
+
+**Electric bar divider**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF3.gif" alt="GIF3 failed to load" title="Electric bar divider (GIF)" width="1000" height="10">
+
+</details> <!-- End of image3 !-->
+
+---
+
+**Sound bar divider**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF4.gif" alt="GIF4 failed to load" title="Sound bar divider (GIF)" width="1200" height="103">
+
+</details> <!-- End of image4 !-->
+
+---
+
+**JavaScript core**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF5.gif" alt="GIF5 failed to load" title="JavaScript core (GIF)" width="1600" height="700">
+
+</details> <!-- End of image5 !-->
+
+---
+
+**Web development laptop with hovering skills**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF6.gif" alt="GIF6 failed to load" title="Web development laptop with hovering skills (GIF)" width="800" height="800">
+
+</details> <!-- End of image6 !-->
+
+---
+
+**Twirling yellow trophy**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF7.gif" alt="GIF7 failed to load" title="Twirling yellow trophy (GIF)" width="414" height="489">
+
+</details> <!-- End of image7 !-->
+
+---
+
+**Pixelart nighttime city cidewalk cyberpunk**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF8.gif" alt="GIF8 failed to load" title="Pixelart nighttime city cidewalk cyberpunk (GIF)" width="960" height="540">
+
+</details> <!-- End of image8 !-->
+
+---
+
+**API core**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF9.gif" alt="GIF9 failed to load" title="API Core (GIF)" width="1080" height="592">
+
+</details> <!-- End of image9 !-->
+
+---
+
+**Futuristic laptop powering a hologram**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF10.gif" alt="GIF10 failed to load" title="Futuristic laptop powering a hologram (GIF)" width="1080" height="592">
+
+</details> <!-- End of image10 !-->
+
+---
+
+**Working at a desk with a lot going on**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF11.gif" alt="GIF11 failed to load" title="Working at a desk with a lot going on (GIF)" width="500" height="500">
+
+</details> <!-- End of image11 !-->
+
+---
+
+**Guy Fawkes mask infinite**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/GIF/Animated/CommonGitHubProfileGIF12.gif" alt="GIF12 failed to load" title="Guy Fawkes mask infinite (GIF)" width="320" height="240">
+
+</details> <!-- End of image12 !-->
+
+---
+
+_End of GIF section._
+
+</details> <!-- End of Common GitHub profile GIF Media section !-->
+
+***
+
+#### [🖼️ Common GitHub profile PNG media](#-Common-GitHub-profile-PNG-media) 
+
+<details><summary><p><b>Click/tap here to expand/collapse the Common GitHub profile PNG media section</b></p></summary>
+
+---
+
+**Welcome to my GitHub profile 1990s webart edition**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/PNG/CommonGitHubProfileImage_Welcome.png" alt="PNG1 failed to load" title="Welcome to my GitHub profile 1990s webart edition (PNG)" width="1717" height="218">
+
+</details> <!-- End of image1 !-->
+
+---
+
+_End of PNG section._
+
+</details> <!-- End of Common GitHub profile PNG Media section !-->
+
+***
+
+#### [🔷️ Common GitHub profile SVG media](#-Common-GitHub-profile-SVG-media) 
+
+<details><summary><p><b>Click/tap here to expand/collapse the Common GitHub profile SVG media section</b></p></summary>
+
+---
+
+**Animated marquee: Welcome to my GitHub profile**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Common-GitHub-Profile-Media/SVG/Animated/1111111111111111marquee.svg" alt="SVG1 failed to load" title="Animated marquee: Welcome to my GitHub profile (Animated SVG)" width="800" height="50">
+
+</details> <!-- End of image1 !-->
+
+---
+
+_End of SVG section._
+
+</details> <!-- End of Common GitHub profile SVG Media section !-->
+
+***
+
+View the full collection [/Graphics/Common-GitHub-Profile-Media/](/Graphics/Common-GitHub-Profile-Media/)
+
+View this segment [in a separate file](/Segments/Common-GitHub-profile-media/README.md)
+
+_End of Common GitHub profile media section._
+
+</details> <!-- End of Common GitHub profile media section !-->
 
 ***
 
@@ -7200,11 +7442,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `114 (2024, Tuesday, April 30th at 11:02 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,900`
-- **Word count:** `054,870`
-- **Character count (with spaces):** `0,377,611 characters`
-- **Character count (without spaces)** `0,327,245 characters`
+- **File version:** `115 (2024, Wednesday, May 1st at 08:40 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,166`
+- **Word count:** `056,487`
+- **Character count (with spaces):** `0,388,848 characters`
+- **Character count (without spaces)** `0,337,087 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7737,11 +7979,34 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 115 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 115 (2024, Wednesday, May 1st at 08:40 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fortieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Tuesday, April 30th to 2024, Wednesday, May 1st. This was the May Day update. Some significant changes were made, and now only 12 goals remain to accomplish in the next 24 days. A couple new sections were added today, while several others were modified. This was the first update for 2024 May._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Added the `Résumé` section
+- [x] Updated the `Index` section
+- [x] Updated the `Feature requests for GitHub` section
+- [x] Added the `Common GitHub profile media` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 115
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 115
 
 </details> <!-- End of V115 !-->
@@ -8695,7 +8960,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, April 30th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-April-30th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 1st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-1st)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -8741,6 +9006,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 38 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md)
 - - [Link to remodel section version 39 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md)
 - - [Link to remodel section version 40 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md)
+- - [Link to remodel section version 41 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -8812,9 +9078,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1041` (as of V114) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1052` (as of V115) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V114: `367,888` / `524,288` (`072.817%`))
+- - **Current character count (in bytes):** (as of V115: `367,888` / `524,288` (`074.969%`))
 
 > Memory
 
@@ -8861,7 +9127,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 114 (beta 40)** | _2024, Tuesday, April 30th._ |
+| **Version 115 (beta 41)** | _2024, Wednesday, May 1st._ |
 
 <div align="center">
 
@@ -8873,7 +9139,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/111/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/112/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
