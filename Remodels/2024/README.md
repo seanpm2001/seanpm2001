@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 40 - 2024, Tuesday, April 30th` |
+| `Beta 41 - 2024, Wednesday, May 1st` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 39 days down, 24/25 days to go, as of 2024, Tuesday, April 30th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 40 days down, 23/24 days to go, as of 2024, Wednesday, May 1st)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -50,7 +50,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 0️⃣️4️⃣️ ***2024 April*** |
 |---|
 
-<details open><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
@@ -90,11 +90,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 0️⃣️5️⃣️ **2024 May** |
 |---|
 
-<details><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
+<details open><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
-| Beta 41 | Coming soon | 40 |
+| [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
 | Beta 42 | Coming soon | 41 |
 | Beta 43 | Coming soon | 42 |
 | Beta 44 | Coming soon | 43 |
@@ -134,34 +134,26 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `20` **/** `236` **tasks** _(008.47%)_ |
-| _as of 2024, Tuesday, April 30th._ |
+| `12` **/** `236` **tasks** _(005.08%)_ |
+| _as of 2024, Wednesday, May 1st._ |
 
-- **Current tasks to do (20 tasks, as of 2024, Tuesday, April 30th)**
+- **Current tasks to do (12 tasks, as of 2024, Wednesday, May 1st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Add title attribute to all images (WIP)
-Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
-Common GitHub profile media section
-Résumé at top
 Many modifications to existing text throughout the document
 New translation methods
 New style (custom headings, as images) also dividers
 Improvements to language translation process, and info on this
 My web stack
 New icon to center at the top
-Properly format all img tags
-Keyword: " src=
-Should be replaced with:
-src="" alt=
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 ```
 
@@ -179,10 +171,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `216` **/** `236` **tasks** _(091.53%)_ |
-| _as of 2024, Tuesday, April 30th._ |
+| `224` **/** `236` **tasks** _(094.92%)_ |
+| _as of 2024, Wednesday, May 1st._ |
 
-- **Tasks implemented so far (216 tasks, as of 2024, Tuesday, April 30th)**
+- **Tasks implemented so far (224 tasks, as of 2024, Wednesday, May 1st)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -404,6 +396,14 @@ Certificates
 Make use of image: Example/GitHub (social preview image)
 Make use of image: Memes/semicolons
 Make use of image: GitHub/Mona
+Common GitHub profile media section
+Résumé at top
+Add title attribute to all images (WIP)
+Properly format all img tags
+Keyword: " src=
+Should be replaced with:
+src="" alt=
+Add a link to the segment file for each section (WIP)
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -414,7 +414,7 @@ They have been implemented.
 
 <!-- Spacing these out, so the image formats correctly !-->
 
-<details open><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
 
 <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile data%20for%20%40seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 90 of the remodel" width="448" height="5665">
 
