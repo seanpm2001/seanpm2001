@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 41 - 2024, Wednesday, May 1st` |
+| `Beta 42 - 2024, Thursday, May 2nd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 40 days down, 23/24 days to go, as of 2024, Wednesday, May 1st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 41 days down, 22/23 days to go, as of 2024, Thursday, May 2nd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -95,7 +95,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
 | [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
-| Beta 42 | Coming soon | 41 |
+| [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
 | Beta 43 | Coming soon | 42 |
 | Beta 44 | Coming soon | 43 |
 | Beta 45 | Coming soon | 44 |
@@ -134,16 +134,22 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `12` **/** `236` **tasks** _(005.08%)_ |
-| _as of 2024, Wednesday, May 1st._ |
+| `11` **/** `236` **tasks** _(004.66%)_ |
+| _as of 2024, Thursday, May 2nd._ |
 
-- **Current tasks to do (12 tasks, as of 2024, Wednesday, May 1st)**
+- **Current tasks to do (11 tasks, as of 2024, Thursday, May 2nd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
+
+[ 2024.05.02] Was going to also do this today, but I had to cut back
+
+```
+Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Improvements to language translation process, and info on this
+```
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
@@ -151,10 +157,10 @@ My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, C
 Many modifications to existing text throughout the document
 New translation methods
 New style (custom headings, as images) also dividers
-Improvements to language translation process, and info on this
 My web stack
 New icon to center at the top
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Improvements to language translation process, and info on this
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -171,10 +177,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `224` **/** `236` **tasks** _(094.92%)_ |
-| _as of 2024, Wednesday, May 1st._ |
+| `225` **/** `236` **tasks** _(095.34%)_ |
+| _as of 2024, Thursday, May 2nd._ |
 
-- **Tasks implemented so far (224 tasks, as of 2024, Wednesday, May 1st)**
+- **Tasks implemented so far (225 tasks, as of 2024, Thursday, May 2nd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -404,6 +410,7 @@ Keyword: " src=
 Should be replaced with:
 src="" alt=
 Add a link to the segment file for each section (WIP)
+Projects I have contributed to (updates to this section)
 ```
 
 </details> <!-- End of completed remodel goals section !-->
