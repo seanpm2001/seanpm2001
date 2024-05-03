@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-01"
-      - version: "v115"
+      - date: "2024-05-02"
+      - version: "v116"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -111,7 +111,7 @@ _Further instructions not yet available._
 for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.18] -> [2024.04.28] No updates for this date.
 - [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
-- [2024.04.30] -> [2024.05.01] No updates for this date.
+- [2024.04.30] -> [2024.05.02] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -289,7 +289,7 @@ This guestbook is for basic interaction, and communications. For further communi
 - [0.4 - Administrator section](#Administrator-section)
 - [0.5 - Size warning](#Size-warning)
 - [0.6 - Read this article in a different language](#Read-this-article-in-a-different-language)
-- [0.7 - Résumé](#-Resume)
+- [0.7 - Résumé](#Resume)
 - [0.8 - Guestbook](#Guestbook)
 - [0.9 - Index](#Index)
 - [0.10 - Ukraine](#Ukraine)
@@ -1451,7 +1451,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 41 - 2024, Wednesday, May 1st` |
+| `Beta 42 - 2024, Thursday, May 2nd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1462,7 +1462,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 40 days down, 23/24 days to go, as of 2024, Wednesday, May 1st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 41 days down, 22/23 days to go, as of 2024, Thursday, May 2nd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1539,7 +1539,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 |---|---|---|
 | [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
-| Beta 42 | Coming soon | 41 |
+| [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
 | Beta 43 | Coming soon | 42 |
 | Beta 44 | Coming soon | 43 |
 | Beta 45 | Coming soon | 44 |
@@ -1578,16 +1578,22 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `12` **/** `236` **tasks** _(005.08%)_ |
-| _as of 2024, Wednesday, May 1st._ |
+| `11` **/** `236` **tasks** _(004.66%)_ |
+| _as of 2024, Thursday, May 2nd._ |
 
-- **Current tasks to do (12 tasks, as of 2024, Wednesday, May 1st)**
+- **Current tasks to do (11 tasks, as of 2024, Thursday, May 2nd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
+
+[ 2024.05.02] Was going to also do this today, but I had to cut back
+
+```
+Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Improvements to language translation process, and info on this
+```
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Projects I have contributed to (updates to this section)
 Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
@@ -1595,10 +1601,10 @@ My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, C
 Many modifications to existing text throughout the document
 New translation methods
 New style (custom headings, as images) also dividers
-Improvements to language translation process, and info on this
 My web stack
 New icon to center at the top
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Improvements to language translation process, and info on this
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -1615,10 +1621,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `224` **/** `236` **tasks** _(094.92%)_ |
-| _as of 2024, Wednesday, May 1st._ |
+| `225` **/** `236` **tasks** _(095.34%)_ |
+| _as of 2024, Thursday, May 2nd._ |
 
-- **Tasks implemented so far (224 tasks, as of 2024, Wednesday, May 1st)**
+- **Tasks implemented so far (225 tasks, as of 2024, Thursday, May 2nd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1848,6 +1854,7 @@ Keyword: " src=
 Should be replaced with:
 src="" alt=
 Add a link to the segment file for each section (WIP)
+Projects I have contributed to (updates to this section)
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -2066,6 +2073,25 @@ I have collaborated on a few projects on GitHub, including
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `Nea/MarkdownViewerPlusPlus`](https://github.com/nea/MarkdownViewerPlusPlus) | 100% issues (2021) | [1](https://github.com/nea/MarkdownViewerPlusPlus/issues/138) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `Jmdugan/Blocklists`](https://github.com/jmdugan/blocklists) | 100% issues (2021) | [1](https://github.com/jmdugan/blocklists/issues/80) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `Schweinepriester/github-profile-achievements`](https://github.com/Schweinepriester/github-profile-achievements/) | 100% pull requests (2023) | [1](https://github.com/Schweinepriester/github-profile-achievements/pull/204/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `jstrieb/github-stats`](https://github.com/jstrieb/github-stats/) | 100% issues (2024) | [1](https://github.com/jstrieb/github-stats/issues/72/) [2](https://github.com/jstrieb/github-stats/issues/86/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `einaregilsson/Redirector`](https://github.com/einaregilsson/Redirector/) | 100% issues (2024) | [1](https://github.com/einaregilsson/Redirector/issues/336/) [2](https://github.com/einaregilsson/Redirector/issues/337/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `fergusq/tampio`](https://github.com/fergusq/tampio/) | 100% issues (2024) | [1](https://github.com/fergusq/tampio/issues/4/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `florinpop17/app-ideas`](https://github.com/florinpop17/app-ideas/) | 100% issues (2024) | [1](https://github.com/florinpop17/app-ideas/issues/682/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `leachim6/hello-world`](https://github.com/leachim6/hello-world/) | 100% issues (2024) | [1](https://github.com/leachim6/hello-world/issues/1377/) [2](https://github.com/leachim6/hello-world/issues/1495/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `duckduckgo/duckduckgo-help-pages`](https://github.com/duckduckgo/duckduckgo-help-pages/) | 100% issues (2024) | [1](https://github.com/duckduckgo/duckduckgo-help-pages/issues/224/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `srivallabha11/.readme`](https://github.com/srivallabha11/.readme/) | 100% issues (2024) | [1](https://github.com/srivallabha11/.readme/issues/1/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `mastodon/mastodon`](https://github.com/mastodon/mastodon/) | 100% issues (2024) | [1](https://github.com/mastodon/mastodon/issues/23402/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `bioint/MetisFL`](https://github.com/mastodon/mastodon/) | 100% issues (2024) | [1](https://github.com/bioint/MetisFL/issues/34/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `blocklistproject/Lists`](https://github.com/blocklistproject/Lists/) | 100% issues (2024) | [1](https://github.com/blocklistproject/Lists/issues/1213/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `oh-my-xonsh/xontrib-up`](https://github.com/oh-my-xonsh/xontrib-up/) | 100% issues (2024) | [1](https://github.com/oh-my-xonsh/xontrib-up/issues/2/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `PCGamingWiki/overclocked`](https://github.com/PCGamingWiki/overclocked/) | 100% issues (2024) | [1](https://github.com/PCGamingWiki/overclocked/issues/22/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `all-contributors/all-contributors`](https://github.com/all-contributors/all-contributors/) | 100% issues (2024) | [1](https://github.com/all-contributors/all-contributors/issues/591/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `drknzz/GitHub-Achievements`](https://github.com/drknzz/GitHub-Achievements/) | 100% issues (2024) | [1](https://github.com/drknzz/GitHub-Achievements/issues/93/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `codyogden/killedbygoogle`](https://github.com/codyogden/killedbygoogle/) | 100% issues (2024) | [1](https://github.com/codyogden/killedbygoogle/issues/1330/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `mozilla/FirefoxColor`](https://github.com/mozilla/FirefoxColor/) | 100% issues (2024) | [1](https://github.com/codyogden/mozilla/FirefoxColor/971/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `jmdugan/blocklists`](https://github.com/jmdugan/blocklists/) | 100% issues (2024) | [1](https://github.com/jmdugan/blocklists/issues/80/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `FaviFake/FaviFake`](https://github.com/FaviFake/FaviFake/) | 100% pull requests (2024) | [1](https://github.com/FaviFake/FaviFake/pull/1/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/dmca`](https://github.com/github/dmca/) | 100% pull requests (2024) (not a contribution) | [1](https://github.com/github/dmca/pull/8765/) |
 
 </details> <!-- End of List of projects I have helped develop subsection !-->
 
@@ -7442,11 +7468,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `115 (2024, Wednesday, May 1st at 08:40 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,166`
-- **Word count:** `056,487`
-- **Character count (with spaces):** `0,388,848 characters`
-- **Character count (without spaces)** `0,337,087 characters`
+- **File version:** `116 (2024, Thursday, May 2nd at 08:26 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,213`
+- **Word count:** `057,452`
+- **Character count (with spaces):** `0,395,721 characters`
+- **Character count (without spaces)** `0,343,309 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8013,11 +8039,31 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 116 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 116 (2024, Thursday, May 2nd at 08:26 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-first update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Wednesday, May 1st to 2024, Thursday, May 2nd. There was more that I wanted to accomplish today, but I pushed my time too thin, and couldn't get 2 additional tasks completed._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `What I have collaborated on` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 116
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 116
 
 </details> <!-- End of V116 !-->
@@ -8960,7 +9006,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 1st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-1st)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 2nd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-2nd)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9007,6 +9053,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 39 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md)
 - - [Link to remodel section version 40 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md)
 - - [Link to remodel section version 41 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md)
+- - [Link to remodel section version 42 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9078,9 +9125,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1052` (as of V115) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1052` (as of V116) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V115: `367,888` / `524,288` (`074.969%`))
+- - **Current character count (in bytes):** (as of V116: `399,929` / `524,288` (`076.280%`))
 
 > Memory
 
@@ -9127,7 +9174,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 115 (beta 41)** | _2024, Wednesday, May 1st._ |
+| **Version 116 (beta 42)** | _2024, Thursday, May 2nd._ |
 
 <div align="center">
 
@@ -9139,7 +9186,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/112/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/113/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 <!--
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
