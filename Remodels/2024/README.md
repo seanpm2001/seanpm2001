@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 42 - 2024, Thursday, May 2nd` |
+| `Beta 43 - 2024, Friday, May 3rd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 41 days down, 22/23 days to go, as of 2024, Thursday, May 2nd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 42 days down, 21/22 days to go, as of 2024, Friday, May 3rd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -96,7 +96,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 |---|---|---|
 | [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
 | [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
-| Beta 43 | Coming soon | 42 |
+| [`Beta 43`](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md) | 2024, Friday, May 3rd | 42 |
 | Beta 44 | Coming soon | 43 |
 | Beta 45 | Coming soon | 44 |
 | Beta 46 | Coming soon | 45 |
@@ -134,18 +134,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `11` **/** `236` **tasks** _(004.66%)_ |
-| _as of 2024, Thursday, May 2nd._ |
+| `009` **/** `236` **tasks** _(003.82%)_ |
+| _as of 2024, Friday, May 3rd._ |
 
-- **Current tasks to do (11 tasks, as of 2024, Thursday, May 2nd)**
+- **Current tasks to do (009 tasks, as of 2024, Friday, May 3rd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
-
-[ 2024.05.02] Was going to also do this today, but I had to cut back
-
-```
-Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
-Improvements to language translation process, and info on this
-```
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -159,8 +152,6 @@ New translation methods
 New style (custom headings, as images) also dividers
 My web stack
 New icon to center at the top
-Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
-Improvements to language translation process, and info on this
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -177,10 +168,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `225` **/** `236` **tasks** _(095.34%)_ |
-| _as of 2024, Thursday, May 2nd._ |
+| `227` **/** `236` **tasks** _(096.18%)_ |
+| _as of 2024, Friday, May 3rd._ |
 
-- **Tasks implemented so far (225 tasks, as of 2024, Thursday, May 2nd)**
+- **Tasks implemented so far (227 tasks, as of 2024, Friday, May 3rd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -411,6 +402,8 @@ Should be replaced with:
 src="" alt=
 Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
+Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Improvements to language translation process, and info on this
 ```
 
 </details> <!-- End of completed remodel goals section !-->
