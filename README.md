@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-02"
-      - version: "v116"
+      - date: "2024-05-03"
+      - version: "v117"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -111,7 +111,7 @@ _Further instructions not yet available._
 for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.18] -> [2024.04.28] No updates for this date.
 - [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
-- [2024.04.30] -> [2024.05.02] No updates for this date.
+- [2024.04.30] -> [2024.05.03] No updates for this date.
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -245,6 +245,8 @@ Major work in progress.
 
 - [:octocat: `https://github.com/resume/`](https://github.com/resume/)
 
+_End of Résumé section._
+
 - [`View this section separately`](/Segments/Resume/README.md)
 
 </details> <!-- End of Résumé section !-->
@@ -297,6 +299,7 @@ This guestbook is for basic interaction, and communications. For further communi
 - [0.12 - Quick links](#Quick-links)
 - [0.13 - Legend](#Legend)
 - [1.0 - Getting started](#Getting-started)
+- [1.1 - Seanpm2001](#Seanpm2001)
 - - [2.0 - About me](#About-me)
 - - - [2.1 - What I'm currently working on](#What-I-am-currently-working-on)
 - - - [2.2 - What I'm looking to collaborate on](#What-I-am-looking-to-collaborate-on)
@@ -543,8 +546,15 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [11.7 - Optimizing this page](#Optimizing-this-page)
 - - [11.8 - Internet status](#Internet-status)
 - - [11.9 - Developer limits](#Developer-limits)
-- [12.0 - Footer](#Footer)
-- - [12.1 - End of file](#End-of-file)
+- [12.0 - SeanWallaWalla](#SeanWallaWalla)
+- - [12.1 - About me 2](#About-me-2)
+- - - [12.1.1 - Profile picture 2](#Profile-picture-2)
+- - - [12.1.2 - Forks 2](#Forks-2)
+- - - [12.1.3 - Follow for follow 2](#Follow-for-follow-2)
+- - - [12.1.4 - Account suspension 2](#Account-suspension-2)
+- - - [12.1.5 - Websites 2](#Websites-2)
+- [13.0 - Footer](#Footer)
+- - [13.1 - End of file](#End-of-file)
 - [FF.F - EOF](#EOF)
 
 </details> <!-- End of classic index view table section !-->
@@ -574,7 +584,8 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Quick links`](#Quick-links) | Lead/introduction | Introduction | 1 | `h2` |
 | [`Legend`](#Legend) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Getting started`](#Getting-started) | Bio | Introduction | 1.1 | `h1` |
-| [`About me`](#About-me) | Bio | About me | 2 | `h2` |
+| [`Seanpm2001`](#Seanpm2001) | Bio | Introduction | 1.1 | `h1` |
+| [`About me`](#About-me) | Bio | About me | 1.1 | `h1` |
 | [`What I'm currently working on`](#What-I-am-currently-working-on) | Bio | About me | 2 | `h3` |
 | [`What I'm looking to collabrate on`](#What-I-am-looking-to-collaborate-on) | Bio | About me | 2 | `h3` |
 | [`What I have collaborated on`](#What-I-have-collaborated-on) | Bio | About me | 2 | `h4` |
@@ -820,9 +831,16 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Optimizing this page`](#Optimizing-this-page) | About this page | About this page | 11 | `h3` |
 | [`Internet status`](#Internet-status) | About this page | About this page | 11 | `h3` |
 | [`Developer limits`](#Developer-limits) | About this page | About this page | 11 | `h3` |
-| [`Footer`](#Footer) | Footer | Footer | 12 | `h3` |
-| [`End of file`](#End-of-file) | Footer | Footer | 12 | `h3` |
-| [`EOF`](#EOF) | Footer | Footer | 12 | `h3` |
+| [`SeanWallaWalla`](#SeanWallaWalla) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h1` |
+| [`About me 2`](#About-me-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h2` |
+| [`Profile picture 2`](#Profile-picture-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Forks 2`](#Forks-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Follow for follow 2`](#Follow-for-follow-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Account suspension 2`](#Account-suspension-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Websites 2`](#Websites-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Footer`](#Footer) | Footer | Footer | 13 | `h3` |
+| [`End of file`](#End-of-file) | Footer | Footer | 13 | `h3` |
+| [`EOF`](#EOF) | Footer | Footer | 13 | `h3` |
 
 </details> <!-- End of table index view table section !-->
 
@@ -857,6 +875,7 @@ This guestbook is for basic interaction, and communications. For further communi
 ##Quick links
 #Legend
 #Getting started
+#Seanpm2001
 ##About me
 ###What I'm currently working on
 ###What I'm looking to collaborate on
@@ -1103,6 +1122,13 @@ This guestbook is for basic interaction, and communications. For further communi
 ###Optimizing this page
 ###Internet status
 ###Developer limits
+#SeanWallaWalla
+##About me 2
+###Profile picture 2
+###Forks 2
+###Follow for follow 2
+###Account suspension 2
+###Websites 2
 ###Footer
 ###End of file
 ###EOF
@@ -1133,6 +1159,7 @@ This guestbook is for basic interaction, and communications. For further communi
 #Quick links
 #Legend
 #Getting started
+#Seanpm2001
 #About me
 #What I'm currently working on
 #What I'm looking to collaborate on
@@ -1379,6 +1406,13 @@ This guestbook is for basic interaction, and communications. For further communi
 #Optimizing this page
 #Internet status
 #Developer limits
+#SeanWallaWalla
+#About me 2
+#Profile picture 2
+#Forks 2
+#Follow for follow 2
+#Account suspension 2
+#Websites 2
 #Footer
 #End of file
 #EOF
@@ -1451,7 +1485,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 42 - 2024, Thursday, May 2nd` |
+| `Beta 43 - 2024, Friday, May 3rd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1462,7 +1496,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 41 days down, 22/23 days to go, as of 2024, Thursday, May 2nd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 42 days down, 21/22 days to go, as of 2024, Friday, May 3rd)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1540,7 +1574,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 |---|---|---|
 | [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
 | [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
-| Beta 43 | Coming soon | 42 |
+| [`Beta 43`](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md) | 2024, Friday, May 3rd | 42 |
 | Beta 44 | Coming soon | 43 |
 | Beta 45 | Coming soon | 44 |
 | Beta 46 | Coming soon | 45 |
@@ -1578,18 +1612,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `11` **/** `236` **tasks** _(004.66%)_ |
-| _as of 2024, Thursday, May 2nd._ |
+| `009` **/** `236` **tasks** _(003.82%)_ |
+| _as of 2024, Friday, May 3rd._ |
 
-- **Current tasks to do (11 tasks, as of 2024, Thursday, May 2nd)**
+- **Current tasks to do (009 tasks, as of 2024, Friday, May 3rd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
-
-[ 2024.05.02] Was going to also do this today, but I had to cut back
-
-```
-Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
-Improvements to language translation process, and info on this
-```
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
@@ -1603,8 +1630,6 @@ New translation methods
 New style (custom headings, as images) also dividers
 My web stack
 New icon to center at the top
-Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
-Improvements to language translation process, and info on this
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -1621,10 +1646,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `225` **/** `236` **tasks** _(095.34%)_ |
-| _as of 2024, Thursday, May 2nd._ |
+| `227` **/** `236` **tasks** _(096.18%)_ |
+| _as of 2024, Friday, May 3rd._ |
 
-- **Tasks implemented so far (225 tasks, as of 2024, Thursday, May 2nd)**
+- **Tasks implemented so far (227 tasks, as of 2024, Friday, May 3rd)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1855,6 +1880,8 @@ Should be replaced with:
 src="" alt=
 Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
+Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Improvements to language translation process, and info on this
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -1967,13 +1994,17 @@ View this segment [in a separate file (coming soon)](/Segments/Legend/README.md)
 
 **The bulk of my profile resides here.**
 
-<details><summary><H2>🚨️ Click/tap here to expand/collapse my profile</H2></summary>
+***
+
+# [Seanpm2001](#Seanpm2001)
+
+<details><summary><H2>🚨️ Click/tap here to expand/collapse my profile (@seanpm2001)</H2></summary>
 
 <div align="center">
    
    <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" width="480" height="480"> !-->
    <!-- <img src="/SeniorPhotoFullQuality.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="412" height="267"> !-->
-   <img src="/Graphics/Profile-Avatar/65933340.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020)" width="460" height="460">
+   <img src="/Graphics/Profile-Avatar/65933340.jpeg" alt="GitHub profile picture failed to load" title="My High School Senior photo (2020) (GitHub profile picture for @seanpm2001)" width="460" height="460">
    
    | ( [`@Seanpm2001`](https://github.com/seanpm2001/) / [`@seanwallawalla`](https://github.com/seanwallawalla/) ) |
    |---------------------|
@@ -2862,11 +2893,11 @@ For now, it can be viewed [here instead](/Segments/Residence/README.md)
 	
 Here is a history of my GitHub profile picture:
 
-<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/Seanpm2001_original-profile-photo.png" alt="Original profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture" width="440" height="440">
+<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/seanpm2001_original-profile-photo.png" alt="Original profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture" width="440" height="440">
 
 > Original (May 25th 2020 to ? 2020)
 
-<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/Seanpm2001_original-profile-photo-source.png" alt="Original modified profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture source" width="440" height="440">
+<img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/seanpm2001_original-profile-photo-source.png" alt="Original modified profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture source" width="440" height="440">
 
 > Original (Windows Explorer transparency glitched version)
 
@@ -7468,11 +7499,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `116 (2024, Thursday, May 2nd at 08:26 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,213`
-- **Word count:** `057,452`
-- **Character count (with spaces):** `0,395,721 characters`
-- **Character count (without spaces)** `0,343,309 characters`
+- **File version:** `117 (2024, Friday, May 3rd at 04:05 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,395`
+- **Word count:** `058,683`
+- **Character count (with spaces):** `0,404,227 characters`
+- **Character count (without spaces)** `0,350,615 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8043,7 +8074,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
-> **Note** _This is the forty-first update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Wednesday, May 1st to 2024, Thursday, May 2nd. There was more that I wanted to accomplish today, but I pushed my time too thin, and couldn't get 2 additional tasks completed._
+> **Note** _This is the forty-first update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Wednesday, May 1st to 2024, Thursday, May 2nd. This is the forty-first update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Wednesday, May 1st to 2024, Thursday, May 2nd. There was more that I wanted to accomplish today, but I pushed my time too thin, and couldn't get 2 additional tasks completed._
 
 > Changes:
  
@@ -8070,11 +8101,39 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 117 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 117 (2024, Friday, May 3rd at 04:05 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-second update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Thursday, May 2nd to 2024, Friday, May 3rd. This update accomplished the goals I couldn't get to yesterday, one of them was already technically done. Todays update was done much earlier in the day (in the mid afternoon) the most notable change is the split of the profile, making a new profile section for @seanwallawalla_
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Index` section
+- [x] Added the `Seanpm2001` section
+- [x] Added the `SeanWallaWalla` section
+- [x] Added the `About me 2` section
+- [x] Added the `Profile picture 2` section
+- [x] Added the `Forks 2` section
+- [x] Added the `Follow for follow 2` section
+- [x] Added the `Account suspension 2` section
+- [x] Added the `Websites 2` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 117
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 117
 
 </details> <!-- End of V117 !-->
@@ -9006,7 +9065,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 2nd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-2nd)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 3rd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-3rd)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9054,6 +9113,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 40 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md)
 - - [Link to remodel section version 41 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md)
 - - [Link to remodel section version 42 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md)
+- - [Link to remodel section version 43 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9125,9 +9185,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1052` (as of V116) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1060` (as of V117) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V116: `399,929` / `524,288` (`076.280%`))
+- - **Current character count (in bytes):** (as of V117: `399,825` / `524,288` (`077.909%`))
 
 > Memory
 
@@ -9148,7 +9208,136 @@ _End of about this page section._
 
 ***
 
-_End of profile body._
+_End of profile body for @seanpm2001._
+
+</details> <!-- End of @seanpm2001 profile body !-->
+
+***
+
+# [SeanWallaWalla](#SeanWallaWalla)
+
+<details><summary><H2>🚨️ Click/tap here to expand/collapse my profile (@seanwallawalla)</H2></summary>
+
+<div align="center">
+
+   <img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/seanpm2001_original-profile-photo.png" alt="GitHub profile picture for @seanwallawalla failed to load" title="Tux (zoomed in) (profile picture for @seanwallawalla)" width="460" height="460">
+   
+   | ( [`@seanwallawalla`](https://github.com/seanwallawalla/) / [`@Seanpm2001`](https://github.com/seanpm2001/) ) |
+   |---------------------|
+   | **SeanWallaWalla** |
+
+</div>
+
+***
+
+## [ℹ️ About me 2](#-About-me-2)
+
+<details><summary><p><b>Click/tap here to expand/collapse the listing of sections about me</b></p></summary>
+
+This is my alternative account. It retains my original online name from 2015 to 2020 May 24th. [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/)
+
+| [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
+|---|
+| Version 117 |
+| 2024, Friday, May 3rd |
+
+
+***
+
+### [🖼️ Profile picture 2](#-Profile-picture-2)
+
+<details><summary><p><b>Click/tap here to expand/collapse the section about my profile picture</b></p></summary>
+
+The profile picture of my alternative account is the same as the profile picture for my original account prior to it being changed for the first time.
+
+| <img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/seanpm2001_original-profile-photo-source.png" alt="Original profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture" width="440" height="440"> |
+|---|
+| Original (2020, September 22nd to present) |
+
+| <img src="/Graphics/GitHub-Profile-Picture/History/Seanpm2001/seanpm2001_original-profile-photo.png" alt="Original modified profile picture failed to load. Click/tap here to attempt to view it" title="GitHub original profile picture source" width="440" height="440"> |
+|---|
+| Original (Windows Explorer transparency glitched version) |
+
+View this segment [in a separate file)](/Segments/Profile-picture-2/README.md)
+
+_End of profile picture section for @seanwallawalla_
+
+</details> <!-- End of profile picture 2 section !-->
+
+***
+
+## [🍴️ Forks 2](#-Forks-2)
+
+<details><summary><p><b>Click/tap here to expand/collapse the section about forking activity on @seanwallawalla</b></p></summary>
+
+The @seanwallawalla account backs up the @seanpm2001 account by forking its repositories. This is done on a daily basis.
+
+View this segment [in a separate file)](/Segments/Forks-2/README.md)
+
+_End of the fork information section for @seanwallawalla_
+
+</details> <!-- End of forks 2 section !-->
+
+***
+
+## [👥️ Follow for follow 2](#-Follow-for-follow-2)
+
+<details><summary><p><b>Click/tap here to expand/collapse the section about F4F activity on @seanwallawalla</b></p></summary>
+
+Just like my main account (@seanpm2001) the @seanwallawalla account also does follow for follow, regardless of user type. As usual, the only exceptions are for when GitHub refuses to let me follow a user and gives me an error, or when a user account has their profile activity hidden, which disables the follow button.
+
+View this segment [in a separate file)](/Segments/Follow-for-follow-2/README.md)
+
+_End of the follow for follow information section for @seanwallawalla_
+
+</details> <!-- End of follow for follow 2 section !-->
+
+***
+
+## [⛔️ Account suspension 2](#-Account-suspension-2)
+
+<details><summary><p><b>Click/tap here to expand/collapse the section about account suspension</b></p></summary>
+
+When my main account (@seanpm2001) was suspeded on 2022 July 19th, I began to use my alt account more. I [:octocat: `created a repository documenting the situation`](https://github.com/seanwallawalla/Seanpm2001_GitHub-Account-Flagged-2022July19th/), and after my account came back, I began to do daily forks to my alt account.
+
+View this segment [in a separate file)](/Segments/Account-suspension-2/README.md)
+
+_End of the account suspension information section for @seanwallawalla_
+
+</details> <!-- End of account suspension 2 section !-->
+
+***
+
+## [🕸️ Websites 2](#-Websites-2)
+
+<details><summary><p><b>Click/tap here to expand/collapse the section about account suspension</b></p></summary>
+
+My alt account has its own GitHub pages instance.
+
+- [:octocat: `repository (seanwallawalla/seanwallawalla.github.io)`](https://github.com/seanwallawalla/seanwallawalla.github.io)
+- [:octocat: `website (seanwallawalla.github.io)`](https://seanwallawalla.github.io/)
+
+View this segment [in a separate file)](/Segments/Websites-2/README.md)
+
+_End of the website information section for @seanwallawalla_
+
+</details> <!-- End of websites 2 section !-->
+
+***
+
+_End of about me section for @seanwallawalla_
+
+</details> <!-- End of about me 2 section !-->
+
+***
+
+_End of profile body for @seanwallawalla._
+
+</details> <!-- End of @seanwallawalla profile body Started section !-->
+
+***
+
+_End of getting started section._
 
 </details> <!-- End of Getting Started section !-->
 
@@ -9174,7 +9363,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 116 (beta 42)** | _2024, Thursday, May 2nd._ |
+| **Version 117 (beta 43)** | _2024, Friday, May 3rd._ |
 
 <div align="center">
 
@@ -9186,14 +9375,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/113/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
-
-<!--
-| [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
-|---|
-| Version ? |
-| ?DATE? |
-!-->
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/114/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
 |---|---|
