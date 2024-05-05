@@ -15,6 +15,33 @@
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section (classic index view)]</b></p></summary>
 
+<!-- Experiment
+Demo:
+
+<table>
+  <tr>
+    <td>
+      
+- [@livedeveloper823, Welcome!](#livedeveloper823-welcome)
+  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
+  - [Rapidfire](#rapidfire)
+  - [Languages and Tools](#languages-and-tools)
+- [📊 GitHub Stats:](#-github-stats)
+    - [🏆 GitHub Trophies](#-github-trophies)
+    - [✍️ Random Dev Quote](#️-random-dev-quote)
+    - [🔝 Top Contributed Repo](#-top-contributed-repo)
+    - [😂 Random Dev Meme](#-random-dev-meme)
+- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
+
+    </td>
+  </tr>
+</table>
+!-->
+
+<table>
+  <tr>
+    <td>
+
 - [0.0 - Top](#Top)
 - [0.1 - Seanpm2001 on GitHub](#Seanpm2001-on-GitHub)
 - - [0.1.1 - Welcome to my GitHub profile](#Welcome-to-my-GitHub-profile)
@@ -23,13 +50,15 @@
 - [0.4 - Administrator section](#Administrator-section)
 - [0.5 - Size warning](#Size-warning)
 - [0.6 - Read this article in a different language](#Read-this-article-in-a-different-language)
-- [0.7 - Guestbook](#Guestbook)
-- [0.8 - Index](#Index)
-- [0.9 - Ukraine](#Ukraine)
-- [0.10 - REMODEL IN PROGRESS](#REMODEL-IN-PROGRESS)"
-- [0.11 - Quick links](#Quick-links)
-- [0.12 - Legend](#Legend)
+- [0.7 - Résumé](#Resume)
+- [0.8 - Guestbook](#Guestbook)
+- [0.9 - Index](#Index)
+- [0.10 - Ukraine](#Ukraine)
+- [0.11 - REMODEL IN PROGRESS](#REMODEL-IN-PROGRESS)"
+- [0.12 - Quick links](#Quick-links)
+- [0.13 - Legend](#Legend)
 - [1.0 - Getting started](#Getting-started)
+- [1.1 - Seanpm2001](#Seanpm2001)
 - - [2.0 - About me](#About-me)
 - - - [2.1 - What I'm currently working on](#What-I-am-currently-working-on)
 - - - [2.2 - What I'm looking to collaborate on](#What-I-am-looking-to-collaborate-on)
@@ -173,14 +202,15 @@
 - - [2.27 - Green team](#Green-team)
 - - [2.28 - Computer user type](#Computer-user-type)
 - - [2.29 - Education](#Education)
-- - [2.30 - GitHub Developer Program](#GitHub Developer Program)
-- - - [2.30.1 - Extensions](#Extensions)
-- - - [2.30.2 - Marketplace](#Marketplace)
-- - - - [2.30.2.1 - My actions](#My-actions)
-- - - - [2.30.2.2 - My CI workflows](#My-CI-workflows)
-- - - [2.30.3 - Information](#Information)
-- - [2.31 - Frequently Asked Questions](#Frequently-Asked-Questions)
-- - [2.32 - GitHub Profile Template](#GitHub-Profile-Template)
+- - [2.30 - Certifications](#Certifications)
+- - [2.31 - GitHub Developer Program](#GitHub Developer Program)
+- - - [2.31.1 - Extensions](#Extensions)
+- - - [2.31.2 - Marketplace](#Marketplace)
+- - - - [2.31.2.1 - My actions](#My-actions)
+- - - - [2.31.2.2 - My CI workflows](#My-CI-workflows)
+- - - [2.31.3 - Information](#Information)
+- - [2.32 - Frequently Asked Questions](#Frequently-Asked-Questions)
+- - [2.33 - GitHub Profile Template](#GitHub-Profile-Template)
 - [3.0 - Life](#Life)
 - - [3.1 - Personal](#Personal)
 - - [3.2 - Politics](#Politics)
@@ -215,17 +245,18 @@
 - - [8.1 - List of all repositories](#List-of-all-repositories)
 - - [8.2 - Website modules](#Website-modules)
 - - [8.3 - Template projects](#Template-projects)
-- - [8.4 - Upcoming projects](#Upcoming-projects)
-- - [8.5 - Other projects](#Other-projects)
-- - [8.6 - Platforms I develop for](#Platforms-I-develop-for)
-- - - [8.6.1 - Linux platform support](#Linux-platform-support)
-- - - [8.6.2 - BSD platform support](#BSD-platform-support)
-- - - - [8.6.2.1 - MacOS and iOS](#MacOS-and-iOS)
-- - - - [8.6.2.2 - Other BSD](#Other-BSD)
-- - - [8.6.3 - Windows platform support](#Windows-platform-support)
-- - - [8.6.4 - Other platform support](#Other-platform-support)
-- - [8.7 - What I'm currently working on](#What-I-am-currently-working-on)
-- - [8.8 - Project of the day](#Project-of-the-day)
+- - [8.4 - UnSaaSS project](#UnSaaSS-project)
+- - [8.5 - Upcoming projects](#Upcoming-projects)
+- - [8.6 - Other projects](#Other-projects)
+- - [8.7 - Platforms I develop for](#Platforms-I-develop-for)
+- - - [8.7.1 - Linux platform support](#Linux-platform-support)
+- - - [8.7.2 - BSD platform support](#BSD-platform-support)
+- - - - [8.7.2.1 - MacOS and iOS](#MacOS-and-iOS)
+- - - - [8.7.2.2 - Other BSD](#Other-BSD)
+- - - [8.7.3 - Windows platform support](#Windows-platform-support)
+- - - [8.7.4 - Other platform support](#Other-platform-support)
+- - [8.8 - What I'm currently working on](#What-I-am-currently-working-on)
+- - [8.9 - Project of the day](#Project-of-the-day)
 - [9.0 - Goals](#Goals)
 - [10.0 Documentation](#Documentation)
 - - [10.1 - License](#License)
@@ -256,6 +287,14 @@
 - - [10.24 - README usage](#README-usage)
 - - [10.25 - Software status](#Software-status)
 - - [10.26 - Feature requests for GitHub](#Feature-requests-for-GitHub)
+- - [10.27 - Confetti](#Confetti)
+- - [10.28 - GitHub bugs](#GitHub-bugs)
+- - [10.29 - Inspirations](#Inspirations)
+- - [10.30 - Humor](#Humor)
+- - [10.31 - Common GitHub profile media](#Common-GitHub-profile-media)
+- - - [10.31.1 - Common GitHub profile GIF media](#Common-GitHub-profile-GIF-media)
+- - - [10.31.2 - Common GitHub profile PNG media](#Common-GitHub-profile-PNG-media)
+- - - [10.31.3 - Common GitHub profile SVG media](#Common-GitHub-profile-SVG-media)
 - [11.0 - About this page](#About-this-page)
 - - [11.1 - Workflows (seanpm2001/seanpm2001)](#Workflows-seanpm2001-seanpm2001)
 - - [11.2 - GitHub:seanpm2001/seanpm2001](#GitHub-seanpm2001-seanpm2001)
@@ -266,9 +305,20 @@
 - - [11.7 - Optimizing this page](#Optimizing-this-page)
 - - [11.8 - Internet status](#Internet-status)
 - - [11.9 - Developer limits](#Developer-limits)
-- [12.0 - Footer](#Footer)
-- - [12.1 - End of file](#End-of-file)
+- [12.0 - SeanWallaWalla](#SeanWallaWalla)
+- - [12.1 - About me 2](#About-me-2)
+- - - [12.1.1 - Profile picture 2](#Profile-picture-2)
+- - - [12.1.2 - Forks 2](#Forks-2)
+- - - [12.1.3 - Follow for follow 2](#Follow-for-follow-2)
+- - - [12.1.4 - Account suspension 2](#Account-suspension-2)
+- - - [12.1.5 - Websites 2](#Websites-2)
+- [13.0 - Footer](#Footer)
+- - [13.1 - End of file](#End-of-file)
 - [FF.F - EOF](#EOF)
+
+    </td>
+  </tr>
+</table>
 
 </details> <!-- End of classic index view table section !-->
 
@@ -289,6 +339,7 @@
 | [`Administrator section`](#Administrator-section) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Size warning`](#Size-warning) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Read this article in a different language`](#Read-this-article-in-a-different-language) | Lead/introduction | Introduction | 1 | `h1` |
+| [`Résumé`](#Resume) | Résumé | Introduction | 1 | `h2` |
 | [`Guestbook`](#Guestbook) | Lead/introduction | Introduction | 1 | `h2` |
 | [`Index`](#Index) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Ukraine`](#Ukraine) | Lead/introduction | Introduction | 1 | `h1` |
@@ -296,7 +347,8 @@
 | [`Quick links`](#Quick-links) | Lead/introduction | Introduction | 1 | `h2` |
 | [`Legend`](#Legend) | Lead/introduction | Introduction | 1 | `h1` |
 | [`Getting started`](#Getting-started) | Bio | Introduction | 1.1 | `h1` |
-| [`About me`](#About-me) | Bio | About me | 2 | `h2` |
+| [`Seanpm2001`](#Seanpm2001) | Bio | Introduction | 1.1 | `h1` |
+| [`About me`](#About-me) | Bio | About me | 1.1 | `h1` |
 | [`What I'm currently working on`](#What-I-am-currently-working-on) | Bio | About me | 2 | `h3` |
 | [`What I'm looking to collabrate on`](#What-I-am-looking-to-collaborate-on) | Bio | About me | 2 | `h3` |
 | [`What I have collaborated on`](#What-I-have-collaborated-on) | Bio | About me | 2 | `h4` |
@@ -439,6 +491,7 @@
 | [`Green team`](#Green-team) | Bio | About me | 2 | `h3` |
 | [`Computer user type`](#Computer-user-type) | Bio | About me | 2 | `h3` |
 | [`Education`](#Education) | Bio | About me | 2 | `h3` |
+| [`Cerifications`](#Certifications) | Bio | About me | 2 | `h3` |
 | [`GitHub Developer Program`](#GitHub-Developer-Program) | Bio/GitHub Developer Program | About me | 2 | `h3` |
 | [`Extensions`](#Extensions) | Bio/GitHub Developer Program | About me | 2 | `h4` |
 | [`Marketplace`](#Marketplace) | Bio/GitHub Developer Program | About me | 2 | `h4` |
@@ -481,6 +534,7 @@
 | [`List of all repositories`](#List-of-all-repositories) | My projects | My projects | 8 | `h3` |
 | [`Website modules`](#Website-modules) | My projects | My projects | 8 | `h3` |
 | [`Template projects`](#Template-projects) | My projects | My projects | 8 | `h3` |
+| [`UnSaaSS project`](#UnSaaSS-project) | My projects | My projects | 8 | `h3` |
 | [`Upcoming projects`](#Upcoming-projects) | My projects | My projects | 8 | `h3` |
 | [`Other projects`](#Other-projects) | My projects | My projects | 8 | `h3` |
 | [`Platforms I develop for`](#Platforms-I-develop-for) | My projects/platform support | My projects | 8 | `h3` |
@@ -522,6 +576,14 @@
 | [`README usage`](#README-usage) | Documentation | Documentation | 10 | `h3` |
 | [`Software status`](#Software-status) | Documentation | Documentation | 10 | `h3` |
 | [`Feature requests for GitHub`](#Feature-requests-for-GitHub) | Documentation | Documentation | 10 | `h3` |
+| [`Confetti`](#Confetti) | Documentation | Documentation | 10 | `h3` |
+| [`GitHub bugs`](#GitHub-bugs) | Documentation | Documentation | 10 | `h3` |
+| [`Inspirations`](#Inspirations) | Documentation | Documentation | 10 | `h3` |
+| [`Humor`](#Humor) | Documentation | Documentation | 10 | `h3` |
+| [`Common GitHub profile media`](#Common-GitHub-profile-media) | Documentation | Documentation | 10 | `h3` |
+| [`Common GitHub profile GIF media`](#Common-GitHub-profile-GIF-media) | Documentation | Documentation | 10 | `h4` |
+| [`Common GitHub profile PNG media`](#Common-GitHub-profile-PNG-media) | Documentation | Documentation | 10 | `h4` |
+| [`Common GitHub profile SVG media`](#Common-GitHub-profile-SVG-media) | Documentation | Documentation | 10 | `h4` |
 | [`About this page`](#About-this-page) | About this page | About this page | 11 | `h2` |
 | [`Workflows (seanpm2001/seanpm2001)`](#Workflows-seanpm2001-seanpm2001) | About this page | About this page | 11 | `h3` |
 | [`GitHub:seanpm2001/seanpm2001`](#GitHub-seanpm2001-seanpm2001) | About this page | About this page | 11 | `h3` |
@@ -532,9 +594,16 @@
 | [`Optimizing this page`](#Optimizing-this-page) | About this page | About this page | 11 | `h3` |
 | [`Internet status`](#Internet-status) | About this page | About this page | 11 | `h3` |
 | [`Developer limits`](#Developer-limits) | About this page | About this page | 11 | `h3` |
-| [`Footer`](#Footer) | Footer | Footer | 12 | `h3` |
-| [`End of file`](#End-of-file) | Footer | Footer | 12 | `h3` |
-| [`EOF`](#EOF) | Footer | Footer | 12 | `h3` |
+| [`SeanWallaWalla`](#SeanWallaWalla) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h1` |
+| [`About me 2`](#About-me-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h2` |
+| [`Profile picture 2`](#Profile-picture-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Forks 2`](#Forks-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Follow for follow 2`](#Follow-for-follow-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Account suspension 2`](#Account-suspension-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Websites 2`](#Websites-2) | About this page 2 (@seanwallawalla) | About this page 2 (@seanwallawalla) | 12 | `h3` |
+| [`Footer`](#Footer) | Footer | Footer | 13 | `h3` |
+| [`End of file`](#End-of-file) | Footer | Footer | 13 | `h3` |
+| [`EOF`](#EOF) | Footer | Footer | 13 | `h3` |
 
 </details> <!-- End of table index view table section !-->
 
@@ -561,6 +630,7 @@
 #Administrator section
 #Size warning
 #Read this article in a different language
+#Résumé
 ##Guestbook
 #Index
 #Ukraine
@@ -568,6 +638,7 @@
 ##Quick links
 #Legend
 #Getting started
+#Seanpm2001
 ##About me
 ###What I'm currently working on
 ###What I'm looking to collaborate on
@@ -711,6 +782,7 @@
 ###Green team
 ###Computer user type
 ###Education
+###Certifications
 ###GitHub Developer Program
 ####Extensions
 ####Marketplace
@@ -753,6 +825,7 @@
 ###List of all repositories
 ###Website modules
 ###Template projects
+###UnSaaSS
 ###Upcoming projects
 ###Other projects
 ###Platforms I develop for
@@ -794,6 +867,14 @@
 ###README usage
 ###Software status
 ###Feature requests for GitHub
+###Confetti
+###GitHub bugs 
+###Inspirations
+###Humor
+###Common GitHub profile media
+####Common GitHub profile GIF media
+####Common GitHub profile PNG media
+####Common GitHub profile SVG media
 ##About this page
 ###Workflows (seanpm2001/seanpm2001)
 ###GitHub:seanpm2001/seanpm2001
@@ -804,6 +885,13 @@
 ###Optimizing this page
 ###Internet status
 ###Developer limits
+#SeanWallaWalla
+##About me 2
+###Profile picture 2
+###Forks 2
+###Follow for follow 2
+###Account suspension 2
+###Websites 2
 ###Footer
 ###End of file
 ###EOF
@@ -826,6 +914,7 @@
 #Administrator section
 #Size warning
 #Read this article in a different language
+#Résumé
 #Guestbook
 #Index
 #Ukraine
@@ -833,6 +922,7 @@
 #Quick links
 #Legend
 #Getting started
+#Seanpm2001
 #About me
 #What I'm currently working on
 #What I'm looking to collaborate on
@@ -976,6 +1066,7 @@
 #Green team
 #Computer user type
 #Education
+#Certifications
 #GitHub Developer Program
 #Extensions
 #Marketplace
@@ -1018,6 +1109,7 @@
 #List of all repositories
 #Website modules
 #Template projects
+#UnSaaSS
 #Upcoming projects
 #Other projects
 #Platforms I develop for
@@ -1059,6 +1151,14 @@
 #README usage
 #Software status
 #Feature requests for GitHub
+#Confetti
+#GitHub bugs
+#Inspirations
+#Humor
+#Common GitHub profile media
+#Common GitHub profile GIF media
+#Common GitHub profile PNG media
+#Common GitHub profile SVG media
 #About this page
 #Workflows (seanpm2001/seanpm2001)
 #GitHub:seanpm2001/seanpm2001
@@ -1069,6 +1169,13 @@
 #Optimizing this page
 #Internet status
 #Developer limits
+#SeanWallaWalla
+#About me 2
+#Profile picture 2
+#Forks 2
+#Follow for follow 2
+#Account suspension 2
+#Websites 2
 #Footer
 #End of file
 #EOF
