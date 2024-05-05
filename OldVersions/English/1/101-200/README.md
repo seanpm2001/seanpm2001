@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-03"
-      - version: "v117"
+      - date: "2024-05-04"
+      - version: "v118"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -111,7 +111,21 @@ _Further instructions not yet available._
 for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.18] -> [2024.04.28] No updates for this date.
 - [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
-- [2024.04.30] -> [2024.05.03] No updates for this date.
+- [2024.04.30] -> [2024.05.04] No updates for this date.
+
+***
+
+<details><summary><p><b>Click/tap here to expand/collapse a preview of the size error (various sizes)</b></p></summary>
+
+| V1 | V2 | V3 | V4 | V5 |
+|---|---|---|---|---|
+| <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-10-47%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V1" width="1920" height="13028"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-08%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V2" width="1920" height="6487"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-19%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V3" width="1920" height="5824"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-27%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V4" width="1920" height="4374"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-38%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V5" width="1920" height="2051"> |
+
+</details> <!-- End of Size error image section !-->
+
+***
+
+_End of size warning section._
 
 - [`View this section separately`](/Segments/Size-warning/README.md)
 
@@ -282,6 +296,33 @@ This guestbook is for basic interaction, and communications. For further communi
 **Classic index view (list view)**
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section (classic index view)]</b></p></summary>
+
+<!-- Experiment
+Demo:
+
+<table>
+  <tr>
+    <td>
+      
+- [@livedeveloper823, Welcome!](#livedeveloper823-welcome)
+  - [My personal values and work ethic](#my-personal-values-and-work-ethic)
+  - [Rapidfire](#rapidfire)
+  - [Languages and Tools](#languages-and-tools)
+- [📊 GitHub Stats:](#-github-stats)
+    - [🏆 GitHub Trophies](#-github-trophies)
+    - [✍️ Random Dev Quote](#️-random-dev-quote)
+    - [🔝 Top Contributed Repo](#-top-contributed-repo)
+    - [😂 Random Dev Meme](#-random-dev-meme)
+- [Do you want to see my past work?](#do-you-want-to-see-my-past-work)
+
+    </td>
+  </tr>
+</table>
+!-->
+
+<table>
+  <tr>
+    <td>
 
 - [0.0 - Top](#Top)
 - [0.1 - Seanpm2001 on GitHub](#Seanpm2001-on-GitHub)
@@ -556,6 +597,10 @@ This guestbook is for basic interaction, and communications. For further communi
 - [13.0 - Footer](#Footer)
 - - [13.1 - End of file](#End-of-file)
 - [FF.F - EOF](#EOF)
+
+    </td>
+  </tr>
+</table>
 
 </details> <!-- End of classic index view table section !-->
 
@@ -1485,7 +1530,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 43 - 2024, Friday, May 3rd` |
+| `Beta 44 - 2024, Saturday, May 4th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1496,7 +1541,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 42 days down, 21/22 days to go, as of 2024, Friday, May 3rd)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 43 days down, 20/21 days to go, as of 2024, Saturday, May 4th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1575,7 +1620,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
 | [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
 | [`Beta 43`](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md) | 2024, Friday, May 3rd | 42 |
-| Beta 44 | Coming soon | 43 |
+| [`Beta 44`](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md) | 2024, Saturday, May 4th | 43 |
 | Beta 45 | Coming soon | 44 |
 | Beta 46 | Coming soon | 45 |
 | Beta 47 | Coming soon | 46 |
@@ -1613,9 +1658,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `009` **/** `236` **tasks** _(003.82%)_ |
-| _as of 2024, Friday, May 3rd._ |
+| _as of 2024, Saturday, May 4th._ |
 
-- **Current tasks to do (009 tasks, as of 2024, Friday, May 3rd)**
+- **Current tasks to do (009 tasks, as of 2024, Saturday, May 4th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1647,9 +1692,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `227` **/** `236` **tasks** _(096.18%)_ |
-| _as of 2024, Friday, May 3rd._ |
+| _as of 2024, Saturday, May 4th._ |
 
-- **Tasks implemented so far (227 tasks, as of 2024, Friday, May 3rd)**
+- **Tasks implemented so far (227 tasks, as of 2024, Saturday, May 4th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1896,20 +1941,16 @@ They have been implemented.
 
 <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile data%20for%20%40seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 90 of the remodel" width="448" height="5665">
 
+<img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile%20data%20for%20@seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 80 of the remodel" width="1920" height="16995">
+
 GitHub profile during remodel (images to include in remodel section)
+
+</details> <!-- End of remodel version 90 section !-->
 
 <!--
 <pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-07 seanpm2001 - Overview.png&apos;</b></font>
 <font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-43 seanpm2001 - Overview.png&apos;</b></font></pre>
 !-->
-
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png&apos;</b></font>
-</pre>
 
 </details> <!-- End of remodel section !-->
 
@@ -2123,6 +2164,7 @@ I have collaborated on a few projects on GitHub, including
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `jmdugan/blocklists`](https://github.com/jmdugan/blocklists/) | 100% issues (2024) | [1](https://github.com/jmdugan/blocklists/issues/80/) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `FaviFake/FaviFake`](https://github.com/FaviFake/FaviFake/) | 100% pull requests (2024) | [1](https://github.com/FaviFake/FaviFake/pull/1/) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/dmca`](https://github.com/github/dmca/) | 100% pull requests (2024) (not a contribution) | [1](https://github.com/github/dmca/pull/8765/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/community`](https://github.com/github/community/) | 100% discussions (2024) | [1](https://github.com/orgs/community/discussions/60075/) [2](https://github.com/orgs/community/discussions/60170/) | [3](https://github.com/orgs/community/discussions/106369/) | [4](https://github.com/orgs/community/discussions/122339/) |
 
 </details> <!-- End of List of projects I have helped develop subsection !-->
 
@@ -6974,11 +7016,11 @@ There are some features that would be nice for GitHub. They include:
 
 **Entries marked with `⭐` are highest priority**
 
-`2` **/** `15` _features implemented (as of 2024, Wednesday, May 1st)_
+`2` **/** `16` _features implemented (as of 2024, Saturday, May 4th)_
 
-- [x] The ability to follow organizations ⭐ (added to the site on 2022, March 21st) ✅️
+- [x] The ability to follow organizations ⭐ (added to the site on 2022, March 21st)
 - [ ] An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
-- [x] A built-in dark mode, along with other modes (if needed) (added to the site around 2021) ✅️
+- [x] A built-in dark mode, along with other modes (if needed) (added to the site around 2021)
 
 <!-- I currently can't remember this one - [ ] Adding back the ability to hover over and see commit percentages (you used to be able to hover over  ⭐ !-->
 
@@ -6994,6 +7036,7 @@ There are some features that would be nice for GitHub. They include:
 - [ ] Fix some link errors, such as [:octocat: `https://github.com/NEW`](https://github.com/NEW) returning a 404, instead of redirecting to [:octocat: `https://github.com/new`](https://github.com/new)
 - [ ] Return a properly documented error message when trying to create a discussion that goes over the limit, instead of giving a generic, unhelpful error [:octocat: `See community#60075`](https://github.com/orgs/community/discussions/60075/)
 - [ ] Allow embedded videos in Markdown that rely on local repository files, instead of files solely on the GitHub user content server
+- [ ] Keep workflow/action pinned when disabling workflow [:octocat: `See community #122339`](https://github.com/orgs/community/discussions/122339/)
 - [ ] No other requests at the moment
 
 View this segment [in a separate file](/Segments/Feature-requests-for-GitHub/README.md)
@@ -7499,11 +7542,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `117 (2024, Friday, May 3rd at 04:05 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,395`
-- **Word count:** `058,683`
-- **Character count (with spaces):** `0,404,227 characters`
-- **Character count (without spaces)** `0,350,615 characters`
+- **File version:** `118 (2024, Saturday, May 4th at 05:46 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,464`
+- **Word count:** `059,371`
+- **Character count (with spaces):** `0,409,075 characters`
+- **Character count (without spaces)** `0,354,928 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8140,11 +8183,36 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 118 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 118 (2024, Saturday, May 4th at 05:46 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-third update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Friday, May 3rd to 2024, Saturday, May 4th. This was a small maintenance update, it did not go towards any new goals._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- - [x] Added another image regarding V90
+- - [x] Cleaned up 6 local links
+- [x] Formatted the classic index into HTML table style, retaining the list format, and adding a border around it
+- [x] Updated the `Feature requests for GitHub` section
+- [x] Updated the `What I have collaborated on` section
+- [x] Updated the `Size warning` section
+- - [x] Added 5 reference images
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 118
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 118
 
 </details> <!-- End of V118 !-->
@@ -9065,7 +9133,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 3rd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-3rd)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 4th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-4th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9114,6 +9182,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 41 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md)
 - - [Link to remodel section version 42 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md)
 - - [Link to remodel section version 43 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md)
+- - [Link to remodel section version 44 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9185,9 +9254,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1060` (as of V117) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1064` (as of V118) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V117: `399,825` / `524,288` (`077.909%`))
+- - **Current character count (in bytes):** (as of V118: `399,825` / `524,288` (`078.837%`))
 
 > Memory
 
@@ -9363,7 +9432,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 117 (beta 43)** | _2024, Friday, May 3rd._ |
+| **Version 118 (beta 44)** | _2024, Saturday, May 4th._ |
 
 <div align="center">
 
@@ -9375,7 +9444,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/114/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/115/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
 |---|---|
