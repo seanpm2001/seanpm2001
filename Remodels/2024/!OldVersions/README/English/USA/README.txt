@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 44 - 2024, Saturday, May 4th` |
+| `Beta 45 - 2024, Sunday, May 5th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 43 days down, 20/21 days to go, as of 2024, Saturday, May 4th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 44 days down, 19/20 days to go, as of 2024, Sunday, May 5th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -98,7 +98,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
 | [`Beta 43`](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md) | 2024, Friday, May 3rd | 42 |
 | [`Beta 44`](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md) | 2024, Saturday, May 4th | 43 |
-| Beta 45 | Coming soon | 44 |
+| [`Beta 45`](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md) | 2024, Sunday, May 5th | 44 |
 | Beta 46 | Coming soon | 45 |
 | Beta 47 | Coming soon | 46 |
 | Beta 48 | Coming soon | 47 |
@@ -135,9 +135,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `009` **/** `236` **tasks** _(003.82%)_ |
-| _as of 2024, Saturday, May 4th._ |
+| _as of 2024, Sunday, May 5th._ |
 
-- **Current tasks to do (009 tasks, as of 2024, Saturday, May 4th)**
+- **Current tasks to do (009 tasks, as of 2024, Sunday, May 5th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -169,9 +169,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `227` **/** `236` **tasks** _(096.18%)_ |
-| _as of 2024, Saturday, May 4th._ |
+| _as of 2024, Sunday, May 5th._ |
 
-- **Tasks implemented so far (227 tasks, as of 2024, Saturday, May 4th)**
+- **Tasks implemented so far (227 tasks, as of 2024, Sunday, May 5th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
