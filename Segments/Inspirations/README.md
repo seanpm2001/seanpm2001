@@ -1,7 +1,7 @@
 
 ***
 
-## [🎇️ Inspirations](#-Inspirations)
+### [🎇️ Inspirations](#-Inspirations)
 
 <details><summary><p><b>Click/tap here to expand/collapse the GitHub Inspirations section</b></p></summary>
 
@@ -158,6 +158,18 @@ Little snippets across GitHub that have inspired me.
 </details> <!-- End of image15 !-->
 
 ---
+
+**HTML5 style table in Markdown**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/HTML_Table_Markdown-Style.png" alt="HTML5 style table in Markdown" title="HTML5 style table in Markdown" width="813" height="510">
+
+</details> <!-- End of image16 !-->
+
+---
+
+View the full collection [/Graphics/Inspirations/GitHub/](/Graphics/Inspirations/GitHub/)
 
 View this segment [in a separate file](/Segments/Inspirations/README.md)
 
