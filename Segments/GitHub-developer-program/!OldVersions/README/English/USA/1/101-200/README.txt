@@ -37,6 +37,11 @@ I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. He
 
 [Setup Go! (Go2004) GitHub action](https://github.com/seanpm2001/Setup-Go2004-GitHubAction) - This is my first GitHub action. It allows continous integration (CI) with GitHub projects written in the Go! programming language. It is NOT to be used for the Go programming language (which is very similarly named, and easily confusable)
 
+| ![/Graphics/GitHub-Actions/Pinning-and-unpinning/WebM/Pin-unpin-workflow-action-disabled-enabled_2024.05.06_1-50-20PM.webm](/Graphics/GitHub-Actions/Pinning-and-unpinning/WebM/Pin-unpin-workflow-action-disabled-enabled_2024.05.06_1-50-20PM.webm) |
+|---|
+| [GitHub bug](https://github.com/orgs/community/discussions/122339/) where workflow is unpinned after being disabled |
+| Video not yet functional |
+
 </details> <!-- End My CI workflows section !-->
 
 #### [ℹ️ Information](-Information)
@@ -72,4 +77,3 @@ View this segment [`in a separate file`](/Segments/GitHub-developer-program/READ
 </details> <!-- End of GitHub developer program section !-->
 
 ***
-
