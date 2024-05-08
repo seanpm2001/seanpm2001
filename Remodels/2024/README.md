@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 46 - 2024, Monday, May 6th` |
+| `Beta 47 - 2024, Tuesday, May 7th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 45 days down, 18/19 days to go, as of 2024, Monday, May 6th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 46 days down, 17/18 days to go, as of 2024, Tuesday, May 7th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -26,9 +26,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📈️ **Timeline** 📉️ |
 |---------------------|
+| 📉️ **Timeline** 📈️ |
 
 | 0️⃣️3️⃣️ **2024 March** |
 |---|
+| 0️⃣️3️⃣️ **2024 March** |
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
 
@@ -44,11 +46,13 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 8`](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
 | [`Beta 9`](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
 | [`Beta 10`](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 
 </details> <!-- End of 2024 March release timeline table !-->
 
 | 0️⃣️4️⃣️ ***2024 April*** |
 |---|
+| 0️⃣️4️⃣️ ***2024 April*** |
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
 
@@ -84,11 +88,13 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
 | [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
 | [`Beta 40`](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md) | 2024, Tuesday, April 30th | 39 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 
 </details> <!-- End of 2024 April release timeline table !-->
 
 | 0️⃣️5️⃣️ **2024 May** |
 |---|
+| 0️⃣️5️⃣️ **2024 May** |
 
 <details open><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
 
@@ -100,7 +106,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 44`](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md) | 2024, Saturday, May 4th | 43 |
 | [`Beta 45`](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md) | 2024, Sunday, May 5th | 44 |
 | [`Beta 46`](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md) | 2024, Monday, May 6th | 45 |
-| Beta 47 | Coming soon | 46 |
+| [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
 | Beta 48 | Coming soon | 47 |
 | Beta 49 | Coming soon | 48 |
 | Beta 50 | Coming soon | 49 |
@@ -119,6 +125,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | Beta 63 | Coming soon | 62 |
 | Beta 64 | Coming soon | 63 |
 | 4 year anniversary update | Coming soon | 64 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 
 </details> <!-- End of 2024 May release timeline table !-->
 
@@ -135,9 +142,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `009` **/** `236` **tasks** _(003.82%)_ |
-| _as of 2024, Monday, May 6th._ |
+| _as of 2024, Tuesday, May 7th._ |
 
-- **Current tasks to do (009 tasks, as of 2024, Monday, May 6th)**
+- **Current tasks to do (009 tasks, as of 2024, Tuesday, May 7th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -169,9 +176,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `227` **/** `236` **tasks** _(096.18%)_ |
-| _as of 2024, Monday, May 6th._ |
+| _as of 2024, Tuesday, May 7th._ |
 
-- **Tasks implemented so far (227 tasks, as of 2024, Monday, May 6th)**
+- **Tasks implemented so far (227 tasks, as of 2024, Tuesday, May 7th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
