@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-05"
-      - version: "v119"
+      - date: "2024-05-08"
+      - version: "v122"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -112,6 +112,9 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.18] -> [2024.04.28] No updates for this date.
 - [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
 - [2024.04.30] -> [2024.05.05] No updates for this date.
+- [2024.05.06] The document is very close to again reaching and surpassing 80.000% capacity, and will need to be modified to fix this before it reaches 100%
+- [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
+- [2024.05.08] No updates for this date.
 
 ***
 
@@ -1513,7 +1516,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 45 - 2024, Sunday, May 5th` |
+| `Beta 48 - 2024, Wednesday, May 8th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1524,7 +1527,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 44 days down, 19/20 days to go, as of 2024, Sunday, May 5th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 47 days down, 16/17 days to go, as of 2024, Wednesday, May 8th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1532,9 +1535,11 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📈️ **Timeline** 📉️ |
 |---------------------|
+| 📉️ **Timeline** 📈️ |
 
 | 0️⃣️3️⃣️ **2024 March** |
 |---|
+| 0️⃣️3️⃣️ **2024 March** |
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
 
@@ -1550,11 +1555,13 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 8`](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
 | [`Beta 9`](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
 | [`Beta 10`](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 
 </details> <!-- End of 2024 March release timeline table !-->
 
 | 0️⃣️4️⃣️ ***2024 April*** |
 |---|
+| 0️⃣️4️⃣️ ***2024 April*** |
 
 <details><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
 
@@ -1590,11 +1597,13 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
 | [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
 | [`Beta 40`](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md) | 2024, Tuesday, April 30th | 39 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 
 </details> <!-- End of 2024 April release timeline table !-->
 
 | 0️⃣️5️⃣️ **2024 May** |
 |---|
+| 0️⃣️5️⃣️ **2024 May** |
 
 <details open><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
 
@@ -1605,9 +1614,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 43`](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md) | 2024, Friday, May 3rd | 42 |
 | [`Beta 44`](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md) | 2024, Saturday, May 4th | 43 |
 | [`Beta 45`](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md) | 2024, Sunday, May 5th | 44 |
-| Beta 46 | Coming soon | 45 |
-| Beta 47 | Coming soon | 46 |
-| Beta 48 | Coming soon | 47 |
+| [`Beta 46`](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md) | 2024, Monday, May 6th | 45 |
+| [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
+| [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Wednesday, May 8th | 47 |
 | Beta 49 | Coming soon | 48 |
 | Beta 50 | Coming soon | 49 |
 | Beta 51 | Coming soon | 50 |
@@ -1625,6 +1634,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | Beta 63 | Coming soon | 62 |
 | Beta 64 | Coming soon | 63 |
 | 4 year anniversary update | Coming soon | 64 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 
 </details> <!-- End of 2024 May release timeline table !-->
 
@@ -1641,9 +1651,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `009` **/** `236` **tasks** _(003.82%)_ |
-| _as of 2024, Sunday, May 5th._ |
+| _as of 2024, Wednesday, May 8th._ |
 
-- **Current tasks to do (009 tasks, as of 2024, Sunday, May 5th)**
+- **Current tasks to do (009 tasks, as of 2024, Wednesday, May 8th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1675,9 +1685,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `227` **/** `236` **tasks** _(096.18%)_ |
-| _as of 2024, Sunday, May 5th._ |
+| _as of 2024, Wednesday, May 8th._ |
 
-- **Tasks implemented so far (227 tasks, as of 2024, Sunday, May 5th)**
+- **Tasks implemented so far (227 tasks, as of 2024, Wednesday, May 8th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -4952,6 +4962,11 @@ I joined the GitHub developer program on 2022 Friday, January 7th at 2:56 pm. He
 
 [Setup Go! (Go2004) GitHub action](https://github.com/seanpm2001/Setup-Go2004-GitHubAction) - This is my first GitHub action. It allows continous integration (CI) with GitHub projects written in the Go! programming language. It is NOT to be used for the Go programming language (which is very similarly named, and easily confusable)
 
+| ![/Graphics/GitHub-Actions/Pinning-and-unpinning/WebM/Pin-unpin-workflow-action-disabled-enabled_2024.05.06_1-50-20PM.webm](/Graphics/GitHub-Actions/Pinning-and-unpinning/WebM/Pin-unpin-workflow-action-disabled-enabled_2024.05.06_1-50-20PM.webm) |
+|---|
+| [GitHub bug](https://github.com/orgs/community/discussions/122339/) where workflow is unpinned after being disabled |
+| Video not yet functional |
+
 </details> <!-- End My CI workflows section !-->
 
 #### [ℹ️ Information](-Information)
@@ -7080,6 +7095,26 @@ GitHub errors
 | <img src="/Graphics/GitHub_Errors/2024/03_March/29/Screenshot%202024-03-29%20at%2018-03-53%20GitHub%20·%20Where%20software%20is%20built.png" alt="/Graphics/GitHub_Errors/2024/03_March/29/Screenshot 2024-03-29 at 18-03-53 GitHub · Where software is built.png" title="When you add a backdoor to your repository (XZ edition)" width="1920" height="957"> |
 | When you add a backdoor to your repository (XZ) |
 
+| 2024 May 2nd |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/05_May/02/Repository-temporarily-disabled_1_2024May2nd.png" width="1920" height="957"> |
+| Return of the "This repository is temporarily disabled" bug (part 1 of 2) |
+
+| 2024 May 2nd |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/05_May/02/Repository-temporarily-disabled_2_2024May2nd.png" width="1920" height="957"> |
+| Return of the "This repository is temporarily disabled" bug (part 2 of 2) |
+
+| 2024 May 6th |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/05_May/06/Commit-Failed_t-is-Undefined_Large.png" width="1792" height="1224"> |
+| Very annoying upload bug this year (failing, but making me wait 3-5 minutes before doing so, and doing so repeatedly) |
+
+| 2024 May 6th |
+|---|
+| <img src="/Graphics/GitHub_Errors/2024/05_May/06/Screenshot%202024-05-06%20at%2014-39-01%20Processing your files…%20·%20seanpm2001_SeansLifeArchive_Images_Clash-of-Clans_Y2024" width="1088" height="252"> |
+| Very annoying upload bug this year (failing, but making me wait 3-5 minutes before doing so, and doing so repeatedly) (small version) |
+
 ---
 
 View this segment [in a separate file](/Segments/GitHub-bugs/README.md)
@@ -7245,6 +7280,16 @@ Little snippets across GitHub that have inspired me.
 <img src="/Graphics/Inspirations/GitHub/Screenshot%202024-04-27%20at%2012-39-59%20seanpm2001_OpenTTD_AppStore-Data%20Assets%20used%20for%20OpenTTD%20on%20various%20AppStores.png" alt="I10N language table V2" title="I10N language table V2" width="1341" height="2887">
 
 </details> <!-- End of image15 !-->
+
+---
+
+**HTML5 style table in Markdown**
+
+<details><summary><p><b>Click/tap here to expand/collapse this image section</b></p></summary>
+
+<img src="/Graphics/Inspirations/GitHub/HTML_Table_Markdown-Style.png" alt="HTML5 style table in Markdown" title="HTML5 style table in Markdown" width="813" height="510">
+
+</details> <!-- End of image16 !-->
 
 ---
 
@@ -7527,11 +7572,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `119 (2024, Sunday, May 5th at 07:25 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,481`
-- **Word count:** `059,642`
-- **Character count (with spaces):** `0,410,779 characters`
-- **Character count (without spaces)** `0,356,388 characters`
+- **File version:** `121 (2024, Tuesday, May 7th at 10:39 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,570`
+- **Word count:** `060,530`
+- **Character count (with spaces):** `0,416,536 characters`
+- **Character count (without spaces)** `0,361,293 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8240,33 +8285,93 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 120 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 120 (2024, Monday, May 6th at 09:55 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-fifth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Sunday, May 5th to 2024, Monday, May 6th. I held this project off to the end (of my GitHub work time) for today, and wasn't able to achieve any existing goals. I added some new media, and updated 3 segments today. There are only 19 more days to get this project completed._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `GitHub bugs` section
+- [x] Updated the `GitHub Developer Program` section
+- [x] Updated the `Inspirations` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 120
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 120
 
 </details> <!-- End of V120 !-->
 
 ---
 
-<details><summary><b lang="en">Version 121 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 121 (2024, Tuesday, May 7th at 10:39 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-sixth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Monday, May 6th to 2024, Tuesday, May 7th. This project is getting less attention per day due to time issues. I was only able to update basic description data and expand a few tables today. It was 10:30 pm when I resumed work, so no further efforts could be made here. Things don't look good tomorrow time-wise, I am hoping this effort doesn't die before 2024, May 25th._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 121
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 121
 
 </details> <!-- End of V121 !-->
 
 ---
 
-<details><summary><b lang="en">Version 122 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 122 (2024, Thursday, May 7th at xx:xx pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-seventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Tuesday, May 7th to 2024, Wednesday, May 8th. [DESCRIPTION GOES HERE]_
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 122
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 122
 
 </details> <!-- End of V122 !-->
@@ -9145,7 +9250,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 5th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-5th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 8th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-8th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9196,6 +9301,9 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 43 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md)
 - - [Link to remodel section version 44 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md)
 - - [Link to remodel section version 45 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md)
+- - [Link to remodel section version 46 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md)
+- - [Link to remodel section version 47 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md)
+- - [Link to remodel section version 48 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9267,9 +9375,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1060` (as of V119) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1103` (as of V121) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V119: `399,825` / `524,288` (`079.158%`))
+- - **Current character count (in bytes):** (as of V121: `420,949` / `524,288` (`080.289%`))
 
 > Memory
 
@@ -9447,19 +9555,21 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 119 (beta 45)** | _2024, Sunday, May 5th._ |
+| **Version 121 (beta 47)** | _2024, Tuesday, May 7th._ |
 
 <div align="center">
 
 | 📣️ Feedback 💬️ |
 |---|
+| 💬️ Feedback 📣️ |
 
 </div>
 
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/116/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/119/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
 |---|---|
