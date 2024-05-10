@@ -1,7 +1,9 @@
 
-# [🌐️ Read this article in a different language](#-Read-this-article-in-a-different-language)
+<!-- Start of translation segment !-->
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+***
+
+### Read this article in a different language
 
 _Read this article in a different language:_
 
@@ -9,10 +11,7 @@ _Read this article in a different language:_
 
 ***
 
-<!-- /%/2001_TRANSLATE_SECTION.BEGIN\%\ !-->
-<!-- Start of translation segment !-->
-
-<details open><summary>[`Click`/tap here to expand/collapse the language switcher list`](#Dropdown-executed-with-code-FF256x777-no-further-action-is-required)</H3></summary>
+<details open><summary>[`Click/tap here to expand/collapse the language switcher list`](#Dropdown-executed-with-code-FF256x777-no-further-action-is-required)</H3></summary>
 
 _🌐 List of languages_
 
@@ -32,25 +31,9 @@ Translations are done with Google Translate due to limited or no support for the
 
 Due to maintenance issues, over 25 translations are out of date and are using Version 8 or Version 9 of this README file. A translator is needed. Also, as of April 1st 2021, it is going to take me a while to get all the new links working.
 
-## New translation methods
-
-### Machine Translation
-
-- DeepL
-- Bing Translate
-- Google Translate (not recommended)
-
-### Automation
-
-- AUTOMATE2001
-
-### Other
-
-- Browser-based translation
-
 ***
 
-<details><summary><p lang="en">Click/tap here to expand/collapse the flag guide section</p></summary>
+<details open><summary><p lang="en">Click/tap here to expand/collapse the flag guide section</p></summary>
 
 🎌️ **Flag guide** 🎌️
 
@@ -92,7 +75,7 @@ And also not like this:
 
 🏁️ **End of flag guide** 🏁️
 
-</details> <!-- End of language legend section !-->
+</details>
 
 ***
 
@@ -104,25 +87,20 @@ I was so angry and frustrated. I didn't save the file, and my computer randomly 
 
 **Other notes:**
 
-- ⚠️ A language is missing: `Latvian`
-- ℹ️ Possibly supporting the next 126 languages that are going to be added to Google Translate
-- 🗜️ Plans to automate this process with the [`@AUTOMATE2001`](https://github.com/AUTOMATE-2001) bot
-- ⛔️ Need to find a way to work with these languages on services other than Google Translate.
-- ⚠️ There might be noticeable lag in this section due to how many flag emojis are in use.
+⚠️ A language is missing: `Latvian`
 
-**Languages segment version:** `4 (2022, Monday, March 14th at 1:59 pm)`
+ℹ️ Possibly supporting the next 126 languages that are going to be added to Google Translate
 
-</details> <!-- End of language legend developer notes section !-->
+🗜️ Plans to automate this process with the [`@AUTOMATE2001`](https://github.com/AUTOMATE-2001) bot
+
+⛔️ Need to find a way to work with these languages on services other than Google Translate.
+
+⚠️ There might be noticeable lag in this section due to how many flag emojis are in use.
+
+**Languages segment version:** `5 (2022, Monday, March 14th at 2:28 pm)`
+
+</details>
 
 ***
-
-</details> <!-- End of language switch section !-->
-
-_End of translation section._
-
-- [`View this section separately`](/Segments/Language-Switch/README.md)
 
 <!-- End of translation segment !-->
-<!-- /%/2001_TRANSLATE_SECTION.END\%\ !-->
-
-***
