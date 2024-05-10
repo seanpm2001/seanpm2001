@@ -3,7 +3,7 @@ entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
       - date: "2024-05-09"
-      - version: "v122"
+      - version: "v123"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -176,6 +176,22 @@ Note: due to limitations with GitHub's interpretation of markdown (and pretty mu
 Translations are done with Google Translate due to limited or no support for the languages I need in other translation services like DeepL and Bing Translate. For some reason, the formatting (links, dividers, bolding, italics, etc.) is messed up in various translations. It is tedious to fix, and I do not know how to fix these issues in languages with non-latin characters, and right to left languages (like Arabic) extra help is needed in fixing these issues
 
 Due to maintenance issues, over 25 translations are out of date and are using Version 8 or Version 9 of this README file. A translator is needed. Also, as of April 1st 2021, it is going to take me a while to get all the new links working.
+
+## New translation methods
+
+### Machine Translation
+
+- DeepL
+- Bing Translate
+- Google Translate (not recommended)
+
+### Automation
+
+- AUTOMATE2001
+
+### Other
+
+- Browser-based translation
 
 ***
 
@@ -1527,7 +1543,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 48 - 2024, Wednesday, May 8th` |
+| `Beta 49 - 2024, Thursday, May 9th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1538,7 +1554,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 47 days down, 16/17 days to go, as of 2024, Wednesday, May 8th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 48 days down, 15/16 days to go, as of 2024, Thursday, May 9th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1628,7 +1644,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 46`](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md) | 2024, Monday, May 6th | 45 |
 | [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
 | [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Thursday, May 9th (1 day late) | 47 |
-| Beta 49 | Coming soon | 48 |
+| [`Beta 49`](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md) | 2024, Thursday, May 9th | 48 |
 | Beta 50 | Coming soon | 49 |
 | Beta 51 | Coming soon | 50 |
 | Beta 52 | Coming soon | 51 |
@@ -1661,7 +1677,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `008` **/** `236` **tasks** _(003.38%)_ |
+| `007` **/** `236` **tasks** _(002.96%)_ |
 | _as of 2024, Thursday, May 9th._ |
 
 - **Current tasks to do (009 tasks, as of 2024, Thursday, May 9th)**
@@ -1674,7 +1690,6 @@ Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, for
 Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
 Many modifications to existing text throughout the document
-New translation methods
 New style (custom headings, as images) also dividers
 My web stack
 New icon to center at the top
@@ -1694,10 +1709,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `228` **/** `236` **tasks** _(096.62%)_ |
+| `229` **/** `236` **tasks** _(097.04%)_ |
 | _as of 2024, Thursday, May 9th._ |
 
-- **Tasks implemented so far (227 tasks, as of 2024, Thursday, May 9th)**
+- **Tasks implemented so far (229 tasks, as of 2024, Thursday, May 9th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1931,6 +1946,7 @@ Projects I have contributed to (updates to this section)
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 Improvements to language translation process, and info on this
 Improvements to guestbook display - Dropdown of people who have signed - More links
+New translation methods
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -7583,11 +7599,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `122 (2024, Thursday, May 9th at 10:44 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,602`
-- **Word count:** `060,901`
-- **Character count (with spaces):** `0,418,985 characters`
-- **Character count (without spaces)** `0,363,382 characters`
+- **File version:** `123 (2024, Thursday, May 9th at 11:27 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,640`
+- **Word count:** `061,181`
+- **Character count (with spaces):** `0,420,799 characters`
+- **Character count (without spaces)** `0,364,895 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8368,6 +8384,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 > Changes:
  
 - [x] Updated information on the remodel of this project
+- [x] Updated the `Guestbook` section
 - [x] Updated the `Size warning` section
 - [x] Updated the `File info` section
 - - [x] Updated the `Version number`
@@ -8389,11 +8406,31 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 123 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 123 (2024, Thursday, May 9th at 11:27 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created solely on 2024, Thursday, May 9th. This update is being produced the same day as V122, as I didn't have the time to work on the project yesterday, meaning 2 updates had to be made today. One more goal was achieved, a very small one, but a goal achieved nonetheless. Why did it take me so long? I got distracted with other things._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Translation` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 123
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 123
 
 </details> <!-- End of V123 !-->
@@ -9261,7 +9298,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 8th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-8th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 9th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-9th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9315,6 +9352,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 46 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md)
 - - [Link to remodel section version 47 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md)
 - - [Link to remodel section version 48 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md)
+- - [Link to remodel section version 49 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9386,9 +9424,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1110` (as of V122) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1110` (as of V123) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V122: `423,426` / `524,288` (`080.762%`))
+- - **Current character count (in bytes):** (as of V123: `423,426` / `524,288` (`081.108%`))
 
 > Memory
 
@@ -9566,7 +9604,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 122 (beta 48)** | _2024, Thursday, May 9th._ |
+| **Version 123 (beta 49)** | _2024, Thursday, May 9th._ |
 
 <div align="center">
 
@@ -9579,7 +9617,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/119/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/120/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
