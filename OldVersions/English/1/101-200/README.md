@@ -2,7 +2,7 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-08"
+      - date: "2024-05-09"
       - version: "v122"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
@@ -114,7 +114,7 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.30] -> [2024.05.05] No updates for this date.
 - [2024.05.06] The document is very close to again reaching and surpassing 80.000% capacity, and will need to be modified to fix this before it reaches 100%
 - [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
-- [2024.05.08] No updates for this date.
+- [2024.05.08] -> [2024.05.09] No updates for this date.
 
 ***
 
@@ -281,6 +281,17 @@ _End of Résumé section._
 | [:octocat: `Sign the guestbook`](https://github.com/seanpm2001/Guestbook/discussions/new/choose) |
 
 This guestbook is for basic interaction, and communications. For further communication, try [looking for a form of communication here](#-Online-Identity)
+
+<details open><summary><p><b>Signatories</b></p></summary>
+
+| ✒️ Signature | 🏷️ ID | 📖️ Entry |
+|---|---|---|
+| [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) | #1 | [:octocat: `Welcome to Guestbook Discussions!`](https://github.com/seanpm2001/Guestbook/discussions/1/) |
+| [:octocat: `@Podgorski37`](https://github.com/Podgorski37) | #2 | [:octocat: `Hi`](https://github.com/seanpm2001/Guestbook/discussions/2/) |
+| No other signatories at the moment. | #0 | [:octocat: `Guestbook (discussions)`](https://github.com/seanpm2001/Guestbook/discussions/) |
+| <p align="center">✒️ Signature</p> | <p align="center">🏷️ ID</p> | <p align="center">📖️ Entry</p> |
+
+</details> <!-- End of guestbook signatories
 
 - [`View this section separately`](/Segments/Guestbook/README.md)
 
@@ -1616,7 +1627,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 45`](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md) | 2024, Sunday, May 5th | 44 |
 | [`Beta 46`](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md) | 2024, Monday, May 6th | 45 |
 | [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
-| [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Wednesday, May 8th | 47 |
+| [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Thursday, May 9th (1 day late) | 47 |
 | Beta 49 | Coming soon | 48 |
 | Beta 50 | Coming soon | 49 |
 | Beta 51 | Coming soon | 50 |
@@ -1650,16 +1661,15 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `009` **/** `236` **tasks** _(003.82%)_ |
-| _as of 2024, Wednesday, May 8th._ |
+| `008` **/** `236` **tasks** _(003.38%)_ |
+| _as of 2024, Thursday, May 9th._ |
 
-- **Current tasks to do (009 tasks, as of 2024, Wednesday, May 8th)**
+- **Current tasks to do (009 tasks, as of 2024, Thursday, May 9th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Improvements to guestbook display - Dropdown of people who have signed - More links
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
@@ -1684,10 +1694,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `227` **/** `236` **tasks** _(096.18%)_ |
-| _as of 2024, Wednesday, May 8th._ |
+| `228` **/** `236` **tasks** _(096.62%)_ |
+| _as of 2024, Thursday, May 9th._ |
 
-- **Tasks implemented so far (227 tasks, as of 2024, Wednesday, May 8th)**
+- **Tasks implemented so far (227 tasks, as of 2024, Thursday, May 9th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1920,6 +1930,7 @@ Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 Improvements to language translation process, and info on this
+Improvements to guestbook display - Dropdown of people who have signed - More links
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -7572,11 +7583,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `121 (2024, Tuesday, May 7th at 10:39 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,570`
-- **Word count:** `060,530`
-- **Character count (with spaces):** `0,416,536 characters`
-- **Character count (without spaces)** `0,361,293 characters`
+- **File version:** `122 (2024, Thursday, May 9th at 10:44 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,602`
+- **Word count:** `060,901`
+- **Character count (with spaces):** `0,418,985 characters`
+- **Character count (without spaces)** `0,363,382 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8348,11 +8359,11 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 122 (2024, Thursday, May 7th at xx:xx pm PST)</b></summary>
+<details><summary><b lang="en">Version 122 (2024, Thursday, May 9th at 10:44 pm PST)</b></summary>
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
-> **Note** _This is the forty-seventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Tuesday, May 7th to 2024, Wednesday, May 8th. [DESCRIPTION GOES HERE]_
+> **Note** _This is the forty-seventh update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Tuesday, May 7th to 2024, Thursday, May 8th. This update is coming a day late, as I didn't have the time to work on this project yesterday. Having to make 2 updates for this project today, I had less time to commit to updates, as I was again pushed to the end of the day. Hopefully, tomorrow will go better. I implemented a single goal in this update. More work will be done in the next update, which is from the same day._
 
 > Changes:
  
@@ -9375,9 +9386,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1103` (as of V121) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1110` (as of V122) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V121: `420,949` / `524,288` (`080.289%`))
+- - **Current character count (in bytes):** (as of V122: `423,426` / `524,288` (`080.762%`))
 
 > Memory
 
@@ -9555,7 +9566,7 @@ You have reached the end of this page.
 
 | :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
 |---|---|
-| **Version 121 (beta 47)** | _2024, Tuesday, May 7th._ |
+| **Version 122 (beta 48)** | _2024, Thursday, May 9th._ |
 
 <div align="center">
 
