@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-09"
-      - version: "v123"
+      - date: "2024-05-10"
+      - version: "v124"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -114,7 +114,7 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.30] -> [2024.05.05] No updates for this date.
 - [2024.05.06] The document is very close to again reaching and surpassing 80.000% capacity, and will need to be modified to fix this before it reaches 100%
 - [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
-- [2024.05.08] -> [2024.05.09] No updates for this date.
+- [2024.05.08] -> [2024.05.10] No updates for this date.
 
 ***
 
@@ -489,6 +489,7 @@ This guestbook is for basic interaction, and communications. For further communi
 - - - - - - - [2.22.2.1.2.2.5 - Club Penguin](#Club-Penguin)
 - - - - - - - [2.22.2.1.2.2.6 - Clocktree](#Clocktree)
 - - [2.23 - Sponsor info](#Sponsor-info)
+- - - [2.23.1 - Otechie support](#Otechie-support)
 - - [2.24 - Free software isn't free to develop](#Free-software-is-not-free-to-develop)
 - - [2.25 - Submissions](#Submissions)
 - - [2.26 - Blue team](#Blue-team)
@@ -524,9 +525,13 @@ This guestbook is for basic interaction, and communications. For further communi
 - - - [5.1.1 - Overview statistics for GitHub Stats A](#Overview-statistics-for-GitHub-Stats-A)
 - - [5.2 - GitHub Stats B](#GitHub-Stats-B)
 - - [5.3 - Commit Count Milestones](#Commit-Count-Milestones)
-- - [5.4 - GitHub Skyline](#GitHub-Skyline)
-- - [5.5 - GitHub social statistics](#GitHub-social-statistics)
-- - - [5.5.1 - Follower milestones](#Follower-milestones)
+- - [5.4 - Commit Calendar](#Commit-calendar)
+- - - [5.4.1 - End of year 2023](#End-of-year-2023)
+- - - - [5.4.1.1 - Seanpm2001 End of year 2023](#Seanpm2001-End-of-year-2023)
+- - - - [5.4.1.2 - SeanWallaWalla End of year 2023](#SeanWallaWalla-End-of-year-2023)
+- - [5.5 - GitHub Skyline](#GitHub-Skyline)
+- - [5.6 - GitHub social statistics](#GitHub-social-statistics)
+- - - [5.6.1 - Follower milestones](#Follower-milestones)
 - [6.0 - Family](#Family)
 - - [6.1 - GitHub contacts (family)](#GitHub-contacts-family)
 - - [6.2 - My family on GitHub](#My-family-on-GitHub)
@@ -778,6 +783,7 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Club Penguin`](#Club-Penguin) | Online Identity/Projects on other platforms/Platforms I am not on/No longer exists | About me | 2 | `h9` |
 | [`Clocktree`](#Clocktree) | Online Identity/Projects on other platforms/Platforms I am not on/No longer exists | About me | 2 | `h9` |
 | [`Sponsor info`](#Sponsor-info) | Bio | About me | 2 | `h3` |
+| [`Otechie support`](#Otechie-support) | Bio | About me | 2 | `h4` |
 | [`Free software isn't free to develop`](#Free-software-is-not-free-to-develop) | Bio | About me | 2 | `h3` |
 | [`Submissions`](#Submissions) | Bio | About me | 2 | `h3` |
 | [`Blue team`](#Blue-team) | Bio | About me | 2 | `h3` |
@@ -813,6 +819,10 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Overview statistics for GitHub Stats A`](#Overview-statistics-for-GitHub-Stats-A) | Statistics/GitHub Stats A | Statistics | 5 | `h4` |
 | [`GitHub Stats B`](#GitHub-Stats-B) | Statistics/GitHub Stats B | Statistics | 5 | `h3` |
 | [`Commit Count Milestones`](#Commit-Count-Milestones) | Statistics/CCM | Statistics | 5 | `h3` |
+| [`Commit Calendar`](#Commit-Calendar) | Statistics/Commit Calendar | Statistics | 5 | `h3` |
+| [`End of year 2023`](#End-of-year-2023) | Statistics/Commit Calendar | Statistics | 5 | `h4` |
+| [`Seanpm2001 End of year 2023`](#Seanpm2001-End-of-year-2023) | Statistics/Commit Calendar | Statistics | 5 | `h5` |
+| [`SeanWallaWalla End of year 2023`](#SeanWallaWalla-End-of-year-2023) | Statistics/Commit Calendar | Statistics | 5 | `h5` |
 | [`GitHub Skyline`](#GitHub-Skyline) | Statistics/GitHub | Statistics | 5 | `h3` |
 | [`GitHub social statistics`](#GitHub-social-statistics) | Statistics/GitHub | Statistics | 5 | `h3` |
 | [`Follower milestones`](#Follower-milestones) | Statistics/GitHub | Statistics | 5 | `h4` |
@@ -1543,7 +1553,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 49 - 2024, Thursday, May 9th` |
+| `Beta 50 - 2024, Friday, May 10th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1554,7 +1564,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 48 days down, 15/16 days to go, as of 2024, Thursday, May 9th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 49 days down, 14/15 days to go, as of 2024, Friday, May 10th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1645,7 +1655,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
 | [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Thursday, May 9th (1 day late) | 47 |
 | [`Beta 49`](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md) | 2024, Thursday, May 9th | 48 |
-| Beta 50 | Coming soon | 49 |
+| [`Beta 50`](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md) | 2024, Friday, May 10th | 49 |
 | Beta 51 | Coming soon | 50 |
 | Beta 52 | Coming soon | 51 |
 | Beta 53 | Coming soon | 52 |
@@ -1677,19 +1687,16 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `007` **/** `236` **tasks** _(002.96%)_ |
-| _as of 2024, Thursday, May 9th._ |
+| `004` **/** `236` **tasks** _(001.69%)_ |
+| _as of 2024, Friday, May 10th._ |
 
-- **Current tasks to do (009 tasks, as of 2024, Thursday, May 9th)**
+- **Current tasks to do (004 tasks, as of 2024, Friday, May 10th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
-Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
-Many modifications to existing text throughout the document
 New style (custom headings, as images) also dividers
 My web stack
 New icon to center at the top
@@ -1709,10 +1716,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `229` **/** `236` **tasks** _(097.04%)_ |
-| _as of 2024, Thursday, May 9th._ |
+| `232` **/** `236` **tasks** _(098.31%)_ |
+| _as of 2024, Friday, May 10th._ |
 
-- **Tasks implemented so far (229 tasks, as of 2024, Thursday, May 9th)**
+- **Tasks implemented so far (232 tasks, as of 2024, Friday, May 10th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1947,6 +1954,9 @@ Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in
 Improvements to language translation process, and info on this
 Improvements to guestbook display - Dropdown of people who have signed - More links
 New translation methods
+Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
+Many modifications to existing text throughout the document
+Updates to Legend
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -2020,11 +2030,18 @@ View this segment [in a separate file (coming soon)](/Segments/Quick-links/READM
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - :octocat: - Indicates that a link is directed at [`https://github.com/`](https://github.com/)
-- Legend is incomplete.
+- Emojis are used for decorative purposes, but can also be used to classify each section
+- - There are too many Emojis to put in the legend, and it would be cumbersome to the viewer, so I will not list what every Emoji means here
+- - Some Emojis:
+- - - 📏️ - Legend
+- - - 🚨️ - Important/don't skip
+- - - 🎩️ - Top of page
+- - - 🦶️ - Footer
+- Seanpm2001: The main GitHub account of Sean Patrick Myrick
+- SeanWallaWalla: The secondary GitHub account of Sean Patrick Myrick
+- Old main structure:
 
-View this segment [in a separate file (coming soon)](/Segments/Legend/README.md)
-
-```
+```plain-text
 | Lead (header)
 | About me
 | | Life
@@ -2038,6 +2055,12 @@ View this segment [in a separate file (coming soon)](/Segments/Legend/README.md)
 | About this page
 | Footer
 ```
+
+- Legend is incomplete.
+
+View this segment [in a separate file](/Segments/Legend/README.md)
+
+_End of Legend section._
 
 </details> <!-- End of Legend section !-->
 
@@ -2528,7 +2551,37 @@ View this segment [in a separate file (coming soon)](/Segments/Gaming/README.md)
 
 I am an entry-level graphic designer with a large preference for skeumorphism and 3D design with gradients and patterns. I have taken a few graphic design classes and can create computer graphics using GIMP, MS-PAINT, Blender 2.79, InkScape, Adobe PhotoShop CS6, 2015, CC 2017, Adobe Animate CS6, 2015, CC 2017, Adobe InDesign CC 2017, Adobe Illustrator CC 2017, BYOB 1.x, and Scratch 2.
 
-**This section needs expansion**
+> **Main programs (as of 2024)**
+
+| GNU Image Manipulation Program (GIMP) | Inkscape | Krita | Blender | 5 |
+|---|---|---|---|---|
+| <img src="/Graphics/Graphic-Design/Logos/GIMP/The_GIMP_icon_-_gnome-1.svg" alt="GIMP logo failed to load" title="GNU Image Manipulation Program (GIMP)" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Inkscape/Inkscape_logo_2.svg" alt="Inkscape logo failed to load" title="Inkscape" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Krita/Krita_Application_Logo.svg" alt="Krita logo failed to load" title="Krita" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Blender/Blender2016New.png" alt="Blender logo failed to load" title="Blender" width="128" height="128"> | <img src="/Graphics/Buttons/Close/Silver/SilverXP_CloseButton_Part1_Default.svg" alt="Silver X close button failed to load" title="No other programs" width="128" height="128"> |
+
+> **Former programs (2014-2020)**
+
+| Adobe Photoshop CC 2015 | Adobe Photoshop CS6 | Adobe Flash CS6 | Adobe Illustrator CC 2015 | Adobe Animate CC 2015 | 
+|---|---|---|---|---|
+| <img src="/Graphics/Graphic-Design/Logos/Adobe/Photoshop/2015/Adobe_Photoshop_Logo-2015.png" alt="Adobe Photoshop logo failed to load" title="Adobe Photoshop CC 2015" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Adobe/Photoshop/CS6/Adobe_Photoshop_CS6-Logo.png" alt="Adobe Photoshop CS6 logo failed to load" title="Adobe Photoshop CS6" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Adobe/Flash/CS6/Adobe-Flash-Logo-CS6.jpg" alt="Adobe Flash CS6 logo failed to load" title="Adobe Flash CS6" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Adobe/Illustrator/2015/Adobe-Illustrator_Logo.png" alt="Adobe Illustrator logo failed to load" title="Adobe Illustrator CC 2015" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Adobe/Animate/2015/Adobe_Animate_Logo.png" alt="Adobe Animate logo failed to load" title="Adobe Animate CC 2015" width="128" height="128"> |
+
+| Adobe InDesign CC 2015 | Microsoft Photo Story 3 | Windows Live Movie Maker 2012 | MS-PAINT | Microsoft Paint 3D | 
+|---|---|---|---|---|
+| <img src="/Graphics/Graphic-Design/Logos/Adobe/InDesign/2015/Adobe-InDesign_Logo.png" alt="Adobe InDesign logo failed to load" title="Adobe InDesign CC 2015" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Microsoft/Photo-Story-3/Microsoft-Photo-Story-Icon.png" alt="Microsoft Photo Story 3 logo failed to load" title="Microsoft Windows Photo Story 3" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Microsoft/Windows-Movie-Maker/Live-2012/Windows_Movie_Maker-Logo.png" alt="Windows Movie Maker Live 2012 logo failed to load" title="Microsoft Windows Live Movie Maker 2012" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Microsoft/Paint/Classic/MS-PAINT_Logo.png" alt="Microsoft Paint logo failed to load" title="Microsoft Paint (MS-PAINT)" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Microsoft/Paint/3D/Microsoft_Paint_3D_Logo.png" alt="Microsoft Paint 3D logo failed to load" title="Microsoft Paint 3D (Paint 3D)" width="128" height="128"> |
+
+| BYOB/Snap! 1.0 | Scratch 2 | 3 | 4 | 5 | 
+|---|---|---|---|---|
+| <img src="/Graphics/Graphic-Design/Logos/BYOB/Snap!/Snap!.svg" alt="BYOB Snap! logo failed to load" title="BYOB/Snap!" width="128" height="128"> | <img src="/Graphics/Graphic-Design/Logos/Scratch/2/Logo-Scratch-2.png" alt="Scratch 2 logo failed to load" title="Scratch 2" width="128" height="128"> | <img src="/Graphics/Buttons/Close/Silver/SilverXP_CloseButton_Part1_Default.svg" alt="Silver X close button failed to load" title="No other programs" width="128" height="128"> | <img src="/Graphics/Buttons/Close/Silver/SilverXP_CloseButton_Part1_Default.svg" alt="Silver X close button failed to load" title="No other programs" width="128" height="128"> | <img src="/Graphics/Buttons/Close/Silver/SilverXP_CloseButton_Part1_Default.svg" alt="Silver X close button failed to load" title="No other programs" width="128" height="128"> |
+
+> **Repositories**
+
+- [`Graphic Design repository`](https://github.com/seanpm2001/Seanpm2001-Graphic-Design/)
+- [`GIMP repository`](https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_GIMP/)
+- [`Inkscape repository`](https://github.com/seanpm2001/SeansLifeArchive_Images_InkScape/)
+
+I mainly design logos, wallpapers, and social preview images for my projects. Infrequently, I also design other things.
+
+---
+
+_End of graphic design section._
 
 View this segment [in a separate file (coming soon)](/Segments/Graphic-design/README.md)
 
@@ -4819,6 +4872,62 @@ You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-inf
 
 Try it out! The sponsor button is right up next to the watch/unwatch button.
 
+> Supported types:
+
+- GitHub
+- Patreon
+- OpenCollective
+- Ko-Fi
+- TideLift
+- Community Bridge
+- LiberaPay
+- IssueHunt
+- ~~Otechie~~
+
+[:octocat: `/seanpm2001/.github/FUNDING.yml`](https://github.com/seanpm2001/.github/tree/main/.github/FUNDING.yml)
+
+```yaml
+# Start of script
+# These are supported funding model platforms by GitHub. I am using 5 out of 8 of the following sites.
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+# Don't fall for scams. If someone is claiming to be me, but is not one of the following listed entries, they are scamming you! Do not fall for scams, and report it to me if you see suspicious/illegal activity.
+patreon: seanpm2001 # Creator page
+patreon: seanpm2001_software # Main page
+# Replace with a single Patreon username
+open_collective: seanpm2001 # Creator page and main page
+ko_fi: seanpm2001 # Creator page and main page
+tidelift: error404 # I am not on TideLift, as it costs money. Anyone claiming to be me on here is not me. I cannot pay money for a service like this.
+community_bridge: error404 # I was unable to find the site, anyone claiming to be me on here is not me.
+liberapay: seanpm2001 # Creator page and main page
+issuehunt: seanpm2001 # Creator page and main page
+otechie: error404 # I am not on Otechie, as it costs money. I tried to see if there was a free option, but even to have a domain here, it costs $49 a month. Anyone claiming to be me on here is not me. I cannot pay money for a service like this.
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+# File info
+# File type: YAML source file (*.yaml *.yml)
+# File purpose: Configuring funding settings for GitHub
+# File version: 4 (2021, Tuesday, November 16th at 8:22 pm)
+# Line count (including blank lines and compiler line): 22
+# End of script
+```
+
+***
+
+<details><summary><p><b>[Click/tap here to expand/collapse the Otechie support]</b></p></summary>
+
+#### [🧿️ Otechie support](#-Otechie-support)
+
+GitHub initially offered Otechie as a supported option for sponsors. It was removed on 2024, March 7th. I never used it, as it costs money to use.
+
+| <img src="/Graphics/Sponsors/Otechie-gone/Before/Otechie-last-moment.png" alt="Otechie (last moment) failed to load" title="Last photo of Otechie support on my profile" width="265" height="352"> | <img src="/Graphics/Sponsors/Otechie-gone/After/Otechie-gone.png" alt="Otechie (gone) failed to load" title="First photo of lack of Otechie support on my profile" width="556" height="854"> |
+|---|---|
+| 🧿️ Before | After 🧿️ |
+
+</details> <!-- End of sponsor info:Otechie support section !-->
+
+***
+
+_End of Sponsor Info section._
+
 View this segment [`in a separate file`](/Segments/Sponsor-info/README.md)
 
 </details> <!-- End of sponsor info section !-->
@@ -5978,13 +6087,70 @@ New limits (proposed 2024.04.06, WIP)
 - 22000000 commits (🔨️ Ban/suspension) (∞ commits)
 - 22222222 commits (🔨️ Ban/suspension) (∞ commits)
 
+***
+
 View this segment [in a separate file (coming soon)](/Segments/Commit-Count-Milestones/README.md)
 
 _End of Commit Count Milestones section._
 
 </details> <!-- End of CCM section !-->
 
----
+***
+
+### [🗓️ Commit calendar](#-Commit-calendar)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+The commit calendar (also known as activity calendar, heatmap, or commit heatmap) is the place on a GitHub profile where commits are shown in a calendar view.
+
+***
+
+#### [🎇️ End of year 2023](#-End-of-year-2023)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (end of year 2023)]</b></p></summary>
+
+End of year pictures from the year 2023.
+
+***
+
+##### [🌟️ Seanpm2001 End of year 2023](#-Seanpm2001-End-of-year-2023)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (Seanpm2001 End of Year 2023]</b></p></summary>
+
+| <img src="/Graphics/Commit-Calendar/End-of-Year/2023/Seanpm2001/Screenshot%202023-12-31%20at%2023-56-17%20seanpm2001%20-%20Overview.png" alt="Screenshot 2023-12-31 at 23-56-17 seanpm2001 - Overview.png failed to load" title="Seanpm2001 end of year commits 2023 (Light mode)" width="813" height="260"> |
+| <img src="/Graphics/Commit-Calendar/End-of-Year/2023/Seanpm2001/Screenshot%202023-12-31%20at%2023-56-46%20seanpm2001%20-%20Overview.png" alt="Screenshot 2023-12-31 at 23-56-46 seanpm2001 - Overview.png failed to load" title="Seanpm2001 end of year commits 2023 (Dark mode)" width="813" height="260"> |
+|---|---|
+| Light Mode | Dark Mode |
+
+</details> <!-- End of Seanpm2001 End of Year 2023 section !-->
+
+***
+
+##### [🌟️ SeanWallaWalla End of year 2023](#-SeanWallaWalla-End-of-year-2023)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section (SeanWallaWalla End of Year 2023]</b></p></summary>
+
+| <img src="/Graphics/Commit-Calendar/End-of-Year/2023/SeanWallaWalla/Screenshot%202023-12-31%20at%2022-06-45%20seanwallawalla%20-%20Overview.png" alt="Screenshot 2023-12-31 at 22-06-45 seanwallawalla - Overview.png failed to load" title="SeanWallaWalla end of year commits 2023 (Light mode)" width="813" height="260"> | <img src="/Graphics/Commit-Calendar/End-of-Year/2023/SeanWallaWalla/Screenshot%202023-12-31%20at%2022-07-04%20seanwallawalla%20-%20Overview.png" alt="Screenshot 2023-12-31 at 22-07-04 seanwallawalla - Overview.png failed to load" title="SeanWallaWalla end of year commits 2023 (Dark mode)" width="813" height="260"> |
+|---|---|
+| Light Mode | Dark Mode |
+
+</details> <!-- End of SeanWallaWalla End of Year 2023 section !-->
+
+***
+
+_End of this section.
+
+</details> <!-- End of End of Year 2023 section !-->
+
+***
+
+View this segment [in a separate file (coming soon)](/Segments/Commit-Calendar/README.md)
+
+_End of Commit Calendar section._
+
+</details> <!-- End of Commit Calendar section !-->
+
+***
 
 ### [🌆️ GitHub Skyline](#-GitHub-Skyline)
 
@@ -6008,11 +6174,17 @@ _End of GitHub Skyline section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/GitHub-Follower-Milestones/1000-Followers/Screenshot%202024-03-19%20at%2013-52-32%20Your%20Followers.png" alt="/Graphics/GitHub-Follower-Milestones/1000-Followers/Screenshot 2024-03-19 at 13-52-32 Your Followers.png" title="1000 followers on GitHub" width="265" height="540"> |
+| <img src="/Graphics/GitHub-Follower-Milestones/1000-Followers/Screenshot%202024-03-19%20at%2013-52-32%20Your%20Followers.png" alt="/Graphics/GitHub-Follower-Milestones/1000-Followers/Screenshot 2024-03-19 at 13-52-32 Your Followers.png" title="1,000 followers on GitHub" width="265" height="540"> |
 |---|
-| ***1000 follower milestone*** |
+| ***1,000 follower milestone*** |
 
-- 1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k, as of 2024, March 26th)
+- 1,000 - 2024, Tuesday, March 19th. There were some difficulties staying at/above 1k from 2024, March 19th to 2024, March 29th.
+
+| <img src="/Graphics/GitHub-Follower-Milestones/1100-Followers/Screenshot%202024-05-10%20at%2015-33-32%20seanpm2001%20-%20Overview.png" alt="/Graphics/GitHub-Follower-Milestones/1100-Followers/Screenshot 2024-05-10 at 15-33-32 seanpm2001 - Overview.png" title="1,100 followers on GitHub" width="444" height="1413"> |
+|---|
+| ***1,100 follower milestone*** |
+
+- 1,100 - 2024, Thursday, May 9th (difficulties staying at/above 1.1k, as of 2024, May 10th)
 
 </details> <!-- End of Follower milestones section !-->
 
@@ -7599,11 +7771,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `123 (2024, Thursday, May 9th at 11:27 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,640`
-- **Word count:** `061,181`
-- **Character count (with spaces):** `0,420,799 characters`
-- **Character count (without spaces)** `0,364,895 characters`
+- **File version:** `124 (2024, Friday, May 10th at 06:31 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,844`
+- **Word count:** `063,310`
+- **Character count (with spaces):** `0,434,700 characters`
+- **Character count (without spaces)** `0,377,023 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8437,11 +8609,41 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 124 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 124 (2024, Friday, May 10th at 06:31 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the forty-ninth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created solely on 2024, Friday, May 10th. Some (3) goals were accomplished in this update, as I had more time and started earlier in the day. I completed 3 goals today. Only 3 remain, and I have 15 more days to get them done. A lot of time was spent on updating my profile today._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Sponsor info` section
+- - [x] Added the `Otechie support` section
+- [x] Updated the `GitHub Social Statistics` section
+- [x] Added the `Commit calendar` section
+- - [x] Added the `End of year 2023` section`
+- - - [x] Added the `Seanpm2001 End of year 2023` subsection
+- - - [x] Added the `SeanWallaWalla End of year 2023` subsection
+- [x] Updated the `Graphic Design` section
+- [x] Updated the `Follower milestones` section
+- [x] Updated the `Legend` section
+- [x] Updated the `Index`
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 124
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 124
 
 </details> <!-- End of V124 !-->
@@ -9298,7 +9500,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 9th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-9th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 10th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-10th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9353,6 +9555,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 47 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md)
 - - [Link to remodel section version 48 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md)
 - - [Link to remodel section version 49 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md)
+- - [Link to remodel section version 50 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9424,9 +9627,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1110` (as of V123) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1124` (as of V124) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V123: `423,426` / `524,288` (`081.108%`))
+- - **Current character count (in bytes):** (as of V124: `439,196` / `524,288` (`083.769%`))
 
 > Memory
 
@@ -9602,23 +9805,24 @@ You have reached the end of this page.
 
 ###### [🔚️ EOF](#-EOF)
 
-| :octocat: | [`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md) |
+| :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
 |---|---|
-| **Version 123 (beta 49)** | _2024, Thursday, May 9th._ |
+| **Version 124 (beta 50)** | _2024, Friday, May 10th._ |
+| **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
 
 <div align="center">
 
 | 📣️ Feedback 💬️ |
 |---|
-| 💬️ Feedback 📣️ |
+| <p align="center"><b>💬️ Feedback 📣️</b></p> |
 
 </div>
 
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/120/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
-| 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/121/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
 |---|---|
