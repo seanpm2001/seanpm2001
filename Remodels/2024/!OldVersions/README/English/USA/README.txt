@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 47 - 2024, Tuesday, May 7th` |
+| `Beta 50 - 2024, Friday, May 10th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 46 days down, 17/18 days to go, as of 2024, Tuesday, May 7th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 49 days down, 14/15 days to go, as of 2024, Friday, May 10th)_
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -107,9 +107,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 45`](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md) | 2024, Sunday, May 5th | 44 |
 | [`Beta 46`](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md) | 2024, Monday, May 6th | 45 |
 | [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
-| Beta 48 | Coming soon | 47 |
-| Beta 49 | Coming soon | 48 |
-| Beta 50 | Coming soon | 49 |
+| [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Thursday, May 9th (1 day late) | 47 |
+| [`Beta 49`](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md) | 2024, Thursday, May 9th | 48 |
+| [`Beta 50`](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md) | 2024, Friday, May 10th | 49 |
 | Beta 51 | Coming soon | 50 |
 | Beta 52 | Coming soon | 51 |
 | Beta 53 | Coming soon | 52 |
@@ -141,21 +141,16 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `009` **/** `236` **tasks** _(003.82%)_ |
-| _as of 2024, Tuesday, May 7th._ |
+| `004` **/** `236` **tasks** _(001.69%)_ |
+| _as of 2024, Friday, May 10th._ |
 
-- **Current tasks to do (009 tasks, as of 2024, Tuesday, May 7th)**
+- **Current tasks to do (004 tasks, as of 2024, Friday, May 10th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
-Improvements to guestbook display - Dropdown of people who have signed - More links
-Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
-Updates to Legend
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
-Many modifications to existing text throughout the document
-New translation methods
 New style (custom headings, as images) also dividers
 My web stack
 New icon to center at the top
@@ -175,10 +170,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `227` **/** `236` **tasks** _(096.18%)_ |
-| _as of 2024, Tuesday, May 7th._ |
+| `232` **/** `236` **tasks** _(098.31%)_ |
+| _as of 2024, Friday, May 10th._ |
 
-- **Tasks implemented so far (227 tasks, as of 2024, Tuesday, May 7th)**
+- **Tasks implemented so far (232 tasks, as of 2024, Friday, May 10th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -411,6 +406,11 @@ Add a link to the segment file for each section (WIP)
 Projects I have contributed to (updates to this section)
 Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
 Improvements to language translation process, and info on this
+Improvements to guestbook display - Dropdown of people who have signed - More links
+New translation methods
+Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
+Many modifications to existing text throughout the document
+Updates to Legend
 ```
 
 </details> <!-- End of completed remodel goals section !-->
