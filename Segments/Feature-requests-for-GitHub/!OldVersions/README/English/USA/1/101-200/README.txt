@@ -9,7 +9,7 @@ There are some features that would be nice for GitHub. They include:
 
 **Entries marked with `⭐` are highest priority**
 
-`2` **/** `16` _features implemented (as of 2024, Saturday, May 4th)_
+`2` **/** `18` _features implemented (as of 2024, Saturday, May 11th)_
 
 - [x] The ability to follow organizations ⭐ (added to the site on 2022, March 21st)
 - [ ] An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
@@ -30,6 +30,8 @@ There are some features that would be nice for GitHub. They include:
 - [ ] Return a properly documented error message when trying to create a discussion that goes over the limit, instead of giving a generic, unhelpful error [:octocat: `See community#60075`](https://github.com/orgs/community/discussions/60075/)
 - [ ] Allow embedded videos in Markdown that rely on local repository files, instead of files solely on the GitHub user content server
 - [ ] Keep workflow/action pinned when disabling workflow [:octocat: `See community #122339`](https://github.com/orgs/community/discussions/122339/)
+- [ ] Add language linguist color (circle pog) to all language entries in the language dropdown
+- [ ] Allow for all languages to be shown in the user profile dropdown, as like in the organization profile dropdown
 - [ ] No other requests at the moment
 
 View this segment [in a separate file](/Segments/Feature-requests-for-GitHub/README.md)
