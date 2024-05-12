@@ -19,9 +19,13 @@ My nicknames:
 - SPM2K1
 - SEAN9000
 
-View this segment [in a separate file (coming soon)](/Segments/Nicknames/README.md)
+Origins of my name
 
-<!-- TODO: 2024.04.21 !-->
+| Sean | Patrick | Myrick |
+|---|---|---|
+| 🇮🇪️ | 🇮🇪️ | 🏴󠁧󠁢󠁷󠁬󠁳󠁿️ |
+
+View this segment [in a separate file](/Segments/Nicknames/README.md)
 
 </details> <!-- End of nicknames section !-->
 
