@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-10"
-      - version: "v124"
+      - date: "2024-05-11"
+      - version: "v125"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -32,6 +32,8 @@ categories: bio
 ###### [🔝️ Top](#-Top)
 
 - [`View this section separately`](/Segments/Top/README.md)
+
+<img src="/Graphics/Wordmark/Seanpm2001/Seanpm2001_Wordmark_V2_1250px_V1_HighCompression.png" alt="Seanpm2001 wordmark" title="Seanpm2001 wordmark" width="1250" height="200">
 
 # [@Seanpm2001](https://github.com/seanpm2001/) on GitHub
 
@@ -114,7 +116,7 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.04.30] -> [2024.05.05] No updates for this date.
 - [2024.05.06] The document is very close to again reaching and surpassing 80.000% capacity, and will need to be modified to fix this before it reaches 100%
 - [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
-- [2024.05.08] -> [2024.05.10] No updates for this date.
+- [2024.05.08] -> [2024.05.11] No updates for this date.
 
 ***
 
@@ -516,8 +518,9 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [4.1 - Media](#Media)
 - - - [4.1.1 - Radio](#Radio)
 - - [4.2 - My current setup](#My-current-setup)
-- - - [4.2.1 - Current hardware](#Current-hardware)
-- - - [4.2.1 - Current software](#Current-software)
+- - - [4.2.1 - My web stack](#My-web-stack)
+- - - [4.2.2 - Current hardware](#Current-hardware)
+- - - [4.2.3 - Current software](#Current-software)
 - - [4.3 - Former organizations](#Former-organizations)
 - - [4.4 - Search my profile easier with this helpful Gist](#Search-my-profile-easier-with-this-helpful-Gist)
 - [5.0 - Statistics](#Statistics)
@@ -810,6 +813,7 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Media`](#Media) | Technology/Media | Technology | 4 | `h3` |
 | [`Radio`](#Radio) | Technology/Media | Technology | 4 | `h4` |
 | [`My current setup`](#My-current-setup) | Technology/My setup | Technology | 4 | `h3` |
+| [`My web stack`](#My-web-stack) | Technology/My setup | Technology | 4 | `h4` |
 | [`Current hardware`](#Current-hardware) | Technology/My setup | Technology | 4 | `h4` |
 | [`Current software`](#Current-software) | Technology/My setup | Technology | 4 | `h4` |
 | [`Former organizations`](#Former-organizations) | Technology | Technology | 4 | `h3` |
@@ -1553,7 +1557,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 50 - 2024, Friday, May 10th` |
+| `Beta 51 - 2024, Saturday, May 11th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1564,7 +1568,11 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 49 days down, 14/15 days to go, as of 2024, Friday, May 10th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 50 days down, 13/14 days to go, as of 2024, Saturday, May 11th)_
+
+- Plans on what to do at the end:
+- - Release 64: Finish up the remaining goals
+- - Release 65: Move the remodel section somewhere else, remove several tables from the footer, wrap up the writing to indicate a remodel is no longer in progress.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
 
@@ -1656,7 +1664,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Thursday, May 9th (1 day late) | 47 |
 | [`Beta 49`](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md) | 2024, Thursday, May 9th | 48 |
 | [`Beta 50`](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md) | 2024, Friday, May 10th | 49 |
-| Beta 51 | Coming soon | 50 |
+| [`Beta 51`](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md) | 2024, Saturday, May 11th | 50 |
 | Beta 52 | Coming soon | 51 |
 | Beta 53 | Coming soon | 52 |
 | Beta 54 | Coming soon | 53 |
@@ -1687,10 +1695,10 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `004` **/** `236` **tasks** _(001.69%)_ |
-| _as of 2024, Friday, May 10th._ |
+| `002` **/** `236` **tasks** _(000.85%)_ |
+| _as of 2024, Saturday, May 11th._ |
 
-- **Current tasks to do (004 tasks, as of 2024, Friday, May 10th)**
+- **Current tasks to do (002 tasks, as of 2024, Saturday, May 11th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1698,8 +1706,6 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 ```
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
 New style (custom headings, as images) also dividers
-My web stack
-New icon to center at the top
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -1716,10 +1722,10 @@ They are a work in progress.
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `232` **/** `236` **tasks** _(098.31%)_ |
-| _as of 2024, Friday, May 10th._ |
+| `234` **/** `236` **tasks** _(099.15%)_ |
+| _as of 2024, Saturday, May 11th._ |
 
-- **Tasks implemented so far (232 tasks, as of 2024, Friday, May 10th)**
+- **Tasks implemented so far (234 tasks, as of 2024, Saturday, May 11th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1957,6 +1963,8 @@ New translation methods
 Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
 Many modifications to existing text throughout the document
 Updates to Legend
+My web stack
+New icon to center at the top
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -2079,6 +2087,8 @@ _End of Legend section._
 **The bulk of my profile resides here.**
 
 ***
+
+<img src="/Graphics/Wordmark/Seanpm2001/Seanpm2001_Wordmark_V2_1250px_V1_HighCompression.png" alt="Seanpm2001 wordmark" title="Seanpm2001 wordmark" width="1250" height="200">
 
 # [Seanpm2001](#Seanpm2001)
 
@@ -2287,7 +2297,13 @@ My nicknames:
 - SPM2K1
 - SEAN9000
 
-View this segment [in a separate file (coming soon)](/Segments/Nicknames/README.md)
+Origins of my name
+
+| Sean | Patrick | Myrick |
+|---|---|---|
+| 🇮🇪️ | 🇮🇪️ | 🏴󠁧󠁢󠁷󠁬󠁳󠁿️ |
+
+View this segment [in a separate file](/Segments/Nicknames/README.md)
 
 </details> <!-- End of nicknames section !-->
 
@@ -5493,6 +5509,51 @@ Ubuntu 20.04 LTS
 Other/unknown
 ```
 
+***
+
+##### [📚️ My web stack](#-My-web-stack)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
+> **Note** _Outside of virtual machine usage._
+
+| 🌎️ Web stack (browser) |
+|---|
+| Firefox |
+| Konqueror |
+
+| 🔎️ Web stack (search engine) |
+|---|
+| DuckDuckGo |
+| Wikipedia/Wikimedia Commons |
+| Ecosia |
+| Swisscows |
+| Bing |
+
+| 🧩️ Web stack (extensions)
+|---|
+| uBlock Origin |
+| Redirector |
+
+| 🪝️ Web stack (frameworks) |
+|---|
+| jQuery |
+| WebAssembly |
+
+| 🗣️ Web stack (languages) |
+|---|
+| HTML5 |
+| CSS |
+| JavaScript |
+
+</details> <!-- End of my web stack section !-->
+
+View this segment [in a separate file](/Segments/My-web-stack/README.md)
+
+_End of My Web stack section._
+
+***
+
 ##### [🖥️ Current desktop software](#-Current-desktop-software)
 
 | <img src="" alt="" title="" width="" height=""> |
@@ -7213,7 +7274,7 @@ There are some features that would be nice for GitHub. They include:
 
 **Entries marked with `⭐` are highest priority**
 
-`2` **/** `16` _features implemented (as of 2024, Saturday, May 4th)_
+`2` **/** `18` _features implemented (as of 2024, Saturday, May 11th)_
 
 - [x] The ability to follow organizations ⭐ (added to the site on 2022, March 21st)
 - [ ] An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
@@ -7234,6 +7295,8 @@ There are some features that would be nice for GitHub. They include:
 - [ ] Return a properly documented error message when trying to create a discussion that goes over the limit, instead of giving a generic, unhelpful error [:octocat: `See community#60075`](https://github.com/orgs/community/discussions/60075/)
 - [ ] Allow embedded videos in Markdown that rely on local repository files, instead of files solely on the GitHub user content server
 - [ ] Keep workflow/action pinned when disabling workflow [:octocat: `See community #122339`](https://github.com/orgs/community/discussions/122339/)
+- [ ] Add language linguist color (circle pog) to all language entries in the language dropdown
+- [ ] Allow for all languages to be shown in the user profile dropdown, as like in the organization profile dropdown
 - [ ] No other requests at the moment
 
 View this segment [in a separate file](/Segments/Feature-requests-for-GitHub/README.md)
@@ -7771,11 +7834,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `124 (2024, Friday, May 10th at 06:31 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,844`
-- **Word count:** `063,310`
-- **Character count (with spaces):** `0,434,700 characters`
-- **Character count (without spaces)** `0,377,023 characters`
+- **File version:** `125 (2024, Saturday, May 11th at 09:46 pm PST)`
+- **Line count (including blank lines and compiler line):** `09,933`
+- **Word count:** `063,794`
+- **Character count (with spaces):** `0,438,167 characters`
+- **Character count (without spaces)** `0,379,959 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8650,11 +8713,34 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 125 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 125 (2024, Saturday, May 11th at 9:46 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fiftieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Friday, May 10th to 2024, Saturday, May 11th. [DESCRIPTION GOES HERE]_
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Feature requests for GitHub` section
+- [x] Updated the `Nicknames` section
+- [x] Added the `My web stack` section
+- [x] Added references to the Seanpm2001 and SeanWallaWalla wordmarks in 3 places.
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 125
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 125
 
 </details> <!-- End of V125 !-->
@@ -9500,7 +9586,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 10th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-10th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 11th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-11th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9556,6 +9642,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 48 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md)
 - - [Link to remodel section version 49 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md)
 - - [Link to remodel section version 50 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md)
+- - [Link to remodel section version 51 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9627,9 +9714,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1124` (as of V124) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1141` (as of V125) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V124: `439,196` / `524,288` (`083.769%`))
+- - **Current character count (in bytes):** (as of V125: `442,732` / `524,288` (`084.444%`))
 
 > Memory
 
@@ -9655,6 +9742,8 @@ _End of profile body for @seanpm2001._
 </details> <!-- End of @seanpm2001 profile body !-->
 
 ***
+
+<img src="/Graphics/Wordmark/SeanWallaWalla/SeanWallaWalla_Wordmark_V1_VariantC_1540px_V1_HighCompression.png" alt="SeanWallaWalla wordmark" title="SeanWallaWalla wordmark" width="1540" height="200">
 
 # [SeanWallaWalla](#SeanWallaWalla)
 
@@ -9807,7 +9896,7 @@ You have reached the end of this page.
 
 | :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
 |---|---|
-| **Version 124 (beta 50)** | _2024, Friday, May 10th._ |
+| **Version 125 (beta 51)** | _2024, Saturday, May 11tth._ |
 | **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
 
 <div align="center">
@@ -9821,7 +9910,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/121/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/122/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 | <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
