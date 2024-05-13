@@ -3,6 +3,8 @@
 
 ### [🛳️ My current setup](#-My-current-setup)
 
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
 > **Note** **This section is being remodeled**
 
 - **Plans**
@@ -100,7 +102,11 @@ See also: [`#My-Server`](#-My-Server)
 
 > **Note** _Outdated, as of 2023, January 1st_
 
+***
+
 ##### [💻️ Current laptop software](#-Current-laptop-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -113,6 +119,20 @@ See also: [`#My-Server`](#-My-Server)
 
 | System76 Pangolin (2022) |
 |---|
+
+---
+
+View this segment [in a separate file](/Segments/Current-laptop-software/README.md)
+
+_End of Current laptop software section._
+
+</details> <!-- End of current laptop software section !-->
+
+***
+
+##### [💻️ Former laptop software](#-Former-laptop-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -184,7 +204,19 @@ Ubuntu 20.04 LTS
 Other/unknown
 ```
 
+---
+
+View this segment [in a separate file](/Segments/Former-laptop-software/README.md)
+
+_End of Former laptop software section._
+
+</details> <!-- End of former laptop software section !-->
+
+***
+
 ##### [🖥️ Current desktop software](#-Current-desktop-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -192,13 +224,110 @@ Other/unknown
 | Dell server tower (2023) |
 |---|
 
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Current-deskop-software/README.md)
+
+_End of Current desktop software section._
+
+</details> <!-- End of current desktop software section !-->
+
+***
+
+###### [📚️ My web stack](#-My-web-stack)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
+> **Note** _Outside of virtual machine usage._
+
+| 🌎️ Web stack (browser) |
+|---|
+| Firefox |
+| Konqueror |
+
+| 🔎️ Web stack (search engine) |
+|---|
+| DuckDuckGo |
+| Wikipedia/Wikimedia Commons |
+| Ecosia |
+| Swisscows |
+| Bing |
+
+| 🧩️ Web stack (extensions)
+|---|
+| uBlock Origin |
+| Redirector |
+
+| 🪝️ Web stack (frameworks) |
+|---|
+| jQuery |
+| WebAssembly |
+
+| 🗣️ Web stack (languages) |
+|---|
+| HTML5 |
+| CSS |
+| JavaScript |
+
+</details> <!-- End of my web stack section !-->
+
+---
+
+View this segment [in a separate file](/Segments/My-web-stack/README.md)
+
+_End of My Web stack section._
+
+***
+
+##### [🖥️ Former desktop software](#-Former-desktop-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
 | <img src="" alt="" title="" width="" height=""> |
 |---|
 
 | Dell tower (2015) |
 |---|
 
-##### [📱️ Current PDA/Phone/Tablet software](#-Current-desktop-software)
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Former-desktop-software/README.md)
+
+_End of Former desktop software section._
+
+</details> <!-- End of former desktop software section !-->
+
+***
+
+##### [📱️ Current PDA/Phone/Tablet software](#-Current-PDA-Phone-Tablet-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Samsung Galaxy S20 FE 5G (2020) |
+|---|
+
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Current-PDA-Phone-Tablet-software/README.md)
+
+_End of Current PDA/Phone/Tablet software section._
+
+</details> <!-- End of Current PDA/Phone/Tablet software section !-->
+
+***
+
+##### [📲️ Former PDA/Phone/Tablet software](#-Former-PDA-Phone-Tablet-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -248,16 +377,30 @@ Other/unknown
 | Samsung Galaxy S7 Edge (2015) |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
-|---|
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
 
-| Samsung Galaxy S20 FE 5G (2020) |
-|---|
+---
+
+View this segment [in a separate file](/Segments/Former-PDA-Phone-Tablet-software/README.md)
+
+_End of Former PDA/Phone/Tablet software section._
+
+</details> <!-- End of Current PDA/Phone/Tablet software section !-->
+
+***
+
+View this segment [in a separate file](/Segments/Current-software/README.md)
+
+_End of current software section._
 
 </details> <!-- End of current software section !-->
 
-View this segment [in a separate file (coming soon)](/Segments/My-current-setup/README.md)
+***
+
+View this segment [in a separate file](/Segments/My-current-setup/README.md)
 
 _End of My Current Setup section._
+
+</details> <!-- End of my current setup section !-->
 
 ***
