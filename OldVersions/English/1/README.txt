@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-11"
-      - version: "v125"
+      - date: "2024-05-12"
+      - version: "v126"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -117,6 +117,7 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.05.06] The document is very close to again reaching and surpassing 80.000% capacity, and will need to be modified to fix this before it reaches 100%
 - [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
 - [2024.05.08] -> [2024.05.11] No updates for this date.
+- [2024.05.12] The file is still rapidly growing, but I feel it will stay within the 512 KiB boundary by the time I finish on May 25th. Today, the file surpassed 10,000 lines of code again.
 
 ***
 
@@ -385,7 +386,7 @@ This guestbook is for basic interaction, and communications. For further communi
 - - - [2.13.12 - Music](#Music)
 - - - [2.13.13 - Anime](#Anime)
 - - [2.14 - Residence](#Residence)
-- - [2.15 - -Profile picture history](#Profile-picture-history)
+- - [2.15 - Profile picture history](#Profile-picture-history)
 - - [2.16 - Join date](#Join-date)
 - - [2.17 - Linux](#Linux)
 - - [2.18 - Complexity](#Complexity)
@@ -518,9 +519,15 @@ This guestbook is for basic interaction, and communications. For further communi
 - - [4.1 - Media](#Media)
 - - - [4.1.1 - Radio](#Radio)
 - - [4.2 - My current setup](#My-current-setup)
-- - - [4.2.1 - My web stack](#My-web-stack)
-- - - [4.2.2 - Current hardware](#Current-hardware)
-- - - [4.2.3 - Current software](#Current-software)
+- - - [4.2.1 - Current hardware](#Current-hardware)
+- - - [4.2.2 - Current software](#Current-software)
+- - - [4.2.2.1 - Current laptop software](#Current-laptop-software)
+- - - [4.2.2.2 - Former laptop software](#Former-laptop-software)
+- - - [4.2.2.3 - Current desktop software](#Current-desktop-software)
+- - - [4.2.2.3.1 - My web stack](#My-web-stack)
+- - - [4.2.2.4 - Former desktop software](#Former-laptop-software)
+- - - [4.2.2.5 - Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software)
+- - - [4.2.2.6 - Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software)
 - - [4.3 - Former organizations](#Former-organizations)
 - - [4.4 - Search my profile easier with this helpful Gist](#Search-my-profile-easier-with-this-helpful-Gist)
 - [5.0 - Statistics](#Statistics)
@@ -813,9 +820,15 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Media`](#Media) | Technology/Media | Technology | 4 | `h3` |
 | [`Radio`](#Radio) | Technology/Media | Technology | 4 | `h4` |
 | [`My current setup`](#My-current-setup) | Technology/My setup | Technology | 4 | `h3` |
-| [`My web stack`](#My-web-stack) | Technology/My setup | Technology | 4 | `h4` |
 | [`Current hardware`](#Current-hardware) | Technology/My setup | Technology | 4 | `h4` |
 | [`Current software`](#Current-software) | Technology/My setup | Technology | 4 | `h4` |
+| [`Current laptop software](#Current-laptop-software) | Technology/My setup | Technology | 4 | `h5` |
+| [`Former laptop software](#Former-laptop-software) | Technology/My setup | Technology | 4 | `h5` |
+| [`Current desktop software](#Current-desktop-software) | Technology/My setup | Technology | 4 | `h5` |
+| [`My web stack`](#My-web-stack) | Technology/My setup | Technology | 4 | `h6` |
+| [`Former desktop software](#Former-desktop-software) | Technology/My setup | Technology | 4 | `h5` |
+| [`Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software) | Technology/My setup | Technology | 4 | `h5` |
+| [`Former PDA/Phone/Tablet software](#Former-PDA-Phone-Tablet-software) | Technology/My setup | Technology | 4 | `h5` |
 | [`Former organizations`](#Former-organizations) | Technology | Technology | 4 | `h3` |
 | [`Search my profile easier with this helpful Gist`](#Search-my-profile-easier-with-this-helpful-Gist) | Technology | Technology | 4 | `h2` |
 | [`Statistics`](#Statistics) | Statistics | Statistics | 5 | `h2` |
@@ -1557,7 +1570,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 51 - 2024, Saturday, May 11th` |
+| `Beta 52 - 2024, Sunday, May 12th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1665,7 +1678,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 49`](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md) | 2024, Thursday, May 9th | 48 |
 | [`Beta 50`](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md) | 2024, Friday, May 10th | 49 |
 | [`Beta 51`](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md) | 2024, Saturday, May 11th | 50 |
-| Beta 52 | Coming soon | 51 |
+| [`Beta 52`](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md) | 2024, Sunday, May 12th | 51 |
 | Beta 53 | Coming soon | 52 |
 | Beta 54 | Coming soon | 53 |
 | Beta 55 | Coming soon | 54 |
@@ -1696,9 +1709,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `002` **/** `236` **tasks** _(000.85%)_ |
-| _as of 2024, Saturday, May 11th._ |
+| _as of 2024, Sunday, May 12th._ |
 
-- **Current tasks to do (002 tasks, as of 2024, Saturday, May 11th)**
+- **Current tasks to do (002 tasks, as of 2024, Sunday, May 12th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1723,9 +1736,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `234` **/** `236` **tasks** _(099.15%)_ |
-| _as of 2024, Saturday, May 11th._ |
+| _as of 2024, Sunday, May 12th._ |
 
-- **Tasks implemented so far (234 tasks, as of 2024, Saturday, May 11th)**
+- **Tasks implemented so far (234 tasks, as of 2024, Sunday, May 12th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -2088,7 +2101,7 @@ _End of Legend section._
 
 ***
 
-<img src="/Graphics/Wordmark/Seanpm2001/Seanpm2001_Wordmark_V2_1250px_V1_HighCompression.png" alt="Seanpm2001 wordmark" title="Seanpm2001 wordmark" width="1250" height="200">
+<img src="/Graphics/Wordmark/Seanpm2001/Seanpm2001_Wordmark_V2_VariantC_1250px_V1_HighCompression.png" alt="Seanpm2001 wordmark" title="Seanpm2001 wordmark" width="1250" height="200">
 
 # [Seanpm2001](#Seanpm2001)
 
@@ -2103,6 +2116,10 @@ _End of Legend section._
    | ( [`@Seanpm2001`](https://github.com/seanpm2001/) / [`@seanwallawalla`](https://github.com/seanwallawalla/) ) |
    |---------------------|
    | **Sean Patrick Myrick (SPM)** |
+
+<img src="/Graphics/Wordmark/Seanpm2001/Seanpm2001_Wordmark_V2_VariantB_1250px_V1_HighCompression.png" alt="Seanpm2001 wordmark" title="Seanpm2001 wordmark" width="1250" height="200">
+
+<img src="/Graphics/Wordmark/SeanWallaWalla/SeanWallaWalla_Wordmark_V1_VariantB_1540px_V1_HighCompression.png" alt="SeanWallaWalla wordmark" title="SeanWallaWalla wordmark" width="1250" height="200">
 
 </div>
 
@@ -5328,6 +5345,8 @@ _No other entries about my life are available here._)
 
 ### [🛳️ My current setup](#-My-current-setup)
 
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
 > **Note** **This section is being remodeled**
 
 - **Plans**
@@ -5425,7 +5444,11 @@ See also: [`#My-Server`](#-My-Server)
 
 > **Note** _Outdated, as of 2023, January 1st_
 
+***
+
 ##### [💻️ Current laptop software](#-Current-laptop-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -5438,6 +5461,20 @@ See also: [`#My-Server`](#-My-Server)
 
 | System76 Pangolin (2022) |
 |---|
+
+---
+
+View this segment [in a separate file](/Segments/Current-laptop-software/README.md)
+
+_End of Current laptop software section._
+
+</details> <!-- End of current laptop software section !-->
+
+***
+
+##### [💻️ Former laptop software](#-Former-laptop-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -5509,9 +5546,39 @@ Ubuntu 20.04 LTS
 Other/unknown
 ```
 
+---
+
+View this segment [in a separate file](/Segments/Former-laptop-software/README.md)
+
+_End of Former laptop software section._
+
+</details> <!-- End of former laptop software section !-->
+
 ***
 
-##### [📚️ My web stack](#-My-web-stack)
+##### [🖥️ Current desktop software](#-Current-desktop-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Dell server tower (2023) |
+|---|
+
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Current-deskop-software/README.md)
+
+_End of Current desktop software section._
+
+</details> <!-- End of current desktop software section !-->
+
+***
+
+###### [📚️ My web stack](#-My-web-stack)
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
@@ -5548,19 +5615,17 @@ Other/unknown
 
 </details> <!-- End of my web stack section !-->
 
+---
+
 View this segment [in a separate file](/Segments/My-web-stack/README.md)
 
 _End of My Web stack section._
 
 ***
 
-##### [🖥️ Current desktop software](#-Current-desktop-software)
+##### [🖥️ Former desktop software](#-Former-desktop-software)
 
-| <img src="" alt="" title="" width="" height=""> |
-|---|
-
-| Dell server tower (2023) |
-|---|
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -5568,7 +5633,43 @@ _End of My Web stack section._
 | Dell tower (2015) |
 |---|
 
-##### [📱️ Current PDA/Phone/Tablet software](#-Current-desktop-software)
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Former-desktop-software/README.md)
+
+_End of Former desktop software section._
+
+</details> <!-- End of former desktop software section !-->
+
+***
+
+##### [📱️ Current PDA/Phone/Tablet software](#-Current-PDA-Phone-Tablet-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Samsung Galaxy S20 FE 5G (2020) |
+|---|
+
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Current-PDA-Phone-Tablet-software/README.md)
+
+_End of Current PDA/Phone/Tablet software section._
+
+</details> <!-- End of Current PDA/Phone/Tablet software section !-->
+
+***
+
+##### [📲️ Former PDA/Phone/Tablet software](#-Former-PDA-Phone-Tablet-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
 | <img src="" alt="" title="" width="" height=""> |
 |---|
@@ -5618,17 +5719,31 @@ _End of My Web stack section._
 | Samsung Galaxy S7 Edge (2015) |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
-|---|
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
 
-| Samsung Galaxy S20 FE 5G (2020) |
-|---|
+---
+
+View this segment [in a separate file](/Segments/Former-PDA-Phone-Tablet-software/README.md)
+
+_End of Former PDA/Phone/Tablet software section._
+
+</details> <!-- End of Current PDA/Phone/Tablet software section !-->
+
+***
+
+View this segment [in a separate file](/Segments/Current-software/README.md)
+
+_End of current software section._
 
 </details> <!-- End of current software section !-->
 
-View this segment [in a separate file (coming soon)](/Segments/My-current-setup/README.md)
+***
+
+View this segment [in a separate file](/Segments/My-current-setup/README.md)
 
 _End of My Current Setup section._
+
+</details> <!-- End of my current setup section !-->
 
 ***
 
@@ -7834,11 +7949,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `125 (2024, Saturday, May 11th at 09:46 pm PST)`
-- **Line count (including blank lines and compiler line):** `09,933`
-- **Word count:** `063,794`
-- **Character count (with spaces):** `0,438,167 characters`
-- **Character count (without spaces)** `0,379,959 characters`
+- **File version:** `126 (2024, Sunday, May 12th at 09:35 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,080`
+- **Word count:** `064,731`
+- **Character count (with spaces):** `0,444,849 characters`
+- **Character count (without spaces)** `0,385,830 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8717,7 +8832,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
-> **Note** _This is the fiftieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Friday, May 10th to 2024, Saturday, May 11th. [DESCRIPTION GOES HERE]_
+> **Note** _This is the fiftieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Friday, May 10th to 2024, Saturday, May 11th. 2 goals were accomplished today, only 2 remain, and one of them is the most extensive one._
 
 > Changes:
  
@@ -8747,11 +8862,39 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 126 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 126 (2024, Sunday, May 12th at 09:35 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fiftieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Saturday, May 11th to 2024, Sunday, May 12th. Work was done on the final major goal today, with work done on structuring the mega section, and splitting off 6 subsections._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `My current setup` section
+- - [x] Added/split off the `Current laptop software` section
+- - [x] Added/split off the `Former laptop software` section
+- - [x] Added/split off the `Current desktop software` section
+- - [x] Added/split off the `Former desktop software` section
+- - [x] Added/split off the `Current PDA/Phone/Tablet software` section
+- - [x] Added/split off the `Former PDA/Phone/Tablet software` section
+- [x] Updated the `Index` section
+- [x] Added instances of all 7 versions of the seanpm2001/seanwallawalla wordmarks
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 126
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 126
 
 </details> <!-- End of V126 !-->
@@ -9586,7 +9729,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 11th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-11th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 12th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-12th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9643,6 +9786,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 49 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md)
 - - [Link to remodel section version 50 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md)
 - - [Link to remodel section version 51 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md)
+- - [Link to remodel section version 52 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9714,9 +9858,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1141` (as of V125) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1145` (as of V126) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V125: `442,732` / `524,288` (`084.444%`))
+- - **Current character count (in bytes):** (as of V126: `442,732` / `524,288` (`085.721%`))
 
 > Memory
 
@@ -9757,6 +9901,8 @@ _End of profile body for @seanpm2001._
    |---------------------|
    | **SeanWallaWalla** |
 
+<img src="/Graphics/Wordmark/SeanWallaWalla/SeanWallaWalla_Wordmark_V1_VariantB_1540px_V1_HighCompression.png" alt="SeanWallaWalla wordmark" title="SeanWallaWalla wordmark" width="1540" height="200">
+
 </div>
 
 ***
@@ -9765,13 +9911,14 @@ _End of profile body for @seanpm2001._
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about me</b></p></summary>
 
+<img src="/Graphics/Wordmark/SeanWallaWalla/SeanWallaWalla_Wordmark_V1_Variant0_1540px_V1_HighCompression.png" alt="SeanWallaWalla wordmark" title="SeanWallaWalla wordmark" width="1540" height="200">
+
 This is my alternative account. It retains my original online name from 2015 to 2020 May 24th. [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/)
 
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
 |---|
-| Version 117 |
-| 2024, Friday, May 3rd |
-
+| Version 126 |
+| 2024, Sunday, May 12th |
 
 ***
 
@@ -9896,7 +10043,7 @@ You have reached the end of this page.
 
 | :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
 |---|---|
-| **Version 125 (beta 51)** | _2024, Saturday, May 11tth._ |
+| **Version 126 (beta 52)** | _2024, Sunday, May 12th._ |
 | **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
 
 <div align="center">
@@ -9910,7 +10057,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/122/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/123/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 | <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
