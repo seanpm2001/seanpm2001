@@ -5,7 +5,7 @@
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Samsung/Galaxy-S20-FE-5G/SamsungGalaxyS20FE_5G.png" alt="Samsung Galaxy S20 FE 5G image failed to load" title="Samsung Galaxy S20 FE 5G" width="250" height="250"> |
 |---|
 
 | Samsung Galaxy S20 FE 5G (2020) |
@@ -22,4 +22,3 @@ _End of Current PDA/Phone/Tablet software section._
 </details> <!-- End of Current PDA/Phone/Tablet software section !-->
 
 ***
-
