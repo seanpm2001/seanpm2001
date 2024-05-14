@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-12"
-      - version: "v126"
+      - date: "2024-05-13"
+      - version: "v127"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -118,6 +118,7 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
 - [2024.05.08] -> [2024.05.11] No updates for this date.
 - [2024.05.12] The file is still rapidly growing, but I feel it will stay within the 512 KiB boundary by the time I finish on May 25th. Today, the file surpassed 10,000 lines of code again.
+- [2024.05.13] No updates for this date.
 
 ***
 
@@ -1570,7 +1571,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 52 - 2024, Sunday, May 12th` |
+| `Beta 53 - 2024, Monday, May 13th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1581,7 +1582,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 50 days down, 13/14 days to go, as of 2024, Saturday, May 11th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 52 days down, 11/12 days to go, as of 2024, Monday, May 13th)_
 
 - Plans on what to do at the end:
 - - Release 64: Finish up the remaining goals
@@ -1679,7 +1680,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 50`](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md) | 2024, Friday, May 10th | 49 |
 | [`Beta 51`](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md) | 2024, Saturday, May 11th | 50 |
 | [`Beta 52`](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md) | 2024, Sunday, May 12th | 51 |
-| Beta 53 | Coming soon | 52 |
+| [`Beta 53`](/Remodels/2024/!OldVersions/README/English/USA/README_V53.md) | 2024, Monday, May 13th | 52 |
 | Beta 54 | Coming soon | 53 |
 | Beta 55 | Coming soon | 54 |
 | Beta 56 | Coming soon | 55 |
@@ -1709,9 +1710,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `002` **/** `236` **tasks** _(000.85%)_ |
-| _as of 2024, Sunday, May 12th._ |
+| _as of 2024, Monday, May 13th._ |
 
-- **Current tasks to do (002 tasks, as of 2024, Sunday, May 12th)**
+- **Current tasks to do (002 tasks, as of 2024, Monday, May 13th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1736,9 +1737,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `234` **/** `236` **tasks** _(099.15%)_ |
-| _as of 2024, Sunday, May 12th._ |
+| _as of 2024, Monday, May 13th._ |
 
-- **Tasks implemented so far (234 tasks, as of 2024, Sunday, May 12th)**
+- **Tasks implemented so far (234 tasks, as of 2024, Monday, May 13th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -5649,7 +5650,7 @@ _End of Former desktop software section._
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Samsung/Galaxy-S20-FE-5G/SamsungGalaxyS20FE_5G.png" alt="Samsung Galaxy S20 FE 5G image failed to load" title="Samsung Galaxy S20 FE 5G" width="250" height="250"> |
 |---|
 
 | Samsung Galaxy S20 FE 5G (2020) |
@@ -5671,49 +5672,55 @@ _End of Current PDA/Phone/Tablet software section._
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Apple/iPod-4/iPodTouch4.png" alt="iPod Touch 4th generation image failed to load" title="iPod Touch (4th generation) (first iOS device)" width="250" height="190"> |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
+| iPod Touch 4th generation (1) (2009) |
 |---|
 
-| iPod Touch 4th generation 1 (2009) |
+| <img src="/Graphics/Hardware/Apple/iPod-4/iPodTouch4.png" alt="iPod Touch 4th generation image failed to load" title="iPod Touch (4th generation)" width="250" height="190"> |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
+| iPod Touch 4th generation (2) (2010) |
 |---|
 
-| iPod Touch 4th generation 2 (2010) |
+| <img src="/Graphics/Hardware/HTC/Desire/HTC-Desire.png" alt="HTC Desire image failed to load" title="HTC Desire (first Android device)" width="250" height="250"> |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
+| HTC Desire (2010) |
+|---|
+
+| <img src="/Graphics/Hardware/Apple/iPod-5/iPodTouch5.png" alt="iPod Touch 5th generation image failed to load" title="iPod Touch (5th generation) (last iOS device)" width="250" height="250"> |
 |---|
 
 | iPod Touch 5th generation (2012) |
 |---|
 
+| <img src="/Graphics/Hardware/Samsung/Galaxy-S2/S2Black1.jpg" alt="Samsung Galaxy S2 image failed to load" title="Samsung Galaxy S2" width="250" height="250"> |
+|---|
+
 | Samsung Galaxy SII (????) |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Samsung/" alt="" title="" width="" height=""> |
 |---|
 
 | Samsung Galaxy S3 (????) |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Samsung/Galaxy-Core-Prime/SamsungGalaxyCorePrime1.jpg" alt="Samsung Galaxy Core Prime image failed to load" title="Samsung Galaxy Core Prime" width="250" height="250"> |
 |---|
 
 | Samsung Galaxy Core Prime 1 (2014) |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Samsung/Galaxy-Core-Prime/SamsungGalaxyCorePrime1.jpg" alt="Samsung Galaxy Core Prime image failed to load" title="Samsung Galaxy Core Prime" width="250" height="250"> |
 |---|
 
 | Samsung Galaxy Core Prime 2 (2015) |
 |---|
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Samsung/Galaxy-S7-Edge/S7EDGE1.jpg" alt="Samsung Galaxy S7 Edge image failed to load" title="Samsung Galaxy S7 Edge" width="250" height="250"> |
 |---|
 
 | Samsung Galaxy S7 Edge (2015) |
@@ -7949,11 +7956,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `126 (2024, Sunday, May 12th at 09:35 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,080`
-- **Word count:** `064,731`
-- **Character count (with spaces):** `0,444,849 characters`
-- **Character count (without spaces)** `0,385,830 characters`
+- **File version:** `127 (2024, Monday, May 13th at 11:05 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,107`
+- **Word count:** `065,170`
+- **Character count (with spaces):** `0,447,603 characters`
+- **Character count (without spaces)** `0,388,241 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8901,11 +8908,30 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 127 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 127 (2024, Monday, May 13th at 11:05 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fifty-first update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Sunday, May 12th to 2024, Monday, May 13th. I spent less time on this project today, still mainly working towards the last major goal. Today, some images were added._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 127
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 127
 
 </details> <!-- End of V127 !-->
@@ -9729,7 +9755,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 12th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-12th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 13th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-13th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9787,6 +9813,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 50 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md)
 - - [Link to remodel section version 51 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md)
 - - [Link to remodel section version 52 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md)
+- - [Link to remodel section version 53 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V53.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9858,9 +9885,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1145` (as of V126) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1145` (as of V127) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V126: `442,732` / `524,288` (`085.721%`))
+- - **Current character count (in bytes):** (as of V127: `452,183` / `524,288` (`086.247%`))
 
 > Memory
 
@@ -10043,7 +10070,7 @@ You have reached the end of this page.
 
 | :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
 |---|---|
-| **Version 126 (beta 52)** | _2024, Sunday, May 12th._ |
+| **Version 127 (beta 53)** | _2024, Monday, May 13th._ |
 | **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
 
 <div align="center">
@@ -10057,7 +10084,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/123/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/124/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 | <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
