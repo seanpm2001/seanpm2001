@@ -1,0 +1,1 @@
+[Small feature request] Allow for adding labels to multiple issues/discussions at once #124015
