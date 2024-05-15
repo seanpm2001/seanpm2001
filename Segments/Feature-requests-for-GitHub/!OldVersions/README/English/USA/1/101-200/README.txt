@@ -9,14 +9,13 @@ There are some features that would be nice for GitHub. They include:
 
 **Entries marked with `⭐` are highest priority**
 
-`2` **/** `18` _features implemented (as of 2024, Saturday, May 11th)_
+`2` **/** `18` _features implemented (as of 2024, Tuesday, May 14th)_
+
+<details><summary><p><b>[Click/tap here to expand/collapse the table of requests]</b></p></summary>
 
 - [x] The ability to follow organizations ⭐ (added to the site on 2022, March 21st)
 - [ ] An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
 - [x] A built-in dark mode, along with other modes (if needed) (added to the site around 2021)
-
-<!-- I currently can't remember this one - [ ] Adding back the ability to hover over and see commit percentages (you used to be able to hover over  ⭐ !-->
-
 - [ ] Support for Go! (2004 language by Francis McCabe) (to distinguish from Go (2009 Google language))
 - [ ] Better documentation for GitHub Emoji Skin tone [:octocat: `See community#106369`](https://github.com/orgs/community/discussions/106369/)
 - [ ] Repository size information on the repository itself (as GitLab does it)
@@ -31,8 +30,14 @@ There are some features that would be nice for GitHub. They include:
 - [ ] Allow embedded videos in Markdown that rely on local repository files, instead of files solely on the GitHub user content server
 - [ ] Keep workflow/action pinned when disabling workflow [:octocat: `See community #122339`](https://github.com/orgs/community/discussions/122339/)
 - [ ] Add language linguist color (circle pog) to all language entries in the language dropdown
-- [ ] Allow for all languages to be shown in the user profile dropdown, as like in the organization profile dropdown
+- [ ] Allow for all languages to be shown in the user profile dropdown, as like in the organization profile dropdown [:octocat: `See community #123845`](https://github.com/orgs/community/discussions/123845/)
 - [ ] No other requests at the moment
+
+<!-- I currently can't remember this one - [ ] Adding back the ability to hover over and see commit percentages (you used to be able to hover over) ⭐ !-->
+
+</details> <!-- End of table of requests !-->
+
+---
 
 View this segment [in a separate file](/Segments/Feature-requests-for-GitHub/README.md)
 
