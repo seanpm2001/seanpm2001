@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-13"
-      - version: "v127"
+      - date: "2024-05-14"
+      - version: "v128"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -118,7 +118,7 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
 - [2024.05.08] -> [2024.05.11] No updates for this date.
 - [2024.05.12] The file is still rapidly growing, but I feel it will stay within the 512 KiB boundary by the time I finish on May 25th. Today, the file surpassed 10,000 lines of code again.
-- [2024.05.13] No updates for this date.
+- [2024.05.13] -> [2024.05.14] No updates for this date.
 
 ***
 
@@ -527,8 +527,10 @@ This guestbook is for basic interaction, and communications. For further communi
 - - - [4.2.2.3 - Current desktop software](#Current-desktop-software)
 - - - [4.2.2.3.1 - My web stack](#My-web-stack)
 - - - [4.2.2.4 - Former desktop software](#Former-laptop-software)
-- - - [4.2.2.5 - Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software)
-- - - [4.2.2.6 - Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software)
+- - - [4.2.2.5 - Current console software](#Current-console-software)
+- - - [4.2.2.6 - Former console software](#Former-console-software)
+- - - [4.2.2.7 - Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software)
+- - - [4.2.2.8 - Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software)
 - - [4.3 - Former organizations](#Former-organizations)
 - - [4.4 - Search my profile easier with this helpful Gist](#Search-my-profile-easier-with-this-helpful-Gist)
 - [5.0 - Statistics](#Statistics)
@@ -828,6 +830,8 @@ This guestbook is for basic interaction, and communications. For further communi
 | [`Current desktop software](#Current-desktop-software) | Technology/My setup | Technology | 4 | `h5` |
 | [`My web stack`](#My-web-stack) | Technology/My setup | Technology | 4 | `h6` |
 | [`Former desktop software](#Former-desktop-software) | Technology/My setup | Technology | 4 | `h5` |
+| [`Current Console software](#Current-Console-software) | Technology/My setup | Technology | 4 | `h5` |
+| [`Former Console software](#Former-Console-software) | Technology/My setup | Technology | 4 | `h5` |
 | [`Current PDA/Phone/Tablet software](#Current-PDA-Phone-Tablet-software) | Technology/My setup | Technology | 4 | `h5` |
 | [`Former PDA/Phone/Tablet software](#Former-PDA-Phone-Tablet-software) | Technology/My setup | Technology | 4 | `h5` |
 | [`Former organizations`](#Former-organizations) | Technology | Technology | 4 | `h3` |
@@ -1571,7 +1575,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 53 - 2024, Monday, May 13th` |
+| `Beta 54 - 2024, Tuesday, May 14th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1582,7 +1586,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 52 days down, 11/12 days to go, as of 2024, Monday, May 13th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 53 days down, 10/11 days to go, as of 2024, Tuesday, May 14th)_
 
 - Plans on what to do at the end:
 - - Release 64: Finish up the remaining goals
@@ -1681,7 +1685,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 51`](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md) | 2024, Saturday, May 11th | 50 |
 | [`Beta 52`](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md) | 2024, Sunday, May 12th | 51 |
 | [`Beta 53`](/Remodels/2024/!OldVersions/README/English/USA/README_V53.md) | 2024, Monday, May 13th | 52 |
-| Beta 54 | Coming soon | 53 |
+| [`Beta 54`](/Remodels/2024/!OldVersions/README/English/USA/README_V54.md) | 2024, Tuesday, May 14th | 53 |
 | Beta 55 | Coming soon | 54 |
 | Beta 56 | Coming soon | 55 |
 | Beta 57 | Coming soon | 56 |
@@ -1710,9 +1714,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `002` **/** `236` **tasks** _(000.85%)_ |
-| _as of 2024, Monday, May 13th._ |
+| _as of 2024, Tuesday, May 14th._ |
 
-- **Current tasks to do (002 tasks, as of 2024, Monday, May 13th)**
+- **Current tasks to do (002 tasks, as of 2024, Tuesday, May 14th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1737,9 +1741,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `234` **/** `236` **tasks** _(099.15%)_ |
-| _as of 2024, Monday, May 13th._ |
+| _as of 2024, Tuesday, May 14th._ |
 
-- **Tasks implemented so far (234 tasks, as of 2024, Monday, May 13th)**
+- **Tasks implemented so far (234 tasks, as of 2024, Tuesday, May 14th)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -2235,13 +2239,14 @@ I have collaborated on a few projects on GitHub, including
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `jmdugan/blocklists`](https://github.com/jmdugan/blocklists/) | 100% issues (2024) | [1](https://github.com/jmdugan/blocklists/issues/80/) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `FaviFake/FaviFake`](https://github.com/FaviFake/FaviFake/) | 100% pull requests (2024) | [1](https://github.com/FaviFake/FaviFake/pull/1/) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/dmca`](https://github.com/github/dmca/) | 100% pull requests (2024) (not a contribution) | [1](https://github.com/github/dmca/pull/8765/) |
-| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/community`](https://github.com/github/community/) | 100% discussions (2024) | [1](https://github.com/orgs/community/discussions/60075/) [2](https://github.com/orgs/community/discussions/60170/) | [3](https://github.com/orgs/community/discussions/106369/) | [4](https://github.com/orgs/community/discussions/122339/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/community`](https://github.com/github/community/) | 100% discussions (2024) | [1](https://github.com/orgs/community/discussions/60075/) [2](https://github.com/orgs/community/discussions/60170/) | [3](https://github.com/orgs/community/discussions/106369/) | [4](https://github.com/orgs/community/discussions/122339/)  [5](https://github.com/orgs/community/discussions/123845/) |
+| 🪞️ Project logo | 🔳️ Repository | 🔹️ Contribution type | 👋️ Contributions |
 
 </details> <!-- End of List of projects I have helped develop subsection !-->
 
 ***
 
-View this segment [in a separate file (coming soon)](/Segments/What-I-have-collaborated-on/README.md)
+View this segment [in a separate file](/Segments/What-I-have-collaborated-on/README.md)
 
 _End of What I have collaborated on subsection._
 
@@ -5451,17 +5456,19 @@ See also: [`#My-Server`](#-My-Server)
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/System76/OryxPro/System76_OryxProSpecs.jpeg" alt="System76 Oryx Pro image failed to load" title="System76 Oryx Pro specifications" width="316" height="165"> |
 |---|
 
 | System76 Oryx Pro (2023) |
 |---|
+| _My current primary Linux laptop, running Ubuntu 22.04_ |
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/System76/Pangolin/System76_PangolinSpecs.jpeg" alt="System76 Pangolin image failed to load" title="System76 Pangolin specifications" width="350" height="187"> |
 |---|
 
 | System76 Pangolin (2022) |
 |---|
+| _My current secondary Linux laptop, running Ubuntu 22.04_ |
 
 ---
 
@@ -5477,11 +5484,12 @@ _End of Current laptop software section._
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Dell/XSP-13/DellXPS13Ubuntu20.04.jpg" alt="Dell XPS-13 image failed to load" title="Stock Dell XPS-13 image" width="348" height="248"> |
 |---|
 
 | Dell XPS 13 2 (2021) |
 |---|
+| _My second Linux laptop. At the moment, the operating system is wiped (it keeps wiping the OS when it runs out of power) so it is currently unusable._ |
 
 ```
 VLC Media Player 3.0.11
@@ -5502,7 +5510,7 @@ LibreOffice 6.4.6.2 {
 }
 VirtualBox 6.1.10 (a bit outdated) - Not currently in use
 Inkscape - Not currently in use
-GIMP 2.10
+GIMP 2.10*
 Mari0 (possibly proprietary)
 Okular
 Typora (proprietary) - No longer used
@@ -5512,11 +5520,12 @@ Ubuntu 20.04 LTS
 Other/unknown
 ```
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Dell/XSP-13/DellXPS13Ubuntu20.04.jpg" alt="Dell XPS-13 image failed to load" title="Stock Dell XPS-13 image" width="348" height="248"> |
 |---|
 
 | Dell XPS 13 1 (2020) |
 |---|
+| _My first Linux laptop, starting 2020 June. Really wish I had this in High School._ |
 
 ```
 VLC Media Player 3.0.11
@@ -5547,6 +5556,21 @@ Ubuntu 20.04 LTS
 Other/unknown
 ```
 
+
+| <img src="/Graphics/Hardware/Samsung/Laptop/Samsung-Laptop-2012.jpg" alt="Samsung laptop image failed to load" title="Stock Samsung laptop image" width="300" height="247"> |
+|---|
+
+| Samsung laptop (2012) |
+|---|
+| _My second personal laptop, starting 2012. Originally came with Windows 8. Used most often to play Minecraft._ |
+
+| <img src="" alt="" title="" width="" height=""> |
+|---|
+
+| Old laptop (2008/2009) |
+|---|
+| _My first personal laptop, starting 2008 or 2009. Can't remember the brand at the moment. Came with Windows XP. Complete hardware failure within 5 years, refused to turn on, just kept beeping, with the screen not coming on. Didn't look into this any further._ |
+
 ---
 
 View this segment [in a separate file](/Segments/Former-laptop-software/README.md)
@@ -5561,11 +5585,21 @@ _End of Former laptop software section._
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Dell/Optiplex-Tower-PC/Dell_Optiplex_Tower1.jpeg" alt="Dell tower failed to load" title="Dell Optiplex tower (not the exact device)" width="250" height="250"> |
 |---|
 
 | Dell server tower (2023) |
 |---|
+| _My current Dell server tower. Right now, I am procrastinating on replacing the hard drive with a higher capacity one with Linux._ |
+
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+| <img src="/Graphics/Hardware/Raspberry-Pi/RPi4/RASP_PI_4_B_01_ANW-3978250663.png" alt="Raspberry Pi image failed to load" title="Raspberry Pi Motherboard (not the exact device)" width="250" height="250"> |
+|---|
+
+| Raspberry Pi (2022) |
+|---|
+| _My first Raspberry Pi, a Canakit with 8 gigabytes of RAM. At the moment, it is used infrequently, but I plan to use it more in the future._ |
 
 See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
 
@@ -5628,11 +5662,12 @@ _End of My Web stack section._
 
 <details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
 
-| <img src="" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Dell/Optiplex-Tower-PC/Dell_Optiplex_Tower1.jpeg" alt="Dell tower failed to load" title="Dell Optiplex tower (not the exact device)" width="250" height="250"> |
 |---|
 
 | Dell tower (2015) |
 |---|
+| _My first desktop computer that isn't a laptop. 
 
 See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
 
@@ -5643,6 +5678,87 @@ View this segment [in a separate file](/Segments/Former-desktop-software/README.
 _End of Former desktop software section._
 
 </details> <!-- End of former desktop software section !-->
+
+***
+
+##### [🎮️ Current Console software](#-Current-Console-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
+| <img src="/Graphics/Hardware/Nintendo/2DS-XL/Nintendo-2DS-XL.jpg" alt="Nintendo 2DS XL image failed to load" title="Nintendo 2DS XL" width="250" height="250"> |
+|---|
+
+| Nintendo 2DS XL (2020) |
+|---|
+| _My latest DS, played normally on and off for a few years, before rooting it in 2023 so that I can play emulated games._ |
+
+| <img src="/Graphics/Hardware/Nintendo/Switch/Nintendo-Switch.jpg" alt="Nintendo Switch image failed to load" title="Nintendo Switch" width="465" height="270"> |
+|---|
+
+| Nintendo Switch (2020) |
+|---|
+| _My Nintendo Switch, a present I rarely used, and ended up donating to someone else._ |
+
+| <img src="/Graphics/Hardware/Nintendo/Wii/Wii-console_Nintendo.jpg" alt="Nintendo Wii image failed to load" title="Nintendo Wii" width="465" height="270"> |
+|---|
+
+| Nintendo Wii (2009) |
+|---|
+| _The Family Wii, had a disc read error in 2023, and refused to turn on for a few days, but still works 15 years later. Initially used for New Super Mario Bros Wii, but it was rooted, and The Homebrew Channel was installed, so that emulated games could be played. Lots of memories here._ |
+
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Current-Console-Software/README.md)
+
+_End of Current Console software section._
+
+</details> <!-- End of Current Console software section !-->
+
+***
+
+##### [🕹️ Former Console software](#-Current-Console-software)
+
+<details><summary><H3>[Click/tap here to expand/collapse this section]</H3></summary>
+
+| <img src="/Graphics/Hardware/Nintendo/DSi/Nintendo-DSi_Red.jpg" alt="Nintendo DSi image failed to load" title="Nintendo DSi" width="250" height="250"> |
+|---|
+
+| Nintendo DSi (2006-2011) |
+|---|
+| _My first DS, played frequently for several years. Eventually, one of the arrow buttons broke, and oil was used to attempt to fix it, which fried the device. I had a lot of good memories here, most notably with New Super Mario Bros DS, Bejeweled Twist, and some other games._ |
+
+| <img src="/Graphics/Hardware/Nintendo/Game-Boy-Advance/Nintendo-DSi_Red.jpg" alt="Nintendo Game Boy Advance (GBA) image failed to load" title="Nintendo GBA" width="250" height="250"> |
+|---|
+
+| Nintendo GBA (?-2011) |
+|---|
+| _My second Game Boy, played frequently for several years. I don't know what happened to it in the end, but I did enjoy using it._ |
+
+| <img src="/Graphics/Hardware/Nintendo/Game-Boy-Color/gameboy_color.png" alt="Nintendo Game Boy Color (GBC) image failed to load" title="Nintendo GBC" width="300" height="388"> |
+|---|
+
+| Nintendo Game Boy Color (?-present) |
+|---|
+| _My first Game Boy, played infrequently for several years, mostly playing Tetris in monochrome color. I still have it, but I don't use it anymore._ |
+
+| <img src="/Graphics/Hardware/Microsoft/XBOX-2001/Microsoft-XBOX-2001-console_Original.jpg" alt="Microsoft XBOX (2001) image failed to load" title="XBOX Original (2001)" width="512" height="235"> |
+|---|
+
+| Microsoft XBOX Original (2006-2010) |
+|---|
+| _My first XBOX, played somewhat frequently for a few years, before it was sold off. There were some fun games for it._ |
+
+See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+
+---
+
+View this segment [in a separate file](/Segments/Former-Console-software/README.md)
+
+_End of Current Console software section._
+
+</details> <!-- End of Current Console software section !-->
 
 ***
 
@@ -5702,7 +5818,8 @@ _End of Current PDA/Phone/Tablet software section._
 | Samsung Galaxy SII (????) |
 |---|
 
-| <img src="/Graphics/Hardware/Samsung/" alt="" title="" width="" height=""> |
+| <img src="/Graphics/Hardware/Samsung/Galaxy-S3/Samsung-Galaxy-S3.png" alt="Samsung Galaxy S3 image failed to load" title="Samsung Galaxy S3" width="250" height="250"> |
+
 |---|
 
 | Samsung Galaxy S3 (????) |
@@ -7396,14 +7513,13 @@ There are some features that would be nice for GitHub. They include:
 
 **Entries marked with `⭐` are highest priority**
 
-`2` **/** `18` _features implemented (as of 2024, Saturday, May 11th)_
+`2` **/** `18` _features implemented (as of 2024, Tuesday, May 14th)_
+
+<details><summary><p><b>[Click/tap here to expand/collapse the table of requests]</b></p></summary>
 
 - [x] The ability to follow organizations ⭐ (added to the site on 2022, March 21st)
 - [ ] An increased file upload size (25 MB > 50 MB or higher) so that larger files can be uploaded, including maximum size Scratch 1, 2, and 3 projects ⭐
 - [x] A built-in dark mode, along with other modes (if needed) (added to the site around 2021)
-
-<!-- I currently can't remember this one - [ ] Adding back the ability to hover over and see commit percentages (you used to be able to hover over  ⭐ !-->
-
 - [ ] Support for Go! (2004 language by Francis McCabe) (to distinguish from Go (2009 Google language))
 - [ ] Better documentation for GitHub Emoji Skin tone [:octocat: `See community#106369`](https://github.com/orgs/community/discussions/106369/)
 - [ ] Repository size information on the repository itself (as GitLab does it)
@@ -7418,8 +7534,14 @@ There are some features that would be nice for GitHub. They include:
 - [ ] Allow embedded videos in Markdown that rely on local repository files, instead of files solely on the GitHub user content server
 - [ ] Keep workflow/action pinned when disabling workflow [:octocat: `See community #122339`](https://github.com/orgs/community/discussions/122339/)
 - [ ] Add language linguist color (circle pog) to all language entries in the language dropdown
-- [ ] Allow for all languages to be shown in the user profile dropdown, as like in the organization profile dropdown
+- [ ] Allow for all languages to be shown in the user profile dropdown, as like in the organization profile dropdown [:octocat: `See community #123845`](https://github.com/orgs/community/discussions/123845/)
 - [ ] No other requests at the moment
+
+<!-- I currently can't remember this one - [ ] Adding back the ability to hover over and see commit percentages (you used to be able to hover over) ⭐ !-->
+
+</details> <!-- End of table of requests !-->
+
+---
 
 View this segment [in a separate file](/Segments/Feature-requests-for-GitHub/README.md)
 
@@ -7956,11 +8078,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `127 (2024, Monday, May 13th at 11:05 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,107`
-- **Word count:** `065,170`
-- **Character count (with spaces):** `0,447,603 characters`
-- **Character count (without spaces)** `0,388,241 characters`
+- **File version:** `128 (2024, Tuesday, May 14th at 11:43 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,261`
+- **Word count:** `066,560`
+- **Character count (with spaces):** `0,456,765 characters`
+- **Character count (without spaces)** `0,396,130 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8917,6 +9039,8 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 > Changes:
  
 - [x] Updated information on the remodel of this project
+- [x] Updated the `Current PDA/Phone/Tablet software` section
+- [x] Updated the `Former PDA/Phone/Tablet software` section
 - [x] Updated the `Size warning` section
 - [x] Updated the `File info` section
 - - [x] Updated the `Version number`
@@ -8938,11 +9062,40 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 128 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 128 (2024, Tuesday, May 14th at 11:43 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fifty-SECOND update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Monday, May 13th to 2024, Tuesday, May 14th. I did further work on implementing the current setup section, but stretched my time thin. Since I am back to doing graphic design on a daily basis again, I should be able to get to drawing the custom divider images soon, which is the last remaining easy goal. I still have 11 days to finish up everything._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Updated the `My current setup` section
+- - [x] Added the `Current Console software` section
+- - [x] Added the `Former Console software` section
+- - [x] Updated the `Current PDA/Phone/Tablet software` section
+- - [x] Updated the `Former PDA/Phone/Tablet software` section
+- - [x] Updated the `Current Desktop software` section
+- - [x] Updated the `Former Desktop software` section
+- - [x] Updated the `Current Laptop software` section
+- - [x] Updated the `Former Laptop software` section
+- [x] Updated the `Index` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 128
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 128
 
 </details> <!-- End of V128 !-->
@@ -9755,7 +9908,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 13th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-13th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 14th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-14th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9814,6 +9967,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 51 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md)
 - - [Link to remodel section version 52 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md)
 - - [Link to remodel section version 53 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V53.md)
+- - [Link to remodel section version 54 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V54.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -9885,9 +10039,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1145` (as of V127) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1152` (as of V128) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V127: `452,183` / `524,288` (`086.247%`))
+- - **Current character count (in bytes):** (as of V128: `452,183` / `524,288` (`088.000%`))
 
 > Memory
 
@@ -10070,7 +10224,7 @@ You have reached the end of this page.
 
 | :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
 |---|---|
-| **Version 127 (beta 53)** | _2024, Monday, May 13th._ |
+| **Version 128 (beta 54)** | _2024, Tuesday, May 14th._ |
 | **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
 
 <div align="center">
