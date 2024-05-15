@@ -1,0 +1,1 @@
+[Small feature request] Add language linguist color (circle pog) to all language entries in the language dropdown #124013
