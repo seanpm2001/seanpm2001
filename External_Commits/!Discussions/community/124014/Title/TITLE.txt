@@ -1,0 +1,1 @@
+[Feature request] Show repository size on the repository homepage, like GitLab does #124014
