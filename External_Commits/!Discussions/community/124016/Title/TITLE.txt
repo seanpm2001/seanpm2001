@@ -1,0 +1,1 @@
+[Feature request] Increase discussion category limit from 25 #124016
