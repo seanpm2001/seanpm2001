@@ -1,0 +1,1 @@
+[Small feature request] Show all languages on user profile. #123845
