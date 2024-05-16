@@ -1,4 +1,3 @@
-
 ***
 
 ##### [🕹️ Former Console software](#-Current-Console-software)
@@ -12,7 +11,7 @@
 |---|
 | _My first DS, played frequently for several years. Eventually, one of the arrow buttons broke, and oil was used to attempt to fix it, which fried the device. I had a lot of good memories here, most notably with New Super Mario Bros DS, Bejeweled Twist, and some other games._ |
 
-| <img src="/Graphics/Hardware/Nintendo/Game-Boy-Advance/Nintendo-DSi_Red.jpg" alt="Nintendo Game Boy Advance (GBA) image failed to load" title="Nintendo GBA" width="250" height="250"> |
+| <img src="/Graphics/Hardware/Nintendo/Game-Boy-Advance/Game-Boy-Advance-SP-Mk1-Blue.jpg" alt="Nintendo Game Boy Advance (GBA) image failed to load" title="Nintendo GBA" width="250" height="250"> |
 |---|
 
 | Nintendo GBA (?-2011) |
@@ -39,8 +38,8 @@ See: [:octocat: `seanpm2001/SeansOSData`](https://github.com/seanpm2001/SeansOSD
 
 View this segment [in a separate file](/Segments/Former-Console-software/README.md)
 
-_End of Current Console software section._
+_End of Former Console software section._
 
-</details> <!-- End of Current Console software section !-->
+</details> <!-- End of Former Console software section !-->
 
 ***
