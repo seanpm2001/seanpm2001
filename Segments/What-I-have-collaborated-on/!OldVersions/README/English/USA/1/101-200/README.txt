@@ -5,7 +5,7 @@
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-I have collaborated on a few projects on GitHub, including
+I have collaborated on many projects on GitHub, which include:
 
 <details><summary>[Click/tap here to expand/collapse the list of projects I have helped develop]</summary>
 	
@@ -38,8 +38,9 @@ I have collaborated on a few projects on GitHub, including
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `jmdugan/blocklists`](https://github.com/jmdugan/blocklists/) | 100% issues (2024) | [1](https://github.com/jmdugan/blocklists/issues/80/) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `FaviFake/FaviFake`](https://github.com/FaviFake/FaviFake/) | 100% pull requests (2024) | [1](https://github.com/FaviFake/FaviFake/pull/1/) |
 | <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/dmca`](https://github.com/github/dmca/) | 100% pull requests (2024) (not a contribution) | [1](https://github.com/github/dmca/pull/8765/) |
-| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/community`](https://github.com/github/community/) | 100% discussions (2024) | [1](https://github.com/orgs/community/discussions/60075/) [2](https://github.com/orgs/community/discussions/60170/) | [3](https://github.com/orgs/community/discussions/106369/) | [4](https://github.com/orgs/community/discussions/122339/)  [5](https://github.com/orgs/community/discussions/123845/) |
+| <img src="/404.jpeg" alt="Logo unavailable" title="Logo unavailable" width="100" height="100"> | [:octocat: `github/community`](https://github.com/github/community/) | 100% discussions (2024) | [1](https://github.com/orgs/community/discussions/60075/) [2](https://github.com/orgs/community/discussions/60170/) | [3](https://github.com/orgs/community/discussions/106369/) | [4](https://github.com/orgs/community/discussions/122339/) [5](https://github.com/orgs/community/discussions/123845/) [6](https://github.com/orgs/community/discussions/124013/) [7](https://github.com/orgs/community/discussions/124014/) [8](https://github.com/orgs/community/discussions/124015/) [9](https://github.com/orgs/community/discussions/124016/) [10](https://github.com/orgs/community/discussions/124017/) [11](https://github.com/orgs/community/discussions/124018/) [12](https://github.com/orgs/community/discussions/124019/) [13](https://github.com/orgs/community/discussions/124020/) |
 | 🪞️ Project logo | 🔳️ Repository | 🔹️ Contribution type | 👋️ Contributions |
+
 
 </details> <!-- End of List of projects I have helped develop subsection !-->
 
