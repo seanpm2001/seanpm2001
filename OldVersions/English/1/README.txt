@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-19"
-      - version: "v133"
+      - date: "2024-05-20"
+      - version: "v134"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -120,6 +120,7 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.05.12] The file is still rapidly growing, but I feel it will stay within the 512 KiB boundary by the time I finish on May 25th. Today, the file surpassed 10,000 lines of code again.
 - [2024.05.13] -> [2024.05.18] No updates for this date.
 - [2024.05.19] The file reached 90% capacity, but the final update for now will be made in a few days, so it isn't concerning.
+- [2024.05.20] The file is now critically close to the limit, due to heavy use of dividers (on average: about 150 characters each)
 
 ***
 
@@ -638,7 +639,7 @@ This guestbook is for basic interaction, and communications. For further communi
 
 **Table index view**
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section (table index view)]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section (table index view)]</b></p></summary>
 
 | Name | Category/section | Chapter | Chapter # | Heading level |
 |---|---|---|---|---|
@@ -1533,7 +1534,11 @@ _End of index._
 
 <!-- /%/2001_INDEX_SECTION.END\%\ !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
+
+<img src="/Graphics/Dividers/PNG/Pine-2-Divider_2500x250_V1_HighCompression.png" alt="Yellow pine divider" width="2500" height="25">
 
 ## [🇺🇦️ Ukraine](#-Ukraine)
 
@@ -1568,7 +1573,13 @@ _This section was added on 2024, Saturday, March 23rd._
 
 </details> <!-- End of Ukraine section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
+
+<img src="/Graphics/Dividers/PNG/Pine-2-Divider_2500x250_V1_HighCompression.png" alt="Yellow pine divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 # [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
 
@@ -1576,7 +1587,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 59 - 2024, Sunday, May 19th` |
+| `Beta 60 - 2024, Monday, May 20th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1587,7 +1598,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 58 days down, 5/6 days to go, as of 2024, Sunday, May 19th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 59 days down, 4/5 days to go, as of 2024, Monday, May 20th)_
 
 - Plans on what to do at the end:
 - - Release 64: Finish up the remaining goals
@@ -1692,7 +1703,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 57`](/Remodels/2024/!OldVersions/README/English/USA/README_V57.md) | 2024, Monday, May 20th (3 days late) | 56 |
 | [`Beta 58`](/Remodels/2024/!OldVersions/README/English/USA/README_V58.md) | 2024, Monday, May 20th (2 days late) | 57 |
 | [`Beta 59`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th (1 day late) | 58 |
-| Beta 60 | Coming soon | 59 |
+| [`Beta 60`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th | 59 |
 | Beta 61 | Coming soon | 60 |
 | Beta 62 | Coming soon | 61 |
 | Beta 63 | Coming soon | 62 |
@@ -1706,7 +1717,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 </details> <!-- End of release timeline section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<!-- *** !-->
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
 
@@ -1714,17 +1727,16 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `002` **/** `236` **tasks** _(000.85%)_ |
-| _as of 2024, Sunday, May 19th._ |
+| `001` **/** `236` **tasks** _(000.42%)_ |
+| _as of 2024, Monday, May 20th._ |
 
-- **Current tasks to do (002 tasks, as of 2024, Sunday, May 19th.)**
+- **Current tasks to do (001 tasks, as of 2024, Monday, May 20th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
-New style (custom headings, as images) also dividers
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -1735,16 +1747,18 @@ They are a work in progress.
 
 <!-- Spacing these out, so the image formats correctly !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 <img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `234` **/** `236` **tasks** _(099.15%)_ |
-| _as of 2024, Sunday, May 19th._ |
+| `235` **/** `236` **tasks** _(099.58%)_ |
+| _as of 2024, Monday, May 20th._ |
 
-- **Tasks implemented so far (234 tasks, as of 2024, Sunday, May 19th.)**
+- **Tasks implemented so far (235 tasks, as of 2024, Monday, May 20th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1984,6 +1998,7 @@ Many modifications to existing text throughout the document
 Updates to Legend
 My web stack
 New icon to center at the top
+New style (custom headings, as images) also dividers
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -2011,7 +2026,9 @@ GitHub profile during remodel (images to include in remodel section)
 
 </details> <!-- End of remodel section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 _End of remodel section._
 
@@ -2025,7 +2042,11 @@ _End of remodel information_
 
 </details> <!-- End of remodel information section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue Squares divider" width="2500" height="25">
 
 ## [🔗️ Quick links](#-Quick-links)
 
@@ -2050,7 +2071,11 @@ View this segment [in a separate file (coming soon)](/Segments/Quick-links/READM
 
 </details> <!-- End of Quick Links section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue Squares divider" width="2500" height="25">
+
+<!-- ***  !-->
+
+<img src="/Graphics/Dividers/PNG/Pine-Divider_2500x250_V1_HighCompression.png" alt="Pine divider" width="2500" height="25">
 
 # [📏️ Legend](#-Legend)
 
@@ -2091,7 +2116,9 @@ _End of Legend section._
 
 </details> <!-- End of Legend section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pine-Divider_2500x250_V1_HighCompression.png" alt="Pine divider" width="2500" height="25">
 
 </details> <!-- End of lead section !-->
 
@@ -2099,13 +2126,21 @@ _End of Legend section._
 
 > **Note** Everything else on this page is collapsed, and under a dropdown menu. You must click/tap the sections to expand/collapse them
 
-***
+<img src="/Graphics/Dividers/PNG/Pine-Divider_2500x250_V1_HighCompression.png" alt="Pine divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Burlwood-Divider_2500x250_V1_HighCompression.png" alt="Burlwood divider" width="2500" height="25">
 
 # [↗️ Getting started](#-Getting-started)
 
 **The bulk of my profile resides here.**
 
-***
+<img src="/Graphics/Dividers/PNG/Burlwood-Divider_2500x250_V1_HighCompression.png" alt="Burlwood divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
 
 <img src="/Graphics/Wordmark/Seanpm2001/Seanpm2001_Wordmark_V2_VariantC_1250px_V1_HighCompression.png" alt="Seanpm2001 wordmark" title="Seanpm2001 wordmark" width="1250" height="200">
 
@@ -2129,13 +2164,21 @@ _End of Legend section._
 
 </div>
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
 
 ## [ℹ️ About me](#-About-me)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about me</b></p></summary>
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
 ### [🧠️ What I'm currently learning](#-What-I-m-currently-learning)
 
@@ -2157,7 +2200,11 @@ View this segment [in a separate file (coming soon)](/Segments/What-I-am-current
 
 </details> <!-- End of What I'm currently learning section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Rocks-Divider_2500x250_V1_HighCompression.png" alt="Rocks divider" width="2500" height="25">
 
 ### [🚀️ What I'm looking to collaborate on](#-What-I-m-looking-to-collaborate-on)
 
@@ -2201,7 +2248,11 @@ Companies I am currently considering include:
 
 </details> <!-- End of Further collaboration info section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Rocks-Divider_2500x250_V1_HighCompression.png" alt="Rocks divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Small-Squares-Divider_2500x250_V1_HighCompression.png" alt="Small squares divider" width="2500" height="25">
 
 #### [🗼️ What I have collaborated on](#-What-I-have-collaborated-on)
 
@@ -2262,7 +2313,11 @@ _End of What I'm looking to collaborate on section._
 
 </details> <!-- End of What I'm willing to collaborate on section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Small-Squares-Divider_2500x250_V1_HighCompression.png" alt="Small squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Red-Cubes-Divider_2500x250_V1_HighCompression.png" alt="Red cubes divider" width="2500" height="25">
 
 ### [👀️ What I'm looking to help with](#-What-I-m-looking-to-help-with)
 
@@ -2290,7 +2345,11 @@ View this segment [in a separate file (coming soon)](/Segments/What-I-am-looking
 
 </details> <!-- End of What I'm looking to help with section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Red-Cubes-Divider_2500x250_V1_HighCompression.png" alt="Red cubes divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Crinkled-Paper-Divider_2500x250_V1_HighCompression.png" alt="Crinkled paper divider" width="2500" height="25">
 
 ### [🏷️ Labels](#-Labels)
 
@@ -2302,7 +2361,11 @@ View this segment [in a separate file (coming soon)](/Segments/Labels/README.md)
 
 </details> <!-- End of labels section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Crinkled-Paper-Divider_2500x250_V1_HighCompression.png" alt="Crinkled paper divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Rain-Divider_2500x250_V1_HighCompression.png" alt="Rain divider" width="2500" height="25">
 
 ## [⏺️ Nicknames](#-Nicknames)
 
@@ -2332,7 +2395,11 @@ View this segment [in a separate file](/Segments/Nicknames/README.md)
 
 </details> <!-- End of nicknames section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Rain-Divider_2500x250_V1_HighCompression.png" alt="Rain divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Stone-Divider_2500x250_V1_HighCompression.png" alt="Stone divider" width="2500" height="25">
 
 ### [🪦️ Necroposting](#-Necroposting)
 
@@ -2353,7 +2420,11 @@ View this segment [in a separate file (coming soon)](/Segments/Necroposting/READ
 
 </details> <!-- End of necroposting section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Stone-Divider_2500x250_V1_HighCompression.png" alt="Stone divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
 
 ### [🍴️ Forks and browsing forks](#-Forks-and-browsing-forks)
 
@@ -2369,7 +2440,11 @@ View this segment [in a separate file (coming soon)](/Segments/Forks-and-browsin
 
 </details> <!-- End of Forks and browsing forks section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pine-2-Divider_2500x250_V1_HighCompression.png" alt="Pine2 divider" width="2500" height="25">
 
 ### [❤️ Favorite works](#-Favorite-works)
 
@@ -2407,7 +2482,11 @@ _End of favorite works section._
 
 </details> <!-- End of favorite works section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pine-2-Divider_2500x250_V1_HighCompression.png" alt="Pine2 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Burlwood-Divider_2500x250_V1_HighCompression.png" alt="Burlwood divider" width="2500" height="25">
 
 ### [🛰️ Self hosting plans for the future](#-Self-hosting-plans-for-the-future)
 
@@ -2417,11 +2496,15 @@ In the future, I plan to have a self-hosted version of my works as well. I plan 
 
 View this segment [in a separate file (coming soon)](/Segments/Self-hosting-plans-for-the-future/README.md)
 
-_End of favorite works section._
+_End of Self-hosting and plans for the future section._
 
 </details> <!-- End of Self hosting plans for the future section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Burlwood-Divider_2500x250_V1_HighCompression.png" alt="Burlwood divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Grid-Divider_2500x250_V1_HighCompression.png" alt="Blue grid divider" width="2500" height="25">
 
 ### [🖥️ My server](#-My-server)
 
@@ -2494,7 +2577,11 @@ _End of my server section._
 
 </details> <!-- End of My server section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Grid-Divider_2500x250_V1_HighCompression.png" alt="Blue grid divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Marble-2-Divider_2500x250_V1_HighCompression.png" alt="Marble2 divider" width="2500" height="25">
 
 ### [🏛️ Public Media Gallery](#-Public-Media-Gallery)
 
@@ -2514,7 +2601,11 @@ For now, it can be viewed [here instead](/Segments/Index/README.md)
 
 </details> <!-- End of Public Media Gallery section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Marble-2-Divider_2500x250_V1_HighCompression.png" alt="Marble2 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Paper-Divider_2500x250_V1_HighCompression.png" alt="Paper divider" width="2500" height="25">
 
 ### [↔️ My timeline](#-My-timeline)
 
@@ -2526,7 +2617,11 @@ For now, it can be viewed [here instead](/Segments/My-timeline/README.md)
 
 </details> <!-- End of my timeline section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Paper-Divider_2500x250_V1_HighCompression.png" alt="Paper divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Leopard-Divider_2500x250_V1_HighCompression.png" alt="Leopard divider" width="2500" height="25">
 
 ### [🧿️ Other hobbies](#-Other-hobbies)
 
@@ -3027,7 +3122,11 @@ View this segment [in a separate file (coming soon)](/Segments/Other-hobbies/REA
 
 </details> <!-- End of other hobbies section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Leopard-Divider_2500x250_V1_HighCompression.png" alt="Leopard divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Dried-Mud-Divider_2500x250_V1_HighCompression.png" alt="Dried mud divider" width="2500" height="25">
 
 ### [🏡️ Residence](#-Residence)
 
@@ -3039,7 +3138,11 @@ For now, it can be viewed [here instead](/Segments/Residence/README.md)
 
 </details> <!-- End of residence section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Dried-Mud-Divider_2500x250_V1_HighCompression.png" alt="Dried mud divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Cork-Board-Divider_2500x250_V1_HighCompression.png" alt="Corkboard divider" width="2500" height="25">
 
 ### [👤️ Profile picture history](#-Profile-picture-history)
 
@@ -3067,7 +3170,11 @@ View this segment [in a separate file (coming soon)](/Segments/Profile-picture-h
 
 </details> <!-- End of profile picture history section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Cork-Board-Divider_2500x250_V1_HighCompression.png" alt="Corkboard divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Rain-Divider_2500x250_V1_HighCompression.png" alt="Rain divider" width="2500" height="25">
 
 ### [🆕️ Join date](#-Join-date)
 
@@ -3082,7 +3189,11 @@ View this segment [in a separate file (coming soon)](/Segments/Join-date/README.
 
 </details> <!-- End of join date section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Rain-Divider_2500x250_V1_HighCompression.png" alt="Rain divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Ice-Divider_2500x250_V1_HighCompression.png" alt="Ice divider" width="2500" height="25">
 
 ### [🐧️ Linux](#-Linux)
 
@@ -3098,7 +3209,11 @@ View this segment [in a separate file (coming soon)](/Segments/Linux/README.md)
 
 </details> <!-- End of Linux section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Ice-Divider_2500x250_V1_HighCompression.png" alt="Ice divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Stone-Divider_2500x250_V1_HighCompression.png" alt="Stone divider" width="2500" height="25">
 
 ### [🗜️ Complexity](#-Complexity)
 
@@ -3110,7 +3225,11 @@ View this segment [in a separate file (coming soon)](/Segments/Complexity/README
 
 </details> <!-- End of complexity section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Stone-Divider_2500x250_V1_HighCompression.png" alt="Stone divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Fibers-Divider_2500x250_V1_HighCompression.png" alt="Fibers divider" width="2500" height="25">
 
 ### [🗓️ Calendar](#-Calendar)
 
@@ -3122,7 +3241,11 @@ View this segment [in a separate file (coming soon)](/Segments/Calendar/README.m
 
 </details> <!-- End of calendar section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Fibers-Divider_2500x250_V1_HighCompression.png" alt="Fibers divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pine-2-Divider_2500x250_V1_HighCompression.png" alt="Pine2 divider" width="2500" height="25">
 
 ### [📛️ Project difficulties](#-Project-difficulties)
 
@@ -3134,7 +3257,11 @@ View this segment [in a separate file (coming soon)](/Segments/Project-difficult
 
 </details> <!-- End of project difficulties section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pine-2-Divider_2500x250_V1_HighCompression.png" alt="Pine2 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pool-Bottom-Divider_2500x250_V1_HighCompression.png" alt="Pool bottom divider" width="2500" height="25">
 
 ### [💬️ Ask me about](#-Ask-me-about)
 
@@ -3146,7 +3273,11 @@ View this segment [in a separate file (coming soon)](/Segments/Ask-me-about/READ
 
 </details> <!-- End of ask me about section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pool-Bottom-Divider_2500x250_V1_HighCompression.png" alt="Pool bottom divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Slate-Divider_2500x250_V1_HighCompression.png" alt="Slate divider" width="2500" height="25">
 
 ### [🛎️ How to reach me](#-How-to-reach-me)
 
@@ -4893,7 +5024,11 @@ _End of How to reach me section._
 
 </details> <!-- End of how to reach me section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Slate-Divider_2500x250_V1_HighCompression.png" alt="Slate divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Maple-Leaves-Divider_2500x250_V1_HighCompression.png" alt="Maple leaves divider" width="2500" height="25">
 
 ### [💸️ Sponsor info](#-Sponsor-info)
 
@@ -4973,7 +5108,11 @@ View this segment [`in a separate file`](/Segments/Sponsor-info/README.md)
 
 </details> <!-- End of sponsor info section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Maple-Leaves-Divider_2500x250_V1_HighCompression.png" alt="Maple leaves divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Leather-Divider_2500x250_V1_HighCompression.png" alt="Leather divider" width="2500" height="25">
 
 ### [💹️ Free software isn't free to develop](#-Free-software-isn-t-free-to-develop)
 
@@ -5010,7 +5149,11 @@ View this segment [`in a separate file`](/Segments/Free-software-is-not-free-to-
 
 </details> <!-- End of Free Software isn't free to develop section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Leather-Divider_2500x250_V1_HighCompression.png" alt="Leather divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Bricks-Divider_2500x250_V1_HighCompression.png" alt="Bricks divider" width="2500" height="25">
 
 ### [📨️ Submissions](#-Submissions)
 
@@ -5026,7 +5169,11 @@ View this segment [`in a separate file`](/Segments/Submissions/README.md)
 
 </details> <!-- End of submissions section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Bricks-Divider_2500x250_V1_HighCompression.png" alt="Bricks divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
 
 ### [🔵️ Blue team](#-Blue-team)
 
@@ -5038,7 +5185,11 @@ View this segment [`in a separate file`](/Segments/Blue-team/README.md)
 
 </details> <!-- End of Blue Team section !-->
 
----
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
+
+<!-- --- !-->
+
+<img src="/Graphics/Dividers/PNG/3D-Green-Divider_2500x250_V1_HighCompression.png" alt="3D Green divider" width="2500" height="25">
 
 ### [🟢️ Green team](#-Green-team)
 
@@ -5050,7 +5201,11 @@ View this segment [`in a separate file`](/Segments/Green-team/README.md)
 
 </details> <!-- End of Green Team section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/3D-Green-Divider_2500x250_V1_HighCompression.png" alt="3D Green divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
 
 ### [🖥️ Computer user type](#-Computer-user-type)
 
@@ -5067,7 +5222,11 @@ View this segment [`in a separate file`](/Segments/Computer-user-type/README.md)
 
 </details> <!-- End of Computer user type section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Chocolate-Swirl-Divider_2500x250_V1_HighCompression.png" alt="Chocolate swirl divider" width="2500" height="25">
 
 ### [🎓️ Education](#-Education)
 
@@ -5081,7 +5240,11 @@ View this segment [`in a separate file`](/Segments/Education/README.md)
 
 </details> <!-- End of Education section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Chocolate-Swirl-Divider_2500x250_V1_HighCompression.png" alt="Chocolate swirl divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Java-Divider_2500x250_V1_HighCompression.png" alt="Java divider" width="2500" height="25">
 
 ### [🧾️ Certifications](#-Certifications)
 
@@ -5101,7 +5264,11 @@ View this segment [`in a separate file`](/Segments/Certifications/README.md)
 
 </details> <!-- End of Certifications section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Java-Divider_2500x250_V1_HighCompression.png" alt="Java divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Terra-Divider_2500x250_V1_HighCompression.png" alt="Terra divider" width="2500" height="25">
 
 ### [👩‍💻️ GitHub developer program](#-GitHub-developer-program)
 
@@ -5178,7 +5345,11 @@ View this segment [`in a separate file`](/Segments/GitHub-developer-program/READ
 
 </details> <!-- End of GitHub developer program section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Terra-Divider_2500x250_V1_HighCompression.png" alt="Terra divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Marble-1-Divider_2500x250_V1_HighCompression.png" alt="Marble1 divider" width="2500" height="25">
 
 ### [❓️ Frequently Asked Questions (FAQ)](#-Frequently-Asked-Questions--FAQ-)
 
@@ -5212,15 +5383,23 @@ Learn even more about me [here (outdated)](https://gist.github.com/seanpm2001/7e
 
 _No other about me sections available._
 
-</details> <!-- ENd of About Me section !-->
+</details> <!-- End of About Me section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Marble-1-Divider_2500x250_V1_HighCompression.png" alt="Marble1 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Craters-Divider_2500x250_V1_HighCompression.png" alt="Craters divider" width="2500" height="25">
 
 ## [🧬️ Life](#-Life)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my life</b></p></summary>
 
-***
+<img src="/Graphics/Dividers/PNG/Craters-Divider_2500x250_V1_HighCompression.png" alt="Craters divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Big-Blue-Divider_2500x250_V1_HighCompression.png" alt="Big blue divider" width="2500" height="25">
 
 ### [♨️ Personal](#-Personal)
 
@@ -5241,7 +5420,11 @@ _End of personal section._
 
 </details> <!-- End of Personal section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Big-Blue-Divider_2500x250_V1_HighCompression.png" alt="Big blue divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 ### [🗳️ Politics](#-Politics)
 
@@ -5256,9 +5439,13 @@ View this segment [in a separate file (coming soon)](/Segments/Politics/README.m
 
 _End of politics section._
 
-</details> <!-- End of Poltiics section !-->
+</details> <!-- End of Politics section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pastel-Stuff-Divider_2500x250_V1_HighCompression.png" alt="Pastel stuff divider" width="2500" height="25">
 
 ### [♂️ Sexuality ♀️](#-Sexuality-)
 
@@ -5285,8 +5472,11 @@ _End of sexuality section._
 
 </details> <!-- End of Sexuality section !-->
 
+<img src="/Graphics/Dividers/PNG/Pastel-Stuff-Divider_2500x250_V1_HighCompression.png" alt="Pastel stuff divider" width="2500" height="25">
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Fibers-Divider_2500x250_V1_HighCompression.png" alt="Fibers divider" width="2500" height="25">
 
 ### [💭️ Opinions](#-Opinions)
 
@@ -5302,7 +5492,11 @@ _End of opinions section._
 
 </details> <!-- End of Opinions section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Fibers-Divider_2500x250_V1_HighCompression.png" alt="Fibers divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 ### [⚖️ Stances](#-Stances)
 
@@ -5314,7 +5508,11 @@ For now, it can be viewed [here instead](/Segments/Stances/README.md)
 
 </details> <!-- End of stances section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pastel-Stuff-Divider_2500x250_V1_HighCompression.png" alt="Pastel stuff divider" width="2500" height="25">
 
 ### [♾️ Autism](#-Autism)
 
@@ -5332,13 +5530,19 @@ _No other entries about my life are available here._)
 
 </details> <!-- End of life section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pastel-Stuff-Divider_2500x250_V1_HighCompression.png" alt="Pastel stuff divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Crack-Divider_2500x250_V1_HighCompression.png" alt="Crack divider" width="2500" height="25">
 
 ## [📟️ Technology](#-Technology)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my technology</b></p></summary>
 
----
+<!-- --- !-->
+
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
 
 ### [📀️ Media](#-Media)
 
@@ -5349,7 +5553,11 @@ _No other entries about my life are available here._)
 - [:octocat: `Radio`](https://github.com/seanpm2001/Radio/)
 - - Information on radio projects.
 
-***
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Red-Cubes-Divider_2500x250_V1_HighCompression.png" alt="Red cubes divider" width="2500" height="25">
 
 ### [🛳️ My current setup](#-My-current-setup)
 
@@ -5871,7 +6079,11 @@ _End of My Current Setup section._
 
 </details> <!-- End of my current setup section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Red-Cubes-Divider_2500x250_V1_HighCompression.png" alt="Red cubes divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Qbert-Divider_2500x250_V1_HighCompression.png" alt="Qbert divider" width="2500" height="25">
 
 ### [❌️ Former organizations](#-Former-organizations)
 
@@ -5960,13 +6172,21 @@ _End of Technology section._
 
 </details> <!-- End of techology section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Qbert-Divider_2500x250_V1_HighCompression.png" alt="Qbert divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
 
 ## [📈️ Statistics](#-Statistics)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my statistics</b></p></summary>
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
 
 ### [🅰️ GitHub Stats A](#-GitHubp-Stats-A)
 
@@ -6034,7 +6254,11 @@ _End of GitHub Stats A section._
 
 </details> <!-- End of GitHub Stats A section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
 
 ### [🅱️ GitHub Stats B](#-GitHub-Stats-B)
 
@@ -6146,7 +6370,11 @@ _End of GitHub Stats B section._
 
 </details> <!-- End of GitHub Stats B !-->
 
----
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
+
+<!-- --- !-->
+
+<img src="/Graphics/Dividers/PNG/Pine-Divider_2500x250_V1_HighCompression.png" alt="Pine divider" width="2500" height="25">
 
 ### [Ⓜ️ Commit Count Milestones](#-Commit-Count-Milestones)
 
@@ -6397,7 +6625,11 @@ _End of Commit Count Milestones section._
 
 </details> <!-- End of CCM section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pine-Divider_2500x250_V1_HighCompression.png" alt="Pine divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Ice-Divider_2500x250_V1_HighCompression.png" alt="Ice divider" width="2500" height="25">
 
 ### [🗓️ Commit calendar](#-Commit-calendar)
 
@@ -6405,7 +6637,9 @@ _End of Commit Count Milestones section._
 
 The commit calendar (also known as activity calendar, heatmap, or commit heatmap) is the place on a GitHub profile where commits are shown in a calendar view.
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
 #### [🎇️ End of year 2023](#-End-of-year-2023)
 
@@ -6413,7 +6647,11 @@ The commit calendar (also known as activity calendar, heatmap, or commit heatmap
 
 End of year pictures from the year 2023.
 
-***
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
 ##### [🌟️ Seanpm2001 End of year 2023](#-Seanpm2001-End-of-year-2023)
 
@@ -6426,7 +6664,9 @@ End of year pictures from the year 2023.
 
 </details> <!-- End of Seanpm2001 End of Year 2023 section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
 ##### [🌟️ SeanWallaWalla End of year 2023](#-SeanWallaWalla-End-of-year-2023)
 
@@ -6438,13 +6678,22 @@ End of year pictures from the year 2023.
 
 </details> <!-- End of SeanWallaWalla End of Year 2023 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
+
 
 _End of this section.
 
 </details> <!-- End of End of Year 2023 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
 View this segment [in a separate file (coming soon)](/Segments/Commit-Calendar/README.md)
 
@@ -6452,7 +6701,11 @@ _End of Commit Calendar section._
 
 </details> <!-- End of Commit Calendar section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Ice-Divider_2500x250_V1_HighCompression.png" alt="Ice divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Sky-Divider_2500x250_V1_HighCompression.png" alt="Sky divider" width="2500" height="25">
 
 ### [🌆️ GitHub Skyline](#-GitHub-Skyline)
 
@@ -6466,7 +6719,11 @@ _End of GitHub Skyline section._
 
 </details> <!-- End of skyline section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Sky-Divider_2500x250_V1_HighCompression.png" alt="Sky divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
 
 ### [📊️ GitHub social statistics](#-GitHub-social-statistics)
 
@@ -6504,13 +6761,21 @@ _No other statistics sections available._
 
 </details> <!-- End of statistics section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Granite-Divider_2500x250_V1_HighCompression.png" alt="Granite divider" width="2500" height="25">
 
 ## [🏴󠁧󠁢󠁷󠁬󠁳󠁿️ Family](#-Family)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about my family</b></p></summary>
 
-***
+<img src="/Graphics/Dividers/PNG/Granite-Divider_2500x250_V1_HighCompression.png" alt="Granite divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Crack-Divider_2500x250_V1_HighCompression.png" alt="Crack divider" width="2500" height="25">
 
 ### [👥️ GitHub contacts (family)](#-GitHub-contacts)
 
@@ -6539,7 +6804,11 @@ _End of GitHub contacts (family) section._
 
 </details> <!-- End of GitHub contacts (family) section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Crack-Divider_2500x250_V1_HighCompression.png" alt="Crack divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Leopard-Divider_2500x250_V1_HighCompression.png" alt="Leopard divider" width="2500" height="25">
 
 ### [🐾️ Pets](#-Pets)
 
@@ -6557,7 +6826,11 @@ _No other family sections available._
 
 </details> <!-- End of Pets section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Leopard-Divider_2500x250_V1_HighCompression.png" alt="Leopard divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/3D-Green-Divider_2500x250_V1_HighCompression.png" alt="3D Green divider" width="2500" height="25">
 
 ## [🚢️ Friends](#-Friends)
 
@@ -6607,13 +6880,21 @@ _End of Friends section_
 
 </details> <!-- End of friends section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/3D-Green-Divider_2500x250_V1_HighCompression.png" alt="3D Green divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Big-Blue-Divider_2500x250_V1_HighCompression.png" alt="Big blue divider" width="2500" height="25">
 
 ## [🏢️ My projects](#-My-projects)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of my projects</b></p></summary>
 
-***
+<img src="/Graphics/Dividers/PNG/Big-Blue-Divider_2500x250_V1_HighCompression.png" alt="Big blue divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Marble-3-Divider_2500x250_V1_HighCompression.png" alt="Marble3 divider" width="2500" height="25">
 
 ### [📔️ List of all repositories](#-List-of-all-repositories)
 
@@ -6629,7 +6910,11 @@ _End of list of all repositories section._
 
 </details> <!-- End of list of all repositories section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Marble-3-Divider_2500x250_V1_HighCompression.png" alt="Marble3 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Grid-Divider_2500x250_V1_HighCompression.png" alt="Blue grid divider" width="2500" height="25">
 
 ### [🕸️ Website modules](#-Website-modules)
 
@@ -6645,7 +6930,11 @@ _End of website modules section._
 
 </details> <!-- End of website modules section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Grid-Divider_2500x250_V1_HighCompression.png" alt="Blue grid divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pink-Marble-Divider_2500x250_V1_HighCompression.png" alt="Pink Marble divider" width="2500" height="25">
 
 ### [🗞️ Template projects](#-Template-projects)
 
@@ -6672,7 +6961,11 @@ _End of template projects section._
 
 </details> <!-- End of templates section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pink-Marble-Divider_2500x250_V1_HighCompression.png" alt="Pink Marble divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Sky-Divider_2500x250_V1_HighCompression.png" alt="Sky divider" width="2500" height="25">
 
 ### [🌫️ UnSaaSS project](#UnSaaSS-project)
 
@@ -6690,7 +6983,11 @@ _End of UnSaaSS project section._
 
 </details> <!-- End of UnSaaSS project section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Sky-Divider_2500x250_V1_HighCompression.png" alt="Sky divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Craters-Divider_2500x250_V1_HighCompression.png" alt="Craters divider" width="2500" height="25">
 
 ### [🔜️ Upcoming projects](#-Upcoming-projects)
 
@@ -6716,7 +7013,11 @@ _End of upcoming projects section._
 
 </details> <!-- End of Upcoming projects section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Craters-Divider_2500x250_V1_HighCompression.png" alt="Craters divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Starfield-Divider_2500x250_V1_HighCompression.png" alt="Starfield divider" width="2500" height="25">
 
 ### [*️⃣️ Other projects](#-Other-projects)
 
@@ -6732,7 +7033,11 @@ _End of other projects section._
 
 </details> <!-- End of Other section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Starfield-Divider_2500x250_V1_HighCompression.png" alt="Starfield divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Marble-1-Divider_2500x250_V1_HighCompression.png" alt="Marble1 divider" width="2500" height="25">
 
 ### [🔌️ Platforms I develop for](#-Platforms-I-develop-for)
 
@@ -6904,7 +7209,11 @@ _End of platform support section._
 
 </details> <!-- End of Platforms I develop for section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Marble-1-Divider_2500x250_V1_HighCompression.png" alt="Marble1 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Leopard-Divider_2500x250_V1_HighCompression.png" alt="Leopard divider" width="2500" height="25">
 
 ### [〽️ What I'm currently working on](#-What-I-m-currently-working-on)
 
@@ -6916,7 +7225,11 @@ This section has been removed to save space (~208 kilobytes) it can be viewed [`
 
 </details> <!-- End of Other What I'm currently working on section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Leopard-Divider_2500x250_V1_HighCompression.png" alt="Leopard divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Stripes-Divider_2500x250_V1_HighCompression.png" alt="Stripes divider" width="2500" height="25">
 
 ### [🌟️ Repository of the day (coming soon)](#-Repository-of-the-day--coming-soon-)
 
@@ -6975,7 +7288,11 @@ _No other projects currently listed._
 
 </details> <!-- End of Repository of the day section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Stripes-Divider_2500x250_V1_HighCompression.png" alt="Stripes divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
 
 ## [🥅️ My goals](#-My-goals)
 
@@ -6991,7 +7308,11 @@ _No other goals currently listed._
 
 </details> <!-- End of My Goals section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Cork-Board-Divider_2500x250_V1_HighCompression.png" alt="Corkboard divider" width="2500" height="25">
 
 ## [📚️ Documentation](#-Documentation)
 
@@ -7001,7 +7322,11 @@ _No other goals currently listed._
 
 This is one of my most important repositories. It is a portal to all of my documentation repositories.
 
-***
+<img src="/Graphics/Dividers/PNG/Cork-Board-Divider_2500x250_V1_HighCompression.png" alt="Corkboard divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Stripes-Fine-Divider_2500x250_V1_HighCompression.png" alt="Stripes (fine) divider" width="2500" height="25">
 
 ### [💳️ License](#-License)
 
@@ -7019,7 +7344,11 @@ _No other license information currently listed._
 
 </details> <!-- End of license section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Stripes-Fine-Divider_2500x250_V1_HighCompression.png" alt="Stripes (fine) divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pastel-Stuff-Divider_2500x250_V1_HighCompression.png" alt="Pastel stuff divider" width="2500" height="25">
 
 ### [🖌️ Style guides](#-Style-guides)
 
@@ -7033,7 +7362,11 @@ _No other style guides currently listed._
 
 </details> <!-- End of Style guides section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pastel-Stuff-Divider_2500x250_V1_HighCompression.png" alt="Pastel stuff divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Big-Blue-Divider_2500x250_V1_HighCompression.png" alt="Big blue divider" width="2500" height="25">
 
 ### [🎴️ Model project information](#-Model-project-information)
 
@@ -7045,7 +7378,11 @@ For now, it can be viewed [here instead](/Segments/Model-Project-Information/REA
 
 </details> <!-- End of model project information section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Big-Blue-Divider_2500x250_V1_HighCompression.png" alt="Big blue divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Starfield-Divider_2500x250_V1_HighCompression.png" alt="Starfield divider" width="2500" height="25">
 
 ### [📥️ Takeout Tuesdays](#-Takeout-Tuesdays)
 
@@ -7057,7 +7394,11 @@ For now, it can be viewed [here instead](/Segments/Takeout-Tuesdays/README.md)
 
 </details> <!-- End of Takeout Tuesdays section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Starfield-Divider_2500x250_V1_HighCompression.png" alt="Starfield divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Chocolate-Swirl-Divider_2500x250_V1_HighCompression.png" alt="Chocolate swirl divider" width="2500" height="25">
 
 ### [📑️ Browser tabs](#-Browser-tabs)
 
@@ -7069,7 +7410,11 @@ For now, it can be viewed [here instead](/Segments/Browser-Tabs/README.md)
 
 </details> <!-- End of Browser Tabs section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Chocolate-Swirl-Divider_2500x250_V1_HighCompression.png" alt="Chocolate swirl divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pink-Marble-Divider_2500x250_V1_HighCompression.png" alt="Pink marble divider" width="2500" height="25">
 
 ### [🌃️ Administrative units](#-Administrative-units)
 
@@ -7081,7 +7426,11 @@ For now, it can be viewed [here instead](/Segments/Administrative-units/README.m
 
 </details> <!-- End of Administrative Units section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pink-Marble-Divider_2500x250_V1_HighCompression.png" alt="Pink marble divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Marble-3-Divider_2500x250_V1_HighCompression.png" alt="Marble3 divider" width="2500" height="25">
 
 ### [🇮🇪️ Government](#-Government)
 
@@ -7093,7 +7442,11 @@ For now, it can be viewed [here instead](/Segments/Government/README.md)
 
 </details> <!-- End of government section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Marble-3-Divider_2500x250_V1_HighCompression.png" alt="Marble3 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Rain-Divider_2500x250_V1_HighCompression.png" alt="Rain divider" width="2500" height="25">
 
 ### [🇺🇳️ Region related software](#-Region-related-software)
 
@@ -7109,7 +7462,11 @@ _No other region related sofware currently listed._
 
 </details> <!-- End of region related software !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Rain-Divider_2500x250_V1_HighCompression.png" alt="Rain divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Wood-Divider_2500x250_V1_HighCompression.png" alt="Wood divider" width="2500" height="25">
 
 ### [🎓️ Learn](#-Learn)
 
@@ -7129,7 +7486,11 @@ _No other learn repository information listed._
 
 </details> <!-- End of Learn !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Wood-Divider_2500x250_V1_HighCompression.png" alt="Wood divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Wood-2-Divider_2500x250_V1_HighCompression.png" alt="Wood2 divider" width="2500" height="25">
 
 ### [🔴️ AUTOMATE2001](#-AUTOMATE2001)
 
@@ -7147,7 +7508,11 @@ _No other AUTOMATE2001 information listed._
 
 </details> <!-- End of AUTOMATE2001 !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Wood-2-Divider_2500x250_V1_HighCompression.png" alt="Wood2 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Bricks-Divider_2500x250_V1_HighCompression.png" alt="Bricks divider" width="2500" height="25">
 
 ### [🔒️ Private repositories](#-Private-repositories)
 
@@ -7155,7 +7520,7 @@ _No other AUTOMATE2001 information listed._
 
 Some of my repositories are temporarily private, as they are completely unready to be seen. I have to resolve some issues before I can release them. Information on which projects are private can be found through my [:octocat: `REDACTED`](https://github.com/seanpm2001/REDACTED/) repository.
 
-As of 2024, Saturday, March 23rd, I have 100 private repositories.
+As of 2024, Monday, May 20th, I have 120 private repositories.
 
 **This section needs expansion**
 
@@ -7165,7 +7530,11 @@ _No other private repository information listed._
 
 </details> <!-- End of private repositories !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Bricks-Divider_2500x250_V1_HighCompression.png" alt="Bricks divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Red-Cubes-Divider_2500x250_V1_HighCompression.png" alt="Red cubes divider" width="2500" height="25">
 
 ### [🥧️ Raspberry Pi](#-Raspberry-Pi)
 
@@ -7187,7 +7556,11 @@ _No other Raspberry Pi information listed._
 
 </details> <!-- End of Raspberry Pi section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Red-Cubes-Divider_2500x250_V1_HighCompression.png" alt="Red cubes divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
 
 ### [🫁️ Artificial Intelligence projects](#-Artificial-Intelligence-projects)
 
@@ -7203,7 +7576,11 @@ _No other Artificial Intelligence project information listed._
 
 </details> <!-- End of Artificial Intelligence projects section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Granite-Divider_2500x250_V1_HighCompression.png" alt="Granite divider" width="2500" height="25">
 
 ### [💽️ SeansOSData project](#-SeansOSData-project)
 
@@ -7221,7 +7598,11 @@ _No other SeansOSData project information listed._
 
 </details> <!-- End of SeansOSData project section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Granite-Divider_2500x250_V1_HighCompression.png" alt="Granite divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Maple-Leaves-Divider_2500x250_V1_HighCompression.png" alt="Maple leaves divider" width="2500" height="25">
 
 ### [👾️ Virtual machine information](#-Virtual-machine-information)
 
@@ -7237,7 +7618,11 @@ _No other virtual machine information listed._
 
 </details> <!-- End of Virtual Machine Information section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Maple-Leaves-Divider_2500x250_V1_HighCompression.png" alt="Maple leaves divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/3D-Green-Divider_2500x250_V1_HighCompression.png" alt="3D Green divider" width="2500" height="25">
 
 ### [💙️ Dream projects](#-Dream-projects)
 
@@ -7249,7 +7634,11 @@ My dream project is a quantum computer operating system known as [:octocat: `Mea
 
 </details> <!-- End of dream projects section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/3D-Green-Divider_2500x250_V1_HighCompression.png" alt="3D Green divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Naps-Divider_2500x250_V1_HighCompression.png" alt="Naps divider" width="2500" height="25">
 
 ### [💷️ Thoughts on Blockchain and Web -3](#-Thoughts-on-Blockchain-and-Web-3)
 
@@ -7269,7 +7658,11 @@ _No other thoughts on blockchain and web -3 information listed._
 
 </details> <!-- End of thoughts on blockchain and web -3 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Naps-Divider_2500x250_V1_HighCompression.png" alt="Naps divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Wood-1-Divider_2500x250_V1_HighCompression.png" alt="Wood1 divider" width="2500" height="25">
 
 ### [🌈️ GitHub profile achievements](#-GitHub-profile-achievements)
 
@@ -7285,7 +7678,11 @@ _No other GitHub profile achievements information listed._
 
 </details> <!-- End of GitHub profile achievements section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Wood-1-Divider_2500x250_V1_HighCompression.png" alt="Wood1 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Walnut-Divider_2500x250_V1_HighCompression.png" alt="Walnut divider" width="2500" height="25">
 
 ### [🔘️ 2001 and the core](#-2001-and-the-core)
 
@@ -7301,7 +7698,11 @@ _No other 2001/CORE information listed._
 
 </details> <!-- End of 2001 and the core section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Walnut-Divider_2500x250_V1_HighCompression.png" alt="Walnut divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
 
 ### [🍴️ Forks](#-Forks)
 
@@ -7321,7 +7722,11 @@ _No other fork information listed._
 
 </details> <!-- End of forks section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Ice-Divider_2500x250_V1_HighCompression.png" alt="Ice divider" width="2500" height="25">
 
 ### [🐧️ Linux User Groups](#-Linux-User-Groups)
 
@@ -7337,7 +7742,11 @@ _No other Linux User Group information listed._
 
 </details> <!-- End of Linux user groups section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Ice-Divider_2500x250_V1_HighCompression.png" alt="Ice divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Pool-Bottom-Divider_2500x250_V1_HighCompression.png" alt="Pool bottom divider" width="2500" height="25">
 
 ### [🌱️ RepoData](#-Repodata)
 
@@ -7365,7 +7774,11 @@ _No other RepoData information listed._
 
 </details> <!-- End of RepoData section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Pool-Bottom-Divider_2500x250_V1_HighCompression.png" alt="Pool bottom divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Marble-2-Divider_2500x250_V1_HighCompression.png" alt="Marble2 divider" width="2500" height="25">
 
 ### [🎖️ Awards](#-Awards)
 
@@ -7391,7 +7804,11 @@ _End of awards section_
 
 </details> <!-- End of Awards section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Marble-2-Divider_2500x250_V1_HighCompression.png" alt="Marble2 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Paper-Divider_2500x250_V1_HighCompression.png" alt="Paper divider" width="2500" height="25">
 
 ### [📄️ README usage](#-README-usage)
 
@@ -7411,7 +7828,11 @@ If you have been sent here through a link through SMS (text messaging) congratul
 
 </details> <!-- End of My README usage senior photo section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Paper-Divider_2500x250_V1_HighCompression.png" alt="Paper divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Parque-2-Divider_2500x250_V1_HighCompression.png" alt="Parque2 divider" width="2500" height="25">
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section (mona)]</b></p></summary>
 
@@ -7481,7 +7902,11 @@ _End of README Usage section_
 
 </details> <!-- End of README usage section !--> 
 
-***
+<img src="/Graphics/Dividers/PNG/Parque-2-Divider_2500x250_V1_HighCompression.png" alt="Parque2 divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Terra-Divider_2500x250_V1_HighCompression.png" alt="Terra divider" width="2500" height="25">
 
 ### [🆓️ Software status](#-Software-status)
 
@@ -7505,7 +7930,11 @@ _End of Software status section_
 
 </details> <!-- End of Software status section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Terra-Divider_2500x250_V1_HighCompression.png" alt="Terra divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Slate-Divider_2500x250_V1_HighCompression.png" alt="Slate divider" width="2500" height="25">
 
 ### [🪄️ Feature requests for GitHub](#-Feature-requests-for-GitHub)
 
@@ -7567,7 +7996,11 @@ _End of Feature requests for GitHub section_
 
 </details> <!-- End of GitHub feature requests section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Slate-Divider_2500x250_V1_HighCompression.png" alt="Slate divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Qbert-Divider_2500x250_V1_HighCompression.png" alt="QBert divider" width="2500" height="25">
 
 ### [🎊️ Confetti](#-Confetti)
 
@@ -7585,7 +8018,11 @@ _End of Confetti section_
 
 </details> <!-- End of confetti section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Qbert-Divider_2500x250_V1_HighCompression.png" alt="QBert divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Tree-Bark-Divider_2500x250_V1_HighCompression.png" alt="Bark divider" width="2500" height="25">
 
 ### [🪲️ GitHub bugs](#-GitHub-bugs)
 
@@ -7647,7 +8084,11 @@ _End of GitHub bugs section_
 
 </details> <!-- End of GitHub bugs section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Tree-Bark-Divider_2500x250_V1_HighCompression.png" alt="Bark divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Parque-Divider_2500x250_V1_HighCompression.png" alt="Parque divider" width="2500" height="25">
 
 ### [🎇️ Inspirations](#-Inspirations)
 
@@ -7825,7 +8266,11 @@ _End of Inspirations section_
 
 </details> <!-- End of Inspirations section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Parque-Divider_2500x250_V1_HighCompression.png" alt="Parque divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Java-Divider_2500x250_V1_HighCompression.png" alt="Java divider" width="2500" height="25">
 
 ### [🗿️ Humor](#-Humor)
 
@@ -7855,7 +8300,11 @@ _End of documentation section._
 
 </details> <!-- End of documentation section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Java-Divider_2500x250_V1_HighCompression.png" alt="Java divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
 
 ### [🎞️ Common GitHub profile media](#-Common-GitHub-profile-media)
 
@@ -7869,7 +8318,11 @@ Divided into 3 sections:
 - Common GitHub profile PNG Media (1 file)
 - Common GitHub profile SVG Media (1 file)
 
-***
+<img src="/Graphics/Dividers/PNG/Small-Squares-Divider_2500x250_V1_HighCompression.png" alt="Small squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
 
 #### [🎞️ Common GitHub profile GIF media](#-Common-GitHub-profile-GIF-media) 
 
@@ -8001,7 +8454,11 @@ _End of GIF section._
 
 </details> <!-- End of Common GitHub profile GIF Media section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
 
 #### [🖼️ Common GitHub profile PNG media](#-Common-GitHub-profile-PNG-media) 
 
@@ -8023,7 +8480,12 @@ _End of PNG section._
 
 </details> <!-- End of Common GitHub profile PNG Media section !-->
 
-***
+
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
 
 #### [🔷️ Common GitHub profile SVG media](#-Common-GitHub-profile-SVG-media) 
 
@@ -8045,7 +8507,11 @@ _End of SVG section._
 
 </details> <!-- End of Common GitHub profile SVG Media section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Burlap-Divider_2500x250_V1_HighCompression.png" alt="Burlap divider" width="2500" height="25">
 
 View the full collection [/Graphics/Common-GitHub-Profile-Media/](/Graphics/Common-GitHub-Profile-Media/)
 
@@ -8055,13 +8521,19 @@ _End of Common GitHub profile media section._
 
 </details> <!-- End of Common GitHub profile media section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Small-Squares-Divider_2500x250_V1_HighCompression.png" alt="Small squares divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Dried-Mud-Divider_2500x250_V1_HighCompression.png" alt="Dried mud divider" width="2500" height="25">
 
 ## [📃️ About this page](#-About-this-page)
 
 <details><summary><p><b>Click/tap here to expand/collapse the listing of sections about this page</b></p></summary>
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Rocks-Divider_2500x250_V1_HighCompression.png" alt="Rocks divider" width="2500" height="25">
 
 ### [⚙️ Workflows (seanpm2001/seanpm2001)](#-Workflows--seanpm2001-seanpm2001)
 
@@ -8073,7 +8545,11 @@ For now, it can be viewed [here instead](/Segments/Workflows-Seanpm2001/README.m
 
 </details> <!-- End of About this page: workflows subsection !-->
 
----
+<img src="/Graphics/Dividers/PNG/Rocks-Divider_2500x250_V1_HighCompression.png" alt="Rocks divider" width="2500" height="25">
+
+<!-- --- !-->
+
+<img src="/Graphics/Dividers/PNG/Qbert-Divider_2500x250_V1_HighCompression.png" alt="Qbert divider" width="2500" height="25">
 
 <details open><summary><H3>🗄️ Explore this repo:</H3></summary>
 
@@ -8087,7 +8563,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 </details> <!-- End of Explore this Repository section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Qbert-Divider_2500x250_V1_HighCompression.png" alt="Qbert divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Cork-Board-Divider_2500x250_V1_HighCompression.png" alt="Corkboard divider" width="2500" height="25">
 
 <!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
@@ -8096,11 +8576,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `133 (2024, Monday, May 20th at 02:34 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,384`
-- **Word count:** `068,319`
-- **Character count (with spaces):** `0,467,731 characters`
-- **Character count (without spaces)** `0,405,451 characters`
+- **File version:** `134 (2024, Monday, May 20th at 04:25 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,957`
+- **Word count:** `073,799`
+- **Character count (with spaces):** `0,507,552 characters`
+- **Character count (without spaces)** `0,442,654 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8115,7 +8595,11 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 <!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Cork-Board-Divider_2500x250_V1_HighCompression.png" alt="Corkboard divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Crinkled-Paper-Divider_2500x250_V1_HighCompression.png" alt="Crinkled paper divider" width="2500" height="25">
 
 <!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
@@ -9275,11 +9759,31 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 134 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 134 (2024, Monday, May 20th at 04:25 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the fifty-eighth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created solely on 2024, Monday, May 20th. This update came on time, and was the first on-time update in several days, as I had a struggle to keep the project maintained. Today, I focused mainly on adding custom dividers, which was one of the last 2 goals for the major update._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Updated information on the remodel of this project
+- [x] Made extensive use of dividers
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 134
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 134
 
 </details> <!-- End of V134 !-->
@@ -10020,13 +10524,17 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Crinkled-Paper-Divider_2500x250_V1_HighCompression.png" alt="Crinkled paper divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 ### [🏗️ Remodel history](#-Remodel-history)
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 19th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-19th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 20th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-20th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -10091,6 +10599,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 57 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V57.md)
 - - [Link to remodel section version 58 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V58.md)
 - - [Link to remodel section version 59 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md)
+- - [Link to remodel section version 60 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V60.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -10100,7 +10609,11 @@ _End of remodel history section._
 
 View this segment [in a separate file (coming soon)](/Segments/Remodel-hisotry/README.md)
 
-***
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Amethyst-Divider_2500x250_V1_HighCompression.png" alt="Amethyst divider" width="2500" height="25">
 
 ### [🗣️ GitHub Interactions](#-GitHub-interactions)
 
@@ -10114,7 +10627,11 @@ _End of GitHub interactions section_
 
 </details> <!-- End of GitHub interactions section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Amethyst-Divider_2500x250_V1_HighCompression.png" alt="Amethyst divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
 ### [💨️ Optimizing this page](#-Optimizing-this-page)
 
@@ -10130,7 +10647,11 @@ View this segment [in a separate file (coming soon)](/Segments/Optimizing-this-p
 
 </details> <!-- End of Optimizing this page section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
 ### [🚥️ Internet status](#-Internet-status)
 
@@ -10146,7 +10667,11 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 
 </details> <!-- End of Internet Status section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Fibers-Divider_2500x250_V1_HighCompression.png" alt="Fibers divider" width="2500" height="25">
 
 ### [⚠️ Developer limits](#-Developer-limits)
 
@@ -10162,9 +10687,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1153` (as of V133) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1153` (as of V134) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V133: `472,345` / `524,288` (`090.092%`))
+- - **Current character count (in bytes):** (as of V134: `512,166` / `524,288` (`097.687%`))
 
 > Memory
 
@@ -10177,19 +10702,29 @@ View this segment [in a separate file (coming soon)](/Segments/Developer-limits/
 
 </details> <!-- End of developer limits !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Fibers-Divider_2500x250_V1_HighCompression.png" alt="Fibers divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
 
 _End of about this page section._
 
 </details> <!-- End of About this page section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
+
+<!-- *** !-->
 
 _End of profile body for @seanpm2001._
 
 </details> <!-- End of @seanpm2001 profile body !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Web-Divider_2500x250_V1_HighCompression.png" alt="Blue web divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
 
 <img src="/Graphics/Wordmark/SeanWallaWalla/SeanWallaWalla_Wordmark_V1_VariantC_1540px_V1_HighCompression.png" alt="SeanWallaWalla wordmark" title="SeanWallaWalla wordmark" width="1540" height="200">
 
@@ -10209,7 +10744,11 @@ _End of profile body for @seanpm2001._
 
 </div>
 
-***
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
 
 ## [ℹ️ About me 2](#-About-me-2)
 
@@ -10221,10 +10760,14 @@ This is my alternative account. It retains my original online name from 2015 to 
 
 | [:octocat: `seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md) |
 |---|
-| Version 126 |
-| 2024, Sunday, May 12th |
+| Version 134 |
+| 2024, Monday, May 20th |
 
-***
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Crack-Divider_2500x250_V1_HighCompression.png" alt="Cracked divider" width="2500" height="25">
 
 ### [🖼️ Profile picture 2](#-Profile-picture-2)
 
@@ -10246,7 +10789,11 @@ _End of profile picture section for @seanwallawalla_
 
 </details> <!-- End of profile picture 2 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Crack-Divider_2500x250_V1_HighCompression.png" alt="Cracked divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
 
 ## [🍴️ Forks 2](#-Forks-2)
 
@@ -10260,7 +10807,11 @@ _End of the fork information section for @seanwallawalla_
 
 </details> <!-- End of forks 2 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Recessed-Divider_2500x250_V1_HighCompression.png" alt="Recessed divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Craters-Divider_2500x250_V1_HighCompression.png" alt="Craters divider" width="2500" height="25">
 
 ## [👥️ Follow for follow 2](#-Follow-for-follow-2)
 
@@ -10274,7 +10825,11 @@ _End of the follow for follow information section for @seanwallawalla_
 
 </details> <!-- End of follow for follow 2 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Craters-Divider_2500x250_V1_HighCompression.png" alt="Craters divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Leather-Divider_2500x250_V1_HighCompression.png" alt="Leather divider" width="2500" height="25">
 
 ## [⛔️ Account suspension 2](#-Account-suspension-2)
 
@@ -10288,7 +10843,11 @@ _End of the account suspension information section for @seanwallawalla_
 
 </details> <!-- End of account suspension 2 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Leather-Divider_2500x250_V1_HighCompression.png" alt="Leather divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Blue-Grid-Divider_2500x250_V1_HighCompression.png" alt="Blue grid divider" width="2500" height="25">
 
 ## [🕸️ Websites 2](#-Websites-2)
 
@@ -10305,25 +10864,37 @@ _End of the website information section for @seanwallawalla_
 
 </details> <!-- End of websites 2 section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Blue-Grid-Divider_2500x250_V1_HighCompression.png" alt="Blue grid divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
 
 _End of about me section for @seanwallawalla_
 
 </details> <!-- End of about me 2 section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
 
 _End of profile body for @seanwallawalla._
 
 </details> <!-- End of @seanwallawalla profile body Started section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
 
 _End of getting started section._
 
 </details> <!-- End of Getting Started section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Parque-3-Divider_2500x250_V1_HighCompression.png" alt="Parque3 divider" width="2500" height="25">
 
 <!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
@@ -10347,7 +10918,7 @@ You have reached the end of this page.
 
 | :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
 |---|---|
-| **Version 133 (beta 59)** | _2024, Sunday, May 19th._ |
+| **Version 134 (beta 60)** | _2024, Monday, May 20th._ |
 | **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
 
 <div align="center">
@@ -10361,7 +10932,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/130/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/131/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 | <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
@@ -10376,7 +10947,9 @@ View this segment [in a separate file (coming soon)](/Segments/Footer/README.md)
 
 </details> <!-- End of profile README !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Parque-3-Divider_2500x250_V1_HighCompression.png" alt="Parque3 divider" width="2500" height="25">
 
 <!--TODO
 
