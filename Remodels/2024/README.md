@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 58 - 2024, Saturday, May 18th` |
+| `Beta 59 - 2024, Sunday, May 19th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +18,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 56 days down, 7/8 days to go, as of 2024, Friday, May 17th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 58 days down, 5/6 days to go, as of 2024, Sunday, May 19th)_
 
 - Plans on what to do at the end:
 - - Release 64: Finish up the remaining goals
@@ -122,7 +122,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 56`](/Remodels/2024/!OldVersions/README/English/USA/README_V56.md) | 2024, Monday, May 20th (4 days late) | 55 |
 | [`Beta 57`](/Remodels/2024/!OldVersions/README/English/USA/README_V57.md) | 2024, Monday, May 20th (3 days late) | 56 |
 | [`Beta 58`](/Remodels/2024/!OldVersions/README/English/USA/README_V58.md) | 2024, Monday, May 20th (2 days late) | 57 |
-| Beta 59 | Coming soon | 58 |
+| [`Beta 59`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th (1 day late) | 58 |
 | Beta 60 | Coming soon | 59 |
 | Beta 61 | Coming soon | 60 |
 | Beta 62 | Coming soon | 61 |
@@ -146,9 +146,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `002` **/** `236` **tasks** _(000.85%)_ |
-| _as of 2024, Saturday, May 18th._ |
+| _as of 2024, Sunday, May 19th._ |
 
-- **Current tasks to do (002 tasks, as of 2024, Saturday, May 18th.)**
+- **Current tasks to do (002 tasks, as of 2024, Sunday, May 19th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -173,9 +173,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `234` **/** `236` **tasks** _(099.15%)_ |
-| _as of 2024, Saturday, May 18th._ |
+| _as of 2024, Sunday, May 19th._ |
 
-- **Tasks implemented so far (234 tasks, as of 2024, Saturday, May 18th.)**
+- **Tasks implemented so far (234 tasks, as of 2024, Sunday, May 19th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
