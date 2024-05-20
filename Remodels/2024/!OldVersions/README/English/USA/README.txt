@@ -7,7 +7,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 57 - 2024, Friday, May 17th` |
+| `Beta 58 - 2024, Saturday, May 18th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -121,7 +121,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 55`](/Remodels/2024/!OldVersions/README/English/USA/README_V55.md) | 2024, Wednesday, May 15th | 54 |
 | [`Beta 56`](/Remodels/2024/!OldVersions/README/English/USA/README_V56.md) | 2024, Monday, May 20th (4 days late) | 55 |
 | [`Beta 57`](/Remodels/2024/!OldVersions/README/English/USA/README_V57.md) | 2024, Monday, May 20th (3 days late) | 56 |
-| Beta 58 | Coming soon | 57 |
+| [`Beta 58`](/Remodels/2024/!OldVersions/README/English/USA/README_V58.md) | 2024, Monday, May 20th (2 days late) | 57 |
 | Beta 59 | Coming soon | 58 |
 | Beta 60 | Coming soon | 59 |
 | Beta 61 | Coming soon | 60 |
@@ -146,9 +146,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `002` **/** `236` **tasks** _(000.85%)_ |
-| _as of 2024, Friday, May 17th._ |
+| _as of 2024, Saturday, May 18th._ |
 
-- **Current tasks to do (002 tasks, as of 2024, Friday, May 17th.)**
+- **Current tasks to do (002 tasks, as of 2024, Saturday, May 18th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -173,9 +173,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `234` **/** `236` **tasks** _(099.15%)_ |
-| _as of 2024, Friday, May 17th._ |
+| _as of 2024, Saturday, May 18th._ |
 
-- **Tasks implemented so far (234 tasks, as of 2024, Friday, May 17th.)**
+- **Tasks implemented so far (234 tasks, as of 2024, Saturday, May 18th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
