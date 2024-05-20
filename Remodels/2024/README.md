@@ -1,5 +1,7 @@
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 # [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
 
@@ -7,7 +9,7 @@
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 59 - 2024, Sunday, May 19th` |
+| `Beta 60 - 2024, Monday, May 20th` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -18,7 +20,7 @@
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 58 days down, 5/6 days to go, as of 2024, Sunday, May 19th)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 59 days down, 4/5 days to go, as of 2024, Monday, May 20th)_
 
 - Plans on what to do at the end:
 - - Release 64: Finish up the remaining goals
@@ -123,7 +125,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 57`](/Remodels/2024/!OldVersions/README/English/USA/README_V57.md) | 2024, Monday, May 20th (3 days late) | 56 |
 | [`Beta 58`](/Remodels/2024/!OldVersions/README/English/USA/README_V58.md) | 2024, Monday, May 20th (2 days late) | 57 |
 | [`Beta 59`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th (1 day late) | 58 |
-| Beta 60 | Coming soon | 59 |
+| [`Beta 60`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th | 59 |
 | Beta 61 | Coming soon | 60 |
 | Beta 62 | Coming soon | 61 |
 | Beta 63 | Coming soon | 62 |
@@ -137,7 +139,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 </details> <!-- End of release timeline section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<!-- *** !-->
 
 <details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
 
@@ -145,17 +149,16 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
-| `002` **/** `236` **tasks** _(000.85%)_ |
-| _as of 2024, Sunday, May 19th._ |
+| `001` **/** `236` **tasks** _(000.42%)_ |
+| _as of 2024, Monday, May 20th._ |
 
-- **Current tasks to do (002 tasks, as of 2024, Sunday, May 19th.)**
+- **Current tasks to do (001 tasks, as of 2024, Monday, May 20th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
 
 ```
 My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
-New style (custom headings, as images) also dividers
 ```
 
 </details> <!-- End of current remodel goals section !-->
@@ -166,16 +169,18 @@ They are a work in progress.
 
 <!-- Spacing these out, so the image formats correctly !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 <img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
-| `234` **/** `236` **tasks** _(099.15%)_ |
-| _as of 2024, Sunday, May 19th._ |
+| `235` **/** `236` **tasks** _(099.58%)_ |
+| _as of 2024, Monday, May 20th._ |
 
-- **Tasks implemented so far (234 tasks, as of 2024, Sunday, May 19th.)**
+- **Tasks implemented so far (235 tasks, as of 2024, Monday, May 20th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -415,6 +420,7 @@ Many modifications to existing text throughout the document
 Updates to Legend
 My web stack
 New icon to center at the top
+New style (custom headings, as images) also dividers
 ```
 
 </details> <!-- End of completed remodel goals section !-->
@@ -442,7 +448,9 @@ GitHub profile during remodel (images to include in remodel section)
 
 </details> <!-- End of remodel section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 _End of remodel section._
 
@@ -456,4 +464,6 @@ _End of remodel information_
 
 </details> <!-- End of remodel information section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
