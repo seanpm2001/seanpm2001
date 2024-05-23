@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-21"
-      - version: "v135"
+      - date: "2024-05-22"
+      - version: "v136"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -11,11 +11,9 @@ redirect_from:
 defaultPlatform: linux
 ---
 
+## [🚧️ Top test zone](#-Top-test-zone)
+
 > **Note** _This is an experimental Markdown FrontMatter element. Currently, I would like to learn how to hide it in the page while retaining functionality, or place it in a different part of the document. If this isn't possible,_ **it will be disabled and removed.**
-
-_Section added 2024 April 20th._
-
-***Test zone***
 
 - [`Divider test`](/Segments/Divider-test/README.md)
 
@@ -30,6 +28,10 @@ categories: bio
 !-->
 
 <!-- *** !-->
+
+- [`View this section separately`](/Segments/Top-test-zone/README.md)
+
+_Section added 2024 April 20th._
 
 <img src="/Graphics/Dividers/PNG/Wood-Of-Some-Sort-Divider_2500x250_V1_HighCompression.png" alt="Wood of some sort divider" width="2500" height="25">
 
@@ -126,7 +128,8 @@ for versions 1 to 100 (these versions are now present only in older versions
 - [2024.05.12] The file is still rapidly growing, but I feel it will stay within the 512 KiB boundary by the time I finish on May 25th. Today, the file surpassed 10,000 lines of code again.
 - [2024.05.13] -> [2024.05.18] No updates for this date.
 - [2024.05.19] The file reached 90% capacity, but the final update for now will be made in a few days, so it isn't concerning.
-- [2024.05.20] -> [2024.05.21] The file is now critically close to the limit, due to heavy use of dividers (on average: about 150 characters each)
+- [2024.05.20] The file is now critically close to the limit, due to heavy use of dividers (on average: about 150 characters each)
+- [2024.05.21] -> [2024.05.22] No updates for this date.
 
 ***
 
@@ -942,590 +945,6 @@ This guestbook is for basic interaction, and communications. For further communi
 
 ---
 
-**List of all headings**
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section (heading list)]</b></p></summary>
-
-**All headings**
-
----
-
-**Nested view**
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section (heading list:nested view)]</b></p></summary>
-
-```markdown
-######Top
-#Seanpm2001 on GitHub
-##Welcome to my GitHub profile
-##Lead
-######Main statistics
-#Administrator section
-#Size warning
-#Read this article in a different language
-#Résumé
-##Guestbook
-#Index
-#Ukraine
-#REMODEL IN PROGRESS
-##Quick links
-#Legend
-#Getting started
-#Seanpm2001
-##About me
-###What I'm currently working on
-###What I'm looking to collaborate on
-####What I have collaborated on
-###What I'm looking to help with
-###Labels
-###Nicknames
-###Necroposting
-###Forks and browsing forks
-###Favorite works
-####My favorite works
-####Favorite works by other users
-###Self-hosting plans for the future
-###My server
-###Public Media Gallery
-###My timeline
-###Other hobbies
-####Photography
-####Swimming
-####Gaming
-####Graphic design
-####Linguistics
-####History buff
-####Marine biology
-####Journaling
-####Vexillology
-####Cartography
-####Geography
-####Music
-####Anime
-###Residence
-###Profile picture history
-###Join date
-###Linux
-###Complexity
-###Calendar
-###Project difficulties
-###Ask me about
-###How to reach me
-####Online Identity
-#####Email information
-#####VCard
-#####Projects on other platforms
-######Platforms I am on
-#######Platforms I still use
-########Wikipedia
-########Wikimedia commons
-########Wikibooks
-########WikiData
-########WikiNews
-########WikiQuote
-########WikiSource
-########WikiSpecies
-########WikiVoyage
-########Wikimedia Incubator
-########Wikiversity
-########Wiktionary
-########GitHub
-########FreeCodeCamp
-########Internet Archive
-########ProtonMail/ProtonCalendar/ProtonDrive/ProtonVPN
-########AirBnB
-########VRBO
-########SUPERCELL
-########Mastodon
-########Google Play
-########GistHub
-#######Platforms I no longer use
-########Reddit
-########Discord
-########YouTube
-########Mozilla
-########GitLab
-########Patreon
-########OpenCollective
-########Ko-Fi
-########LiberaPay
-########IssueHunt
-########BitBucket
-########SourceForge
-########Khan Academy
-########Vimeo
-########Marco Polo
-########Steam
-########Roblox
-########Poptropica
-########NitroType
-########Minecraft
-########Happy Wheels
-########Growtopia
-########GMAIL
-########Outlook
-########Twitter
-########Scratch
-########Instagram
-########Facebook
-########Yelp
-########Tumblr
-########Bandcamp
-########Quora
-########Zoom
-########Hulu
-########Degoo
-########Dropbox
-########iCloud
-########iTunes
-########MediaFire
-########OneDrive
-########pCloud
-########AspergerExperts
-########Trello
-########Code.org
-########ALEKS
-########Edhesive
-########Nintendo
-########Thingiverse
-########PayPal
-########Amazon
-#######Platforms I am not on
-########Never joined
-#########TikTok
-#########WhatsApp
-#########Pinterest
-#########LinkedIn
-#########VKontakte
-#########PornHub
-#########Snapchat
-#########Telegram
-#########Signal
-########No longer exists
-#########Go90
-#########Ditty
-#########Periscope
-#########Google Plus
-#########Club Penguin
-#########Clocktree
-###Sponsor Info
-###Free software isn't free to develop
-###Submissions
-###Blue team
-###Green team
-###Computer user type
-###Education
-###Certifications
-###GitHub Developer Program
-####Extensions
-####Marketplace
-#####My actions
-#####My CI workflows
-####Information
-###Frequently Asked Questions
-###GitHub Profile Template
-##Life
-###Personal
-###Politics
-###Sexuality
-###Opinions
-###Stances
-###Autism
-##Technology
-###Media
-####Radio
-###My current setup
-####Current hardware
-####Current software
-###Former organizations
-###Search my profile easier with this helpful Gist
-##Statistics
-###GitHub Stats A
-####Overview statistics for GitHub Stats A
-###GitHub Stats B
-###Commit Count Milestones
-###GitHub Skyline
-###GitHub social statistics
-####Follower milestones
-##Family
-###GitHub contacts (family)
-####My family on GitHub
-###Pets
-##Friends
-###GitHub contacts (other)
-###Subscriptions
-##My projects
-###List of all repositories
-###Website modules
-###Template projects
-###UnSaaSS
-###Upcoming projects
-###Other projects
-###Platforms I develop for
-####Linux platform support
-####BSD platform support
-#####MacOS and iOS
-#####Other BSD
-####Windows platform support
-####Other platform support
-###What I'm currently working on
-###Project of the day
-##Goals
-##Documentation
-###License
-###Style guides
-###Model project information
-###Takeout Tuesdays
-###Browser tabs
-###Administrative units
-###Government
-###Region-related software
-###Learn
-###AUTOMATE2001
-###Private repositories
-###Raspberry Pi
-###Artificial Intelligence projects
-###SeansOSData project
-###Virtual machine information
-###Dream projects
-###Thoughts on Blockchain and Web -3
-###GitHub profile achievements
-###2001 and the core
-###Forks
-###Linux User Groups
-###RepoData
-####RepoData notes
-###Awards
-####Saltine cracker award
-###README usage
-###Software status
-###Feature requests for GitHub
-###Confetti
-###GitHub bugs 
-###Inspirations
-###Humor
-###Common GitHub profile media
-####Common GitHub profile GIF media
-####Common GitHub profile PNG media
-####Common GitHub profile SVG media
-##About this page
-###Workflows (seanpm2001/seanpm2001)
-###GitHub:seanpm2001/seanpm2001
-###File info
-###File version history
-###Remodel hsitory
-###GitHub interactions
-###Optimizing this page
-###Internet status
-###Developer limits
-#SeanWallaWalla
-##About me 2
-###Profile picture 2
-###Forks 2
-###Follow for follow 2
-###Account suspension 2
-###Websites 2
-###Footer
-###End of file
-###EOF
-```
-
-</details> <!-- End of nested heading view table section !-->
-
----
-
-**Single heading view**
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section (heading list:single heading view)]</b></p></summary>
-
-```yaml
-#Top
-#Seanpm2001 on GitHub
-#Welcome to my GitHub profile
-#Lead
-#Main statistics
-#Administrator section
-#Size warning
-#Read this article in a different language
-#Résumé
-#Guestbook
-#Index
-#Ukraine
-#REMODEL IN PROGRESS
-#Quick links
-#Legend
-#Getting started
-#Seanpm2001
-#About me
-#What I'm currently working on
-#What I'm looking to collaborate on
-#What I have collaborated on
-#What I'm looking to help with
-#Labels
-#Nicknames
-#Necroposting
-#Forks and browsing forks
-#Favorite works
-#My favorite works
-#Favorite works by other users
-#Self-hosting plans for the future
-#My server
-#Public Media Gallery
-#My timeline
-#Other hobbies
-#Photography
-#Swimming
-#Gaming
-#Graphic design
-#Linguistics
-#History buff
-#Marine biology
-#Journaling
-#Vexillology
-#Cartography
-#Geography
-#Music
-#Anime
-#Residence
-#Profile picture history
-#Join date
-#Linux
-#Complexity
-#Calendar
-#Project difficulties
-#Ask me about
-#How to reach me
-#Online Identity
-#Email information
-#VCard
-#Projects on other platforms
-#Platforms I am on
-#Platforms I still use
-#Wikipedia
-#Wikimedia commons
-#Wikibooks
-#WikiData
-#WikiNews
-#WikiQuote
-#WikiSource
-#WikiSpecies
-#WikiVoyage
-#Wikimedia Incubator
-#Wikiversity
-#Wiktionary
-#GitHub
-#FreeCodeCamp
-#Internet Archive
-#ProtonMail/ProtonCalendar/ProtonDrive/ProtonVPN
-#AirBnB
-#VRBO
-#SUPERCELL
-#Mastodon
-#Google Play
-#GistHub
-#Platforms I no longer use
-#Reddit
-#Discord
-#YouTube
-#Mozilla
-#GitLab
-#Patreon
-#OpenCollective
-#Ko-Fi
-#LiberaPay
-#IssueHunt
-#BitBucket
-#SourceForge
-#Khan Academy
-#Vimeo
-#Marco Polo
-#Steam
-#Roblox
-#Poptropica
-#NitroType
-#Minecraft
-#Happy Wheels
-#Growtopia
-#GMAIL
-#Outlook
-#Twitter
-#Scratch
-#Instagram
-#Facebook
-#Yelp
-#Tumblr
-#Bandcamp
-#Quora
-#Zoom
-#Hulu
-#Degoo
-#Dropbox
-#iCloud
-#iTunes
-#MediaFire
-#OneDrive
-#pCloud
-#AspergerExperts
-#Trello
-#Code.org
-#ALEKS
-#Edhesive
-#Nintendo
-#Thingiverse
-#PayPal
-#Amazon
-#Platforms I am not on
-#Never joined
-#TikTok
-#WhatsApp
-#Pinterest
-#LinkedIn
-#VKontakte
-#PornHub
-#Snapchat
-#Telegram
-#Signal
-#No longer exists
-#Go90
-#Ditty
-#Periscope
-#Google Plus
-#Club Penguin
-#Clocktree
-#Sponsor Info
-#Free software isn't free to develop
-#Submissions
-#Blue team
-#Green team
-#Computer user type
-#Education
-#Certifications
-#GitHub Developer Program
-#Extensions
-#Marketplace
-#My actions
-#My CI workflows
-#Information
-#Frequently Asked Questions
-#GitHub Profile Template
-#Life
-#Personal
-#Politics
-#Sexuality
-#Opinions
-#Stances
-#Autism
-#Technology
-#Media
-#Radio
-#My current setup
-#Current hardware
-#Current software
-#Former organizations
-#Search my profile easier with this helpful Gist
-#Statistics
-#GitHub Stats A
-#Overview statistics for GitHub Stats A
-#GitHub Stats B
-#Commit Count Milestones
-#GitHub Skyline
-#GitHub social statistics
-#Follower milestones
-#Family
-#GitHub contacts (family)
-#My family on GitHub
-#Pets
-#Friends
-#GitHub contacts (other)
-#Subscriptions
-#My projects
-#List of all repositories
-#Website modules
-#Template projects
-#UnSaaSS
-#Upcoming projects
-#Other projects
-#Platforms I develop for
-#Linux platform support
-#BSD platform support
-#MacOS and iOS
-#Other BSD
-#Windows platform support
-#Other platform support
-#What I'm currently working on
-#Project of the day
-#Goals
-#Documentation
-#License
-#Style guides
-#Model project information
-#Takeout Tuesdays
-#Browser tabs
-#Administrative units
-#Government
-#Region-related software
-#Learn
-#AUTOMATE2001
-#Private repositories
-#Raspberry Pi
-#Artificial Intelligence projects
-#SeansOSData project
-#Virtual machine information
-#Dream projects
-#Thoughts on Blockchain and Web -3
-#GitHub profile achievements
-#2001 and the core
-#Forks
-#Linux User Groups
-#RepoData
-#RepoData notes
-#Awards
-#Saltine cracker award
-#README usage
-#Software status
-#Feature requests for GitHub
-#Confetti
-#GitHub bugs
-#Inspirations
-#Humor
-#Common GitHub profile media
-#Common GitHub profile GIF media
-#Common GitHub profile PNG media
-#Common GitHub profile SVG media
-#About this page
-#Workflows (seanpm2001/seanpm2001)
-#GitHub:seanpm2001/seanpm2001
-#File info
-#File version history
-#Remodel hsitory
-#GitHub interactions
-#Optimizing this page
-#Internet status
-#Developer limits
-#SeanWallaWalla
-#About me 2
-#Profile picture 2
-#Forks 2
-#Follow for follow 2
-#Account suspension 2
-#Websites 2
-#Footer
-#End of file
-#EOF
-```
-
-</details> <!-- End of single heading view table section !-->
-
-_End of single heading view table._
-
----
-
-</details> <!-- End of headings section !-->
-
-_End of list of all headings section._
-
----
-
 _End of heading listing._
 
 </details> <!-- End of index headings section !-->
@@ -1593,7 +1012,7 @@ _This section was added on 2024, Saturday, March 23rd._
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 61 - 2024, Tuesday, May 21st` |
+| `Beta 62 - 2024, Wednesday, May 22nd` |
 | **Final release day:** `2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
@@ -1604,7 +1023,7 @@ _This section was added on 2024, Saturday, March 23rd._
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 60 days down, 3/4 days to go, as of 2024, Tuesday, May 21st)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 61 days down, 2/3 days to go, as of 2024, Wednesday, May 22nd.)_
 
 - Plans on what to do at the end:
 - - Release 64: Finish up the remaining goals
@@ -1711,7 +1130,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 59`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th (1 day late) | 58 |
 | [`Beta 60`](/Remodels/2024/!OldVersions/README/English/USA/README_V60.md) | 2024, Monday, May 20th | 59 |
 | [`Beta 61`](/Remodels/2024/!OldVersions/README/English/USA/README_V61.md) | 2024, Tuesday, May 21st | 60 |
-| Beta 62 | Coming soon | 61 |
+| [`Beta 62`](/Remodels/2024/!OldVersions/README/English/USA/README_V62.md) | 2024, Wednesday, May 22nd | 61 |
 | Beta 63 | Coming soon | 62 |
 | Beta 64 | Coming soon | 63 |
 | 4 year anniversary update | Coming soon | 64 |
@@ -1734,9 +1153,9 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `001` **/** `236` **tasks** _(000.42%)_ |
-| _as of 2024, Tuesday, May 21st._ |
+| _as of 2024, Wednesday, May 22nd._ |
 
-- **Current tasks to do (001 tasks, as of 2024, Tuesday, May 21st.)**
+- **Current tasks to do (001 tasks, as of 2024, Wednesday, May 22nd.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -1762,9 +1181,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `235` **/** `236` **tasks** _(099.58%)_ |
-| _as of 2024, Tuesday, May 21st._ |
+| _as of 2024, Wednesday, May 22nd._ |
 
-- **Tasks implemented so far (235 tasks, as of 2024, Tuesday, May 21st.)**
+- **Tasks implemented so far (235 tasks, as of 2024, Wednesday, May 22nd.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -2085,7 +1504,7 @@ View this segment [in a separate file (coming soon)](/Segments/Quick-links/READM
 
 # [📏️ Legend](#-Legend)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 - :octocat: - Indicates that a link is directed at [`https://github.com/`](https://github.com/)
 - Emojis are used for decorative purposes, but can also be used to classify each section
@@ -6394,234 +5813,11 @@ This repository records my commit count milestones: [:octocat: `seanpm2001/Commi
 
 Milestones are listed when a repository reaches:
 
-- 10 commits
-- 16 commits (2^4)
-- 25 commits
-- 32 commits (2^5)
-- 50 commits
-- 64 commits (2^6)
-- 75 commits
-- 100 commits
-- 125 commits
-- 128 commits (2^7)
-- 250 commits
-- 256 commits (2^8)
-- 500 commits
-- 512 commits (2^9)
-- 750 commits
-- 1000 commits
-- 1024 commits (2^10)
-- 2000 commits
-- 2048 commits (2^11)
-- 2500 commits
-- 4096 commits (2^12)
-- 5000 commits
-- 8192 commits (2^13)
-- 10000 commits
-- 15000 commits
-- **16384 commits (2^14)** (current repository record, 2024.04.06)
-- 20000 commits
-- 25000 commits
-- 30000 commits
-- 32768 commits (2^15)
-- 35000 commits
-- 40000 commits
-- 50000 commits
-- 60000 commits
-- 65536 commits (2^16)
-- 70000 commits
-- 75000 commits
-- 80000 commits
-- 90000 commits
-- 100000 commits
-- 120000 commits
-- 125000 commits
-- 128000 commits
-- 131072 commits (2^17)
-- 150000 commits
-- 175000 commits
-- 200000 commits
-- 240000 commits
-- 250000 commits
-- 256000 commits
-- 262144 commits (2^18)
-- 270000 commits
-- 300000 commits
-- 350000 commits
-- 360000 commits
-- **365000 commits** (current account record, 2024.04.06)
-- 400000 commits
-- 450000 commits
-- 480000 commits
-- 500000 commits
-- 512000 commits
-- 524288 commits (2^19)
-- 550000 commits
-- 600000 commits
-- 650000 commits
-- 700000 commits
-- 720000 commits
-- 725000 commits
-- 750000 commits
-- 800000 commits
-- 850000 commits 
-- 900000 commits
-- 950000 commits
-- 1000000 commits
-- 1048576 commits (2^20)
+`This list has been removed to save space`
 
 None of my repositories have yet reached 20000 commits (as of 2024, April 6th) and my account as a whole hasn't reached the 400000 commit count (as of 2024, April 6th)
 
 From observing other accounts, I have noted that GitHub repositories get wonky after you reach 17.5 million (showing an ∞ (infinity) sign, instead of the actual number) and from user reports, [:octocat: `GitHub repositories get disabled at 22 million commits`](https://github.com/csm10495/commit-ment/)
-
-New limits (proposed 2024.04.06, WIP)
-
-- 1100000 commits
-- 1111111 commits
-- 1200000 commits
-- 1250000 commits
-- 1280000 commits
-- 1300000 commits
-- 1400000 commits
-- 1440000 commits
-- 1500000 commits
-- 1600000 commits
-- 1700000 commits
-- 1750000 commits
-- 1800000 commits
-- 1900000 commits
-- 2000000 commits
-- 2097152 commits (2^21)
-- 2100000 commits
-- 2200000 commits
-- 2222222 commits
-- 2300000 commits
-- 2400000 commits
-- 2500000 commits
-- 2560000 commits
-- 2600000 commits
-- 2700000 commits
-- 2750000 commits
-- 2800000 commits
-- 2900000 commits
-- 3000000 commits
-- 3100000 commits
-- 3200000 commits
-- 3300000 commits
-- 3333333 commits
-- 3400000 commits
-- 3500000 commits
-- 3600000 commits
-- 3650000 commits
-- 3700000 commits
-- 3750000 commits
-- 3800000 commits
-- 3900000 commits
-- 4000000 commits
-- 4040000 commits
-- 4100000 commits
-- 4194304 commits (2^22)
-- 4200000 commits
-- 4250000 commits
-- 4300000 commits
-- 4400000 commits
-- 4444444 commits
-- 4500000 commits
-- 4600000 commits
-- 4700000 commits
-- 4750000 commits
-- 4800000 commits
-- 4900000 commits
-- 5000000 commits
-- 5100000 commits
-- 5120000 commits
-- 5200000 commits
-- 5250000 commits
-- 5300000 commits
-- 5400000 commits
-- 5500000 commits
-- 5555555 commits
-- 5600000 commits
-- 5700000 commits
-- 5750000 commits
-- 5800000 commits
-- 5900000 commits
-- 6000000 commits
-- 6100000 commits
-- 6200000 commits
-- 6250000 commits
-- 6300000 commits
-- 6400000 commits
-- 6500000 commits
-- 6600000 commits
-- 6666666 commits
-- 6700000 commits
-- 6750000 commits
-- 6800000 commits
-- 6900000 commits
-- 7000000 commits
-- 7100000 commits
-- 7200000 commits
-- 7250000 commits
-- 7300000 commits
-- 7400000 commits
-- 7500000 commits
-- 7600000 commits
-- 7700000 commits
-- 7750000 commits
-- 7777777 commits
-- 7800000 commits
-- 7900000 commits
-- 8000000 commits
-- 8100000 commits
-- 8200000 commits
-- 8250000 commits
-- 8300000 commits
-- 8388608 commits (2^23)
-- 8400000 commits
-- 8500000 commits
-- 8600000 commits
-- 8700000 commits
-- 8750000 commits
-- 8800000 commits
-- 8888888 commits
-- 8900000 commits
-- 9000000 commits
-- 9100000 commits
-- 9200000 commits
-- 9250000 commits
-- 9300000 commits
-- 9400000 commits
-- 9500000 commits
-- 9600000 commits
-- 9700000 commits
-- 9750000 commits
-- 9800000 commits
-- 9900000 commits
-- 9999999 commits
-- 10000000 commits
-- 10101010 commits
-- 11000000 commits
-- 11111111 commits
-- 12000000 commits
-- 12500000 commits
-- 12800000 commits
-- 13000000 commits
-- 14000000 commits
-- 14400000 commits
-- 15000000 commits
-- 16000000 commits
-- 16777216 commits (2^24)
-- 17000000 commits
-- 17200000 commits
-- 17250000 commits
-- 17500000 commits
-- 18000000 commits (∞ commits)
-- 19000000 commits (∞ commits)
-- 20000000 commits (∞ commits)
-- 21000000 commits (∞ commits)
-- 22000000 commits (🔨️ Ban/suspension) (∞ commits)
-- 22222222 commits (🔨️ Ban/suspension) (∞ commits)
 
 ***
 
@@ -8584,11 +7780,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `135 (2024, Tuesday, May 21st at 06:41 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,985`
-- **Word count:** `076,130`
-- **Character count (with spaces):** `0,509,618 characters`
-- **Character count (without spaces)** `0,444,411 characters`
+- **File version:** `136 (2024, Wednesday, May 22nd at 07:24 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,204`
+- **Word count:** `072,729`
+- **Character count (with spaces):** `0,497,173 characters`
+- **Character count (without spaces)** `0,433,540 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -9828,11 +9024,33 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 136 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 136 (2024, Wednesday, May 22nd at 07:24 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the sixtieth update in part of a major remodel of this profile README. Updates should be done consecutively until 2024, May 25th. This update was created from 2024, Tuesday, May 21st to 2024, Wednesday, May 22nd. Only 3 days left in this update, with 2 days left for accomplishing the last goal. This update focused on cleaning up the top test zone, and reducing the document size enough to last through 3 more days of updates._
 
 > Changes:
-
-- [ ] Coming soon
+ 
+- [x] Removed the Separate heading sections from the index to save space (they were unmaintained, and didn't really serve much of a purpose)
+- [x] Updated information on the remodel of this project
+- [x] Trimmed the `Commit count milestones` section
+- [x] Established the top test zone as its own section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 136
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [ ] Note: the tables will need to be merged further into the footer in the future (likely at the end of the 4 year anniversary updates)
 - [ ] No other changes in version 136
 
 </details> <!-- End of V136 !-->
@@ -10561,7 +9779,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 21st)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-21st)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 22nd)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-22nd)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -10628,6 +9846,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 59 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md)
 - - [Link to remodel section version 60 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V60.md)
 - - [Link to remodel section version 61 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V61.md)
+- - [Link to remodel section version 62 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V62.md)
 
 </details> <!-- End of remodel history section !-->
 
@@ -10715,9 +9934,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1153` (as of V135) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1148` (as of V136) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `524,288` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V135: `514,232` / `524,288` (`098.081%`))
+- - **Current character count (in bytes):** (as of V136: `501,766` / `512,000` (`098.001%`))
 
 > Memory
 
@@ -10946,7 +10165,7 @@ You have reached the end of this page.
 
 | :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
 |---|---|
-| **Version 135 (beta 61)** | _2024, Tuesday, May 21st._ |
+| **Version 136 (beta 62)** | _2024, Wednesday, May 22nd._ |
 | **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
 
 <div align="center">
@@ -10960,7 +10179,7 @@ You have reached the end of this page.
 | 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
 |---|---|
 | [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/132/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/133/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
 | <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
 
 | [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
