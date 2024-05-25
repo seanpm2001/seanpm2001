@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-24"
-      - version: "v138"
+      - date: "2024-05-25"
+      - version: "v139"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -13,19 +13,9 @@ defaultPlatform: linux
 
 ## [🚧️ Top test zone](#-Top-test-zone)
 
-> **Note** _This is an experimental Markdown FrontMatter element. Currently, I would like to learn how to hide it in the page while retaining functionality, or place it in a different part of the document. If this isn't possible,_ **it will be disabled and removed.**
+> **Note** _This is an experimental Markdown FrontMatter element. Currently, I would like to learn how to hide it in the page while retaining functionality, or place it in a different part of the document. If this isn't possible,_ **it will be disabled and removed.** [:octocat: `Give feedback on this`](https://github.com/seanpm2001/seanpm2001/discussions/)
 
 - [`Divider test`](/Segments/Divider-test/README.md)
-
-<!--
----
-layout: post
-title:  ""
-date:   2024-04-20
-version:   V104
-categories: bio
----
-!-->
 
 <!-- *** !-->
 
@@ -73,7 +63,9 @@ For now, it can be viewed [here instead](/Segments/Main-Statistics/README.md)
 
 </details> <!-- End of main statistics section !-->
 
-***
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 # [🛑️ Administrator section](#-Administrator-section)
 
@@ -93,59 +85,9 @@ _Further instructions not yet available._
 
 </details> <!-- End of Administrator section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
-# [💣️ Size warning](#-Size-warning)
-
-<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-| <img src="/Graphics/4-Year-Anniversary-Update/Errors/4YearAnniversaryUpdate_Beta14_Issue.png" alt="This repository is taking too long to load image" title="GitHub refuses to render beta 14 due to about 30+ unclosed details tags" width="800" height="140"> |
-|---|
-| **This issue started with beta 14 of the 4 year anniversary update, and was fixed with beta 15** |
-
-- [2024.04.04] On 2024, Thursday, April 4th, the document surpassed 500 kilobytes in size. The file no longer is previewable on GitHub while editing, making debugging a lot harder. This document is close to reaching the GitHub 524.288 kilobyte size limit, so the bottom segments of the page may no longer load.
-- [2024.04.05] The amount has dropped down with the 2024, Friday, April 5th update, but I still can't get the document to render now
-- [2024.04.06] The file is back to normal standing, and the rendering issue has been fixed. I am still working on keeping the file under 524,289 bytes
-- [2024.04.07] Something may need to be done with the `What I'm currently working on§Major projects` section, as it is the biggest part of this file, yet it can't be shrunk easily. I am still working on keeping the file under 524,289 bytes
-- [2024.04.08] Size wasn't as much of a concern today, but I am still being cautious
-- [2024.04.09] Size is becoming a concern again, as I have less than 10% capacity for new content here. Also, the file is over 10,000 lines long again.
-- [2024.04.10] Size is now a major concern, as I have less than 5% capacity for new content now.
-- [2024.04.11] Reaching critical mass. Parts of the bottom of the file may not render if the size continues to grow without control.
-- [2024.04.12] The file hit its size limit today, so I moved the `What I'm currently working on` section out into a separate page, which saves 209,975 bytes (209.97 kilobytes) nearly 40% of the document. Issues with size should not recur again for some time.
-- [2024.04.13] -> [2024.04.16] No updates for this date.
-- [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
-for versions 1 to 100 (these versions are now present only in older versions
-- [2024.04.18] -> [2024.04.28] No updates for this date.
-- [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
-- [2024.04.30] -> [2024.05.05] No updates for this date.
-- [2024.05.06] The document is very close to again reaching and surpassing 80.000% capacity, and will need to be modified to fix this before it reaches 100%
-- [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
-- [2024.05.08] -> [2024.05.11] No updates for this date.
-- [2024.05.12] The file is still rapidly growing, but I feel it will stay within the 512 KiB boundary by the time I finish on May 25th. Today, the file surpassed 10,000 lines of code again.
-- [2024.05.13] -> [2024.05.18] No updates for this date.
-- [2024.05.19] The file reached 90% capacity, but the final update for now will be made in a few days, so it isn't concerning.
-- [2024.05.20] The file is now critically close to the limit, due to heavy use of dividers (on average: about 150 characters each)
-- [2024.05.21] -> [2024.05.24] No updates for this date.
-
-***
-
-<details><summary><p><b>Click/tap here to expand/collapse a preview of the size error (various sizes)</b></p></summary>
-
-| V1 | V2 | V3 | V4 | V5 |
-|---|---|---|---|---|
-| <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-10-47%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V1" width="1920" height="13028"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-08%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V2" width="1920" height="6487"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-19%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V3" width="1920" height="5824"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-27%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V4" width="1920" height="4374"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-38%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V5" width="1920" height="2051"> |
-
-</details> <!-- End of Size error image section !-->
-
-***
-
-_End of size warning section._
-
-- [`View this section separately`](/Segments/Size-warning/README.md)
-
-</details> <!-- End of size warning section !-->
-
-***
+<!-- *** !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the banner]</b></p></summary>
 
@@ -301,7 +243,7 @@ _End of Résumé section._
 
 ## [📖️ Guestbook](#-Guestbook)
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 | <img src="/Graphics/Guestbook/GIF/animated-book-image.gif" alt="Animated book GIF failed to load" title="I really like this GIF, and have used it since around 2015-2016. However, sometimes it freezes on the first frame." width="400" height="256"> |
 |---|
@@ -1000,474 +942,6 @@ _This section was added on 2024, Saturday, March 23rd._
 
 <!-- *** !-->
 
-<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
-
-# [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
-
-<img src="/Graphics/Under-construction/Under_construction_icon-green.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
-
-| **4 year anniversary update** |
-|-------------------------------|
-| `Beta 64 - 2024, Friday, May 24th` |
-| **Final release day:** `2024, Saturday, May 25th` |
-| **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
-
-<img src="/Graphics/Under-construction/Under_construction_icon-orange.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="right" style="margin-right: 30px">
-
-<details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
-
-I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
-
-- **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 63 days down, 1 day to go, as of 2024, Friday, May 24th.)_
-
-- Plans on what to do at the end:
-- - Release 64: Finish up the remaining goals
-- - Release 65: Move the remodel section somewhere else, remove several tables from the footer, wrap up the writing to indicate a remodel is no longer in progress.
-
-<details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
-
-<div align="center">
-
-| 📈️ **Timeline** 📉️ |
-|---------------------|
-| 📉️ **Timeline** 📈️ |
-
-| 0️⃣️3️⃣️ **2024 March** |
-|---|
-| 0️⃣️3️⃣️ **2024 March** |
-
-<details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
-
-| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-|---|---|---|
-| [`Beta 1`](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
-| [`Beta 2`](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
-| [`Beta 3`](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
-| [`Beta 4`](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md) | 2024, Monday, March 25th | 03 |
-| [`Beta 5`](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md) | 2024, Tuesday, March 26th | 04 |
-| [`Beta 6`](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md) | 2024, Wednesday, March 27th | 05 |
-| [`Beta 7`](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
-| [`Beta 8`](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
-| [`Beta 9`](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
-| [`Beta 10`](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
-| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-
-</details> <!-- End of 2024 March release timeline table !-->
-
-| 0️⃣️4️⃣️ ***2024 April*** |
-|---|
-| 0️⃣️4️⃣️ ***2024 April*** |
-
-<details><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
-
-| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-|---|---|---|
-| [`Beta 11`](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
-| [`Beta 12`](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
-| [`Beta 13`](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
-| [`Beta 14`](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
-| [`Beta 15`](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
-| [`Beta 16`](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
-| [`Beta 17`](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
-| [`Beta 18`](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
-| [`Beta 19`](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
-| [`Beta 20`](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
-| [`Beta 21`](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
-| [`Beta 22`](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
-| [`Beta 23`](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
-| [`Beta 24`](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
-| [`Beta 25`](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
-| [`Beta 26`](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
-| [`Beta 27`](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
-| [`Beta 28`](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
-| [`Beta 29`](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
-| [`Beta 30`](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
-| [`Beta 31`](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
-| [`Beta 32`](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
-| [`Beta 33`](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
-| [`Beta 34`](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md) | 2024, Wednesday, April 24th | 33 |
-| [`Beta 35`](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md) | 2024, Thursday, April 25th | 34 |
-| [`Beta 36`](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md) | 2024, Friday, April 26th | 35 |
-| [`Beta 37`](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md) | 2024, Saturday, April 27th | 36 |
-| [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
-| [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
-| [`Beta 40`](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md) | 2024, Tuesday, April 30th | 39 |
-| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-
-</details> <!-- End of 2024 April release timeline table !-->
-
-| 0️⃣️5️⃣️ **2024 May** |
-|---|
-| 0️⃣️5️⃣️ **2024 May** |
-
-<details open><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
-
-| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-|---|---|---|
-| [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
-| [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
-| [`Beta 43`](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md) | 2024, Friday, May 3rd | 42 |
-| [`Beta 44`](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md) | 2024, Saturday, May 4th | 43 |
-| [`Beta 45`](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md) | 2024, Sunday, May 5th | 44 |
-| [`Beta 46`](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md) | 2024, Monday, May 6th | 45 |
-| [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
-| [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Thursday, May 9th (1 day late) | 47 |
-| [`Beta 49`](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md) | 2024, Thursday, May 9th | 48 |
-| [`Beta 50`](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md) | 2024, Friday, May 10th | 49 |
-| [`Beta 51`](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md) | 2024, Saturday, May 11th | 50 |
-| [`Beta 52`](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md) | 2024, Sunday, May 12th | 51 |
-| [`Beta 53`](/Remodels/2024/!OldVersions/README/English/USA/README_V53.md) | 2024, Monday, May 13th | 52 |
-| [`Beta 54`](/Remodels/2024/!OldVersions/README/English/USA/README_V54.md) | 2024, Tuesday, May 14th | 53 |
-| [`Beta 55`](/Remodels/2024/!OldVersions/README/English/USA/README_V55.md) | 2024, Wednesday, May 15th | 54 |
-| [`Beta 56`](/Remodels/2024/!OldVersions/README/English/USA/README_V56.md) | 2024, Monday, May 20th (4 days late) | 55 |
-| [`Beta 57`](/Remodels/2024/!OldVersions/README/English/USA/README_V57.md) | 2024, Monday, May 20th (3 days late) | 56 |
-| [`Beta 58`](/Remodels/2024/!OldVersions/README/English/USA/README_V58.md) | 2024, Monday, May 20th (2 days late) | 57 |
-| [`Beta 59`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th (1 day late) | 58 |
-| [`Beta 60`](/Remodels/2024/!OldVersions/README/English/USA/README_V60.md) | 2024, Monday, May 20th | 59 |
-| [`Beta 61`](/Remodels/2024/!OldVersions/README/English/USA/README_V61.md) | 2024, Tuesday, May 21st | 60 |
-| [`Beta 62`](/Remodels/2024/!OldVersions/README/English/USA/README_V62.md) | 2024, Wednesday, May 22nd | 61 |
-| [`Beta 63`](/Remodels/2024/!OldVersions/README/English/USA/README_V63.md) | 2024, Friday, May 24th (1 day late) | 62 |
-| [`Beta 64`](/Remodels/2024/!OldVersions/README/English/USA/README_V64.md) | 2024, Friday, May 24th | 63 |
-| 4 year anniversary update | Coming soon | 64 |
-| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
-
-</details> <!-- End of 2024 May release timeline table !-->
-
-</div>
-
-</details> <!-- End of release timeline section !-->
-
-<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
-
-<!-- *** !-->
-
-<details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
-
-<img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
-
-| 📋️ ***Task incompletion progress*** ❌️ |
-|---|
-| `000` **/** `236` **tasks** _(000.00%)_ |
-| _as of 2024, Friday, May 24th._ |
-
-- **Current tasks to do (001 tasks, as of 2024, Friday, May 24th.)**
-- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
-
-<details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
-
-```
-NONE
-```
-
-</details> <!-- End of current remodel goals section !-->
-
-These are the current goals of the remodel.
-
-They are a work in progress.
-
-<!-- Spacing these out, so the image formats correctly !-->
-
-<!-- *** !-->
-
-<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
-
-<img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
-
-| ✅️ ***Task completion progress*** 📋️ |
-|---|
-| `236` **/** `236` **tasks** _(100.00%)_ |
-| _as of 2024, Friday, May 24th._ |
-
-- **Tasks implemented so far (236 tasks, as of 2024, Friday, May 24th.)**
-- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
-
-<details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
-
-```
-Add copyleft notice, and license notice (GPL3) to the footer, similar to your recent Favicon Pages projects.
-
-Display this
-
-|``|`
-**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-|`|``|
-
-- 🔭 I’m currently working on _a variety of projects_
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: _[social media list, email]_
-- 😄 Pronouns: _He/Him_
-- ⚡ Fun fact: ...
-
-Radio section
-Ukraine message
-DIVIDE THE PAGE INTO MAJOR SECTIONS (MAJOR GOAL, EMPHASIZED)
-
-| Lead (header)
-| About me
-| | Life
-| | Technology
-| | | Statistics
-| | Family
-| | Friends
-| My projects
-| | My goals
-| | Documentation
-| About this page
-| Footer
-
-GitHub skyline 2024
-Succeeded by: Incumbent
-Preceeded by: Seanwallawalla <- SeanTRM
-Add local links to the best GitHub Stats A workflow runs
-Collapse the 12 mega sections into a giga section
-Align administrator section to the left
-Add administrator image (stop hand nuvola)
-Add "under construction" icons to remodel page
-Make lead section collapse-capable
-Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
-Add anchor links to all headings
-More Emojis
-Best ever GitHub Stats A runs
-GitHub social statistics section
-
-Follower milestones
-
-1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
-Pets
-| Goats
-| Chickens
-| Horses
-| Fish
-| | Marine Biology repo
-| Dogs
-| Cats
-FreeCodeCamp
-Wikipedia and Wikipedia accounts, with source
-Alt account info
-Mastodon information
-Recent social media usage (Twitter deletion plans, Instagram account deleted)
-Labels
-A section about notable remodels, and links to affected versions (version ranges included)
-Timeline (2015-2024)
-Mention of RepoData
-Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
-License information and CLA
-More pictures (year 23 monument)
-Style guides
-CCM (Commit Count Milestones) listing
-Information on Takeout Tuesdays and the TRDLF
-Information about 2001, and the core region
-Information on Linux user groups (coming soon section)
-Awards (Saltine cracker)
-Information on GitHub profile achievements
-Region related software
-Raspberry Pi information
-Sponsor information
-SeansOSData information
-100 private repositories (as of 2024, Saturday, March 23rd)
-Blockchain, web -3
-Information on forks, how to find source, and the problem with forks on GitHub
-AUTOMATE2001 information
-Dream projects (Meadows, Bliss Browser)
-Learn repository
-Virtual machine info
-Artificial Intelligence projects
-Anime section
-History research + my areas of research
-Major project section: BlueberryOS
-Major project section: LocksmithOS
-Major project section: MailOS
-Major project: EMAIL 2.0
-Major project: EMAIL -3.0
-Major project: DMail
-Major project: CranberryOS
-Major project: uOffice
-Major project: Hospital defender
-Major project: LibreFlock
-Major project: PDSNet++
-Major project: NUNIX
-Major project: MetroTechno
-Fix existing mega project section: MEDOS
-Major project: PNC English
-Model project information
-File history removal notice at V101
-Collectives listing
-Operating Systems collective
-Video games collective
-Software LIBraries collective
-Communications collective
-Public Media Gallery
-Public domain gallery of myself
-Discussions for /seanpm2001/seanpm2001/
-Major project: BootDown
-Major project: AquariOS
-Major project: BathhouseOS
-Major project: MCPYE
-Major project: Tetris128
-Reference fork style guide in #forks
-Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
-anti-Google | to go under: stances
-Information on complexity
-Information on project difficulties
-George Floyd memorial and information on join dates for my online accounts
-Getting started
-Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
-Rename section: GitHub interactions
-| Move sections: GitHub interactions, Optimizing this page, and Developer limits into: About this page
-Add section: what's with all of the Emojis
-| With answer based on these terms: Navigation, design, use of almost every Emoji (or as many as possible) in a unique way
-Notes about calendar
-Notes about municipalities, etc
-Tabs and tab video (plus a sample, speed it up if needed)
-Update to document limits
-New flags
-Government section
-Model projects and model project status repository link
-Fix existing mega project section: Other projects
-Fix existing mega project section: Meadows
-Fix existing mega project section: WacOS
-Update to file tree (more entries, and condense new+existing ones)
-Update the file tree, and link to ROOTFILES.base
-Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
-Major project: Miscellaneous
-Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
-Make all language sections in major projects sections into dropdown sections
-Make all general information sections in major projects sections into dropdown sections
-Make all repository listing sections in major projects sections into dropdown sections
-Add comment markers to all details tags
-Fix rendering issue (2024.04.05)
-Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out)) finished much earlier than planned
-Add note about geography interests
-Fix section: Major project: SNU
-Fix section: Major project: Voice Synthesis
-Temporarily remove voice synthesis section
-Add logos for GOI and CCM
-Major project: LennyOS
-Get /Graphics/ versions of all /Media/ media, and give them better filenames
-Add icons for all social media services used
-Give identity theft a better name, and update the link in the guestbook section with this newly named section
-Improve Online identity section
-Music section | AudioDB, bandcamp
-Condensing the list a little bit, through dropdowns
-vCard and identification section (vCard may not be possible)
-Information on necroposting and project development cycle (in years)
-Favorite works
-Forks and browsing forks
-Internet status and speedtest link
-Self hosting plans for the future
-Nitrotype link
-Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
-💙️ Favorite works by other users
-Get logo for Wikimedia Commons
-Get logo for Wikibooks
-Get logo for Wikidata
-Get logo for WikiNews
-Get logo for WikiQuote
-Get logo for WikiSource
-Get logo for WikiSpecies
-Get logo for WikiVoyage
-Get logo for Wikimedia Incubator
-Get logo for Wikiversity
-Get logo for Wiktionary
-GistHub
-Politics and sexuality links, but not much information on this project alone
-Centering various tables and text
-No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
-Full repository listing (WIP)
-My server and server plans + request for help
-Nicknames (SEAN9000)
-Update information about Windows and MacOS support
-Section about upcoming projects
-Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
-UnSaaSS project
-Make use of video: confetti
-Make use of videos: GitHub weird behavior (2022) take 1 and take 2
-Make non-bitmap version of MEDOS 4 logo
-Replace all Markdown style images with HTML style images (completed, with 9 exceptions)
-Certificates
-Make use of image: Example/GitHub (social preview image)
-Make use of image: Memes/semicolons
-Make use of image: GitHub/Mona
-Common GitHub profile media section
-Résumé at top
-Add title attribute to all images (WIP)
-Properly format all img tags
-Keyword: " src=
-Should be replaced with:
-src="" alt=
-Add a link to the segment file for each section (WIP)
-Projects I have contributed to (updates to this section)
-Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
-Improvements to language translation process, and info on this
-Improvements to guestbook display - Dropdown of people who have signed - More links
-New translation methods
-Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
-Many modifications to existing text throughout the document
-Updates to Legend
-My web stack
-New icon to center at the top
-New style (custom headings, as images) also dividers
-My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
-```
-
-</details> <!-- End of completed remodel goals section !-->
-
-These are the completed goals of the remodel.
-
-They have been implemented.
-
-<!-- Spacing these out, so the image formats correctly !-->
-
-<details><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
-
-<img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile data%20for%20%40seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 90 of the remodel" width="448" height="5665">
-
-<img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile%20data%20for%20@seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 80 of the remodel" width="1920" height="16995">
-
-GitHub profile during remodel (images to include in remodel section)
-
-</details> <!-- End of remodel version 90 section !-->
-
-<!--
-<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-07 seanpm2001 - Overview.png&apos;</b></font>
-<font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-43 seanpm2001 - Overview.png&apos;</b></font></pre>
-!-->
-
-</details> <!-- End of remodel section !-->
-
-<!-- *** !-->
-
-<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
-
-_End of remodel section._
-
-</details> <!-- End of remodel section !-->
-
-- [`View this section separately`](/Segments/Remodel-in-progress/README.md)
-
----
-
-_End of remodel information_
-
-</details> <!-- End of remodel information section !-->
-
-<!-- *** !-->
-
-<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
-
 <img src="/Graphics/Dividers/PNG/Blue-Squares-Divider_2500x250_V1_HighCompression.png" alt="Blue Squares divider" width="2500" height="25">
 
 ## [🔗️ Quick links](#-Quick-links)
@@ -1489,7 +963,7 @@ _End of remodel information_
 
 </div>
 
-View this segment [in a separate file (coming soon)](/Segments/Quick-links/README.md)
+View this segment [in a separate file](/Segments/Quick-links/README.md)
 
 </details> <!-- End of Quick Links section !-->
 
@@ -1618,7 +1092,7 @@ It isn't exact, I have many interests. What I am always learning include:
 - Current world problems
 - Other (non-culinary)
 
-View this segment [in a separate file (coming soon)](/Segments/What-I-am-currently-learning/README.md)
+View this segment [in a separate file](/Segments/What-I-am-currently-learning/README.md)
 
 </details> <!-- End of What I'm currently learning section !-->
 
@@ -1729,7 +1203,7 @@ _End of What I have collaborated on subsection._
 
 ***
 
-View this segment [in a separate file (coming soon)](/Segments/What-I-am-looking-to-collaborate-on/README.md)
+View this segment [in a separate file](/Segments/What-I-am-looking-to-collaborate-on/README.md)
 
 _End of What I'm looking to collaborate on section._
 
@@ -1763,7 +1237,7 @@ I would prefer to help with projects written in Python 3, Markdown, HTML5, CSS3,
 
 No other limitations listed at the moment.
 
-View this segment [in a separate file (coming soon)](/Segments/What-I-am-looking-to-help-with/README.md)
+View this segment [in a separate file](/Segments/What-I-am-looking-to-help-with/README.md)
 
 </details> <!-- End of What I'm looking to help with section !-->
 
@@ -1779,7 +1253,7 @@ View this segment [in a separate file (coming soon)](/Segments/What-I-am-looking
 
 [:octocat: `My labels can be found here`](https://github.com/seanpm2001/Labels/)
 
-View this segment [in a separate file (coming soon)](/Segments/Labels/README.md)
+View this segment [in a separate file](/Segments/Labels/README.md)
 
 </details> <!-- End of labels section !-->
 
@@ -1838,7 +1312,7 @@ Project development cycle (in years)
 - - - - 4
 - Work in progress
 
-View this segment [in a separate file (coming soon)](/Segments/Necroposting/README.md)
+View this segment [in a separate file](/Segments/Necroposting/README.md)
 
 </details> <!-- End of necroposting section !-->
 
@@ -1858,7 +1332,7 @@ I fork projects I come across. I have plans to create a giant collection of fork
 
 I already created a `Fork` section, I may need to merge this section into it in the future.
 
-View this segment [in a separate file (coming soon)](/Segments/Forks-and-browsing-forks/README.md)
+View this segment [in a separate file](/Segments/Forks-and-browsing-forks/README.md)
 
 </details> <!-- End of Forks and browsing forks section !-->
 
@@ -1898,7 +1372,7 @@ This section is for projects I favorite that I have made, not other peoples proj
 
 ---
 
-View this segment [in a separate file (coming soon)](/Segments/Favorite-works/README.md)
+View this segment [in a separate file](/Segments/Favorite-works/README.md)
 
 _End of favorite works section._
 
@@ -1916,7 +1390,7 @@ _End of favorite works section._
 
 In the future, I plan to have a self-hosted version of my works as well. I plan to still retain accounts on GitHub, Mastodon, and other sites. Currently, I am having difficulties in researching and funding a proper Linux server, it is an area of active research. I plan to have 2 websites, one for personal work, and one for public work (both will be public facing websites) with many subdomains.
 
-View this segment [in a separate file (coming soon)](/Segments/Self-hosting-plans-for-the-future/README.md)
+View this segment [in a separate file](/Segments/Self-hosting-plans-for-the-future/README.md)
 
 _End of Self-hosting and plans for the future section._
 
@@ -1993,7 +1467,7 @@ Decommissioned hard drives:
 - Operating System: Ubuntu 20.04 (prior to 2022) Ubuntu 22.04 (present)
 - RAID: False
 
-View this segment [in a separate file (coming soon)](/Segments/My-server/README.md)
+View this segment [in a separate file](/Segments/My-server/README.md)
 
 _End of my server section._
 
@@ -2061,7 +1535,7 @@ This is a list of my other hobbies
 
 I am a intermediate photographer, and can take really good pictures without the need of manipulating the original image to make it better (other than the times I accidentally get my thumb in the shot) I can take photos for you when needed. My current camera is 4K (2160p, or 2K) 60 frames per second.
 
-View this segment [in a separate file (coming soon)](/Segments/Photography/README.md)
+View this segment [in a separate file](/Segments/Photography/README.md)
 
 </details> <!-- End of photography section !-->
 
@@ -2077,7 +1551,7 @@ I have always liked to swim. When I have a pool or hot tub available to me, I no
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Swimming/README.md)
+View this segment [in a separate file](/Segments/Swimming/README.md)
 
 </details> <!-- End of swimming section !-->
 
@@ -2095,7 +1569,7 @@ Lately, I mainly play mobile games, but from time to time, I will use a video ga
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Gaming/README.md)
+View this segment [in a separate file](/Segments/Gaming/README.md)
 
 </details> <!-- End of gaming section !-->
 
@@ -2141,7 +1615,7 @@ I mainly design logos, wallpapers, and social preview images for my projects. In
 
 _End of graphic design section._
 
-View this segment [in a separate file (coming soon)](/Segments/Graphic-design/README.md)
+View this segment [in a separate file](/Segments/Graphic-design/README.md)
 
 </details> <!-- End of graphic design section !-->
 
@@ -2351,7 +1825,7 @@ Pretty much anything, but mainly:
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/History-buff/README.md)
+View this segment [in a separate file](/Segments/History-buff/README.md)
 
 </details> <!-- End of history buff section !-->
 
@@ -2369,7 +1843,7 @@ I recently got back into Marine Biology on March 23rd 2021, and have been learni
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Marine-biology/README.md)
+View this segment [in a separate file](/Segments/Marine-biology/README.md)
 
 </details> <!-- End of marine biology section !-->
 
@@ -2391,7 +1865,7 @@ I plan to publish the full journal on Tuesday, May 15th 2040. For now, certain r
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Journaling/README.md)
+View this segment [in a separate file](/Segments/Journaling/README.md)
 
 </details> <!-- End of journaling section !-->
 
@@ -2425,7 +1899,7 @@ Some other cool sites:
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Vexillology/README.md)
+View this segment [in a separate file](/Segments/Vexillology/README.md)
 
 </details> <!-- End of vexillology section !-->
 
@@ -2443,7 +1917,7 @@ It is getting to the point where I can identify areas on maps without even looki
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Cartography/README.md)
+View this segment [in a separate file](/Segments/Cartography/README.md)
 
 </details> <!-- End of Cartography section !-->
 
@@ -2483,7 +1957,7 @@ I have an inactive Bandcamp account as well [`@SeanWallaWallaFan`](https://bandc
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Music/README.md)
+View this segment [in a separate file](/Segments/Music/README.md)
 
 </details> <!-- End of Music section !-->
 
@@ -2532,7 +2006,7 @@ Animes I have heard of, but don't have much interest in
 
 - Adachi and Shimamura
 
-View this segment [in a separate file (coming soon)](/Segments/Anime/README.md)
+View this segment [in a separate file](/Segments/Anime/README.md)
 
 </details> <!-- End of Anime section !-->
 
@@ -2540,7 +2014,7 @@ View this segment [in a separate file (coming soon)](/Segments/Anime/README.md)
 
 _End of other hobbies section_
 
-View this segment [in a separate file (coming soon)](/Segments/Other-hobbies/README.md)
+View this segment [in a separate file](/Segments/Other-hobbies/README.md)
 
 </details> <!-- End of other hobbies section !-->
 
@@ -2588,7 +2062,7 @@ Here is a history of my GitHub profile picture:
 
 - [`Archive.org entry for all profile pictures`](https://archive.org/details/Seanpm2001-Profile-Photos/)
 
-View this segment [in a separate file (coming soon)](/Segments/Profile-picture-history/README.md)
+View this segment [in a separate file](/Segments/Profile-picture-history/README.md)
 
 </details> <!-- End of profile picture history section !-->
 
@@ -2607,7 +2081,7 @@ View this segment [in a separate file (coming soon)](/Segments/Profile-picture-h
 - LIST OTHER JOIN DATES HERE
 - I joined GitHub on 2020, May 25th. This was the same day that George Floyd died. This was not intentional. I am working on a memorial for him, it is planned to be released 2024, May 25th. [:octocat: `George Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/)
 
-View this segment [in a separate file (coming soon)](/Segments/Join-date/README.md)
+View this segment [in a separate file](/Segments/Join-date/README.md)
 
 </details> <!-- End of join date section !-->
 
@@ -2627,7 +2101,7 @@ I was a fan of Windows up until Windows 10. I began to try to switch to Linux fr
 
 My first full on Linux operating system (other than Android 1.6) is Ubuntu 20.04. I am a very proud Linux user, as I am no longer constrained my forced updates, proprietary software and licensing, lack of control and customization, the fear of instability, and other issues I had with Windows 10. As of March 4th 2021, I am still using Linux on a daily basis, but my fear of Blue Screens has not gone away, sometimes even fearing I got a blue screen when I know that isn't even technically possible on Ubuntu (unless you had software that mimicks it) I originally was going to install Fedora 32 on my laptop when I got it, but I decided to give Ubuntu a try first. So far, I have liked it, except for 2 things: Snaps being proprietary, and the ugliness of GNOME 3.x (compared to earlier versions and other desktop environments, like the one I wanted but haven't installed yet; KDE)
 
-View this segment [in a separate file (coming soon)](/Segments/Linux/README.md)
+View this segment [in a separate file](/Segments/Linux/README.md)
 
 </details> <!-- End of Linux section !-->
 
@@ -2643,7 +2117,7 @@ View this segment [in a separate file (coming soon)](/Segments/Linux/README.md)
 
 My projects are very complex. I prefer it this way, as I see beauty in complexity, even when it is conflicting with the KISS (Keep It Simple, Stupid) principle
 
-View this segment [in a separate file (coming soon)](/Segments/Complexity/README.md)
+View this segment [in a separate file](/Segments/Complexity/README.md)
 
 </details> <!-- End of complexity section !-->
 
@@ -2659,7 +2133,7 @@ View this segment [in a separate file (coming soon)](/Segments/Complexity/README
 
 I keep a very complex calendar to organize my projects. It was started in 2022 December, when I upgraded my ProtonMail account.
 
-View this segment [in a separate file (coming soon)](/Segments/Calendar/README.md)
+View this segment [in a separate file](/Segments/Calendar/README.md)
 
 </details> <!-- End of calendar section !-->
 
@@ -2675,7 +2149,7 @@ View this segment [in a separate file (coming soon)](/Segments/Calendar/README.m
 
 Due to the quantity and complexity of my projects, I have difficulty maintaining it all. I never intended to do this all alone, and I desire developers wherever possible.
 
-View this segment [in a separate file (coming soon)](/Segments/Project-difficulties/README.md)
+View this segment [in a separate file](/Segments/Project-difficulties/README.md)
 
 </details> <!-- End of project difficulties section !-->
 
@@ -2691,7 +2165,7 @@ View this segment [in a separate file (coming soon)](/Segments/Project-difficult
 
 Technology, farming, life, language, other.
 
-View this segment [in a separate file (coming soon)](/Segments/Ask-me-about/README.md)
+View this segment [in a separate file](/Segments/Ask-me-about/README.md)
 
 </details> <!-- End of ask me about section !-->
 
@@ -4836,7 +4310,7 @@ I have some personal opinions on GitHub. I am working on keeping them contained 
 
 On GitHub, I have a lot of other personal projects, under the category of a life archive project, which I have been working on extra hard since 2016.
 
-View this segment [in a separate file (coming soon)](/Segments/Personal/README.md)
+View this segment [in a separate file](/Segments/Personal/README.md)
 
 _End of personal section._
 
@@ -4857,7 +4331,7 @@ This is considered one of my 3 sensitive areas. I cannot discuss it further here
 - [:octocat: `Politics`](https://github.com/seanpm2001/Politics/) - My political views are listed here and should absolutely NOT leak anywhere else. I felt like I needed to make the point that I wouldn't stay silent on some things.
 - - Sub project: [Pro-fascist or Anti-fascist](https://github.com/seanpm2001/Profa_Or_Antifa/) - A small political project educating people on the difference between being pro-fascist (supporting dictators) and anti-fascist (opposing dictators)
 
-View this segment [in a separate file (coming soon)](/Segments/Politics/README.md)
+View this segment [in a separate file](/Segments/Politics/README.md)
 
 _End of politics section._
 
@@ -4888,7 +4362,7 @@ I support:
 
 <!-- No other Emojis exist !-->
 
-View this segment [in a separate file (coming soon)](/Segments/Sexuality/README.md)
+View this segment [in a separate file](/Segments/Sexuality/README.md)
 
 _End of sexuality section._
 
@@ -4908,7 +4382,7 @@ This is considered one of my 3 sensitive areas. I cannot discuss it further here
 
 - [:octocat: `Opinions`](https://github.com/seanpm2001/Opinions/) - Opinions are documented here
 
-View this segment [in a separate file (coming soon)](/Segments/Opinions/README.md)
+View this segment [in a separate file](/Segments/Opinions/README.md)
 
 _End of opinions section._
 
@@ -5579,7 +5053,7 @@ As of 2022, August 5th, I was forced to delete all 1000 of my organizations. I d
 
 Note: my organizations had multiple purposes, but most of them aimed to serve as a categorized. collection of projects, or a homepage for a project.
 
-View this segment [in a separate file (coming soon)](/Segments/Former-organizations/README.md)
+View this segment [in a separate file](/Segments/Former-organizations/README.md)
 
 _End of former organizations section._
 
@@ -5597,7 +5071,7 @@ This Gist helps with:
 * Finding projects through filters
 * Finding additional projects that pass through filters
 
-View this segment [in a separate file (coming soon)](/Segments/Search-my-profile-easier-with-this-helpful-Gist/README.md)
+View this segment [in a separate file](/Segments/Search-my-profile-easier-with-this-helpful-Gist/README.md)
 
 _End of profile search help section._
 
@@ -5683,7 +5157,7 @@ Full statistics are available at [:octocat: `GitHub_Stats_A`](https://github.com
 
 ---
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-Stats-A/README.md)
+View this segment [in a separate file](/Segments/GitHub-Stats-A/README.md)
 
 _End of GitHub Stats A section._
 
@@ -5799,7 +5273,7 @@ https://github.com/seanpm2001/GitHub_Stats_B/blob/GitHub_Stats_B_Main-dev/GitHub
 
 Full statistics are available at [:octocat: `GitHub_Stats_B`](https://github.com/seanpm2001/GitHub_Stats_B/)
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-Stats-B/README.md)
+View this segment [in a separate file](/Segments/GitHub-Stats-B/README.md)
 
 _End of GitHub Stats B section._
 
@@ -5831,7 +5305,7 @@ From observing other accounts, I have noted that GitHub repositories get wonky a
 
 ***
 
-View this segment [in a separate file (coming soon)](/Segments/Commit-Count-Milestones/README.md)
+View this segment [in a separate file](/Segments/Commit-Count-Milestones/README.md)
 
 _End of Commit Count Milestones section._
 
@@ -5907,7 +5381,7 @@ _End of this section.
 
 <img src="/Graphics/Dividers/PNG/Lightning-Divider_2500x250_V1_HighCompression.png" alt="Lightning divider" width="2500" height="25">
 
-View this segment [in a separate file (coming soon)](/Segments/Commit-Calendar/README.md)
+View this segment [in a separate file](/Segments/Commit-Calendar/README.md)
 
 _End of Commit Calendar section._
 
@@ -6010,7 +5484,7 @@ _No other statistics sections available._
 
 - [Seanwallawalla](https://github.com/seanwallawalla)
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-contacts-family/README.md)
+View this segment [in a separate file](/Segments/GitHub-contacts-family/README.md)
 
 _End of GitHub contacts (family) section._
 
@@ -6062,7 +5536,7 @@ The friend ship is now departing. Destination: everywhere.
 
 - [Linus Torvalds](https://github.com/torvalds)
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-contacts-other/README.md)
+View this segment [in a separate file](/Segments/GitHub-contacts-other/README.md)
 
 _End of GitHub contacts (other) section._
 
@@ -6080,7 +5554,7 @@ Projects I am actively monitoring:
 - [Ruffle-rs](https://github.com/ruffle-rs/ruffle) - Ruffle, the open source flash player emulator
 - [CPython](https://github.com/python/cpython) - The Python programming language
 
-View this segment [in a separate file (coming soon)](/Segments/Subscriptions/README.md)
+View this segment [in a separate file](/Segments/Subscriptions/README.md)
 
 _End of subscriptions section._
 
@@ -6116,7 +5590,7 @@ I keep a single list file of all of my source repositories. It is currently a ma
 
 It can be found [`here`](/RepoList/README.urll)
 
-View this segment [in a separate file (coming soon)](/Segments/List-of-all-repositories/README.md)
+View this segment [in a separate file](/Segments/List-of-all-repositories/README.md)
 
 _End of list of all repositories section._
 
@@ -6136,7 +5610,7 @@ These website modules are used for maintaining GitHub functionality elsewhere.
 
 [SNU (2D) GitHub mode](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_GitHubMode/) - The GitHub mode submodule for the SNU website framework.
 
-View this segment [in a separate file (coming soon)](/Segments/Website-modules/README.md)
+View this segment [in a separate file](/Segments/Website-modules/README.md)
 
 _End of website modules section._
 
@@ -6167,7 +5641,7 @@ These templates are used to increase the efficiency of starting GitHub projects 
 - [Template: GitHub Pages (Default) (V7)](https://github.com/seanpm2001/Template_GitHubPages_Default_V7/) - Historical; my sixth template for automating GitHub pages in the default style. It was superceded by the V8 GitHub template (with 12+ variants)
 - **DOES NOT EXIST YET** [Template: GitHub Pages (Language page) (V7)](https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V7/) - Historical; my sixth template for automating GitHub pages in the language page (GitHub organization for categorizing projects written in a specific programming language) style. It was superceded by the V8 GitHub template (with 12+ variants)
 
-View this segment [in a separate file (coming soon)](/Segments/Template-projects/README.md)
+View this segment [in a separate file](/Segments/Template-projects/README.md)
 
 _End of template projects section._
 
@@ -6189,7 +5663,7 @@ The project is a community effort that is currently on hold. It can be found [:o
 
 - See also: [`GNU: Who does that server really serve?`](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)
 
-View this segment [in a separate file (coming soon)](/Segments/UnSaaSS-project/README.md)
+View this segment [in a separate file](/Segments/UnSaaSS-project/README.md)
 
 _End of UnSaaSS project section._
 
@@ -6219,7 +5693,7 @@ I have several upcoming projects that I currently can only list the abbreviation
 
 They are currently private. I normally don't keep projects private for this long, but I have special reasons for this.
 
-View this segment [in a separate file (coming soon)](/Segments/Upcoming-projects/README.md)
+View this segment [in a separate file](/Segments/Upcoming-projects/README.md)
 
 _End of upcoming projects section._
 
@@ -6239,7 +5713,7 @@ Other uncategorized projects.
 
 [AUTOMATE-2001](https://github.com/seanpm2001/AUTOMATE-2001/) - A personal use automation tool for automating my automatable tasks on GitHub. It is far from complete, and is not functional yet.
 
-View this segment [in a separate file (coming soon)](/Segments/Other-projects/README.md)
+View this segment [in a separate file](/Segments/Other-projects/README.md)
 
 _End of other projects section._
 
@@ -6311,7 +5785,7 @@ This is a list of the platforms I develop for:
 - [ ] ChromeOS/ChromiumOS **NOT SUPPORTED**
 - [x] Android (partially supported)
 
-View this segment [in a separate file (coming soon)](/Segments/Linux-platform-support/README.md)
+View this segment [in a separate file](/Segments/Linux-platform-support/README.md)
 
 _End of Linux platform support section._
 
@@ -6356,7 +5830,7 @@ BSD systems I provide software support for.
 
 I plan to support BSD more in the future when I know more about it. (MacOS counts as BSD, I think)
 
-View this segment [in a separate file (coming soon)](/Segments/BSD-platform-support/README.md)
+View this segment [in a separate file](/Segments/BSD-platform-support/README.md)
 
 _End of BSD platform support section._
 
@@ -6390,7 +5864,7 @@ _End of BSD platform support section._
 - [x] Windows 11
 - [ ] Windows Server 2022 (not yet supported, virtual machine setup issues)
 
-View this segment [in a separate file (coming soon)](/Segments/Windows-platform-support/README.md)
+View this segment [in a separate file](/Segments/Windows-platform-support/README.md)
 
 _End of Windows platform support section._
 
@@ -6407,7 +5881,7 @@ _End of Windows platform support section._
 - [ ] Solaris **NOT SUPPORTED**
 - [x] OpenSolaris (partially supported)
 
-View this segment [in a separate file (coming soon)](/Segments/Other-platform-support/README.md)
+View this segment [in a separate file](/Segments/Other-platform-support/README.md)
 
 _End of other platform support section._
 
@@ -6415,7 +5889,7 @@ _End of other platform support section._
 
 ---
 
-View this segment [in a separate file (coming soon)](/Segments/Platforms-I-develop-for/README.md)
+View this segment [in a separate file](/Segments/Platforms-I-develop-for/README.md)
 
 _End of platform support section._
 
@@ -6488,7 +5962,7 @@ These will be the featured repositories for the time being.
 
 ***
 
-View this segment [in a separate file (coming soon)](/Segments/Repository-of-the-day/README.md)
+View this segment [in a separate file](/Segments/Repository-of-the-day/README.md)
 
 _No other featured projects currently listed._
 
@@ -6514,7 +5988,7 @@ Section is currently empty
 
 ***
 
-View this segment [in a separate file (coming soon)](/Segments/My-goals/README.md)
+View this segment [in a separate file](/Segments/My-goals/README.md)
 
 _No other goals currently listed._
 
@@ -6550,7 +6024,7 @@ I renounce all Copyright to my projects, regardless of their license, and replac
 
 - [:octocat: `Contributor License Agreement (CLA)`](https://github.com/seanpm2001/CLA/)
 
-View this segment [in a separate file (coming soon)](/Segments/License/README.md)
+View this segment [in a separate file](/Segments/License/README.md)
 
 _No other license information currently listed._
 
@@ -6568,7 +6042,7 @@ _No other license information currently listed._
 
 My repositories follow various style guides, which can be found [:octocat: `here`](https://github.com/seanpm2001/Seanpm2001-StyleGuides/)
 
-View this segment [in a separate file (coming soon)](/Segments/Style-guides/README.md)
+View this segment [in a separate file](/Segments/Style-guides/README.md)
 
 _No other style guides currently listed._
 
@@ -6668,7 +6142,7 @@ A small repository of mine that showcases repositories that are based around a s
 
 For further information, go to the official [:octocat: `Region-related software repository`](https://github.com/seanpm2001/Region-related-software/)
 
-View this segment [in a separate file (coming soon)](/Segments/Region-related-software/README.md)
+View this segment [in a separate file](/Segments/Region-related-software/README.md)
 
 _No other region related sofware currently listed._
 
@@ -6692,7 +6166,7 @@ Learn is a repository of mine that showcases my knowledge of various programming
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Learn/README.md)
+View this segment [in a separate file](/Segments/Learn/README.md)
 
 _No other learn repository information listed._
 
@@ -6714,7 +6188,7 @@ AUTOMATE2001 is my personal automation tool. It is a major work in progress.
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/AUTOMATE2001/README.md)
+View this segment [in a separate file](/Segments/AUTOMATE2001/README.md)
 
 _No other AUTOMATE2001 information listed._
 
@@ -6736,7 +6210,7 @@ As of 2024, Monday, May 20th, I have 120 private repositories.
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Private-repositories/README.md)
+View this segment [in a separate file](/Segments/Private-repositories/README.md)
 
 _No other private repository information listed._
 
@@ -6762,7 +6236,7 @@ Every month, the archive repository of the blog is updated with new data:
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Raspberry-Pi/README.md)
+View this segment [in a separate file](/Segments/Raspberry-Pi/README.md)
 
 _No other Raspberry Pi information listed._
 
@@ -6782,7 +6256,7 @@ I had previously feared Artificial Intelligence, as I didn't know much about it.
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Artificial-Intelligence-projects/README.md)
+View this segment [in a separate file](/Segments/Artificial-Intelligence-projects/README.md)
 
 _No other Artificial Intelligence project information listed._
 
@@ -6804,7 +6278,7 @@ The project can be found [:octocat: `here`](https://github.com/seanpm2001/SeansO
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/SeansOSData-project/README.md)
+View this segment [in a separate file](/Segments/SeansOSData-project/README.md)
 
 _No other SeansOSData project information listed._
 
@@ -6824,7 +6298,7 @@ I absolutely love virtual machines and emulators. It is one of my favorite thing
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Virtual-machine-information/README.md)
+View this segment [in a separate file](/Segments/Virtual-machine-information/README.md)
 
 _No other virtual machine information listed._
 
@@ -6864,7 +6338,7 @@ Blockchain and crypto mining is bad for the environment, and it is actively hurt
 
 Nonetheless, due to my follow for follow promise, I still follow a lot of NFT/cryptocurrency bots that follow me.
 
-View this segment [in a separate file (coming soon)](/Segments/Thoughts-on-blockchain-and-web-minus-3/README.md)
+View this segment [in a separate file](/Segments/Thoughts-on-blockchain-and-web-minus-3/README.md)
 
 _No other thoughts on blockchain and web -3 information listed._
 
@@ -6884,7 +6358,7 @@ GitHub released achievements in 2020, with the arctic code vault achievement, an
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/GitHub-profile-achievements/README.md)
+View this segment [in a separate file](/Segments/GitHub-profile-achievements/README.md)
 
 _No other GitHub profile achievements information listed._
 
@@ -6904,7 +6378,7 @@ I refer to my headquarters as the core, and 2001 is its number. 2001 holds a lot
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/2001-and-the-core/README.md)
+View this segment [in a separate file](/Segments/2001-and-the-core/README.md)
 
 _No other 2001/CORE information listed._
 
@@ -6928,7 +6402,7 @@ Previously, if the account of a fork got suspended/deleted, you could still see 
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Forks/README.md)
+View this segment [in a separate file](/Segments/Forks/README.md)
 
 _No other fork information listed._
 
@@ -6948,7 +6422,7 @@ I am working on starting my own GNU/Linux User Group. It is a work in progress.
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Linux-User-Groups/README.md)
+View this segment [in a separate file](/Segments/Linux-User-Groups/README.md)
 
 _No other Linux User Group information listed._
 
@@ -6980,7 +6454,7 @@ This is a series of notes regarding the title and description of repositories. I
 
 ---
 
-View this segment [in a separate file (coming soon)](/Segments/RepoData/README.md)
+View this segment [in a separate file](/Segments/RepoData/README.md)
 
 _No other RepoData information listed._
 
@@ -7010,7 +6484,7 @@ I give out Saltine Cracker Awards. See the criteria and information about them [
 
 ---
 
-View this segment [in a separate file (coming soon)](/Segments/Awards/README.md)
+View this segment [in a separate file](/Segments/Awards/README.md)
 
 _End of awards section_
 
@@ -7136,7 +6610,7 @@ This section is used to raise awareness for the problems with DRM, and also to p
 
 Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
 
-View this segment [in a separate file (coming soon)](/Segments/Software-status/README.md)
+View this segment [in a separate file](/Segments/Software-status/README.md)
 
 _End of Software status section_
 
@@ -7224,7 +6698,7 @@ GitHub doesn't allow permanent video embed links that let you see the file in th
 
 [/Graphics/Confetti/WebM/GitHub_Confetti_2021September30th_WacOS_Cloud_1080p.webm](/Graphics/Confetti/WebM/GitHub_Confetti_2021September30th_WacOS_Cloud_1080p.webm)
 
-View this segment [in a separate file (coming soon)](/Segments/Confetti/README.md)
+View this segment [in a separate file](/Segments/Confetti/README.md)
 
 _End of Confetti section_
 
@@ -7500,7 +6974,7 @@ Notable programmer humor
 
 </details> <!-- End of indentation humor section !-->
 
-View this segment [in a separate file (coming soon)](/Segments/Humor/README.md)
+View this segment [in a separate file](/Segments/Humor/README.md)
 
 _End of humor section_
 
@@ -7790,11 +7264,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `138 (2024, Friday, May 24th at 08:12 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,257`
-- **Word count:** `073,374`
-- **Character count (with spaces):** `0,501,158 characters`
-- **Character count (without spaces)** `0,436,891 characters`
+- **File version:** `139 (2024, Saturday, May 25th at 12:10 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,278`
+- **Word count:** `073,529`
+- **Character count (with spaces):** `0,502,154 characters`
+- **Character count (without spaces)** `0,437,777 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7803,7 +7277,7 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-View this segment [in a separate file (coming soon)](/Segments/File-info/README.md)
+View this segment [in a separate file](/Segments/File-info/README.md)
 
 </details> <!-- End of File info section !-->
 
@@ -9130,11 +8604,35 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 ---
 
-<details><summary><b lang="en">Version 139 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 139 (2024, Saturday, May 25th at 12:10 pm PST)</b></summary>
+
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
+
+> **Note** _This is the sixty-third update in part of a major remodel of this profile README. It is the final release in the 4 year anniversary update. This update just cleans up content regarding the remodel, and is the final update of the 4 year anniversary update. This doesn't mean it is the final update to this README file. Fixes and changes will still be made, albeit less often._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated information on the remodel of this project
+- [x] Added some more dividers
+- [x] Moved some sections around
+- [x] Minor changes
+- [x] Updated the `Top test zone` section
+- [x] Updated the `Size warning` section
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Updated the `Optimizing this page` section
+- [x] Updated the `Remodel history` section
+- [x] Updated the `Developer limits` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 139
+- [x] Updated the `Footer`
+- - [x] Updated tables
+- - [x] Moved tables to another section (past remodels)
 - [ ] No other changes in version 139
 
 </details> <!-- End of V139 !-->
@@ -9814,7 +9312,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-info/README.
 
 _End of file version history_
 
-View this segment [in a separate file (coming soon)](/Segments/File-history/README.md)
+View this segment [in a separate file](/Segments/File-history/README.md)
 
 </details> <!-- End of file history section !-->
 
@@ -9830,7 +9328,7 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 
 <details><summary><p><b>Click/tap here to expand/collapse the section about the remodel history of this page</b></p></summary>
 
-## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 24th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-24th)
+## [4️⃣️ 4 year anniversary update remodel (2024, March 23rd to 2024, May 25th)](#-4-year-anniversary-update-remodel--2024-March-23rd-to-2024-May-25th)
 
 <!-- TODO This section cannot be removed until version 65 of the 4 year anniversary update is released !-->
 
@@ -9900,14 +9398,566 @@ View this segment [in a separate file (coming soon)](/Segments/File-history/READ
 - - [Link to remodel section version 62 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V62.md)
 - - [Link to remodel section version 63 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V63.md)
 - - [Link to remodel section version 64 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V64.md)
+- - [Link to remodel section version 65 (separate file)](/Remodels/2024/!OldVersions/README/English/USA/README_V65.md)
 
 </details> <!-- End of remodel history section !-->
+
+
+| :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
+|---|---|
+| **Version 139** | _2024, Saturday, May 25th._ |
+| **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
+
+<div align="center">
+
+| 📣️ Feedback 💬️ |
+|---|
+| <p align="center"><b>💬️ Feedback 📣️</b></p> |
+
+</div>
+
+| 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
+|---|---|
+| [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
+| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/136/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
+| <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
+
+| [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
+|---|---|
+| _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my GitHub profile per day._ | _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my alternative GitHub profile per day._ |
+| _Please account for time zones._ | _The first consecutive snapshot was April 9th GMT, but I use PST, so it was still April 8th when I took the snapshot._ |
+| _Also note:_ | _Snapshots usually show up 1-2 days after being taken._ |
 
 ---
 
 _End of remodel history section._
 
-View this segment [in a separate file (coming soon)](/Segments/Remodel-hisotry/README.md)
+View this segment [in a separate file](/Segments/Remodel-hisotry/README.md)
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+# [💣️ Size warning](#-Size-warning)
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/4-Year-Anniversary-Update/Errors/4YearAnniversaryUpdate_Beta14_Issue.png" alt="This repository is taking too long to load image" title="GitHub refuses to render beta 14 due to about 30+ unclosed details tags" width="800" height="140"> |
+|---|
+| **This issue started with beta 14 of the 4 year anniversary update, and was fixed with beta 15** |
+
+- [2024.04.04] On 2024, Thursday, April 4th, the document surpassed 500 kilobytes in size. The file no longer is previewable on GitHub while editing, making debugging a lot harder. This document is close to reaching the GitHub 524.288 kilobyte size limit, so the bottom segments of the page may no longer load.
+- [2024.04.05] The amount has dropped down with the 2024, Friday, April 5th update, but I still can't get the document to render now
+- [2024.04.06] The file is back to normal standing, and the rendering issue has been fixed. I am still working on keeping the file under 524,289 bytes
+- [2024.04.07] Something may need to be done with the `What I'm currently working on§Major projects` section, as it is the biggest part of this file, yet it can't be shrunk easily. I am still working on keeping the file under 524,289 bytes
+- [2024.04.08] Size wasn't as much of a concern today, but I am still being cautious
+- [2024.04.09] Size is becoming a concern again, as I have less than 10% capacity for new content here. Also, the file is over 10,000 lines long again.
+- [2024.04.10] Size is now a major concern, as I have less than 5% capacity for new content now.
+- [2024.04.11] Reaching critical mass. Parts of the bottom of the file may not render if the size continues to grow without control.
+- [2024.04.12] The file hit its size limit today, so I moved the `What I'm currently working on` section out into a separate page, which saves 209,975 bytes (209.97 kilobytes) nearly 40% of the document. Issues with size should not recur again for some time.
+- [2024.04.13] -> [2024.04.16] No updates for this date.
+- [2024.04.17] No concerns about the file size were present today, but the file did drop nearly 100 kilobytes in size today with the removal of the file history 
+for versions 1 to 100 (these versions are now present only in older versions
+- [2024.04.18] -> [2024.04.28] No updates for this date.
+- [2024.04.29] The major revision under way to the current hardware and software setup may cause a conflict with the file size
+- [2024.04.30] -> [2024.05.05] No updates for this date.
+- [2024.05.06] The document is very close to again reaching and surpassing 80.000% capacity, and will need to be modified to fix this before it reaches 100%
+- [2024.05.07] The document has reached and surpassed 80.000% capacity again, and will need to be modified to fix this before it reaches 100%
+- [2024.05.08] -> [2024.05.11] No updates for this date.
+- [2024.05.12] The file is still rapidly growing, but I feel it will stay within the 512 KiB boundary by the time I finish on May 25th. Today, the file surpassed 10,000 lines of code again.
+- [2024.05.13] -> [2024.05.18] No updates for this date.
+- [2024.05.19] The file reached 90% capacity, but the final update for now will be made in a few days, so it isn't concerning.
+- [2024.05.20] The file is now critically close to the limit, due to heavy use of dividers (on average: about 150 characters each)
+- [2024.05.21] -> [2024.05.24] No updates for this date.
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<details><summary><p><b>Click/tap here to expand/collapse a preview of the size error (various sizes)</b></p></summary>
+
+| V1 | V2 | V3 | V4 | V5 |
+|---|---|---|---|---|
+| <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-10-47%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-10-47 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V1" width="1920" height="13028"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-08%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-08 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V2" width="1920" height="6487"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-19%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-19 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V3" width="1920" height="5824"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-27%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-27 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V4" width="1920" height="4374"> | <img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-05%20at%2000-11-38%20Editing%20seanpm2001_README.md%20at%20master%20·%20seanpm2001_seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-05 at 00-11-38 Editing seanpm2001_README.md at master · seanpm2001_seanpm2001.png" title="Size error V5" width="1920" height="2051"> |
+
+</details> <!-- End of Size error image section !-->
+
+***
+
+_End of size warning section._
+
+- [`View this section separately`](/Segments/Size-warning/README.md)
+
+</details> <!-- End of size warning section !-->
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+# [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
+
+> **Note** _Remodel is no longer in process, as of 2024, Saturday, May 25th._
+
+<img src="/Graphics/Under-construction/Under_construction_icon-green.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
+
+| **4 year anniversary update** |
+|-------------------------------|
+| `4 year anniversary update (finale) - 2024, Saturday, May 25th` |
+| **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
+
+<img src="/Graphics/Under-construction/Under_construction_icon-orange.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="right" style="margin-right: 30px">
+
+<details><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
+
+I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
+
+- **Note to self:** _Feel free to add more entries whenever necessary_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 64 days down, 0 days to go, as of 2024, Saturday, May 25th.)_
+
+- Plans on what to do at the end:
+- - Release 64: Finish up the remaining goals
+- - Release 65: Move the remodel section somewhere else, remove several tables from the footer, wrap up the writing to indicate a remodel is no longer in progress.
+
+<details open><summary><p><b>Click/tap here to expand/collapse the release timeline subsection</b></p></summary>
+
+<div align="center">
+
+| 📈️ **Timeline** 📉️ |
+|---------------------|
+| 📉️ **Timeline** 📈️ |
+
+| 0️⃣️3️⃣️ **2024 March** |
+|---|
+| 0️⃣️3️⃣️ **2024 March** |
+
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 March timeline subsection</b></p></summary>
+
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|---|---|---|
+| [`Beta 1`](/Remodels/2024/!OldVersions/README/English/USA/README_V1.md) | 2024, Saturday, March 23rd | 01 |
+| [`Beta 2`](/Remodels/2024/!OldVersions/README/English/USA/README_V2.md) | 2024, Saturday, March 23rd | 01 |
+| [`Beta 3`](/Remodels/2024/!OldVersions/README/English/USA/README_V3.md) | 2024, Sunday, March 24th | 02 |
+| [`Beta 4`](/Remodels/2024/!OldVersions/README/English/USA/README_V4.md) | 2024, Monday, March 25th | 03 |
+| [`Beta 5`](/Remodels/2024/!OldVersions/README/English/USA/README_V5.md) | 2024, Tuesday, March 26th | 04 |
+| [`Beta 6`](/Remodels/2024/!OldVersions/README/English/USA/README_V6.md) | 2024, Wednesday, March 27th | 05 |
+| [`Beta 7`](/Remodels/2024/!OldVersions/README/English/USA/README_V7.md) | 2024, Thursday, March 28th | 06 |
+| [`Beta 8`](/Remodels/2024/!OldVersions/README/English/USA/README_V8.md) | 2024, Friday, March 29th | 07 |
+| [`Beta 9`](/Remodels/2024/!OldVersions/README/English/USA/README_V9.md) | 2024, Saturday, March 30th | 08 |
+| [`Beta 10`](/Remodels/2024/!OldVersions/README/English/USA/README_V10.md) | 2024, Sunday, March 31st | 09 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+
+</details> <!-- End of 2024 March release timeline table !-->
+
+| 0️⃣️4️⃣️ ***2024 April*** |
+|---|
+| 0️⃣️4️⃣️ ***2024 April*** |
+
+<details><summary><p><b>Click/tap here to expand/collapse the 2024 April timeline subsection</b></p></summary>
+
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|---|---|---|
+| [`Beta 11`](/Remodels/2024/!OldVersions/README/English/USA/README_V11.md) | 2024, Monday, April 1st | 10 |
+| [`Beta 12`](/Remodels/2024/!OldVersions/README/English/USA/README_V12.md) | 2024, Tuesday, April 2nd | 11 |
+| [`Beta 13`](/Remodels/2024/!OldVersions/README/English/USA/README_V13.md) | 2024, Wednesday, April 3rd | 12 |
+| [`Beta 14`](/Remodels/2024/!OldVersions/README/English/USA/README_V14.md) | 2024, Thursday, April 4th | 13 |
+| [`Beta 15`](/Remodels/2024/!OldVersions/README/English/USA/README_V15.md) | 2024, Friday, April 5th | 14 |
+| [`Beta 16`](/Remodels/2024/!OldVersions/README/English/USA/README_V16.md) | 2024, Saturday, April 6th | 15 |
+| [`Beta 17`](/Remodels/2024/!OldVersions/README/English/USA/README_V17.md) | 2024, Sunday, April 7th | 16 |
+| [`Beta 18`](/Remodels/2024/!OldVersions/README/English/USA/README_V18.md) | 2024, Monday, April 8th | 17 |
+| [`Beta 19`](/Remodels/2024/!OldVersions/README/English/USA/README_V19.md) | 2024, Tuesday, April 9th | 18 |
+| [`Beta 20`](/Remodels/2024/!OldVersions/README/English/USA/README_V20.md) | 2024, Wednesday, April 10th | 19 |
+| [`Beta 21`](/Remodels/2024/!OldVersions/README/English/USA/README_V21.md) | 2024, Thursday, April 11th | 20 |
+| [`Beta 22`](/Remodels/2024/!OldVersions/README/English/USA/README_V22.md) | 2024, Friday, April 12th | 21 |
+| [`Beta 23`](/Remodels/2024/!OldVersions/README/English/USA/README_V23.md) | 2024, Saturday, April 13th | 22 |
+| [`Beta 24`](/Remodels/2024/!OldVersions/README/English/USA/README_V24.md) | 2024, Sunday, April 14th | 23 |
+| [`Beta 25`](/Remodels/2024/!OldVersions/README/English/USA/README_V25.md) | 2024, Tuesday, April 16th (1 day late) | 24 |
+| [`Beta 26`](/Remodels/2024/!OldVersions/README/English/USA/README_V26.md) | 2024, Tuesday, April 16th | 25 |
+| [`Beta 27`](/Remodels/2024/!OldVersions/README/English/USA/README_V27.md) | 2024, Wednesday, April 17th | 26 |
+| [`Beta 28`](/Remodels/2024/!OldVersions/README/English/USA/README_V28.md) | 2024, Thursday, April 18th | 27 |
+| [`Beta 29`](/Remodels/2024/!OldVersions/README/English/USA/README_V29.md) | 2024, Friday, April 19th | 28 |
+| [`Beta 30`](/Remodels/2024/!OldVersions/README/English/USA/README_V30.md) | 2024, Saturday, April 20th | 29 |
+| [`Beta 31`](/Remodels/2024/!OldVersions/README/English/USA/README_V31.md) | 2024, Sunday, April 21st | 30 |
+| [`Beta 32`](/Remodels/2024/!OldVersions/README/English/USA/README_V32.md) | 2024, Monday, April 22nd | 31 |
+| [`Beta 33`](/Remodels/2024/!OldVersions/README/English/USA/README_V33.md) | 2024, Tuesday, April 23rd | 32 |
+| [`Beta 34`](/Remodels/2024/!OldVersions/README/English/USA/README_V34.md) | 2024, Wednesday, April 24th | 33 |
+| [`Beta 35`](/Remodels/2024/!OldVersions/README/English/USA/README_V35.md) | 2024, Thursday, April 25th | 34 |
+| [`Beta 36`](/Remodels/2024/!OldVersions/README/English/USA/README_V36.md) | 2024, Friday, April 26th | 35 |
+| [`Beta 37`](/Remodels/2024/!OldVersions/README/English/USA/README_V37.md) | 2024, Saturday, April 27th | 36 |
+| [`Beta 38`](/Remodels/2024/!OldVersions/README/English/USA/README_V38.md) | 2024, Sunday, April 28th | 37 |
+| [`Beta 39`](/Remodels/2024/!OldVersions/README/English/USA/README_V39.md) | 2024, Monday, April 29th | 38 |
+| [`Beta 40`](/Remodels/2024/!OldVersions/README/English/USA/README_V40.md) | 2024, Tuesday, April 30th | 39 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+
+</details> <!-- End of 2024 April release timeline table !-->
+
+| 0️⃣️5️⃣️ **2024 May** |
+|---|
+| 0️⃣️5️⃣️ **2024 May** |
+
+<details open><summary><p><b>Click/tap here to expand/collapse the 2024 May timeline subsection</b></p></summary>
+
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+|---|---|---|
+| [`Beta 41`](/Remodels/2024/!OldVersions/README/English/USA/README_V41.md) | 2024, Wednesday, May 1st | 40 |
+| [`Beta 42`](/Remodels/2024/!OldVersions/README/English/USA/README_V42.md) | 2024, Thursday, May 2nd | 41 |
+| [`Beta 43`](/Remodels/2024/!OldVersions/README/English/USA/README_V43.md) | 2024, Friday, May 3rd | 42 |
+| [`Beta 44`](/Remodels/2024/!OldVersions/README/English/USA/README_V44.md) | 2024, Saturday, May 4th | 43 |
+| [`Beta 45`](/Remodels/2024/!OldVersions/README/English/USA/README_V45.md) | 2024, Sunday, May 5th | 44 |
+| [`Beta 46`](/Remodels/2024/!OldVersions/README/English/USA/README_V46.md) | 2024, Monday, May 6th | 45 |
+| [`Beta 47`](/Remodels/2024/!OldVersions/README/English/USA/README_V47.md) | 2024, Tuesday, May 7th | 46 |
+| [`Beta 48`](/Remodels/2024/!OldVersions/README/English/USA/README_V48.md) | 2024, Thursday, May 9th (1 day late) | 47 |
+| [`Beta 49`](/Remodels/2024/!OldVersions/README/English/USA/README_V49.md) | 2024, Thursday, May 9th | 48 |
+| [`Beta 50`](/Remodels/2024/!OldVersions/README/English/USA/README_V50.md) | 2024, Friday, May 10th | 49 |
+| [`Beta 51`](/Remodels/2024/!OldVersions/README/English/USA/README_V51.md) | 2024, Saturday, May 11th | 50 |
+| [`Beta 52`](/Remodels/2024/!OldVersions/README/English/USA/README_V52.md) | 2024, Sunday, May 12th | 51 |
+| [`Beta 53`](/Remodels/2024/!OldVersions/README/English/USA/README_V53.md) | 2024, Monday, May 13th | 52 |
+| [`Beta 54`](/Remodels/2024/!OldVersions/README/English/USA/README_V54.md) | 2024, Tuesday, May 14th | 53 |
+| [`Beta 55`](/Remodels/2024/!OldVersions/README/English/USA/README_V55.md) | 2024, Wednesday, May 15th | 54 |
+| [`Beta 56`](/Remodels/2024/!OldVersions/README/English/USA/README_V56.md) | 2024, Monday, May 20th (4 days late) | 55 |
+| [`Beta 57`](/Remodels/2024/!OldVersions/README/English/USA/README_V57.md) | 2024, Monday, May 20th (3 days late) | 56 |
+| [`Beta 58`](/Remodels/2024/!OldVersions/README/English/USA/README_V58.md) | 2024, Monday, May 20th (2 days late) | 57 |
+| [`Beta 59`](/Remodels/2024/!OldVersions/README/English/USA/README_V59.md) | 2024, Monday, May 20th (1 day late) | 58 |
+| [`Beta 60`](/Remodels/2024/!OldVersions/README/English/USA/README_V60.md) | 2024, Monday, May 20th | 59 |
+| [`Beta 61`](/Remodels/2024/!OldVersions/README/English/USA/README_V61.md) | 2024, Tuesday, May 21st | 60 |
+| [`Beta 62`](/Remodels/2024/!OldVersions/README/English/USA/README_V62.md) | 2024, Wednesday, May 22nd | 61 |
+| [`Beta 63`](/Remodels/2024/!OldVersions/README/English/USA/README_V63.md) | 2024, Friday, May 24th (1 day late) | 62 |
+| [`Beta 64`](/Remodels/2024/!OldVersions/README/English/USA/README_V64.md) | 2024, Friday, May 24th | 63 |
+| [`4 year anniversary update`](/Remodels/2024/!OldVersions/README/English/USA/README_V65.md) | 2024, Saturday, May 25th | 64 |
+| 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
+
+</details> <!-- End of 2024 May release timeline table !-->
+
+</div>
+
+</details> <!-- End of release timeline section !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<!-- *** !-->
+
+<details><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
+
+<img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
+
+| 📋️ ***Task incompletion progress*** ❌️ |
+|---|
+| `000` **/** `236` **tasks** _(000.00%)_ |
+| _as of 2024, Saturday, May 25th._ |
+
+- **Current tasks to do (001 tasks, as of 2024, Saturday, May 25th.)**
+- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
+
+<details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
+
+```
+NONE
+```
+
+</details> <!-- End of current remodel goals section !-->
+
+These are the current goals of the remodel.
+
+They are a work in progress.
+
+<!-- Spacing these out, so the image formats correctly !-->
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+<img src="/Graphics/Under-construction/Underconstruction_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, Saturday, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
+
+| ✅️ ***Task completion progress*** 📋️ |
+|---|
+| `236` **/** `236` **tasks** _(100.00%)_ |
+| _as of 2024, Saturday, May 25th._ |
+
+- **Tasks implemented so far (236 tasks, as of 2024, Saturday, May 25th.)**
+- Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
+
+<details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
+
+```
+Add copyleft notice, and license notice (GPL3) to the footer, similar to your recent Favicon Pages projects.
+
+Display this
+
+|``|`
+**seanpm2001/seanpm2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+|`|``|
+
+- 🔭 I’m currently working on _a variety of projects_
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: _[social media list, email]_
+- 😄 Pronouns: _He/Him_
+- ⚡ Fun fact: ...
+
+Radio section
+Ukraine message
+DIVIDE THE PAGE INTO MAJOR SECTIONS (MAJOR GOAL, EMPHASIZED)
+
+| Lead (header)
+| About me
+| | Life
+| | Technology
+| | | Statistics
+| | Family
+| | Friends
+| My projects
+| | My goals
+| | Documentation
+| About this page
+| Footer
+
+GitHub skyline 2024
+Succeeded by: Incumbent
+Preceeded by: Seanwallawalla <- SeanTRM
+Add local links to the best GitHub Stats A workflow runs
+Collapse the 12 mega sections into a giga section
+Align administrator section to the left
+Add administrator image (stop hand nuvola)
+Add "under construction" icons to remodel page
+Make lead section collapse-capable
+Under the file info megasection, add a section about past remodels, and include a place for the message about the current remodel. These should be links to separate files (the remodel message should be a separate file)
+Add anchor links to all headings
+More Emojis
+Best ever GitHub Stats A runs
+GitHub social statistics section
+
+Follower milestones
+
+1,000 - 2024, Tuesday, March 19th (difficulties staying above 1k)
+Pets
+| Goats
+| Chickens
+| Horses
+| Fish
+| | Marine Biology repo
+| Dogs
+| Cats
+FreeCodeCamp
+Wikipedia and Wikipedia accounts, with source
+Alt account info
+Mastodon information
+Recent social media usage (Twitter deletion plans, Instagram account deleted)
+Labels
+A section about notable remodels, and links to affected versions (version ranges included)
+Timeline (2015-2024)
+Mention of RepoData
+Starlist, forklist, followlist, and watchlist at top (mostly links, some icons)
+License information and CLA
+More pictures (year 23 monument)
+Style guides
+CCM (Commit Count Milestones) listing
+Information on Takeout Tuesdays and the TRDLF
+Information about 2001, and the core region
+Information on Linux user groups (coming soon section)
+Awards (Saltine cracker)
+Information on GitHub profile achievements
+Region related software
+Raspberry Pi information
+Sponsor information
+SeansOSData information
+100 private repositories (as of 2024, Saturday, March 23rd)
+Blockchain, web -3
+Information on forks, how to find source, and the problem with forks on GitHub
+AUTOMATE2001 information
+Dream projects (Meadows, Bliss Browser)
+Learn repository
+Virtual machine info
+Artificial Intelligence projects
+Anime section
+History research + my areas of research
+Major project section: BlueberryOS
+Major project section: LocksmithOS
+Major project section: MailOS
+Major project: EMAIL 2.0
+Major project: EMAIL -3.0
+Major project: DMail
+Major project: CranberryOS
+Major project: uOffice
+Major project: Hospital defender
+Major project: LibreFlock
+Major project: PDSNet++
+Major project: NUNIX
+Major project: MetroTechno
+Fix existing mega project section: MEDOS
+Major project: PNC English
+Model project information
+File history removal notice at V101
+Collectives listing
+Operating Systems collective
+Video games collective
+Software LIBraries collective
+Communications collective
+Public Media Gallery
+Public domain gallery of myself
+Discussions for /seanpm2001/seanpm2001/
+Major project: BootDown
+Major project: AquariOS
+Major project: BathhouseOS
+Major project: MCPYE
+Major project: Tetris128
+Reference fork style guide in #forks
+Stances on various subjects (anti-Copyright, pro-skeuomorphism, etc.)
+anti-Google | to go under: stances
+Information on complexity
+Information on project difficulties
+George Floyd memorial and information on join dates for my online accounts
+Getting started
+Begin experimentation with GitHub_Stats_B (Some new generated statistics (experimental))
+Rename section: GitHub interactions
+| Move sections: GitHub interactions, Optimizing this page, and Developer limits into: About this page
+Add section: what's with all of the Emojis
+| With answer based on these terms: Navigation, design, use of almost every Emoji (or as many as possible) in a unique way
+Notes about calendar
+Notes about municipalities, etc
+Tabs and tab video (plus a sample, speed it up if needed)
+Update to document limits
+New flags
+Government section
+Model projects and model project status repository link
+Fix existing mega project section: Other projects
+Fix existing mega project section: Meadows
+Fix existing mega project section: WacOS
+Update to file tree (more entries, and condense new+existing ones)
+Update the file tree, and link to ROOTFILES.base
+Mention projects: BlueberryOS, LocksmithOS, VRedroomOS, MailOS, and Motor Universe: Open Factory, FolderArtist, Favicon Pages, and more
+Major project: Miscellaneous
+Model project information section: Link to files: MODEL_PROJECT_STATUS.py & MODEL_PROJECT_STATUS.xhtml
+Make all language sections in major projects sections into dropdown sections
+Make all general information sections in major projects sections into dropdown sections
+Make all repository listing sections in major projects sections into dropdown sections
+Add comment markers to all details tags
+Fix rendering issue (2024.04.05)
+Significantly improve the major section: Other projects (long term goal) (Add at least 12 entries per day to major projects: miscellaneous (until all entries are filled out)) finished much earlier than planned
+Add note about geography interests
+Fix section: Major project: SNU
+Fix section: Major project: Voice Synthesis
+Temporarily remove voice synthesis section
+Add logos for GOI and CCM
+Major project: LennyOS
+Get /Graphics/ versions of all /Media/ media, and give them better filenames
+Add icons for all social media services used
+Give identity theft a better name, and update the link in the guestbook section with this newly named section
+Improve Online identity section
+Music section | AudioDB, bandcamp
+Condensing the list a little bit, through dropdowns
+vCard and identification section (vCard may not be possible)
+Information on necroposting and project development cycle (in years)
+Favorite works
+Forks and browsing forks
+Internet status and speedtest link
+Self hosting plans for the future
+Nitrotype link
+Plans to include Wikimedia commons, Wiktionary, and other Wikimedia account links
+💙️ Favorite works by other users
+Get logo for Wikimedia Commons
+Get logo for Wikibooks
+Get logo for Wikidata
+Get logo for WikiNews
+Get logo for WikiQuote
+Get logo for WikiSource
+Get logo for WikiSpecies
+Get logo for WikiVoyage
+Get logo for Wikimedia Incubator
+Get logo for Wikiversity
+Get logo for Wiktionary
+GistHub
+Politics and sexuality links, but not much information on this project alone
+Centering various tables and text
+No more "all users who have interacted with me" updates for now (too memory intensive) the list will be kept
+Full repository listing (WIP)
+My server and server plans + request for help
+Nicknames (SEAN9000)
+Update information about Windows and MacOS support
+Section about upcoming projects
+Rework of index | Make an alternative format view similar to the way it was done on the Takeout Tuesdays project
+UnSaaSS project
+Make use of video: confetti
+Make use of videos: GitHub weird behavior (2022) take 1 and take 2
+Make non-bitmap version of MEDOS 4 logo
+Replace all Markdown style images with HTML style images (completed, with 9 exceptions)
+Certificates
+Make use of image: Example/GitHub (social preview image)
+Make use of image: Memes/semicolons
+Make use of image: GitHub/Mona
+Common GitHub profile media section
+Résumé at top
+Add title attribute to all images (WIP)
+Properly format all img tags
+Keyword: " src=
+Should be replaced with:
+src="" alt=
+Add a link to the segment file for each section (WIP)
+Projects I have contributed to (updates to this section)
+Create new page for alt account (@seanwallawalla) within the Seanpm2001 page, in its own section, as a dropdown
+Improvements to language translation process, and info on this
+Improvements to guestbook display - Dropdown of people who have signed - More links
+New translation methods
+Graphic design info (programs used) (GIMP, Inkscape, Krita, former MS-PAINT, former PAINT 3D)
+Many modifications to existing text throughout the document
+Updates to Legend
+My web stack
+New icon to center at the top
+New style (custom headings, as images) also dividers
+My setup (Gather logos: Python, D, C, C++, Java, Assembly, Lua, R, Rust, HTML, CSS, Vue, Svelte, PostScript, ActionScript, TypeScript, JavaScript, LiveScript, PHP, Ruby, Linux, Ubuntu, Raspberry Pi OS, Firefox, LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, VirtualBox, GNOME, GNOME Extensions, KDE, GNOME System Monitor, Nautilus, GNOME Terminal, Konsole, Ubuntu software store, GNOME Calculator, GNOME Characters, Eye of GNOME image viewer, Shotwell, System76, Transmission, uBlock Origin, Okular, GNOME Document viewer, AMD, Intel, NVIDIA, Dell, HP, Samsung, Android, Kotlin, Scheme, Elixir, Haskell, Markdown, GLSL, Gosu, Slash, JSON, VLC Media Player, BASH, XML, VIRTUALIZED: Windows 11, Windows 10, Windows 8, Windows 7, Windows Vista, Windows XP, Windows ME, Windows 2000, Windows 98, Windows 95, Kali Linux, Red Star OS, Kubuntu, Android x86, Xubuntu, Mac OS X 10.6 Snow Leopard, Pop!OS, Fedora, PureOS, Manjaro, etc) TIP: Use your Learn repository to get resources (Major WIP)
+```
+
+</details> <!-- End of completed remodel goals section !-->
+
+These are the completed goals of the remodel.
+
+They have been implemented.
+
+<!-- Spacing these out, so the image formats correctly !-->
+
+<details><summary><p><b>Click/tap here to expand/collapse a preview of the remodel during version 90</b></p></summary>
+
+<img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile data%20for%20%40seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 90 of the remodel" width="448" height="5665">
+
+<img src="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot%202024-04-06%20at%2015-24-43%20seanpm2001_seanpm2001%20octocat%20GitHub%20profile%20data%20for%20@seanpm2001.png" alt="/Graphics/Seanpm2001_During-Remodel/4-Year-anniversary-update/Screenshot 2024-04-06 at 15-24-43 seanpm2001_seanpm2001 octocat GitHub profile data for @seanpm2001.png" title="Version 80 of the remodel" width="1920" height="16995">
+
+GitHub profile during remodel (images to include in remodel section)
+
+</details> <!-- End of remodel version 90 section !-->
+
+<!--
+<pre><font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-07 seanpm2001 - Overview.png&apos;</b></font>
+<font color="#A347BA"><b>&apos;Screenshot 2024-03-25 at 17-10-43 seanpm2001 - Overview.png&apos;</b></font></pre>
+!-->
+
+</details> <!-- End of remodel section !-->
+
+<!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
+
+_End of remodel section._
+
+</details> <!-- End of remodel section !-->
+
+- [`View this section separately`](/Segments/Remodel-in-progress/README.md)
+
+---
+
+_End of remodel information_
+
+</details> <!-- End of remodel information section !-->
 
 <img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
@@ -9943,7 +9993,7 @@ I am working on optimizing this page (as of 2023, Sunday, May 27th) my goals inc
 - [ ] Removing as much whitespace as comfortably possible
 - [ ] Improving quality of content
 
-View this segment [in a separate file (coming soon)](/Segments/Optimizing-this-page/README.md)
+View this segment [in a separate file](/Segments/Optimizing-this-page/README.md)
 
 </details> <!-- End of Optimizing this page section !-->
 
@@ -9963,7 +10013,7 @@ This section is reserved for Internet status entries regarding uptime, maintenan
 
 Optionally, you can check your Internet connection with this site [https://www.speedtest.net/](https://www.speedtest.net/)
 
-View this segment [in a separate file (coming soon)](/Segments/Internet-Status/README.md)
+View this segment [in a separate file](/Segments/Internet-Status/README.md)
 
 </details> <!-- End of Internet Status section !-->
 
@@ -9987,9 +10037,9 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 - - **Current image count:** `~102` (excluding `all-contributors` section)
 - - - **Current image count (all):** `~138`
 - **Maximum amount of emojis:** `4096`
-- - **Current emoji count:** `~1148` (as of V138) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
+- - **Current emoji count:** `~1148` (as of V139) <!-- How this value is counted: size (in bytes) divided by character count (including spaces) = product / 4 = answer !-->
 - **Maximum amount of characters (in bytes):** `512,000` (GitHub README file limit)
-- - **Current character count (in bytes):** (as of V138: `505,751` / `512,000` (`098.779%`))
+- - **Current character count (in bytes):** (as of V139: `506,749` / `512,000` (`08.974%`))
 
 > Memory
 
@@ -9998,7 +10048,7 @@ View this segment [in a separate file (coming soon)](/Segments/Internet-Status/R
 
 The limits have been raised on April 2nd to account for significant changes.
 
-View this segment [in a separate file (coming soon)](/Segments/Developer-limits/README.md)
+View this segment [in a separate file](/Segments/Developer-limits/README.md)
 
 </details> <!-- End of developer limits !-->
 
@@ -10202,6 +10252,8 @@ _End of getting started section._
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
+View this segment [in a separate file](/Segments/Footer/README.md)
+
 This is a long extended profile description. You have gotten through it. Below is my commit activity and featured projects and Gists. All that has already been listed in this description.
 
 You have reached the end of this page.
@@ -10210,38 +10262,11 @@ You have reached the end of this page.
 
 </details> <!-- End of footer !-->
 
--**🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt)**
+- **🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt) (⅃)**
 
 ### [🔚️ End of file](#-End-of-file)
 
 ###### [🔚️ EOF](#-EOF)
-
-| :octocat: | **[`seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/README.md)** |
-|---|---|
-| **Version 138 (beta 64)** | _2024, Friday, May 24th._ |
-| **[`seanwallawalla/seanwallawalla`](https://github.com/seanwallawalla/seanwallawalla/README.md)** | :octocat: |
-
-<div align="center">
-
-| 📣️ Feedback 💬️ |
-|---|
-| <p align="center"><b>💬️ Feedback 📣️</b></p> |
-
-</div>
-
-| 4️⃣️ 4 year anniversary update feedback 📣️ | 🪣️ General 📣️ |
-|---|---|
-| [`Give feedback on Mastodon`](https://techhub.social/deck/@seanpm2001/112237731368032617) | [:octocat: `Give feedback on GitHub (discussions)`](https://github.com/seanpm2001/seanpm2001/discussions/) |
-| [:octocat: `Give feedback on GitHub`](https://github.com/seanpm2001/seanpm2001/discussions/135/) | [:octocat: `Give feedback on GitHub (issues)`](https://github.com/seanpm2001/seanpm2001/issues/) |
-| <p align="center"><b>📣️ 4 year anniversary update feedback 4️⃣️</b></p> | <p align="center"><b>📣️ General 🪣️</b></p> |
-
-| [`Wayback machine link @seanpm2001`](https://web.archive.org/web/20240000000000*/github.com/seanpm2001) | [`Wayback machine link @seanwallawalla`](https://web.archive.org/web/20240000000000*/github.com/seanwallawalla) |
-|---|---|
-| _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my GitHub profile per day._ | _Starting 2024, April 8th, I have had the goal of making 1 snapshot of my alternative GitHub profile per day._ |
-| _Please account for time zones._ | _The first consecutive snapshot was April 9th GMT, but I use PST, so it was still April 8th when I took the snapshot._ |
-| _Also note:_ | _Snapshots usually show up 1-2 days after being taken._ |
-
-View this segment [in a separate file (coming soon)](/Segments/Footer/README.md)
 
 <!-- /%/2001_FOOTER_SECTION.END\%\ !-->
 
@@ -10250,7 +10275,3 @@ View this segment [in a separate file (coming soon)](/Segments/Footer/README.md)
 <!-- *** !-->
 
 <img src="/Graphics/Dividers/PNG/Parque-3-Divider_2500x250_V1_HighCompression.png" alt="Parque3 divider" width="2500" height="25">
-
-<!--TODO
-
-!-->
