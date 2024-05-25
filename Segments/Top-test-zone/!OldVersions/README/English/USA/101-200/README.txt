@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-24"
-      - version: "v138"
+      - date: "2024-05-25"
+      - version: "v139"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -13,19 +13,9 @@ defaultPlatform: linux
 
 ## [🚧️ Top test zone](#-Top-test-zone)
 
-> **Note** _This is an experimental Markdown FrontMatter element. Currently, I would like to learn how to hide it in the page while retaining functionality, or place it in a different part of the document. If this isn't possible,_ **it will be disabled and removed.**
+> **Note** _This is an experimental Markdown FrontMatter element. Currently, I would like to learn how to hide it in the page while retaining functionality, or place it in a different part of the document. If this isn't possible,_ **it will be disabled and removed.** [:octocat: `Give feedback on this`](https://github.com/seanpm2001/seanpm2001/discussions/)
 
 - [`Divider test`](/Segments/Divider-test/README.md)
-
-<!--
----
-layout: post
-title:  ""
-date:   2024-04-20
-version:   V104
-categories: bio
----
-!-->
 
 <!-- *** !-->
 
