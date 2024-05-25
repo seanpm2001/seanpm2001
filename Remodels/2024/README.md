@@ -5,22 +5,23 @@
 
 # [🏗️ REMODEL IN PROGRESS 🚧️](#-REMODEL-IN-PROGRESS-)
 
+> **Note** _Remodel is no longer in process, as of 2024, Saturday, May 25th._
+
 <img src="/Graphics/Under-construction/Under_construction_icon-green.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 | **4 year anniversary update** |
 |-------------------------------|
-| `Beta 64 - 2024, Friday, May 24th` |
-| **Final release day:** `2024, Saturday, May 25th` |
+| `4 year anniversary update (finale) - 2024, Saturday, May 25th` |
 | **Please report formatting bugs** [:octocat: `here`](https://github.com/seanpm2001/seanpm2001/issues/). |
 
 <img src="/Graphics/Under-construction/Under_construction_icon-orange.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="right" style="margin-right: 30px">
 
-<details open><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse the remodel section</b></p></summary>
 
 I am in the process of remodeling my GitHub profile page. Remodeling started on 2024, Saturday March 23rd. I expect to release the final version of the 4 year anniversary update on 2024, Saturday, May 25th. Here are my current goals:
 
 - **Note to self:** _Feel free to add more entries whenever necessary_
-- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 63 days down, 1 day to go, as of 2024, Friday, May 24th.)_
+- **Note to self:** _This should be a daily project. Try to accomplish at least 3 things per day, and remember that you have until 2024, May 25th to finish (64 day deadline, 64 days down, 0 days to go, as of 2024, Saturday, May 25th.)_
 
 - Plans on what to do at the end:
 - - Release 64: Finish up the remaining goals
@@ -130,7 +131,7 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 | [`Beta 62`](/Remodels/2024/!OldVersions/README/English/USA/README_V62.md) | 2024, Wednesday, May 22nd | 61 |
 | [`Beta 63`](/Remodels/2024/!OldVersions/README/English/USA/README_V63.md) | 2024, Friday, May 24th (1 day late) | 62 |
 | [`Beta 64`](/Remodels/2024/!OldVersions/README/English/USA/README_V64.md) | 2024, Friday, May 24th | 63 |
-| 4 year anniversary update | Coming soon | 64 |
+| [`4 year anniversary update`](/Remodels/2024/!OldVersions/README/English/USA/README_V65.md) | 2024, Saturday, May 25th | 64 |
 | 🏷️ **Version** 💾️ | 🗓️ **Date** 📅️ | 📆️ **Day #** #️⃣️ |
 
 </details> <!-- End of 2024 May release timeline table !-->
@@ -143,16 +144,16 @@ I am in the process of remodeling my GitHub profile page. Remodeling started on 
 
 <!-- *** !-->
 
-<details open><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse the remodel plans sub-section</b></p></summary>
 
 <img src="/Graphics/Under-construction/Underconstruction_clock_icon_gray.svg" alt="This page is under construction" title="This page is under construction, it is being remodeled until 2024, May 25th" width="148" height="148" align="left" style="margin-right: 30px">
 
 | 📋️ ***Task incompletion progress*** ❌️ |
 |---|
 | `000` **/** `236` **tasks** _(000.00%)_ |
-| _as of 2024, Friday, May 24th._ |
+| _as of 2024, Saturday, May 25th._ |
 
-- **Current tasks to do (001 tasks, as of 2024, Friday, May 24th.)**
+- **Current tasks to do (001 tasks, as of 2024, Saturday, May 25th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -178,9 +179,9 @@ They are a work in progress.
 | ✅️ ***Task completion progress*** 📋️ |
 |---|
 | `236` **/** `236` **tasks** _(100.00%)_ |
-| _as of 2024, Friday, May 24th._ |
+| _as of 2024, Saturday, May 25th._ |
 
-- **Tasks implemented so far (236 tasks, as of 2024, Friday, May 24th.)**
+- **Tasks implemented so far (236 tasks, as of 2024, Saturday, May 25th.)**
 - Note: due to issues with reading and formatting, tasks are being counted by lines of code, and not by the actual task
 
 <details><summary><p><b>Click/tap here to expand/collapse this subsection</b></p></summary>
@@ -464,5 +465,7 @@ _End of remodel section._
 _End of remodel information_
 
 </details> <!-- End of remodel information section !-->
+
+<img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 <!-- *** !-->
