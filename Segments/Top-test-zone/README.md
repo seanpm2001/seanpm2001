@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-22"
-      - version: "v136"
+      - date: "2024-05-24"
+      - version: "v138"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -29,8 +29,6 @@ categories: bio
 
 <!-- *** !-->
 
-- [`View this section separately`](/Segments/Top-test-zone/README.md)
-
-_Section added 2024 April 20th._
+- _Section added 2024 April 20th._ [`View this section separately`](/Segments/Top-test-zone/README.md)
 
 <img src="/Graphics/Dividers/PNG/Wood-Of-Some-Sort-Divider_2500x250_V1_HighCompression.png" alt="Wood of some sort divider" width="2500" height="25">
