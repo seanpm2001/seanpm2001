@@ -45,15 +45,19 @@ There was a lot of downtime between new projects in various points in the set. T
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the timeline/index section</b></p></summary>
 
-- File count and index as of 2024, Friday, April 12th (after todays batch)
-- - 683 files (712 when unredacted entries are included) <!-- 78+434+171 | unredacted: 78+434+200 !-->
+- File count and index as of 2024, Saturday, June 1st (before todays batch)
+- - 842 files (804 when unredacted entries are included) <!-- 78+434+171 | unredacted: 78+434+200 !-->
 
-- [`2022`](/RepoData_Notes/2022/) - 78 files <!-- 1+12+30+35=78 !-->
+<table>
+  <tr>
+    <td>
+
+- [`2022`](/RepoData_Notes/2022/) - 78 files <!-- 1+12+30+35=78 | unrdacted: none (0) !-->
 - - [`07: July`](/RepoData_Notes/2022/07_July/) - 1 file
 - - [`10: October`](/RepoData_Notes/2022/10_October/) - 12 files
 - - [`11: November`](/RepoData_Notes/2022/11_November/) - 30 files
 - - [`12: December`](/RepoData_Notes/2022/12_December/) - 35 files
-- [`2023`](/RepoData_Notes/2023/) - 434 files <!-- 31+28+29+28+27+30+24+31+30+52+60+64 !-->
+- [`2023`](/RepoData_Notes/2023/) - 434 files <!-- 31+28+29+28+27+30+24+31+30+52+60+64 | unrdacted: none (0) !-->
 - - [`01: January`](/RepoData_Notes/2023/01_January/) - 31 files
 - - [`02: February`](/RepoData_Notes/2023/02_February/) - 28 files
 - - [`03: March`](/RepoData_Notes/2023/03_March/) - 29 files
@@ -66,12 +70,12 @@ There was a lot of downtime between new projects in various points in the set. T
 - - [`10: October`](/RepoData_Notes/2023/10_October/) - 52 files
 - - [`11: November`](/RepoData_Notes/2023/11_November/) - 60 files
 - - [`12: December`](/RepoData_Notes/2023/12_December/) - 64 files
-- [`2024`](/RepoData_Notes/2024/) - 171 files (200 files when unredacted entries are included) <!-- 62+54+31+24 | unredacted: 2+8+4+15=29 !--> 
+- [`2024`](/RepoData_Notes/2024/) - 292 files (330 files when unredacted entries are included) <!-- 62+54+51+52+62=292 | unredacted: 2+8+4+24+0=38 !--> 
 - - [`01: January`](/RepoData_Notes/2024/01_January/) - 62 files (64 when unredacted entries are included)
 - - [`02: February`](/RepoData_Notes/2024/02_February/) - 54 files (72 when unredacted entries are included)
 - - [`03: March`](/RepoData_Notes/2024/03_March/) - 51 files (55 when unredacted entries are included)
-- - [`04: April`](/RepoData_Notes/2024/04_April/) - 24 files (39 when unredacted entries are included) (as of 2024, Friday, April 12th)
-- - [`05: May`](/RepoData_Notes/2024/05_May/) - Coming soon
+- - [`04: April`](/RepoData_Notes/2024/04_April/) - 52 files (77 when unredacted entries are included) (as of 2024, Saturday, June 1st)
+- - [`05: May`](/RepoData_Notes/2024/05_May/) - 62 files (62 when unredacted entries are included) (as of 2024, Saturday, June 1st)
 - - [`06: June`](/RepoData_Notes/2024/06_June/) - Coming soon
 - - [`07: July`](/RepoData_Notes/2024/07_July/) - Coming soon
 - - [`08: August`](/RepoData_Notes/2024/08_August/) - Coming soon
@@ -79,6 +83,10 @@ There was a lot of downtime between new projects in various points in the set. T
 - - [`10: October`](/RepoData_Notes/2024/10_October/) - Coming soon
 - - [`11: November`](/RepoData_Notes/2024/11_November/) - Coming soon
 - - [`12: December`](/RepoData_Notes/2024/12_December/) - Coming soon
+
+    </td>
+  </tr>
+</table>
 
 </details> <!-- End of Timeline/index section !-->
 
@@ -94,16 +102,24 @@ _End of title/header section._
 
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section</b></p></summary>
 
+<table>
+  <tr>
+    <td>
+
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `6 (2024, Friday, April 12th at 04:15 pm PST)`
-- **Line count (including blank lines and compiler line):** `278`
-- **Word count:** `01,775`
-- **Character count (including spaces):** `11,380`
-- **Character count (excluding spaces):** `09,610`
-- **Size (in bytes):** `11,380`
+- **File version:** `7 (2024, Saturday, June 1st at 04:25 pm PST)`
+- **Line count (including blank lines and compiler line):** `335`
+- **Word count:** `02,011`
+- **Character count (including spaces):** `12,944`
+- **Character count (excluding spaces):** `10,890`
+- **Size (in bytes):** `12,944`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+    </td>
+  </tr>
+</table>
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
@@ -234,7 +250,7 @@ _End of title/header section._
 
 ## Version 6 (2024, Friday, April 12th at 04:15 pm PST)
 
-<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 5</b></p></summary>
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 6</b></p></summary>
 
 > This release was made by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -256,6 +272,32 @@ _End of title/header section._
 
 ---
 
+## Version 7 (2024, Saturday, June 1st at 04:25 pm PST)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section entry for version 7</b></p></summary>
+
+> This release was made by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Version 7, coming back on the first day of 2024 June with new data. It was a little confusing to parse it, but I managed to get through._
+
+> Changes:
+
+- [x] Updated the `Timeline/Index` section
+- - [x] Updated the data to reflect changes from 2024, Saturday, June 1st
+- - [x] Converted the list into HTML table style
+- [x] Updated the title section
+- - [x] New information on redaction has been added
+- [x] Source code improvements (new comments and dropdown elements)
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 7
+- [x] Updated the `Footer` section
+- [ ] No other changes in version 7
+
+</details> <!-- End of V7 !-->
+
+---
+
 _End of file version history_
 
 </details> <!-- End of File History !-->
@@ -267,6 +309,21 @@ _End of file version history_
 <details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer</b></p></summary>
 
 - You have reached the end of this file.
+
+<table>
+  <tr>
+    <td>
+
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
+
+    </td>
+  </tr>
+</table>
 
 </details> <!-- End of Footer !-->
 
