@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-05-25"
-      - version: "v139"
+      - date: "2024-10-03"
+      - version: "v140"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -4041,6 +4041,29 @@ My list of supported organizations include:
 
 **More to be listed**
 
+#### [🪙️ Cryptocurrency donations](#-Cryptocurrency-donations)
+
+I created my first ₿itCoin wallet on 2024, Tuesday, October 1st, as it came with my upgraded ProtonMail account. ₿itCoin donations can be done via ProtonWallet. My primary ₿itCoin address is:
+
+<!-- TODO: Align BitCoin image to the left of the BitCoin address !-->
+
+<div align="center">
+    <img src="/Graphics/Cryptocurrency/BitCoin/Bitcoin_logo_Satoshi_Nakamoto.svg" alt="BitCoin logo failed to load" title="₿" width="256" height="256">
+</div>
+
+```
+bc1q798022xzvmusuxza6t60fg8qt73sm3r8fne08a
+```
+
+If you want to donate ₿itCoin via email, you can use this address: [seanpm2001-cryptocurrency@proton.me](mailto:seanpm2001-cryptocurrency@proton.me)
+
+<div align="center">
+    <img src="/Graphics/Cryptocurrency/BitCoin/Bitcoin.png" alt="BitCoin logo failed to load" title="₿" width="128" height="128" align="center"/>
+</div>
+
+
+I don't like when the word crypto is defined as cryptocurrency, I prefer it to mean cryptography. Meanwhile, I am against the term Web3 in regards to cryptocurrency, and I don't like NFTs.
+
 View this segment [`in a separate file`](/Segments/Free-software-is-not-free-to-develop/README.md)
 
 </details> <!-- End of Free Software isn't free to develop section !-->
@@ -7264,11 +7287,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `139 (2024, Saturday, May 25th at 12:10 pm PST)`
-- **Line count (including blank lines and compiler line):** `10,278`
-- **Word count:** `073,529`
-- **Character count (with spaces):** `0,502,154 characters`
-- **Character count (without spaces)** `0,437,777 characters`
+- **File version:** `140 (2024, Thursday, October 3rd at 03:06 pm PST)`
+- **Line count (including blank lines and compiler line):** `10,336`
+- **Word count:** `073,941`
+- **Character count (with spaces):** `0,505,031 characters`
+- **Character count (without spaces)** `0,440,268 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -8556,7 +8579,7 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 - - [x] Updated the `Version number`
 - - [x] Updated the `Line count`
 - - [x] Updated the `Word count`
-- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with no spaces)`-
 - - [x] Updated the `Character count (with spaces)`
 - [x] Updated the `Optimizing this page` section
 - [x] Updated the `Remodel history` section
@@ -8606,7 +8629,6 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 <details><summary><b lang="en">Version 139 (2024, Saturday, May 25th at 12:10 pm PST)</b></summary>
 
-
 **This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > **Note** _This is the sixty-third update in part of a major remodel of this profile README. It is the final release in the 4 year anniversary update. This update just cleans up content regarding the remodel, and is the final update of the 4 year anniversary update. This doesn't mean it is the final update to this README file. Fixes and changes will still be made, albeit less often._
@@ -8639,11 +8661,23 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 140 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 140 (2024, Thursday, October 3rd at 03:06 pm PST)</b></summary>
+
+**This release was made by [`@seanpm2001`](https://github.com/seanpm2001/)**
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the `Free software isn't free to develop` section
+- - [x] Added information on cryptocurrency donations
+- [x] Updated the `File info` section
+- - [x] Updated the `Version number`
+- - [x] Updated the `Line count`
+- - [x] Updated the `Word count`
+- - [x] Updated the `Character count (with no spaces)`
+- - [x] Updated the `Character count (with spaces)`
+- [x] Added information on cryptocurrency donations
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 140
 - [ ] No other changes in version 140
 
 </details> <!-- End of V140 !-->
@@ -10243,6 +10277,30 @@ _End of getting started section._
 <img src="/Graphics/Dividers/PNG/Electric-Blue-Divider_2500x250_V1_HighCompression.png" alt="Electric blue divider" width="2500" height="25">
 
 <!-- *** !-->
+
+<img src="/Graphics/Dividers/PNG/Parque-3-Divider_2500x250_V1_HighCompression.png" alt="Parque3 divider" width="2500" height="25">
+
+## [🪙️ Cryptocurrency donations](#-Cryptocurrency-donations)
+
+I created my first ₿itCoin wallet on 2024, Tuesday, October 1st, as it came with my upgraded ProtonMail account. ₿itCoin donations can be done via ProtonWallet. My primary ₿itCoin address is:
+
+<!-- TODO: Align BitCoin image to the left of the BitCoin address !-->
+
+<div align="center">
+    <img src="/Graphics/Cryptocurrency/BitCoin/Bitcoin_logo_Satoshi_Nakamoto.svg" alt="BitCoin logo failed to load" title="₿" width="256" height="256">
+</div>
+
+```
+bc1q798022xzvmusuxza6t60fg8qt73sm3r8fne08a
+```
+
+If you want to donate ₿itCoin via email, you can use this address: [seanpm2001-cryptocurrency@proton.me](mailto:seanpm2001-cryptocurrency@proton.me)
+
+<div align="center">
+    <img src="/Graphics/Cryptocurrency/BitCoin/Bitcoin.png" alt="BitCoin logo failed to load" title="₿" width="128" height="128" align="center"/>
+</div>
+
+I don't like when the word crypto is defined as cryptocurrency, I prefer it to mean cryptography. Meanwhile, I am against the term Web3 in regards to cryptocurrency, and I don't like NFTs.
 
 <img src="/Graphics/Dividers/PNG/Parque-3-Divider_2500x250_V1_HighCompression.png" alt="Parque3 divider" width="2500" height="25">
 
