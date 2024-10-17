@@ -1,0 +1,122 @@
+.para5 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+}
+
+.para3 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+  text-align: start;
+}
+
+.para2 {
+  margin:  0.1665in 0px 0.0835in 0px;
+}
+
+.para4 {
+  margin:  0.1390in 0px 0.0835in 0px;
+}
+
+.para1 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+  text-align: center;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0835in 0px;
+  text-align: center;
+}
+
+.span13 {
+  font-family: 'Ubuntu';
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span1 {
+  font-family: 'FreeMono';
+  font-size: 40.0000pt;
+}
+
+.span2 {
+  font-family: 'FreeMono';
+  font-size: 40.0000pt;
+  text-decoration:  underline;
+}
+
+.span3 {
+  font-family: 'Dhurjati';
+  font-size: 32.0000pt;
+  font-style: italic;
+}
+
+.span0 {
+  font-family: 'Chilanka';
+  font-size: 82.0000pt;
+  font-weight: bold;
+}
+
+.span4 {
+  font-family: 'Chandas';
+  font-size: 20.0000pt;
+  font-style: italic;
+}
+
+.span5 {
+  font-family: 'Ubuntu';
+  font-size: 18.0000pt;
+  font-weight: bold;
+}
+
+.span6 {
+  font-family: 'Ubuntu';
+  font-size: 20.0000pt;
+  font-style: italic;
+}
+
+.span8 {
+  font-family: 'FreeMono';
+  font-size: 20.0000pt;
+  font-style: italic;
+}
+
+.span9 {
+  font-family: 'Dhurjati';
+  font-size: 20.0000pt;
+  font-style: italic;
+}
+
+.span10 {
+  font-family: 'Ubuntu';
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span7 {
+  font-family: 'Chilanka';
+  font-size: 20.0000pt;
+  font-style: italic;
+}
+
+.span11 {
+  font-family: 'Ubuntu';
+}
+
+.span12 {
+  font-family: 'FreeMono';
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
+
+.frame0 {
+  float: left;
+  width: 5.5835in;
+}
