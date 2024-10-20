@@ -1,0 +1,45 @@
+.para1 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+  text-align: center;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0835in 0px;
+  text-align: center;
+}
+
+.span3 {
+  font-family: 'Dhurjati';
+  font-size: 32.0000pt;
+  font-style: italic;
+}
+
+.span2 {
+  font-family: 'FreeMono';
+  font-size: 40.0000pt;
+  text-decoration:  underline;
+}
+
+.span1 {
+  font-family: 'FreeMono';
+  font-size: 40.0000pt;
+}
+
+.span0 {
+  font-family: 'Chilanka';
+  font-size: 82.0000pt;
+  font-weight: bold;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
+
+.frame0 {
+  float: left;
+  width: 5.5835in;
+}
