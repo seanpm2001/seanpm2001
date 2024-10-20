@@ -1,0 +1,138 @@
+.para4 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+}
+
+.para3 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+  text-align: center;
+}
+
+.para2 {
+  margin:  0.1665in 0px 0.0835in 0px;
+}
+
+.para1 {
+  line-height: 115.0000%;
+  margin:  0.0000in 0px 0.0972in 0px;
+  text-align: justify;
+}
+
+.para0 {
+  margin:  0.1665in 0px 0.0835in 0px;
+  text-align: center;
+}
+
+.span14 {
+  font-style: normal;
+  font-weight: normal;
+}
+
+.span13 {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.span0 {
+  font-family: 'Liberation Sans';
+  font-size: 18.0000pt;
+  font-weight: bold;
+}
+
+.span2 {
+  font-family: 'Liberation Sans';
+  font-size: 40.0000pt;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+
+.span9 {
+  font-weight: bold;
+}
+
+.span3 {
+  font-family: 'Liberation Sans';
+  font-size: 40.0000pt;
+  font-weight: bold;
+}
+
+.span5 {
+  color: #000080;
+  font-size: 18.0000pt;
+  text-decoration:  underline;
+}
+
+.span7 {
+  font-size: 21.0000pt;
+}
+
+.span4 {
+  font-family: 'Liberation Sans';
+  font-size: 32.0000pt;
+  font-weight: bold;
+}
+
+.span10 {
+}
+
+.span1 {
+  font-family: 'Liberation Sans';
+  font-size: 40.0000pt;
+  font-weight: bold;
+  text-decoration:  line-through;
+}
+
+.span6 {
+  font-size: 18.0000pt;
+}
+
+.span11 {
+  font-style: italic;
+}
+
+.span12 {
+  font-size: 0.58em;
+  font-style: italic;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.span8 {
+  font-size: 0.58em;
+  position: relative;
+  top: -0.33em;
+  vertical-align: baseline;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
+
+.frame3 {
+  border: 0.74pt solid #b2ff59;
+  float: left;
+  width: 1.3402in;
+}
+
+.frame2 {
+  border: 0.74pt inset #76ff03;
+  float: left;
+  width: 1.3346in;
+}
+
+.frame1 {
+  border: 0.74pt dashed #536dfe;
+  float: left;
+  width: 1.3492in;
+}
+
+.frame0 {
+  border: 2.35pt double #2a6099;
+  float: left;
+  width: 1.3437in;
+}
