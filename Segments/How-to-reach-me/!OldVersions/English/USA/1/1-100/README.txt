@@ -265,6 +265,42 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
+#### Change.ORG
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/ChangeOrg/Change.org_(CDot)_logo.svg" alt="Change.ORG logo failed to load" title="Logo of Change.ORG" width="196" height="196"> |
+|---|
+| [`Change.ORG`](https://www.change.org/) |
+
+I created a change.org account on 2024, September 6th, so that I can sign important petitions, starting with [`this one (https://www.change.org/p/let-readers-read-an-open-letter-to-the-publishers-in-hachette-v-internet-archive)`](https://www.change.org/p/let-readers-read-an-open-letter-to-the-publishers-in-hachette-v-internet-archive)
+
+- [`Change.org u/seanpm2001`](https://www.change.org/u/seanpm2001)
+
+- - Further information: [:octocat: `/seanpm2001/ChangeORG/`](https://github.com/seanpm2001/ChangeORG/)
+
+</details> <!-- End of $ChangeORG !-->
+
+---
+
+#### OpenStreetMap
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/OpenStreetMap/Openstreetmap_logo.svg" alt="OpenStreetMap logo failed to load" title="Logo of OpenStreetMap" width="196" height="196"> |
+|---|
+| [`OpenStreetMap`](https://www.openstreetmap.org/) |
+
+I joined OpenStreetMap on the night of 2024, Saturday, October 19th. I plan to use the site to map the 2 cities I frequent the most: Walla Walla, and Spokane (Washington) I am still learning the process of mapping, and I additionally have to wait for the Wayback Machine to come back.
+
+- [`OpenStreetMap SeanPM2001`](https://www.openstreetmap.org/user/SeanPM2001/)
+
+- Further information: [:octocat: `/seanpm2001/OpenStreetMap/`](https://github.com/seanpm2001/OpenStreetMap/)
+
+</details> <!-- End of $OpenStreetMap !-->
+
+---
+
 _End of platforms I still use section._
 
 </details> <!-- End of platforms I still use section !-->
@@ -648,13 +684,18 @@ I briefly used Outlook between 2016 and 2020 for Minecraft Pocket Edition and On
 
 ---
 
-#### Twitter / X(Videos)
+#### Twitter / 𝕏(Videos)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-| <img src="/Graphics/Social-Media/Twitter/Logo_of_Twitter.svg" alt="Twitter logo failed to load" title="Logo of Twitter" width="248" height="204"> |
-|---|
-| [`Twitter`](https://www.twitter.com/) |
+| <img src="/Graphics/Social-Media/Twitter/Logo_of_Twitter.svg" alt="Twitter logo failed to load" title="Logo of Twitter" width="248" height="204"> | 𝕏 |
+|---|---|
+| [`Twitter`](https://www.twitter.com/) | [`𝕏`](https://www.x.com/) |
+
+- Mathematical Double-struck Capital X: 𝕏 (`U+1D54F`)
+- Mathematical Double-struck Small X: 𝕩 (`U+1D569`)
+
+The new logo is not original whatsoever, it is just a carbon copy of a mathematical symbol Musk has probably never used. Its been in Unicode longer than Twitter has even been a thing, and has been used in mathematics for far longer.
 
 - [`Twitter @seanwallawalla`](https://twitter.com/seanwallawalla/) **Main account**
 - [`Twitter @seanwallawallaa`](https://twitter.com/seanwallawallaa/) **Animation account**
@@ -662,18 +703,18 @@ I briefly used Outlook between 2016 and 2020 for Minecraft Pocket Edition and On
 - [`Twitter @seanwallawallae`](https://twitter.com/seanwallawallae/) **Electronic library account**
 - [`Twitter @seanwallawallal`](https://twitter.com/seanwallawallal/) **Live stream account**
 - [`Twitter @seanwallawalla2`](https://twitter.com/seanwallawalla2/) **"2nd" twitter account**
-- - No longer use as of 2018, slightly cringy, but not too bad
-- - Alt links (202
-- - - [`X @seanwallawalla`](https://x.com/seanwallawalla/) **Main account**
-- - - [`X @seanwallawallaa`](https://x.com/seanwallawallaa/) **Animation account**
-- - - [`X @seanwallawallab`](https://x.com/seanwallawallab/) **Business account**
-- - - [`X @seanwallawallae`](https://x.com/seanwallawallae/) **Electronic library account**
-- - - [`X @seanwallawallal`](https://x.com/seanwallawallal/) **Live stream account**
-- - - [`X @seanwallawalla2`](https://x.com/seanwallawalla2/) **"2nd" X account**
+- - No longer used as of 2018, slightly cringy, but not too bad
+- - Alt links (2023)
+- - - [`𝕩 @seanwallawalla`](https://x.com/seanwallawalla/) **Main account**
+- - - [`𝕩 @seanwallawallaa`](https://x.com/seanwallawallaa/) **Animation account**
+- - - [`𝕩 @seanwallawallab`](https://x.com/seanwallawallab/) **Business account**
+- - - [`𝕩 @seanwallawallae`](https://x.com/seanwallawallae/) **Electronic library account**
+- - - [`𝕩 @seanwallawallal`](https://x.com/seanwallawallal/) **Live stream account**
+- - - [`𝕩 @seanwallawalla2`](https://x.com/seanwallawalla2/) **"2nd" 𝕏 account**
 - - - I currently plan on deleting these accounts once they have been crawled by the Wayback machine, or until the algorithm deletes them, whichever comes first
 - - - - Further information: [:octocat: `/seanpm2001/Twitter/`](https://github.com/seanpm2001/Twitter/)
 
-</details> <!-- End of $Twitter !-->
+</details> <!-- End of $Twitter/𝕏𝕩𝕏 !-->
 
 ---
 
