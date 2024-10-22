@@ -53,7 +53,7 @@ TODO
 
 ---
 
-### [📧️ Email information](#-Email-information)
+##### [📧️ Email information](#-Email-information)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -69,7 +69,23 @@ Note: this email address is NOT a mailing list, it is just named like that. The 
 
 ---
 
-### [🪧️ Projects on other platforms](#-Projects-on-other-platforms)
+##### [🇻 vCard](#-vCard)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+On 2024, Sunday, April 14th, I created my own vCard
+
+| As `*.vcard` | as `*.vcf` |
+|---|---|
+| [`Version 1 (VCard)`](/Special/VCard/Seanpm2001_V1.vcard) | [`Version 1 (VCF)`](/Special/VCard/Seanpm2001_V1.vcf)
+
+It has not yet been tested. It may not work, as I experimentally tried to embed a placeholder for a base64 encoded image inside of it without using proper software.
+
+</details> <!-- End of VCard section !-->
+
+---
+
+#### [🪧️ Projects on other platforms](#-Projects-on-other-platforms)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -89,13 +105,17 @@ Now, if GitHub is having problems or if you have problems with GitHub, my projec
 
 ---
 
-### [🌉️ Platforms I am on](#-Platforms-I-am-on)
+###### [🌉️ Platforms I am on](#-Platforms-I-am-on)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 I am on the following platforms
 
-### [🔔️ Platforms I still use](#-Platforms-I-still-use)
+> **Note** _This section was updated on 2024 April 12th to include images for every heading for platforms. It was inspired by a README technique I haven't used until now. A lot of images need more square versions._
+
+###### [🔔️ Platforms I still use](#-Platforms-I-still-use)
+
+<!-- Should be <H7> !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -103,7 +123,9 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### Wikipedia
+###### <img src="/Graphics/Other-sites/Wikipedia/Wikipedia-logo-v2.svg" alt="Wikipedia V2 logo failed to load" title="Logo of Wikipedia" width="20" height="20"> Wikipedia
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -119,7 +141,196 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### GitHub
+###### <img src="/Graphics/Other-sites/Wikimedia-Commons/Wikimedia-logo.svg" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="20" height="20"> Wikimedia Commons
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikimedia-Commons/Wikimedia-logo.svg" alt="Wikimedia commons logo failed to load" title="Logo of Wikimdia commons" width="256" height="256"> |
+|---|
+| [`Wikimedia Commons`](https://commons.wikimedia.org/) |
+
+- [`Wikimedia commons (newer user page @seanpm2001)`](https://commons.wikimedia.org/wiki/User:Seanpm2001)
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikimedia-Commons !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikibooks/Wikibooks-logo-en.svg" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="20" height="20"> WikiBooks
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikibooks/Wikibooks-logo-en.svg" alt="Wikibooks logo failed to load" title="Logo of Wikibooks" width="256" height="256"> |
+|---|
+| [`Wikibooks`](https://en.wikibooks.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikibooks !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikidata/Wikidata-logo.svg" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="20" height="20"> WikiData
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikidata/Wikidata-logo.svg" alt="Wikidata logo failed to load" title="Logo of Wikidata" width="256" height="256"> |
+|---|
+| [`Wikidata`](https://wikidata.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikidata !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikinews/Wikinews-logo-en-qgil.svg" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="20" height="20"> WikiNews
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikinews/Wikinews-logo-en-qgil.svg" alt="Wikinews logo failed to load" title="Logo of Wikinews" width="256" height="256"> |
+|---|
+| [`Wikinews`](https://en.wikinews.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikinews !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikiquote/Wikiquote-logo-2.svg" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="20" height="20"> WikiQuote
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikiquote/Wikiquote-logo-2.svg" alt="Wikiquote logo failed to load" title="Logo of Wikiquite" width="256" height="256"> |
+|---|
+| [`Wikiquite`](https://en.wikiquote.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikiquote !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikisource/Wikisource-logo-nap.svg" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="20" height="20"> WikiSource
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikisource/Wikisource-logo-nap.svg" alt="Wikisource logo failed to load" title="Logo of Wikisource" width="256" height="256"> |
+|---|
+| [`Wikisource`](https://en.wikisource.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikisource!-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikispecies/Wikispecies-logo.svg" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="20" height="20"> WikiSpecies
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikispecies/Wikispecies-logo.svg" alt="Wikispecies logo failed to load" title="Logo of Wikispecies" width="256" height="256"> |
+|---|
+| [`Wikispecies`](https://species.wikimedia.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikispecies !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikivoyage/Wikivoyage-Logo-v3-en.svg" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="20" height="20"> WikiVoyage
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikivoyage/Wikivoyage-Logo-v3-en.svg" alt="Wikivoyage logo failed to load" title="Logo of Wikivoyage" width="256" height="256"> |
+|---|
+| [`Wikivoyage`](https://en.wikivoyage.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikivoyage !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikimedia-Incubator/Incubator-logo.svg" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="20" height="20"> Wikimedia Incubator
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikimedia-Incubator/Incubator-logo.svg" alt="Wikimedia Incubator logo failed to load" title="Logo of Wikimedia Incubator" width="256" height="256"> |
+|---|
+| [`Wikimedia Incubator`](https://incubator.wikimedia.org/) |
+
+- [`Wikimedia Incubator (newer user page @seanpm2001)`](https://incubator.wikimedia.org/wiki/User:Seanpm2001)
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikimedia-Incubator !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wikiversity/Wikiversity-logo-fr-pure.svg" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="20" height="20"> WikiVersity
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wikiversity/Wikiversity-logo-fr-pure.svg" alt="Wikiversity logo failed to load" title="Logo of Wikiversity" width="256" height="256"> |
+|---|
+| [`Wikiversity`](https://en.wikiversity.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wikiversity !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/Wiktionary/Wiktionary-logo-portal.svg" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="20" height="20"> Wiktionary
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Wiktionary/Wiktionary-logo-portal.svg" alt="Wiktionary logo failed to load" title="Logo of Wiktionary" width="256" height="256"> |
+|---|
+| [`Wiktionary`](https://en.wiktionary.org/) |
+
+- **I cannot create a user page here due to technical issues**
+- - Further information: [:octocat: `seanpm2001/SeansLifeArchive_Extras_Wikipedia`](https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia/)
+
+</details> <!-- End of $Wiktionary !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub" width="20" height="20"> GitHub
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -137,7 +348,9 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### FreeCodeCamp
+###### <img src="/Graphics/Other-sites/FreeCodeCamp/FreeCodeCamp_logo.svg" alt="FreeCodeCamp wordmark failed to load" title="FreeCodeCamp wordmark" width="20" height="20"> FreeCodeCamp
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -153,7 +366,9 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### Internet Archive
+###### <img src="/Graphics/Other-sites/Internet-Archive/Internet_Archive_logo_and_wordmark.svg" alt="Internet Archive logo failed to load" title="Logo of the Internet Archive" width="20" height="20"> Internet Archive
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -170,7 +385,9 @@ Platforms I have an account for and still use include:
 
 ---
 
-#### ProtonMail / ProtonCalendar / ProtonDrive / ProtonVPN
+###### <img src="/Graphics/Other-sites/ProtonMail/Protonmail_logo.svg" alt="ProtonMail wordmark failed to load" title="Wordmark of ProtonMail" width="20" height="20"> ProtonMail / ProtonCalendar / ProtonDrive / ProtonVPN
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -188,7 +405,9 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### AirBnB
+###### <img src="/Graphics/Other-sites/AirBnB/Airbnb_meaningful_logo.svg" alt="AirBnB logo failed to load" title="Logo of AirBnB" width="20" height="20"> AirBnB
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -204,7 +423,9 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### VRBO
+###### <img src="/Graphics/Other-sites/VRBO/Vrbo.svg" alt="VRBO wordmark failed to load" title="Wordmark of VRBO" width="20" height="20"> VRBO
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -220,7 +441,9 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### SUPERCELL
+###### <img src="/Graphics/Online-game-accounts/SUPERCELL/Supercell-logo.svg" alt="SUPERCELL logo failed to load" title="Logo of SUPERCELL" width="20" height="20"> SUPERCELL
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -235,7 +458,9 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### Mastodon
+###### <img src="/Graphics/Social-Media/Mastodon/Mastodon_logotype_(simple)_new_hue.svg" alt="Mastodon logo failed to load" title="Logo of Mastodon" width="20" height="20"> Mastodon
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -250,7 +475,9 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### Google Play
+###### <img src="/Graphics/Other-sites/Google-Play/Google_Play_2012-2016_icon.svg" alt="Google Play logo failed to load" title="Logo of Google Play" width="20" height="20"> Google Play
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -265,7 +492,7 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### Change.ORG
+#### <img src="/Graphics/Other-sites/ChangeOrg/Change.org_(CDot)_logo.svg" alt="Change.ORG logo failed to load" title="Logo of Change.ORG" width="20" height="20"> Change.ORG
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -283,7 +510,7 @@ I created a change.org account on 2024, September 6th, so that I can sign import
 
 ---
 
-#### OpenStreetMap
+#### <img src="/Graphics/Other-sites/OpenStreetMap/Openstreetmap_logo.svg" alt="OpenStreetMap logo failed to load" title="Logo of OpenStreetMap" width="20" height="20"> OpenStreetMap
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -301,13 +528,89 @@ I joined OpenStreetMap on the night of 2024, Saturday, October 19th. I plan to u
 
 ---
 
+#### <img src="/Graphics/Other-sites/Codeberg/Codeberg_logo.svg" alt="Codeberg logo failed to load" title="Logo of Codeberg" width="20" height="20"> Codeberg
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Codeberg/Codeberg_logo.svg" alt="Codeberg logo failed to load" title="Logo of Codeberg" width="196" height="196"> |
+|---|
+| [`Codeberg`](https://codeberg.org/) |
+
+I joined Codeberg on 2024, August 28th, so that I would have a presence there. I discovered a 100 repository limit, along with other limits, and have paused mirroring for now.
+
+- [`Codeberg @seanpm2001`](https://codeberg.org/seanpm2001/)
+- [`Codeberg @seanwallawalla`](https://codeberg.org/seanwallawalla/)
+
+- Further information: [:octocat: `/seanpm2001/Codeberg/`](https://github.com/seanpm2001/Codeberg/)
+
+</details> <!-- End of $Codeberg !-->
+
+---
+
+#### <img src="/Graphics/Other-sites/Launchpad/Launchpad_logo_2008–2022.svg" alt="Launchpad logo failed to load" title="Logo of Launchpad" width="20" height="20"> Launchpad
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/Launchpad/Launchpad_logo_2008–2022.svg" alt="Launchpad logo failed to load" title="Logo of Launchpad" width="196" height="196"> |
+|---|
+| [`Launchpad`](https://launchpad.net/) |
+
+I joined Launchpad on 2024, August 28th, so that I would have a presence there.
+
+- [`Launchpad @seanpm2001`](https://launchpad.net/~seanpm2001/)
+- [`Launchpad @seanwallawalla`](https://launchpad.net/~seanpm2001/)
+
+- Further information: [:octocat: `/seanpm2001/Launchpad/`](https://github.com/seanpm2001/Launchpad/)
+
+</details> <!-- End of $Launchpad !-->
+
+---
+
+#### <img src="/Graphics/Other-sites/UbuntuOne/UbuntuOne_Logo.png" alt="Ubuntu One logo failed to load" title="Logo of Ubuntu One" width="20" height="20"> Ubuntu One
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/UbuntuOne/UbuntuOne_Logo.png" alt="Ubuntu One logo failed to load" title="Logo of Ubuntu One" width="196" height="196"> |
+|---|
+| [`Ubuntu One`](https://login.ubuntu.com/) |
+
+I joined Ubuntu One on 2024, August 28th, so that I could create a set of 2 Launchpad accounts, and sync my Ubuntu data. I found that syncing doesn't appear to be possible anymore.
+
+- [`Ubuntu One @seanpm2001`](https://login.ubuntu.com/) (Due to the way this site works, a proper URL cannot be provided here)
+- [`Ubuntu One @seanwallawalla`](https://login.ubuntu.com/) (Due to the way this site works, a proper URL cannot be provided here)
+
+- Further information: [:octocat: `/seanpm2001/UbuntuOne/`](https://github.com/seanpm2001/UbuntuOne/)
+
+</details> <!-- End of $Launchpad !-->
+
+---
+
+###### <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub/GistHub" width="20" height="20"> GistHub (gist.github.com)
+
+<!-- Should be <H8> !-->
+
+<details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| <img src="/Graphics/Other-sites/GitHub/Github-desktop-logo-symbol.svg" alt="GitHub logo failed to load" title="Logo of GitHub/GistHub" width="128" height="128"> |
+|---|
+| [`GistHub`](https://gist.github.com/) |
+
+- I have a GistHub account, but I no longer actively use it. It is a subdivision of my GitHub account. I prefer mainland GitHub better now.
+- [`@seanpm2001`](https://gist.github.com/seanpm2001/)
+
+</details> <!-- End of $GistHub !-->
+
+---
+
 _End of platforms I still use section._
 
 </details> <!-- End of platforms I still use section !-->
 
 ---
 
-### [🔕️ Platforms I no longer use](#-Platforms-I-no-longer-use)
+###### [🔕️ Platforms I no longer use](#-Platforms-I-no-longer-use)
+
+<!-- Should be <H7> !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -315,7 +618,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Reddit
+###### <img src="/Graphics/Social-Media/Reddit/Reddit_logo.svg" alt="Reddit logo failed to load" title="Logo of Reddit" width="20" height="20"> Reddit
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -332,7 +637,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Discord
+###### <img src="/Graphics/Social-Media/Discord/Discord_Color_Text_Logo_(2015-2021).svg" alt="Discord logo failed to load" title="Wordmark of Discord" width="20" height="20"> Discord
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -348,7 +655,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### YouTube
+###### <img src="/Graphics/Social-Media/YouTube/Logo_of_YouTube_(2006-2011).svg" alt="YouTube wordmark failed to load" title="YouTube wordmark" width="20" height="20"> YouTube
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -363,7 +672,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Mozilla
+###### <img src="/Graphics/Other-sites/Mozilla/Mozilla_logo.svg" alt="Mozilla wordmark failed to load" title="Mozilla Wordmark" width="20" height="20"> Mozilla
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -378,7 +689,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### GitLab
+###### <img src="/Graphics/Other-sites/GitLab/GitLab_logo.svg" alt="GitLab wordmark failed to load" title="GitLab wordmark" width="20" height="20"> GitLab
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -393,7 +706,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Patreon
+###### <img src="/Graphics/Other-sites/Patreon/Patreon_logo_with_wordmark.svg" alt="Patreon wordmark failed to load" title="Wordmark of Patreon" width="20" height="20"> Patreon
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -409,7 +724,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### OpenCollective
+###### <img src="/Graphics/Other-Sites/OpenCollective/Open_Collective_logo_2021.svg" alt="OpenCollective wordmark failed to load" title="Wordmark of OpenCollective" width="20" height="20"> OpenCollective
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -424,7 +741,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Ko-Fi
+###### <img src="/Graphics/Other-sites/Ko-Fi/kofi_s_logo_labeldark.svg" alt="Ko-Fi wordmark failed to load" title="Wordmark of Ko-Fi" width="20" height="20"> Ko-Fi
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -439,7 +758,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### LiberaPay
+###### <img src="/Graphics/Other-sites/LiberaPay/Liberapay_logo_v2_white-on-yellow.svg" alt="LiberaPay logo failed to load" title="Logo of LiberaPay" width="20" height="20"> LiberaPay
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -454,7 +775,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### IssueHunt
+###### <img src="/Graphics/Other-sites/IssueHunt/IssueHunt_Logo.png" alt="IssueHunt logo failed to load" title="Logo of IssueHunt" width="20" height="20"> IssueHunt
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -469,7 +792,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### BitBucket
+###### <img src="/Graphics/Other-sites/BitBucket/Bitbucket-blue-logomark-only.svg" alt="BitBucket logo failed to load" title="Logo of BitBucket" width="20" height="20"> BitBucket
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -484,7 +809,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### SourceForge
+###### <img src="/Graphics/Other-sites/SourceForge/Sourceforge_logo.svg" alt="SourceForge Wordmark failed to load" title="Wordmark of SourceForge" width="20" height="20"> SourceForge
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -499,7 +826,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Khan Academy
+###### <img src="/Graphics/Other-sites/Khan-Academy/Khan_Academy_Logo_Old_version_2015.jpeg" alt="Khan Academy logo failed to load" title="Logo of Khan Academy" width="20" height="20"> Khan Academy
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -514,7 +843,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Vimeo
+###### <img src="/Graphics/Social-Media/Vimeo/Vimeo_Logo.svg" alt="Vimeo wordmark failed to load" title="Wordmark of Vimeo" width="20" height="20"> Vimeo
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -529,7 +860,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Macro Polo
+###### <img src="/Graphics/Social-Media/Marci-Polo/Marco-Polo-App-Logo1.png" alt="Marco Polo logo failed to load" title="Logo of Macro Polo" width="20" height="20"> Marco Polo
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -544,7 +877,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Steam
+###### <img src="/Graphics/Online-game-accounts/Steam/Steam_icon_logo.svg" alt="Steam logo failed to load" title="Logo of Steam" width="20" height="20"> Steam
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -560,7 +895,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Roblox
+###### <img src="/Graphics/Online-game-accounts/Roblox/Roblox_Logo_2016.png" alt="Roblox logo failed to load" title="Logo of Roblox" width="20" height="20"> Roblox
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -575,7 +912,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Poptropica
+###### <img src="/Graphics/Online-game-accounts/Poptropica/Poptropica_Logo.svg" alt="Poptropica wordmark failed to load" title="Wordmark of Poptropica" width="20" height="20"> Poptropica
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -590,7 +929,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### NitroType
+###### <img src="/Graphics/Online-game-accounts/Nitrotype/NitroType_Wordmark.png" alt="Nitrotype wordmark failed to load" title="Wordmark of Nitrotype" width="220" height="20"> NitroType
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -598,14 +939,17 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 |---|
 | [`NitroType`](https://www.nitrotype.com/) |
 
-- NitroType was a site I used in my first programming class. I was really good at it. I will need to add a link here in the future.
+- NitroType was a site I used in my first programming class. I was really good at it. My profile somehow still exists in 2024, here it is:
+- [`racer/seanspokane`](https://www.nitrotype.com/racer/seanspokane/)
 - - Further information: [:octocat: `/seanpm2001/NitroType/`](https://github.com/seanpm2001/NitroType/)
 
 </details> <!-- End of $NitroType !-->
 
 ---
 
-#### Minecraft
+###### <img src="/Graphics/Online-game-accounts/Minecraft/Minecraft-Logo1.png" alt="Minecraft logo failed to load" title="Logo of Minecraft" width="20" height="20"> Minecraft
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -620,7 +964,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Happy Wheels
+###### <img src="/Graphics/Online-game-accounts/Happy-Wheels/Happy_Wheels_Logo.png" alt="Happy Wheels wordmark failed to load" title="Wordmark of Happy Wheels" width="20" height="20"> Happy Wheels
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -635,7 +981,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### Growtopia
+###### <img src="/Graphics/Online-game-accounts/Growtopia/Growtopia_Logo.png" alt="Growtopia logo failed to load" title="Logo of Growtopia" width="20" height="20"> Growtopia
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -650,7 +998,9 @@ This list is for platforms I have an account for, but no longer use. Unless stat
 
 ---
 
-#### GMAIL
+###### <img src="/Graphics/Other-sites/GMAIL/Gmail_Icon_(2013-2020).svg" alt="GMAIL logo failed to load" title="Logo of GMAIL" width="20" height="20"> GMAIL
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -667,7 +1017,9 @@ I stopped using GMAIL around 2019, but still keep some accounts around, since so
 
 ---
 
-#### Outlook
+###### <img src="/Graphics/Other-sites/Outlook/Microsoft_Office_Outlook_(2018–present).svg" alt="Outlook logo failed to load" title="Logo of Outlook" width="20" height="20"> Outlook
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -684,7 +1036,9 @@ I briefly used Outlook between 2016 and 2020 for Minecraft Pocket Edition and On
 
 ---
 
-#### Twitter / 𝕏(Videos)
+###### <img src="/Graphics/Social-Media/Twitter/Logo_of_Twitter.svg" alt="Twitter logo failed to load" title="Logo of Twitter" width="20" height="20"> Twitter / 𝕏(Videos)
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -718,7 +1072,9 @@ The new logo is not original whatsoever, it is just a carbon copy of a mathemati
 
 ---
 
-#### Scratch
+###### <img src="/Graphics/Social-Media/Scratch/Scratch_Logo.svg" alt="Scratch wordmark failed to load" title="Wordmark of Scratch" width="20" height="20"> Scratch
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -734,7 +1090,9 @@ The new logo is not original whatsoever, it is just a carbon copy of a mathemati
 
 ---
 
-#### Instagram
+###### <img src="/Graphics/Social-Media/Instagram/Instagram_logo_2016.svg" alt="Instagram logo failed to load" title="Logo of Instagram" width="20" height="20"> Instagram
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -749,7 +1107,9 @@ The new logo is not original whatsoever, it is just a carbon copy of a mathemati
 
 ---
 
-#### Facebook
+###### <img src="/Graphics/Social-Media/Facebook/Facebook_Shiny_Icon.svg" alt="Facebook logo failed to load" title="Logo of Facebook" width="20" height="20"> Facebook
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -778,7 +1138,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Yelp
+###### <img src="/Graphics/Other-sites/Yelp/Yelp_Logo.svg" alt="Yelp wordmark failed to load" title="Yelp wordmark" width="20" height="20"> Yelp
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -792,7 +1154,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Tumblr
+###### <img src="/Graphics/Social-Media/Tumblr/Tumblr_Logo.svg" alt="Tumblr wordmark failed to load" title="Tumblr wordmark" width="20" height="20"> Tumblr
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -806,7 +1170,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Bandcamp
+###### <img src="/Graphics/Other-sites/Bandcamp/Bandcamp-bc-logotype-color.svg" alt="Bandcamp logo failed to load" title="Logo of Bandcamp" width="20" height="20"> Bandcamp
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -815,12 +1181,15 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 | [`Bandcamp`](https://bandcamp.com/) |
 
 - [`Bandcamp @seanwallawalla`](https://seanwallawalla.bandcamp.com/releases/) - My only way of earning money online at the moment
+- - [`Bandcamp @seanwallawallafan`](https://bandcamp.com/seanwallawallafan/) - My main Bandcamp account.
 
 </details> <!-- End of $Bandcamp !-->
 
 ---
 
-#### Quora
+###### <img src="/Graphics/Social-Media/Quora/Quora_logo.svg" alt="Quora wordmark failed to load" title="Wordmark of Quora" width="20" height="20"> Quora
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -834,7 +1203,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Zoom
+###### <img src="/Graphics/Other-sites/Zoom/Zoom_Logo_2022.svg" alt="Zoom wordmark failed to load" title="Wordmark of Zoom software" width="20" height="20"> Zoom
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -848,7 +1219,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Hulu
+###### <img src="/Graphics/Other-sites/Hulu/Hulu_2019.svg" alt="Hulu wordmark failed to load" title="Wordmark of Hulu" width="20" height="20"> Hulu
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -862,7 +1235,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### DeGoo
+###### <img src="/Graphics/Other-sites/DeGoo/DeGoo_20GB_Logo.png" alt="DeGoo logo failed to load" title="Logo of Degoo" width="20" height="20"> DeGoo
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -876,7 +1251,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Dropbox
+###### <img src="/Graphics/Other-sites/Dropbox/Dropbox_logo_2017.svg" alt="Dropbox wordmark failed to load" title="Wordmark of Dropbox" width="50" height="20"> Dropbox
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -890,7 +1267,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### iCloud
+###### <img src="/Graphics/Other-sites/iCloud/iCloud_OldIcon1.png" alt="iCloud logo failed to load" title="Logo of iCloud" width="20" height="20"> iCloud
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -904,7 +1283,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### iTunes
+###### <img src="/Graphics/Other-sites/iTunes/ITunes_OldIcon1.png" alt="iTunes logo failed to load" title="Logo of iTunes" width="20" height="20"> iTunes
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -918,7 +1299,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### MediaFire
+###### <img src="/Graphics/Other-sites/MediaFire/MediaFire_logo.png" alt="MediaFire wordmark failed to load" title="Wordmark of MediaFire" width="20" height="20"> MediaFire
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -932,7 +1315,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### OneDrive
+###### <img src="/Graphics/Other-sites/OneDrive/Microsoft_Office_OneDrive_(2019–present).svg" alt="OneDrive logo failed to load" title="Logo of OneDrive" width="20" height="20"> OneDrive
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -946,7 +1331,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### pCloud
+###### <img src="/Graphics/Other-sites/pCloud/Pcloud-logo.svg" alt="pCloud logo failed to load" title="Logo of pCloud" width="20" height="20"> pCloud
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -960,7 +1347,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Asperger Experts
+###### <img src="/Graphics/Other-sites/AspergerExperts/AspergerExperts_Logo.png" alt="Asperger Experts logo failed to load" title="Logo of Asperger Experts" width="20" height="20"> Asperger Experts
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -974,7 +1363,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Trello
+###### <img src="/Graphics/Other-sites/Trello/Trello-logo-blue.svg" alt="Trello wordmark failed to load" title="Wordmark of Trello" width="20" height="20"> Trello
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -988,7 +1379,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### code.org
+###### <img src="/Graphics/Other-sites/CodeDotOrg/Code.org_logo.svg" alt="code.org logo failed to load" title="Logo of code.org" width="20" height="20"> code.org
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1002,7 +1395,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### ALEKS
+###### <img src="/Graphics/Other-sites/ALEKS/ALEKS_Logo.png" alt="ALEKS logo failed to load" title="Logo of ALEKS" width="20" height="20"> ALEKS
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1016,7 +1411,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Edhesive
+###### <img src="/Graphics/Other-sites/Edhesive/Edhesive_Wordmark.png" alt="Edhesive wordmark failed to load" title="Wordmark of Edhesive" width="20" height="20"> Edhesive
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1030,7 +1427,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Nintendo
+###### <img src="/Graphics/Other-sites/Nintendo/Nintendo.svg" alt="Nintendo wordmark failed to load" title="Wordmark of Nintendo" width="20" height="20"> Nintendo
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1044,7 +1443,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### Thingiverse
+###### <img src="/Graphics/Other-sites/Thingiverse/Thingiverse_Logo_192x192.png" alt="Thingiverse logo failed to load" title="Logo of Thingiverse" width="20" height="20"> Thingiverse
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1060,7 +1461,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-#### PayPal
+###### <img src="/Graphics/Other-sites/PayPal/PayPal_Logo_Icon_2014.svg" alt="PayPal logo failed to load" title="Logo of PayPal" width="20" height="20"> PayPal
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1074,7 +1477,9 @@ This sticker is supported by [`Richard Stallman`](https://stallman.org/) to prot
 
 ---
 
-##### Amazon
+###### <img src="/Graphics/Other-sites/Amazon/Amazon_Logo_Old1.png" alt="Amazon logo failed to load" title="Logo of Amazon" width="20" height="20"> Amazon
+
+<!-- Should be <H8> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1105,13 +1510,17 @@ _End of platforms I am on section._
 
 ---
 
-### [📵️ Platforms I am not on](#-Platforms-I-am-not-on)
+###### [📵️ Platforms I am not on](#-Platforms-I-am-not-on)
+
+<!-- Should be <H7> !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 ---
 
-#### [🔗️ Never joined](#-Never-joined)
+###### [🔗️ Never joined](#-Never-joined)
+
+<!-- Should be <H8> !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1119,7 +1528,10 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### TikTok
+###### <img src="/Graphics/Social-Media/TikTok/TikTok_logo.svg" alt="TikTok logo failed to load" title="I am not on TikTok" width="20" height="20"> TikTok
+###### [🔗️ Never joined](#-Never-joined)
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1139,7 +1551,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### WhatsApp
+###### <img src="/Graphics/Social-Media/WhatsApp/WhatsApp.svg" alt="WhatsApp logo failed to load" title="I am not on WhatsApp" width="20" height="20"> WhatsApp
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1157,7 +1571,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### Pinterest
+###### <img src="/Graphics/Social-Media/Pinterest/Pinterest-Logo1.png" alt="Pinterest logo failed to load" title="I am not on Pinterest" width="20" height="20"> Pinterest
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1173,7 +1589,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### LinkedIn
+###### <img src="/Graphics/Social-Media/LinkedIn/LinkedIn_icon.svg" alt="LinkedIn logo failed to load" title="I am not on LinkedIn" width="20" height="20"> LinkedIn
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1191,7 +1609,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### VK/VKontakte
+###### <img src="/Graphics/Social-Media/VK/VK.com-logo.svg" alt="VKontakte logo failed to load" title="I am not on VK/VKontakte" width="20" height="20"> VK/VKontakte
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1212,7 +1632,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### PornHub
+###### <img src="/Graphics/Other-sites/Pornhub/Pornhub-logo.svg" alt="Pornhub logo failed to load" title="I am not on Pornhub" width="20" height="20"> PornHub
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1233,7 +1655,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### Snapchat
+###### <img src="/Graphics/Social-Media/Snapchat/Snapcode_barcode.svg" alt="Snapchat logo failed to load" title="I am not on Snapchat" width="20" height="20"> Snapchat
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1252,7 +1676,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### Telegram
+###### <img src="/Graphics/Social-Media/Telegram/Telegram_2019_Logo.svg" alt="Telegram logo failed to load" title="Logo of Telegram" width="20" height="20"> Telegram
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1266,7 +1692,9 @@ Popular platforms I am not on, and have never joined:
 
 ---
 
-##### Signal
+###### <img src="/Graphics/Social-Media/Signal/Signal-Logo.svg" alt="Signal logo failed to load" title="Logo of Signal" width="20" height="20"> Signal
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1286,7 +1714,9 @@ _End of platforms I have never joined section._
 
 ---
 
-#### [🧨️ No longer exists](#No-longer-exists)
+###### [🧨️ No longer exists](#No-longer-exists)
+
+<!-- Should be <H8> !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1294,7 +1724,9 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### Go90
+###### <img src="/Graphics/Other-sites/Go90/Go90_logo.jpeg" alt="Go90 logo failed to load" title="Logo of Go90" width="20" height="20"> Go90
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1306,7 +1738,9 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### Ditty.it
+###### <img src="/Graphics/Social-Media/Ditty/DittyLogo.png" alt="Ditty.it logo failed to load" title="Logo of Ditty.it" width="20" height="20"> Ditty.it
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1322,7 +1756,9 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### Periscope
+###### <img src="/Graphics/Social-Media/Periscope/Periscope_Logo.svg" alt="Periscope logo failed to load" title="Logo of Persicope" width="20" height="20"> Periscope
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1336,7 +1772,9 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### Google Plus
+###### <img src="/Graphics/Social-Media/Google-Plus/Google_Plus_logo_(2015-2019).svg" alt="Google+ logo failed to load" title="Logo of Google+" width="20" height="20"> Google Plus
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1351,9 +1789,11 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### Club Penguin
+###### <img src="/Graphics/Online-game-accounts/Club-Penguin/Club_Penguin_Logo_2012_-_2017.png" alt="Club Penguin logo failed to load" title="Logo of Club Penguin" width="20" height="20"> Club Penguin
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+<!-- Should be <H9> !-->
 
 | <img src="/Graphics/Online-game-accounts/Club-Penguin/Club_Penguin_Logo_2012_-_2017.png" alt="Club Penguin logo failed to load" title="Logo of Club Penguin" width="460" height="218"> |
 |---|
@@ -1366,7 +1806,9 @@ Platforms I have used in the past, but no longer exist include:
 
 ---
 
-##### Clocktree
+###### <img src="/Graphics/Other-sites/Clocktree/ClockTreeLogo.jpeg" alt="Clocktree logo failed to load" title="Logo of Clocktree" width="20" height="20"> Clocktree
+
+<!-- Should be <H9> !-->
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -1402,4 +1844,6 @@ _End of How to reach me section._
 
 </details> <!-- End of how to reach me section !-->
 
-***
+<img src="/Graphics/Dividers/PNG/Slate-Divider_2500x250_V1_HighCompression.png" alt="Slate divider" width="2500" height="25">
+
+<!-- *** !-->
