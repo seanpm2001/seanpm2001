@@ -39,6 +39,10 @@ My major projects include:
 
 A collective of my framework projects.
 
+| Donate to this collective |
+|---|
+| `bc1qzvx6n03xlzxp7zsa5y3endqf3s0ypn2pmzq83z` |
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the framework collective</b></p></summary>
@@ -414,6 +418,10 @@ _End of framework collective._
 
 A collective of my core-related projects.
 
+| Donate to this collective |
+|---|
+| `bc1q86dwmukhgagdwexcch9tdhd2vv0486rdv3e078` |
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the core collective</b></p></summary>
@@ -522,6 +530,10 @@ _End of core collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my computer security projects.
+
+| Donate to this collective |
+|---|
+| `bc1qfgaqvjxp37rl6s7up6z4m76y8cgu3w0l7rhl08` |
 
 ---
 
@@ -680,6 +692,10 @@ _End of security collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my productivity software projects.
+
+| Donate to this collective |
+|---|
+| `bc1q92qcpeveclcgay0fvpcazrl22e2wjpk5f3u9mf` |
 
 ---
 
@@ -915,6 +931,10 @@ _End of productive collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my video game projects.
+
+| Donate to this collective |
+|---|
+| `bc1q5582eumvqtvxsd6klgmwulf4cjaql0t9lyudjy` |
 
 ---
 
@@ -1202,6 +1222,10 @@ _End of video game collective._
 
 A collective of my Desktop Environment (DE) projects.
 
+| Donate to this collective |
+|---|
+| `bc1qn9hxsrae3rxxzl356q8dx6ehr5mdaag99wu8pp` |
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the desktop environment collective</b></p></summary>
@@ -1289,6 +1313,10 @@ _End of desktop environment collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my majority documentation projects.
+
+| Donate to this collective |
+|---|
+| `bc1qwwrxjk988rlhr2gpsc92uw2xjwxfccnc67emhq` |
 
 ---
 
@@ -1435,6 +1463,10 @@ _End of documentation collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my Operating System projects.
+
+| Donate to this collective |
+|---|
+| `bc1qccepttmy2ty5823xtjwa4qkp02cwuglsxve7z9` |
 
 ---
 
@@ -2497,6 +2529,10 @@ _End of Operating System Collective._
 
 A collective of my Web Browser projects.
 
+| Donate to this collective |
+|---|
+| `bc1q5mnjgerqerdr3zlse80xhq4m2mr5hmsq7cqs3x` |
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the web browser collective</b></p></summary>
@@ -2588,6 +2624,10 @@ _End of web browser collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my software LIBrary projects.
+
+| Donate to this collective |
+|---|
+| `bc1qdz9lehpqg8hvsglcuye94f46jcqwux5u90920j` |
 
 ---
 
@@ -2690,6 +2730,10 @@ _End of LIbrary collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my linguistics software projects.
+
+| Donate to this collective |
+|---|
+| `bc1qql4lw98f58tlgfhq7fufa2rj3x9m5k4sxewkkq` |
 
 ---
 
@@ -2852,6 +2896,10 @@ _End of lingustics collective._
 
 A collective of my comedic projects.
 
+| Donate to this collective |
+|---|
+| `bc1qfatk3ata25rvqady6zqtfms8e56ug3aw5ylqfw` |
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the comedy collective</b></p></summary>
@@ -2953,6 +3001,10 @@ _End of comedy collective._
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 A collective of my miscellaneous projects.
+
+| Donate to this collective |
+|---|
+| `bc1qn85v86ywfs75zalcw3dvgxrktqjy4shztukewj` |
 
 ---
 
