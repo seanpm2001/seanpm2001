@@ -3208,7 +3208,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | [:octocat: `Meme Machine 2019`](https://github.com/seanpm2001/MemeMachine-2019/) | [:octocat: `Jscribe`](https://github.com/seanpm2001/JScribe/) | [:octocat: `UltraSwitch`](https://github.com/seanpm2001/UltraSwitch/) | [:octocat: `RegAggregate`](https://github.com/seanpm2001/RegAggregate/) | [:octocat: `SafeWINE`](https://github.com/seanpm2001/SafeWINE/) | [:octocat: `WinWalla`](https://github.com/seanpm2001/WinWalla/) |
 | [:octocat: `SDE MobileServer`](https://github.com/seanpm2001/SDE_MobileServer/) | [:octocat: `HT Messenger`](https://github.com/seanpm2001/HT-Messenger/) | [:octocat: `GitMan`](https://github.com/seanpm2001/GitMan/) | [:octocat: `Nuclear ad bombs specification`](https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/) | [:octocat: `Delerium`](https://github.com/seanpm2001/Delerium/) | [:octocat: `B3`](https://github.com/seanpm2001/B3/) |
 | [:octocat: `Seanpm2001 DRM Blocklist`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/) | [:octocat: `George P. Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/) | [:octocat: `Seanpm2001 WorldDB`](https://github.com/seanpm2001/Seanpm2001-WorldDB/) | [:octocat: `Tone Indicator Standard`](https://github.com/seanpm2001/Tone-Indicator-Standard/) | [:octocat: `GitHex`](https://github.com/seanpm2001/GitHex/) |  [:octocat: `World Census Project`](https://github.com/seanpm2001/World-Census-Project/) |
-| [:octocat: `Its`](https://github.com/seanpm2001/Its/) | [:octocat: `vCoin`](https://github.com/seanpm2001/vCoin/) | [:octocat: `Pikeheader`](https://github.com/seanpm2001/Pikeheader/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ |
+| [:octocat: `Its`](https://github.com/seanpm2001/Its/) | [:octocat: `vCoin`](https://github.com/seanpm2001/vCoin/) | [:octocat: `Pikeheader`](https://github.com/seanpm2001/Pikeheader/) | [:octocat: `DALL-E LLaMA`](https://github.com/seanpm2001/DALL-E_LLaMA/) | [:octocat: `Open Media Rating System (OMRS)`](https://github.com/seanpm2001/Open-Media-Rating-System/) | **Some other projects aren't listed yet** |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of core repository list section for the major project: Other Projects section !-->
@@ -3376,5 +3376,13 @@ This is a sorted list of key projects by mega project categories.
 _End of What I'm currently working on section._
 
 </details> <!-- End of What I'm currently working on !-->
+
+---
+
+# File info
+
+**File version:** `149 (2024, Sunday, December 1st at 8:22 pm PST)`
+
+Separated from the core README file before version 140
 
 ---
