@@ -7,11 +7,11 @@
 
 Some of my repositories are temporarily private, as they are completely unready to be seen. I have to resolve some issues before I can release them. Information on which projects are private can be found through my [:octocat: `REDACTED`](https://github.com/seanpm2001/REDACTED/) repository.
 
-As of 2025, Friday, January 3rd, I have 161 private repositories.
+As of 2025, Saturday, January 4th, I have 171 private repositories.
 
 **This section needs expansion**
 
-View this segment [in a separate file (coming soon)](/Segments/Private-repositories/README.md)
+View this segment [in a separate file](/Segments/Private-repositories/README.md)
 
 <!-- TODO: 2024.04.20 !-->
 
@@ -23,7 +23,7 @@ _No other private repository information listed._
 
 # File info
 
-**File version:** `105 (2025, Friday, January 3rd at 04:54 pm PST)`
+**File version:** `106 (2025, Saturday, January 4th at 11:12 am PST)`
 
 Separated from the core README file before version 104
 
