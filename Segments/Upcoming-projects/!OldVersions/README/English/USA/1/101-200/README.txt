@@ -16,6 +16,7 @@ I have several upcoming projects that I currently can only list the abbreviation
 - W1
 - W2
 - ZS
+- NNA
 
 They are currently private. I normally don't keep projects private for this long, but I have special reasons for this.
 
@@ -24,5 +25,13 @@ View this segment [in a separate file (coming soon)](/Segments/Upcoming-projects
 _End of upcoming projects section._
 
 </details> <!-- End of Upcoming projects section !-->
+
+---
+
+# File info
+
+**File version:** `107 (2025, Friday, January 3rd at 04:55 pm PST)`
+
+Separated from the core README file before version 106
 
 ***
