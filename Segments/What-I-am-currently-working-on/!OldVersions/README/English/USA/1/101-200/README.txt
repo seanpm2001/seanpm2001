@@ -3160,7 +3160,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
 
 **Core repositories:**
 
-**Public projects**
+**🌐️ Public projects**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
@@ -3214,12 +3214,12 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
-**Private projects**
+**🔒️ Private projects**
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
 | [:octocat: `🔒️ Private (CU)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FaTT)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FFDRY)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (G---2001)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (N2O)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NG2001)`](https://github.com/seanpm2001/Redacted/) |
-| [:octocat: `🔒️ Private (W1)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (W2)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (ZS)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NNA)`](https://github.com/seanpm2001/Redacted/) | **No other projects to list yet** | ⭕️ |
+| [:octocat: `🔒️ Private (W1)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (W2)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (ZS)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NNA)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (MGV)`](https://github.com/seanpm2001/Redacted/) | **No other projects to list yet** |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of core repository list section for the major project: Other Projects section !-->
@@ -3392,7 +3392,7 @@ _End of What I'm currently working on section._
 
 # File info
 
-**File version:** `152 (2025, Saturday, January 4th at 11:14 am PST)`
+**File version:** `153 (2025, Sunday, January 5th at 05:35 pm PST)`
 
 Separated from the core README file before version 140
 
