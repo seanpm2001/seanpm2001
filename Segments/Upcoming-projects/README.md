@@ -18,10 +18,11 @@ I have several upcoming projects that I currently can only list the abbreviation
 - ZS
 - NNA
 - MGV
+- MMA
 
 They are currently private. I normally don't keep projects private for this long, but I have special reasons for this.
 
-View this segment [in a separate file (coming soon)](/Segments/Upcoming-projects/README.md)
+View this segment [in a separate file](/Segments/Upcoming-projects/README.md)
 
 _End of upcoming projects section._
 
@@ -31,7 +32,7 @@ _End of upcoming projects section._
 
 # File info
 
-**File version:** `108 (2025, Sunday, January 5th at 05:38 pm PST)`
+**File version:** `109 (2025, Monday, January 6th at 03:33 pm PST)`
 
 Separated from the core README file before version 106
 
