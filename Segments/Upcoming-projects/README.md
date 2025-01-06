@@ -17,6 +17,7 @@ I have several upcoming projects that I currently can only list the abbreviation
 - W2
 - ZS
 - NNA
+- MGV
 
 They are currently private. I normally don't keep projects private for this long, but I have special reasons for this.
 
@@ -30,7 +31,7 @@ _End of upcoming projects section._
 
 # File info
 
-**File version:** `107 (2025, Friday, January 3rd at 04:55 pm PST)`
+**File version:** `108 (2025, Sunday, January 5th at 05:38 pm PST)`
 
 Separated from the core README file before version 106
 
