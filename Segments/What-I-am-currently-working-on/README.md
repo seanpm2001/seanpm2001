@@ -3219,7 +3219,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
 | [:octocat: `🔒️ Private (CU)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FaTT)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FFDRY)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (G---2001)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (N2O)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NG2001)`](https://github.com/seanpm2001/Redacted/) |
-| [:octocat: `🔒️ Private (W1)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (W2)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (ZS)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NNA)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (MGV)`](https://github.com/seanpm2001/Redacted/) | **No other projects to list yet** |
+| [:octocat: `🔒️ Private (W1)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (W2)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (ZS)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NNA)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (MGV)`](https://github.com/seanpm2001/Redacted/) [:octocat: `🔒️ Private (MMS)`](https://github.com/seanpm2001/Redacted/) | |
+| **No other projects to list yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of core repository list section for the major project: Other Projects section !-->
@@ -3384,6 +3385,8 @@ This is a sorted list of key projects by mega project categories.
 
 ---
 
+View this segment [in a separate file](/Segments/What-I-am-currently-working-on/README.md)
+
 _End of What I'm currently working on section._
 
 </details> <!-- End of What I'm currently working on !-->
@@ -3392,7 +3395,7 @@ _End of What I'm currently working on section._
 
 # File info
 
-**File version:** `153 (2025, Sunday, January 5th at 05:35 pm PST)`
+**File version:** `154 (2025, Monday, January 5th at 03:37 pm PST)`
 
 Separated from the core README file before version 140
 
