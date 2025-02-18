@@ -3160,6 +3160,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
 
 **Core repositories:**
 
+> **Todo:** Convert the following 2 Markdown tables into HTML tables, and add images (logos) for each project.
+
 **🌐️ Public projects**
 
 | A | B | C | D | E | F |
@@ -3395,7 +3397,7 @@ _End of What I'm currently working on section._
 
 # File info
 
-**File version:** `156 (2025, Monday, February 3rd at 06:14 pm PST)`
+**File version:** `157 (2025, Monday, February 17th at 07:57 pm PST)`
 
 Separated from the core README file before version 140
 
