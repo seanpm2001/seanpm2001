@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2024-10-03"
-      - version: "v140"
+      - date: "2025-02-18"
+      - version: "v142"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -19,7 +19,7 @@ defaultPlatform: linux
 
 <!-- *** !-->
 
-- _Section added 2024 April 20th._ [`View this section separately`](/Segments/Top-test-zone/README.md)
+- _Section added 2024, April 20th._ [`View this section separately`](/Segments/Top-test-zone/README.md)
 
 <img src="/Graphics/Dividers/PNG/Wood-Of-Some-Sort-Divider_2500x250_V1_HighCompression.png" alt="Wood of some sort divider" width="2500" height="25">
 
@@ -5579,11 +5579,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `141 (2024, Tuesday, October 2nd at 12:40 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,655`
-- **Word count:** `064,160`
-- **Character count (with spaces):** `0,439,197 characters`
-- **Character count (without spaces)** `0,382,420 characters`
+- **File version:** `142 (2025, Tuesday, February 18th at 03:42 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,661`
+- **Word count:** `064,230`
+- **Character count (with spaces):** `0,439,609 characters`
+- **Character count (without spaces)** `0,382,763 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6990,11 +6990,17 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 142 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 142 (2025, Tuesday, February 18th at 03:42 pm PST)</b></summary>
+
+> **Note** _This is the first update of the year 2025, and is just a small maintenance update_
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the GitHub YAML FrontMatter segment
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 142
+- [x] Updated the footer segment to include the Monty easter egg, and to update the Copyleft date
 - [ ] No other changes in version 142
 
 </details> <!-- End of V142 !-->
@@ -8625,7 +8631,7 @@ View this segment [`in a separate file`](/Segments/Cryptocurrency-donations/READ
 
 <!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
-# [🦶️ Footer](#-Footer)
+# [🦶️](/Segments/Footer/Monty/README.md) [Footer](#-Footer)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -8639,7 +8645,7 @@ You have reached the end of this page.
 
 </details> <!-- End of footer !-->
 
-- **🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2024) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt) (⅃)**
+- **🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2025) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt) (⅃)**
 
 ### [🔚️ End of file](#-End-of-file)
 
