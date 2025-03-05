@@ -3160,15 +3160,561 @@ Note to self: Make sure to also check each repository to see if a separate docum
 
 **Core repositories:**
 
-> **Todo:** Convert the following 2 Markdown tables into HTML tables, and add images (logos) for each project.
+> **Todo:** Convert the following 2 Markdown tables into HTML tables, and add images (logos) for each project. Convert at least 1 row for every revision to this file.
 
-**🌐️ Public projects**
+| **🌐️ Public projects** |
+|---|
+
+| ⚠️ NOTICE |
+|---|
+| The following table is undergoing conversion from another table (Markdown) currently, 258 entries have not been carried over. |
+
+<table>
+  <!-- Row A1 !-->
+  <!-- Number 1 !-->
+  <tr>
+    <td align="center"><p>Section P1#1</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanwallawalla-health"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Health projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/CompuSmell"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ CompuSmell project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-life"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Degoogle campaign/DeGoogle your Life</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Myrick-family-archive"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Myrick family archive</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Nostalgia-project"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nostalgia Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-operating-systems"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Other operating system projects (SeanWallaWalla)</b></sub></a></td>
+  </tr>
+  <!-- Row A2 !-->
+  <!-- Number 2 !-->
+  <tr>
+    <td align="center"><p>Section P1#2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-bots"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Bot projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-security"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Software Security projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-audio"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Audio projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-gaming"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Open Source video game projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-malware"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️⚠️ VIRTUAL MACHINES ONLY: Malware projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DISK-O-Jockey"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DISK-O-Jockey project</b></sub></a></td>
+  </tr>
+  <!-- Row A3 !-->
+  <!-- Number 3 !-->
+  <tr>
+    <td align="center"><p>Section P1#3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Kotlint"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Kotlint Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/WichCraft"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ WichCraft Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/iStonk"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ iStonk Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Economica"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Economica Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Egg_Org"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Egg Org Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OpenTowers"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenTowers Project</b></sub></a></td>
+  </tr>
+  <!-- Row A4 !-->
+  <!-- Number 4 !-->
+  <tr>
+    <td align="center"><p>Section P1#4</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A5 !-->
+  <!-- Number 5 !-->
+  <tr>
+    <td align="center"><p>Section P1#5</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A6 !-->
+  <!-- Number 6 !-->
+  <tr>
+    <td align="center"><p>Section P1#6</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A7 !-->
+  <!-- Number 7 !-->
+  <tr>
+    <td align="center"><p>Section P1#7</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A8 !-->
+  <!-- Number 8 !-->
+  <tr>
+    <td align="center"><p>Section P1#8</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A9 !-->
+  <!-- Number 9 !-->
+  <tr>
+    <td align="center"><p>Section P1#9</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A10 !-->
+  <!-- Number 10 !-->
+  <tr>
+    <td align="center"><p>Section P1#10</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A11 !-->
+  <!-- Number 11 !-->
+  <tr>
+    <td align="center"><p>Section P1#11</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A12 !-->
+  <!-- Number 12 !-->
+  <tr>
+    <td align="center"><p>Section P1#12</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A13 !-->
+  <!-- Number 13 !-->
+  <tr>
+    <td align="center"><p>Section P1#13</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A14 !-->
+  <!-- Number 14 !-->
+  <tr>
+    <td align="center"><p>Section P1#14</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A15 !-->
+  <!-- Number 15 !-->
+  <tr>
+    <td align="center"><p>Section P1#15</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A16 !-->
+  <!-- Number 16 !-->
+  <tr>
+    <td align="center"><p>Section P1#16</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A17 !-->
+  <!-- Number 17 !-->
+  <tr>
+    <td align="center"><p>Section P1#17</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A18 !-->
+  <!-- Number 18 !-->
+  <tr>
+    <td align="center"><p>Section P1#18</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A19 !-->
+  <!-- Number 19 !-->
+  <tr>
+    <td align="center"><p>Section P1#19</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A20 !-->
+  <!-- Number 20 !-->
+  <tr>
+    <td align="center"><p>Section P1#20</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A21 !-->
+  <!-- Number 21 !-->
+  <tr>
+    <td align="center"><p>Section P1#21</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A22 !-->
+  <!-- Number 22 !-->
+  <tr>
+    <td align="center"><p>Section P1#22</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A23 !-->
+  <!-- Number 23 !-->
+  <tr>
+    <td align="center"><p>Section P1#23</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A24 !-->
+  <!-- Number 24 !-->
+  <tr>
+    <td align="center"><p>Section P1#24</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A25 !-->
+  <!-- Number 25 !-->
+  <tr>
+    <td align="center"><p>Section P1#25</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A26 !-->
+  <!-- Number 26 !-->
+  <tr>
+    <td align="center"><p>Section P1#26</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A27 !-->
+  <!-- Number 27 !-->
+  <tr>
+    <td align="center"><p>Section P1#27</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A28 !-->
+  <!-- Number 28 !-->
+  <tr>
+    <td align="center"><p>Section P1#28</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A29 !-->
+  <!-- Number 29 !-->
+  <tr>
+    <td align="center"><p>Section P1#29</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A30 !-->
+  <!-- Number 30 !-->
+  <tr>
+    <td align="center"><p>Section P1#30</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A31 !-->
+  <!-- Number 31 !-->
+  <tr>
+    <td align="center"><p>Section P1#31</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A32 !-->
+  <!-- Number 32 !-->
+  <tr>
+    <td align="center"><p>Section P1#32</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A33 !-->
+  <!-- Number 33 !-->
+  <tr>
+    <td align="center"><p>Section P1#33</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A34 !-->
+  <!-- Number 34 !-->
+  <tr>
+    <td align="center"><p>Section P1#34</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A35 !-->
+  <!-- Number 35 !-->
+  <tr>
+    <td align="center"><p>Section P1#35</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A36 !-->
+  <!-- Number 36 !-->
+  <tr>
+    <td align="center"><p>Section P1#36</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A37 !-->
+  <!-- Number 37 !-->
+  <tr>
+    <td align="center"><p>Section P1#37</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A38 !-->
+  <!-- Number 38 !-->
+  <tr>
+    <td align="center"><p>Section P1#38</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A39 !-->
+  <!-- Number 39 !-->
+  <tr>
+    <td align="center"><p>Section P1#39</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A40 !-->
+  <!-- Number 40 !-->
+  <tr>
+    <td align="center"><p>Section P1#40</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A41 !-->
+  <!-- Number 41 !-->
+  <tr>
+    <td align="center"><p>Section P1#41</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A42 !-->
+  <!-- Number 42 !-->
+  <tr>
+    <td align="center"><p>Section P1#42</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A43 !-->
+  <!-- Number 43 !-->
+  <tr>
+    <td align="center"><p>Section P1#43</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A44 !-->
+  <!-- Number 44 !-->
+  <tr>
+    <td align="center"><p>Section P1#44</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A45 !-->
+  <!-- Number 45 !-->
+  <tr>
+    <td align="center"><p>Section P1#45</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A46 !-->
+  <!-- Number 46 !-->
+  <tr>
+    <td align="center"><p>Section P1#46</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A47 !-->
+  <!-- Number 47 !-->
+  <tr>
+    <td align="center"><p>Section P1#47</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+  </tr>
+  <!-- Row A48 !-->
+  <!-- Number 48 !-->
+  <tr>
+    <td align="center"><p>Section P2#48</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/ClosedAI"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ClosedAI project</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+  <!-- Row A49 !-->
+  <!-- Number 49 !-->
+  <tr>
+    <td align="center"><p>Section P2#49</p></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+</table>
+
+OLD TABLE
 
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-| [:octocat: `🌐️ Health projects`](https://github.com/seanpm2001/Seanwallawalla-health) | [:octocat: `🌐️ CompuSmell project`](https://github.com/seanpm2001/CompuSmell) | [:octocat: `🌐️ Degoogle campaign`](https://github.com/seanpm2001/Degoogle-your-life) | [:octocat: `🌐️ Myrick family archive`](https://github.com/Myrick-family-archive) | [:octocat: `🌐️ Nostalgia Project`](https://github.com/seanpm2001/Nostalgia-project) | [:octocat: `🌐️ Other operating system projects](https://github.com/seanpm2001/seanwallawalla-operating-systems) |
-| [:octocat: `🌐️ Bot projects`](https://github.com/seanpm2001/seanwallawalla-bots) | [:octocat: `🌐️ Software security projects`](https://github.com/seanpm2001/seanwallawalla-security) | [:octocat: `🌐️ Audio projects`](https://github.com/seanpm2001/seanwallawalla-audio) | [:octocat: `🌐️ Open Source Video games`](https://github.com/seanpm2001/seanwallawalla-gaming) | [:octocat: `🌐️ Malware projects (ONLY FOR USE IN VIRTUAL MACHINES)`](https://github.com/seanpm2001/seanwallawalla-malware) | [:octocat: `🌐️ DISK-O Jockey`](https://github.com/seanpm2001/DISK-O-Jockey/) |
-| [:octocat: `🌐️ Kotlint`](https://github.com/seanpm2001/Kotlint/) | [:octocat: `🌐️ WichCraft`](https://github.com/seanpm2001/WichCraft/) | [:octocat: `🌐️ iStonk`](https://github.com/seanpm2001/iStonk/) | [:octocat: `🌐️ Economica`](https://github.com/seanpm2001/Economica/) | [:octocat: `🌐️ Egg Org`](https://github.com/seanpm2001/Egg_Org/) | [:octocat: `🌐️ OpenTowers`](https://github.com/seanpm2001/OpenTowers/) |
 | [:octocat: `🌐️ BGemJam`](https://github.com/seanpm2001/BGemJam/) | [:octocat: `🌐️ The offline experience`](https://github.com/seanpm2001/The-Offline-Experience/) | [:octocat: `🌐️ VLCSV`](https://github.com/seanpm2001/VLCSV/) | [:octocat: `🌐️ DLLinux`](https://github.com/seanpm2001/DLLinux/) | [:octocat: `🌐️ Kornhub`](https://github.com/seanpm2001/Kornhub/) | [:octocat: `🌐️ Hyper realistic farm simulator`](https://github.com/seanpm2001/Hyper-realistic-farm-simulator/) |
 | [:octocat: `🌐️ PongMax`](https://github.com/seanpm2001/PongMax/) | [:octocat: `🌐️ Boom Bay`](https://github.com/seanpm2001/Boom-Bay/) | [:octocat: `🌐️ Mammal Town`](https://github.com/seanpm2001/Mammal_Town/) | [:octocat: `🌐️ Pocket Village`](https://github.com/seanpm2001/Pocket-village/) | [:octocat: `🌐️ Snowcraft`](https://github.com/seanpm2001/Snowcraft/) | [:octocat: `🌐️ Green Star OS`](https://github.com/seanpm2001/Green-Star-OS/) |
 | [:octocat: `🌐️ Hatium`](https://github.com/seanpm2001/Hatium/) | [:octocat: `🌐️ Windows 10 Python Edition`](https://github.com/seanpm2001/Windows_10_Python_Edition/) | [:octocat: `🌐️ Windows Server 2016 Python Edition`](https://github.com/seanpm2001/Windows_server_2016_Python_Edition/) | [:octocat: `🌐️ IsraeLinux`](https://github.com/seanpm2001/IsraeLinux/) | [:octocat: `🌐️ BitChecker`](https://github.com/seanpm2001/BitChecker/) | [:octocat: `🌐️ Phoneticut`](https://github.com/seanpm2001/Phoneticut/) |
@@ -3213,17 +3759,58 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | [:octocat: `🌐️ SDE MobileServer`](https://github.com/seanpm2001/SDE_MobileServer/) | [:octocat: `🌐️ HT Messenger`](https://github.com/seanpm2001/HT-Messenger/) | [:octocat: `🌐️ GitMan`](https://github.com/seanpm2001/GitMan/) | [:octocat: `🌐️ Nuclear ad bombs specification`](https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/) | [:octocat: `🌐️ Delerium`](https://github.com/seanpm2001/Delerium/) | [:octocat: `🌐️ B3`](https://github.com/seanpm2001/B3/) |
 | [:octocat: `🌐️ Seanpm2001 DRM Blocklist`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/) | [:octocat: `🌐️ George P. Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/) | [:octocat: `🌐️ Seanpm2001 WorldDB`](https://github.com/seanpm2001/Seanpm2001-WorldDB/) | [:octocat: `🌐️ Tone Indicator Standard`](https://github.com/seanpm2001/Tone-Indicator-Standard/) | [:octocat: `🌐️ GitHex`](https://github.com/seanpm2001/GitHex/) |  [:octocat: `🌐️ World Census Project`](https://github.com/seanpm2001/World-Census-Project/) |
 | [:octocat: `🌐️ Its`](https://github.com/seanpm2001/Its/) | [:octocat: `🌐️ vCoin`](https://github.com/seanpm2001/vCoin/) | [:octocat: `🌐️ Pikeheader`](https://github.com/seanpm2001/Pikeheader/) | [:octocat: `🌐️ DALL-E LLaMA`](https://github.com/seanpm2001/DALL-E_LLaMA/) | [:octocat: `🌐️ Open Media Rating System (OMRS)`](https://github.com/seanpm2001/Open-Media-Rating-System/) | [:octocat: `🌐️ Monty.py`](https://github.com/seanpm2001/Monty.py/) |
-| [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
-| ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
-**🔒️ Private projects**
+---
 
-| A | B | C | D | E | F |
-|---|---|---|---|---|---|
-| [:octocat: `🔒️ Private (CU)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FaTT)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FFDRY)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (G---2001)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (N2O)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NG2001)`](https://github.com/seanpm2001/Redacted/) |
-| [:octocat: `🔒️ Private (W1)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (W2)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (ZS)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NNA)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (MGV)`](https://github.com/seanpm2001/Redacted/) [:octocat: `🔒️ Private (MMS)`](https://github.com/seanpm2001/Redacted/) | |
-| [:octocat: `🔒️ Private (DNY)`](https://github.com/seanpm2001/Redacted/) | **No other projects to list yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
-| ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
+| **🔒️ Private projects** |
+|---|
+
+<table>
+  <!-- Row B1 !-->
+  <!-- Number 1 !-->
+  <tr>
+    <td align="center"><p>Section P2#1</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (CU)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (FaTT)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (FFDRY)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (G---2001)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (N2O)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (NG2001)</b></sub></a></td>
+  </tr>
+  <!-- Row B2 !-->
+  <!-- Number 2 !-->
+  <tr>
+    <td align="center"><p>Section P2#2</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (W1)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (W2)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (ZS)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (NNA)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (MGV)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (MMS)</b></sub></a></td>
+  </tr>
+  <!-- Row B3 !-->
+  <!-- Number 3 !-->
+  <tr>
+    <td align="center"><p>Section P2#3</p></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (DNY)</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other private projects to list yet.</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+  <!-- Row B4 !-->
+  <!-- Number 4 !-->
+  <tr>
+    <td align="center"><p>Section P2#4</p></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+</table>
 
 </details> <!-- End of core repository list section for the major project: Other Projects section !-->
 
@@ -3397,7 +3984,7 @@ _End of What I'm currently working on section._
 
 # File info
 
-**File version:** `157 (2025, Monday, February 17th at 07:57 pm PST)`
+**File version:** `158 (2025, Tuesday, March 4th at 04:16 pm PST)`
 
 Separated from the core README file before version 140
 
