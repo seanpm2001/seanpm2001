@@ -3324,34 +3324,34 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 14 !-->
   <tr>
     <td align="center"><p>Section P1#14</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SDE_Merry/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SDE Merry (Carousel) Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/404Day/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 404 day Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Bad-Code-Collection/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Bad code collection Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/GitAttributes-Collection/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Git attributes collection Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/RecursionBot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ RecursionBot Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SociaShame/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SociaShame Project</b></sub></a></td>
   </tr>
   <!-- Row A15 !-->
   <!-- Number 15 !-->
   <tr>
     <td align="center"><p>Section P1#15</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Branch-Ranch/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Branch Ranch Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Backup Automation Build Bot Y Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/AUTOMATE-2001/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ AUTOMATE-2001 Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/TimeoutToolkit/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Timeout Toolkit Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Desklocker/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DeskLocker Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Year-of-the-Linux-desktop/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Year of the Linux desktop Project</b></sub></a></td>
   </tr>
   <!-- Row A16 !-->
   <!-- Number 16 !-->
   <tr>
     <td align="center"><p>Section P1#16</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ [NOT YET LISTED]  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/LargeNumber_ULIB/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ LargeNumbers ULIB Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/HealthMeterMaximum/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ HealthMeterMaximum Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Dentalbar Whitetooth Pro Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/ChromaTags_ForGit/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ChromaTags forGit Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Advanced_Eye_Chart/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Advanced Eye Chart  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UI_Tour_Guide/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UI Tour Guide Project</b></sub></a></td>
   </tr>
   <!-- Row A17 !-->
   <!-- Number 17 !-->
@@ -3765,9 +3765,6 @@ _End of public projects section._
 <!--- REMOVAL IN PROGRESS...
 | A | B | C | D | E | F |
 |---|---|---|---|---|---|
-| [:octocat: `🌐️ SDE Merry (Carousel)`](https://github.com/seanpm2001/SDE_Merry/) | [:octocat: `🌐️ 404 day`](https://github.com/seanpm2001/404Day/) | [:octocat: `🌐️ Bad code collection`](https://github.com/seanpm2001/Bad-Code-Collection/) | [:octocat: `🌐️ Git attributes collection`](https://github.com/seanpm2001/GitAttributes-Collection/) | [:octocat: `🌐️ RecursionBot`](https://github.com/seanpm2001/RecursionBot/) | [:octocat: `🌐️ SociaShame`](https://github.com/seanpm2001/SociaShame/) |
-| [:octocat: `🌐️ Branch Ranch`](https://github.com/seanpm2001/Branch-Ranch/) | [:octocat: `🌐️ Backup Automation Build Bot Y`](https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/) | [:octocat: `🌐️ AUTOMATE-2001`](https://github.com/seanpm2001/AUTOMATE-2001/) | [:octocat: `🌐️ Timeout Toolkit`](https://github.com/seanpm2001/TimeoutToolkit/) | [:octocat: `🌐️ Desklocker`](https://github.com/seanpm2001/DeskLocker/) | [:octocat: `🌐️ Year of the Linux Desktop`](https://github.com/seanpm2001/Year-of-the-Linux-desktop/) |
-| [:octocat: `🌐️ LargeNumbers ULIB`](https://github.com/seanpm2001/LargeNumber_ULIB/) | [:octocat: `🌐️ HealthMeterMaximum`](https://github.com/seanpm2001/HealthMeterMaximum/) | [:octocat: `🌐️ Dentalbar Whitetooth Pro`](https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro/) | [:octocat: `🌐️ ChromaTags forGit`](https://github.com/seanpm2001/ChromaTags_ForGit/) | [:octocat: `🌐️ Advanced Eye Chart`](https://github.com/seanpm2001/Advanced_Eye_Chart/) | [:octocat: `🌐️ UI Tour Guide`](https://github.com/seanpm2001/UI_Tour_Guide/) |
 | [:octocat: `🌐️ App Backpack`](https://github.com/seanpm2001/App-backpack/) | [:octocat: `🌐️ iBlast`](https://github.com/seanpm2001/iBlast/) | [:octocat: `🌐️ FINF-DB`](https://github.com/seanpm2001/FINF-DB/) | [:octocat: `🌐️ Reactop`](https://github.com/seanpm2001/Reactop/) | [:octocat: `🌐️ LapLight`](https://github.com/seanpm2001/LapLight/) | [:octocat: `🌐️ WakeNote`](https://github.com/seanpm2001/WakeNote/) |
 | [:octocat: `🌐️ StealthGeo`](https://github.com/seanpm2001/StealthGeo_Font/) | [:octocat: `🌐️ Computing Longevity`](https://github.com/seanpm2001/Computing-Longevity/) | [:octocat: `🌐️ 3D Webpage Inspector`](https://github.com/seanpm2001/3D-WebPage-Inspector/) | [:octocat: `🌐️ PolyGlot`](https://github.com/seanpm2001/PolyGlot/) | [:octocat: `🌐️ DeciCube`](https://github.com/seanpm2001/DeciCube/) | [:octocat: `🌐️ OVPVMO site`](https://github.com/seanpm2001/OVPVMO-site/) |
 | [`Lightspeed Relay Technologies`](https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/) | [:octocat: `🌐️ LANChair`](https://github.com/seanpm2001/LANChair/) | [:octocat: `🌐️ UTPM`](https://github.com/seanpm2001/UTPM/) | [:octocat: `🌐️ -ibibyte Mathematical Reference`](https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/) | [:octocat: `🌐️ GratyBot`](https://github.com/seanpm2001/GratyBot/) | [:octocat: `🌐️ BASH.sh`](https://github.com/seanpm2001/BASH.sh/) |
@@ -4058,7 +4055,7 @@ _End of What I'm currently working on section._
 
 # File info
 
-**File version:** `160 (2025, Thursday, March 6th at 05:01 pm PST)`
+**File version:** `161 (2025, Friday, March 7th at 05:10 pm PST)`
 
 Separated from the core README file before version 140
 
