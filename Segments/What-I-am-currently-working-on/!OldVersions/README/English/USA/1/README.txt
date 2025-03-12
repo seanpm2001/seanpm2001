@@ -3721,6 +3721,615 @@ Note to self: Make sure to also check each repository to see if a separate docum
 
 ---
 
+**Logo process**
+
+> **TODO:** _Try and add at least 1 logo every time this file is updated._
+
+**Available logos**
+
+These logos have been added to the profile repository, and need to be linked to the table via HTML.
+
+<details><summary><p><b>Click/tap here to expand/collapse the available logos list</b></p></summary>
+
+- [ ] Health projects (SeanWallaWalla) 	
+- [x] CompuSmell project 	
+- [x] Degoogle campaign/DeGoogle your Life 	
+- [ ] Myrick family archive
+- [x] Nostalgia Project 	
+- [x] Other operating system projects (SeanWallaWalla)
+- [x] Bot projects (SeanWallaWalla) 	
+- [x] Software Security projects (SeanWallaWalla) 	
+- [x] Audio projects (SeanWallaWalla) 	
+- [x] Open Source video game projects (SeanWallaWalla) 	
+- [x] Malware projects (SeanWallaWalla) 	
+- [ ] DISK-O-Jockey project
+- [ ] Kotlint Project 	
+- [ ] WichCraft Project 	
+- [ ] iStonk Project 	
+- [ ] Economica Project 	
+- [ ] Egg Org Project 	
+- [ ] OpenTowers Project
+- [ ] BGemJam Project 	
+- [x] The offline experience Project 	
+- [ ] VLCSV Project 	
+- [ ] DLLinux Project 	
+- [ ] Kornhub Project 	
+- [ ] Hyper realistic farm simulator Project
+- [ ] PongMax Project 	
+- [ ] Boom Bay Project 	
+- [ ] Mammal Town Project 	
+- [ ] Pocket Village Project 	
+- [ ] Snowcraft Project 	
+- [ ] Green Star OS Project
+- [ ] Hatium Project 	
+- [ ] Windows 10 Python Edition Project 	
+- [ ] Windows Server 2016 Python Edition Project 	
+- [ ] IsraeLinux Project 	
+- [ ] BitChecker Project 	
+- [ ] Phoneticut Project
+- [ ] Undigitized Project 	
+- [ ] The pirates (copy) Project 	
+- [ ] ImageVS Project 	
+- [ ] ZooTree Project 	
+- [ ] Zombie Life Re-Re-animated Project 	
+- [ ] Motor Universe: Open Factory Project
+- [x] FolderArtist Project 	
+- [ ] Favicon Pages Project 	
+- [x] ScriptKidd Toolkit Project 	
+- [x] PyNuke128 Project 	
+- [ ] Touch Pets Dogs 2 Rewritten Project 	
+- [ ] Tap Pet Hotel Open Project
+- [ ] Engineer Superdesk Project 	
+- [x] CamCamPlus Project 	
+- [x] VRedRoom Project 	
+- [ ] 9x Internet Project 	
+- [x] SimZonns Project 	
+- [x] Code Distancing Project
+- [ ] Doorcrete Project 	
+- [ ] Underune Maker Project 	
+- [ ] Snail Bob Maker Project 	
+- [ ] BluPhone Project 	
+- [ ] Blue Dentures Project 	
+- [ ] UltraSwitch Project
+- [ ] United Autism Rights Org Project 	
+- [ ] Numeric Liberation Front Project 	
+- [ ] The REAL Data Liberation Front Project 	
+- [x] Takeout Tuesdays Project 	
+- [ ] Frogmania Project 	
+- [ ] RailRAM Train Collection Project
+- [ ] Open Source Security Camera Project 	
+- [ ] Portal Voice Assistant Project 	
+- [ ] StartFsck Project 	
+- [ ] Nost Gia OS Project 	
+- [ ] Nostalgii Project 	
+- [x] YKDefender Project
+- [ ] Bosky Project 	
+- [ ] AdBool Project 	
+- [ ] Bluecalm theme Project 	
+- [ ] AudiBass Manager Project 	
+- [ ] Keyoff Project 	
+- [ ] iCandy Project
+- [ ] SDE Merry (Carousel) Project 	
+- [ ] 404 day Project 	
+- [ ] Bad code collection Project 	
+- [ ] Git attributes collection Project 	
+- [ ] RecursionBot Project 	
+- [ ] SociaShame Project
+- [ ] Branch Ranch Project 	
+- [ ] Backup Automation Build Bot Y Project 	
+- [ ] AUTOMATE-2001 Project 	
+- [ ] Timeout Toolkit Project 	
+- [ ] DeskLocker Project 	
+- [ ] Year of the Linux desktop Project
+- [ ] LargeNumbers ULIB Project 	
+- [ ] HealthMeterMaximum Project 	
+- [ ] Dentalbar Whitetooth Pro Project 	
+- [ ] ChromaTags forGit Project 	
+- [x] Advanced Eye Chart Project 	
+- [ ] UI Tour Guide Project
+- [ ] App Backpack Project 	
+- [ ] iBlast Project 	
+- [ ] FINF-DB Project 	
+- [ ] Reactop Project 	
+- [ ] LapLight Project 	
+- [ ] WakeNote Project
+- [ ] StealthGeo Project 	
+- [ ] Computing Longevity Project 	
+- [ ] 3D Webpage Inspector Project 	
+- [ ] PolyGlot Project 	
+- [ ] DeciCube Project 	
+- [ ] OVPVMO site Project
+- [x] Lightspeed Relay Technologies Project 	
+- [ ] LANChair Project 	
+- [ ] UTPM Project 	
+- [ ] -ibibyte Mathematical Reference Project 	
+- [ ] GratyBot Project 	
+- [ ] BASH.sh Project
+- [ ] Gaslight Galactica Project 	
+- [ ] DCalendar Project 	
+- [ ] GoDot Launcher Project 	
+- [ ] GNU Car Project 	
+- [ ] GeniBlock Project 	
+- [ ] FreeGenie Project
+- [ ] Halloween Assistant Project 	
+- [ ] Turkey Stories Project 	
+- [ ] Santa Software Suite Project 	
+- [ ] NimbleBit Glossary Project 	
+- [x] Ratiyo Project 	
+- [ ] Profa or Antifa Project
+- [ ] uDonate Project 	
+- [ ] 4096 Project 	
+- [ ] MadLibby Project 	
+- [x] Goodbye World Project 	
+- [ ] Dronemap Project 	
+- [ ] Password Generator Ultimate Project
+- [ ] SVG Video Project 	
+- [ ] BluPhoneOS Project 	
+- [ ] GK-Keyboard Project 	
+- [ ] Computer cursor tech support Project 	
+- [ ] Self Replicating Machine Research Project 	
+- [ ] Snapshot Version Control System Project
+- [ ] The Dystopian Dictionary Project 	
+- [ ] Git-image Project 	
+- [ ] TuxBot Operating System Project 	
+- [ ] OS Census Project 	
+- [ ] Senior Design Project 	
+- [x] IGNORE file Project
+- [x] Boilerplate Cabinet Project 	
+- [ ] NexxFetch Project 	
+- [ ] Count Mausoleum Project 	
+- [ ] Project1001 Project 	
+- [x] Fortran fortress Project 	
+- [ ] Input Police Project
+- [ ] README Desktop LIBrary Project 	
+- [ ] ShareBox LIBrary Project 	
+- [ ] Easy-E IDE Project 	
+- [ ] Zag Project 	
+- [ ] The Bandwidth Band Project 	
+- [ ] Camera Privacy Specification Project
+- [ ] ARCHIVE My robot friend Project 	
+- [ ] Setup Go2004 GitHubAction Project 	
+- [ ] Vim Autoscroller Project 	
+- [ ] Kommunism Project 	
+- [ ] SlideXMagic Project 	
+- [ ] AcroSlideX LIBrary Project
+- [ ] r/seanpm2001 Project 	
+- [ ] Scarlet Oven Project 	
+- [ ] API-2001 Project 	
+- [ ] HerdSpeak Project 	
+- [ ] The Græyt Macro Project 	
+- [ ] MalNotch Project
+- [ ] FloweredNotch Project 	
+- [ ] Notchware Project 	
+- [ ] DIFFicult Project 	
+- [ ] VirtualBox Plus Plus Project 	
+- [ ] Firefox Version Number Fix Project 	
+- [ ] TclTorture Project
+- [ ] Fire Diamond Suite Project 	
+- [ ] SmartZIP Project 	
+- [ ] ls.txt Project 	
+- [ ] CMilk Project 	
+- [ ] Java the Hutt Project 	
+- [ ] AZWS Encryption Project
+- [x] OpenGovernment Project 	
+- [ ] Sbubbway Generator Project 	
+- [ ] Pen People Project 	
+- [ ] Polyworks SquareOff Project 	
+- [ ] Petland Project 	
+- [ ] Oh Hi Mark(down) Project
+- [ ] SearchKX Project 	
+- [ ] Rasple Project 	
+- [ ] BerryBoot Project 	
+- [ ] Fedorable Project 	
+- [ ] iWill Project 	
+- [ ] OpenPassport Project
+- [ ] Outside Project 	
+- [ ] Domainiac Project 	
+- [ ] Er Project 	
+- [ ] AutoPeer Project 	
+- [ ] WarmWelcome Project 	
+- [ ] Sugar Shop Project
+- [ ] HyperSlice Project 	
+- [ ] 3FakeIM Project 	
+- [ ] [NOT WYII Project 	
+- [ ] Twit-Tac-Toe Project 	
+- [ ] Mockerfile Project 	
+- [ ] Techlaration Project
+- [ ] TrueTorrent Project 	
+- [ ] [NOT Slaveworks Project 	
+- [ ] SWave Starter Project 	
+- [ ] MarkDownDownDown Project 	
+- [ ] KeyStroke Project 	
+- [ ] Perl Harbor Project
+- [ ] PYVM Project 	
+- [ ] Pri-Fiy Project 	
+- [ ] NetM Project 	
+- [ ] VOI Manor Project 	
+- [ ] Stock Elevator LIBrary Project 	
+- [ ] ChargeFX Project
+- [ ] Virtual VHS Project 	
+- [ ] Rick Project 	
+- [ ] Cottontree LIBrary Project 	
+- [ ] SeansOSData Project 	
+- [ ] Mobile Potions Project 	
+- [ ] MicroMiniwave Project
+- [ ] PhoneHome Project 	
+- [ ] SafeT Project 	
+- [ ] TrueCalm Project 	
+- [ ] Team8 Collection Project 	
+- [ ] CrossCompatXU Project 	
+- [ ] CH3-c-K Project
+- [x] ScreenTeX Project 	
+- [x] LinkLax Project 	
+- [ ] 3DE Project 	
+- [ ] V7Tags Project 	
+- [ ] SourceBase Project 	
+- [ ] Browsniffica Project
+- [ ] Talla Browser Project 	
+- [ ] GitHubby Project 	
+- [ ] NimbleBook Project 	
+- [ ] NimbleByte Project 	
+- [ ] TrueEEG Project 	
+- [ ] UShortcut Pro Project
+- [ ] Ultra Image Studio Project 	
+- [ ] OuterVM Project 	
+- [ ] V-ReShot Project 	
+- [ ] DOS-Buddy Project 	
+- [x] VirtualHome Project 	
+- [ ] FBI Roleplay Simulator Project
+- [ ] LinFsck Project 	
+- [ ] Kevin Macleod Software Radio Project 	
+- [ ] Linux Marketshare Ping Tool Project 	
+- [ ] PVZ Custom Project 	
+- [ ] IE6 flavored markdown Project 	
+- [ ] Cyborg System Monitor Project
+- [x] Meme Machine 2019 Project 	
+- [ ] Jscribe Project 	
+- [ ] UltraSwitch Project 	
+- [ ] RegAggregate Project 	
+- [ ] SafeWINE Project 	
+- [ ] WinWalla Project
+- [ ] SDE MobileServer Project 	
+- [ ] HT Messenger Project 	
+- [ ] GitMan Project 	
+- [ ] Nuclear ad bombs specification Project
+- [ ] Delerium Project 	
+- [ ] B3 Project
+- [x] Seanpm2001 DRM Blocklist Project 	
+- [ ] George P. Floyd Memorial Project 	
+- [ ] Seanpm2001 WorldDB Project 	
+- [ ] Tone Indicator Standard Project 	
+- [ ] GitHex Project 	
+- [ ] World Census Project Project
+- [ ] Unblur tool Project 	
+- [ ] UnSaaSS Project 	
+- [ ] UnIoT Project 	
+- [ ] 2001 project Project 	
+- [ ] Chaccaron Maccaron type Project 	
+- [ ] Public Media Gallery Project
+- [ ] Its Project 	
+- [ ] vCoin Project 	
+- [ ] Pikeheader Project 	
+- [ ] DALL-E LLaMA Project 	
+- [ ] Open Media Rating System (OMRS) Project 	
+- [ ] Monty.py Project
+- [ ] ClosedAI project 	
+- [x] ReverseFallacy Project 	
+- [x] Booty project
+
+Included, but not listed
+
+- [x] AI2001
+- [x] Bliss Browser
+- [x] GitHub Organization Info
+- [x] MailOS
+- [x] MCPYE
+- [X] MEDOS
+- [x] NUNIX
+- [X] PDNet++
+- [x] SNU
+- [x] UCALC
+
+- [x] Saltine Cracker Award
+
+</details>
+
+**Used logos**
+
+These logos have been added to the table via HTML.
+
+<details><summary><p><b>Click/tap here to expand/collapse the available logos list</b></p></summary>
+
+- [ ] Health projects (SeanWallaWalla) 	
+- [ ] CompuSmell project 	
+- [ ] Degoogle campaign/DeGoogle your Life 	
+- [ ] Myrick family archive 	
+- [ ] Nostalgia Project 	
+- [ ] Other operating system projects (SeanWallaWalla)
+- [ ] Bot projects (SeanWallaWalla) 	
+- [ ] Software Security projects (SeanWallaWalla) 	
+- [ ] Audio projects (SeanWallaWalla) 	
+- [ ] Open Source video game projects (SeanWallaWalla) 	
+- [ ] Malware projects (SeanWallaWalla) 	
+- [ ] DISK-O-Jockey project
+- [ ] Kotlint Project 	
+- [ ] WichCraft Project 	
+- [ ] iStonk Project 	
+- [ ] Economica Project 	
+- [ ] Egg Org Project 	
+- [ ] OpenTowers Project
+- [ ] BGemJam Project 	
+- [ ] The offline experience Project 	
+- [ ] VLCSV Project 	
+- [ ] DLLinux Project 	
+- [ ] Kornhub Project 	
+- [ ] Hyper realistic farm simulator Project
+- [ ] PongMax Project 	
+- [ ] Boom Bay Project 	
+- [ ] Mammal Town Project 	
+- [ ] Pocket Village Project 	
+- [ ] Snowcraft Project 	
+- [ ] Green Star OS Project
+- [ ] Hatium Project 	
+- [ ] Windows 10 Python Edition Project 	
+- [ ] Windows Server 2016 Python Edition Project 	
+- [ ] IsraeLinux Project 	
+- [ ] BitChecker Project 	
+- [ ] Phoneticut Project
+- [ ] Undigitized Project 	
+- [ ] The pirates (copy) Project 	
+- [ ] ImageVS Project 	
+- [ ] ZooTree Project 	
+- [ ] Zombie Life Re-Re-animated Project 	
+- [ ] Motor Universe: Open Factory Project
+- [ ] FolderArtist Project 	
+- [ ] Favicon Pages Project 	
+- [ ] ScriptKidd Toolkit Project 	
+- [ ] PyNuke128 Project 	
+- [ ] Touch Pets Dogs 2 Rewritten Project 	
+- [ ] Tap Pet Hotel Open Project
+- [ ] Engineer Superdesk Project 	
+- [ ] CamCamPlus Project 	
+- [ ] VRedRoom Project 	
+- [ ] 9x Internet Project 	
+- [ ] SimZonns Project 	
+- [ ] Code Distancing Project
+- [ ] Doorcrete Project 	
+- [ ] Underune Maker Project 	
+- [ ] Snail Bob Maker Project 	
+- [ ] BluPhone Project 	
+- [ ] Blue Dentures Project 	
+- [ ] UltraSwitch Project
+- [ ] United Autism Rights Org Project 	
+- [ ] Numeric Liberation Front Project 	
+- [ ] The REAL Data Liberation Front Project 	
+- [ ] Takeout Tuesdays Project 	
+- [ ] Frogmania Project 	
+- [ ] RailRAM Train Collection Project
+- [ ] Open Source Security Camera Project 	
+- [ ] Portal Voice Assistant Project 	
+- [ ] StartFsck Project 	
+- [ ] Nost Gia OS Project 	
+- [ ] Nostalgii Project 	
+- [ ] YKDefender Project
+- [ ] Bosky Project 	
+- [ ] AdBool Project 	
+- [ ] Bluecalm theme Project 	
+- [ ] AudiBass Manager Project 	
+- [ ] Keyoff Project 	
+- [ ] iCandy Project
+- [ ] SDE Merry (Carousel) Project 	
+- [ ] 404 day Project 	
+- [ ] Bad code collection Project 	
+- [ ] Git attributes collection Project 	
+- [ ] RecursionBot Project 	
+- [ ] SociaShame Project
+- [ ] Branch Ranch Project 	
+- [ ] Backup Automation Build Bot Y Project 	
+- [ ] AUTOMATE-2001 Project 	
+- [ ] Timeout Toolkit Project 	
+- [ ] DeskLocker Project 	
+- [ ] Year of the Linux desktop Project
+- [ ] LargeNumbers ULIB Project 	
+- [ ] HealthMeterMaximum Project 	
+- [ ] Dentalbar Whitetooth Pro Project 	
+- [ ] ChromaTags forGit Project 	
+- [ ] Advanced Eye Chart Project 	
+- [ ] UI Tour Guide Project
+- [ ] App Backpack Project 	
+- [ ] iBlast Project 	
+- [ ] FINF-DB Project 	
+- [ ] Reactop Project 	
+- [ ] LapLight Project 	
+- [ ] WakeNote Project
+- [ ] StealthGeo Project 	
+- [ ] Computing Longevity Project 	
+- [ ] 3D Webpage Inspector Project 	
+- [ ] PolyGlot Project 	
+- [ ] DeciCube Project 	
+- [ ] OVPVMO site Project
+- [ ] Lightspeed Relay Technologies Project 	
+- [ ] LANChair Project 	
+- [ ] UTPM Project 	
+- [ ] -ibibyte Mathematical Reference Project 	
+- [ ] GratyBot Project 	
+- [ ] BASH.sh Project
+- [ ] Gaslight Galactica Project 	
+- [ ] DCalendar Project 	
+- [ ] GoDot Launcher Project 	
+- [ ] GNU Car Project 	
+- [ ] GeniBlock Project 	
+- [ ] FreeGenie Project
+- [ ] Halloween Assistant Project 	
+- [ ] Turkey Stories Project 	
+- [ ] Santa Software Suite Project 	
+- [ ] NimbleBit Glossary Project 	
+- [ ] Ratiyo Project 	
+- [ ] Profa or Antifa Project
+- [ ] uDonate Project 	
+- [ ] 4096 Project 	
+- [ ] MadLibby Project 	
+- [ ] Goodbye World Project 	
+- [ ] Dronemap Project 	
+- [ ] Password Generator Ultimate Project
+- [ ] SVG Video Project 	
+- [ ] BluPhoneOS Project 	
+- [ ] GK-Keyboard Project 	
+- [ ] Computer cursor tech support Project 	
+- [ ] Self Replicating Machine Research Project 	
+- [ ] Snapshot Version Control System Project
+- [ ] The Dystopian Dictionary Project 	
+- [ ] Git-image Project 	
+- [ ] TuxBot Operating System Project 	
+- [ ] OS Census Project 	
+- [ ] Senior Design Project 	
+- [ ] IGNORE file Project
+- [ ] Boilerplate Cabinet Project 	
+- [ ] NexxFetch Project 	
+- [ ] Count Mausoleum Project 	
+- [ ] Project1001 Project 	
+- [ ] Fortran fortress Project 	
+- [ ] Input Police Project
+- [ ] README Desktop LIBrary Project 	
+- [ ] ShareBox LIBrary Project 	
+- [ ] Easy-E IDE Project 	
+- [ ] Zag Project 	
+- [ ] The Bandwidth Band Project 	
+- [ ] Camera Privacy Specification Project
+- [ ] ARCHIVE My robot friend Project 	
+- [ ] Setup Go2004 GitHubAction Project 	
+- [ ] Vim Autoscroller Project 	
+- [ ] Kommunism Project 	
+- [ ] SlideXMagic Project 	
+- [ ] AcroSlideX LIBrary Project
+- [ ] r/seanpm2001 Project 	
+- [ ] Scarlet Oven Project 	
+- [ ] API-2001 Project 	
+- [ ] HerdSpeak Project 	
+- [ ] The Græyt Macro Project 	
+- [ ] MalNotch Project
+- [ ] FloweredNotch Project 	
+- [ ] Notchware Project 	
+- [ ] DIFFicult Project 	
+- [ ] VirtualBox Plus Plus Project 	
+- [ ] Firefox Version Number Fix Project 	
+- [ ] TclTorture Project
+- [ ] Fire Diamond Suite Project 	
+- [ ] SmartZIP Project 	
+- [ ] ls.txt Project 	
+- [ ] CMilk Project 	
+- [ ] Java the Hutt Project 	
+- [ ] AZWS Encryption Project
+- [ ] OpenGovernment Project 	
+- [ ] Sbubbway Generator Project 	
+- [ ] Pen People Project 	
+- [ ] Polyworks SquareOff Project 	
+- [ ] Petland Project 	
+- [ ] Oh Hi Mark(down) Project
+- [ ] SearchKX Project 	
+- [ ] Rasple Project 	
+- [ ] BerryBoot Project 	
+- [ ] Fedorable Project 	
+- [ ] iWill Project 	
+- [ ] OpenPassport Project
+- [ ] Outside Project 	
+- [ ] Domainiac Project 	
+- [ ] Er Project 	
+- [ ] AutoPeer Project 	
+- [ ] WarmWelcome Project 	
+- [ ] Sugar Shop Project
+- [ ] HyperSlice Project 	
+- [ ] 3FakeIM Project 	
+- [ ] [NOT WYII Project 	
+- [ ] Twit-Tac-Toe Project 	
+- [ ] Mockerfile Project 	
+- [ ] Techlaration Project
+- [ ] TrueTorrent Project 	
+- [ ] [NOT Slaveworks Project 	
+- [ ] SWave Starter Project 	
+- [ ] MarkDownDownDown Project 	
+- [ ] KeyStroke Project 	
+- [ ] Perl Harbor Project
+- [ ] PYVM Project 	
+- [ ] Pri-Fiy Project 	
+- [ ] NetM Project 	
+- [ ] VOI Manor Project 	
+- [ ] Stock Elevator LIBrary Project 	
+- [ ] ChargeFX Project
+- [ ] Virtual VHS Project 	
+- [ ] Rick Project 	
+- [ ] Cottontree LIBrary Project 	
+- [ ] SeansOSData Project 	
+- [ ] Mobile Potions Project 	
+- [ ] MicroMiniwave Project
+- [ ] PhoneHome Project 	
+- [ ] SafeT Project 	
+- [ ] TrueCalm Project 	
+- [ ] Team8 Collection Project 	
+- [ ] CrossCompatXU Project 	
+- [ ] CH3-c-K Project
+- [ ] ScreenTeX Project 	
+- [ ] LinkLax Project 	
+- [ ] 3DE Project 	
+- [ ] V7Tags Project 	
+- [ ] SourceBase Project 	
+- [ ] Browsniffica Project
+- [ ] Talla Browser Project 	
+- [ ] GitHubby Project 	
+- [ ] NimbleBook Project 	
+- [ ] NimbleByte Project 	
+- [ ] TrueEEG Project 	
+- [ ] UShortcut Pro Project
+- [ ] Ultra Image Studio Project 	
+- [ ] OuterVM Project 	
+- [ ] V-ReShot Project 	
+- [ ] DOS-Buddy Project 	
+- [ ] VirtualHome Project 	
+- [ ] FBI Roleplay Simulator Project
+- [ ] LinFsck Project 	
+- [ ] Kevin Macleod Software Radio Project 	
+- [ ] Linux Marketshare Ping Tool Project 	
+- [ ] PVZ Custom Project 	
+- [ ] IE6 flavored markdown Project 	
+- [ ] Cyborg System Monitor Project
+- [ ] Meme Machine 2019 Project 	
+- [ ] Jscribe Project 	
+- [ ] UltraSwitch Project 	
+- [ ] RegAggregate Project 	
+- [ ] SafeWINE Project 	
+- [ ] WinWalla Project
+- [ ] SDE MobileServer Project 	
+- [ ] HT Messenger Project 	
+- [ ] GitMan Project 	
+- [ ] Nuclear ad bombs specification Project 	
+- [ ] Delerium Project 	
+- [ ] B3 Project
+- [ ] Seanpm2001 DRM Blocklist Project 	
+- [ ] George P. Floyd Memorial Project 	
+- [ ] Seanpm2001 WorldDB Project 	
+- [ ] Tone Indicator Standard Project 	
+- [ ] GitHex Project 	
+- [ ] World Census Project Project
+- [ ] Unblur tool Project 	
+- [ ] UnSaaSS Project 	
+- [ ] UnIoT Project 	
+- [ ] 2001 project Project 	
+- [ ] Chaccaron Maccaron type Project 	
+- [ ] Public Media Gallery Project
+- [ ] Its Project 	
+- [ ] vCoin Project 	
+- [ ] Pikeheader Project 	
+- [ ] DALL-E LLaMA Project 	
+- [ ] Open Media Rating System (OMRS) Project 	
+- [ ] Monty.py Project
+- [ ] ClosedAI project 	
+- [ ] ReverseFallacy Project 	
+- [ ] Booty project
+
+</details>
+
+---
+
 <details><summary><p><b>Click/tap here to expand/collapse the legacy Markdown-styled table</b></p></summary>
 
 <!-- TODO
@@ -4051,12 +4660,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `164 (2025, Monday, March 10th at 05:34 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `4,079` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `037,827` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `290,471` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `261,587` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `296,150` <!-- TODO: This line should be updated daily !-->
+- **File version:** `165 (2025, Tuesday, March 11th at 05:59 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `4,688` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `039,637` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `308,360` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `275,117` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `314,041` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
