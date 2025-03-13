@@ -3169,35 +3169,42 @@ Note to self: Make sure to also check each repository to see if a separate docum
 
 | 📋️ TASK |
 |---|
-| 2025, March 9th |
+| **2025, March 9th** |
 | Some listed projects need to be split up further into other groups, as some projects here shouldn't stand alone. This task is currently on standby. |
 
 | 💬️ COMMENT |
 |---|
-| 2025, March 10th |
-| This table was a more difficult project than expected. It was a project from 2025, March 4th to 2025, March 10th just to get the table built with placeholder images. It is going to be very difficult to manually add over 250 logos, and I expect that to potentially be a community project. |
+| **2025, March 12th** |
+| The process of adding images to the table began on 2025, March 12th. It is currently a major work in progress, and I don't expect to work on it every day. The community is still welcome to help out. |
+| **Resource locations** |
+| Resources (logos) that should be added to the table can be found in these repositories: |
+| [:octocat: `Seanpm2001-Graphic-Design`](https://github.com/seanpm2001/Seanpm2001-Graphic-Design/) |
+| [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) |
+| They can also be found on the home pages for the repositories themselves. |
+| **Progress** |
+| Less than 10% done (as of 2025, March 12th) |
 
 <table>
   <!-- Row A1 !-->
   <!-- Number 1 !-->
   <tr>
     <td align="center"><p>Section P1#1</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Seanwallawalla-health/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Health projects (SeanWallaWalla)</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/CompuSmell/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ CompuSmell project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-life/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Degoogle campaign/DeGoogle your Life</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanwallawalla-health/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Health/LowQuality_SeanwallawallaHealth.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Health projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/CompuSmell/"><img src="/Graphics/My-projects/Logos/C/CompuSmell/CompuSmellIcon_LowQuality.png" width="100px;" alt=""/><br /><sub><b>🌐️ CompuSmell project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-life/"><img src="/Graphics/My-projects/Logos/D/DeGoogle-your-Life/DEGOOGLE1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Degoogle campaign/DeGoogle your Life</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Myrick-family-archive/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Myrick family archive</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Nostalgia-project/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nostalgia Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-operating-systems/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Other operating system projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Nostalgia-project/"><img src="/Graphics/My-projects/Logos/N/Nostalgia-Project/Plutchik-wheel.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nostalgia Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-operating-systems/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Operating-Systems/LowQuality_Seanwallawalla-operating-systems_Icon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Other operating system projects (SeanWallaWalla)</b></sub></a></td>
   </tr>
   <!-- Row A2 !-->
   <!-- Number 2 !-->
   <tr>
     <td align="center"><p>Section P1#2</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-bots/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Bot projects (SeanWallaWalla)</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-security/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Software Security projects (SeanWallaWalla)</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-audio/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Audio projects (SeanWallaWalla)</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-gaming/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Open Source video game projects (SeanWallaWalla)</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-malware/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️⚠️ VIRTUAL MACHINES ONLY: Malware projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-bots/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Bots/LowQuality_Seanwallawalla-bots_Icon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Bot projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-security/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Security/LowQuality_Seanwallawalla-security_Icon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Software Security projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-audio/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Audio/LowQuality_Seanwallawalla-audio_Icon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Audio projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-gaming/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Games/LowQuality_SWWGaming.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Open Source video game projects (SeanWallaWalla)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-malware/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Malware/Seanwallawalla-malware_lowqualityicon.png" width="100px;" alt=""/><br /><sub><b>🌐️⚠️ VIRTUAL MACHINES ONLY: Malware projects (SeanWallaWalla)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DISK-O-Jockey/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DISK-O-Jockey project</b></sub></a></td>
   </tr>
   <!-- Row A3 !-->
@@ -3216,7 +3223,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P1#4</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/BGemJam/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ BGemJam Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/The-Offline-Experience/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ The offline experience Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/The-Offline-Experience/"><img src="/Graphics/My-projects/Logos/T/The-Offline-Experience/no-wifi-icon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ The offline experience Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/VLCSV/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ VLCSV Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DLLinux/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DLLinux Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Kornhub/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Kornhub Project</b></sub></a></td>
@@ -3259,10 +3266,10 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 8 !-->
   <tr>
     <td align="center"><p>Section P1#8</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/FolderArtist/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ FolderArtist Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/FolderArtist/"><img src="/Graphics/My-projects/Logos/F/FolderArtist/FolderArtist_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ FolderArtist Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Favicon-Pages/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Favicon Pages Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/ScriptKidd_ToolKit/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ScriptKidd Toolkit Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/PyNuke128/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ PyNuke128 Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/ScriptKidd_ToolKit/"><img src="/Graphics/My-projects/Logos/S/ScriptKidd-ToolKit/ScriptKiddIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ ScriptKidd Toolkit Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/PyNuke128/"><img src="/Graphics/My-projects/Logos/P/PyNuke128/Nuclear1.png" width="100px;" alt=""/><br /><sub><b>🌐️ PyNuke128 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/TouchPetsDogs2Rewritten/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Touch Pets Dogs 2 Rewritten Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/TapPetHotelOpen"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Tap Pet Hotel Open Project</b></sub></a></td>
   </tr>
@@ -3271,11 +3278,11 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P1#9</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Engineer_Superdesk/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Engineer Superdesk Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/CamCamPlus/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ CamCamPlus Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/VRedRoom/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ VRedRoom Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/CamCamPlus/"><img src="/Graphics/My-projects/Logos/C/CamCamPlus/Camera_iOS6_Placeholder.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ CamCamPlus Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/VRedRoom/"><img src="/Graphics/My-projects/Logos/V/VRedRoom/Red-Ice-Cube.png" width="100px;" alt=""/><br /><sub><b>🌐️ VRedRoom Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/9x-Internet/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 9x Internet Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SimZonns/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SimZonns Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Code-distancing/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Code Distancing Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SimZonns/"><img src="/Graphics/My-projects/Logos/S/SimZonns/SIMZONN.png" width="100px;" alt=""/><br /><sub><b>🌐️ SimZonns Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Code-distancing/"><img src="/Graphics/My-projects/Logos/C/Code-Distancing/SocialDistancngSticker.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Code Distancing Project</b></sub></a></td>
   </tr>
   <!-- Row A10 !-->
   <!-- Number 10 !-->
@@ -3295,7 +3302,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/UnitedAutismRights_Org/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ United Autism Rights Org Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Numeric-Liberation-Front/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Numeric Liberation Front Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/The-REAL-Data-Liberation-Front/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ The REAL Data Liberation Front Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Takeout_Tuesdays/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Takeout Tuesdays Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Takeout_Tuesdays/"><img src="/Graphics/My-projects/Logos/T/Takeout-Tuesdays/Takeout-Tuesdays_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Takeout Tuesdays Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Frog-Mania/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Frogmania Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/RailRAM-Train-Collection/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ RailRAM Train Collection Project</b></sub></a></td>
   </tr>
@@ -3308,7 +3315,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/StartFsck/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ StartFsck Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Nost_Gia_OS/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nost Gia OS Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Nostalgii/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nostalgii Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/YKDefenderVM/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ YKDefender Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/YKDefenderVM/"><img src="/Graphics/My-projects/Logos/Y/YKDefender/Y2KGOV.png" width="100px;" alt=""/><br /><sub><b>🌐️ YKDefender Project</b></sub></a></td>
   </tr>
   <!-- Row A13 !-->
   <!-- Number 13 !-->
@@ -3351,7 +3358,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/HealthMeterMaximum/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ HealthMeterMaximum Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Dentalbar Whitetooth Pro Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/ChromaTags_ForGit/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ChromaTags forGit Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Advanced_Eye_Chart/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Advanced Eye Chart  Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Advanced_Eye_Chart/"><img src="/Graphics/My-projects/Logos/A/Advanced-Eye-Chart/OptometristIcon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Advanced Eye Chart Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/UI_Tour_Guide/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UI Tour Guide Project</b></sub></a></td>
   </tr>
   <!-- Row A17 !-->
@@ -3380,7 +3387,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 19 !-->
   <tr>
     <td align="center"><p>Section P1#19</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Lightspeed Relay Technologies Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/"><img src="/Graphics/My-projects/Logos/L/LightSpeed-Relay-Technologies/TRAVEL_LSRT.png" width="100px;" alt=""/><br /><sub><b>🌐️ Lightspeed Relay Technologies Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/LANChair/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ LANChair Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/UTPM/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UTPM Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ -ibibyte Mathematical Reference Project</b></sub></a></td>
@@ -3406,7 +3413,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Turkey-Stories/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Turkey Stories Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Santa_Software_Suite_Core/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Santa Software Suite Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/NimbleBit-Glossary/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleBit Glossary Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Ratiyo/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Ratiyo Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Ratiyo/"><img src="/Graphics/My-projects/Logos/R/Ratiyo/ScaleRatiyo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Ratiyo Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Profa_Or_Antifa/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Profa or Antifa Project</b></sub></a></td>
   </tr>
   <!-- Row A22 !-->
@@ -3416,7 +3423,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/uDonate/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ uDonate Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/4096/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 4096 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/MadLibby/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ MadLibby Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Goodbye-World/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Goodbye World Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Goodbye-World/"><img src="/Graphics/My-projects/Logos/G/Goodbye-World/BurningEarth.png" width="100px;" alt=""/><br /><sub><b>🌐️ Goodbye World Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Dronemap/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Dronemap Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Password_Generator_Ultimate/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Password Generator Ultimate Project</b></sub></a></td>
   </tr>
@@ -3440,17 +3447,17 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/TuxBot-OperatingSystem/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ TuxBot Operating System Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/OS_Census/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OS Census Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Senior_Design/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Senior Design Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/IGNORE_File/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ IGNORE file Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/IGNORE_File/"><img src="/Graphics/My-projects/Logos/I/IGNORE-File/ignore1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ IGNORE file Project</b></sub></a></td>
   </tr>
   <!-- Row A25 !-->
   <!-- Number 25 !-->
   <tr>
     <td align="center"><p>Section P1#25</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Boilerplate-cabinet/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Boilerplate Cabinet Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Boilerplate-cabinet/"><img src="/Graphics/My-projects/Logos/B/Boilerplate-Cabinet/Machine-Boiler.png" width="100px;" alt=""/><br /><sub><b>🌐️ Boilerplate Cabinet Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/NexxFetch/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NexxFetch Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/CountMausoleum/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Count Mausoleum Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Project_1001/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Project1001 Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Fortran-fortress/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Fortran fortress Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Fortran-fortress/"><img src="/Graphics/My-projects/Logos/F/Fortran-Fortress/Purple_Castle_Fortress_FORTRAN_FORTRESS_640px.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Fortran fortress Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Input-police/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Input Police Project</b></sub></a></td>
   </tr>
   <!-- Row A26 !-->
@@ -3512,7 +3519,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 31 !-->
   <tr>
     <td align="center"><p>Section P1#31</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OpenGov/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenGovernment Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OpenGov/"><img src="/Graphics/My-projects/Logos/O/OpenGov/Capitol3D.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenGovernment Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Sbubbway-generator/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Sbubbway Generator Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Pen-People/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Pen People Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Polyworks-SquareOff/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Polyworks SquareOff Project</b></sub></a></td>
@@ -3600,8 +3607,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 39 !-->
   <tr>
     <td align="center"><p>Section P1#39</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/ScreenTeX/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ScreenTeX Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/LinkLax/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ LinkLax Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/ScreenTeX/"><img src="/Graphics/My-projects/Logos/S/ScreenTeX/ScreenTeX_2.png" width="100px;" alt=""/><br /><sub><b>🌐️ ScreenTeX Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/LinkLax/"><img src="/Graphics/My-projects/Logos/L/LinkLax/HyperlinkIconGlossy1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ LinkLax Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/3DE/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 3DE Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/V7Tags/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ V7Tags Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/SourceBase/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SourceBase Project</b></sub></a></td>
@@ -3626,7 +3633,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/OuterVM/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OuterVM Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/V-ReShot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ V-ReShot Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DOS-Buddy/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DOS-Buddy Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/VirtualHome/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ VirtualHome Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/VirtualHome/"><img src="/Graphics/My-projects/Logos/V/VirtualHome/VirtualHome.png" width="100px;" alt=""/><br /><sub><b>🌐️ VirtualHome Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/FBI_RoleplaySimulator/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ FBI Roleplay Simulator Project</b></sub></a></td>
   </tr>
   <!-- Row A42 !-->
@@ -3644,7 +3651,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 43 !-->
   <tr>
     <td align="center"><p>Section P1#43</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/MemeMachine-2019/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Meme Machine 2019 Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/MemeMachine-2019/"><img src="/Graphics/My-projects/Logos/M/Meme-Machine-2019/MemeGeneratorIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Meme Machine 2019 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Jscribe/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Jscribe Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/UltraSwitch/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UltraSwitch Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/RegAggregate/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ RegAggregate Project</b></sub></a></td>
@@ -3666,7 +3673,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 45 !-->
   <tr>
     <td align="center"><p>Section P1#45</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 DRM Blocklist Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-DRM-Blocklist/Seanpm2001-DRM-Blocklist_1500pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 DRM Blocklist Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/George-P-Floyd-Memorial/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ George P. Floyd Memorial Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-WorldDB/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 WorldDB Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Tone-Indicator-Standard/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Tone Indicator Standard Project</b></sub></a></td>
@@ -3700,10 +3707,10 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P2#48</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/ClosedAI/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ClosedAI project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/ReverseFallacy/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ReverseFallacy Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Booty/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Booty project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/ReverseFallacy/"><img src="/Graphics/My-projects/Logos/R/ReverseFallacy/Oxygen480-actions-view-refresh.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ReverseFallacy Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Booty/"><img src="/Graphics/My-projects/Logos/B/Booty/Booty_PlaceholderLogo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Booty project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Saltine-Cracker-Award/"><img src="/Graphics/My-projects/Logos/S/Saltine-Cracker-Award/Saltine-cracker.png" width="100px;" alt=""/><br /><sub><b>🌐️ Saltine Cracker Award</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
   <!-- Row A49 !-->
@@ -4016,8 +4023,9 @@ These logos have been added to the profile repository, and need to be linked to 
 - [ ] ClosedAI project 	
 - [x] ReverseFallacy Project 	
 - [x] Booty project
+- [x] Saltine Cracker Award
 
-Included, but not listed
+Included, but not listed (these projects are included in other categories)
 
 - [x] AI2001
 - [x] Bliss Browser
@@ -4030,8 +4038,6 @@ Included, but not listed
 - [x] SNU
 - [x] UCALC
 
-- [x] Saltine Cracker Award
-
 </details>
 
 **Used logos**
@@ -4041,16 +4047,16 @@ These logos have been added to the table via HTML.
 <details><summary><p><b>Click/tap here to expand/collapse the available logos list</b></p></summary>
 
 - [ ] Health projects (SeanWallaWalla) 	
-- [ ] CompuSmell project 	
-- [ ] Degoogle campaign/DeGoogle your Life 	
-- [ ] Myrick family archive 	
-- [ ] Nostalgia Project 	
-- [ ] Other operating system projects (SeanWallaWalla)
-- [ ] Bot projects (SeanWallaWalla) 	
-- [ ] Software Security projects (SeanWallaWalla) 	
-- [ ] Audio projects (SeanWallaWalla) 	
-- [ ] Open Source video game projects (SeanWallaWalla) 	
-- [ ] Malware projects (SeanWallaWalla) 	
+- [x] CompuSmell project 	
+- [x] Degoogle campaign/DeGoogle your Life 	
+- [ ] Myrick family archive
+- [x] Nostalgia Project 	
+- [x] Other operating system projects (SeanWallaWalla)
+- [x] Bot projects (SeanWallaWalla) 	
+- [x] Software Security projects (SeanWallaWalla) 	
+- [x] Audio projects (SeanWallaWalla) 	
+- [x] Open Source video game projects (SeanWallaWalla) 	
+- [x] Malware projects (SeanWallaWalla) 	
 - [ ] DISK-O-Jockey project
 - [ ] Kotlint Project 	
 - [ ] WichCraft Project 	
@@ -4059,7 +4065,7 @@ These logos have been added to the table via HTML.
 - [ ] Egg Org Project 	
 - [ ] OpenTowers Project
 - [ ] BGemJam Project 	
-- [ ] The offline experience Project 	
+- [x] The offline experience Project 	
 - [ ] VLCSV Project 	
 - [ ] DLLinux Project 	
 - [ ] Kornhub Project 	
@@ -4082,18 +4088,18 @@ These logos have been added to the table via HTML.
 - [ ] ZooTree Project 	
 - [ ] Zombie Life Re-Re-animated Project 	
 - [ ] Motor Universe: Open Factory Project
-- [ ] FolderArtist Project 	
+- [x] FolderArtist Project 	
 - [ ] Favicon Pages Project 	
-- [ ] ScriptKidd Toolkit Project 	
-- [ ] PyNuke128 Project 	
+- [x] ScriptKidd Toolkit Project 	
+- [x] PyNuke128 Project 	
 - [ ] Touch Pets Dogs 2 Rewritten Project 	
 - [ ] Tap Pet Hotel Open Project
 - [ ] Engineer Superdesk Project 	
-- [ ] CamCamPlus Project 	
-- [ ] VRedRoom Project 	
+- [x] CamCamPlus Project 	
+- [x] VRedRoom Project 	
 - [ ] 9x Internet Project 	
-- [ ] SimZonns Project 	
-- [ ] Code Distancing Project
+- [x] SimZonns Project 	
+- [x] Code Distancing Project
 - [ ] Doorcrete Project 	
 - [ ] Underune Maker Project 	
 - [ ] Snail Bob Maker Project 	
@@ -4103,7 +4109,7 @@ These logos have been added to the table via HTML.
 - [ ] United Autism Rights Org Project 	
 - [ ] Numeric Liberation Front Project 	
 - [ ] The REAL Data Liberation Front Project 	
-- [ ] Takeout Tuesdays Project 	
+- [x] Takeout Tuesdays Project 	
 - [ ] Frogmania Project 	
 - [ ] RailRAM Train Collection Project
 - [ ] Open Source Security Camera Project 	
@@ -4111,7 +4117,7 @@ These logos have been added to the table via HTML.
 - [ ] StartFsck Project 	
 - [ ] Nost Gia OS Project 	
 - [ ] Nostalgii Project 	
-- [ ] YKDefender Project
+- [x] YKDefender Project
 - [ ] Bosky Project 	
 - [ ] AdBool Project 	
 - [ ] Bluecalm theme Project 	
@@ -4134,7 +4140,7 @@ These logos have been added to the table via HTML.
 - [ ] HealthMeterMaximum Project 	
 - [ ] Dentalbar Whitetooth Pro Project 	
 - [ ] ChromaTags forGit Project 	
-- [ ] Advanced Eye Chart Project 	
+- [x] Advanced Eye Chart Project 	
 - [ ] UI Tour Guide Project
 - [ ] App Backpack Project 	
 - [ ] iBlast Project 	
@@ -4148,7 +4154,7 @@ These logos have been added to the table via HTML.
 - [ ] PolyGlot Project 	
 - [ ] DeciCube Project 	
 - [ ] OVPVMO site Project
-- [ ] Lightspeed Relay Technologies Project 	
+- [x] Lightspeed Relay Technologies Project 	
 - [ ] LANChair Project 	
 - [ ] UTPM Project 	
 - [ ] -ibibyte Mathematical Reference Project 	
@@ -4164,12 +4170,12 @@ These logos have been added to the table via HTML.
 - [ ] Turkey Stories Project 	
 - [ ] Santa Software Suite Project 	
 - [ ] NimbleBit Glossary Project 	
-- [ ] Ratiyo Project 	
+- [x] Ratiyo Project 	
 - [ ] Profa or Antifa Project
 - [ ] uDonate Project 	
 - [ ] 4096 Project 	
 - [ ] MadLibby Project 	
-- [ ] Goodbye World Project 	
+- [x] Goodbye World Project 	
 - [ ] Dronemap Project 	
 - [ ] Password Generator Ultimate Project
 - [ ] SVG Video Project 	
@@ -4183,12 +4189,12 @@ These logos have been added to the table via HTML.
 - [ ] TuxBot Operating System Project 	
 - [ ] OS Census Project 	
 - [ ] Senior Design Project 	
-- [ ] IGNORE file Project
-- [ ] Boilerplate Cabinet Project 	
+- [x] IGNORE file Project
+- [x] Boilerplate Cabinet Project 	
 - [ ] NexxFetch Project 	
 - [ ] Count Mausoleum Project 	
 - [ ] Project1001 Project 	
-- [ ] Fortran fortress Project 	
+- [x] Fortran fortress Project 	
 - [ ] Input Police Project
 - [ ] README Desktop LIBrary Project 	
 - [ ] ShareBox LIBrary Project 	
@@ -4220,7 +4226,7 @@ These logos have been added to the table via HTML.
 - [ ] CMilk Project 	
 - [ ] Java the Hutt Project 	
 - [ ] AZWS Encryption Project
-- [ ] OpenGovernment Project 	
+- [x] OpenGovernment Project 	
 - [ ] Sbubbway Generator Project 	
 - [ ] Pen People Project 	
 - [ ] Polyworks SquareOff Project 	
@@ -4268,8 +4274,8 @@ These logos have been added to the table via HTML.
 - [ ] Team8 Collection Project 	
 - [ ] CrossCompatXU Project 	
 - [ ] CH3-c-K Project
-- [ ] ScreenTeX Project 	
-- [ ] LinkLax Project 	
+- [x] ScreenTeX Project 	
+- [x] LinkLax Project 	
 - [ ] 3DE Project 	
 - [ ] V7Tags Project 	
 - [ ] SourceBase Project 	
@@ -4284,7 +4290,7 @@ These logos have been added to the table via HTML.
 - [ ] OuterVM Project 	
 - [ ] V-ReShot Project 	
 - [ ] DOS-Buddy Project 	
-- [ ] VirtualHome Project 	
+- [x] VirtualHome Project 	
 - [ ] FBI Roleplay Simulator Project
 - [ ] LinFsck Project 	
 - [ ] Kevin Macleod Software Radio Project 	
@@ -4292,7 +4298,7 @@ These logos have been added to the table via HTML.
 - [ ] PVZ Custom Project 	
 - [ ] IE6 flavored markdown Project 	
 - [ ] Cyborg System Monitor Project
-- [ ] Meme Machine 2019 Project 	
+- [x] Meme Machine 2019 Project 	
 - [ ] Jscribe Project 	
 - [ ] UltraSwitch Project 	
 - [ ] RegAggregate Project 	
@@ -4301,10 +4307,10 @@ These logos have been added to the table via HTML.
 - [ ] SDE MobileServer Project 	
 - [ ] HT Messenger Project 	
 - [ ] GitMan Project 	
-- [ ] Nuclear ad bombs specification Project 	
+- [ ] Nuclear ad bombs specification Project
 - [ ] Delerium Project 	
 - [ ] B3 Project
-- [ ] Seanpm2001 DRM Blocklist Project 	
+- [x] Seanpm2001 DRM Blocklist Project 	
 - [ ] George P. Floyd Memorial Project 	
 - [ ] Seanpm2001 WorldDB Project 	
 - [ ] Tone Indicator Standard Project 	
@@ -4323,8 +4329,9 @@ These logos have been added to the table via HTML.
 - [ ] Open Media Rating System (OMRS) Project 	
 - [ ] Monty.py Project
 - [ ] ClosedAI project 	
-- [ ] ReverseFallacy Project 	
-- [ ] Booty project
+- [x] ReverseFallacy Project 	
+- [x] Booty project
+- [x] Saltine Cracker Award
 
 </details>
 
@@ -4385,7 +4392,7 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ SDE MobileServer`](https://github.com/seanpm2001/SDE_MobileServer/) | [:octocat: `🌐️ HT Messenger`](https://github.com/seanpm2001/HT-Messenger/) | [:octocat: `🌐️ GitMan`](https://github.com/seanpm2001/GitMan/) | [:octocat: `🌐️ Nuclear ad bombs specification`](https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/) | [:octocat: `🌐️ Delerium`](https://github.com/seanpm2001/Delerium/) | [:octocat: `🌐️ B3`](https://github.com/seanpm2001/B3/) |
 | [:octocat: `🌐️ Seanpm2001 DRM Blocklist`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/) | [:octocat: `🌐️ George P. Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/) | [:octocat: `🌐️ Seanpm2001 WorldDB`](https://github.com/seanpm2001/Seanpm2001-WorldDB/) | [:octocat: `🌐️ Tone Indicator Standard`](https://github.com/seanpm2001/Tone-Indicator-Standard/) | [:octocat: `🌐️ GitHex`](https://github.com/seanpm2001/GitHex/) |  [:octocat: `🌐️ World Census Project`](https://github.com/seanpm2001/World-Census-Project/) |
 | [:octocat: `🌐️ Its`](https://github.com/seanpm2001/Its/) | [:octocat: `🌐️ vCoin`](https://github.com/seanpm2001/vCoin/) | [:octocat: `🌐️ Pikeheader`](https://github.com/seanpm2001/Pikeheader/) | [:octocat: `🌐️ DALL-E LLaMA`](https://github.com/seanpm2001/DALL-E_LLaMA/) | [:octocat: `🌐️ Open Media Rating System (OMRS)`](https://github.com/seanpm2001/Open-Media-Rating-System/) | [:octocat: `🌐️ Monty.py`](https://github.com/seanpm2001/Monty.py/) |
-| [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | [:octocat: `🌐️ ReverseFallacy`](https://github.com/seanpm2001/ReverseFallacy/) | [:octocat: `🌐️ Booty`](https://github.com/seanpm2001/Booty/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ |
+| [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | [:octocat: `🌐️ ReverseFallacy`](https://github.com/seanpm2001/ReverseFallacy/) | [:octocat: `🌐️ Booty`](https://github.com/seanpm2001/Booty/) | [:octocat: `🌐️ Saltine Cracker Award`](https://github.com/seanpm2001/Saltine-Cracker-Award/) | **Some other projects aren't listed yet** | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -4643,6 +4650,10 @@ This is a sorted list of key projects by mega project categories.
 
 View this segment [in a separate file](/Segments/What-I-am-currently-working-on/README.md)
 
+> [`Location of logos`](/Graphics/My-projects/Logos/)
+
+> [`Location of placeholder graphics`](/Graphics/Projects/Placeholder/)
+
 _End of What I'm currently working on section._
 
 </details> <!-- End of What I'm currently working on !-->
@@ -4660,12 +4671,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `165 (2025, Tuesday, March 11th at 05:59 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `4,688` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `039,637` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `308,360` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `275,117` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `314,041` <!-- TODO: This line should be updated daily !-->
+- **File version:** `166 (2025, Wednesday, March 12th at 05:02 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `5,253` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `042,281` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `325,748` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `289,978` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `331,441` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -4683,5 +4694,559 @@ _End of What I'm currently working on section._
 </details> <!-- End of file info section !-->
 
 <!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
+
+***
+
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
+
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
+
+# File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+History of this file.
+
+---
+
+Versions 139 and below are not documented here, as they were solely part of the core `README` file.
+
+---
+
+## Version 140 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 140</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 140
+
+</details> <!-- End of file history: V140 !-->
+
+---
+
+## Version 141 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 141</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 141
+
+</details> <!-- End of file history: V141 !-->
+
+---
+
+## Version 142 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 142</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 142
+
+</details> <!-- End of file history: V142 !-->
+
+---
+
+## Version 143 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 143</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 143
+
+</details> <!-- End of file history: V143 !-->
+
+---
+
+## Version 144 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 144</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 144
+
+</details> <!-- End of file history: V144 !-->
+
+---
+
+## Version 145 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 145</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 145
+
+</details> <!-- End of file history: V145 !-->
+
+---
+
+## Version 146 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 146</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 146
+
+</details> <!-- End of file history: V146 !-->
+
+---
+
+## Version 147 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 147</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 147
+
+</details> <!-- End of file history: V1417 !-->
+
+---
+
+## Version 148 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 148</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 148
+
+</details> <!-- End of file history: V148 !-->
+
+---
+
+## Version 149 (UNKNOWN DATE)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 149</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _This entry is incomplete, it is missing data._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [ ] No other changes in version 149
+
+</details> <!-- End of file history: V149 !-->
+
+---
+
+## Version 150 (2024, Wednesday, December 11th at 06:35 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 150</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update to organize things._
+
+> Changes:
+
+- [x] Added `🌐️ Meridian` Emojis to indicate public projects
+- [x] Updated the `File info` section
+- [ ] No other changes in version 150
+
+</details> <!-- End of file history: V150 !-->
+
+---
+
+## Version 151 (2025, Friday, January 3rd at 04:59 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 151</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Another update to organize things._
+
+> Changes:
+
+- [x] Split off the `Private projects` section from the `Public projects` section
+- [x] Updated the `File info` section
+- [ ] No other changes in version 151
+
+</details> <!-- End of file history: V151 !-->
+
+---
+
+## Version 152 (2025, Saturday, January 4th at 11:14 am PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 152</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A basic maintenance update to list a new project._
+
+> Changes:
+
+- [x] Updated the `Private Projects` section to list the project codenamed `MGV`
+- [x] Updated the `File info` section
+- [ ] No other changes in version 152
+
+</details> <!-- End of file history: V152 !-->
+
+---
+
+## Version 153 (2025, Sunday, January 5th at 05:35 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 153</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A basic maintenance update to list a new project._
+
+> Changes:
+
+- [x] Updated the `Private Projects` section to list the project codenamed `MMS`
+- [x] Updated the `File info` section
+- [ ] No other changes in version 153
+
+</details> <!-- End of file history: V153 !-->
+
+---
+
+## Version 154 (2025, Monday, January 5th at 03:37 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 154</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A basic update to fix typos._
+
+> Changes:
+
+- [x] Fixed a typo
+- [x] Updated the `File info` section
+- [ ] No other changes in version 154
+
+</details> <!-- End of file history: V154 !-->
+
+---
+
+## Version 155 (2025, Friday, January 31st at 05:32 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 155</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A basic maintenance update to list a new project._
+
+> Changes:
+
+- [x] Updated the `Private Projects` section to list the project codenamed `DNY`
+- [x] Updated the `File info` section
+- [ ] No other changes in version 155
+
+</details> <!-- End of file history: V155 !-->
+
+---
+
+## Version 156 (2025, Monday, February 3rd at 06:14 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 156</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A basic maintenance update to list a new project._
+
+> Changes:
+
+- [x] Updated the `Other projects` section to list the new `ClosedAI` project
+- [x] Updated the `File info` section
+- [ ] No other changes in version 156
+
+</details> <!-- End of file history: V156 !-->
+
+---
+
+## Version 157 (2025, Monday, February 17th at 07:57 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 157</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A basic maintenance update to list a new project._
+
+> Changes:
+
+- [ ] `<unknown>`
+- [x] Updated the `File info` section
+- [ ] No other changes in version 157
+
+</details> <!-- End of file history: V1517 !-->
+
+---
+
+## Version 158 (2025, Tuesday, March 4th at 04:16 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 158</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that begins to work on a new HTML5 table for listing projects with logos. The old Markdown table will also be kept, and updated alongside the new table._
+
+> Changes:
+
+- [x] Created the `Other projects` HTML5 table
+- [x] Updated the `File info` section
+- [ ] No other changes in version 158
+
+</details> <!-- End of file history: V158 !-->
+
+---
+
+## Version 159 (2025, Wednesday, March 5th at 05:55 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 159</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that continues to modernize the HTML5 table_
+
+> Changes:
+
+- [x] Continued to add data to the new `Other projects` HTML5 table
+- [x] Updated the `File info` section
+- [ ] No other changes in version 159
+
+</details> <!-- End of file history: V159 !-->
+
+---
+
+## Version 160 (2025, Thursday, March 6th at 05:01 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 160</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that continues to modernize the HTML5 table_
+
+> Changes:
+
+- [x] Added `ReverseFallacy` to the project lists in the `Other projects` HTML5 and Markdown tables
+- [x] Continued to add data to the new `Other projects` HTML5 table
+- [x] Updated the `File info` section
+- [ ] No other changes in version 160
+
+</details> <!-- End of file history: V160 !-->
+
+---
+
+## Version 161 (2025, Friday, March 7th at 05:10 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 161</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that continues to modernize the HTML5 table_
+
+> Changes:
+
+- [x] Continued to add data to the new `Other projects` HTML5 table
+- [x] Updated the `File info` section
+- [ ] No other changes in version 161
+
+</details> <!-- End of file history: V161 !-->
+
+---
+
+## Version 162 (2025, Saturday, March 8th at 04:40 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 162</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that continues to modernize the HTML5 table_
+
+> Changes:
+
+- [x] Continued to add data to the new `Other projects` HTML5 table
+- [x] Updated the `File info` section
+- [ ] No other changes in version 162
+
+</details> <!-- End of file history: V162 !-->
+
+---
+
+## Version 163 (2025, Sunday, March 9th at 05:21 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 163</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that continues to modernize the HTML5 table_
+
+> Changes:
+
+- [x] Added more data to the `Other projects` HTML5 table
+- [x] Updated the `File info` section
+- [ ] No other changes in version 163
+
+</details> <!-- End of file history: V163 !-->
+
+---
+
+## Version 164 (2025, Monday, March 10th at 05:34 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 164</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that finishes a set of changes that were recently assigned._
+
+> Changes:
+
+- [x] Finished adding links and data to the `Other projects` HTML5 table
+- [x] Added `Booty` as a new project in the `Other projects` HTML5 and Markdown tables
+- [x] Updated the `File info` section
+- - [x] Brought in `2001 standard` compliance for the section
+- [ ] No other changes in version 164
+
+</details> <!-- End of file history: V164 !-->
+
+---
+
+## Version 165 (2025, Tuesday, March 11th at 05:59 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 165</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that starts a new set of changes that were recently assigned._
+
+> Changes:
+
+- [x] Began to prepare the process of adding logos to the table by creating 2 checklists for determining what is done, and what needs to be done.
+- [x] Update the `File info` section
+- [ ] No other changes in version 165
+
+</details> <!-- End of file history: V165 !-->
+
+---
+
+## Version 166 (2025, Wednesday, March 12th at 05:02 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 166</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A new update that modernizes the file some more (with a new file history section, and footer) and begins to add logos for various projects._
+
+> Changes:
+
+- [x] Updated the `Other projects` HTML5 and Markdown tables
+- - [x] New logos were added (HTML5 table only)
+- - [x] Added `Saltine Cracker Award` as a new project (it is an older project, but it wasn't listed yet)
+- [x] Updated the `Other projects` logo lists
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added entries for versions 140 to 166 (with entries from 150 to 166 being mostly complete.
+- [x] Added the `Footer` section
+- [ ] No other changes in version 166
+
+</details> <!-- End of file history: V166 !-->
+
+---
+
+_End of file history section._
+
+</details> <!-- End of file history section !-->
+
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+
+***
+
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
+
+# [Footer 🦶️](#Footer-)
+
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer</b></p></summary>
+
+**You have reached the end of this file.**
+
+<table>
+  <tr>
+    <td>
+
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [`Exit to Bing`](https://bing.com/)
+- [`Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [`Exit to Ecosia`](https://ecosia.org/)
+- [`Exit to Swisscows`](https://swisscows.com/)
+
+    </td>
+  </tr>
+</table>
+
+###### [EOF](#EOF)
+
+<!-- EOF:
+End
+Of
+File
+!-->
+
+</details> <!-- End of footer !-->
+
+_End of footer._
+
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
+
+---
+
+_End of article._
+
+</details> <!-- End of article !-->
 
 ***
