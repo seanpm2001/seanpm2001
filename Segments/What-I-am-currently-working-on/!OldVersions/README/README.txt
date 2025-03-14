@@ -3164,6 +3164,15 @@ Note to self: Make sure to also check each repository to see if a separate docum
 
 <details open><summary><p><b>Click/tap here to expand/collapse the public projects macrosection</b></p></summary>
 
+| 🪧️ P-sign legend |
+|---|
+| P1: Public Projects |
+| P2: Private Projects |
+| **Examples** |
+| P1#2 : Public Projects: row 2 |
+| P2#1 : Private projects: row 1 |
+| 🪧️ P-sign legend |
+
 | **🌐️ Public projects** |
 |---|
 
@@ -3171,10 +3180,25 @@ Note to self: Make sure to also check each repository to see if a separate docum
 |---|
 | **2025, March 9th** |
 | Some listed projects need to be split up further into other groups, as some projects here shouldn't stand alone. This task is currently on standby. |
+| 📋️ TASK |
+
+| 👥️ COMMUNITY TASKS |
+|---|
+| **2025, March 14th** |
+| Some tasks for the community |
+| **Maintenance tasks** |
+| Keep the logos up to date [a] |
+| Replace with better versions [a] |
+| Convert to SVG [a] |
+| Better file names for some files [a] |
+| [a]: Upload as a new separate file, DO NOT overwrite the original file |
+| **How to contribute new logos** |
+| Leave an issue/pull request on the main repository, NOT the profile repository (the current repository) |
+| 👥️ COMMUNITY TASKS |
 
 | 💬️ COMMENT |
 |---|
-| **2025, March 13th** |
+| **2025, March 14th** |
 | The process of adding images to the table began on 2025, March 12th. It is currently a major work in progress, and I don't expect to work on it every day. The community is still welcome to help out. |
 | **Resource locations** |
 | Resources (logos) that should be added to the table can be found in these repositories: |
@@ -3182,7 +3206,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) |
 | They can also be found on the home pages for the repositories themselves. |
 | **Progress** |
-| Less than 20% done (as of 2025, March 13th) |
+| `099` / `286` (`34.615%` done) (As of: 2025, Friday, March 14th) |
+| 💬️ COMMENT |
 
 <table>
   <!-- Row A1 !-->
@@ -3192,7 +3217,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Seanwallawalla-health/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Health/LowQuality_SeanwallawallaHealth.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Health projects (SeanWallaWalla)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/CompuSmell/"><img src="/Graphics/My-projects/Logos/C/CompuSmell/CompuSmellIcon_LowQuality.png" width="100px;" alt=""/><br /><sub><b>🌐️ CompuSmell project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeGoogle-your-life/"><img src="/Graphics/My-projects/Logos/D/DeGoogle-your-Life/DEGOOGLE1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Degoogle campaign/DeGoogle your Life</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Myrick-family-archive/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Myrick family archive</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Myrick-family-archive/"><img src="/Graphics/My-projects/Logos/M/Myrick-Family-Archive/Old-Logo_Mozilla.png" width="100px;" alt=""/><br /><sub><b>🌐️ Myrick family archive</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Nostalgia-project/"><img src="/Graphics/My-projects/Logos/N/Nostalgia-Project/Plutchik-wheel.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nostalgia Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/seanwallawalla-operating-systems/"><img src="/Graphics/My-projects/Logos/S/SeanWallaWalla-Operating-Systems/LowQuality_Seanwallawalla-operating-systems_Icon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Other operating system projects (SeanWallaWalla)</b></sub></a></td>
   </tr>
@@ -3211,12 +3236,12 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 3 !-->
   <tr>
     <td align="center"><p>Section P1#3</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Kotlint/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Kotlint Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Kotlint/"><img src="/Graphics/My-projects/Logos/K/Kotlint/Kotlin_AltLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kotlint Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/WichCraft/"><img src="/Graphics/My-projects/Logos/W/WichCraft/WichCraft_Icon_1024px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ WichCraft Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/iStonk/"><img src="/Graphics/My-projects/Logos/I/iStonk/iStonk_2732pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ iStonk Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Economica/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Economica Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Egg_Org/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Egg Org Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OpenTowers/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenTowers Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OpenTowers/"><img src="/Graphics/My-projects/Logos/O/OpenTowers/TowerIcon_Dev.png" width="100px;" alt=""/><br /><sub><b>🌐️ OpenTowers Project</b></sub></a></td>
   </tr>
   <!-- Row A4 !-->
   <!-- Number 4 !-->
@@ -3225,20 +3250,20 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/BGemJam/"><img src="/Graphics/My-projects/Logos/B/BGemJam/BGemJamGameIcon_LowQuality.png" width="100px;" alt=""/><br /><sub><b>🌐️ BGemJam Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/The-Offline-Experience/"><img src="/Graphics/My-projects/Logos/T/The-Offline-Experience/no-wifi-icon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ The offline experience Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/VLCSV/"><img src="/Graphics/My-projects/Logos/V/VLCSV/VLCSV_Logo2_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ VLCSV Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/DLLinux/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DLLinux Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DLLinux/"><img src="/Graphics/My-projects/Logos/D/DLLinux/DLLinux_1024pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ DLLinux Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Kornhub/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Kornhub Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Hyper-realistic-farm-simulator/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Hyper realistic farm simulator Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Hyper-realistic-farm-simulator/"><img src="/Graphics/My-projects/Logos/H/Hyper-Realistic-Farm-Simulator/Realistic3DFarm.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Hyper realistic farm simulator Project</b></sub></a></td>
   </tr>
   <!-- Row A5 !-->
   <!-- Number 5 !-->
   <tr>
     <td align="center"><p>Section P1#5</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/PongMax/"><img src="/Graphics/My-projects/Logos/P/PongMax/PongMax_Logo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ PongMax Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Boom-Bay/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Boom Bay Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Boom-Bay/"><img src="/Graphics/My-projects/Logos/B/Boom-Bay/BoomBayIsland.png" width="100px;" alt=""/><br /><sub><b>🌐️ Boom Bay Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Mammal_Town/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Mammal Town Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Pocket-village/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Pocket Village Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Snowcraft/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Snowcraft Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Green-Star-OS/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Green Star OS Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Green-Star-OS/"><img src="/Graphics/My-projects/Logos/G/Green-Star-OS/759px-Green_star_unboxed.svg.png" width="100px;" alt=""/><br /><sub><b>🌐️ Green Star OS Project</b></sub></a></td>
   </tr>
   <!-- Row A6 !-->
   <!-- Number 6 !-->
@@ -3247,7 +3272,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Hatium/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Hatium Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Windows_10_Python_Edition/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Windows 10 Python Edition Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Windows_server_2016_Python_Edition/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Windows Server 2016 Python Edition Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/IsraeLinux/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ IsraeLinux Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/IsraeLinux/"><img src="/Graphics/My-projects/Logos/I/IsraeLinux/IsraeLinux_Tux_V1.png" width="100px;" alt=""/><br /><sub><b>🌐️ IsraeLinux Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/BitChecker/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ BitChecker Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Phoneticut/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Phoneticut Project</b></sub></a></td>
   </tr>
@@ -3256,8 +3281,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P1#7</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Undigitized/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Undigitized Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/The-Pirates-Copy/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ The pirates (copy) Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/ImageVS/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ImageVS Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/The-Pirates-Copy/"><img src="/Graphics/My-projects/Logos/T/The-Pirates-Copy/JollyRoger_PirateIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ The pirates (copy) Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/ImageVS/"><img src="/Graphics/My-projects/Logos/I/ImageVS/ImageVS_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ ImageVS Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/ZooTree/"><img src="/Graphics/My-projects/Logos/Z/ZooTree/TreeSample512.png" width="100px;" alt=""/><br /><sub><b>🌐️ ZooTree Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Zombie-Life-Re-animated/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Zombie Life Re-Re-animated Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Motor-Universe-Open-Factory/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Motor Universe: Open Factory Project</b></sub></a></td>
@@ -3270,8 +3295,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Favicon-Pages/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Favicon Pages Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/ScriptKidd_ToolKit/"><img src="/Graphics/My-projects/Logos/S/ScriptKidd-ToolKit/ScriptKiddIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ ScriptKidd Toolkit Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/PyNuke128/"><img src="/Graphics/My-projects/Logos/P/PyNuke128/Nuclear1.png" width="100px;" alt=""/><br /><sub><b>🌐️ PyNuke128 Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/TouchPetsDogs2Rewritten/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Touch Pets Dogs 2 Rewritten Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/TapPetHotelOpen"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Tap Pet Hotel Open Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/TouchPetsDogs2Rewritten/"><img src="/Graphics/My-projects/Logos/T/Touch-Pets-Dogs-2-Rewritten/TouchPetsDogs2.8.png" width="100px;" alt=""/><br /><sub><b>🌐️ Touch Pets Dogs 2 Rewritten Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/TapPetHotelOpen"><img src="/Graphics/My-projects/Logos/T/Tap-Pet-Hotel-Open/TapPetHotel_512px_PocketGems_Icon.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Tap Pet Hotel Open Project</b></sub></a></td>
   </tr>
   <!-- Row A9 !-->
   <!-- Number 9 !-->
@@ -3303,8 +3328,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Numeric-Liberation-Front/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Numeric Liberation Front Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/The-REAL-Data-Liberation-Front/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ The REAL Data Liberation Front Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Takeout_Tuesdays/"><img src="/Graphics/My-projects/Logos/T/Takeout-Tuesdays/Takeout-Tuesdays_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Takeout Tuesdays Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Frog-Mania/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Frogmania Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/RailRAM-Train-Collection/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ RailRAM Train Collection Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Frog-Mania/"><img src="/Graphics/My-projects/Logos/F/Frog-Mania/FrogIcon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Frogmania Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/RailRAM-Train-Collection/"><img src="/Graphics/My-projects/Logos/R/RailRAM-Train-Collection/TrainIcon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ RailRAM Train Collection Project</b></sub></a></td>
   </tr>
   <!-- Row A12 !-->
   <!-- Number 12 !-->
@@ -3322,8 +3347,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P1#13</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bosky/"><img src="/Graphics/My-projects/Logos/B/Bosky/Bosky-Placeholder.png" width="100px;" alt=""/><br /><sub><b>🌐️ Bosky Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/AdBool/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ AdBool Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/BlueCalm_Theme/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Bluecalm theme Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/AdBool/"><img src="/Graphics/My-projects/Logos/A/AdBool/AntiAd.png" width="100px;" alt=""/><br /><sub><b>🌐️ AdBool Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/BlueCalm_Theme/"><img src="/Graphics/My-projects/Logos/B/BlueCalm/BlueCalm1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Bluecalm theme Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/AudiBass_Manager/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ AudiBass Manager Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Keyoff/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Keyoff Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/iCandy/"><img src="/Graphics/My-projects/Logos/I/iCandy/BluePeppermint.png" width="100px;" alt=""/><br /><sub><b>🌐️ iCandy Project</b></sub></a></td>
@@ -3337,18 +3362,18 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Bad-Code-Collection/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Bad code collection Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitAttributes-Collection/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Git attributes collection Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/RecursionBot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ RecursionBot Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SociaShame/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SociaShame Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SociaShame/"><img src="/Graphics/My-projects/Logos/S/SociaShame/SHAME.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ SociaShame Project</b></sub></a></td>
   </tr>
   <!-- Row A15 !-->
   <!-- Number 15 !-->
   <tr>
     <td align="center"><p>Section P1#15</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Branch-Ranch/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Branch Ranch Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Branch-Ranch/"><img src="/Graphics/My-projects/Logos/B/Branch-Ranch/BranchOlive.png" width="100px;" alt=""/><br /><sub><b>🌐️ Branch Ranch Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Backup Automation Build Bot Y Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/AUTOMATE-2001/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ AUTOMATE-2001 Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/AUTOMATE-2001/"><img src="/Graphics/My-projects/Logos/A/AUTOMATE2001/HAL-9000_2001SpaceOdyssey.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ AUTOMATE-2001 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/TimeoutToolkit/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Timeout Toolkit Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Desklocker/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DeskLocker Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Year-of-the-Linux-desktop/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Year of the Linux desktop Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Desklocker/"><img src="/Graphics/My-projects/Logos/D/DeskLocker/DeskLocker_Logo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ DeskLocker Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Year-of-the-Linux-desktop/"><img src="/Graphics/My-projects/Logos/Y/Year-of-the-Linux-Desktop/Tux_Enhanced.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Year of the Linux desktop Project</b></sub></a></td>
   </tr>
   <!-- Row A16 !-->
   <!-- Number 16 !-->
@@ -3366,11 +3391,11 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P1#17</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/App-backpack/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ App Backpack Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/iBlast/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ iBlast Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/FINF-DB/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ FINF-DB Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Reactop/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Reactop Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/iBlast/"><img src="/Graphics/My-projects/Logos/I/iBlast/iBlastMokiIcon_512x512.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ iBlast Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/FINF-DB/"><img src="/Graphics/My-projects/Logos/F/FINF-DB/FINFCab1.png" width="100px;" alt=""/><br /><sub><b>🌐️ FINF-DB Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Reactop/"><img src="/Graphics/My-projects/Logos/R/Reactop/ReactOS_400x400.png" width="100px;" alt=""/><br /><sub><b>🌐️ Reactop Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/LapLight"><img src="/Graphics/My-projects/Logos/L/LapLight/LapLight1.png" width="100px;" alt=""/><br /><sub><b>🌐️ LapLight Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/WakeNote/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ WakeNote Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/WakeNote/"><img src="/Graphics/My-projects/Logos/W/WakeNote/Bell1.png" width="100px;" alt=""/><br /><sub><b>🌐️ WakeNote Project</b></sub></a></td>
   </tr>
   <!-- Row A18 !-->
   <!-- Number 18 !-->
@@ -3392,26 +3417,26 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/UTPM/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UTPM Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ -ibibyte Mathematical Reference Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GratyBot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GratyBot Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/BASH.sh/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ BASH.sh Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/BASH.sh/"><img src="/Graphics/My-projects/Logos/B/BASH.sh/Gnu-bash-logo.svg_Cropped.png" width="100px;" alt=""/><br /><sub><b>🌐️ BASH.sh Project</b></sub></a></td>
   </tr>
   <!-- Row A20 !-->
   <!-- Number 20 !-->
   <tr>
     <td align="center"><p>Section P1#20</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Gaslight-Galactica/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Gaslight Galactica Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Gaslight-Galactica/"><img src="/Graphics/My-projects/Logos/G/Gaslight-Galactica/GaslightGalacticaIcon_LowQuality.png" width="100px;" alt=""/><br /><sub><b>🌐️ Gaslight Galactica Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DCalendar/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DCalendar Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GoDot_Launcher/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GoDot Launcher Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GNU_Car/"><img src="/Graphics/My-projects/Logos/G/GNU-Car/GNU_Car_1024pxIcon_No-Wordmark_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ GNU Car Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/GeniBlock/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GeniBlock Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/FreeGenie/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ FreeGenie Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/GeniBlock/"><img src="/Graphics/My-projects/Logos/G/GeniBlock/GeniBlock1.png" width="100px;" alt=""/><br /><sub><b>🌐️ GeniBlock Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/FreeGenie/"><img src="/Graphics/My-projects/Logos/F/FreeGenie/Genie_working_with_Marilyn.JPG" width="100px;" alt=""/><br /><sub><b>🌐️ FreeGenie Project</b></sub></a></td>
   </tr>
   <!-- Row A21 !-->
   <!-- Number 21 !-->
   <tr>
     <td align="center"><p>Section P1#21</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Halloween-Assistant/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Halloween Assistant Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Turkey-Stories/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Turkey Stories Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Santa_Software_Suite_Core/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Santa Software Suite Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Halloween-Assistant/"><img src="/Graphics/My-projects/Logos/H/Halloween-Assistant/Pumpkin.png" width="100px;" alt=""/><br /><sub><b>🌐️ Halloween Assistant Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Turkey-Stories/"><img src="/Graphics/My-projects/Logos/T/Turkey-Stories/TurkeyIcon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Turkey Stories Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Santa_Software_Suite_Core/"><img src="/Graphics/My-projects/Logos/S/Santa-Software-Suite/SantaSoftwareSuite_1024pIconV1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Santa Software Suite Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/NimbleBit-Glossary/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleBit Glossary Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Ratiyo/"><img src="/Graphics/My-projects/Logos/R/Ratiyo/ScaleRatiyo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Ratiyo Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Profa_Or_Antifa/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Profa or Antifa Project</b></sub></a></td>
@@ -3741,7 +3766,7 @@ These logos have been added to the profile repository, and need to be linked to 
 - [ ] Health projects (SeanWallaWalla) 	
 - [x] CompuSmell project 	
 - [x] Degoogle campaign/DeGoogle your Life 	
-- [ ] Myrick family archive
+- [x] Myrick family archive
 - [x] Nostalgia Project 	
 - [x] Other operating system projects (SeanWallaWalla)
 - [x] Bot projects (SeanWallaWalla) 	
@@ -3750,33 +3775,33 @@ These logos have been added to the profile repository, and need to be linked to 
 - [x] Open Source video game projects (SeanWallaWalla) 	
 - [x] Malware projects (SeanWallaWalla) 	
 - [x] DISK-O-Jockey project
-- [ ] Kotlint Project 	
+- [x] Kotlint Project 	
 - [x] WichCraft Project 	
 - [x] iStonk Project 	
 - [ ] Economica Project 	
 - [ ] Egg Org Project 	
-- [ ] OpenTowers Project
+- [x] OpenTowers Project
 - [x] BGemJam Project 	
 - [x] The offline experience Project 	
 - [x] VLCSV Project 	
-- [ ] DLLinux Project 	
+- [x] DLLinux Project 	
 - [ ] Kornhub Project 	
-- [ ] Hyper realistic farm simulator Project
+- [x] Hyper realistic farm simulator Project
 - [x] PongMax Project 	
-- [ ] Boom Bay Project 	
+- [x] Boom Bay Project 	
 - [ ] Mammal Town Project 	
 - [ ] Pocket Village Project 	
 - [ ] Snowcraft Project 	
-- [ ] Green Star OS Project
+- [x] Green Star OS Project
 - [ ] Hatium Project 	
 - [ ] Windows 10 Python Edition Project 	
 - [ ] Windows Server 2016 Python Edition Project 	
-- [ ] IsraeLinux Project 	
+- [x] IsraeLinux Project 	
 - [ ] BitChecker Project 	
 - [ ] Phoneticut Project
 - [ ] Undigitized Project 	
-- [ ] The pirates (copy) Project 	
-- [ ] ImageVS Project 	
+- [x] The pirates (copy) Project 	
+- [x] ImageVS Project 	
 - [x] ZooTree Project 	
 - [ ] Zombie Life Re-Re-animated Project 	
 - [ ] Motor Universe: Open Factory Project
@@ -3784,8 +3809,8 @@ These logos have been added to the profile repository, and need to be linked to 
 - [ ] Favicon Pages Project 	
 - [x] ScriptKidd Toolkit Project 	
 - [x] PyNuke128 Project 	
-- [ ] Touch Pets Dogs 2 Rewritten Project 	
-- [ ] Tap Pet Hotel Open Project
+- [x] Touch Pets Dogs 2 Rewritten Project 	
+- [x] Tap Pet Hotel Open Project
 - [ ] Engineer Superdesk Project 	
 - [x] CamCamPlus Project 	
 - [x] VRedRoom Project 	
@@ -3802,8 +3827,8 @@ These logos have been added to the profile repository, and need to be linked to 
 - [ ] Numeric Liberation Front Project 	
 - [ ] The REAL Data Liberation Front Project 	
 - [x] Takeout Tuesdays Project 	
-- [ ] Frogmania Project 	
-- [ ] RailRAM Train Collection Project
+- [x] Frogmania Project 	
+- [x] RailRAM Train Collection Project
 - [ ] Open Source Security Camera Project 	
 - [ ] Portal Voice Assistant Project 	
 - [ ] StartFsck Project 	
@@ -3811,8 +3836,8 @@ These logos have been added to the profile repository, and need to be linked to 
 - [ ] Nostalgii Project 	
 - [x] YKDefender Project
 - [x] Bosky Project 	
-- [ ] AdBool Project 	
-- [ ] Bluecalm theme Project 	
+- [x] AdBool Project 	
+- [x] Bluecalm theme Project 	
 - [ ] AudiBass Manager Project 	
 - [ ] Keyoff Project 	
 - [x] iCandy Project
@@ -3821,13 +3846,13 @@ These logos have been added to the profile repository, and need to be linked to 
 - [ ] Bad code collection Project 	
 - [ ] Git attributes collection Project 	
 - [ ] RecursionBot Project 	
-- [ ] SociaShame Project
-- [ ] Branch Ranch Project 	
+- [x] SociaShame Project
+- [x] Branch Ranch Project 	
 - [ ] Backup Automation Build Bot Y Project 	
-- [ ] AUTOMATE-2001 Project 	
+- [x] AUTOMATE-2001 Project 	
 - [ ] Timeout Toolkit Project 	
-- [ ] DeskLocker Project 	
-- [ ] Year of the Linux desktop Project
+- [x] DeskLocker Project 	
+- [x] Year of the Linux desktop Project
 - [ ] LargeNumbers ULIB Project 	
 - [ ] HealthMeterMaximum Project 	
 - [ ] Dentalbar Whitetooth Pro Project 	
@@ -3835,11 +3860,11 @@ These logos have been added to the profile repository, and need to be linked to 
 - [x] Advanced Eye Chart Project 	
 - [ ] UI Tour Guide Project
 - [ ] App Backpack Project 	
-- [ ] iBlast Project 	
-- [ ] FINF-DB Project 	
-- [ ] Reactop Project 	
+- [x] iBlast Project 	
+- [x] FINF-DB Project 	
+- [x] Reactop Project 	
 - [x] LapLight Project 	
-- [ ] WakeNote Project
+- [x] WakeNote Project
 - [ ] StealthGeo Project 	
 - [ ] Computing Longevity Project 	
 - [x] 3D Webpage Inspector Project 	
@@ -3851,16 +3876,16 @@ These logos have been added to the profile repository, and need to be linked to 
 - [ ] UTPM Project 	
 - [ ] -ibibyte Mathematical Reference Project 	
 - [ ] GratyBot Project 	
-- [ ] BASH.sh Project
-- [ ] Gaslight Galactica Project 	
+- [x] BASH.sh Project
+- [x] Gaslight Galactica Project 	
 - [ ] DCalendar Project 	
 - [ ] GoDot Launcher Project 	
 - [x] GNU Car Project 	
-- [ ] GeniBlock Project 	
-- [ ] FreeGenie Project
-- [ ] Halloween Assistant Project 	
-- [ ] Turkey Stories Project 	
-- [ ] Santa Software Suite Project 	
+- [x] GeniBlock Project 	
+- [x] FreeGenie Project
+- [x] Halloween Assistant Project 	
+- [x] Turkey Stories Project 	
+- [x] Santa Software Suite Project 	
 - [ ] NimbleBit Glossary Project 	
 - [x] Ratiyo Project 	
 - [ ] Profa or Antifa Project
@@ -4049,7 +4074,7 @@ These logos have been added to the table via HTML.
 - [ ] Health projects (SeanWallaWalla) 	
 - [x] CompuSmell project 	
 - [x] Degoogle campaign/DeGoogle your Life 	
-- [ ] Myrick family archive
+- [x] Myrick family archive
 - [x] Nostalgia Project 	
 - [x] Other operating system projects (SeanWallaWalla)
 - [x] Bot projects (SeanWallaWalla) 	
@@ -4058,33 +4083,33 @@ These logos have been added to the table via HTML.
 - [x] Open Source video game projects (SeanWallaWalla) 	
 - [x] Malware projects (SeanWallaWalla) 	
 - [x] DISK-O-Jockey project
-- [ ] Kotlint Project 	
+- [x] Kotlint Project 	
 - [x] WichCraft Project 	
 - [x] iStonk Project 	
 - [ ] Economica Project 	
 - [ ] Egg Org Project 	
-- [ ] OpenTowers Project
+- [x] OpenTowers Project
 - [x] BGemJam Project 	
 - [x] The offline experience Project 	
 - [x] VLCSV Project 	
-- [ ] DLLinux Project 	
+- [x] DLLinux Project 	
 - [ ] Kornhub Project 	
-- [ ] Hyper realistic farm simulator Project
+- [x] Hyper realistic farm simulator Project
 - [x] PongMax Project 	
-- [ ] Boom Bay Project 	
+- [x] Boom Bay Project 	
 - [ ] Mammal Town Project 	
 - [ ] Pocket Village Project 	
 - [ ] Snowcraft Project 	
-- [ ] Green Star OS Project
+- [x] Green Star OS Project
 - [ ] Hatium Project 	
 - [ ] Windows 10 Python Edition Project 	
 - [ ] Windows Server 2016 Python Edition Project 	
-- [ ] IsraeLinux Project 	
+- [x] IsraeLinux Project 	
 - [ ] BitChecker Project 	
 - [ ] Phoneticut Project
 - [ ] Undigitized Project 	
-- [ ] The pirates (copy) Project 	
-- [ ] ImageVS Project 	
+- [x] The pirates (copy) Project 	
+- [x] ImageVS Project 	
 - [x] ZooTree Project 	
 - [ ] Zombie Life Re-Re-animated Project 	
 - [ ] Motor Universe: Open Factory Project
@@ -4092,8 +4117,8 @@ These logos have been added to the table via HTML.
 - [ ] Favicon Pages Project 	
 - [x] ScriptKidd Toolkit Project 	
 - [x] PyNuke128 Project 	
-- [ ] Touch Pets Dogs 2 Rewritten Project 	
-- [ ] Tap Pet Hotel Open Project
+- [x] Touch Pets Dogs 2 Rewritten Project 	
+- [x] Tap Pet Hotel Open Project
 - [ ] Engineer Superdesk Project 	
 - [x] CamCamPlus Project 	
 - [x] VRedRoom Project 	
@@ -4110,8 +4135,8 @@ These logos have been added to the table via HTML.
 - [ ] Numeric Liberation Front Project 	
 - [ ] The REAL Data Liberation Front Project 	
 - [x] Takeout Tuesdays Project 	
-- [ ] Frogmania Project 	
-- [ ] RailRAM Train Collection Project
+- [x] Frogmania Project 	
+- [x] RailRAM Train Collection Project
 - [ ] Open Source Security Camera Project 	
 - [ ] Portal Voice Assistant Project 	
 - [ ] StartFsck Project 	
@@ -4119,8 +4144,8 @@ These logos have been added to the table via HTML.
 - [ ] Nostalgii Project 	
 - [x] YKDefender Project
 - [x] Bosky Project 	
-- [ ] AdBool Project 	
-- [ ] Bluecalm theme Project 	
+- [x] AdBool Project 	
+- [x] Bluecalm theme Project 	
 - [ ] AudiBass Manager Project 	
 - [ ] Keyoff Project 	
 - [x] iCandy Project
@@ -4129,13 +4154,13 @@ These logos have been added to the table via HTML.
 - [ ] Bad code collection Project 	
 - [ ] Git attributes collection Project 	
 - [ ] RecursionBot Project 	
-- [ ] SociaShame Project
-- [ ] Branch Ranch Project 	
+- [x] SociaShame Project
+- [x] Branch Ranch Project 	
 - [ ] Backup Automation Build Bot Y Project 	
-- [ ] AUTOMATE-2001 Project 	
+- [x] AUTOMATE-2001 Project 	
 - [ ] Timeout Toolkit Project 	
-- [ ] DeskLocker Project 	
-- [ ] Year of the Linux desktop Project
+- [x] DeskLocker Project 	
+- [x] Year of the Linux desktop Project
 - [ ] LargeNumbers ULIB Project 	
 - [ ] HealthMeterMaximum Project 	
 - [ ] Dentalbar Whitetooth Pro Project 	
@@ -4143,11 +4168,11 @@ These logos have been added to the table via HTML.
 - [x] Advanced Eye Chart Project 	
 - [ ] UI Tour Guide Project
 - [ ] App Backpack Project 	
-- [ ] iBlast Project 	
-- [ ] FINF-DB Project 	
-- [ ] Reactop Project 	
+- [x] iBlast Project 	
+- [x] FINF-DB Project 	
+- [x] Reactop Project 	
 - [x] LapLight Project 	
-- [ ] WakeNote Project
+- [x] WakeNote Project
 - [ ] StealthGeo Project 	
 - [ ] Computing Longevity Project 	
 - [x] 3D Webpage Inspector Project 	
@@ -4159,16 +4184,16 @@ These logos have been added to the table via HTML.
 - [ ] UTPM Project 	
 - [ ] -ibibyte Mathematical Reference Project 	
 - [ ] GratyBot Project 	
-- [ ] BASH.sh Project
-- [ ] Gaslight Galactica Project 	
+- [x] BASH.sh Project
+- [x] Gaslight Galactica Project 	
 - [ ] DCalendar Project 	
 - [ ] GoDot Launcher Project 	
 - [x] GNU Car Project 	
-- [ ] GeniBlock Project 	
-- [ ] FreeGenie Project
-- [ ] Halloween Assistant Project 	
-- [ ] Turkey Stories Project 	
-- [ ] Santa Software Suite Project 	
+- [x] GeniBlock Project 	
+- [x] FreeGenie Project
+- [x] Halloween Assistant Project 	
+- [x] Turkey Stories Project 	
+- [x] Santa Software Suite Project 	
 - [ ] NimbleBit Glossary Project 	
 - [x] Ratiyo Project 	
 - [ ] Profa or Antifa Project
@@ -4671,12 +4696,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `167 (2025, Thursday, March 13th at 05:55 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `5,276` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `042,634` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `327,156` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `291,318` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `332,849` <!-- TODO: This line should be updated daily !-->
+- **File version:** `168 (2025, Friday, March 14th at 03:25 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `5,325` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `043,085` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `329,295` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `293,238` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `335,018` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5218,6 +5243,30 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 167
 
 </details> <!-- End of file history: V167 !-->
+
+---
+
+## Version 168 (2025, Friday, March 14th at 03:25 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 168</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that continues to work on the HTML5 table._
+
+> Changes:
+
+- [x] Updated the `Other projects` HTML5 table
+- - [x] Added the new `P-Sign legend` table
+- - [x] New logos were added (HTML5 table only)
+- [x] Updated the `Other projects` logo lists
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 168
+- [x] Added the `Footer` section
+- [ ] No other changes in version 168
+
+</details> <!-- End of file history: V168 !-->
 
 ---
 
