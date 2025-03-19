@@ -179,7 +179,7 @@
   <!-- Number 17 !-->
   <tr>
     <td align="center"><p>Section P1#17</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/App-backpack/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ App Backpack Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/App-backpack/"><img src="/Graphics/My-projects/Logos/A/App-Backpack/App-Backpack_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ App Backpack Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/iBlast/"><img src="/Graphics/My-projects/Logos/I/iBlast/iBlastMokiIcon_512x512.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ iBlast Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/FINF-DB/"><img src="/Graphics/My-projects/Logos/F/FINF-DB/FINFCab1.png" width="100px;" alt=""/><br /><sub><b>🌐️ FINF-DB Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Reactop/"><img src="/Graphics/My-projects/Logos/R/Reactop/ReactOS_400x400.png" width="100px;" alt=""/><br /><sub><b>🌐️ Reactop Project</b></sub></a></td>
@@ -190,12 +190,12 @@
   <!-- Number 18 !-->
   <tr>
     <td align="center"><p>Section P1#18</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/StealthGeo_Font/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ StealthGeo Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Computing-Longevity/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Computing Longevity Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/StealthGeo_Font/"><img src="/Graphics/My-projects/Logos/S/StealthGeo/Font_Icon_StealthGeo.png" width="100px;" alt=""/><br /><sub><b>🌐️ StealthGeo Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Computing-Longevity/"><img src="/Graphics/My-projects/Logos/C/Computing-Longevity/UNIVERSEICON2.png" width="100px;" alt=""/><br /><sub><b>🌐️ Computing Longevity Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/3D-WebPage-Inspector/"><img src="/Graphics/My-projects/Logos/3/3D-Webpage-Inspector/Firefox_3D_tilt.png" width="100px;" alt=""/><br /><sub><b>🌐️ 3D Webpage Inspector Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/PolyGlot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ PolyGlot Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/PolyGlot/"><img src="/Graphics/My-projects/Logos/P/PolyGlot/polyglot-icon.png" width="100px;" alt=""/><br /><sub><b>🌐️ PolyGlot Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DeciCube/"><img src="/Graphics/My-projects/Logos/D/DeciCube/BlueCubeSmall80px.png" width="100px;" alt=""/><br /><sub><b>🌐️ DeciCube Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OVPVMO-site/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OVPVMO site Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OVPVMO-site/"><img src="/Graphics/My-projects/Logos/O/OVPVMO/OVPVMO_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ OVPVMO site Project</b></sub></a></td>
   </tr>
   <!-- Row A19 !-->
   <!-- Number 19 !-->
@@ -203,9 +203,9 @@
     <td align="center"><p>Section P1#19</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/"><img src="/Graphics/My-projects/Logos/L/LightSpeed-Relay-Technologies/TRAVEL_LSRT.png" width="100px;" alt=""/><br /><sub><b>🌐️ Lightspeed Relay Technologies Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/LANChair/"><img src="/Graphics/My-projects/Logos/L/LANChair/11954238331086989352johnny_automatic_chair.svg" width="100px;" alt=""/><br /><sub><b>🌐️ LANChair Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/UTPM/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UTPM Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ -ibibyte Mathematical Reference Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/GratyBot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GratyBot Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UTPM/"><img src="/Graphics/My-projects/Logos/U/UTPM/TPM.png" width="100px;" alt=""/><br /><sub><b>🌐️ UTPM Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/"><img src="/Graphics/My-projects/Logos/I/Ibibyte-Mathematical-Reference/Ibibyte_Mathematical_Reference_ProjectIcon_V1.svg" width="100px;" alt=""/><br /><sub><b>🌐️ -ibibyte Mathematical Reference Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/GratyBot/"><img src="/Graphics/My-projects/Logos/G/GratyBot/RiverGrate.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ GratyBot Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/BASH.sh/"><img src="/Graphics/My-projects/Logos/B/BASH.sh/Gnu-bash-logo.svg_Cropped.png" width="100px;" alt=""/><br /><sub><b>🌐️ BASH.sh Project</b></sub></a></td>
   </tr>
   <!-- Row A20 !-->
@@ -213,8 +213,8 @@
   <tr>
     <td align="center"><p>Section P1#20</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Gaslight-Galactica/"><img src="/Graphics/My-projects/Logos/G/Gaslight-Galactica/GaslightGalacticaIcon_LowQuality.png" width="100px;" alt=""/><br /><sub><b>🌐️ Gaslight Galactica Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/DCalendar/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DCalendar Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/GoDot_Launcher/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GoDot Launcher Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DCalendar/"><img src="/Graphics/My-projects/Logos/D/DCalendar/CalendarIcon_Sample1.png" width="100px;" alt=""/><br /><sub><b>🌐️ DCalendar Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/GoDot_Launcher/"><img src="/Graphics/My-projects/Logos/G/GoDot-Launcher/GoDot_Launcher_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ GoDot Launcher Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GNU_Car/"><img src="/Graphics/My-projects/Logos/G/GNU-Car/GNU_Car_1024pxIcon_No-Wordmark_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ GNU Car Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GeniBlock/"><img src="/Graphics/My-projects/Logos/G/GeniBlock/GeniBlock1.png" width="100px;" alt=""/><br /><sub><b>🌐️ GeniBlock Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/FreeGenie/"><img src="/Graphics/My-projects/Logos/F/FreeGenie/Genie_working_with_Marilyn.JPG" width="100px;" alt=""/><br /><sub><b>🌐️ FreeGenie Project</b></sub></a></td>
@@ -228,18 +228,18 @@
     <td align="center"><a href="https://github.com/seanpm2001/Santa_Software_Suite_Core/"><img src="/Graphics/My-projects/Logos/S/Santa-Software-Suite/SantaSoftwareSuite_1024pIconV1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Santa Software Suite Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/NimbleBit-Glossary/"><img src="/Graphics/My-projects/Logos/N/NimbleBit-Glossary/NimbleBit-Games_Icon_LowQuality.png" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleBit Glossary Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Ratiyo/"><img src="/Graphics/My-projects/Logos/R/Ratiyo/ScaleRatiyo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Ratiyo Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Profa_Or_Antifa/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Profa or Antifa Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Profa_Or_Antifa/"><img src="/Graphics/My-projects/Logos/P/Profa-or-Antifa/Profa-vs-Antifa_1080pWallpaper_V2_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Profa or Antifa Project</b></sub></a></td>
   </tr>
   <!-- Row A22 !-->
   <!-- Number 22 !-->
   <tr>
     <td align="center"><p>Section P1#22</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/uDonate/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ uDonate Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/uDonate/"><img src="/Graphics/My-projects/Logos/U/uDonate/DonateIcon.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ uDonate Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/4096/"><img src="/Graphics/My-projects/Logos/4/4096/4096.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ 4096 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/MadLibby/"><img src="/Graphics/My-projects/Logos/M/MadLibby/MadLibs_150x150.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ MadLibby Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Goodbye-World/"><img src="/Graphics/My-projects/Logos/G/Goodbye-World/BurningEarth.png" width="100px;" alt=""/><br /><sub><b>🌐️ Goodbye World Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Dronemap/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Dronemap Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Password_Generator_Ultimate/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Password Generator Ultimate Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Dronemap/"><img src="/Graphics/My-projects/Logos/D/DroneMap/DroneS1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Dronemap Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Password_Generator_Ultimate/"><img src="/Graphics/My-projects/Logos/P/Password-Generator-Ultimate/KeySet1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Password Generator Ultimate Project</b></sub></a></td>
   </tr>
   <!-- Row A23 !-->
   <!-- Number 23 !-->
@@ -247,19 +247,19 @@
     <td align="center"><p>Section P1#23</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/SVG_Video/"><img src="/Graphics/My-projects/Logos/S/SVG-Video/SVG_Logo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SVG Video Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/BluPhoneOS/"><img src="/Graphics/My-projects/Logos/B/BluPhoneOS/BlueToothShine.png" width="100px;" alt=""/><br /><sub><b>🌐️ BluPhoneOS Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/GK-Keyboard/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GK-Keyboard Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Computer-cursor-tech-support/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Computer cursor tech support Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Self-replicating-machine-research/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Self Replicating Machine Research Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/GK-Keyboard/"><img src="/Graphics/My-projects/Logos/G/GK-Keyboard/GKKeyboardIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ GK-Keyboard Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Computer-cursor-tech-support/"><img src="/Graphics/My-projects/Logos/C/Computer-Cursor-Tech-Support/cursorAppBox.png" width="100px;" alt=""/><br /><sub><b>🌐️ Computer cursor tech support Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Self-replicating-machine-research/"><img src="/Graphics/My-projects/Logos/S/Self-Replicating-Machine-Research/industrial_robot.png" width="100px;" alt=""/><br /><sub><b>🌐️ Self Replicating Machine Research Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Snapshot-version-control-system/"><img src="/Graphics/My-projects/Logos/S/Snapshot-Version-Control-System/SVCS.png" width="100px;" alt=""/><br /><sub><b>🌐️ Snapshot Version Control System Project</b></sub></a></td>
   </tr>
   <!-- Row A24 !-->
   <!-- Number 24 !-->
   <tr>
     <td align="center"><p>Section P1#24</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/The-Dystopian-Dictionary/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ The Dystopian Dictionary Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Git-image/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Git-image Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/TuxBot-OperatingSystem/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ TuxBot Operating System Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OS_Census/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OS Census Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/The-Dystopian-Dictionary/"><img src="/Graphics/My-projects/Logos/T/The-Dystopian-Dictionary/DictionaryIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ The Dystopian Dictionary Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Git-image/"><img src="/Graphics/My-projects/Logos/G/Git-Image/CameraIcon2.png" width="100px;" alt=""/><br /><sub><b>🌐️ Git-image Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/TuxBot-OperatingSystem/"><img src="/Graphics/My-projects/Logos/T/TuxBot-Operating-System/Linux-for-workgroups-boot.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ TuxBot Operating System Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OS_Census/"><img src="/Graphics/My-projects/Logos/O/OS-Census/Census.png" width="100px;" alt=""/><br /><sub><b>🌐️ OS Census Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Senior_Design/"><img src="/Graphics/My-projects/Logos/S/Senior-Design/old-man-Senior.png" width="100px;" alt=""/><br /><sub><b>🌐️ Senior Design Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/IGNORE_File/"><img src="/Graphics/My-projects/Logos/I/IGNORE-File/ignore1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ IGNORE file Project</b></sub></a></td>
   </tr>
@@ -272,35 +272,35 @@
     <td align="center"><a href="https://github.com/seanpm2001/CountMausoleum/"><img src="/Graphics/My-projects/Logos/C/CountMausoleum/MausoleumIcon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Count Mausoleum Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Project_1001/"><img src="/Graphics/My-projects/Logos/P/Project1001/1001.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Project1001 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Fortran-fortress/"><img src="/Graphics/My-projects/Logos/F/Fortran-Fortress/Purple_Castle_Fortress_FORTRAN_FORTRESS_640px.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Fortran fortress Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Input-police/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Input Police Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Input-police/"><img src="/Graphics/My-projects/Logos/I/Input-Police/Input-Police_PlaceholderLogo.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ Input Police Project</b></sub></a></td>
   </tr>
   <!-- Row A26 !-->
   <!-- Number 26 !-->
   <tr>
     <td align="center"><p>Section P1#26</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/README-Desktop-LIBrary/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ README Desktop LIBrary Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/README-Desktop-LIBrary/"><img src="/Graphics/My-projects/Logos/R/README-Desktop-LIBrary/README_D1.png" width="100px;" alt=""/><br /><sub><b>🌐️ README Desktop LIBrary Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/ShareBoxLIBrary/"><img src="/Graphics/My-projects/Logos/S/ShareBox-LIBrary/ShareBoxLIB.png" width="100px;" alt=""/><br /><sub><b>🌐️ ShareBox LIBrary Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Easy-E-IDE/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Easy-E IDE Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Easy-E-IDE/"><img src="/Graphics/My-projects/Logos/E/Easy-E-IDE/Easy-E-ELOGO.png" width="100px;" alt=""/><br /><sub><b>🌐️ Easy-E IDE Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Zag/"><img src="/Graphics/My-projects/Logos/Z/Zag/ZIG.png" width="100px;" alt=""/><br /><sub><b>🌐️ Zag Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/The_Bandwidth_Band/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ The Bandwidth Band Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Camera-privacy-specification/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Camera Privacy Specification Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/The_Bandwidth_Band/"><img src="/Graphics/My-projects/Logos/T/The-Bandwidth-Band/The-Bandwidth-Band_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ The Bandwidth Band Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Camera-privacy-specification/"><img src="/Graphics/My-projects/Logos/C/Camera-Privacy-Specification/LID_TemporaryFix.png" width="100px;" alt=""/><br /><sub><b>🌐️ Camera Privacy Specification Project</b></sub></a></td>
   </tr>
   <!-- Row A27 !-->
   <!-- Number 27 !-->
   <tr>
     <td align="center"><p>Section P1#27</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ARCHIVE My robot friend Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Setup-Go2004-GitHubAction/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Setup Go2004 GitHubAction Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend/"><img src="/Graphics/My-projects/Logos/M/My-Robot-Friend/BeginUnpressed.png" width="100px;" alt=""/><br /><sub><b>🌐️ ARCHIVE My robot friend Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Setup-Go2004-GitHubAction/"><img src="/Graphics/My-projects/Logos/S/Setup-Go2004-Action/2100176.png" width="100px;" alt=""/><br /><sub><b>🌐️ Setup Go2004 GitHubAction Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Vim-Autoscroller/"><img src="/Graphics/My-projects/Logos/V/Vim-Autoscroller/vim-icon-300x300.png" width="100px;" alt=""/><br /><sub><b>🌐️ Vim Autoscroller Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Kommunism/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Kommunism Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SlideXMagic/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SlideXMagic Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/AcroSlideXLIBrary/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ AcroSlideX LIBrary Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Kommunism/"><img src="/Graphics/My-projects/Logos/K/Kommunism/Kommunism-dev_Placeholder.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kommunism Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SlideXMagic/"><img src="/Graphics/My-projects/Logos/S/SlideXMagic/SlideXMagic_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ SlideXMagic Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/AcroSlideXLIBrary/"><img src="/Graphics/My-projects/Logos/A/AcroSlideX/AcroSlide_Logo1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ AcroSlideX LIBrary Project</b></sub></a></td>
   </tr>
   <!-- Row A28 !-->
   <!-- Number 28 !-->
   <tr>
     <td align="center"><p>Section P1#28</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/r-seanpm2001/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ r/seanpm2001 Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/r-seanpm2001/"><img src="/Graphics/My-projects/Logos/R/r-Seanpm2001/r-seanpm2001_Logo_V1.png" width="100px;" alt=""/><br /><sub><b>🌐️ r/seanpm2001 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Scarlet-Oven/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Scarlet Oven Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/API-2001/"><img src="/Graphics/My-projects/Logos/A/API2001/API_BlueGlossButton_Square_1024px.png" width="100px;" alt=""/><br /><sub><b>🌐️ API-2001 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/HerdSpeak/"><img src="/Graphics/My-projects/Logos/H/HerdSpeak/HerdSpeak_512px_Icon_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ HerdSpeak Project</b></sub></a></td>
