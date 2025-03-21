@@ -111,6 +111,11 @@ A collective of my framework projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: SNU Framework</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -190,6 +195,11 @@ _End of SNU project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Candroid Framework</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -254,6 +264,11 @@ _End of Candroid Framework project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: AI2001</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -316,6 +331,11 @@ _End of AI2001 project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: EMAIL 2.0</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -385,6 +405,11 @@ _End of EMAIL 2.0 project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: EMAIL -3.0</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -433,6 +458,11 @@ A collective of my core-related projects.
 - **🧑‍💻️ Total # of contributors:** `~2` **(as of 2024, Friday, March 29th)**
 
 </details> <!-- End of general information section for the core collective section !-->
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 ---
 
@@ -497,6 +527,11 @@ A collective of my core-related projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: SeansLifArchive</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -547,6 +582,11 @@ A collective of my computer security projects.
 
 </details> <!-- End of general information section for the security collective section !-->
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 ---
 
 #### [💿️ Major project: Linux Defender](#-Major-project--Linux-Defender)
@@ -561,6 +601,11 @@ A collective of my computer security projects.
 |---|---|
 
 </details> <!-- End of logo section for major project section: Linux Defender !-->
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 ---
 
@@ -593,6 +638,11 @@ A collective of my computer security projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Linux Defender</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -660,6 +710,11 @@ _End of Linux Defender project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Hospital Defender</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -708,6 +763,11 @@ A collective of my productivity software projects.
 - **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Friday, March 29th)**
 
 </details> <!-- End of general information section for the productivity collective section !-->
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 ---
 
@@ -759,6 +819,11 @@ A collective of my productivity software projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Anime Studio</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -825,6 +890,11 @@ _End of Anime Studio project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: DMAIL/DSuite</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -897,6 +967,11 @@ _End of DMAIL/DSuite project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: uOffice/uSuite</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -948,6 +1023,11 @@ A collective of my video game projects.
 
 </details> <!-- End of general information section for the video game collective section !-->
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 ---
 
 #### [💿️ Major project: Ukraine History Simulator](#-Major-project--Ukraine-History-Simulator)
@@ -992,6 +1072,11 @@ A collective of my video game projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Ukraine History Simulator</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1053,6 +1138,11 @@ _End of Ukraine History Simulator project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: LibreFlock</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1119,6 +1209,11 @@ _End of LibreFlock project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: MCPYE</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1187,6 +1282,11 @@ _End of MCPYE project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Tetris128</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -1248,6 +1348,11 @@ A collective of my Desktop Environment (DE) projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the logo for this project (SDE)</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 | <img alt="SDE logo failed to load. Click/tap here to attempt to view it" src="/Graphics/SDE/Logo/PNG/SDE.png" width="150" height="150" align="left" style="margin-right: 30px"> | **SDE** _A highly customizable desktop environment with Skeuomorphism._ |
 |---|---|
 
@@ -1281,6 +1386,11 @@ A collective of my Desktop Environment (DE) projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: SDE/Skeuowie</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1330,6 +1440,11 @@ A collective of my majority documentation projects.
 
 </details> <!-- End of general information section for the documentation collective section !-->
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 ---
 
 #### [💿️ Major project: DeGoogle your Life](#-Major-project--DeGoogle-your-Life)
@@ -1373,6 +1488,11 @@ A collective of my majority documentation projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: DeGoogle your Life</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1431,6 +1551,11 @@ _End of DeGoogle your Life project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Learn</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -1480,6 +1605,11 @@ A collective of my Operating System projects.
 
 </details> <!-- End of general information section for the operating system collective section !-->
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 ---
 
 ##### [💿️ Major project: Android x32x64x128](#-Major-project--Android-x32x64x128)
@@ -1525,6 +1655,11 @@ A collective of my Operating System projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Android x32x64x128</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1594,6 +1729,11 @@ _End of PNCE project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: BlazeOS</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -1660,6 +1800,11 @@ _End of BlazeOS project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: BlueberryOS</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1736,6 +1881,11 @@ _End of BlueberryOS project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: MailOS</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -1798,6 +1948,11 @@ _End of MailOS project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: LocksmithOS</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1870,6 +2025,11 @@ _End of LocksmithOS project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: CranberryOS</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -1930,6 +2090,11 @@ _End of CranberryPS project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: MEDOS</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -1995,6 +2160,11 @@ _End of MEDOS project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Meadows</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -2075,6 +2245,11 @@ _End of Meadows project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: WacOS</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2151,6 +2326,11 @@ _End of WacOS project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: NUNIX</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2222,6 +2402,11 @@ _End of NUNIX project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: BootDown</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2290,6 +2475,11 @@ _End of BootDown project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: MetroTechno</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2356,6 +2546,11 @@ _End of MetroTechno project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: AquariOS</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2419,6 +2614,11 @@ _End of AquariOS project section._
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: BathHouseOS</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2480,6 +2680,11 @@ _End of BathHouseOS project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: LennyOS</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -2545,6 +2750,11 @@ A collective of my Web Browser projects.
 
 </details> <!-- End of general information section for the web browser collective section !-->
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 ---
 
 #### [💿️ Major project: Bliss Browser](#-Major-project--Bliss-Browser)
@@ -2590,6 +2800,11 @@ A collective of my Web Browser projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Bliss Browser</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -2695,6 +2910,11 @@ A collective of my software LIBrary projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Software LIBraries</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2799,6 +3019,11 @@ A collective of my linguistics software projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Computing Languages</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -2861,6 +3086,11 @@ _End of Computing Languages project section._
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: PNCE</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -2967,6 +3197,11 @@ A collective of my comedic projects.
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: Joke Projects</b></p></summary>
 
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
+
 **Core repositories:**
 
 | A | B | C | D | E | F |
@@ -3065,6 +3300,11 @@ A collective of my miscellaneous projects.
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the core repository listing section for the major project: PDNet++</b></p></summary>
+
+| 📋️ TASK |
+|---|
+| Create HTML5 table with logos for each project, keep old Markdown table available for legacy use. |
+| - Proposed 2025, March 21st |
 
 **Core repositories:**
 
@@ -3181,7 +3421,12 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | **2025, March 9th** |
 | Some listed projects need to be split up further into other groups, as some projects here shouldn't stand alone. This task is currently on standby. |
 | **2025, March 15th** |
-| Additionally, I feel that logos should be shown on subprojects within the major project sections above. | 
+| Additionally, I feel that logos should be shown on subprojects within the major project sections above. |
+| **2025, March 19th** |
+| Thought: I have so many projects, that even if I worked on 1 per day, it would take over a year to get through all of them |
+| **2025, March 21st** |
+| TODO: Start working on other projects, other than 'Other projects' |
+
 | 📋️ TASK |
 
 | 👥️ COMMUNITY TASKS |
@@ -3198,19 +3443,22 @@ Note to self: Make sure to also check each repository to see if a separate docum
 | Leave an issue/pull request on the main repository, NOT the profile repository (the current repository) |
 | **New logos** |
 | Many of these logos will need to be swapped out with higher quality, custom ones, especially those that currently have a white or checkered background (mostly JPG/GIF images) |
+| HIGHEST PRIORITY: Replace logos with checkered/white backgrounds with a better version |
+| SECOND HIGHEST PRIORITY: Project logos that are simply verbatim logos of other existing projects need to be replaced |
+| PRIORITY 3: Replace all logos with custom ones |
 | 👥️ COMMUNITY TASKS |
 
 | 💬️ COMMENT |
 |---|
-| **2025, Tuesday, March 19th** |
-| The process of adding images to the table began on 2025, March 12th. It is currently a major work in progress, and I don't expect to work on it every day. The community is still welcome to help out. |
+| **2025, Friday, March 21st** |
+| The process of adding images to the table began on 2025, March 12th, and finished on 2025, March 21st |
 | **Resource locations** |
 | Resources (logos) that should be added to the table can be found in these repositories: |
 | [:octocat: `Seanpm2001-Graphic-Design`](https://github.com/seanpm2001/Seanpm2001-Graphic-Design/) |
 | [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) |
 | They can also be found on the home pages for the repositories themselves. |
 | **Progress** |
-| `261` / `288` (`090.625%` done) (As of: 2025, Wednesday, March 19th) |
+| `288` / `288` (`100.000%` done) (As of: 2025, Friday, March 21st) |
 | 💬️ COMMENT |
 
 <table>
@@ -3321,7 +3569,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Underune_Maker/"><img src="/Graphics/My-projects/Logos/U/Underune-Maker/UndertaleIcon_FANDOM_1600x1600.png" width="100px;" alt=""/><br /><sub><b>🌐️ Underune Maker Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Snail-bob-maker/"><img src="/Graphics/My-projects/Logos/S/Snail-Bob-Maker/SnailBobIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Snail Bob Maker Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/BluPhone/"><img src="/Graphics/My-projects/Logos/B/BluPhone/BluPhone_Photo1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ BluPhone Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Blue_Dentures/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Blue Dentures Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Blue_Dentures/"><img src="/Graphics/My-projects/Logos/B/Blue-Dentures/BlueToothShine.png" width="100px;" alt=""/><br /><sub><b>🌐️ Blue Dentures Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/UltraSwitch/"><img src="/Graphics/My-projects/Logos/U/UltraSwitch/DataMigrationIcon.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ UltraSwitch Project</b></sub></a></td>
   </tr>
   <!-- Row A11 !-->
@@ -3361,7 +3609,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 14 !-->
   <tr>
     <td align="center"><p>Section P1#14</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SDE_Merry/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SDE Merry (Carousel) Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SDE_Merry/"><img src="/Graphics/My-projects/Logos/S/SDE-Merry/Carousel1.png" width="100px;" alt=""/><br /><sub><b>🌐️ SDE Merry (Carousel) Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/404Day/"><img src="/Graphics/My-projects/Logos/4/404Day/404RedWhite.png" width="100px;" alt=""/><br /><sub><b>🌐️ 404 day Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bad-Code-Collection/"><img src="/Graphics/My-projects/Logos/B/Bad-Code-Collection/SystemD_BadCode_Logo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Bad code collection Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitAttributes-Collection/"><img src="/Graphics/My-projects/Logos/G/GitAttributes-Collection/The-GitAttributes-Collection_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Git attributes collection Project</b></sub></a></td>
@@ -3530,7 +3778,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Notchware/"><img src="/Graphics/My-projects/Logos/N/Notchware/black-square-button.png" width="100px;" alt=""/><br /><sub><b>🌐️ Notchware Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DIFFicult/"><img src="/Graphics/My-projects/Logos/D/DIFFicult/Diff1.png" width="100px;" alt=""/><br /><sub><b>🌐️ DIFFicult Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/VirtualBox_PlusPlus/"><img src="/Graphics/My-projects/Logos/V/VirtualBox-Plus-Plus/VirtualBoxPlusPlus_Wallpaper1080p_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ VirtualBox Plus Plus Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Firefox-version-number-fix/"><img src="/Graphics/My-projects/Logos/F/Firefox-Version-Number-Fix/FirefoxLogo_Dark.png" width="100px;" alt=""/><br /><sub><b>🌐️ Firefox Version Number Fix Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Firefox-version-number-fix/"><img src="/Graphics/My-projects/Logos/F/Firefox-Version-History-Fix/FirefoxLogo_Dark.png" width="100px;" alt=""/><br /><sub><b>🌐️ Firefox Version Number Fix Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/TclTorture/"><img src="/Graphics/My-projects/Logos/T/TclTorture/TclTorture_Wordmark_V1_720p_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ TclTorture Project</b></sub></a></td>
   </tr>
   <!-- Row A30 !-->
@@ -3647,10 +3895,10 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 40 !-->
   <tr>
     <td align="center"><p>Section P1#40</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Talla-Browser/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Talla Browser Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Talla-Browser/"><img src="/Graphics/My-projects/Logos/T/Talla-Browser/DeerPark.png" width="100px;" alt=""/><br /><sub><b>🌐️ Talla Browser Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitHubby/"><img src="/Graphics/My-projects/Logos/G/GitHubby/GitHubby.png" width="100px;" alt=""/><br /><sub><b>🌐️ GitHubby Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/NimbleBook/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleBook Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/NimbleByte/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleByte Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/NimbleBook/"><img src="/Graphics/My-projects/Logos/N/NimbleBook/NimbleBit_Logo.png" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleBook Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/NimbleByte/"><img src="/Graphics/My-projects/Logos/N/NimbleByte/logo-crown.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleByte Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/TrueEEG/"><img src="/Graphics/My-projects/Logos/T/TrueEEG/EEG.png" width="100px;" alt=""/><br /><sub><b>🌐️ TrueEEG Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/UShortcut_Pro/"><img src="/Graphics/My-projects/Logos/U/UShortcut-Pro/ShortcutBlueDirtyFolder.png" width="100px;" alt=""/><br /><sub><b>🌐️ UShortcut Pro Project</b></sub></a></td>
   </tr>
@@ -3658,9 +3906,9 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 41 !-->
   <tr>
     <td align="center"><p>Section P1#41</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Ultra-Image-Studio/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Ultra Image Studio Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OuterVM/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OuterVM Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/V-ReShot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ V-ReShot Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Ultra-Image-Studio/"><img src="/Graphics/My-projects/Logos/U/Ultra-Image-Studio/ImageIcon2.png" width="100px;" alt=""/><br /><sub><b>🌐️ Ultra Image Studio Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OuterVM/"><img src="/Graphics/My-projects/Logos/O/OuterVM/VM5.png" width="100px;" alt=""/><br /><sub><b>🌐️ OuterVM Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/V-ReShot/"><img src="/Graphics/My-projects/Logos/V/V-ReShot/CameraIcon2.png" width="100px;" alt=""/><br /><sub><b>🌐️ V-ReShot Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DOS-Buddy/"><img src="/Graphics/My-projects/Logos/D/DOS-Buddy/PurpleMonster_BonziBuddy.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ DOS-Buddy Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/VirtualHome/"><img src="/Graphics/My-projects/Logos/V/VirtualHome/VirtualHome.png" width="100px;" alt=""/><br /><sub><b>🌐️ VirtualHome Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/FBI_RoleplaySimulator/"><img src="/Graphics/My-projects/Logos/F/FBI-Roleplay-Simulator/1024px-Seal_of_the_Federal_Bureau_of_Investigation.svg.png" width="100px;" alt=""/><br /><sub><b>🌐️ FBI Roleplay Simulator Project</b></sub></a></td>
@@ -3673,7 +3921,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Kevin-MacLeod_SoftwareRadioLIBrary/"><img src="/Graphics/My-projects/Logos/K/Kevin-Macleod-Software-Radio-LIBrary/KevinMacleodSoftwareRadioLIBrary_1500pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kevin Macleod Software Radio Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool/"><img src="/Graphics/My-projects/Logos/L/Linux-Marketshare-Ping-Tool/PingTool.png" width="100px;" alt=""/><br /><sub><b>🌐️ Linux Marketshare Ping Tool Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/PVZ_Custom/"><img src="/Graphics/My-projects/Logos/P/PVZ_Custom/PrimalSunflower_1200x1200.png" width="100px;" alt=""/><br /><sub><b>🌐️ PVZ Custom Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ IE6 flavored markdown Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown/"><img src="/Graphics/My-projects/Logos/I/IE6-Flavored-Markdown/IE6_200x200.png" width="100px;" alt=""/><br /><sub><b>🌐️ IE6 flavored markdown Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Cyborg-System-Monitor/"><img src="/Graphics/My-projects/Logos/C/Cyborg-System-Monitor/SysMon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Cyborg System Monitor Project</b></sub></a></td>
   </tr>
   <!-- Row A43 !-->
@@ -3682,7 +3930,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><p>Section P1#43</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/MemeMachine-2019/"><img src="/Graphics/My-projects/Logos/M/Meme-Machine-2019/MemeGeneratorIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Meme Machine 2019 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Jscribe/"><img src="/Graphics/My-projects/Logos/J/JScribe/Scribe1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Jscribe Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/UltraSwitch/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UltraSwitch Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UltraSwitch/"><img src="/Graphics/My-projects/Logos/U/UltraSwitch/Transmission_Icon.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UltraSwitch Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/RegAggregate/"><img src="/Graphics/My-projects/Logos/R/RegAggregate/RegAggregateLogo_1025px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ RegAggregate Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/SafeWINE/"><img src="/Graphics/My-projects/Logos/S/SafeWINE/WINE-logo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SafeWINE Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/WinWalla/"><img src="/Graphics/My-projects/Logos/W/WinWalla/WINE-logo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ WinWalla Project</b></sub></a></td>
@@ -3691,10 +3939,10 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <!-- Number 44 !-->
   <tr>
     <td align="center"><p>Section P1#44</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SDE_MobileServer/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SDE MobileServer Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SDE_MobileServer/"><img src="/Graphics/My-projects/Logos/S/SDE-MobileServer/SDE_MobileServer_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ SDE MobileServer Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/HT-Messenger/"><img src="/Graphics/My-projects/Logos/H/HT-Messenger/HTM.png" width="100px;" alt=""/><br /><sub><b>🌐️ HT Messenger Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitMan/"><img src="/Graphics/My-projects/Logos/G/GitMan/Git_icon_2007.svg.png" width="100px;" alt=""/><br /><sub><b>🌐️ GitMan Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nuclear ad bombs specification Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/"><img src="/Graphics/My-projects/Logos/N/Nuclear-Ad-Bombs-Specification/Nuclear1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Nuclear ad bombs specification Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Delerium/"><img src="/Graphics/My-projects/Logos/D/Delerium/Ethereum_logo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Delerium Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/B3/"><img src="/Graphics/My-projects/Logos/B/B3/B3_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ B3 Project</b></sub></a></td>
   </tr>
@@ -3704,32 +3952,32 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><p>Section P1#45</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-DRM-Blocklist/Seanpm2001-DRM-Blocklist_1500pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 DRM Blocklist Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/George-P-Floyd-Memorial/"><img src="/Graphics/My-projects/Logos/G/George-P-Floyd-Memorial/George-Floyd-Portrait.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ George P. Floyd Memorial Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-WorldDB/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 WorldDB Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Tone-Indicator-Standard/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Tone Indicator Standard Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/GitHex/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GitHex Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/World-Census-Project/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ World Census Project Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-WorldDB/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-WorldDB/GDJ-World-Flags-Globe-With-Shading.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 WorldDB Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Tone-Indicator-Standard/"><img src="/Graphics/My-projects/Logos/T/Tone-Indicator-Standard/Tone.png" width="100px;" alt=""/><br /><sub><b>🌐️ Tone Indicator Standard Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/GitHex/"><img src="/Graphics/My-projects/Logos/G/GitHex/GitHex_PlaceholderLogo_GODOT.png" width="100px;" alt=""/><br /><sub><b>🌐️ GitHex Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/World-Census-Project/"><img src="/Graphics/My-projects/Logos/W/World-Census-Project/WorldCensus_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ World Census Project Project</b></sub></a></td>
   </tr>
   <!-- Row A46 !-->
   <!-- Number 46 !-->
   <tr>
     <td align="center"><p>Section P1#46</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Unblur-tool/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Unblur tool Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/UnSaaSS/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UnSaaSS Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/UnIoT/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UnIoT Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/2001-Project/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 project Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Unblur-tool/"><img src="/Graphics/My-projects/Logos/U/Unblur-Tool/UnBlurTool_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Unblur tool Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UnSaaSS/"><img src="/Graphics/My-projects/Logos/U/UnSaaSS/UnSaaSS_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ UnSaaSS Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UnIoT/"><img src="/Graphics/My-projects/Logos/U/UnIoT/UnIoT_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ UnIoT Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/2001-Project/"><img src="/Graphics/My-projects/Logos/2/2001-Project/2001_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 project Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/ChaccaronMaccaronType/"><img src="/Graphics/My-projects/Logos/C/Chaccaron-Maccarron-Type/ChaccarronMaccarron.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ Chaccaron Maccaron type Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Public-Media-Gallery/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Public Media Gallery Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Public-Media-Gallery/"><img src="/Graphics/My-projects/Logos/P/Public-Media-Gallery/Public-Media-Gallery_2048pxLogo_V2_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Public Media Gallery Project</b></sub></a></td>
   </tr>
   <!-- Row A47 !-->
   <!-- Number 47 !-->
   <tr>
     <td align="center"><p>Section P1#47</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Its/"><img src="/Graphics/My-projects/Logos/I/Its/Monty-Python_Its-1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Its Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/vCoin/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ vCoin Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Pikeheader/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Pikeheader Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/DALL-E_LLaMA/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DALL-E LLaMA Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Open-Media-Rating-System/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Open Media Rating System (OMRS) Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Monty.py/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Monty.py Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/vCoin/"><img src="/Graphics/My-projects/Logos/V/vCoin/vCoin_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ vCoin Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Pikeheader/"><img src="/Graphics/My-projects/Logos/P/PikeHeader/PikeHeader_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Pikeheader Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DALL-E_LLaMA/"><img src="/Graphics/My-projects/Logos/D/DALLE-LLaMA/DALLE-LLaMA_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ DALL-E LLaMA Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Open-Media-Rating-System/"><img src="/Graphics/My-projects/Logos/O/Open-Media-Rating-System/OMRS_PlaceholderLogo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Open Media Rating System (OMRS) Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Monty.py/"><img src="/Graphics/My-projects/Logos/M/Monty.py/Monty.py_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Monty.py Project</b></sub></a></td>
   </tr>
   <!-- Row A48 !-->
   <!-- Number 48 !-->
@@ -3739,7 +3987,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/ReverseFallacy/"><img src="/Graphics/My-projects/Logos/R/ReverseFallacy/Oxygen480-actions-view-refresh.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ReverseFallacy Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Booty/"><img src="/Graphics/My-projects/Logos/B/Booty/Booty_PlaceholderLogo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Booty project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Saltine-Cracker-Award/"><img src="/Graphics/My-projects/Logos/S/Saltine-Cracker-Award/Saltine-cracker.png" width="100px;" alt=""/><br /><sub><b>🌐️ Saltine Cracker Award</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OpenGovOS/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenGovOS project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OpenGovOS/"><img src="/Graphics/My-projects/Logos/O/OpenGovOS/Capitol3D.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenGovOS project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Go-gle/"><img src="/Graphics/My-projects/Logos/G/Go!gle/Go!gle_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Go!gle project</b></sub></a></td>
   </tr>
   <!-- Row A49 !-->
@@ -3836,7 +4084,7 @@ These logos have been added to the profile repository, and need to be linked to 
 - [x] Underune Maker Project
 - [x] Snail Bob Maker Project
 - [x] BluPhone Project
-- [ ] Blue Dentures Project
+- [x] Blue Dentures Project
 - [x] UltraSwitch Project
 - [x] United Autism Rights Org Project
 - [x] Numeric Liberation Front Project
@@ -3856,7 +4104,7 @@ These logos have been added to the profile repository, and need to be linked to 
 - [x] AudiBass Manager Project
 - [x] Keyoff Project
 - [x] iCandy Project
-- [ ] SDE Merry (Carousel) Project
+- [x] SDE Merry (Carousel) Project
 - [x] 404 day Project
 - [x] Bad code collection Project
 - [x] Git attributes collection Project
@@ -4012,15 +4260,15 @@ These logos have been added to the profile repository, and need to be linked to 
 - [x] V7Tags Project
 - [x] SourceBase Project
 - [x] Browsniffica Project
-- [ ] Talla Browser Project
+- [x] Talla Browser Project
 - [x] GitHubby Project
-- [ ] NimbleBook Project
-- [ ] NimbleByte Project
+- [x] NimbleBook Project
+- [x] NimbleByte Project
 - [x] TrueEEG Project
 - [x] UShortcut Pro Project
-- [ ] Ultra Image Studio Project
-- [ ] OuterVM Project
-- [ ] V-ReShot Project
+- [x] Ultra Image Studio Project
+- [x] OuterVM Project
+- [x] V-ReShot Project
 - [x] DOS-Buddy Project
 - [x] VirtualHome Project
 - [x] FBI Roleplay Simulator Project
@@ -4028,43 +4276,43 @@ These logos have been added to the profile repository, and need to be linked to 
 - [x] Kevin Macleod Software Radio Project
 - [x] Linux Marketshare Ping Tool Project
 - [x] PVZ Custom Project
-- [ ] IE6 flavored markdown Project
+- [x] IE6 flavored markdown Project
 - [x] Cyborg System Monitor Project
 - [x] Meme Machine 2019 Project
 - [x] Jscribe Project
-- [ ] UltraSwitch Project
+- [x] UltraSwitch Project
 - [x] RegAggregate Project
 - [x] SafeWINE Project
 - [x] WinWalla Project
-- [ ] SDE MobileServer Project
+- [x] SDE MobileServer Project
 - [x] HT Messenger Project
 - [x] GitMan Project
-- [ ] Nuclear ad bombs specification Project
+- [x] Nuclear ad bombs specification Project
 - [x] Delerium Project
 - [x] B3 Project
 - [x] Seanpm2001 DRM Blocklist Project
 - [x] George P. Floyd Memorial Project
-- [ ] Seanpm2001 WorldDB Project
-- [ ] Tone Indicator Standard Project
-- [ ] GitHex Project
-- [ ] World Census Project Project
-- [ ] Unblur tool Project
-- [ ] UnSaaSS Project
-- [ ] UnIoT Project
-- [ ] 2001 project Project
+- [x] Seanpm2001 WorldDB Project
+- [x] Tone Indicator Standard Project
+- [x] GitHex Project
+- [x] World Census Project Project
+- [x] Unblur tool Project
+- [x] UnSaaSS Project
+- [x] UnIoT Project
+- [x] 2001 project Project
 - [x] Chaccaron Maccaron type Project
-- [ ] Public Media Gallery Project
+- [x] Public Media Gallery Project
 - [x] Its Project
-- [ ] vCoin Project
-- [ ] Pikeheader Project
-- [ ] DALL-E LLaMA Project
-- [ ] Open Media Rating System (OMRS) Project
-- [ ] Monty.py Project
+- [x] vCoin Project
+- [x] Pikeheader Project
+- [x] DALL-E LLaMA Project
+- [x] Open Media Rating System (OMRS) Project
+- [x] Monty.py Project
 - [x] ClosedAI project
 - [x] ReverseFallacy Project
 - [x] Booty project
 - [x] Saltine Cracker Award
-- [ ] OpenGovOS
+- [x] OpenGovOS
 - [x] Go!gle
 
 Included, but not listed (these projects are included in other categories)
@@ -4146,7 +4394,7 @@ These logos have been added to the table via HTML.
 - [x] Underune Maker Project
 - [x] Snail Bob Maker Project
 - [x] BluPhone Project
-- [ ] Blue Dentures Project
+- [x] Blue Dentures Project
 - [x] UltraSwitch Project
 - [x] United Autism Rights Org Project
 - [x] Numeric Liberation Front Project
@@ -4166,7 +4414,7 @@ These logos have been added to the table via HTML.
 - [x] AudiBass Manager Project
 - [x] Keyoff Project
 - [x] iCandy Project
-- [ ] SDE Merry (Carousel) Project
+- [x] SDE Merry (Carousel) Project
 - [x] 404 day Project
 - [x] Bad code collection Project
 - [x] Git attributes collection Project
@@ -4322,15 +4570,15 @@ These logos have been added to the table via HTML.
 - [x] V7Tags Project
 - [x] SourceBase Project
 - [x] Browsniffica Project
-- [ ] Talla Browser Project
+- [x] Talla Browser Project
 - [x] GitHubby Project
-- [ ] NimbleBook Project
-- [ ] NimbleByte Project
+- [x] NimbleBook Project
+- [x] NimbleByte Project
 - [x] TrueEEG Project
 - [x] UShortcut Pro Project
-- [ ] Ultra Image Studio Project
-- [ ] OuterVM Project
-- [ ] V-ReShot Project
+- [x] Ultra Image Studio Project
+- [x] OuterVM Project
+- [x] V-ReShot Project
 - [x] DOS-Buddy Project
 - [x] VirtualHome Project
 - [x] FBI Roleplay Simulator Project
@@ -4338,43 +4586,43 @@ These logos have been added to the table via HTML.
 - [x] Kevin Macleod Software Radio Project
 - [x] Linux Marketshare Ping Tool Project
 - [x] PVZ Custom Project
-- [ ] IE6 flavored markdown Project
+- [x] IE6 flavored markdown Project
 - [x] Cyborg System Monitor Project
 - [x] Meme Machine 2019 Project
 - [x] Jscribe Project
-- [ ] UltraSwitch Project
+- [x] UltraSwitch Project
 - [x] RegAggregate Project
 - [x] SafeWINE Project
 - [x] WinWalla Project
-- [ ] SDE MobileServer Project
+- [x] SDE MobileServer Project
 - [x] HT Messenger Project
 - [x] GitMan Project
-- [ ] Nuclear ad bombs specification Project
+- [x] Nuclear ad bombs specification Project
 - [x] Delerium Project
 - [x] B3 Project
 - [x] Seanpm2001 DRM Blocklist Project
 - [x] George P. Floyd Memorial Project
-- [ ] Seanpm2001 WorldDB Project
-- [ ] Tone Indicator Standard Project
-- [ ] GitHex Project
-- [ ] World Census Project Project
-- [ ] Unblur tool Project
-- [ ] UnSaaSS Project
-- [ ] UnIoT Project
-- [ ] 2001 project Project
+- [x] Seanpm2001 WorldDB Project
+- [x] Tone Indicator Standard Project
+- [x] GitHex Project
+- [x] World Census Project Project
+- [x] Unblur tool Project
+- [x] UnSaaSS Project
+- [x] UnIoT Project
+- [x] 2001 project Project
 - [x] Chaccaron Maccaron type Project
-- [ ] Public Media Gallery Project
+- [x] Public Media Gallery Project
 - [x] Its Project
-- [ ] vCoin Project
-- [ ] Pikeheader Project
-- [ ] DALL-E LLaMA Project
-- [ ] Open Media Rating System (OMRS) Project
-- [ ] Monty.py Project
+- [x] vCoin Project
+- [x] Pikeheader Project
+- [x] DALL-E LLaMA Project
+- [x] Open Media Rating System (OMRS) Project
+- [x] Monty.py Project
 - [x] ClosedAI project
 - [x] ReverseFallacy Project
 - [x] Booty project
 - [x] Saltine Cracker Award
-- [ ] OpenGovOS
+- [x] OpenGovOS
 - [x] Go!gle
 
 </details>
@@ -4716,12 +4964,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `173 (2025, Wednesday, March 19th at 04:29 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `5,463` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `045,239` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `338,582` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `302,833` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `344,360` <!-- TODO: This line should be updated daily !-->
+- **File version:** `174 (2025, Friday, March 21st at 04:19 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `5,734` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `046,639` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `347,797` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `310,396` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `353,815` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5405,6 +5653,29 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 173
 
 </details> <!-- End of file history: V173 !-->
+
+---
+
+## Version 174 (2025, Friday, March 21st at 04:19 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 174</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that finishes work on the HTML5 table I had been working on. Yesterday was skipped, due to a long trip, and today I have finished this project._
+
+> Changes:
+
+- [x] Updated the `Other projects` HTML5 table
+- - [x] New logos were added (HTML5 table only)
+- [x] Updated the `Other projects` logo lists
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 174
+- [x] Added the `Footer` section
+- [ ] No other changes in version 174
+
+</details> <!-- End of file history: V174 !-->
 
 ---
 
