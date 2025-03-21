@@ -106,7 +106,7 @@
     <td align="center"><a href="https://github.com/seanpm2001/Underune_Maker/"><img src="/Graphics/My-projects/Logos/U/Underune-Maker/UndertaleIcon_FANDOM_1600x1600.png" width="100px;" alt=""/><br /><sub><b>🌐️ Underune Maker Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Snail-bob-maker/"><img src="/Graphics/My-projects/Logos/S/Snail-Bob-Maker/SnailBobIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Snail Bob Maker Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/BluPhone/"><img src="/Graphics/My-projects/Logos/B/BluPhone/BluPhone_Photo1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ BluPhone Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Blue_Dentures/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Blue Dentures Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Blue_Dentures/"><img src="/Graphics/My-projects/Logos/B/Blue-Dentures/BlueToothShine.png" width="100px;" alt=""/><br /><sub><b>🌐️ Blue Dentures Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/UltraSwitch/"><img src="/Graphics/My-projects/Logos/U/UltraSwitch/DataMigrationIcon.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ UltraSwitch Project</b></sub></a></td>
   </tr>
   <!-- Row A11 !-->
@@ -146,7 +146,7 @@
   <!-- Number 14 !-->
   <tr>
     <td align="center"><p>Section P1#14</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SDE_Merry/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SDE Merry (Carousel) Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SDE_Merry/"><img src="/Graphics/My-projects/Logos/S/SDE-Merry/Carousel1.png" width="100px;" alt=""/><br /><sub><b>🌐️ SDE Merry (Carousel) Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/404Day/"><img src="/Graphics/My-projects/Logos/4/404Day/404RedWhite.png" width="100px;" alt=""/><br /><sub><b>🌐️ 404 day Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Bad-Code-Collection/"><img src="/Graphics/My-projects/Logos/B/Bad-Code-Collection/SystemD_BadCode_Logo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Bad code collection Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitAttributes-Collection/"><img src="/Graphics/My-projects/Logos/G/GitAttributes-Collection/The-GitAttributes-Collection_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Git attributes collection Project</b></sub></a></td>
@@ -315,7 +315,7 @@
     <td align="center"><a href="https://github.com/seanpm2001/Notchware/"><img src="/Graphics/My-projects/Logos/N/Notchware/black-square-button.png" width="100px;" alt=""/><br /><sub><b>🌐️ Notchware Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DIFFicult/"><img src="/Graphics/My-projects/Logos/D/DIFFicult/Diff1.png" width="100px;" alt=""/><br /><sub><b>🌐️ DIFFicult Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/VirtualBox_PlusPlus/"><img src="/Graphics/My-projects/Logos/V/VirtualBox-Plus-Plus/VirtualBoxPlusPlus_Wallpaper1080p_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ VirtualBox Plus Plus Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Firefox-version-number-fix/"><img src="/Graphics/My-projects/Logos/F/Firefox-Version-Number-Fix/FirefoxLogo_Dark.png" width="100px;" alt=""/><br /><sub><b>🌐️ Firefox Version Number Fix Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Firefox-version-number-fix/"><img src="/Graphics/My-projects/Logos/F/Firefox-Version-History-Fix/FirefoxLogo_Dark.png" width="100px;" alt=""/><br /><sub><b>🌐️ Firefox Version Number Fix Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/TclTorture/"><img src="/Graphics/My-projects/Logos/T/TclTorture/TclTorture_Wordmark_V1_720p_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ TclTorture Project</b></sub></a></td>
   </tr>
   <!-- Row A30 !-->
@@ -432,10 +432,10 @@
   <!-- Number 40 !-->
   <tr>
     <td align="center"><p>Section P1#40</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Talla-Browser/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Talla Browser Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Talla-Browser/"><img src="/Graphics/My-projects/Logos/T/Talla-Browser/DeerPark.png" width="100px;" alt=""/><br /><sub><b>🌐️ Talla Browser Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitHubby/"><img src="/Graphics/My-projects/Logos/G/GitHubby/GitHubby.png" width="100px;" alt=""/><br /><sub><b>🌐️ GitHubby Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/NimbleBook/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleBook Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/NimbleByte/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleByte Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/NimbleBook/"><img src="/Graphics/My-projects/Logos/N/NimbleBook/NimbleBit_Logo.png" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleBook Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/NimbleByte/"><img src="/Graphics/My-projects/Logos/N/NimbleByte/logo-crown.svg" width="100px;" alt=""/><br /><sub><b>🌐️ NimbleByte Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/TrueEEG/"><img src="/Graphics/My-projects/Logos/T/TrueEEG/EEG.png" width="100px;" alt=""/><br /><sub><b>🌐️ TrueEEG Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/UShortcut_Pro/"><img src="/Graphics/My-projects/Logos/U/UShortcut-Pro/ShortcutBlueDirtyFolder.png" width="100px;" alt=""/><br /><sub><b>🌐️ UShortcut Pro Project</b></sub></a></td>
   </tr>
@@ -443,9 +443,9 @@
   <!-- Number 41 !-->
   <tr>
     <td align="center"><p>Section P1#41</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Ultra-Image-Studio/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Ultra Image Studio Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OuterVM/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OuterVM Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/V-ReShot/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ V-ReShot Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Ultra-Image-Studio/"><img src="/Graphics/My-projects/Logos/U/Ultra-Image-Studio/ImageIcon2.png" width="100px;" alt=""/><br /><sub><b>🌐️ Ultra Image Studio Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OuterVM/"><img src="/Graphics/My-projects/Logos/O/OuterVM/VM5.png" width="100px;" alt=""/><br /><sub><b>🌐️ OuterVM Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/V-ReShot/"><img src="/Graphics/My-projects/Logos/V/V-ReShot/CameraIcon2.png" width="100px;" alt=""/><br /><sub><b>🌐️ V-ReShot Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/DOS-Buddy/"><img src="/Graphics/My-projects/Logos/D/DOS-Buddy/PurpleMonster_BonziBuddy.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ DOS-Buddy Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/VirtualHome/"><img src="/Graphics/My-projects/Logos/V/VirtualHome/VirtualHome.png" width="100px;" alt=""/><br /><sub><b>🌐️ VirtualHome Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/FBI_RoleplaySimulator/"><img src="/Graphics/My-projects/Logos/F/FBI-Roleplay-Simulator/1024px-Seal_of_the_Federal_Bureau_of_Investigation.svg.png" width="100px;" alt=""/><br /><sub><b>🌐️ FBI Roleplay Simulator Project</b></sub></a></td>
@@ -458,7 +458,7 @@
     <td align="center"><a href="https://github.com/seanpm2001/Kevin-MacLeod_SoftwareRadioLIBrary/"><img src="/Graphics/My-projects/Logos/K/Kevin-Macleod-Software-Radio-LIBrary/KevinMacleodSoftwareRadioLIBrary_1500pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kevin Macleod Software Radio Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool/"><img src="/Graphics/My-projects/Logos/L/Linux-Marketshare-Ping-Tool/PingTool.png" width="100px;" alt=""/><br /><sub><b>🌐️ Linux Marketshare Ping Tool Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/PVZ_Custom/"><img src="/Graphics/My-projects/Logos/P/PVZ_Custom/PrimalSunflower_1200x1200.png" width="100px;" alt=""/><br /><sub><b>🌐️ PVZ Custom Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ IE6 flavored markdown Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown/"><img src="/Graphics/My-projects/Logos/I/IE6-Flavored-Markdown/IE6_200x200.png" width="100px;" alt=""/><br /><sub><b>🌐️ IE6 flavored markdown Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Cyborg-System-Monitor/"><img src="/Graphics/My-projects/Logos/C/Cyborg-System-Monitor/SysMon1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Cyborg System Monitor Project</b></sub></a></td>
   </tr>
   <!-- Row A43 !-->
@@ -467,7 +467,7 @@
     <td align="center"><p>Section P1#43</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/MemeMachine-2019/"><img src="/Graphics/My-projects/Logos/M/Meme-Machine-2019/MemeGeneratorIcon.png" width="100px;" alt=""/><br /><sub><b>🌐️ Meme Machine 2019 Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Jscribe/"><img src="/Graphics/My-projects/Logos/J/JScribe/Scribe1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Jscribe Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/UltraSwitch/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UltraSwitch Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UltraSwitch/"><img src="/Graphics/My-projects/Logos/U/UltraSwitch/Transmission_Icon.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UltraSwitch Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/RegAggregate/"><img src="/Graphics/My-projects/Logos/R/RegAggregate/RegAggregateLogo_1025px_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ RegAggregate Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/SafeWINE/"><img src="/Graphics/My-projects/Logos/S/SafeWINE/WINE-logo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SafeWINE Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/WinWalla/"><img src="/Graphics/My-projects/Logos/W/WinWalla/WINE-logo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ WinWalla Project</b></sub></a></td>
@@ -476,10 +476,10 @@
   <!-- Number 44 !-->
   <tr>
     <td align="center"><p>Section P1#44</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SDE_MobileServer/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SDE MobileServer Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SDE_MobileServer/"><img src="/Graphics/My-projects/Logos/S/SDE-MobileServer/SDE_MobileServer_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ SDE MobileServer Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/HT-Messenger/"><img src="/Graphics/My-projects/Logos/H/HT-Messenger/HTM.png" width="100px;" alt=""/><br /><sub><b>🌐️ HT Messenger Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitMan/"><img src="/Graphics/My-projects/Logos/G/GitMan/Git_icon_2007.svg.png" width="100px;" alt=""/><br /><sub><b>🌐️ GitMan Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Nuclear ad bombs specification Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/"><img src="/Graphics/My-projects/Logos/N/Nuclear-Ad-Bombs-Specification/Nuclear1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Nuclear ad bombs specification Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Delerium/"><img src="/Graphics/My-projects/Logos/D/Delerium/Ethereum_logo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Delerium Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/B3/"><img src="/Graphics/My-projects/Logos/B/B3/B3_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ B3 Project</b></sub></a></td>
   </tr>
@@ -489,32 +489,32 @@
     <td align="center"><p>Section P1#45</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-DRM-Blocklist/Seanpm2001-DRM-Blocklist_1500pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 DRM Blocklist Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/George-P-Floyd-Memorial/"><img src="/Graphics/My-projects/Logos/G/George-P-Floyd-Memorial/George-Floyd-Portrait.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ George P. Floyd Memorial Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-WorldDB/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 WorldDB Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Tone-Indicator-Standard/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Tone Indicator Standard Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/GitHex/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ GitHex Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/World-Census-Project/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ World Census Project Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-WorldDB/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-WorldDB/GDJ-World-Flags-Globe-With-Shading.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 WorldDB Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Tone-Indicator-Standard/"><img src="/Graphics/My-projects/Logos/T/Tone-Indicator-Standard/Tone.png" width="100px;" alt=""/><br /><sub><b>🌐️ Tone Indicator Standard Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/GitHex/"><img src="/Graphics/My-projects/Logos/G/GitHex/GitHex_PlaceholderLogo_GODOT.png" width="100px;" alt=""/><br /><sub><b>🌐️ GitHex Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/World-Census-Project/"><img src="/Graphics/My-projects/Logos/W/World-Census-Project/WorldCensus_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ World Census Project Project</b></sub></a></td>
   </tr>
   <!-- Row A46 !-->
   <!-- Number 46 !-->
   <tr>
     <td align="center"><p>Section P1#46</p></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Unblur-tool/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Unblur tool Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/UnSaaSS/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UnSaaSS Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/UnIoT/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ UnIoT Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/2001-Project/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 project Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Unblur-tool/"><img src="/Graphics/My-projects/Logos/U/Unblur-Tool/UnBlurTool_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Unblur tool Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UnSaaSS/"><img src="/Graphics/My-projects/Logos/U/UnSaaSS/UnSaaSS_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ UnSaaSS Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/UnIoT/"><img src="/Graphics/My-projects/Logos/U/UnIoT/UnIoT_1024pxIcon_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ UnIoT Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/2001-Project/"><img src="/Graphics/My-projects/Logos/2/2001-Project/2001_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 project Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/ChaccaronMaccaronType/"><img src="/Graphics/My-projects/Logos/C/Chaccaron-Maccarron-Type/ChaccarronMaccarron.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ Chaccaron Maccaron type Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Public-Media-Gallery/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Public Media Gallery Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Public-Media-Gallery/"><img src="/Graphics/My-projects/Logos/P/Public-Media-Gallery/Public-Media-Gallery_2048pxLogo_V2_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Public Media Gallery Project</b></sub></a></td>
   </tr>
   <!-- Row A47 !-->
   <!-- Number 47 !-->
   <tr>
     <td align="center"><p>Section P1#47</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Its/"><img src="/Graphics/My-projects/Logos/I/Its/Monty-Python_Its-1.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ Its Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/vCoin/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ vCoin Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Pikeheader/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Pikeheader Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/DALL-E_LLaMA/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ DALL-E LLaMA Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Open-Media-Rating-System/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Open Media Rating System (OMRS) Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Monty.py/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Monty.py Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/vCoin/"><img src="/Graphics/My-projects/Logos/V/vCoin/vCoin_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ vCoin Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Pikeheader/"><img src="/Graphics/My-projects/Logos/P/PikeHeader/PikeHeader_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Pikeheader Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/DALL-E_LLaMA/"><img src="/Graphics/My-projects/Logos/D/DALLE-LLaMA/DALLE-LLaMA_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ DALL-E LLaMA Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Open-Media-Rating-System/"><img src="/Graphics/My-projects/Logos/O/Open-Media-Rating-System/OMRS_PlaceholderLogo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Open Media Rating System (OMRS) Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Monty.py/"><img src="/Graphics/My-projects/Logos/M/Monty.py/Monty.py_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Monty.py Project</b></sub></a></td>
   </tr>
   <!-- Row A48 !-->
   <!-- Number 48 !-->
@@ -524,7 +524,7 @@
     <td align="center"><a href="https://github.com/seanpm2001/ReverseFallacy/"><img src="/Graphics/My-projects/Logos/R/ReverseFallacy/Oxygen480-actions-view-refresh.svg" width="100px;" alt=""/><br /><sub><b>🌐️ ReverseFallacy Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Booty/"><img src="/Graphics/My-projects/Logos/B/Booty/Booty_PlaceholderLogo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Booty project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Saltine-Cracker-Award/"><img src="/Graphics/My-projects/Logos/S/Saltine-Cracker-Award/Saltine-cracker.png" width="100px;" alt=""/><br /><sub><b>🌐️ Saltine Cracker Award</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/OpenGovOS/"><img src="/Graphics/Projects/Placeholder/PLACEHOLDER.svg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenGovOS project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/OpenGovOS/"><img src="/Graphics/My-projects/Logos/O/OpenGovOS/Capitol3D.jpeg" width="100px;" alt=""/><br /><sub><b>🌐️ OpenGovOS project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Go-gle/"><img src="/Graphics/My-projects/Logos/G/Go!gle/Go!gle_1080pWallpaper_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Go!gle project</b></sub></a></td>
   </tr>
   <!-- Row A49 !-->
