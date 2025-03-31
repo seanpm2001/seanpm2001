@@ -3995,8 +3995,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P2#49</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/UniFile/"><img src="/Graphics/My-projects/Logos/U/UniFile/UniFile_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ UniFile project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/LSD-PaChase/"><img src="/Graphics/My-projects/Logos/L/LSD-PaChase/Breezeicons-apps-48-kapman.svg" width="100px;" alt=""/><br /><sub><b>🌐️ LSD PaChase (mod)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
@@ -4685,7 +4685,7 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ Seanpm2001 DRM Blocklist`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/) | [:octocat: `🌐️ George P. Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/) | [:octocat: `🌐️ Seanpm2001 WorldDB`](https://github.com/seanpm2001/Seanpm2001-WorldDB/) | [:octocat: `🌐️ Tone Indicator Standard`](https://github.com/seanpm2001/Tone-Indicator-Standard/) | [:octocat: `🌐️ GitHex`](https://github.com/seanpm2001/GitHex/) |  [:octocat: `🌐️ World Census Project`](https://github.com/seanpm2001/World-Census-Project/) |
 | [:octocat: `🌐️ Its`](https://github.com/seanpm2001/Its/) | [:octocat: `🌐️ vCoin`](https://github.com/seanpm2001/vCoin/) | [:octocat: `🌐️ Pikeheader`](https://github.com/seanpm2001/Pikeheader/) | [:octocat: `🌐️ DALL-E LLaMA`](https://github.com/seanpm2001/DALL-E_LLaMA/) | [:octocat: `🌐️ Open Media Rating System (OMRS)`](https://github.com/seanpm2001/Open-Media-Rating-System/) | [:octocat: `🌐️ Monty.py`](https://github.com/seanpm2001/Monty.py/) |
 | [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | [:octocat: `🌐️ ReverseFallacy`](https://github.com/seanpm2001/ReverseFallacy/) | [:octocat: `🌐️ Booty`](https://github.com/seanpm2001/Booty/) | [:octocat: `🌐️ Saltine Cracker Award`](https://github.com/seanpm2001/Saltine-Cracker-Award/) | [:octocat: `🌐️ OpenGovOS`](https://github.com/seanpm2001/OpenGovOS/) | [:octocat: `🌐️ Go!gle`](https//github.com/seanpm2001/Go-ogle/) |
-| [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
+| [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -4964,12 +4964,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `175 (2025, Monday, March 25th at 03:55 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `5,757` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `046,6768` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `348,673` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `311,143` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `354,693` <!-- TODO: This line should be updated daily !-->
+- **File version:** `176 (2025, Monday, March 31st at 04:52 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `5,780` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `046,906` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `349,570` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `311,906` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `355,592` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5699,6 +5699,29 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 175
 
 </details> <!-- End of file history: V175 !-->
+
+---
+
+## Version 176 (2025, Monday, March 31st at 04:52 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 176</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for the newly created LSD PaChase project from today._
+
+> Changes:
+
+- [x] Updated the `Other projects` HTML5 table
+- - [x] A new logo was added
+- [x] Updated the `Other projects` Markdown table
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 176
+- [x] Added the `Footer` section
+- [ ] No other changes in version 176
+
+</details> <!-- End of file history: V176 !-->
 
 ---
 
