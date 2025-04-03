@@ -532,9 +532,9 @@
   <tr>
     <td align="center"><p>Section P2#49</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/UniFile/"><img src="/Graphics/My-projects/Logos/U/UniFile/UniFile_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ UniFile project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/LSD-PaChase/"><img src="/Graphics/My-projects/Logos/L/LSD-PaChase/Breezeicons-apps-48-kapman.svg" width="100px;" alt=""/><br /><sub><b>🌐️ LSD PaChase (mod)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/LSD-PaChase/"><img src="/Graphics/My-projects/Logos/L/LSD-PaChase/Breezeicons-apps-48-kapman.svg" width="100px;" alt=""/><br /><sub><b>🌐️ LSD PaChase (mod) project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/MyAI/"><img src="/Graphics/My-projects/Logos/M/MyAI/MyAI_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ MyAI project</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
