@@ -63,6 +63,35 @@ For now, it can be viewed [here instead](/Segments/Main-Statistics/README.md)
 
 </details> <!-- End of main statistics section !-->
 
+<div align="center">
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <p><b><i>Seanpm2001 is part of the</i></b></p>
+                <a href="https://octo-ring.com/"><img src="/Graphics/WebRings/GitHub/OctoRing/PNG/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/seanpm2001/prev"><img src="/Graphics/WebRings/GitHub/OctoRing/PNG/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/seanpm2001/random"><img src="/Graphics/WebRings/GitHub/OctoRing/PNG/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/seanpm2001/next"><img src="/Graphics/WebRings/GitHub/OctoRing/PNG/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="/Graphics/WebRings/GitHub/OctoRing/PNG/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a>
+            </td>
+         </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td>Joined: 2025, April 3rd</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td><a href="https://octo-ring.com/p/seanpm2001">@seanpm2001</a></td>
+        </tr>
+    </tbody>
+</table>
+
+</div>
+
+<!--
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/mbaraa/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/mbaraa/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/mbaraa/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+!-->
+
 <!-- *** !-->
 
 <img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
@@ -5579,11 +5608,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `142 (2025, Tuesday, February 18th at 03:42 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,661`
-- **Word count:** `064,230`
-- **Character count (with spaces):** `0,439,609 characters`
-- **Character count (without spaces)** `0,382,763 characters`
+- **File version:** `143 (2025, Thursday, April 3rd at 04:56 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,695`
+- **Word count:** `064,631`
+- **Character count (with spaces):** `0,442,107 characters`
+- **Character count (without spaces)** `0,384,931 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7007,11 +7036,16 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 143 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 143 (2025, Thursday, April 3rd at 04:56 pm PST)</b></summary>
+
+> **Note** _This is the second update of the year 2025, and is just a small maintenance update, adding support for a new webring (OctoRing)_
 
 > Changes:
 
-- [ ] Coming soon
+- [X] Added support for the OctoRing
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 143
 - [ ] No other changes in version 143
 
 </details> <!-- End of V143 !-->
