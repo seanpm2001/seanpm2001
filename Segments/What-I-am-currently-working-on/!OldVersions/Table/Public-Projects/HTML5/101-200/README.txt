@@ -536,12 +536,23 @@
     <td align="center"><a href="https://github.com/seanpm2001/MyAI/"><img src="/Graphics/My-projects/Logos/M/MyAI/MyAI_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ MyAI project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Ring-Toss/"><img src="/Graphics/My-projects/Logos/R/Ring-Toss/Ring.png" width="100px;" alt=""/><br /><sub><b>🌐️ Ring Toss project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/SoftMicro/"><img src="/Graphics/My-projects/Logos/S/SoftMicro/SoftMicro_PlaceholderLogo_CodeBlocks.png" width="100px;" alt=""/><br /><sub><b>🌐️ SoftMicro (SM) project</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Google-Israel/"><img src="/Graphics/My-projects/Logos/G/Google-Israel/GoogleIsrael_Logo_1024px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Google Israel</b></sub></a></td>
   </tr>
   <!-- Row A50 !-->
   <!-- Number 50 !-->
   <tr>
     <td align="center"><p>Section P2#50</p></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+  <!-- Row A51 !-->
+  <!-- Number 51 !-->
+  <tr>
+    <td align="center"><p>Section P2#51</p></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
