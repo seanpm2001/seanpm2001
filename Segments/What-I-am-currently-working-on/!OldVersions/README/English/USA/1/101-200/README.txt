@@ -31,6 +31,50 @@ My major projects include:
 
 **Collectives (13)**
 
+Total money for collectives:
+
+> Framework collective 
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$180.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$000.00` **(as of 2025, Friday, April 25th)** |
+
+> Productive collective 
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)** |
+
+> Video Game collective 
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$120.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$000.00` **(as of 2025, Friday, April 25th)** |
+
+> Operating System collective 
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$120.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$000.00` **(as of 2025, Friday, April 25th)** |
+
+> Linguistics collective 
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)** |
+
+> Overall total
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$540.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$000.00` **(as of 2025, Friday, April 25th)** |
+
 ---
 
 #### [📑️ Framework Collective](#-Framework-Collective)
@@ -42,6 +86,17 @@ A collective of my framework projects.
 | Donate to this collective |
 |---|
 | `bc1qzvx6n03xlzxp7zsa5y3endqf3s0ypn2pmzq83z` |
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$180.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)** |
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of the SNU project. |
+| **2025, April 25th:** $USD60.00 was pledged for development of the AI2001 project. |
+| **2025, April 25th:** $USD60.00 was pledged for development of the EMAIL 2 project. |
 
 ---
 
@@ -79,7 +134,13 @@ A collective of my framework projects.
 - **🏠️ Home repository:** [:octocat: `SNU`](https://github.com/seanpm2001/SNU/)
 - **🔵️ Project categories:** `SNU` `Web framework` `Website` `Social media` `Framework` `Federated` `P2P`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, April 6th)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `~1` **(as of 2024, Saturday, April 6th)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Partially functional, but needs lots of work. Developers needed._
 
@@ -238,7 +299,13 @@ _End of Candroid Framework project section._
 - **🏠️ Home repository:** [:oct-ocat: `AI2001`](https://github.com/seanpm2001/AI2001/)
 - **🔵️ Project categories:** `Artificial Intelligence (AI)` `Artificial Neural Networks (ANN)` `Datasets`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -306,7 +373,13 @@ _End of AI2001 project section._
 - **🏠️ Home repository:** [:octocat: `EMAIL_2.0`](https://github.com/seanpm2001/EMAIL_2.0/)
 - **🔵️ Project categories:** `EMAIL` `Web2` `EMAIL 2` `Specification` `Internet` `Mail`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -752,6 +825,15 @@ A collective of my productivity software projects.
 |---|
 | `bc1q92qcpeveclcgay0fvpcazrl22e2wjpk5f3u9mf` |
 
+| Funding |
+|---|
+| **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)** |
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of the uOffice project. |
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the productivity collective</b></p></summary>
@@ -939,7 +1021,13 @@ _End of DMAIL/DSuite project section._
 - **🏠️ Home repository:** [:octocat: `uOffice`](https://github.com/seanpm2001/uOffice/)
 - **🔵️ Project categories:** `Productivity` `Rich Text Editor` `Document handler` `Calculator` `Suite` `Password Generator` `Compass` `Tools`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -1010,6 +1098,16 @@ A collective of my video game projects.
 | Donate to this collective |
 |---|
 | `bc1q5582eumvqtvxsd6klgmwulf4cjaql0t9lyudjy` |
+
+| Funding |
+|---|
+| **🪙️ Current budget:** `$120.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)** |
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of the LibreFlock project. |
+| **2025, April 25th:** $USD60.00 was pledged for development of the Tetris128 project. |
 
 ---
 
@@ -1115,7 +1213,13 @@ _End of Ukraine History Simulator project section._
 - **🏠️ Home repository:** [:octocat: `LibreFlock`](https://github.com/seanpm2001/LibreFlock/)
 - **🔵️ Project categories:** `Productivity` `Video games` `Slingshot` `Puzzle`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Saturday, March 30th)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Saturday, March 30th)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -1253,7 +1357,13 @@ _End of MCPYE project section._
 - **🏠️ Home repository:** [:octocat: `Tetris128`](https://github.com/seanpm2001/Tetris128/)
 - **🔵️ Project categories:** `Tetris` `Falling block game` `128 bit` `Video games` 
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Monday, April 1st)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Monday, April 1st)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -1593,6 +1703,16 @@ A collective of my Operating System projects.
 |---|
 | `bc1qccepttmy2ty5823xtjwa4qkp02cwuglsxve7z9` |
 
+| Funding |
+|---|
+| **🪙️ Current budget:** `$120.00` **(as of 2025, Friday, April 25th)** |
+| **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)** |
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of the LocksmithOS project. |
+| **2025, April 25th:** $USD60.00 was pledged for development of the Meadows project. |
+
 ---
 
 <details open><summary><p><b>Click/tap here to expand/collapse the general information section for the operating system collective</b></p></summary>
@@ -1924,7 +2044,13 @@ _End of MailOS project section._
 - **🏠️ Home repository:** [:octocat: `LocksmithOS`](https://github.com/seanpm2001/LocksmithOS/)
 - **🔵️ Project categories:** `Password` `Credentials` `Storage` `Offline` `Keys` `Niche`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Friday, March 29th)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Friday, March 29th)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -2132,7 +2258,13 @@ _End of MEDOS project section._
 - **🏠️ Home repository:** [:octocat: `QMeadows`](https://github.com/seanpm2001/QMeadows/)
 - **🔵️ Project categories:** `Quantum` `Quantum computing` `Operating Systems` `Dream project`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2024, Wednesday, April 3rd)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2024, Wednesday, April 3rd)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -2989,7 +3121,13 @@ A collective of my linguistics software projects.
 - **🏠️ Home repository:** [:octocat: `NONE`](https://github.com/seanpm2001/)
 - **🔵️ Project categories:** `Programming languages` `Markup languages` `Configuration languages` `Experimental languages` `VSCode`
 - **💰️ Current monthly budget:** `$00.00` **(as of 2023, Saturday, May 27th)**
+- **🪙️ Current budget:** `$60.00` **(as of 2025, Friday, April 25th)**
+- **💸️ Total money spent on development:** `$00.00` **(as of 2025, Friday, April 25th)**
 - **🧑‍💻️ Total # of contributors:** `1` **(as of 2023, Saturday, May 27th)**
+
+| Budget |
+|---|
+| **2025, April 25th:** $USD60.00 was pledged for development of this project. |
 
 **Development status:** _Not functional and highly incomplete. Developers needed._
 
@@ -3999,12 +4137,23 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/MyAI/"><img src="/Graphics/My-projects/Logos/M/MyAI/MyAI_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ MyAI project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Ring-Toss/"><img src="/Graphics/My-projects/Logos/R/Ring-Toss/Ring.png" width="100px;" alt=""/><br /><sub><b>🌐️ Ring Toss project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/SoftMicro/"><img src="/Graphics/My-projects/Logos/S/SoftMicro/SoftMicro_PlaceholderLogo_CodeBlocks.png" width="100px;" alt=""/><br /><sub><b>🌐️ SoftMicro (SM) project</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Google-Israel/"><img src="/Graphics/My-projects/Logos/G/Google-Israel/GoogleIsrael_Logo_1024px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Google Israel</b></sub></a></td>
   </tr>
   <!-- Row A50 !-->
   <!-- Number 50 !-->
   <tr>
     <td align="center"><p>Section P2#50</p></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+  <!-- Row A51 !-->
+  <!-- Number 51 !-->
+  <tr>
+    <td align="center"><p>Section P2#51</p></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
@@ -4685,7 +4834,8 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ Seanpm2001 DRM Blocklist`](https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/) | [:octocat: `🌐️ George P. Floyd Memorial`](https://github.com/seanpm2001/George-P-Floyd-Memorial/) | [:octocat: `🌐️ Seanpm2001 WorldDB`](https://github.com/seanpm2001/Seanpm2001-WorldDB/) | [:octocat: `🌐️ Tone Indicator Standard`](https://github.com/seanpm2001/Tone-Indicator-Standard/) | [:octocat: `🌐️ GitHex`](https://github.com/seanpm2001/GitHex/) |  [:octocat: `🌐️ World Census Project`](https://github.com/seanpm2001/World-Census-Project/) |
 | [:octocat: `🌐️ Its`](https://github.com/seanpm2001/Its/) | [:octocat: `🌐️ vCoin`](https://github.com/seanpm2001/vCoin/) | [:octocat: `🌐️ Pikeheader`](https://github.com/seanpm2001/Pikeheader/) | [:octocat: `🌐️ DALL-E LLaMA`](https://github.com/seanpm2001/DALL-E_LLaMA/) | [:octocat: `🌐️ Open Media Rating System (OMRS)`](https://github.com/seanpm2001/Open-Media-Rating-System/) | [:octocat: `🌐️ Monty.py`](https://github.com/seanpm2001/Monty.py/) |
 | [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | [:octocat: `🌐️ ReverseFallacy`](https://github.com/seanpm2001/ReverseFallacy/) | [:octocat: `🌐️ Booty`](https://github.com/seanpm2001/Booty/) | [:octocat: `🌐️ Saltine Cracker Award`](https://github.com/seanpm2001/Saltine-Cracker-Award/) | [:octocat: `🌐️ OpenGovOS`](https://github.com/seanpm2001/OpenGovOS/) | [:octocat: `🌐️ Go!gle`](https//github.com/seanpm2001/Go-ogle/) |
-| [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | [:octocat: `🌐️ MyAI`](https://github.com/seanpm2001/MyAI/) | [:octocat: `🌐️ Ring Toss`](https://github.com/seanpm2001/Ring-Toss/) | [:octocat: `SoftMicro`](https://github.com/seanpm2001/SoftMicro/) | **Some other projects aren't listed yet** |
+| [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | [:octocat: `🌐️ MyAI`](https://github.com/seanpm2001/MyAI/) | [:octocat: `🌐️ Ring Toss`](https://github.com/seanpm2001/Ring-Toss/) | [:octocat: `SoftMicro`](https://github.com/seanpm2001/SoftMicro/) | [:octocat: `🌐️ Google Israel`](https://github.com/seanpm2001/Google_Israel/) |
+| **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -4964,12 +5114,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `179 (2025, Wednesday, April 16th at 06:10 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `5,849` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `047,302` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `352,183` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `314,124` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `358,206` <!-- TODO: This line should be updated daily !-->
+- **File version:** `180 (2025, Friday, April 25th at 06:09 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `6,023` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `048,322` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `359,485` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `320,293` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `365,748` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5791,6 +5941,30 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 179
 
 </details> <!-- End of file history: V179 !-->
+
+---
+
+## Version 180 (2025, Friday, April 25th at 06:09 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 180</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for the newly created Google Israel project from today. $540.00 was also pledged for the development of 9 projects._
+
+> Changes:
+
+- [x] Updated funding information, with $540.00 in pledges being made.
+- [x] Updated the `Other projects` HTML5 table
+- - [x] A new logo was added
+- [x] Updated the `Other projects` Markdown table
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 180
+- [x] Added the `Footer` section
+- [ ] No other changes in version 180
+
+</details> <!-- End of file history: V180 !-->
 
 ---
 
