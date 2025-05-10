@@ -489,7 +489,7 @@
     <td align="center"><p>Section P1#45</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-DRM-Blocklist/Seanpm2001-DRM-Blocklist_1500pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 DRM Blocklist Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/George-P-Floyd-Memorial/"><img src="/Graphics/My-projects/Logos/G/George-P-Floyd-Memorial/George-Floyd-Portrait.jpg" width="100px;" alt=""/><br /><sub><b>🌐️ George P. Floyd Memorial Project</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-WorldDB/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-WorldDB/GDJ-World-Flags-Globe-With-Shading.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 WorldDB Project</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001_WorldDB/"><img src="/Graphics/My-projects/Logos/S/Seanpm2001-WorldDB/GDJ-World-Flags-Globe-With-Shading.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 WorldDB Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Tone-Indicator-Standard/"><img src="/Graphics/My-projects/Logos/T/Tone-Indicator-Standard/Tone.png" width="100px;" alt=""/><br /><sub><b>🌐️ Tone Indicator Standard Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/GitHex/"><img src="/Graphics/My-projects/Logos/G/GitHex/GitHex_PlaceholderLogo_GODOT.png" width="100px;" alt=""/><br /><sub><b>🌐️ GitHex Project</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/World-Census-Project/"><img src="/Graphics/My-projects/Logos/W/World-Census-Project/WorldCensus_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ World Census Project Project</b></sub></a></td>
@@ -543,8 +543,8 @@
   <tr>
     <td align="center"><p>Section P2#50</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Flag-Simulator/"><img src="/Graphics/My-projects/Logos/F/Flag-Simulator/Flag-Simulator_PlaceholderLogo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Flag Simulator</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Gurgle/"><img src="/Graphics/My-projects/Logos/G/Gurgle/Gurgle_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b></b></sub>🌐️ Gurgle</a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
@@ -561,3 +561,4 @@
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
 </table>
+
