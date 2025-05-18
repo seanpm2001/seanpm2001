@@ -544,8 +544,8 @@
     <td align="center"><p>Section P2#50</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Flag-Simulator/"><img src="/Graphics/My-projects/Logos/F/Flag-Simulator/Flag-Simulator_PlaceholderLogo.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Flag Simulator</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Gurgle/"><img src="/Graphics/My-projects/Logos/G/Gurgle/Gurgle_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b></b></sub>🌐️ Gurgle</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/CrowdPoll/"><img src="/Graphics/My-projects/Logos/C/CrowdPoll/CrowdPoll_PlaceholderLogo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ CrowdPoll</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
@@ -561,4 +561,3 @@
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
 </table>
-
