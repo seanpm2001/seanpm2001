@@ -4147,7 +4147,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Gurgle/"><img src="/Graphics/My-projects/Logos/G/Gurgle/Gurgle_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b></b></sub>🌐️ Gurgle</a></td>
     <td align="center"><a href="https://github.com/seanpm2001/CrowdPoll/"><img src="/Graphics/My-projects/Logos/C/CrowdPoll/CrowdPoll_PlaceholderLogo1.png" width="100px;" alt=""/><br /><sub><b>🌐️ CrowdPoll</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/The-Empties/"><img src="/Graphics/My-projects/Logos/T/The-Empties/The-Empties_1024pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ The Empties</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other public projects to list yet.</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/My-projects/Logos/L/LifeMill/LifeMill_1024pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ LifeMill</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
   <!-- Row A51 !-->
@@ -4835,7 +4835,7 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ Its`](https://github.com/seanpm2001/Its/) | [:octocat: `🌐️ vCoin`](https://github.com/seanpm2001/vCoin/) | [:octocat: `🌐️ Pikeheader`](https://github.com/seanpm2001/Pikeheader/) | [:octocat: `🌐️ DALL-E LLaMA`](https://github.com/seanpm2001/DALL-E_LLaMA/) | [:octocat: `🌐️ Open Media Rating System (OMRS)`](https://github.com/seanpm2001/Open-Media-Rating-System/) | [:octocat: `🌐️ Monty.py`](https://github.com/seanpm2001/Monty.py/) |
 | [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | [:octocat: `🌐️ ReverseFallacy`](https://github.com/seanpm2001/ReverseFallacy/) | [:octocat: `🌐️ Booty`](https://github.com/seanpm2001/Booty/) | [:octocat: `🌐️ Saltine Cracker Award`](https://github.com/seanpm2001/Saltine-Cracker-Award/) | [:octocat: `🌐️ OpenGovOS`](https://github.com/seanpm2001/OpenGovOS/) | [:octocat: `🌐️ Go!gle`](https//github.com/seanpm2001/Go-ogle/) |
 | [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | [:octocat: `🌐️ MyAI`](https://github.com/seanpm2001/MyAI/) | [:octocat: `🌐️ Ring Toss`](https://github.com/seanpm2001/Ring-Toss/) | [:octocat: `SoftMicro`](https://github.com/seanpm2001/SoftMicro/) | [:octocat: `🌐️ Google Israel`](https://github.com/seanpm2001/Google_Israel/) |
-| [:octocat: `🌐️ Flag Simulator`](https://github.com/seanpm2001/Flag-Simulator/) | [:octocat: `🌐️ Gurgle`](https://github.com/seanpm2001/Gurgle/) | [:octocat: `🌐️ CrowdPoll`](https://github.com/seanpm2001/CrowdPoll/) | [:octocat: `🌐️ The Empties`](https://github.com/seanpm2001/The-Empties/) | **Some other projects aren't listed yet** | ⭕️ |
+| [:octocat: `🌐️ Flag Simulator`](https://github.com/seanpm2001/Flag-Simulator/) | [:octocat: `🌐️ Gurgle`](https://github.com/seanpm2001/Gurgle/) | [:octocat: `🌐️ CrowdPoll`](https://github.com/seanpm2001/CrowdPoll/) | [:octocat: `🌐️ The Empties`](https://github.com/seanpm2001/The-Empties/) | [:octocat: `🌐️ LifeMill`](https://github.com/seanpm2001/LifeMill/) | **Some other projects aren't listed yet**  |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -5114,12 +5114,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `184 (2025, Thursday, May 22nd at 05:45 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `6,115` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `048,858` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `363,055` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `323,333` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `369,326` <!-- TODO: This line should be updated daily !-->
+- **File version:** `185 (2025, Sunday, May 25th at 05:50 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `6,138` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `048,989` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `363,881` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `324,035` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `370,158` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6057,6 +6057,29 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 184
 
 </details> <!-- End of file history: V184 !-->
+
+---
+
+## Version 185 (2025, Sunday, May 25th at 05:50 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 185</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for the newly created LifeMill project from today._
+
+> Changes:
+
+- [x] Updated the `Other projects` HTML5 table
+- - [x] A new logo was added
+- [x] Updated the `Other projects` Markdown table
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 185
+- [x] Added the `Footer` section
+- [ ] No other changes in version 185
+
+</details> <!-- End of file history: V185 !-->
 
 ---
 
