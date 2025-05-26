@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2025-02-18"
-      - version: "v142"
+      - date: "2025-05-25"
+      - version: "v144"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -40,6 +40,10 @@ defaultPlatform: linux
 ## [🎩️ Lead](#-Lead)
 
 <details open><summary><p><b>Click/tap here to expand/collapse the lead section</b></p></summary>
+
+# 🎊️ Celebrating 5 years of @seanpm2001 (2020, May 25th - 2025, May 25th) 🎊️
+
+- [Go to anniversary page](/SpecialPages/Anniversary/2025/README.md)
 
 ***
 
@@ -5608,11 +5612,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `143 (2025, Thursday, April 3rd at 04:56 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,695`
-- **Word count:** `064,631`
-- **Character count (with spaces):** `0,442,107 characters`
-- **Character count (without spaces)** `0,384,931 characters`
+- **File version:** `144 (2025, Sunday, May 25th at 05:46 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,705`
+- **Word count:** `064,725`
+- **Character count (with spaces):** `0,442,673 characters`
+- **Character count (without spaces)** `0,385,395 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7052,11 +7056,17 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 144 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 144 (2025, Sunday, May 25th at 05:46 pm PST)</b></summary>
+
+> **Note** _This is the third update of the year 2025, and is just a small maintenance update, celebrating the 5 year anniversary of my account.
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the GitHub YAML FrontMatter segment
+- [ ] Updated the Lead section to include a link to the special page for my 5 year GitHub anniversary
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 144
 - [ ] No other changes in version 144
 
 </details> <!-- End of V144 !-->
