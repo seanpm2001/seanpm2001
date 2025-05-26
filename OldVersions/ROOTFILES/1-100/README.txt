@@ -34,6 +34,7 @@
 /Segments/
 /Social-Links/
 /Special/
+/SpecialPages/
 /Sponsors/
 /Stars/
 /Watch/
