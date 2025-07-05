@@ -1,0 +1,1 @@
+A GitHub update on 2025, July 4th changed the way images render, it seems, by not letting images stretch into a given space, and instead, they now use the full width. Previously, the dividers were very long, and not very tall. Now they are just too thick, and it messes up the flow of the profile.
