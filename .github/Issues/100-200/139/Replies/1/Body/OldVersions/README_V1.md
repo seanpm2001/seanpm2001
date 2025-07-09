@@ -1,0 +1,1 @@
+**Update 2025.07.08** The issue seems to have been resolved last night, as another GitHub update fixed the issue. I am now seeing other images being stretched. I will not close this issue yet, until I am sure it is gone.
