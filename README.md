@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2025-05-25"
-      - version: "v144"
+      - date: "2025-07-15"
+      - version: "v145"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -41,9 +41,13 @@ defaultPlatform: linux
 
 <details open><summary><p><b>Click/tap here to expand/collapse the lead section</b></p></summary>
 
+<!--
+
 # 🎊️ Celebrating 5 years of @seanpm2001 (2020, May 25th - 2025, May 25th) 🎊️
 
 - [Go to anniversary page](/SpecialPages/Anniversary/2025/README.md)
+
+!-->
 
 ***
 
@@ -1364,6 +1368,11 @@ I fork projects I come across. I have plans to create a giant collection of fork
 [:octocat: `Fork style guide`](https://github.com/seanpm2001/Seanpm2001_Fork_Style-Guide/)
 
 I already created a `Fork` section, I may need to merge this section into it in the future.
+
+| <img src="/Graphics/GitHub_Errors/2025/07_July/Seanpm2001-is-approaching-the-maximum-repository-limit.png" alt="Image failed to load" title="@Seanpm2001 is approaching the maximum repository limit (100,000) first received this error on 2025, July 11th" width="1920" height="56"> |
+|---|
+
+On 2025, July 11th, I began to approach a limit on GitHub. Due to poor wording prior to clicking the link, I became panicked, as I thought the repository limit was 50,000. It is actually 100,000. I had to shift my operations, and began to use my [:octocat: `alt account`](https://github.com/seanwallawalla/) to do the forks I typically do on my main account. On July 12th, I did 79 forks to this account, to even out the number, and have been doing 50 forks each day since, although I eventually plan to slow down to 10 per day. At my current rate, I expect to reach the repository limit on both accounts on **2039, Sunday, March 20th** by which time, I hope the repository limit is raised (so that I can continue to fully maintain my projects here) but I also plan to be independent from GitHub (although I will still maintain a mirror here)
 
 View this segment [in a separate file](/Segments/Forks-and-browsing-forks/README.md)
 
@@ -5612,11 +5621,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `144 (2025, Sunday, May 25th at 05:46 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,705`
-- **Word count:** `064,725`
-- **Character count (with spaces):** `0,442,673 characters`
-- **Character count (without spaces)** `0,385,395 characters`
+- **File version:** `145 (2025, Tuesday, July 15th at 06:32 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,726`
+- **Word count:** `065,035`
+- **Character count (with spaces):** `0,444,491 characters`
+- **Character count (without spaces)** `0,386,920 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7073,11 +7082,19 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 145 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 145 (2025, Tuesday, July 15th at 06:32 pm PST)</b></summary>
+
+> **Note:** _This is the fourth update of the year 2025, and adds information about forks, hides the 5 year anniversary notice, and also optimizes the donation section._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the GitHub YAML FrontMatter segment
+- [x] Hid the 5 year GitHub anniversary section, as it has been nearly 2 months since the anniversary
+- [x] Updated the `Forks and browsing forks` section
+- [x] Updated the `Cryptocurrency donations` section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 145
 - [ ] No other changes in version 145
 
 </details> <!-- End of V145 !-->
@@ -8643,6 +8660,8 @@ If you want to donate ₿itCoin via email, you can use this address: [seanpm2001
 
 Additionally, you can donate to individual collectives through these addresses:
 
+<details><summary><p><b>Click/tap here to expand/collapse the address donation table</b></p></summary>
+
 | Collective | ₿itCoin address | QR code |
 |---|---|---|
 | Framework collective | `bc1qzvx6n03xlzxp7zsa5y3endqf3s0ypn2pmzq83z` | <img src="/Graphics/Cryptocurrency/BitCoin/QR-Code/Collectives/Framework-collective/Seanpm2001___Framework-Collective.png" alt="Framework collective QR code failed to load" title="₿ Framework collective" width="256" height="256"> |
@@ -8658,6 +8677,8 @@ Additionally, you can donate to individual collectives through these addresses:
 | Linguistics collective | `bc1qql4lw98f58tlgfhq7fufa2rj3x9m5k4sxewkkq` | <img src="/Graphics/Cryptocurrency/BitCoin/QR-Code/Collectives/Linguistics-collective/Seanpm2001___Linguistics-collective.png" alt="Linguistics collective QR code failed to load" title="₿ Linguistics collective" width="256" height="256"> |
 | Comedy collective | `bc1qfatk3ata25rvqady6zqtfms8e56ug3aw5ylqfw` | <img src="/Graphics/Cryptocurrency/BitCoin/QR-Code/Collectives/Comedy-collective/Seanpm2001___Comedy-collective.png" alt="Comedy collective QR code failed to load" title="₿ Comedy collective" width="256" height="256"> |
 | Miscellaneous collective | `bc1qn85v86ywfs75zalcw3dvgxrktqjy4shztukewj` | <img src="/Graphics/Cryptocurrency/BitCoin/QR-Code/Collectives/Miscellaneous-collective/Seanpm2001___Miscellaneous-collective.png" alt="Miscellaneous collective QR code failed to load" title="₿ Miscellaneous collective" width="256" height="256"> |
+
+</details>
 
 More information on collectives is available here: [`§What I'm currently working on`](/Segments/What-I-am-currently-working-on/README.md)
 
