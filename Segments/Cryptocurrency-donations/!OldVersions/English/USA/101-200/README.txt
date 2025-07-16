@@ -16,6 +16,8 @@ If you want to donate ₿itCoin via email, you can use this address: [seanpm2001
 
 Additionally, you can donate to individual collectives through these addresses:
 
+<details><summary><p><b>Click/tap here to expand/collapse the address donation table</b></p></summary>
+
 | Collective | ₿itCoin address | QR code |
 |---|---|---|
 | Framework collective | `bc1qzvx6n03xlzxp7zsa5y3endqf3s0ypn2pmzq83z` | <img src="/Graphics/Cryptocurrency/BitCoin/QR-Code/Collectives/Framework-collective/Seanpm2001___Framework-Collective.png" alt="Framework collective QR code failed to load" title="₿ Framework collective" width="256" height="256"> |
@@ -32,6 +34,8 @@ Additionally, you can donate to individual collectives through these addresses:
 | Comedy collective | `bc1qfatk3ata25rvqady6zqtfms8e56ug3aw5ylqfw` | <img src="/Graphics/Cryptocurrency/BitCoin/QR-Code/Collectives/Comedy-collective/Seanpm2001___Comedy-collective.png" alt="Comedy collective QR code failed to load" title="₿ Comedy collective" width="256" height="256"> |
 | Miscellaneous collective | `bc1qn85v86ywfs75zalcw3dvgxrktqjy4shztukewj` | <img src="/Graphics/Cryptocurrency/BitCoin/QR-Code/Collectives/Miscellaneous-collective/Seanpm2001___Miscellaneous-collective.png" alt="Miscellaneous collective QR code failed to load" title="₿ Miscellaneous collective" width="256" height="256"> |
 
+</details>
+
 More information on collectives is available here: [`§What I'm currently working on`](/Segments/What-I-am-currently-working-on/README.md)
 
 <div align="center">
@@ -41,5 +45,3 @@ More information on collectives is available here: [`§What I'm currently workin
 I don't like when the word crypto is defined as cryptocurrency, I prefer it to mean cryptography. Meanwhile, I am against the term Web3 in regards to cryptocurrency, and I don't like NFTs.
 
 View this segment [`in a separate file`](/Segments/Cryptocurrency-donations/README.md)
-
-<img src="/Graphics/Dividers/PNG/Leather-Divider_2500x250_V1_HighCompression.png" alt="Leather divider" width="2500" height="25">
