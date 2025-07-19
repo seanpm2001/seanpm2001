@@ -4155,7 +4155,7 @@ Note to self: Make sure to also check each repository to see if a separate docum
   <tr>
     <td align="center"><p>Section P2#51</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Castle-of-humanity/"><img src="/Graphics/My-projects/Logos/C/Castle-of-Humanity/Castle1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Castle of Humanity</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Colonel-Panic/"><img src="/Graphics/My-projects/Logos/C/Colonel-Panic/Colonel_Kernel_Panic_Tux_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Colonel Panic</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
@@ -4847,7 +4847,7 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | [:octocat: `🌐️ ReverseFallacy`](https://github.com/seanpm2001/ReverseFallacy/) | [:octocat: `🌐️ Booty`](https://github.com/seanpm2001/Booty/) | [:octocat: `🌐️ Saltine Cracker Award`](https://github.com/seanpm2001/Saltine-Cracker-Award/) | [:octocat: `🌐️ OpenGovOS`](https://github.com/seanpm2001/OpenGovOS/) | [:octocat: `🌐️ Go!gle`](https//github.com/seanpm2001/Go-ogle/) |
 | [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | [:octocat: `🌐️ MyAI`](https://github.com/seanpm2001/MyAI/) | [:octocat: `🌐️ Ring Toss`](https://github.com/seanpm2001/Ring-Toss/) | [:octocat: `SoftMicro`](https://github.com/seanpm2001/SoftMicro/) | [:octocat: `🌐️ Google Israel`](https://github.com/seanpm2001/Google_Israel/) |
 | [:octocat: `🌐️ Flag Simulator`](https://github.com/seanpm2001/Flag-Simulator/) | [:octocat: `🌐️ Gurgle`](https://github.com/seanpm2001/Gurgle/) | [:octocat: `🌐️ CrowdPoll`](https://github.com/seanpm2001/CrowdPoll/) | [:octocat: `🌐️ The Empties`](https://github.com/seanpm2001/The-Empties/) | [:octocat: `🌐️ LifeMill`](https://github.com/seanpm2001/LifeMill/) | [:octocat: `🌐️ Crime City Rewritten`](https://github.com/seanpm2001/Crime-City-Rewritten/) |
-| [:octocat: `🌐️ Castle of Humanity`](https://github.com/seanpm2001/Castle-of-humanity/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
+| [:octocat: `🌐️ Castle of Humanity`](https://github.com/seanpm2001/Castle-of-humanity/) | [:octocat: `Colonel Panic`](https://github.com/seanpm2001/Colonel-Panic/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -5126,12 +5126,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `187 (2025, Monday, July 14th at 06:24 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `6,194` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `049,427` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `366,820` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `326,610` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `373,149` <!-- TODO: This line should be updated daily !-->
+- **File version:** `188 (2025, Friday, July 18th at 07:34 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `6,217` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `049,566` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `367,741` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `327,400` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `374,067` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6136,6 +6136,29 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 187
 
 </details> <!-- End of file history: V187 !-->
+
+---
+
+## Version 188 (2025, Friday, July 18th at 07:34 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 188</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for the newly created Colonel Panic project from today._
+
+> Changes:
+
+- [x] Updated the `Other projects` HTML5 table
+- - [x] A new logo was added
+- [x] Updated the `Other projects` Markdown table
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 188
+- [x] Added the `Footer` section
+- [ ] No other changes in version 188
+
+</details> <!-- End of file history: V188 !-->
 
 ---
 
