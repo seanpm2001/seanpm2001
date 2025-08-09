@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2025-07-15"
-      - version: "v145"
+      - date: "2025-08-08"
+      - version: "v146"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -1050,6 +1050,27 @@ _End of Legend section._
 </details> <!-- End of Legend section !-->
 
 <!-- *** !-->
+
+## Topics (:octocat: GitHub :octocat:)
+    
+<div align="center">
+    <img src="/Graphics/Icons/Hashtag/hash-1.png" alt="Hash logo failed to load" width="128" height="128" title="Hashtags of seanpm2001/seanpm2001 on GitHub section" class="center"/>
+</div>
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Seanpm2001 tags section]</b></p></summary>
+
+| [:octocat: `#seanpm2001`](https://github.com/topics/seanpm2001/) | [:octocat: `#seanpm2001-github`](https://github.com/topics/seanpm2001-github/) | [:octocat: `#seanpm2001-docs`](https://github.com/topics/seanpm2001-docs/) | [:octocat: `#seanpm2001-documentation`](https://github.com/topics/seanpm2001-documentation/) | [:octocat: `#profile`](https://github.com/topics/profile/) | [:octocat: `#github-profile`](https://github.com/topics/github-profile/) | [:octocat: `#github-profile-readme`](https://github.com/topics/github-profile-readme/) | [:octocat: `#walla-walla-washington`](https://github.com/topics/walla-walla-washington/) | [:octocat: `#walla-walla`](https://github.com/topics/walla-walla/) | [:octocat: `#seanwallawalla`](https://github.com/topics/seanwallawalla/) | [:octocat: `#polymath`](https://github.com/topics/polymath/) | [:octocat: `#octoring`](https://github.com/topics/octoring/) | [:octocat: `#programmer`](https://github.com/topics/programmer/) | [:octocat: `#bio`](https://github.com/topics/bio/)| [:octocat: `#seanpm2001-core`](https://github.com/topics/seanpm2001-core/) | [:octocat: `#python-language`](https://github.com/topics/python-language/) | [:octocat: `#markdown-language`](https://github.com/topics/markdown-language/) | [:octocat: `#offline`](https://github.com/topics/offline/) | [:octocat: `#nna`](https://github.com/topics/nna/) | [:octocat: `#ron`](https://github.com/topics/ron/) |
+|---|
+
+Removed tags (2025.07.30)
+
+I had been meaning to change the tags for a while. I finally decided to on 2025, July 30th.
+
+| [:octocat: `#linux`](https://github.com/topics/linux/) | [:octocat: `#readme`](https://github.com/topics/readme/) | [:octocat: `#png`](https://github.com/topics/png/) | [:octocat: `#wiki`](https://github.com/topics/wiki/) | [:octocat: `#gplv3`](https://github.com/topics/gplv3/) | [:octocat: `#images`](https://github.com/topics/images/) | [:octocat: `#sandbox`](https://github.com/topics/sandbox/) | [:octocat: `#secret`](https://github.com/topics/secret/) | [:octocat: `#github-profile`](https://github.com/topics/github-profile/) | [:octocat: `#md`](https://github.com/topics/md/) | [:octocat: `#txt`](https://github.com/topics/txt/) | [:octocat: `#gpl3`](https://github.com/topics/gpl3/) | [:octocat: `#git-image`](https://github.com/topics/git-image/) | [:octocat: `#seanpm2001`](https://github.com/topics/seanpm2001/) | [:octocat: `#daily-status`](https://github.com/topics/daily-status/) | [:octocat: `#seanpm2001-seanpm2001`](https://github.com/topics/seanpm2001-seanpm2001/) |
+
+</details> <!-- End of tags !-->
+
+View this segment [in a separate file](/Segments/Topics/README.md)
 
 <img src="/Graphics/Dividers/PNG/Pine-Divider_2500x250_V1_HighCompression.png" alt="Pine divider" width="2500" height="25">
 
@@ -5621,11 +5642,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `145 (2025, Tuesday, July 15th at 06:32 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,726`
-- **Word count:** `065,035`
-- **Character count (with spaces):** `0,444,491 characters`
-- **Character count (without spaces)** `0,386,920 characters`
+- **File version:** `146 (2025, Friday, August 8th at 10:41 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,753`
+- **Word count:** `065,464`
+- **Character count (with spaces):** `0,447,812 characters`
+- **Character count (without spaces)** `0,389,991 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7101,11 +7122,17 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 146 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 146 (2025, Friday, August 8th at 10:41 pm PST)</b></summary>
+
+> **Note:** _This is the fifth update of the year 2025, and adds information about topics/tags._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the GitHub YAML FrontMatter segment
+- [x] Added the `Topics` segment
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 146
 - [ ] No other changes in version 146
 
 </details> <!-- End of V146 !-->
