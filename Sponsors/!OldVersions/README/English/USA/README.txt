@@ -3,6 +3,8 @@
 
 # Sponsor information
 
+**See also:** [`/.sponsors/`](/.sponsors/) and [`/.sponsors/GitHub/sponsors/seanpm2001/`](/.sponsors/GitHub/sponsors/seanpm2001/)
+
 To learn more about my sponsoring process, and how to sponsor me, please refer to this repository:
 
 - [:octocat: `Sponsor-Info`](https://github.com/seanpm2001/Sponsor-info/)
@@ -19,6 +21,6 @@ And to see who sponsors me, see this repository:
 
 # File info
 
-**File version:** `1 (2023, Friday, August 18th at 12:46 pm PST)`
+**File version:** `2 (2025, Sunday, August 10th at 08:20 pm PST)`
 
 ***
