@@ -4156,15 +4156,26 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><p>Section P2#51</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Castle-of-humanity/"><img src="/Graphics/My-projects/Logos/C/Castle-of-Humanity/Castle1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Castle of Humanity</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Colonel-Panic/"><img src="/Graphics/My-projects/Logos/C/Colonel-Panic/Colonel_Kernel_Panic_Tux_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Colonel Panic</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SeanWallaWalla-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanWallaWalla Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SeanSpokane2015-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanSpokane2015 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/2001-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 Platform</b></sub></a></td>
   </tr>
   <!-- Row A52 !-->
   <!-- Number 52 !-->
   <tr>
     <td align="center"><p>Section P2#52</p></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+  <!-- Row A53 !-->
+  <!-- Number 53 !-->
+  <tr>
+    <td align="center"><p>Section P2#53</p></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
@@ -4175,6 +4186,16 @@ Note to self: Make sure to also check each repository to see if a separate docum
 </table>
 
 ---
+
+<!-- TODO (TODO highlights this section) TEMPLATE
+Placeholder A
+
+<td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
+
+Placeholder B
+
+<td align="center"><a href="https://wwe.example.com"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+!-->
 
 **Logo process**
 
@@ -4847,7 +4868,8 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ ClosedAI`](https://github.com/seanpm2001/ClosedAI/) | [:octocat: `🌐️ ReverseFallacy`](https://github.com/seanpm2001/ReverseFallacy/) | [:octocat: `🌐️ Booty`](https://github.com/seanpm2001/Booty/) | [:octocat: `🌐️ Saltine Cracker Award`](https://github.com/seanpm2001/Saltine-Cracker-Award/) | [:octocat: `🌐️ OpenGovOS`](https://github.com/seanpm2001/OpenGovOS/) | [:octocat: `🌐️ Go!gle`](https//github.com/seanpm2001/Go-ogle/) |
 | [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | [:octocat: `🌐️ MyAI`](https://github.com/seanpm2001/MyAI/) | [:octocat: `🌐️ Ring Toss`](https://github.com/seanpm2001/Ring-Toss/) | [:octocat: `SoftMicro`](https://github.com/seanpm2001/SoftMicro/) | [:octocat: `🌐️ Google Israel`](https://github.com/seanpm2001/Google_Israel/) |
 | [:octocat: `🌐️ Flag Simulator`](https://github.com/seanpm2001/Flag-Simulator/) | [:octocat: `🌐️ Gurgle`](https://github.com/seanpm2001/Gurgle/) | [:octocat: `🌐️ CrowdPoll`](https://github.com/seanpm2001/CrowdPoll/) | [:octocat: `🌐️ The Empties`](https://github.com/seanpm2001/The-Empties/) | [:octocat: `🌐️ LifeMill`](https://github.com/seanpm2001/LifeMill/) | [:octocat: `🌐️ Crime City Rewritten`](https://github.com/seanpm2001/Crime-City-Rewritten/) |
-| [:octocat: `🌐️ Castle of Humanity`](https://github.com/seanpm2001/Castle-of-humanity/) | [:octocat: `Colonel Panic`](https://github.com/seanpm2001/Colonel-Panic/) | **Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ |
+| [:octocat: `🌐️ Castle of Humanity`](https://github.com/seanpm2001/Castle-of-humanity/) | [:octocat: `🌐️ Colonel Panic`](https://github.com/seanpm2001/Colonel-Panic/) | [:octocat: `🌐️ Seanpm2001 Platform`](https://github.com/seanpm2001/Seanpm2001-Platform/) | [:octocat: `🌐️ SeanWallaWalla Platform`](https://github.com/seanpm2001/SeanWallaWalla-Platform/) | [:octocat: `🌐️ SeanSpokane2015 Platform`](https://github.com/seanpm2001/SeanSpokane2015-Platform/) | [:octocat: `🌐️ 2001 Platform`](https://github.com/seanpm2001/2001-Platform/) |
+| **ℹ️ Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -4942,6 +4964,132 @@ _End of private projects section._
 </details> <!-- End of core repository list section for the major project: Other Projects section:Table1 !-->
 
 ---
+
+**📄️ Plain text project listing (WIP)**
+
+**Last updated:** `2025, Tuesday, August 12th`
+
+Format: repository name (but not project name) you should be able to add `https://github.com/seanpm2001/` to the beginning of each name, and be taken to the target repository (differentiate between underscores, hyphens, and no spaces/characters in between)
+
+May also include the names of private projects in the future.
+
+```
+Kotlint
+WichCraft
+iStonk
+Economica
+Egg_Org
+OpenTowers
+BGemJam
+The-Offline-Experience
+VLCSV/
+DLLinux
+Kornhub
+Hyper-realistic-farm-simulator
+
+PongMax`](https://github.com/seanpm2001/PongMax/) Boom Bay`](https://github.com/seanpm2001/Boom-Bay/) Mammal Town`](https://github.com/seanpm2001/Mammal_Town/) Pocket Village`](https://github.com/seanpm2001/Pocket-village/) Snowcraft`](https://github.com/seanpm2001/Snowcraft/) Green Star OS`](https://github.com/seanpm2001/Green-Star-OS/) |
+Hatium`](https://github.com/seanpm2001/Hatium/) Windows 10 Python Edition`](https://github.com/seanpm2001/Windows_10_Python_Edition/) Windows Server 2016 Python Edition`](https://github.com/seanpm2001/Windows_server_2016_Python_Edition/) IsraeLinux`](https://github.com/seanpm2001/IsraeLinux/) BitChecker`](https://github.com/seanpm2001/BitChecker/) Phoneticut`](https://github.com/seanpm2001/Phoneticut/) |
+Undigitized`](https://github.com/seanpm2001/Undigitized/) The pirates (copy)`](https://github.com/seanpm2001/The-Pirates-Copy/) ImageVS`](https://github.com/seanpm2001/ImageVS/) ZooTree`](https://github.com/seanpm2001/ZooTree/) Zombie Life Re-Re-animated`](https://github.com/seanpm2001/Zombie-Life-Re-animated/) Motor Universe: Open Factory`](https://github.com/seanpm2001/Motor-Universe-Open-Factory/) |
+FolderArtist`](https://github.com/seanpm2001/FolderArtist/) Favicon Pages`](https://github.com/seanpm2001/Favicon-Pages/) ScriptKidd Toolkit`](https://github.com/seanpm2001/ScriptKidd_ToolKit/) PyNuke128`](https://github.com/seanpm2001/PyNuke128/) Touch Pets Dogs 2 Rewritten`](https://github.com/seanpm2001/TouchPetsDogs2Rewritten/) Tap Pet Hotel Open`](https://github.com/seanpm2001/https://github.com/seanpm2001/TapPetHotelOpen/) |
+Engineer Superdesk`](https://github.com/seanpm2001/Engineer_Superdesk/) CamCamPlus`](https://github.com/seanpm2001/CamCamPlus/) VRedRoom`](https://github.com/seanpm2001/VRedRoom/) 9x Internet`](https://github.com/seanpm2001/9x-Internet/) SimZonns`](https://github.com/seanpm2001/SimZonns/) Code Distancing`](https://github.com/seanpm2001/Code-distancing/) |
+Doorcrete`](https://github.com/seanpm2001/Doorcrete/) Underune Maker`](https://github.com/seanpm2001/Underune_Maker/) Snail Bob Maker`](https://github.com/seanpm2001/Snail-bob-maker/) BluPhone`](https://github.com/seanpm2001/BluPhone/) Blue Dentures`](https://github.com/seanpm2001/Blue_Dentures/) UltraSwitch`](https://github.com/seanpm2001/UltraSwitch/) |
+United Autism Rights Org`](https://github.com/seanpm2001/UnitedAutismRights_Org/) Numeric Liberation Front`](https://github.com/seanpm2001/Numeric-Liberation-Front/) The REAL Data Liberation Front`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front/) Takeout Tuesdays`](https://github.com/seanpm2001/Takeout_Tuesdays/) Frogmania`](https://github.com/seanpm2001/Frog-Mania/) RailRAM Train Collection`](https://github.com/seanpm2001/RailRAM-Train-Collection/) |
+Open Source Security Camera`](https://github.com/seanpm2001/Open-source-security-camera/) Portal Voice Assistant`](https://github.com/seanpm2001/Portal-Voice-Assistant/) StartFsck`](https://github.com/seanpm2001/StartFsck/) Nost Gia OS`](https://github.com/seanpm2001/Nost_Gia_OS/) Nostalgii`](https://github.com/seanpm2001/Nostalgii/) YKDefender`](https://github.com/seanpm2001/YKDefenderVM/) |
+Bosky`](https://github.com/seanpm2001/Bosky/) AdBool`](https://github.com/seanpm2001/AdBool/) Bluecalm theme`](https://github.com/seanpm2001/BlueCalm_Theme/) AudiBass Manager`](https://github.com/seanpm2001/AudiBass_Manager/) Keyoff`](https://github.com/seanpm2001/Keyoff/) iCandy`](https://github.com/seanpm2001/iCandy/) |
+SDE Merry (Carousel)`](https://github.com/seanpm2001/SDE_Merry/) 404 day`](https://github.com/seanpm2001/404Day/) Bad code collection`](https://github.com/seanpm2001/Bad-Code-Collection/) Git attributes collection`](https://github.com/seanpm2001/GitAttributes-Collection/) RecursionBot`](https://github.com/seanpm2001/RecursionBot/) SociaShame`](https://github.com/seanpm2001/SociaShame/) |
+Branch Ranch`](https://github.com/seanpm2001/Branch-Ranch/) Backup Automation Build Bot Y`](https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y/) AUTOMATE-2001`](https://github.com/seanpm2001/AUTOMATE-2001/) Timeout Toolkit`](https://github.com/seanpm2001/TimeoutToolkit/) Desklocker`](https://github.com/seanpm2001/DeskLocker/) Year of the Linux Desktop`](https://github.com/seanpm2001/Year-of-the-Linux-desktop/) |
+LargeNumbers ULIB`](https://github.com/seanpm2001/LargeNumber_ULIB/) HealthMeterMaximum`](https://github.com/seanpm2001/HealthMeterMaximum/) Dentalbar Whitetooth Pro`](https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro/) ChromaTags forGit`](https://github.com/seanpm2001/ChromaTags_ForGit/) Advanced Eye Chart`](https://github.com/seanpm2001/Advanced_Eye_Chart/) UI Tour Guide`](https://github.com/seanpm2001/UI_Tour_Guide/) |
+App Backpack`](https://github.com/seanpm2001/App-backpack/) iBlast`](https://github.com/seanpm2001/iBlast/) FINF-DB`](https://github.com/seanpm2001/FINF-DB/) Reactop`](https://github.com/seanpm2001/Reactop/) LapLight`](https://github.com/seanpm2001/LapLight/) WakeNote`](https://github.com/seanpm2001/WakeNote/) |
+StealthGeo`](https://github.com/seanpm2001/StealthGeo_Font/) Computing Longevity`](https://github.com/seanpm2001/Computing-Longevity/) 3D Webpage Inspector`](https://github.com/seanpm2001/3D-WebPage-Inspector/) PolyGlot`](https://github.com/seanpm2001/PolyGlot/) DeciCube`](https://github.com/seanpm2001/DeciCube/) OVPVMO site`](https://github.com/seanpm2001/OVPVMO-site/) |
+| [`Lightspeed Relay Technologies`](https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/) LANChair`](https://github.com/seanpm2001/LANChair/) UTPM`](https://github.com/seanpm2001/UTPM/) -ibibyte Mathematical Reference`](https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/) GratyBot`](https://github.com/seanpm2001/GratyBot/) BASH.sh`](https://github.com/seanpm2001/BASH.sh/) |
+Gaslight Galactica`](https://github.com/seanpm2001/Gaslight-Galactica/) DCalendar`](https://github.com/seanpm2001/DCalendar/) GoDot Launcher`](https://github.com/seanpm2001/GoDot_Launcher/) GNU Car`](https://github.com/seanpm2001/GNU_Car/) GeniBlock`](https://github.com/seanpm2001/GeniBlock/) FreeGenie`](https://github.com/seanpm2001/FreeGenie/) |
+Halloween Assistant`](https://github.com/seanpm2001/Halloween-Assistant/) Turkey Stories`](https://github.com/seanpm2001/Turkey-Stories/) Santa Software Suite`](https://github.com/seanpm2001/Santa_Software_Suite_Core/) NimbleBit Glossary`](https://github.com/seanpm2001/NimbleBit-Glossary/) Ratiyo`](https://github.com/seanpm2001/Ratiyo/) Profa or Antifa`](https://github.com/seanpm2001/Profa_Or_Antifa/) |
+uDonate`](https://github.com/seanpm2001/uDonate/) 4096`](https://github.com/seanpm2001/4096/) MadLibby`](https://github.com/seanpm2001/MadLibby/) Goodbye World`](https://github.com/seanpm2001/Goodbye-World/) Dronemap`](https://github.com/seanpm2001/DroneMap/) Password Generator Ultimate`](https://github.com/seanpm2001/Password_Generator_Ultimate/) |
+SVG Video`](https://github.com/seanpm2001/SVG_Video/) BluPhoneOS`](https://github.com/seanpm2001/BluPhoneOS/) GK-Keyboard`](https://github.com/seanpm2001/GK-Keyboard/) Computer cursor tech support`](https://github.com/seanpm2001/Computer-cursor-tech-support/) Self Replicating Machine Research`](https://github.com/seanpm2001/Self-replicating-machine-research/) Snapshot Version Control System`](https://github.com/seanpm2001/Snapshot-version-control-system/) |
+The Dystopian Dictionary`](https://github.com/seanpm2001/The-Dystopian-Dictionary/) Git-image`](https://github.com/seanpm2001/Git-image/) TuxBot Operating System`](https://github.com/seanpm2001/TuxBot-OperatingSystem/) OS Census`](https://github.com/seanpm2001/OS_Census/) Senior Design`](https://github.com/seanpm2001/Senior_Design/) IGNORE file`](https://github.com/seanpm2001/IGNORE_File/) |
+Boilerplate Cabinet`](https://github.com/seanpm2001/Boilerplate-cabinet/) NexxFetch`](https://github.com/seanpm2001/NexxFetch/) Count Mausoleum`](https://github.com/seanpm2001/CountMausoleum/) Project1001`](https://github.com/seanpm2001/Project_1001/) Fortran fortress`](https://github.com/seanpm2001/Fortran-fortress/) Input Police`](https://github.com/seanpm2001/Input-police/) |
+README Desktop LIBrary`](https://github.com/seanpm2001/README-Desktop-LIBrary/) ShareBox LIBrary`](https://github.com/seanpm2001/ShareBoxLIBrary/) Easy-E IDE`](https://github.com/seanpm2001/Easy-E-IDE/) Zag`](https://github.com/seanpm2001/Zag/) The Bandwidth Band`](https://github.com/seanpm2001/The_Bandwidth_Band/) Camera Privacy Specification`](https://github.com/seanpm2001/Camera-privacy-specification/) |
+ARCHIVE My robot friend`](https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend/) Setup-Go2004-GitHubAction`](https://github.com/seanpm2001/Setup-Go2004-GitHubAction/) Vim Autoscroller`](https://github.com/seanpm2001/Vim-Autoscroller/) Kommunism`](https://github.com/seanpm2001/Kommunism/) SlideXMagic`](https://github.com/seanpm2001/SlideXMagic/) AcroSlideX LIBrary`](https://github.com/seanpm2001/AcroSlideXLIBrary/) |
+r/seanpm2001`](https://github.com/seanpm2001/r-seanpm2001/) Scarlet Oven`](https://github.com/seanpm2001/Scarlet-Oven/) API-2001`](https://github.com/seanpm2001/API-2001/) HerdSpeak`](https://github.com/seanpm2001/HerdSpeak/) The Graeyt Macro`](https://github.com/seanpm2001/The-Graeyt-Macro/) MalNotch`](https://github.com/seanpm2001/MalNotch/) |
+FloweredNotch`](https://github.com/seanpm2001/FloweredNotch/) Notchware`](https://github.com/seanpm2001/Notchware/) DIFFicult`](https://github.com/seanpm2001/DIFFicult/) VirtualBox Plus Plus`](https://github.com/seanpm2001/VirtualBox_PlusPlus/) Firefox Version Number Fix`](https://github.com/seanpm2001/Firefox-version-number-fix/) TclTorture`](https://github.com/seanpm2001/TclTorture/) |
+FireDiamondSuite`](https://github.com/seanpm2001/FireDiamondSuite/) SmartZIP`](https://github.com/seanpm2001/SmartZIP/) ls.txt`](https://github.com/seanpm2001/ls.txt/) CMilk`](https://github.com/seanpm2001/CMilk/) Java the Hutt`](https://github.com/seanpm2001/Java_The_Hutt/) AZWS Encryption`](https://github.com/seanpm2001/AZWS_Encryption/) |
+OpenGovernment`](https://github.com/seanpm2001/OpenGov/) Sbubbway Generator`](https://github.com/seanpm2001/Sbubbway-generator/) Pen People`](https://github.com/seanpm2001/Pen-People/) Polyworks SquareOff`](https://github.com/seanpm2001/Polyworks-SquareOff/) Petland`](https://github.com/seanpm2001/PetLand-Software/) Oh Hi Markdown`](https://github.com/seanpm2001/Oh_Hi_MarkDown/) |
+SearchKX`](https://github.com/seanpm2001/SearchKX/) Rasple`](https://github.com/seanpm2001/Rasple/) BerryBoot`](https://github.com/seanpm2001/BerryBoot/) Fedorable`](https://github.com/seanpm2001/Fedorable/) iWill`](https://github.com/seanpm2001/iWill/) OpenPassport`](https://github.com/seanpm2001/OpenPassport/) |
+Outside`](https://github.com/seanpm2001/Outside/) Domainiac`](https://github.com/seanpm2001/Domainiac/) Er`](https://github.com/seanpm2001/Er/) AutoPeer`](https://github.com/seanpm2001/AutoPeer/) WarmWelcome`](https://github.com/seanpm2001/WarmWelcome/) Sugar Shop`](https://github.com/seanpm2001/Sugar_Shop/)  |
+HyperSlice`](https://github.com/seanpm2001/HyperSlice/) 3FakeIM`](https://github.com/seanpm2001/3FakeIM/) WYII`](https://github.com/seanpm2001/WYII/) Twit-Tac-Toe`](https://github.com/seanpm2001/Twit-Tac-Toe/) Mockerfile`](https://github.com/seanpm2001/Mockerfile/) Techlaration`](https://github.com/seanpm2001/Techlaration/) |
+TrueTorrent`](https://github.com/seanpm2001/TrueTorrent/) Slaveworks`](https://github.com/seanpm2001/SlaveWorks/) SWave Starter`](https://github.com/seanpm2001/SWave_Starter/) MarkDownDownDown`](https://github.com/seanpm2001/MarkDownDownDown/) KeyStroke`](https://github.com/seanpm2001/KeyStroke/) Perl Harbor`](https://github.com/seanpm2001/Perl_Harbor/) |
+PYVM`](https://github.com/seanpm2001/PYVM/) Pri-Fiy`](https://github.com/seanpm2001/Pri-Fiy/) NetM`](https://github.com/seanpm2001/NetM/) VOI Manor`](https://github.com/seanpm2001/VOI-Manor/) Stock Elevator LIBrary`](https://github.com/seanpm2001/Stock-Elevator-LIBrary/) ChargeFX`](https://github.com/seanpm2001/ChargeFX/) |
+Virtual VHS`](https://github.com/seanpm2001/Virtual-VHS/) Rick`](https://github.com/seanpm2001/Rick/) Cottontree LIBrary`](https://github.com/seanpm2001/CottonTree-LIBrary/) SeansOSData`](https://github.com/seanpm2001/SeansOSData/) Mobile Potions`](https://github.com/seanpm2001/Mobile_Potions/) MicroMiniwave`](https://github.com/seanpm2001/-microMiniwave/) |
+PhoneHome`](https://github.com/seanpm2001/PhoneHome/) SafeT`](https://github.com/seanpm2001/SafeT/) TrueCalm`](https://github.com/seanpm2001/TrueCalm/) Team8 Collection`](https://github.com/seanpm2001/Team8_Collection/) CrossCompatXU`](https://github.com/seanpm2001/CrossCompatXU/) CH3-c-K`](https://github.com/seanpm2001/CH3-c-K/) |
+ScreenTeX`](https://github.com/seanpm2001/ScreenTeX/) LinkLax`](https://github.com/seanpm2001/LinkLax/) 3DE`](https://github.com/seanpm2001/3DE/) V7Tags`](https://github.com/seanpm2001/V7Tags/) SourceBase`](https://github.com/seanpm2001/SourceBase/) Browsniffica`](https://github.com/seanpm2001/Browsniffica/) |
+Talla Browser`](https://github.com/seanpm2001/Talla-Browser/) GitHubby`](https://github.com/seanpm2001/GitHubby/) NimbleBook`](https://github.com/seanpm2001/NimbleBook/) NimbleByte`](https://github.com/seanpm2001/NimbleByte/) TrueEEG`](https://github.com/seanpm2001/TrueEEG/) UShortcut Pro`](https://github.com/seanpm2001/UShortcut_Pro/) |
+
+Ultra-Image-Studio
+OuterVM
+V-ReShot
+DOS-Buddy
+VirtualHome
+FBI_RoleplaySimulator
+LinFsck
+Kevin-MacLeod_SoftwareRadioLIBrary
+Linux-Marketshare-Ping-Tool
+PVZ_Custom
+Internet-Explorer6-Flavored-Markdown
+Cyborg-System-Monitor
+Unblur-tool
+UnSaaSS
+UnIoT
+2001-Project
+ChaccaronMaccaronType
+Public-Media-Gallery
+MemeMachine-2019
+JScribe
+UltraSwitch
+RegAggregate
+SafeWINE
+WinWalla
+SDE_MobileServer
+HT-Messenger
+GitMan
+Nuclear-Ad-Bombs-Specification
+Delerium
+B3
+Seanpm2001-DRM-Blocklist
+George-P-Floyd-Memorial
+Seanpm2001_WorldDB
+Tone-Indicator-Standard
+GitHex
+World-Census-Project
+Its
+vCoin
+Pikeheader
+DALL-E_LLaMA
+Open-Media-Rating-System
+Monty.py
+ClosedAI
+ReverseFallacy
+Booty
+Saltine-Cracker-Award
+OpenGovOS
+UniFile/Everyfile
+LSD-PaChase
+MyAI
+Ring-Toss
+SoftMicro
+Google-Israel
+Flag-Simulator
+Gurgle
+CrowdPoll
+The-Empties
+LifeMill
+Crime-City-Rewritten
+Castle-of-Humanity
+Colonel-Panic
+Seanpm2001-Platform
+SeanWallaWalla-Platform
+SeanSpokane2015-Platform
+SeanWallaWalla-Platform
+```
 
 </details> <!-- End of core repository list section for the major project: Other Projects section:All !-->
 
@@ -5126,12 +5274,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `188 (2025, Friday, July 18th at 07:34 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `6,217` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `049,566` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `367,741` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `327,400` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `374,067` <!-- TODO: This line should be updated daily !-->
+- **File version:** `189 (2025, Tuesday, August 12th at 07:35 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `6,390` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `051,886` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `385,952` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `344,699` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `392,356` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6160,6 +6308,31 @@ Versions 139 and below are not documented here, as they were solely part of the 
 
 </details> <!-- End of file history: V188 !-->
 
+---
+
+## Version 189 (2025, Tuesday, August 12th at 07:35 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 189</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for the newly created Seanpm2001 Platform, SeanWallaWalla Platform, SeanSpokane2015, and 2001 Platform projects from today. It also cleans up formatting a little, and adds a section containing a plain text list of the names of all of my projects.._
+
+> Changes:
+
+- [x] Updated the `Other projects` HTML5 table
+- - [x] No new logos were added today
+- - [x] 4 new projects added
+- [x] Updated the `Other projects` Markdown table
+- - [x] 4 new projects added
+- [x] Added the `Plain text project listing` section
+- [x] Updated the `File info` section
+- [x] Added the `File history` section
+- - [x] Added an entry for version 189
+- [x] Added the `Footer` section
+- [ ] No other changes in version 189
+
+</details> <!-- End of file history: V189 !-->
 ---
 
 _End of file history section._
