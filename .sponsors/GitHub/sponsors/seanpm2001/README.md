@@ -3,13 +3,13 @@
 
 # Sponsor Seanpm2001
 
-<img src="/Graphics/Sponsors/GitHub/Logos/GitHubSponsorImage_Mona.png" alt="GitHub sponsor image failed to load" title="GitHub sponsor image" width="304" height="386">
+<img src="/Graphics/Sponsors/GitHub/Logos/GitHubSponsorImage_Mona2.png" alt="GitHub sponsor image failed to load" title="GitHub sponsor image" width="300" height="300">
 
 > **The main content is located at [`/dashboard/`](/.sponsors/GitHub/sponsors/seanpm2001/dashboard/)**
 
-I signed up for the GitHub sponsors program on 2025, August 9th. I am currently awaiting approval.
+I signed up for the GitHub sponsors program on 2025, Saturday, August 9th. I was approved on 2025, Tuesday, August 12th at 04:20 pm PST.
 
-I have lacked a proper method of receiving donations for years now, and now I finally have one in the process of being established.
+I have lacked a proper method of receiving donations for years now, and now I finally have one established.
 
 The setup process faced some challenges, such as not being able to choose certain repositories to pin (they apparently need 5 or more stars to be capable of being pinned, due to how many repositories I have that have 5 stars or more) furthermore, I tried to add some new repositories to the pins of my regular profile, but couldn't do so through search, or the pin button itself. I could not pin the following repositories on either the sponsors profile, or my main GitHub profile:
 
@@ -31,10 +31,12 @@ The setup process faced some challenges, such as not being able to choose certai
 
 - [:octocat: `Sponsors repository`](https://github.com/seanpm2001/Sponsors/)
 
+<img src="/Graphics/Sponsors/GitHub/Logos/GitHubSponsorImage_Mona.png" alt="GitHub sponsor image failed to load" title="GitHub sponsor image" width="304" height="386">
+
 ***
 
 # File info
 
-**File version:** `2 (2025, Sunday, August 10th at 08:24 pm PST)`
+**File version:** `3 (2025, Tuesday, August 12th at 07:28 pm PST)`
 
 ***
