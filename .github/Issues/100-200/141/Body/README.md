@@ -1,0 +1,1 @@
+My new sponsors profile was approved today (2025, Tuesday, August 12th at 4:20 pm PST) but it has not yet been mentioned in the README. A new `/.sponsors/` directory needs to be mentioned alongside this.
