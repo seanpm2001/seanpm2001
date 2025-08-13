@@ -1,0 +1,1 @@
+When originally setting up my sponsors profile, I stopped after adding 3 one-time donation tiers, and so far have not gone back and added the last 7 that can be created. I will need to get to this when I have the time.
