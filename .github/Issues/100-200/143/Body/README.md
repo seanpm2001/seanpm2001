@@ -1,0 +1,1 @@
+Currently, my sponsor tiers have poor descriptions. More incentives need to be listed. This is hard to do, due to the 750 character limit per tier. I plan on getting to this after I finish creating one-time donation tiers.
