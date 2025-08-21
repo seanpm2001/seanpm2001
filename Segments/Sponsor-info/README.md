@@ -1,6 +1,4 @@
 
-***
-
 ### [💸️ Sponsor info](#-Sponsor-info)
 
 <details><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
@@ -18,6 +16,12 @@ You can sponsor this project if you like, but please specify what you want to do
 You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
 
 Try it out! The sponsor button is right up next to the watch/unwatch button.
+
+I signed up for the GitHub sponsors program on 2025, August 9th, and was approved on 2025, August 12th. I have temporarily cut other donation methods in favor of GitHub Sponsors, although cryptocurrency is still supported. My sponsor profile can be viewed [:octocat: `here`](https://github.com/sponsors/seanpm2001/)
+
+See also: [`Sponsors dashboard (Git version) (/.sponsors/GitHub/sponsors/seanpm2001/)`](/.sponsors/GitHub/sponsors/seanpm2001/)
+
+Also see: [:octocat: `BitCoin`](https://github.com/seanpm2001/BitCoin/)
 
 > Supported types:
 
@@ -56,27 +60,3 @@ custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 # Line count (including blank lines and compiler line): 22
 # End of script
 ```
-
-***
-
-<details><summary><p><b>[Click/tap here to expand/collapse the Otechie support]</b></p></summary>
-
-#### [🧿️ Otechie support](#-Otechie-support)
-
-GitHub initially offered Otechie as a supported option for sponsors. It was removed on 2024, March 7th. I never used it, as it costs money to use.
-
-| <img src="/Graphics/Sponsors/Otechie-gone/Before/Otechie-last-moment.png" alt="Otechie (last moment) failed to load" title="Last photo of Otechie support on my profile" width="265" height="352"> | <img src="/Graphics/Sponsors/Otechie-gone/After/Otechie-gone.png" alt="Otechie (gone) failed to load" title="First photo of lack of Otechie support on my profile" width="556" height="854"> |
-|---|---|
-| 🧿️ Before | After 🧿️ |
-
-</details> <!-- End of sponsor info:Otechie support section !-->
-
-***
-
-_End of Sponsor Info section._
-
-View this segment [`in a separate file`](/Segments/Sponsor-info/README.md)
-
-</details> <!-- End of sponsor info section !-->
-
-***
