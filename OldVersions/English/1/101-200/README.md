@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2025-08-08"
-      - version: "v146"
+      - date: "2025-08-20"
+      - version: "v147"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -275,6 +275,20 @@ _End of Résumé section._
 - [`View this section separately`](/Segments/Resume/README.md)
 
 </details> <!-- End of Résumé section !-->
+
+***
+
+## [🏖️ Vacation log](#-Vacation-log)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| Date range | Description |
+|------------|-------------|
+| 2025.08.29 - 2025.08.31 | I will be on vacation at Cannon Beach for a few days, and won't be doing as much work. Most work has been paused during this time. I still have to maintain a small amount of commits per day, in order to keep my streak going. |
+
+_End of vacation log section._
+
+- [`View this section separately`](/Segments/Vacation-log/README.md)
 
 ***
 
@@ -2275,6 +2289,12 @@ You can sponsor this project if you like, but please specify what you want to do
 You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
 
 Try it out! The sponsor button is right up next to the watch/unwatch button.
+
+I signed up for the GitHub sponsors program on 2025, August 9th, and was approved on 2025, August 12th. I have temporarily cut other donation methods in favor of GitHub Sponsors, although cryptocurrency is still supported. My sponsor profile can be viewed [:octocat: `here`](https://github.com/sponsors/seanpm2001/)
+
+See also: [`Sponsors dashboard (Git version) (/.sponsors/GitHub/sponsors/seanpm2001/)`](/.sponsors/GitHub/sponsors/seanpm2001/)
+
+Also see: [:octocat: `BitCoin`](https://github.com/seanpm2001/BitCoin/)
 
 > Supported types:
 
@@ -5642,11 +5662,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `146 (2025, Friday, August 8th at 10:41 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,753`
-- **Word count:** `065,464`
-- **Character count (with spaces):** `0,447,812 characters`
-- **Character count (without spaces)** `0,389,991 characters`
+- **File version:** `147 (2025, Wednesday, August 20th at 07:08 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,784`
+- **Word count:** `065,697`
+- **Character count (with spaces):** `0,449,338 characters`
+- **Character count (without spaces)** `0,391,293 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7139,11 +7159,18 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 147 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 147 (2025, Wednesday, August 20th at 07:08 pm PST)</b></summary>
+
+> **Note:** _This is the sixth update of the year 2025, and adds information about an upcoming vacation, and sponsors._
 
 > Changes:
 
-- [ ] Coming soon
+- [x] Updated the GitHub YAML FrontMatter segment
+- [x] Added the `Vacation log` segment
+- [x] Updated the `Sponsor info` segment
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 147
 - [ ] No other changes in version 147
 
 </details> <!-- End of V147 !-->
@@ -8750,3 +8777,7 @@ You have reached the end of this page.
 <!-- *** !-->
 
 <img src="/Graphics/Dividers/PNG/Parque-3-Divider_2500x250_V1_HighCompression.png" alt="Parque3 divider" width="2500" height="25">
+
+<!-- TODO Wishlist
+Get some Mermaid elements on this profile
+!-->
