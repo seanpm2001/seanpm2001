@@ -4920,8 +4920,8 @@ _End of public projects macrosection._
     <td align="center"><p>Section P2#3</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (DNY)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (O8)</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>No other private projects to list yet.</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (NPOS)</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ No other private projects to list yet.</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
@@ -4946,7 +4946,7 @@ _End of public projects macrosection._
 |---|---|---|---|---|---|
 | [:octocat: `🔒️ Private (CU)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FaTT)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (FFDRY)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (G---2001)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (N2O)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NG2001)`](https://github.com/seanpm2001/Redacted/) |
 | [:octocat: `🔒️ Private (W1)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (W2)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (ZS)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NNA)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (MGV)`](https://github.com/seanpm2001/Redacted/) [:octocat: `🔒️ Private (MMS)`](https://github.com/seanpm2001/Redacted/) | |
-| [:octocat: `🔒️ Private (DNY)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (O8)`](https://github.com/seanpm2001/Redacted/)  | **No other projects to list yet** | ⭕️ | ⭕️ | ⭕️ |
+| [:octocat: `🔒️ Private (DNY)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (O8)`](https://github.com/seanpm2001/Redacted/) | [:octocat: `🔒️ Private (NPOS)`](https://github.com/seanpm2001/Redacted/) | **No other projects to list yet** | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled private project table !-->
@@ -4971,7 +4971,7 @@ _End of private projects section._
 
 - **Project count:** `294` (**as of:** `2025, Wednesday, August 13th`)
 - **Format:** repository name (but not project name) you should be able to add `https://github.com/seanpm2001/` to the beginning of each name, and be taken to the target repository (differentiate between underscores, hyphens, and no spaces/characters in between)
-- **Note:** May also include the names of private projects in the future.
+- **Note:** May also include the actual names of private projects in the future.
 
 ```diff
 Kotlint
@@ -5268,6 +5268,22 @@ SeanWallaWalla-Platform
 SeanSpokane2015-Platform
 SeanWallaWalla-Platform
 Zephirs_Domain
+---
+CU
+FaTT
+FFDRY
+G---2001
+N2O
+NG2001
+W1
+W2
+ZS
+NNA
+MGV
+MMS
+DNY
+O8
+NPOS
 ```
 
 </details> <!-- End of core repository list section for the major project: Other Projects section:All !-->
@@ -5453,12 +5469,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `190 (2025, Wednesday, August 13th at 08:23 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `6,596` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `050,810` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `376,735` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `335,490` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `383,141` <!-- TODO: This line should be updated daily !-->
+- **File version:** `191 (2025, Wednesday, August 20th at 08:02 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `6,635` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `050,965` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `377,774` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `336,370` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `384,186` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6228,7 +6244,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 177
 - [x] Added the `Footer` section
 - [ ] No other changes in version 177
@@ -6251,7 +6267,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 178
 - [x] Added the `Footer` section
 - [ ] No other changes in version 178
@@ -6274,7 +6290,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 179
 - [x] Added the `Footer` section
 - [ ] No other changes in version 179
@@ -6298,7 +6314,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 180
 - [x] Added the `Footer` section
 - [ ] No other changes in version 180
@@ -6321,7 +6337,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 181
 - [x] Added the `Footer` section
 - [ ] No other changes in version 181
@@ -6344,7 +6360,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 182
 - [x] Added the `Footer` section
 - [ ] No other changes in version 182
@@ -6367,7 +6383,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 183
 - [x] Added the `Footer` section
 - [ ] No other changes in version 183
@@ -6390,7 +6406,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 184
 - [x] Added the `Footer` section
 - [ ] No other changes in version 184
@@ -6413,7 +6429,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 185
 - [x] Added the `Footer` section
 - [ ] No other changes in version 185
@@ -6434,7 +6450,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 186
 - [x] Added the `Footer` section
 - [ ] No other changes in version 186
@@ -6457,7 +6473,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 187
 - [x] Added the `Footer` section
 - [ ] No other changes in version 187
@@ -6480,7 +6496,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] A new logo was added
 - [x] Updated the `Other projects` Markdown table
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 188
 - [x] Added the `Footer` section
 - [ ] No other changes in version 188
@@ -6506,7 +6522,7 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] 4 new projects added
 - [x] Added the `Plain text project listing` section
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 189
 - [x] Added the `Footer` section
 - [ ] No other changes in version 189
@@ -6532,12 +6548,35 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - - [x] 1 new project added
 - [x] Added the `Plain text project listing` section
 - [x] Updated the `File info` section
-- [x] Added the `File history` section
+- [x] Updated the `File history` section
 - - [x] Added an entry for version 190
 - [x] Added the `Footer` section
 - [ ] No other changes in version 190
 
 </details> <!-- End of file history: V190 !-->
+
+---
+
+## Version 191 (2025, Wednesday, August 20th at 08:02 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 191</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for a newly created private project, along with an improvement to the plain text listing of projects._
+
+> Changes:
+
+- [x] Updated the `Private projects` HTML5 table
+- - [x] 1 new project added
+- [x] Updated the `Private projects` Markdown table
+- [x] Updated the `Plain text project listing` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 191
+- [ ] No other changes in version 191
+
+</details> <!-- End of file history: V191 !-->
 
 ---
 
