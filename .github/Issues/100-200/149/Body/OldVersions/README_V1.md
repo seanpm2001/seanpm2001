@@ -1,0 +1,1 @@
+There is an error with row 2 on the Markdown table containing my private projects, where data from columns E and F are both located in column E. This is an easy fix, hopefully I will remember to fix this next time I update the segment file: `What I'm currently working on`
