@@ -1,6 +1,3 @@
-| **🔒️ Private projects** |
-|---|
-
 <table>
   <!-- Row B1 !-->
   <!-- Number 1 !-->
@@ -31,8 +28,8 @@
     <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (DNY)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (O8)</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (NPOS)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Redacted/"><img src="/Graphics/Projects/Placeholder/LOCK.svg" width="100px;" alt=""/><br /><sub><b>🔒️ Private (OUIF)</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ No other private projects to list yet.</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
   <!-- Row B4 !-->
