@@ -1,0 +1,1 @@
+Today, there was something I needed to correct on the README, so while I was at it, I went and removed the remaining excess from the 4 year anniversary update. **Issue number #148 has been resolved with README version 148.** I left behind a little bit, but only parts that seemed necessary (as it was deeply connected to other relevant sections) This issue is now closed.
