@@ -565,8 +565,8 @@
   <tr>
     <td align="center"><p>Section P2#52</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Zephirs_Domain/"><img src="/Graphics/My-projects/Logos/Z/Zephirs-Domain/ZEPHIR-1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Zephirs Domain</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/The-Florida-Trail/"><img src="/Graphics/My-projects/Logos/T/The-Florida-Trail/The-Florida-Trail_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ The Florida Trail</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
