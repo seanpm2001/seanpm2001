@@ -555,10 +555,10 @@
     <td align="center"><p>Section P2#51</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Castle-of-humanity/"><img src="/Graphics/My-projects/Logos/C/Castle-of-Humanity/Castle1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Castle of Humanity</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Colonel-Panic/"><img src="/Graphics/My-projects/Logos/C/Colonel-Panic/Colonel_Kernel_Panic_Tux_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Colonel Panic</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 Platform</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SeanWallaWalla-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanWallaWalla Platform</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SeanSpokane2015-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanSpokane2015 Platform</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/2001-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SeanWallaWalla-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanWallaWalla Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SeanSpokane2015-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanSpokane2015 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/2001-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 Platform</b></sub></a></td>
   </tr>
   <!-- Row A52 !-->
   <!-- Number 52 !-->
@@ -566,8 +566,8 @@
     <td align="center"><p>Section P2#52</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Zephirs_Domain/"><img src="/Graphics/My-projects/Logos/Z/Zephirs-Domain/ZEPHIR-1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Zephirs Domain</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/The-Florida-Trail/"><img src="/Graphics/My-projects/Logos/T/The-Florida-Trail/The-Florida-Trail_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ The Florida Trail</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Kernel-Panic-Simulator/"><img src="/Graphics/My-projects/Logos/K/Kernel-Panic-Simulator/Kernel-Panic-Simulator_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kernel Panic Simulator</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
