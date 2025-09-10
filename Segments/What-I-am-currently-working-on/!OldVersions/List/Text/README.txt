@@ -293,6 +293,7 @@ SeanSpokane2015-Platform
 SeanWallaWalla-Platform
 Zephirs_Domain
 The-Florida-Trail
+Kernel-Panic-Simulator
 ---
 CU
 FaTT
