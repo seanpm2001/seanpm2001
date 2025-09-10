@@ -4156,10 +4156,10 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><p>Section P2#51</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Castle-of-humanity/"><img src="/Graphics/My-projects/Logos/C/Castle-of-Humanity/Castle1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Castle of Humanity</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Colonel-Panic/"><img src="/Graphics/My-projects/Logos/C/Colonel-Panic/Colonel_Kernel_Panic_Tux_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Colonel Panic</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 Platform</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SeanWallaWalla-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanWallaWalla Platform</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/SeanSpokane2015-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanSpokane2015 Platform</b></sub></a></td>
-    <td align="center"><a href="https://github.com/seanpm2001/2001-Platform"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Seanpm2001-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ Seanpm2001 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SeanWallaWalla-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanWallaWalla Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/SeanSpokane2015-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ SeanSpokane2015 Platform</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/2001-Platform"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>🌐️ 2001 Platform</b></sub></a></td>
   </tr>
   <!-- Row A52 !-->
   <!-- Number 52 !-->
@@ -4167,8 +4167,8 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><p>Section P2#52</p></td>
     <td align="center"><a href="https://github.com/seanpm2001/Zephirs_Domain/"><img src="/Graphics/My-projects/Logos/Z/Zephirs-Domain/ZEPHIR-1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Zephirs Domain</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/The-Florida-Trail/"><img src="/Graphics/My-projects/Logos/T/The-Florida-Trail/The-Florida-Trail_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ The Florida Trail</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Kernel-Panic-Simulator/"><img src="/Graphics/My-projects/Logos/K/Kernel-Panic-Simulator/Kernel-Panic-Simulator_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kernel Panic Simulator</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
@@ -4869,7 +4869,7 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | [:octocat: `🌐️ MyAI`](https://github.com/seanpm2001/MyAI/) | [:octocat: `🌐️ Ring Toss`](https://github.com/seanpm2001/Ring-Toss/) | [:octocat: `SoftMicro`](https://github.com/seanpm2001/SoftMicro/) | [:octocat: `🌐️ Google Israel`](https://github.com/seanpm2001/Google_Israel/) |
 | [:octocat: `🌐️ Flag Simulator`](https://github.com/seanpm2001/Flag-Simulator/) | [:octocat: `🌐️ Gurgle`](https://github.com/seanpm2001/Gurgle/) | [:octocat: `🌐️ CrowdPoll`](https://github.com/seanpm2001/CrowdPoll/) | [:octocat: `🌐️ The Empties`](https://github.com/seanpm2001/The-Empties/) | [:octocat: `🌐️ LifeMill`](https://github.com/seanpm2001/LifeMill/) | [:octocat: `🌐️ Crime City Rewritten`](https://github.com/seanpm2001/Crime-City-Rewritten/) |
 | [:octocat: `🌐️ Castle of Humanity`](https://github.com/seanpm2001/Castle-of-humanity/) | [:octocat: `🌐️ Colonel Panic`](https://github.com/seanpm2001/Colonel-Panic/) | [:octocat: `🌐️ Seanpm2001 Platform`](https://github.com/seanpm2001/Seanpm2001-Platform/) | [:octocat: `🌐️ SeanWallaWalla Platform`](https://github.com/seanpm2001/SeanWallaWalla-Platform/) | [:octocat: `🌐️ SeanSpokane2015 Platform`](https://github.com/seanpm2001/SeanSpokane2015-Platform/) | [:octocat: `🌐️ 2001 Platform`](https://github.com/seanpm2001/2001-Platform/) |
-| [:octocat: `🌐️ Zephirs Domain`](https://github.com/seanpm2001/Zephirs_Domain/) | [:octocat: `🌐️ The Florida Trail`](https://github.com/seanpm2001/The-Florida-Trail/) | **ℹ️ Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ |
+| [:octocat: `🌐️ Zephirs Domain`](https://github.com/seanpm2001/Zephirs_Domain/) | [:octocat: `🌐️ The Florida Trail`](https://github.com/seanpm2001/The-Florida-Trail/) | [:octocat: `🌐️ Kernel Panic Simulator`](https://github.com/seanpm2001/Kernel-Panic-Simulator/) | **ℹ️ Some other projects aren't listed yet** | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -4967,12 +4967,12 @@ _End of private projects section._
 
 **📄️ Plain text project listing**
 
-> **Last updated:** `2025, Monday, September 8th` (**File version:** `V193`)
+> **Last updated:** `2025, Tuesday, September 9th` (**File version:** `V194`)
 
-- **Project count:** `311` (**as of:** `2025, Monday, September 8th`)
-- - **`🌐️` Public projects:** `295`
+- **Project count:** `312` (**as of:** `2025, Tuesday, September 9th`)
+- - **`🌐️` Public projects:** `296`
 - - **`🔒️` Private projects:** `16`
-- - **`⚖️` Ratio:** `94.85% public, 5.15% private`
+- - **`⚖️` Ratio:** `94.87% public, 5.13% private`
 - **Format:** repository name (but not project name) you should be able to add `https://github.com/seanpm2001/` to the beginning of each name, and be taken to the target repository (differentiate between underscores, hyphens, and no spaces/characters in between)
 - **Note:** May also include the actual names of private projects in the future.
 
@@ -5272,6 +5272,7 @@ SeanSpokane2015-Platform
 SeanWallaWalla-Platform
 Zephirs_Domain
 The-Florida-Trail
+Kernel-Panic-Simulator
 ---
 CU
 FaTT
@@ -5474,12 +5475,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `193 (2025, Monday, September 8th at 06:27 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `6,686` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `051,272` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `379,848` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `338,136` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `386,282` <!-- TODO: This line should be updated daily !-->
+- **File version:** `194 (2025, Tuesday, September 9th at 08:46 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `6,708` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `051,455` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `381,157` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `339,311` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `387,593` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6620,7 +6621,6 @@ Versions 139 and below are not documented here, as they were solely part of the 
 
 - [x] Updated the `Private projects` HTML5 table
 - - [x] 1 new project added
-- [x] Updated the `Private projects` Markdown table
 - [x] Updated the `Plain text project listing` section
 - [x] Updated the `File info` section
 - [x] Updated the `File history` section
@@ -6628,6 +6628,28 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 193
 
 </details> <!-- End of file history: V193 !-->
+
+---
+
+## Version 194 (2025, Tuesday, September 9th at 08:46 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 194</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for the newly created Kernel Panic Simulator project, and also adds a placeholder image for projecs that don't have a logo yet.._
+
+> Changes:
+
+- [x] Updated the `Private projects` HTML5 table
+- - [x] 1 new project added
+- [x] Updated the `Plain text project listing` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 194
+- [ ] No other changes in version 194
+
+</details> <!-- End of file history: V194 !-->
 
 ---
 
