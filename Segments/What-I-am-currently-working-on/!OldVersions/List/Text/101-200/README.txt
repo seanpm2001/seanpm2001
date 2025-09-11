@@ -294,6 +294,7 @@ SeanWallaWalla-Platform
 Zephirs_Domain
 The-Florida-Trail
 Kernel-Panic-Simulator
+Portable-Progress-Bar
 ---
 CU
 FaTT
