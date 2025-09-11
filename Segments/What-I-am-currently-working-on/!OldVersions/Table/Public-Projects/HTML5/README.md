@@ -567,8 +567,8 @@
     <td align="center"><a href="https://github.com/seanpm2001/Zephirs_Domain/"><img src="/Graphics/My-projects/Logos/Z/Zephirs-Domain/ZEPHIR-1.png" width="100px;" alt=""/><br /><sub><b>🌐️ Zephirs Domain</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/The-Florida-Trail/"><img src="/Graphics/My-projects/Logos/T/The-Florida-Trail/The-Florida-Trail_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ The Florida Trail</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Kernel-Panic-Simulator/"><img src="/Graphics/My-projects/Logos/K/Kernel-Panic-Simulator/Kernel-Panic-Simulator_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kernel Panic Simulator</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/My-projects/Logos/P/Portable-Progress-Bar/Portale-Progress-Bar_Icon_1024px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Portable Progress Bar</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
   </tr>
   <!-- Row A53 !-->
