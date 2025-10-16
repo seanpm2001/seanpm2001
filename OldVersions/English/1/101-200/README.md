@@ -2,7 +2,7 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2025-08-22"
+      - date: "2025-10-16"
       - version: "v148"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
@@ -284,7 +284,8 @@ _End of Résumé section._
 
 | Date range | Description |
 |------------|-------------|
-| 🆕️ 2025.08.29 - 2025.09.01 | I will be on vacation at Cannon Beach for a few days, and won't be doing as much work. Most work has been paused during this time. I still have to maintain a small amount of commits per day, in order to keep my streak going. (UPDATE 2025, August 22nd: There was a miscommunication. I am staying 3 nights, NOT 3 days. I will return on 2025, September 1st, and resume normal work 2025, September 2nd) |
+| 🆕️ Next vacation | Next upcoming vacation not yet planned. |
+| ☑️ 2025.08.29 - 2025.09.01 | I will be on vacation at Cannon Beach for a few days, and won't be doing as much work. Most work has been paused during this time. I still have to maintain a small amount of commits per day, in order to keep my streak going. (UPDATE 2025, August 22nd: There was a miscommunication. I am staying 3 nights, NOT 3 days. I will return on 2025, September 1st, and resume normal work 2025, September 2nd) |
 
 _End of vacation log section._
 
@@ -5662,11 +5663,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `148 (2025, Friday, August 22nd at 07:26 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,205`
-- **Word count:** `060,792`
-- **Character count (with spaces):** `0,415,096 characters`
-- **Character count (without spaces)** `0,361,099 characters`
+- **File version:** `149 (2025, Thursday, October 16th at 04:56 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,215`
+- **Word count:** `060,855`
+- **Character count (with spaces):** `0,415,505 characters`
+- **Character count (without spaces)** `0,361,434 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7196,11 +7197,20 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 149 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 149 (2025, Thursday, October 16th at 04:56 pm PST)</b></summary>
 
 > Changes:
 
-- [ ] Coming soon
+
+> **Note:** _This is the eighth update of the year 2025, and adds information regarding my vacation status._
+
+> Changes:
+
+- [x] Updated the GitHub YAML FrontMatter segment
+- [x] Updated the `Vacation log` segment
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 149
 - [ ] No other changes in version 149
 
 </details> <!-- End of V149 !-->
