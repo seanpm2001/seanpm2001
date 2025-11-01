@@ -4170,12 +4170,23 @@ Note to self: Make sure to also check each repository to see if a separate docum
     <td align="center"><a href="https://github.com/seanpm2001/Kernel-Panic-Simulator/"><img src="/Graphics/My-projects/Logos/K/Kernel-Panic-Simulator/Kernel-Panic-Simulator_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Kernel Panic Simulator</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/Portable-Progress-Bar/"><img src="/Graphics/My-projects/Logos/P/Portable-Progress-Bar/Portale-Progress-Bar_Icon_1024px_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ Portable Progress Bar</b></sub></a></td>
     <td align="center"><a href="https://github.com/seanpm2001/OpenAd-Specification/"><img src="/Graphics/My-projects/Logos/O/OpenAd-Specification/OpenAd-Specification_2048pxLogo_V1_HighCompression.png" width="100px;" alt=""/><br /><sub><b>🌐️ OpenAd Specification</b></sub></a></td>
-    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/Satan-Software-Suite/"><img src="/Graphics/My-projects/Logos/S/Satan-Software-Suite/SatanSoftwareSuite_PlaceholderLogo.png" width="100px;" alt=""/><br /><sub><b>🌐️ Satan Software Suite</b></sub></a></td>
   </tr>
   <!-- Row A53 !-->
   <!-- Number 53 !-->
   <tr>
     <td align="center"><p>Section P2#53</p></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Other-projects/Logo/Placeholder/Question_Mark_Icon_-_Blue_Box_withoutQuestionmarkBlur.svg" width="100px;" alt=""/><br /><sub><b>ℹ️ Some other projects not yet listed</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+    <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
+  </tr>
+  <!-- Row A54 !-->
+  <!-- Number 54 !-->
+  <tr>
+    <td align="center"><p>Section P2#54</p></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
     <td align="center"><a href="https://www.example.com/"><img src="/Graphics/Projects/Placeholder/X.svg" width="100px;" alt=""/><br /><sub><b>⭕️</b></sub></a></td>
@@ -4869,7 +4880,8 @@ Create archives of all notable revisions of this table (all versions that change
 | [:octocat: `🌐️ UniFile/Everyfile`](https://github.com/seanpm2001/UniFile/) | [:octocat: `🌐️ LSD PaChase (mod)`](https://github.com/seanpm2001/LSD-PaChase/) | [:octocat: `🌐️ MyAI`](https://github.com/seanpm2001/MyAI/) | [:octocat: `🌐️ Ring Toss`](https://github.com/seanpm2001/Ring-Toss/) | [:octocat: `SoftMicro`](https://github.com/seanpm2001/SoftMicro/) | [:octocat: `🌐️ Google Israel`](https://github.com/seanpm2001/Google_Israel/) |
 | [:octocat: `🌐️ Flag Simulator`](https://github.com/seanpm2001/Flag-Simulator/) | [:octocat: `🌐️ Gurgle`](https://github.com/seanpm2001/Gurgle/) | [:octocat: `🌐️ CrowdPoll`](https://github.com/seanpm2001/CrowdPoll/) | [:octocat: `🌐️ The Empties`](https://github.com/seanpm2001/The-Empties/) | [:octocat: `🌐️ LifeMill`](https://github.com/seanpm2001/LifeMill/) | [:octocat: `🌐️ Crime City Rewritten`](https://github.com/seanpm2001/Crime-City-Rewritten/) |
 | [:octocat: `🌐️ Castle of Humanity`](https://github.com/seanpm2001/Castle-of-humanity/) | [:octocat: `🌐️ Colonel Panic`](https://github.com/seanpm2001/Colonel-Panic/) | [:octocat: `🌐️ Seanpm2001 Platform`](https://github.com/seanpm2001/Seanpm2001-Platform/) | [:octocat: `🌐️ SeanWallaWalla Platform`](https://github.com/seanpm2001/SeanWallaWalla-Platform/) | [:octocat: `🌐️ SeanSpokane2015 Platform`](https://github.com/seanpm2001/SeanSpokane2015-Platform/) | [:octocat: `🌐️ 2001 Platform`](https://github.com/seanpm2001/2001-Platform/) |
-| [:octocat: `🌐️ Zephirs Domain`](https://github.com/seanpm2001/Zephirs_Domain/) | [:octocat: `🌐️ The Florida Trail`](https://github.com/seanpm2001/The-Florida-Trail/) | [:octocat: `🌐️ Kernel Panic Simulator`](https://github.com/seanpm2001/Kernel-Panic-Simulator/) | [:octocat: `🌐️ Portable Progress Bar`](https://github.com/seanpm2001/Portable-Progress-Bar/) | [:octocat: `🌐️ OpenAd Specification`](https://github.com/seanpm2001/OpenAd-Specification/) | **ℹ️ Some other projects aren't listed yet** |
+| [:octocat: `🌐️ Zephirs Domain`](https://github.com/seanpm2001/Zephirs_Domain/) | [:octocat: `🌐️ The Florida Trail`](https://github.com/seanpm2001/The-Florida-Trail/) | [:octocat: `🌐️ Kernel Panic Simulator`](https://github.com/seanpm2001/Kernel-Panic-Simulator/) | [:octocat: `🌐️ Portable Progress Bar`](https://github.com/seanpm2001/Portable-Progress-Bar/) | [:octocat: `🌐️ OpenAd Specification`](https://github.com/seanpm2001/OpenAd-Specification/) | [:octocat: `🌐️ Satan Software Suite`](https://github.com/seanpm2001/Satan-Software-Suite/) |
+| **ℹ️ Some other projects aren't listed yet** | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 
 </details> <!-- End of classic Markdown-styled public project table !-->
@@ -4967,12 +4979,12 @@ _End of private projects section._
 
 **📄️ Plain text project listing**
 
-> **Last updated:** `2025, Thursday, September 11th` (**File version:** `V196`)
+> **Last updated:** `2025, Saturday, November 1st` (**File version:** `V197`)
 
-- **Project count:** `314` (**as of:** `2025, Thursday, September 11th`)
-- - **`🌐️` Public projects:** `298`
+- **Project count:** `315` (**as of:** `2025, Friday, October 31st`)
+- - **`🌐️` Public projects:** `299`
 - - **`🔒️` Private projects:** `16`
-- - **`⚖️` Ratio:** `94.90% public, 5.10% private`
+- - **`⚖️` Ratio:** `94.92% public, 5.08% private`
 - **Format:** repository name (but not project name) you should be able to add `https://github.com/seanpm2001/` to the beginning of each name, and be taken to the target repository (differentiate between underscores, hyphens, and no spaces/characters in between)
 - **Note:** May also include the actual names of private projects in the future.
 
@@ -5275,6 +5287,7 @@ The-Florida-Trail
 Kernel-Panic-Simulator
 Portable-Progress-Bar
 OpenAd-Specification
+Satan-Software-Suite
 ---
 CU
 FaTT
@@ -5477,12 +5490,12 @@ _End of What I'm currently working on section._
     <td>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `196 (2025, Thursday, September 11th at 06:05 pm PST)` <!-- TODO: This line should be updated daily !-->
-- **Line count (including blank lines and compiler line):** `6,754` <!-- This line doesn't need to be updated daily !-->
-- **Word count:** `051,727` <!-- TODO: This line should be updated daily !-->
-- **Character count (including spaces):** `383,072` <!-- TODO: This line should be updated daily !-->
-- **Character count (excluding spaces):** `340,973` <!-- TODO: This line should be updated daily !-->
-- **Size (in bytes):** `389,512` <!-- TODO: This line should be updated daily !-->
+- **File version:** `197 (2025, Saturday, November 1st at 04:54 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `6,791` <!-- This line doesn't need to be updated daily !-->
+- **Word count:** `052,058` <!-- TODO: This line should be updated daily !-->
+- **Character count (including spaces):** `385,282` <!-- TODO: This line should be updated daily !-->
+- **Character count (excluding spaces):** `342,924` <!-- TODO: This line should be updated daily !-->
+- **Size (in bytes):** `391,772` <!-- TODO: This line should be updated daily !-->
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -6442,6 +6455,8 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [x] Added the `Footer` section
 - [ ] No other changes in version 185
 
+</details> <!-- End of file history: V185 !-->
+
 ---
 
 ## Version 186 (2025, Saturday, July 12th at 07:04 pm PST)
@@ -6696,6 +6711,28 @@ Versions 139 and below are not documented here, as they were solely part of the 
 - [ ] No other changes in version 196
 
 </details> <!-- End of file history: V196 !-->
+
+---
+
+## Version 197 (2025, Saturday, November 1st at 04:54 pm PST)
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history entry for version 197</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _An update that adds support for the newly created Satan Software Suite project. This update was supposed to be published yesterday (Halloween, 2025, October 31st) but I ran out of time._
+
+> Changes:
+
+- [x] Updated the `Public projects` HTML5 table
+- - [x] 1 new project added
+- [x] Updated the `Plain text project listing` section
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 197
+- [ ] No other changes in version 197
+
+</details> <!-- End of file history: V197 !-->
 
 ---
 
