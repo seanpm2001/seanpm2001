@@ -296,6 +296,7 @@ The-Florida-Trail
 Kernel-Panic-Simulator
 Portable-Progress-Bar
 OpenAd-Specification
+Satan-Software-Suite
 ---
 CU
 FaTT
