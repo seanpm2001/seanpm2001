@@ -65,15 +65,21 @@
 
 - Currently unavailable
 
-| <img src="/404.jpeg" alt="Image failed to load" title="Image not found" width="474" height="316"> |
+| <img src="/Graphics/GitHub-Follower-Milestones/1900-Followers/1900FollowerMilestone_2025October28th_LightMode.png" alt="1,900 follower milestone image (light mode) failed to load" title="1,900 followers on GitHub" width="296" height="795"> |
 |---|
 | ***1,900 follower milestone*** |
+
+- **1.9k followers:** First reached on 2025, Tuesday, October 28th.
+
+| <img src="/404.jpeg" alt="Image failed to load" title="Image not found" width="474" height="316"> |
+|---|
+| ***2,000 follower milestone*** |
 
 - Coming soon
 
 | <img src="/404.jpeg" alt="Image failed to load" title="Image not found" width="474" height="316"> |
 |---|
-| ***2,000 follower milestone*** |
+| ***2,100 follower milestone*** |
 
 - Coming soon
 
@@ -151,7 +157,7 @@ _No other statistics sections available._
 
 # File info
 
-**File version:** `149 (2025, Thursday, October 16th at 04:52 pm PST)`
+**File version:** `150 (2025, Saturday, November 1st at 04:48 pm PST)`
 
 ***
 
