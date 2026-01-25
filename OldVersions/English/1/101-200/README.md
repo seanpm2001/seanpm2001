@@ -2,8 +2,8 @@
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2025-10-16"
-      - version: "v148"
+      - date: "2026-01-24"
+      - version: "v150"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -125,6 +125,95 @@ _Further instructions not yet available._
 <img src="/Graphics/Dividers/PNG/Warning-Divider_2500x250_V1_HighCompression.png" alt="Warning (black and yellow) divider" width="2500" height="25">
 
 <!-- *** !-->
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| 🔥 Burnout period (2025.12.30-present) 🔥 |
+|---|
+| You have likely noticed that my commit activity is down heavily lately (starting on 2025, November 24th, and intensifying on 2025, December 30th) it is currently the worst it has ever been. I am going through burnout, and currently struggling with all of my projects. |
+| I am currently trying to recover, it is going to take a lot of time and effort to bring operations back to normal. |
+| My current focuses are keeping caught up on a small set of projects, while I attempt to get caught up on my journal. |
+
+</details> <!-- End of section !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| 🧠 The "AI" question 🖥️ |
+|---|
+
+I am a digital artisan who does not use "AI" (Artificial Intelligence) in my works. I am committed to not using "AI" in any of my works, as it lacks originality. AI2001 is my only "AI" project, and it is currently on shaky grounds. More information on the Digital Artisan program will be published later this year. Any use of "AI" content will be made as clear as possible.
+
+This is not a Luddite/technophobic stance, nor is it Neo-Luddite stance. I am not trying to stay in the past. "AI" has some good uses, but right now, it is being overused with the wrong purposes, and the "AI" bubble is going to burst eventually. Humans should not try to obsolete themselves, and it is increasingly frustrating to not be able to tell whether something is genuine (man-made, with effort, and creativity) or some lazily made "AI" slop that has no effort, no soul, and no creativity. The Internet is being destroyed by "AI" slop, as it is being spammed everywhere, and bringing down sites with it (due to flooding them with garbage, and/or eating up all of their bandwidth, hence, why we have so many more verification checks on sites we visit)
+
+"AI" is also committing mass-scale Copyright infringement, this is not a reason in my opposition, as I believe in the public domain.
+
+Support artists. I am a digital artisan
+
+Digital Artisan level: II
+
+Again, more information on the Digital Artisan program will be published later this year.
+
+By the way, have you noticed that all software that implements/uses "AI" (and also some other software too) is starting to turn to absolute crap? Computers are becomingly increasingly frustrating to use, as they are experiencing bloated UI (dropdown menu within a dropdown menu, even when the first dropdown could have easily contained everything in the second dropdown without looking bad **cough** GNOME 46, Windows 11 **cough**) feature cuts, and decreased performance, even as hardware becomes more and more powerful. Sure, the systems of 2007 CE and below had their problems, but they worked really well (and in most cases, did much more in their UI) even on lower end hardware.
+
+</details> <!-- End of section !-->
+
+---
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+| ❓ SECRET PROJECT ❓ |
+|---|
+| 🖨️ Printer revolution ✊  |
+
+I am developing a printer project in secret, and am looking for developers and funding. The software will be free and open source, while the hardware will cost money (although blueprints will be open source) I feel it is unethical to sell software, and that it is ethical to sell hardware.
+
+**Special bundled software:**
+
+- Cura UltiMaker
+- Blender
+- CUPS
+- MainSail
+- Klipper
+- MarlinFirmware
+- Linux kernel
+- Fluidd
+- Slic3r
+- Moonraker
+
+**Promises:**
+
+- Guaranteed privacy
+- No DRM
+- No Vender Lock-in
+- No planned obsolescence
+- Always free (software)
+- Always open source (software and hardware)
+- No restrictions (on what you can print)
+- Right to repair guaranteed
+- Hardware longevity
+- Software longevity
+- Guaranteed ink cartridge compatibility
+
+_More information will be given out at a later time._
+
+**Funding goal:** `$2040` **/** `$72000` _(goal2 ($72k) in 2025.12.31 US Dollars)_
+
+**Goal tiers**
+
+- $30,000.00 - More information will be released
+- $50,000.00 - Blueprints will be released (once ready)
+- $72,000.00 - All info will go public, manufacturing will start for a select group
+- $85,000.00 - Permanent monthly sponsorship ($10 per month, per user/organization) for several printer projects (which include: OctoPrint, MainSail-Crew, Fluidd-Core, MarlinFirmware, UltiMaker, tobbelobb, Blender foundation, and more)
+
+Funds will go towards developing hardware, and paying programmers and engineers
+
+I have an old Epson printer to use for design reference (it is broken down)
+
+</details> <!-- End of section !-->
+
+---
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the banner]</b></p></summary>
 
@@ -4975,6 +5064,9 @@ See my year in review for:
 | _2022-2023_ | [`Year 3 (2022-2023)` **coming soon**](/Special/Year-in-Review/2022-2023/) 
 | _2023-2024_ | [`Year 4 (2023-2024)` **coming soon**](/Special/Year-in-Review/2023-2024/) 
 | _2024-2025_ | [`Year 5 (2024-2025)` **coming soon**](/Special/Year-in-Review/2024-2025/) 
+| _2025-2026_ | [`Year 6 (2025-2026)` **coming soon**](/Special/Year-in-Review/2025-2026/) 
+| _2026-2027_ | [`Year 7 (2026-2027)` **coming soon**](/Special/Year-in-Review/2024-2025/) 
+
 | 🗓️ **Year** | 📝️ **Review** |
 
 View this segment [in a separate file](/Segments/README-Usage/README.md)
@@ -5663,11 +5755,11 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `149 (2025, Thursday, October 16th at 04:56 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,215`
-- **Word count:** `060,855`
-- **Character count (with spaces):** `0,415,505 characters`
-- **Character count (without spaces)** `0,361,434 characters`
+- **File version:** `150 (2026, Saturday, January 24th at 04:04 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,319`
+- **Word count:** `061,780`
+- **Character count (with spaces):** `0,413,672 characters`
+- **Character count (without spaces)** `0,xxx,xxx characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -7217,11 +7309,21 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 150 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 150 (2026, Saturday, January 24th at 04:03 pm PST)</b></summary>
 
 > Changes:
 
-- [ ] Coming soon
+> **Note:** _This is the first update of the year 2026, and adds information regarding my burnout, "AI" projects, and a new secret project. Also changes the Copyleft year, because why not?._
+
+> Changes:
+
+- [x] Updated the GitHub YAML FrontMatter segment
+- [x] Added the `Burnout` section
+- [x] Added the `The AI question` section
+- [x] Added the `Secret printer project` section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 150
 - [ ] No other changes in version 150
 
 </details> <!-- End of V150 !-->
@@ -8195,7 +8297,9 @@ You have reached the end of this page.
 
 </details> <!-- End of footer !-->
 
-- **🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2025) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt) (⅃)**
+- **🄯 [Copyleft](https://www.gnu.org/licenses/copyleft.en.html) [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) (2020-2026) all wrongs reversed. This page is licensed under the [💳️ `GNU General Public License V3`](/LICENSE-GPL3.txt) (⅃)**
+
+**WARNING:** _Do NOT use the term "Intellectual" "Property" it is invalid legal jargon that is meant to confuse. Patents, Trademarks, and Copyright are all very different legal concepts, and should not be merged together. See also: [Komongistan (GNU)](https://www.gnu.org/philosophy/komongistan.html)_
 
 ### [🔚️ End of file](#-End-of-file)
 
