@@ -1,13 +1,14 @@
+
 ---
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2026-01-24"
-      - version: "v150"
+      - date: "2026-01-26"
+      - version: "v151"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
-- https://github.com/seanpm2001/seanwallawalla    
+- https://github.com/seanpm2001/seanwallawalla
 defaultPlatform: linux
 ---
 
@@ -134,6 +135,8 @@ _Further instructions not yet available._
 | I am currently trying to recover, it is going to take a lot of time and effort to bring operations back to normal. |
 | My current focuses are keeping caught up on a small set of projects, while I attempt to get caught up on my journal. |
 
+- [`View this section separately`](/Segments/Burnout-periodquestion/README.md)
+
 </details> <!-- End of section !-->
 
 ---
@@ -156,6 +159,12 @@ Digital Artisan level: II
 Again, more information on the Digital Artisan program will be published later this year.
 
 By the way, have you noticed that all software that implements/uses "AI" (and also some other software too) is starting to turn to absolute crap? Computers are becomingly increasingly frustrating to use, as they are experiencing bloated UI (dropdown menu within a dropdown menu, even when the first dropdown could have easily contained everything in the second dropdown without looking bad **cough** GNOME 46, Windows 11 **cough**) feature cuts, and decreased performance, even as hardware becomes more and more powerful. Sure, the systems of 2007 CE and below had their problems, but they worked really well (and in most cases, did much more in their UI) even on lower end hardware.
+
+Also, I am very disappointed with the actions GitHub is currently committing by including Grok (a known Neo-Nazi "AI" platform) into GitHub CoPilot. I don't use CoPilot, and never will, especially while it fuels the fascist Elon Musk.
+
+- [:octocat: `See this discussion (not by me) (community#171322)`](https://github.com/orgs/community/discussions/171322)
+
+- [`View this section separately`](/Segments/The-AI-question/README.md)
 
 </details> <!-- End of section !-->
 
@@ -207,9 +216,21 @@ _More information will be given out at a later time._
 - $72,000.00 - All info will go public, manufacturing will start for a select group
 - $85,000.00 - Permanent monthly sponsorship ($10 per month, per user/organization) for several printer projects (which include: OctoPrint, MainSail-Crew, Fluidd-Core, MarlinFirmware, UltiMaker, tobbelobb, Blender foundation, and more)
 
-Funds will go towards developing hardware, and paying programmers and engineers
+Funds will go towards developing hardware, and paying programmers and engineers. A production center is needed, and a valid blueprint is needed as well.
 
 I have an old Epson printer to use for design reference (it is broken down)
+
+<!-- Dev notes 2026.01.25
+TODO
+
+Rebuke of Twitter+Grok on GitHub
+List where the money goes (on the printer project)
+
+
+TODO
+!-->
+
+- [`View this section separately`](/Segments/Secret-project/README.md)
 
 </details> <!-- End of section !-->
 
@@ -5755,10 +5776,10 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `150 (2026, Saturday, January 24th at 04:04 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,319`
-- **Word count:** `061,780`
-- **Character count (with spaces):** `0,413,672 characters`
+- **File version:** `151 (2026, Monday, January 26th at 10:08 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,350`
+- **Word count:** `061,986`
+- **Character count (with spaces):** `0,414,945 characters`
 - **Character count (without spaces)** `0,xxx,xxx characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
@@ -7330,11 +7351,21 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 151 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 151 (2026, Monday, January 26th at 10:08 pm PST)</b></summary>
 
 > Changes:
 
-- [ ] Coming soon
+> **Note:** _This is the second update of the year 2026, and improves information regarding my burnout, "AI" projects, and a new secret project. I was going to do this yesterday, but I ran out of time._
+
+> Changes:
+
+- [x] Updated the GitHub YAML FrontMatter segment
+- [x] Updated the `Burnout` section
+- [x] Updated the `The AI question` section
+- [x] Updated the `Secret printer project` section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 151
 - [ ] No other changes in version 151
 
 </details> <!-- End of V151 !-->
