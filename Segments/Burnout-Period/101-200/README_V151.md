@@ -7,6 +7,6 @@
 | I am currently trying to recover, it is going to take a lot of time and effort to bring operations back to normal. |
 | My current focuses are keeping caught up on a small set of projects, while I attempt to get caught up on my journal. |
 
-- [`View this section separately`](/Segments/Burnout-period/README.md)
+- [`View this section separately`](/Segments/Burnout-periodquestion/README.md)
 
 </details> <!-- End of section !-->
