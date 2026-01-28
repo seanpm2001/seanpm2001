@@ -1,10 +1,9 @@
-
 ---
 entry:
     - about:
       - title: "@Seanpm2001 GitHub profile"
-      - date: "2026-01-26"
-      - version: "v151"
+      - date: "2026-01-27"
+      - version: "v152"
       - categories: "Bio | GitHub Bio"
       - comments: "Experimental user YAML frontmatter entry"
 redirect_from:
@@ -135,7 +134,7 @@ _Further instructions not yet available._
 | I am currently trying to recover, it is going to take a lot of time and effort to bring operations back to normal. |
 | My current focuses are keeping caught up on a small set of projects, while I attempt to get caught up on my journal. |
 
-- [`View this section separately`](/Segments/Burnout-periodquestion/README.md)
+- [`View this section separately`](/Segments/Burnout-Period/README.md)
 
 </details> <!-- End of section !-->
 
@@ -162,9 +161,17 @@ By the way, have you noticed that all software that implements/uses "AI" (and al
 
 Also, I am very disappointed with the actions GitHub is currently committing by including Grok (a known Neo-Nazi "AI" platform) into GitHub CoPilot. I don't use CoPilot, and never will, especially while it fuels the fascist Elon Musk.
 
+The :octocat: GitHub community should act before GitHub [`becomes a Nazi bar]`(https://en.wiktionary.org/wiki/Nazi_bar/)
+
+<details><summary><p><b>Definition of Nazi Bar (Wiktionary) (contains swearing)</b></p></summary>
+
+Popularized by an anecdote shared by Michael B. Tager (@IamRageSparkle) on Twitter in July 2020. Tager recounted visiting a "shitty crustpunk bar" where he saw a patron abruptly expelled: the bartender explained that the man was wearing "iron crosses and stuff", and that he feared such patrons would become regulars and start bringing friends if not promptly kicked out, which would lead him to realize "oh shit, this is a Nazi bar now" only after the unwanted patrons became too "entrenched" to kick out without trouble. (Instances of people noting that if a bar starts serving Nazis other customers stop going and it becomes a Nazi bar are older.) 
+
+</details>
+
 - [:octocat: `See this discussion (not by me) (community#171322)`](https://github.com/orgs/community/discussions/171322)
 
-- [`View this section separately`](/Segments/The-AI-question/README.md)
+- [`View this section separately`](/Segments/The-AI-Question/README.md)
 
 </details> <!-- End of section !-->
 
@@ -193,21 +200,25 @@ I am developing a printer project in secret, and am looking for developers and f
 
 **Promises:**
 
-- Guaranteed privacy
-- No DRM
+- Guaranteed privacy (no telemetry, no tracking, no backdoors)
+- No DRM (Digital Restrictive Measures)
 - No Vender Lock-in
 - No planned obsolescence
 - Always free (software)
 - Always open source (software and hardware)
-- No restrictions (on what you can print)
+- No restrictions (on what you can print, even if what you printed is considered illegal (it is **your** printing press, you are free to do what you want with it, and it is solely your responsibility. Since there isn't any tracking, there is no way to tell what you printed, and no way to report it))
 - Right to repair guaranteed
 - Hardware longevity
 - Software longevity
 - Guaranteed ink cartridge compatibility
+- The purchaser of the printer is the owner of the printer (it is not Hardware as a Service Substitute (HaaSS) nor is it Software as a Service Substitute (SaaSS))
 
 _More information will be given out at a later time._
 
-**Funding goal:** `$2040` **/** `$72000` _(goal2 ($72k) in 2025.12.31 US Dollars)_
+**Funding goal:** `$2040.25` (ref1) **/** `$72000.00` (ref2) _(goal2 ($72k) in 2024.12.31 US Dollars)_
+
+- - (ref1) in modern currency (including inflation)
+- - (ref2) in 2024, December 31st currency value
 
 **Goal tiers**
 
@@ -220,17 +231,7 @@ Funds will go towards developing hardware, and paying programmers and engineers.
 
 I have an old Epson printer to use for design reference (it is broken down)
 
-<!-- Dev notes 2026.01.25
-TODO
-
-Rebuke of Twitter+Grok on GitHub
-List where the money goes (on the printer project)
-
-
-TODO
-!-->
-
-- [`View this section separately`](/Segments/Secret-project/README.md)
+- [`View this section separately`](/Segments/Secret-Project/README.md)
 
 </details> <!-- End of section !-->
 
@@ -5776,10 +5777,10 @@ For now, it can be viewed [here instead](/Segments/Explore-this-repository/READM
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `151 (2026, Monday, January 26th at 10:08 pm PST)`
-- **Line count (including blank lines and compiler line):** `08,350`
-- **Word count:** `061,986`
-- **Character count (with spaces):** `0,414,945 characters`
+- **File version:** `152 (2026, Tuesday, January 27th at 06:42 pm PST)`
+- **Line count (including blank lines and compiler line):** `08,360`
+- **Word count:** `062,312`
+- **Character count (with spaces):** `0,416,898 characters`
 - **Character count (without spaces)** `0,xxx,xxx characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
@@ -7372,11 +7373,20 @@ View this segment [in a separate file](/Segments/File-info/README.md)
 
 ---
 
-<details><summary><b lang="en">Version 152 (Coming soon)</b></summary>
+<details><summary><b lang="en">Version 152 (2026, Tuesday, January 27th at 06:42 )</b></summary>
 
 > Changes:
 
-- [ ] Coming soon
+> **Note:** _This is the third update of the year 2026, and improves information regarding my "AI" projects, and a new secret project. This update was made, as I made a breaking syntax error on the first line of the file, and some links weren't named correctly. These have all been fixed._
+
+> Changes:
+
+- [x] Updated the GitHub YAML FrontMatter segment (made it functional again)
+- [x] Updated the `The AI question` section
+- [x] Updated the `Secret printer project` section
+- [x] Updated the file info section
+- [x] Updated the file history section
+- - [x] Added an entry for version 152
 - [ ] No other changes in version 152
 
 </details> <!-- End of V152 !-->
