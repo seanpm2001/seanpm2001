@@ -3,9 +3,11 @@
 
 # GitHub social links
 
-<details><summary><p><b>Click/tap here to expand/collapse this table</b></p></summary>
+<details><summary><p><b>Click/tap here to expand/collapse older entries</b></p></summary>
 
 ## 2020 (unknown date) — 2023 February 3rd
+
+<details><summary><p><b>Click/tap here to expand/collapse this table</b></p></summary>
 
 | Site | Link |
 |---|---|
@@ -41,7 +43,7 @@ On 2023, February 3rd, I found that Mastodon can be linked on GitHub with a uniq
 
 As of 2023, February 4th, I am considering adding links to my Reddit account, and my alternative GitHub account, and possibly my Discord server.
 
-## 2023 August 13th — Present
+## 2023 August 13th — 2025, December 31st
 
 <details open><summary><p><b>Click/tap here to expand/collapse this table</b></p></summary>
 
@@ -52,18 +54,36 @@ As of 2023, February 4th, I am considering adding links to my Reddit account, an
 | :freecodecamp: | [`https://www.freecodecamp.org/Seanpm2001`](https://www.freecodecamp.org/Seanpm2001) |
 | :khanacademy: | [`https://www.khanacademy.org/profile/seanwallawallaofficial`](https://www.khanacademy.org/profile/seanwallawallaofficial) |
 
+On 2023, Sunday, August 13th, as part of updating my GitHub profile further, I added 2 social links. These new links currently don't have custom icons, but are relevant for inclusion.
+
 </details>
 
-| [The links, from 2023, Sunday, August 13th onward](/Social-Links/2023.08.13/) |
+</details> <!-- End of old entries !-->
+
+## 2026, January 1st — Present
+
+On 2026, Tuesday, January 1st, I removed the Khan Academy link, and added a link to my MicroNations Wiki user page, as I stopped using Khan Academy before 2023, and felt that this one was more relevant, as I am founding a micronation codenamed RON/NNA (the actual name is currently private)
+
+This update was made 30 days late, as I have been struggling with burnout, and am gradually (but very, very slowly) regaining control of my projects.
+
+<details open><summary><p><b>Click/tap here to expand/collapse this table</b></p></summary>
+
+| Site | Link |
+|---|---|
+| :mastodon: | [`@seanpm2001@techhub.social`](https://techhub.social/@seanpm2001) |
+| :github: | [`https://github.com/seanwallawalla/`](https://github.com/seanwallawalla/) |
+| :freecodecamp: | [`https://www.freecodecamp.org/Seanpm2001`](https://www.freecodecamp.org/Seanpm2001) |
+| :micronations-wiki: | [`https://micronations.wiki/wiki/User:Seanpm2001`](https://micronations.wiki/wiki/User:Seanpm2001)) |
+
+</details>
+
+| [The links, from 2026, Tuesday, January 1st onward](/Social-Links/2026.01.01/) |
 |---|
-
-On 2023, Sunday, August 13th, as part of updating my GitHub profile further, I added 3 social links. These new links currently don't have custom icons, but are relevant for inclusion.
-
 
 ***
 
 # File info
 
-**File version:** `2 (2023, Sunday, August 13th at 7:10 pm PST)`
+**File version:** `3 (2026, Saturday, January 31st at 09:48 pm PST)`
 
 ***
