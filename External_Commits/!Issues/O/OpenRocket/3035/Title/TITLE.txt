@@ -1,0 +1,1 @@
+[Snapcraft, Ubuntu 24.04] Fresh install, components missing, simulation and 3D views don't work #3035
