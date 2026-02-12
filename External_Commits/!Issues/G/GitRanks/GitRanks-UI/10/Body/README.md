@@ -1,0 +1,1 @@
+Currently, only users are indexed here. If you try to index an organization (such as @FreeCodeCamp) it will say that the user was not found. I feel organizations should be indexed, but they should be separated from the rest of the users, and explicitly listed as an organization, and there should be a separate ranking system for organizations as well.
