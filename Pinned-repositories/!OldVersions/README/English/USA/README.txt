@@ -7,15 +7,21 @@ The pinned repositories displayed on my GitHub profile.
 
 ## [:octocat: `@Seanpm2001`](https://github.com/seanpm2001/)
 
-### Current (2025, Saturday, August 9th—Present)
+### Current (2026, May 31st—Present)
+
+| <COL1> | <COL2> |
+|---|---|
+| [:octocat: `seanpm2001/Documentation`](https://github.com/seanpm2001/Documentation/) | [:octocat: `seanpm2001/SNU`](https://github.com/seanpm2001/SNU/) |
+| [:octocat: `seanpm2001/DeGoogle-your-Life`](https://github.com/seanpm2001/Degoogle-your-life/) | [:octocat: `seanpm2001/SNU_2D_ProgrammingTools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) |
+| [:octocat: `seanpm2001/Flag-Simulator`](https://github.com/seanpm2001/Flag-Simulator) | [:octocat: `seanpm2001/qMeadows`](https://github.com/seanpm2001/qMeadows/) |
+
+### Past2 (2025, Saturday, August 9th—2026, May 31st)
 
 | <COL1> | <COL2> |
 |---|---|
 | [:octocat: `seanpm2001/Documentation`](https://github.com/seanpm2001/Documentation/) | [:octocat: `seanpm2001/SNU`](https://github.com/seanpm2001/SNU/) |
 | [:octocat: `seanpm2001/DeGoogle-your-Life`](https://github.com/seanpm2001/Degoogle-your-life/) | [:octocat: `seanpm2001/SNU_2D_ProgrammingTools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) |
 | [:octocat: `seanpm2001/AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `seanpm2001/Flag-Simulator`](https://github.com/seanpm2001/Flag-Simulator) |
-
-### Past1 (UNKNOWN—2025, Friday, August 8th)
 
 > **Note:** _The order may not be correct._
 
@@ -25,9 +31,19 @@ The pinned repositories displayed on my GitHub profile.
 | [:octocat: `seanpm2001/Its-time-to-cut-WideVine-DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/) | [:octocat: `seanpm2001/Code-Distancing/`](https://github.com/seanpm2001/Code-distancing/) |
 | [:octocat: `seanpm2001/SNU`](https://github.com/seanpm2001/SNU/) | [:octocat: `seanpm2001/SNU_2D_ProgrammingTools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) |
 
+### Past1 (2025, Saturday, August 9th—Present)
+
+| <COL1> | <COL2> |
+|---|---|
+| [:octocat: `seanpm2001/Documentation`](https://github.com/seanpm2001/Documentation/) | [:octocat: `seanpm2001/SNU`](https://github.com/seanpm2001/SNU/) |
+| [:octocat: `seanpm2001/DeGoogle-your-Life`](https://github.com/seanpm2001/Degoogle-your-life/) | [:octocat: `seanpm2001/SNU_2D_ProgrammingTools`](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) |
+| [:octocat: `seanpm2001/AI2001`](https://github.com/seanpm2001/AI2001/) | [:octocat: `seanpm2001/Flag-Simulator`](https://github.com/seanpm2001/Flag-Simulator) |
+
 ### Even further (UNKNOWN—UNKNOWN)
 
 No data is currently available.
+
+***
 
 ## [:octocat: `@SeanWallaWalla`](https://github.com/seanwallawalla/)
 
@@ -47,6 +63,6 @@ No data is currently available.
 
 # File info
 
-**File version:** `1 (2025, Sunday, August 10th at 08:18 pm PST)`
+**File version:** `2 (2026, Monday, June 15th at 02:04 pm PST)`
 
 ***
